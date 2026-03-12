@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 1",
+    "subject": "History",
+    "philosophy": "Contrary to the widely accepted perception, History is much more than just teaching about early creatures, wars, empires and famous events. History provides us with the data that is used to create laws, or theories about various aspects of society. The study of history is a non-negotiable aspect of better citizenship. People that push for citizenship history want to promote a strong national identity and even national loyalty through the teaching of lessons of individual and collective success. There is need to realign the teaching of History in Secondary Schools with the aspirations of society. Studying History at secondary level also lays a strong base for venturing into other branches of academia. It is against this back-drop that the 2024 History Syllabus has been developed. To produce young people with a critical mindset – capable of debating, examining and interpreting national and global issues in the light of past events. Ultimately, we will have a citizenly that will be able to provide well-informed solutions to today's world including the attainment of what is espoused in a number of international instruments to which Zambia is a signatory. When individuals understand the significance of their nation's past, they are more likely to participate in its future. History equips individuals with the tools they need to contribute to the development of their nation in meaningful ways.",
+    "competence_learning": "This syllabus allows for learners to not only acquire knowledge but also apply the (knowledge) skills, values, and attitudes to solve situations they encounter in everyday life. Further, the syllabus emphasises what learners are expected to do rather than mainly focusing on what they are expected to know. At the beginning of each form level (1, 2, 3 and 4), there are competencies and descriptors to be developed by the learners.",
+    "goals": [
+      "Analytical Thinking",
+      "Citizenship",
+      "Collaboration",
+      "Communication",
+      "Creativity and Innovation",
+      "Critical Thinking",
+      "Digital",
+      "Emotional Intelligence",
+      "Entrepreneurship",
+      "Environmental Sustainability",
+      "Financial Education",
+      "Problem Solving"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "1.1",
+      "topic_title": "INTRODUCTION TO HISTORY",
+      "page_number": 15,
+      "subtopics": [
+        "1.1.1 Reasons for Learning History",
+        "1.1.2 Local History"
+      ],
+      "specific_outcomes": [
+        "1.1.1.1 Communicate relevance of past events",
+        "1.1.2.1 Interpret local history"
+      ]
+    },
+    {
+      "unit": "1.1",
+      "topic_title": "INTRODUCTION TO HISTORY",
+      "page_number": 16,
+      "subtopics": [
+        "1.1.3 Types or Branches of History",
+        "1.1.4 Sources of History"
+      ],
+      "specific_outcomes": [
+        "1.1.3.1 Classify types or branches of history",
+        "1.1.4.1 Assess credibility of sources of historical information"
+      ]
+    },
+    {
+      "unit": "1.2",
+      "topic_title": "MEASURING TIME IN HISTORY",
+      "page_number": 17,
+      "subtopics": [
+        "1.1.5 Learning about the past using digital resources",
+        "1.2.1 Periods of Time",
+        "1.2.2 Importance of Chronology in History",
+        "1.2.3 Constructing a timeline"
+      ],
+      "specific_outcomes": [
+        "1.1.5.1 Apply digital resources in learning about the past",
+        "1.2.1.1 Explore patterns of historical durations",
+        "1.2.2.1 Arrange series of related events in chronological order",
+        "1.2.3.1 Apply chronology in writing time line"
+      ]
+    },
+    {
+      "unit": "1.2",
+      "topic_title": "MEASURING TIME IN HISTORY",
+      "page_number": 18,
+      "subtopics": [
+        "1.2.4 The use of Abbreviations to denote Historical Periods"
+      ],
+      "specific_outcomes": [
+        "1.2.4.1 Use abbreviations (BC/BCE and AD/CE) to denote historical periods"
+      ]
+    },
+    {
+      "unit": "1.3",
+      "topic_title": "THE ORIGINS OF MAN (HUMAN BEING)",
+      "page_number": 18,
+      "subtopics": [
+        "1.3.1 Views on the Origins of Man"
+      ],
+      "specific_outcomes": [
+        "1.3.1.1 Analyse religious and scientific views on the origins of man"
+      ]
+    },
+    {
+      "unit": "1.4",
+      "topic_title": "STONE AGE",
+      "page_number": 19,
+      "subtopics": [
+        "1.4.1 The Way of Life in Stone Age",
+        "1.4.2 Stone Age Sites in Zambia"
+      ],
+      "specific_outcomes": [
+        "1.4.1.1 Draw lessons from Stone Age way of life",
+        "1.4.2.1 Assess importance of Stone Age sites in Zambia"
+      ]
+    },
+    {
+      "unit": "1.5",
+      "topic_title": "THE BEGINNING AND SPREAD OF IRON-WORKING AND FARMING",
+      "page_number": 19,
+      "subtopics": [
+        "1.5.1 Development of Iron-Technology and Farming"
+      ],
+      "specific_outcomes": [
+        "1.5.1.1 Analyse impact of Iron technology in farming"
+      ]
+    },
+    {
+      "unit": "1.6",
+      "topic_title": "THE BANTU SPEAKING PEOPLE",
+      "page_number": 20,
+      "subtopics": [
+        "1.6.1 Early Bantu Settlement in Africa",
+        "1.6.2 Bantu Migrations into Zambia"
+      ],
+      "specific_outcomes": [
+        "1.6.1.1 Locate origins of Bantu Speaking People in Africa",
+        "1.6.2.1 Use knowledge of common origins of Zambian people to promote National unity"
+      ]
+    },
+    {
+      "unit": "1.6",
+      "topic_title": "THE BANTU SPEAKING PEOPLE",
+      "page_number": 21,
+      "subtopics": [
+        "1.6.3 Decentralised Societies in Pre Colonial Zambia",
+        "1.6.4 Centralised Societies in Pre-Colonial Zambia"
+      ],
+      "specific_outcomes": [
+        "1.6.3.1 Analyse features of decentralised societies",
+        "1.6.4.1 Integrate features of Centralised Societies in modern Zambian society"
+      ]
+    },
+    {
+      "unit": "1.7",
+      "topic_title": "NATIONAL HERITAGE SITES IN ZAMBIA",
+      "page_number": 22,
+      "subtopics": [
+        "1.7.1 Heritage Sites in Zambia",
+        "1.7.2 Importance of Heritage Sites"
+      ],
+      "specific_outcomes": [
+        "1.7.1.1 Promote heritage sites",
+        "1.7.2.1 Utilise business opportunities found in national heritage sites"
+      ]
+    },
+    {
+      "unit": "1.7",
+      "topic_title": "NATIONAL HERITAGE SITES IN ZAMBIA",
+      "page_number": 23,
+      "subtopics": [
+        "1.7.3 Conservation of Heritage Sites"
+      ],
+      "specific_outcomes": [
+        "1.7.3.1 Conserve historical sites"
+      ]
+    },
+    {
+      "unit": "1.8",
+      "topic_title": "TRADITIONAL CEREMONIES IN ZAMBIA",
+      "page_number": 24,
+      "subtopics": [
+        "1.8.1 Traditional Ceremonies in Zambia"
+      ],
+      "specific_outcomes": [
+        "1.8.1.1 Analyse importance of traditional ceremonies"
+      ]
+    }
+  ]
+}

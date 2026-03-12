@@ -1,0 +1,620 @@
+{
+    "subject": "Lunda",
+    "grade": "Form 1",
+    "term": 3,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "YUMA YALEMA YAKWATA ITUÑA (Things of value for the nation)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Kuhanjeka (Discussion)",
+                    "page": 16,
+                    "competences": [
+                        "Kuzatisha mazu amawahi hakuhanjeka hansañu yinakwati hachihandilu chawantu (Yuma yinateli kukwasha antu kuzata nikushakama chiwahi mwiluña dawu)",
+                        "Use appropriate vocabulary to discuss topics related to human life (Things that help people live well in their country)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.1",
+                            "page": 16,
+                            "hook": "Ihulaku atudizi alumbululi chiyelañawu munyikala neyi antu anadivulumuni hela anaboboli muntu wumu namukwawu",
+                            "teacher_steps": [
+                                "Ambulaku atudizi mumazanvu",
+                                "Alezhi atudizi ahanjiki hayuma yinatweshi kukwasha antu kuzata nikushakama chiwahi mwiluña dawu"
+                            ],
+                            "learner_steps": [
+                                "Ahanjiki hayuma yinatweshi kukwasha antu kuzata nikushakama chiwahi mwiluña dawu"
+                            ],
+                            "short_notes": "Kuhanjeka hamutu wudi wezhima hayuma yinakwati kuchihandilu chawantu (Yuma yinateli kukwasha antu kuzata nikushakama chiwahi mwiluña dawu) mumazanvu. Yuma yidi neyi; kukeña, kavumbi, kuzatila hamu, kwikala na walala, kuzata nañovu niyuma yikwawu."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.2",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alezhi atudizi kufuma mumazanvu kwinza kumbidi nakulumbulula yuma yinahanjikuwu mumazanvu (kukeña, walala, kavumbi, kuzatila hamu, kuzata nañovu, niyuma yikwawu)"
+                            ],
+                            "learner_steps": [
+                                "Kwinza kumbidi nakulumbulula yuma yinahanjikuwu mumazanvu"
+                            ],
+                            "short_notes": "Kulumbulula nsañu zhinahanjikewi mumazanvu."
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "Kazata nañovu",
+                            "definition": "Good behavior"
+                        },
+                        {
+                            "term": "Kukeña",
+                            "definition": "Love/to love"
+                        },
+                        {
+                            "term": "Kovwahila",
+                            "definition": "To respect"
+                        },
+                        {
+                            "term": "Nlomboli",
+                            "definition": "Teacher/educator"
+                        },
+                        {
+                            "term": "Wunlomboli",
+                            "definition": "Teaching/education"
+                        },
+                        {
+                            "term": "Kudinuña",
+                            "definition": "To care for"
+                        },
+                        {
+                            "term": "Kuzatila hamu",
+                            "definition": "To work together"
+                        },
+                        {
+                            "term": "Walala",
+                            "definition": "Truth/honesty"
+                        },
+                        {
+                            "term": "Kalemesha",
+                            "definition": "Good character"
+                        },
+                        {
+                            "term": "Kavumbi",
+                            "definition": "Unity"
+                        },
+                        {
+                            "term": "Wukatu",
+                            "definition": "Responsibility"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 17,
+                        "questions": [
+                            "Yuma yahanjikewa mumazanvu yinalumbululewi chaloña"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Mazu akutaña - Mwalumbulukila mazu (Vocabulary - Word meanings)",
+                    "page": 18,
+                    "competences": [
+                        "Kuzatisha mazu akutaña ahachipimu chawu",
+                        "Use vocabulary according to their standard"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.1",
+                            "page": 18,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alezhi atudizi ahanjiki mwalumbulukila mazu akutaña"
+                            ],
+                            "learner_steps": [
+                                "Ahanjiki mwalumbulukila mazu akutaña"
+                            ],
+                            "short_notes": "Kuhanjeka hamazu akutaña anasakulewi (mumazanvu)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.2",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alezhi nsoneki wumu wumu kufuma mumazanvu kwinza kumbidi nakushimuna mwalumbulukila mazu anahanjikuwu"
+                            ],
+                            "learner_steps": [
+                                "Ashimuni mwalumbulukila mazu anahanjikuwu"
+                            ],
+                            "short_notes": "Kushimuna mwalumbulukila mazu akutaña."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.3",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alezhi atudizi azatishi mazu akutaña asakulewa munyikuku yamazu"
+                            ],
+                            "learner_steps": [
+                                "Azatishi mazu akutaña asakulewa munyikuku yamazu"
+                            ],
+                            "short_notes": "Kuzatisha mazu akutaña asakulewa munyikuku yamazu."
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "Kushindamena",
+                            "definition": "To depend on"
+                        },
+                        {
+                            "term": "Wukatu",
+                            "definition": "Responsibility"
+                        },
+                        {
+                            "term": "Kuyuula",
+                            "definition": "To listen/obey"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 19,
+                        "questions": [
+                            "Mazu akutaña asakulewa anahanjekewi chatelela",
+                            "Mazu akutaña asakulewa analumbululewi chaloña",
+                            "Mazu akutaña asakulewa anazatishewi munyikuku yamazu chaloña"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "Kutaña kwakunama - Kutaña nakanañachima (Intensive reading - Reading with comprehension)",
+                    "page": 19,
+                    "competences": [
+                        "Kutaña nsañu yinamboki yahachipimu chawu nakuyitiyishisha",
+                        "Read various texts according to their standard and comprehend them"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.1",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alezhi atudizi atañi nsañu yidi mwishina nakuyitiyishisha"
+                            ],
+                            "learner_steps": [
+                                "Atañi nsañu yidi mwishina nakuyitiyishisha"
+                            ],
+                            "short_notes": "Yuma yakutukwasha mushakamini nimunzatilu yetu. Iluña hiluña mwekalaña anlomboli alombolañamu. Wunlomboli weniwu wekala muyedi. Kwekala wunlomboli wawukatu niwunlomboli wakubula wukatu..."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.2",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alezhi atudizi kwakula malwihu adi mwishina"
+                            ],
+                            "learner_steps": [
+                                "Akuli malwihu"
+                            ],
+                            "short_notes": "Kwakula malwihu amboka."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.3",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alezhi atudizi kwihihishi nsañu yinatañuwu"
+                            ],
+                            "learner_steps": [
+                                "Ehihishi nsañu yinatañuwu"
+                            ],
+                            "short_notes": "Kwihihisha nsañu yinatañuwu."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.4",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alezhi atudizi kusoneka nsañu yoyimu yinatañewi munzhila yikwawu"
+                            ],
+                            "learner_steps": [
+                                "Asoneki nsañu yoyimu yinatañuwu munzhila yikwawu"
+                            ],
+                            "short_notes": "Kusoneka nsañu yinatañewi munzhila yikwawu."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.5",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alezhi atudizi kuhanjika mwalumbulukila mazu akutaña"
+                            ],
+                            "learner_steps": [
+                                "Ahanjiki mwalumbulukila mazu akutaña"
+                            ],
+                            "short_notes": "Kuhanjeka mwalumbulukila mazu akutaña."
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 22,
+                        "questions": [
+                            "Izwinyi diwunatañi muniyi nsañu dalumbuluka nawu ntwamina?",
+                            "Kufumishaku amayala nawambanda, tenakuhu nyichidi yikwawu yiwana yawantu awanikaña mwiluña denu",
+                            "Sonekaku yuma yiyedi yamwekanaña kudi nlomboli wawukatu",
+                            "Yumanyi yitanu yiwunatañi yinatweshi kukwasha antu kushakama chachiwahi nakuzatila hamu?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4",
+                    "title": "Kutañila Hewulu - Kutaña kwakuwahi (Reading aloud - Fluent reading)",
+                    "page": 23,
+                    "competences": [
+                        "Kutaña mazu amboka ahachipimu chawu chachiwahi",
+                        "Read various texts fluently according to their standard"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.1",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alezhi atudizi atañili nsañu hewulu nakashinshi, nampinji nakumwekesha kukulukila"
+                            ],
+                            "learner_steps": [
+                                "Atañili nsañu hewulu nakashinshi, nampinji nakumwekesha kukulukila"
+                            ],
+                            "short_notes": "Kutañila nsañu hewulu nakashinshi, nampinji nakumwekesha kukulikila."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.2",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alezhi atudizi kwakula malwihu mukuhosha"
+                            ],
+                            "learner_steps": [
+                                "Akuli malwihu mukuhosha"
+                            ],
+                            "short_notes": "Kwakula malwihu mukuhosha."
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 23,
+                        "questions": [
+                            "Nsañu yinatañewi hewulu chachiwahi",
+                            "Malwihu ehulewa anakulewi mukuhosha chaloña"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.5",
+                    "title": "Kusoneka - Katuñi kakutontolola (antu) (Writing - Descriptive essay about people)",
+                    "page": 24,
+                    "competences": [
+                        "Kusoneka katuñi kakutontolola (antu)",
+                        "Write descriptive essay about people"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5.1",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alumbulwili atudizi mwakusonekela katuñi kakutontolola (antu)",
+                                "Alezhi atudizi ahanjiki mwakusonekela katuñi kakutontolola(antu)"
+                            ],
+                            "learner_steps": [
+                                "Ahanjeki chekala niyuma yawanikaña mukusoneka katuñi kakutontolola (antu)"
+                            ],
+                            "short_notes": "Yuma yatela kuwanika mukatuñi kakutontolola: Mutu wansañu, Kulumbulula, Muzhimba wansañu, Kukunkulula. Hakusoneka watela: Kutoñozhoka, Kufukula, Kusoneka, Kuhitulukamu"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5.2",
+                            "page": 25,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alezhi atudizi kusoneka katuñi kakutontolola chekala mukulumpi washikola yawu"
+                            ],
+                            "learner_steps": [
+                                "Asoneki katuñi kakutontolola chekala mukulumpi washikola yawu"
+                            ],
+                            "short_notes": "Kusoneka katuñi kakutontolola muntu."
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 25,
+                        "questions": [
+                            "Chekala niyuma yawanikaña mukusoneka katuñi kakutontolola yinahanjikewi mwatelela",
+                            "Katuñi kakutontozhola chekala mukulumpi washikola yawu kanasonekewi mwatelela"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.6",
+                    "title": "Mwaya idimi - Ntachikilu, kahakachi ni insa yamazu (Language structure - Prefixes, infixes and suffixes)",
+                    "page": 25,
+                    "competences": [
+                        "Kuzatisha ntachikilu ni insa nakutuña mazu",
+                        "Use prefixes and suffixes to form words"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.1",
+                            "page": 25,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Sonekaku mazu hachibasa nakulezha atudizi mwalumbulukila nimwazatikilaña ntachikilu,kahakachi ni insa yamazu"
+                            ],
+                            "learner_steps": [
+                                "Ashimuni mwalumbulukila ni mwazatikilaña ntachikilu ni insa"
+                            ],
+                            "short_notes": "Chitalilu: Muntu-munidi izu 'mu' diyu ntachikilu 'tu' diyu insa. Chizembi-munidi izu 'chi' diyu ntachikilu 'mbi' diyu insa. Wunakudila-munidi izu 'na' diyu kahakachi."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.2",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Sonekaku mazu hachibasa kulonda atudizi awani ntachikilu, kahakachi ni insa"
+                            ],
+                            "learner_steps": [
+                                "Awani ntachikilu, kahakachi ni insa yamazu adi hachibasa"
+                            ],
+                            "short_notes": "Kuwana nyichidi yantachikilu, kahakachi ni insa yamazu."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.3",
+                            "page": 27,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alezhi atudizi ambuli ntachikilu, kahakachi ni insa yamazu kweseka nanyichidi yachu"
+                            ],
+                            "learner_steps": [
+                                "Ambuli ntachikilu, kahakachi ni insa yamazu kweseka nanyichidi yachu"
+                            ],
+                            "short_notes": "Kwambula ntachikilu, kahakachi ni insa yamazu kweseka na nyichidi yachu."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.4",
+                            "page": 27,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alezhi atudizi kutuña mazu kuzatisha ntachikilu, kahakachi ni insa"
+                            ],
+                            "learner_steps": [
+                                "Atuñi mazu kuzatisha ntachikilu, kahakachi ni insa"
+                            ],
+                            "short_notes": "Kutuña mazu kuzatisha ntachikilu, kahakachi ni insa."
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "Ntachikilu",
+                            "definition": "Prefix"
+                        },
+                        {
+                            "term": "Kahakachi",
+                            "definition": "Infix"
+                        },
+                        {
+                            "term": "Insa",
+                            "definition": "Suffix"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Mwalumbulukila ni mwazatikilaña ntachikilu ni nsa yamazu munalumbululewi chaloña",
+                            "Nyichidi ya ntachikilu, kahakachi ni insa yamazu yinawanewi muchatelela",
+                            "Ntachikilu, kahakachi ni insa yamazu yinambulewi chaloña",
+                            "Mazu anatuñewi choloka kuzatisha ntachikilu, kahakachi ni insa"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.7",
+                    "title": "Nhoshelu (Proverbs/Sayings)",
+                    "page": 27,
+                    "competences": [
+                        "Kuzatisha nhoshelu",
+                        "Use proverbs appropriately"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.1",
+                            "page": 27,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ambulaku atudizi mumazanvu kulonda ahanjiki mwalumbulukila nhoshelu nimwakuyizatishila"
+                            ],
+                            "learner_steps": [
+                                "Ahanjiki nakushimuna mwalumbulukila nhoshelu ni muyazatikilaña kweseka nachitalilu"
+                            ],
+                            "short_notes": "Nhoshelu: Kulumbulula, Muyazatikilaña. Mesu neyi katubwa - Mesu indi atooka - Kulumbulula muntu wukweti mesu atooka nankashi. Mutu neyi ikuñu - Mutu windi weneni - Kulumbulula muntu wukweti mutu weneni. Mesu neyi muñanzhi - Mesu indi achinana - Kulumbulula muntu wukweti mesu achinana"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.2",
+                            "page": 28,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alezhi atudizi kwambuzhola nhoshelu kweseka namuyazatikilaña"
+                            ],
+                            "learner_steps": [
+                                "Ambuzholi nhoshelu kweseka namuyazatikilaña"
+                            ],
+                            "short_notes": "Kwambula nhoshelu kweseka na muyazatikilaña. Welaña dinu wutooki. Iwu muntu himutupa. Mazewu neyi mpumba. Kayombu nadiñizhi mwizhiku."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.3",
+                            "page": 29,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alezhi atudizi kuwana nhoshelu yatelela kuzatisha kweseka nansañu yinamwekani"
+                            ],
+                            "learner_steps": [
+                                "Awani nhoshelu yatelela kuzatisha kweseka nansañu yinamwekani"
+                            ],
+                            "short_notes": "Kuwana nhoshelu yatela kuzatisha kweseka nansañu yinamwekani."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.4",
+                            "page": 29,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alezhi atudizi kuwana nsañu yinamwekani hatelela kuzatikila nhoshelu"
+                            ],
+                            "learner_steps": [
+                                "Awani nsañu hatelela kuzatishila nhoshelu"
+                            ],
+                            "short_notes": "Kuwana nsañu yinamwekani hatelela kuzatikila nhoshelu."
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 30,
+                        "questions": [
+                            "Mwalumbulukila nhoshelu ni muyazatikilaña munahanjikewi chatelela",
+                            "Nhoshelu yinambulewi kweseka na muyazatikilaña",
+                            "Nhoshelu yatelela kuzatisha hansñu yinamwekani yinawanewi chaloña",
+                            "Nsañu hatela kuzatishila nhoshelu yinawanewi chaloña"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.8",
+                    "title": "Kubalumuna nsañu - Nzhila zhakubalumwinamu nsañu (Translation - Translation methods)",
+                    "page": 30,
+                    "competences": [
+                        "Kuzatisha nzhila zhamboka hakubalumuna nsañu kufuma mu Chizungu nakutwala mu Lunda ni kufuma mu Lunda nakutwala mu Chizungu",
+                        "Use various methods to translate from English to Lunda and from Lunda to English"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.8.1",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alezhi atudizi abalumuni iyi nsañu yidi mu Chizungu nakutwala mu Lunda"
+                            ],
+                            "learner_steps": [
+                                "Abalumuni nsañu kufuma muChizungu nakutwala mu Lunda"
+                            ],
+                            "short_notes": "Governance in Pre-Colonial Zambia: Governance is as old as humanity. All societies on earth had at least one form of governance or another. Societies such as the Ngonis, Bembas, Tumbukas, Lozis and Lundas were ruled by Kings. Rulers had absolute power over people..."
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 31,
+                        "questions": [
+                            "Nzhila zhamboka-mboka zhakubalumwinamu nsañu kufuma mumuchidi wumu kuwunakufumina nakutwala mumuchidi wukwawu kunabalumunewi chaloña"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "NSAÑU ZHEMENA HAWALALA NIHAYITOÑOZHOKA (Facts and Opinions)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Kuhanjeka - Nsañu zhemena hawalala ni hayitoñozhoka (Discussion - Facts and opinions)",
+                    "page": 33,
+                    "competences": [
+                        "Ambulaku nsañu yemena haWalala kufuma muyitoñozhoka kuhitila mukuhanjeka, Muyihosha hela mukupompa",
+                        "Distinguish facts from opinions through discussion, speech or debate"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.1",
+                            "page": 33,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ashi atudizi mumazanvu",
+                                "Atudizi asakuli nsoneki ni muketanda wezanvu",
+                                "Alezhi atudizi ambuli nsañu yemena hawalala ni hayitoñozhoka (Mumukanda waNzambi mwawanikaña hohu yuma yakuzañalesha, Mukanda wa Nzambi diwu ikuñulwilu danyikanda yezhima)"
+                            ],
+                            "learner_steps": [
+                                "Ambuli nsañu zhinemeni hawalala ni hayitoñozhoka"
+                            ],
+                            "short_notes": "Kwambula nsañu zhinemeni hawalala ni hayitoñozhoka. Chitalilu: 1.Mumukanda waNzambi mwawanikaña hohu yuma yakuzañalesha 2.Mukanda waNzambi diwu chikuñulwilu chanyikanda yezhima."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.2",
+                            "page": 34,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alezhi atudizi ashimuni nsañu zhemena hawalala ni hayitoñozhoka"
+                            ],
+                            "learner_steps": [
+                                "Ashimuni nsañu zhemena hawalala nihayitoñozhoka"
+                            ],
+                            "short_notes": "Kushimuna nsañu zhemena hawalala ni hayitoñozhoka."
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "Walala",
+                            "definition": "Truth/facts"
+                        },
+                        {
+                            "term": "Yitoñozhoka",
+                            "definition": "Opinions/beliefs"
+                        },
+                        {
+                            "term": "Mukanda wa Nzambi",
+                            "definition": "Bible"
+                        },
+                        {
+                            "term": "Chikuñulwilu",
+                            "definition": "Index"
+                        },
+                        {
+                            "term": "Zambia",
+                            "definition": "Zambia"
+                        },
+                        {
+                            "term": "Munza",
+                            "definition": "Community/society"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 34,
+                        "questions": [
+                            "Nsañu zhemena hawalala zhinambulewi kufuma kunsañu zhemena hayitoñozhoka chatelela",
+                            "Nsañu zhemena hawalala nihayitoñozhoka zhinashimunewi chaloña"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

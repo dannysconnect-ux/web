@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 3",
+    "subject": "Mathematics I",
+    "philosophy": "",
+    "competence_learning": "",
+    "goals": []
+  },
+  "topics": [
+    {
+      "unit": "3.1",
+      "topic_title": "INDEX NOTATION",
+      "page_number": 30,
+      "subtopics": [
+        "3.1.1 Indices"
+      ],
+      "specific_outcomes": [
+        "3.1.1.1 Use index notation in problem solving"
+      ]
+    },
+    {
+      "unit": "3.2",
+      "topic_title": "SHAPES",
+      "page_number": 30,
+      "subtopics": [
+        "3.2.1 Two Dimensional Shapes (circle)",
+        "3.2.2 Three Dimensional Shapes"
+      ],
+      "specific_outcomes": [
+        "3.2.1.1 Use the concept of Two-dimensional shapes in real life situations",
+        "3.2.2.1 Use the concept of Three-dimensional shapes in real life situations"
+      ]
+    },
+    {
+      "unit": "3.3",
+      "topic_title": "SYMMETRY",
+      "page_number": 31,
+      "subtopics": [
+        "3.3.1 Symmetry of 2 Dimensional Shapes",
+        "3.3.2 Symmetry in 3 Dimensional Shapes"
+      ],
+      "specific_outcomes": [
+        "3.3.1.1 Apply the concept of 2-Dimensional symmetry in real life context",
+        "3.3.2.1 Apply the concept of 3-Dimensional symmetry in real life context"
+      ]
+    },
+    {
+      "unit": "3.4",
+      "topic_title": "CONSTRUCTION",
+      "page_number": 32,
+      "subtopics": [
+        "3.4.1 Geometrical Constructions"
+      ],
+      "specific_outcomes": [
+        "3.4.1.1 Apply geometric construction in real life"
+      ]
+    },
+    {
+      "unit": "3.5",
+      "topic_title": "LOCUS",
+      "page_number": 32,
+      "subtopics": [
+        "3.5.1 Loci in Two Dimensions"
+      ],
+      "specific_outcomes": [
+        "3.5.1.1 Use locus of points in a variety of real-life situations"
+      ]
+    },
+    {
+      "unit": "3.6",
+      "topic_title": "SIMILARITY AND CONGRUENCE",
+      "page_number": 33,
+      "subtopics": [
+        "3.6.1 Similar Figures",
+        "3.6.2 Congruent Figures"
+      ],
+      "specific_outcomes": [
+        "3.6.1.1 Apply concept of similar figures in real life context",
+        "3.6.2.1 Apply concept of Congruent figures in real life context"
+      ]
+    },
+    {
+      "unit": "3.7",
+      "topic_title": "STATISTICS",
+      "page_number": 34,
+      "subtopics": [
+        "3.7.1 Cumulative Frequency and Measures of Dispersion"
+      ],
+      "specific_outcomes": [
+        "3.7.1.1 Use statistics in real life to make informed decisions"
+      ]
+    },
+    {
+      "unit": "3.8",
+      "topic_title": "BEARINGS AND SCALE DRAWING",
+      "page_number": 35,
+      "subtopics": [
+        "3.8.1 Compass and Three Figure Bearings"
+      ],
+      "specific_outcomes": [
+        "3.8.1.1 Use bearings in real life"
+      ]
+    },
+    {
+      "unit": "3.9",
+      "topic_title": "VARIATIONS",
+      "page_number": 36,
+      "subtopics": [
+        "3.9.1 Types of Variations"
+      ],
+      "specific_outcomes": [
+        "3.9.1.1 Apply variations to solve real world problems"
+      ]
+    },
+    {
+      "unit": "3.10",
+      "topic_title": "MATRICES",
+      "page_number": 36,
+      "subtopics": [
+        "3.10.1 Operations on 2x2 Matrices"
+      ],
+      "specific_outcomes": [
+        "3.10.1.1 Apply the concept Matrices to solve a variety of real-life problems."
+      ]
+    }
+  ]
+}

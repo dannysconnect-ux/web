@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "10",
+    "subject": "BIOLOGY 5090",
+    "philosophy": "",
+    "competence_learning": "Demonstrate the ability to prepare and examine specimen using a microscope. Show ability to carry out food tests from given food samples. Demonstrate the ability to investigate the conditions necessary for photosynthesis. Demonstrate the ability to control the spread of diarrhoea and malarial diseases by houseflies and mosquitoes respectively.",
+    "goals": [
+      "Develop positive attitudes and values about living organisms and life processes.",
+      "Demonstrate knowledge and investigative skills.",
+      "Develop positive attitudes and values about animals and plant cells.",
+      "Demonstrate understanding of the facts about the interaction of water with cells.",
+      "Demonstrate an understanding of the facts about enzymes.",
+      "Recognise the importance of nutrients to the health of living organisms.",
+      "Demonstrate understanding of facts about photosynthesis.",
+      "Demonstrate understanding of saprophytic nutrition.",
+      "Develop an understanding about the basic facts of nutrition in animals",
+      "Recognise the importance of gaseous exchange and health",
+      "Demonstrate an understanding of respiration."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "10.1",
+      "topic_title": "LIVING ORGANISMS AND LIFE PROCESSES",
+      "page_number": 13,
+      "subtopics": [
+        "10.1.1 Characteristics of Living Organisms"
+      ],
+      "specific_outcomes": [
+        "10.1.1.1 Identify the characteristics of living organisms.",
+        "10.1.1.2 Distinguish between living organisms and non-living things.",
+        "10.1.1.3 Describe life processes of living organisms."
+      ]
+    },
+    {
+      "unit": "10.2",
+      "topic_title": "CELL STRUCTURE AND ORGANISATION",
+      "page_number": 13,
+      "subtopics": [
+        "10.2.1 Microscopes"
+      ],
+      "specific_outcomes": [
+        "10.2.1.1 Demonstrate the correct use of a microscope",
+        "10.2.1.2 Prepare specimen using a microscope",
+        "10.2.1.3 Calculate magnification of specimen."
+      ]
+    },
+    {
+      "unit": "10.2",
+      "topic_title": "CELL STRUCTURE AND ORGANISATION",
+      "page_number": 14,
+      "subtopics": [
+        "10.2.2 Cell Structure and Function",
+        "10.2.3 Cell Organisation"
+      ],
+      "specific_outcomes": [
+        "10.2.2.1 Investigate the structure of cells and functions of the organelles",
+        "10.2.2.2 Distinguish between plant and animal cell structure.",
+        "10.2.2.3 Relate cell structure to functions",
+        "10.2.3.1 Describe cell organisation in multicellular organisms."
+      ]
+    },
+    {
+      "unit": "10.2",
+      "topic_title": "CELL STRUCTURE AND ORGANISATION",
+      "page_number": 15,
+      "subtopics": [
+        "10.2.4 Tissues",
+        "10.2.5 Organs"
+      ],
+      "specific_outcomes": [
+        "10.2.4.1 Identify tissues in plants and animals.",
+        "10.2.4.2 Explain the general functions of each tissue",
+        "10.2.5.1 Identify organs in plants and animals",
+        "10.2.5.2 Explain the general function of each organ"
+      ]
+    },
+    {
+      "unit": "10.2",
+      "topic_title": "CELL STRUCTURE AND ORGANISATION",
+      "page_number": 16,
+      "subtopics": [
+        "10.2.6 Diffusion, Osmosis and Active transport."
+      ],
+      "specific_outcomes": [
+        "10.2.6.1 Describe the processes of diffusion and osmosis",
+        "10.2.6.2 Explain the effects and importance of diffusion and osmosis in living organisms",
+        "10.2.6.3 Describe what active transport is."
+      ]
+    },
+    {
+      "unit": "10.3",
+      "topic_title": "ENZYMES",
+      "page_number": 17,
+      "subtopics": [
+        "10.3.1 Characteristics of enzymes"
+      ],
+      "specific_outcomes": [
+        "10.3.1.1 Investigate characteristics of Enzymes.",
+        "10.3.1.2 Demonstrate the effects of temperature and pH on enzyme action",
+        "10.3.1.3 Explain industrial application of enzymes."
+      ]
+    },
+    {
+      "unit": "10.4",
+      "topic_title": "NUTRIENTS",
+      "page_number": 18,
+      "subtopics": [
+        "10.4.1 Classes of Nutrients",
+        "10.4.2 Disorders",
+        "10.4.3 Dietary Needs"
+      ],
+      "specific_outcomes": [
+        "10.4.1.1 Investigate the presence of nutrients in food samples.",
+        "10.4.1.2 Identify good sources of nutrients",
+        "10.4.2.1 Describe the importance of nutrients, salts, vitamins and roughage to the body.",
+        "10.4.2.2 Identify nutritional related disorders/conditions",
+        "10.4.3.1 Design a balanced diet for people with different conditions."
+      ]
+    },
+    {
+      "unit": "10.4",
+      "topic_title": "NUTRIENTS",
+      "page_number": 19,
+      "subtopics": [
+        "10.4.4 Plant Nutrients"
+      ],
+      "specific_outcomes": [
+        "10.4.4.1 Describe the micro and macro plant nutrients",
+        "10.4.4.2 Describe deficiency diseases of macro and micro plant nutrients."
+      ]
+    },
+    {
+      "unit": "10.5",
+      "topic_title": "NUTRITION IN PLANTS",
+      "page_number": 20,
+      "subtopics": [
+        "10.5.1 External and Internal Structure of a Leaf."
+      ],
+      "specific_outcomes": [
+        "10.5.1.1 Describe the external and internal structure of a leaf.",
+        "10.5.1.2 Investigate factors necessary for photosynthesis.",
+        "10.5.1.3 Describe the light and dark reactions of photosynthesis.",
+        "10.5.1.4 Describe the fate of glucose in plants.",
+        "10.5.1.5 Describe the importance of nutrients in plant.",
+        "10.5.1.6 Identify storage organs of plants."
+      ]
+    },
+    {
+      "unit": "10.6",
+      "topic_title": "SAPROPHYTIC NUTRITION",
+      "page_number": 21,
+      "subtopics": [
+        "10.6.1 Rhizopus"
+      ],
+      "specific_outcomes": [
+        "10.6.1.1 Investigate the structure of Rhizopus or Mucor.",
+        "10.6.1.2 State the functions of the parts of Rhizopus.",
+        "10.6.1.3 Describe what saprophytic nutrition is.",
+        "10.6.1.4 Explain the importance of saprophytic nutrition.",
+        "10.6.1.5 State other types of saprophytic nutrition."
+      ]
+    },
+    {
+      "unit": "10.7",
+      "topic_title": "NUTRITION IN ANIMALS",
+      "page_number": 22,
+      "subtopics": [
+        "10.7.1 Dentition in Mammals",
+        "10.7.2 Holozoic Nutrition"
+      ],
+      "specific_outcomes": [
+        "10.7.1.1 Identify the external structure and function of the human teeth.",
+        "10.7.1.2 Describe the internal structure and function of the human tooth.",
+        "10.7.1.3 Describe the dental formulae of a dog and human being.",
+        "10.7.1.4 Identify the differences in dentition of carnivores, herbivores and omnivores.",
+        "10.7.1.5 Describe causes, signs and symptoms of gum disease and tooth decay.",
+        "10.7.2.1 State the main processes in holozoic nutrition.",
+        "10.7.2.2 Identify the main regions of the alimentary canal and associated organs."
+      ]
+    },
+    {
+      "unit": "10.7",
+      "topic_title": "NUTRITION IN ANIMALS",
+      "page_number": 23,
+      "subtopics": [
+        "10.7.2 Holozoic Nutrition"
+      ],
+      "specific_outcomes": [
+        "10.7.2.3 Describe the processes of digestion, absorption and assimilation of nutrients.",
+        "10.7.2.4 Investigate the common ailments of the alimentary canal.",
+        "10.7.2.5 Describe the metabolic functions of the liver.",
+        "10.7.2.6 Describe the effects of common ailments of the liver."
+      ]
+    },
+    {
+      "unit": "10.8",
+      "topic_title": "RESPIRATORY SYSTEM",
+      "page_number": 24,
+      "subtopics": [
+        "10.8.1 Gaseous exchange"
+      ],
+      "specific_outcomes": [
+        "10.8.1.1 Describe the respiratory organs of animals.",
+        "10.8.1.2 Describe the mechanism of gaseous exchange in animals.",
+        "10.8.1.3 Describe the composition of inspired and expired air.",
+        "10.8.1.5 Describe the adverse effects of air pollutants on health of human beings.",
+        "10.8.1.6 Explain gaseous exchange in green plants."
+      ]
+    },
+    {
+      "unit": "10.8",
+      "topic_title": "RESPIRATORY SYSTEM",
+      "page_number": 25,
+      "subtopics": [
+        "10.8.2 Types of Respiration"
+      ],
+      "specific_outcomes": [
+        "10.8.2.1 Describe types of tissue respiration.",
+        "10.8.2.2 Describe the production of adenosine triphosphate.",
+        "10.8.2.3 Investigate the production of carbon dioxide during respiration.",
+        "10.8.2.4 State ways in which respiration is important.",
+        "10.8.2.5 Explain the industrial applications of respiration"
+      ]
+    },
+    {
+      "unit": "10.9",
+      "topic_title": "HEALTH",
+      "page_number": 26,
+      "subtopics": [
+        "10.9.1 Diseases",
+        "10.9.2 HIV and AIDS"
+      ],
+      "specific_outcomes": [
+        "10.9.1.1 Describe what good health is.",
+        "10.9.1.2 Define disease.",
+        "10.9.1.3 Describe various types of diseases",
+        "10.9.1.4 Describe causative agents, signs and symptoms, methods of transmission and control.",
+        "10.9.2.1 Describe ways of HIV transmission",
+        "10.9.2.2 Explain the dangers of having multiple sexual partners."
+      ]
+    },
+    {
+      "unit": "10.9",
+      "topic_title": "HEALTH",
+      "page_number": 27,
+      "subtopics": [
+        "10.9.2 HIV and AIDS",
+        "10.9.3 Immunity",
+        "10.9.4 The Life Cycle"
+      ],
+      "specific_outcomes": [
+        "10.9.2.3 Describe ways of safe sexual practices.",
+        "10.9.2.4 Identify the causes of stigma to people living with HIV and AIDS",
+        "10.9.2.5 Describe ways of reducing discrimination to people living with HIV and AIDS.",
+        "10.9.3.1 Explain the term of immunity to disease.",
+        "10.9.3.2 Investigate the importance of the immune system.",
+        "10.9.3.3 Describe the factors that reduce immunity to pathogenic diseases",
+        "10.9.3.4 Explain the importance of immunisation.",
+        "10.9.4.1 Describe the life cycle of a housefly."
+      ]
+    },
+    {
+      "unit": "10.9",
+      "topic_title": "HEALTH",
+      "page_number": 28,
+      "subtopics": [
+        "10.9.4 The Life Cycle"
+      ],
+      "specific_outcomes": [
+        "10.9.4.2 Describe the life cycle of a mosquito.",
+        "10.9.4.3 Explain the role of houseflies and mosquitoes in the spreading of diseases.",
+        "10.9.4.4 Relate the control of malaria to the life cycle of the mosquito.",
+        "10.9.4.5 Relate the control of water borne diseases to the life cycle of the housefly."
+      ]
+    }
+  ]
+}

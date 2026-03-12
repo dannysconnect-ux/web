@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "FORM 2",
+    "subject": "Agricultural Science",
+    "philosophy": "The Ordinary level Agricultural Science Syllabus has been reviewed in order to provide a national age-appropriate curriculum for learners at Form 1 to 4. The syllabus aims to provide quality education that is aligned with the Competence-Based Curriculum and 21st Century Skills. It aims to impart the knowledge, skills, values and positive attitudes that will enable learners to live and grow into productive and useful members of their communities and the Zambian society at large.",
+    "competence_learning": "The methodology of teaching Agricultural Science should embrace the three-circle model which is made up of: classroom/laboratory inquiry-based instruction, supervised agriculture experience and study tours to farms and other agribusiness industries. The approach to teaching and learning is learner-centred, emphasising hands-on and minds-on experiences through manipulation of real objects, interaction with nature and learning through research and practical work.",
+    "goals": [
+      "Acquire competences required for productive and profitable agriculture through practice and experiential learning.",
+      "Appreciate the importance of agriculture in the socio-economic development of Zambia.",
+      "Acquire data-based decision making skills through the scientific principles of observation, data collection, analysis and interpretation of results.",
+      "Recognise agriculture as a business and a viable livelihood option.",
+      "Develop positive attitudes, interests, habits and good practices in agriculture and agriculture related fields.",
+      "Recognise job opportunities in agriculture and agriculture related fields.",
+      "Acquire techniques for efficient management of agribusinesses.",
+      "Acquire knowledge and skills needed for further training in agriculture and agriculture related fields.",
+      "Produce competitive agricultural products."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "2.1.0",
+      "topic_title": "Agriculture in Zambia",
+      "page_number": 11,
+      "subtopics": [
+        "2.1.1 Land Tenure Systems and Land Use"
+      ],
+      "specific_outcomes": [
+        "2.1.1.1 Interpret the land tenure systems and land use in Zambia"
+      ]
+    },
+    {
+      "unit": "2.2.0",
+      "topic_title": "Soil Science",
+      "page_number": 11,
+      "subtopics": [
+        "2.2.1 Soil Fertility (Nutrient Cycles)"
+      ],
+      "specific_outcomes": [
+        "2.2.1.1 Demonstrate understanding of nutrient cycles"
+      ]
+    },
+    {
+      "unit": "2.3.0",
+      "topic_title": "Climate-Smart Agriculture",
+      "page_number": 12,
+      "subtopics": [
+        "2.3.1 Climate Change Impact on Agriculture and Food Security"
+      ],
+      "specific_outcomes": [
+        "2.3.1.1 Demonstrate understanding of the relationship of climate change, agriculture and food security"
+      ]
+    },
+    {
+      "unit": "2.4.0",
+      "topic_title": "Farm Structures and Machinery",
+      "page_number": 12,
+      "subtopics": [
+        "2.4.1 Farm Buildings",
+        "2.4.2 Animal and Tractor Drawn Implements"
+      ],
+      "specific_outcomes": [
+        "2.4.1.1 Construct farm structures",
+        "2.4.2.1 Operate animal and tractor drawn implements"
+      ]
+    },
+    {
+      "unit": "2.5.0",
+      "topic_title": "Crop Production",
+      "page_number": 13,
+      "subtopics": [
+        "2.5.1 External and Internal Morphology of Plants",
+        "2.5.2 Field Crop Production"
+      ],
+      "specific_outcomes": [
+        "2.5.1.1 Demonstrate understanding of external and internal morphology of plants",
+        "2.5.2.1 Grow cereal crops"
+      ]
+    },
+    {
+      "unit": "2.6.0",
+      "topic_title": "Livestock Production",
+      "page_number": 15,
+      "subtopics": [
+        "2.6.1 Poultry Production in Zambia",
+        "2.6.2 Pig Production"
+      ],
+      "specific_outcomes": [
+        "2.6.1.1 Demonstrate understanding of poultry production",
+        "2.6.1.2 Demonstrate understanding of anatomy and physiology for poultry livestock",
+        "2.6.1.3 Rear broiler chickens to maturity",
+        "2.6.1.4 Rear layer chickens to production age",
+        "2.6.2.1 Demonstrate understanding of pig production",
+        "2.6.2.2 Demonstrate understanding of anatomy and physiology of pigs",
+        "2.6.2.3 Manage the pig from birth to slaughter weight"
+      ]
+    },
+    {
+      "unit": "2.7.0",
+      "topic_title": "Farm Management",
+      "page_number": 20,
+      "subtopics": [
+        "2.7.1 Farm as a Business Unit"
+      ],
+      "specific_outcomes": [
+        "2.7.1.1 Demonstrate understanding of a farm as a business"
+      ]
+    }
+  ]
+}

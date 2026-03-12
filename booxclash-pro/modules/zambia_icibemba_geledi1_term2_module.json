@@ -1,0 +1,2624 @@
+{
+    "subject": "Icibemba",
+    "grade": "Geledi 1",
+    "term": 2,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "UKULANSHANYA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Ukulanshanya",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Ukulanshanya palwa nsambu shabantu",
+                    "page": 0,
+                    "competences": [
+                        "Ukuibimba mukulanshanya ukubomfya imiseela iyapwililika"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 1,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Abasambi balanshanye na ifibusa palwa nsambu shabantu Expected: Insambu shabantu shalanshanishiwa na ifibusa mukulungika"
+                        }
+                    ],
+                    "short_notes": "Abasambi balanshanye na ifibusa palwa nsambu shabantu Expected: Insambu shabantu shalanshanishiwa na ifibusa mukulungika",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "Ukwishiba Ifilundwa fya Mashiwi",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.4",
+                    "title": "Ifilundwa fya mashiwi mukulandefye",
+                    "page": 0,
+                    "competences": [
+                        "Ukulanda ifilundwa ifili mu mashiwi (kw-, fw-, mb-, mf -)",
+                        "Ukwishiba amashiwi ayali mumiseela",
+                        "Ukubelenga ifilundwa mukwikatisha",
+                        "Ukubiika ifilundwa pamo pakupanga amashiwi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "abasambi bangale ubwangalo bwakutoota pakulanga ifilundwa mu mashiwi Expected: Ubwangalo bwakutoota ifilundwa mu mashiwi bwaangalwa bwino-"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 3,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga amashiwi mukulanda ukubomfya ifilundwa Expected: Amashiwi mukulanda yapangwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwangala amangalo yakucinja na ukufumyamo ifilundwa mu mashiwi Expected: Amangalo ya kufumyapo na ukucinja ifilundwa mu mashiwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 5,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukuputaula amashiwi mu miseela iyakulandafye Expected: Imiseela yakulandafye yaakanishiwa mu mashiwi mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 6,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga ifilundwa kwa, kwe, kwi Expected: Ifilundwa fya mashiwi fyabelengwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga caati ya filundwa Expected: Caati ya filundwa yabelengwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 7,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukusobolola ifilundwa (kwa kwe kwi) Expected: Ifilundwa fyasobololwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 8,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubiika ifilundwa pamo pakupanga amashiwi Expected: Ifilundwa fyabiikwa pamo pakupanga amashiwi mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukucinja na ukufumyako ifilundwa kumashiwi Expected: Ifilundwa fya cinjishiwa na ukufuutwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 9,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanda ifilundwa mumashiwi Expected: Ifilundwa mumashiwi fyaishibikwa bwino- bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupenda ifilundwa mu mashiwi Expected: Ifilundwa mumashiwi fyapendwa mukulungika"
+                        }
+                    ],
+                    "short_notes": "abasambi bangale ubwangalo bwakutoota pakulanga ifilundwa mu mashiwi Expected: Ubwangalo bwakutoota ifilundwa mu mashiwi bwaangalwa bwino- Ukupanga amashiwi mukulanda ukubomfya ifilundwa Expected: Amashiwi mukulanda yapangwa mukulungika",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.5",
+                    "title": "Ukubelenga",
+                    "page": 0,
+                    "competences": [
+                        "Ukubelenga imiseela mukwikatisha ukukonka amatoni"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga amashiwi Expected: Amashiwi yabelengwa bwino-bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga ifyo balembele Expected: Ifyo balembele fyabelengwa busaka-busaka"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 12,
+                            "hook": "a. Bushe nikwi usambilila? ………………………..",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga na ukumfwikisha imiseela iipi Expected: Imiseela iipi yabelengwa na ameepusho yaasukwa mukulungika"
+                        }
+                    ],
+                    "short_notes": "Ukubelenga amashiwi Expected: Amashiwi yabelengwa bwino-bwino Ukubelenga ifyo balembele Expected: Ifyo balembele fyabelengwa busaka-busaka",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.6",
+                    "title": "Ukumfwa na Ukwasuka",
+                    "page": 13,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.7",
+                    "title": "Ukwilula ifili mu lyashi",
+                    "page": 13,
+                    "competences": [
+                        "Ukwilula ifili mu lyashi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 13,
+                            "hook": "a. Bushe kabwe ekala na bani? ……………………………",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwilula ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyailulwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 14,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupalanya ubwikashi bwabo kulyashi lya pali Kabwe Expected: Ilyashi bomfwile lyapalanishiwa kubwikashi bwabo bwino-bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanda inshila yakusangilamo ubupilibulo bwa mashiwi ayashishibikwe bwino Expected: Ubupilibulo bwa mashiwi bwalandwa mukulungika"
+                        }
+                    ],
+                    "short_notes": "Ukwilula ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyailulwa mukulungika Ukupalanya ubwikashi bwabo kulyashi lya pali Kabwe Expected: Ilyashi bomfwile lyapalanishiwa kubwikashi bwabo bwino-bwino",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.8",
+                    "title": "Ifishinka Ifili mu Lyashi",
+                    "page": 0,
+                    "competences": [
+                        "Ukufwaya ifishinka ifili mu lyashi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanda ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyalandwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": "i.    Bushe nifinshi Chewe atemwa ukucita? …………………………..",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwasuka ameepusho pafyo bomfwile mulyashi Expected: Ameepusho yaasukwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ilyashi umo likonkanine Expected: Ifili mu lyashi fyalandwa umo fikonkanine mukulungika"
+                        }
+                    ],
+                    "short_notes": "Ukulanda ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyalandwa mukulungika Ukwasuka ameepusho pafyo bomfwile mulyashi Expected: Ameepusho yaasukwa mukulungika",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.9",
+                    "title": "Imilembele",
+                    "page": 18,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.10",
+                    "title": "Ukulemba Ifilembo",
+                    "page": 18,
+                    "competences": [
+                        "Ukulemba ifilembo",
+                        "Ukulemba amashiwi mu cilembo cimo-cimo",
+                        "Ukusha incende pa mashiwi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 18,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukukopolola ifilembo Expected: Ifilembo fyakopololwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulemba ifilembo Expected: Ifilembo fyalembwa bwino-bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukukopolola amashiwi mu cilembo cimo-cimo Expected: Amashiwi mu cilembo cimo-cimo yalembwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukukopolola na ukusha incende pamashiwi Expected: Imiseela yakopololwa na incende mu mashiwi shabikwa mukulungika"
+                        }
+                    ],
+                    "short_notes": "Ukukopolola ifilembo Expected: Ifilembo fyakopololwa mukulungika Ukulemba ifilembo Expected: Ifilembo fyalembwa bwino-bwino",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.11",
+                    "title": "Ukulenga",
+                    "page": 22,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga ilyashi ukubomfya ifikope Expected: Ifikope ifilepanga ilyashi fyalengwa mukulungika"
+                        }
+                    ],
+                    "short_notes": "Ukupanga ilyashi ukubomfya ifikope Expected: Ifikope ifilepanga ilyashi fyalengwa mukulungika",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "UKUPOSHANYA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Ukulanshanya",
+                    "page": 23,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Ukuposha",
+                    "page": 23,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwimba inyimbo shakuposha. Expected: Inyimbo shakuposhanya shaimbwa ubusaka-busaka"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukuposha panshita iyapusana- pusana (uluceelo, akasuba, icungulo) Expected: Imiposeshe ukulingana nenshita yakonkwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 24,
+                            "hook": "umunabo …. Ulishani? Abakalamba ----mulishani mukwai",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukuposha abantu abapusana-pusana Expected: Imiposeshe yaposhiwa ukulinga nemyaka mukulingiika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 25,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga akasela akakuposha abakalamba elyo na abaice banabo"
+                        }
+                    ],
+                    "short_notes": "Ukwimba inyimbo shakuposha. Expected: Inyimbo shakuposhanya shaimbwa ubusaka-busaka Ukuposha panshita iyapusana- pusana (uluceelo, akasuba, icungulo) Expected: Imiposeshe ukulingana nenshita yakonkwa mukulungika",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "Ifilundwa fya mashiwi ayakulandafye",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.4",
+                    "title": "Ukwishiba Ifiunda",
+                    "page": 0,
+                    "competences": [
+                        "Ukulanda ifilundwa ifili mu mashiwi ayakulandafye (lw-, nc-, nt-, nd-,",
+                        "Ukwishiba amashiwi ayali mu miseela",
+                        "ukubika imfumu na bakapaso pamo pakupanga ifilundwa",
+                        "Ukubiika ifilundwa pamo pakupanga amashiwi",
+                        "Ukubelenga amashiwi mukwikatisha",
+                        "Ukubelenga imiseela mukwikatisha ukukonka amatoni"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ubwangalo bwa kutoota pakufwaya ifilundwa mu mashiwi Expected: "
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 27,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga amashiwi mukulanda ukubomfya ifilundwa Expected: Amashiwi mukulanda yapangwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwangala amangalo yakucinja na ukufumyamo ifilundwa mu mashiwi Expected: Amangalo ya kufumyapo na ukucinja ifilundwa mu mashiwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 29,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukuputaula amashiwi mumiseela iyalakulandafye Expected: Imiseela yakulanda yaakanishiwa mumashiwi mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga caati ya filundwa Expected: Caati ya filundwa yabelengwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukusobolola ifilundwa Expected: Ifilundwa fyasobololwa mu kulungika Expected: Ifiunda fyacinjishiwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubiika ifilundwa pamo pakupanga amashiwi Expected: Ifilundwa fyabiikwa pamo mukulungika pakupanga amashiwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 32,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukucinja na ukufuuta ifilundwa Expected: Ifilundwa fya cinjishiwa na ukufuutwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwishiba ifilundwa mu mashiwi Expected: Ifilundwa mu mashiwi fyaishibikwa bwino- bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 33,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupenda ifilundwa mu mashiwi Expected: Ifilundwa mu mashiwi fyapendwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 34,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga amashiwi Expected: Amashiwi yabelengwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga ifyo balembele Expected: Ifyo balembele fyabelengwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 35,
+                            "hook": "a. Nimwi bakateeka baninine?........................................",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga na ukumfwikisha imiseela iipi Expected: Imiseela iipi yabelengwa na ameepusho yaasukwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga ilyashi ilikwete imiseela ibili nangula itatu Expected: Ilyashi ilipi lyabelengwa bwino-bwino"
+                        }
+                    ],
+                    "short_notes": "Ubwangalo bwa kutoota pakufwaya ifilundwa mu mashiwi Expected: Ukupanga amashiwi mukulanda ukubomfya ifilundwa Expected: Amashiwi mukulanda yapangwa mukulungika",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.5",
+                    "title": "Ukumfwa na Ukwasuka",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.6",
+                    "title": "Ukulondolola Ifili mu Lyashi",
+                    "page": 0,
+                    "competences": [
+                        "Ukulondolola ifili mu lyashi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 37,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ifyo bomfwile mu lyashi 37 Expected: Ifyo bomfwile mu lyashi fyailulwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 38,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupalanya ubwikashi bwabo kulyashi bomfwile Expected: Ilyashi bomfwile lyapalanishiwa bwino-bwino kubwikashi bwabo"
+                        }
+                    ],
+                    "short_notes": "Ukulondolola ifyo bomfwile mu lyashi 37 Expected: Ifyo bomfwile mu lyashi fyailulwa mukulungika Ukupalanya ubwikashi bwabo kulyashi bomfwile Expected: Ilyashi bomfwile lyapalanishiwa bwino-bwino kubwikashi bwabo",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.7",
+                    "title": "Ubupilibulo bwa Mashiwi",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanda inshila yakusangilamo ubupilibulo bwa mashiwi ayashishibikwe bwino Expected: Ubupilibulo bwa mashiwi bwalandwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 39,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwangala akasela ukubomfya ishiwi lya bushing’anga Expected: Akasela kapangwa bwino-bwino ukubomfya ishiwi lya bushing’anga"
+                        }
+                    ],
+                    "short_notes": "Ukulanda inshila yakusangilamo ubupilibulo bwa mashiwi ayashishibikwe bwino Expected: Ubupilibulo bwa mashiwi bwalandwa mukulungika Ukwangala akasela ukubomfya ishiwi lya bushing’anga Expected: Akasela kapangwa bwino-bwino ukubomfya ishiwi lya bushing’anga",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.8",
+                    "title": "Ifishinka ifili mu lyashi",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 40,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanda ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mulyashi fyalandwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": "a. Bushe nabani bali muli ili lyashi? …………………………..",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwasuka ameepusho pafyo bomfwile mu lyashi Expected: Ameepusho yaasukwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 41,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ilyashi umo likonkanine Expected: Ifili mu lyashi fyalandwa bwino-bwino ukulingana nomo fikonkanine"
+                        }
+                    ],
+                    "short_notes": "Ukulanda ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mulyashi fyalandwa mukulungika Ukwasuka ameepusho pafyo bomfwile mu lyashi Expected: Ameepusho yaasukwa mukulungika",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.9",
+                    "title": "Imilembele",
+                    "page": 42,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.10",
+                    "title": "Ukulemba Ifilembo",
+                    "page": 42,
+                    "competences": [
+                        "Ukulemba ifilembo",
+                        "Ukulemba amashiwi mu cilembo cimo-cimo",
+                        "Ukusha incende pa mashiwi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukukopolola ifilembo Expected: Ifilembo fyakopololwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 43,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulemba ifilembo Expected: Ifilembo fyalembwa bwino-bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 44,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukukopolola amashiwi mu cilembo cimo-cimo Expected: Amashiwi mu cilembo cimo-cimo yalembwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 45,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukukopolola na ukusha incende pakati ka mashiwi Expected: Imiseela yakopololwa na incende pakati ka mashiwi shabiikwa"
+                        }
+                    ],
+                    "short_notes": "Ukukopolola ifilembo Expected: Ifilembo fyakopololwa mukulungika Ukulemba ifilembo Expected: Ifilembo fyalembwa bwino-bwino",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.11",
+                    "title": "Ukulenga",
+                    "page": 46,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga ilyashi ukubomfya ifikope Expected: Ifikope ifilepanga ilyashi fyalengwe bwino-bwino"
+                        }
+                    ],
+                    "short_notes": "Ukupanga ilyashi ukubomfya ifikope Expected: Ifikope ifilepanga ilyashi fyalengwe bwino-bwino",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "UKUPASHANYA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Ukulanshanya",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "Ukupashanya",
+                    "page": 0,
+                    "competences": [
+                        "Ukuibimba mukupashanya"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupashanya na ifibusa pamafunde yesukulu Expected: Ukutalikishanya kwatungililwa ukulingana na icishinka cilipo"
+                        }
+                    ],
+                    "short_notes": "Ukupashanya na ifibusa pamafunde yesukulu Expected: Ukutalikishanya kwatungililwa ukulingana na icishinka cilipo",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.3",
+                    "title": "Ifilundwa fya mashiwi",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.4",
+                    "title": "Ifilundwa fya mashiwi mukulanfye",
+                    "page": 0,
+                    "competences": [
+                        "Ukulanda ifilundwa ifili mu mashiwi (tw-, ng’-, nj-, nw-)",
+                        "Ukwishiba amashiwi ayali mu miseela",
+                        "ukubiika imfumu na bakapaso pamo pakupanga ifilundwa",
+                        "Ukubiika ifilundwa pamo pakupanga amashiwi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 49,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanda ifilundwa ifili mu mashiwi ayakulandafye Expected: Ifilundwa ifili mu mashiwi fyalandwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ubwangalo bwakutoota pakufwaya ifilundwa mu mashiwi Expected: Ubwangalo bwakutoota ifilundwa mu mashiwi bwaangalwa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga amashiwi mukulandafye ukubomfya ifilundwa Expected: Amashiwi ayakulandafye yapangwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 51,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwangala amangalo yakucinja na ukufumyapo ifilundwa mu mashiwi Expected: Amangalo ya kufumyapo na ukucinja ifilundwa mu mashiwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 52,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukuputaula amashiwi mu miseela yalandwa Expected: Imiseela yakulanda yaakanishiwa mu mashiwi mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 53,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga ifilundwa ukubomfya ifiunda (bakapaso) na imfumu. Expected: Ifilundwa fyapangwa mukulungika ukubomfya bakapaso (ifiunda) na"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga caati ya filundwa Expected: Caati ya filundwa yabelengwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 54,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukusobolola ifilundwa Expected: Ifilundwa fyasobololwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 55,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubiika ifilundwa pamo pakupanga amashiwi Expected: Ifilundwa fyabiikwa pamo mukulungika pakupanga amashiwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukucinja na ukufuuta ifilundwa Expected: Ifilundwa fyacinjishiwa na ukufuutwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 56,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwishiba ifilundwa mu mashiwi Expected: Ifilundwa mu mashiwi fyaishibikwa bwino- bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupenda ifilundwa mu mashiwi Expected: Ifilundwa mu mashiwi fyapendwa mukulungika"
+                        }
+                    ],
+                    "short_notes": "Ukulanda ifilundwa ifili mu mashiwi ayakulandafye Expected: Ifilundwa ifili mu mashiwi fyalandwa mukulungika Ubwangalo bwakutoota pakufwaya ifilundwa mu mashiwi Expected: Ubwangalo bwakutoota ifilundwa mu mashiwi bwaangalwa",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.5",
+                    "title": "Ukubelenga Mukwikatisha",
+                    "page": 0,
+                    "competences": [
+                        "Ukubelenga amashiwi mukwikatisha"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 58,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga ifyo balembele Expected: Ifyo balembele fyabelengwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": "a. Bushe nani atwikile icoola?...............................................",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga na ukumfwikisha imiseela iipi Expected: Imiseela iipi yabelengwa na ameepusho yaasukwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga ilyashi ilikwete imiseela ibili nangula itatu Expected: Ilyashi ilipi lyabelengwa bwino-bwino"
+                        }
+                    ],
+                    "short_notes": "Ukubelenga ifyo balembele Expected: Ifyo balembele fyabelengwa mukulungika Ukubelenga na ukumfwikisha imiseela iipi Expected: Imiseela iipi yabelengwa na ameepusho yaasukwa mukulungika",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.6",
+                    "title": "Amashina",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.7",
+                    "title": "Amashina yabantu, incende na ifintu",
+                    "page": 0,
+                    "competences": [
+                        "Ukwishiba amashina yabantu, incende na ifintu"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 61,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwishiba amashina yabantu na incende Expected: Amashina yabantu naya ncende yaishibikwa bwino-bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 61,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwishiba amashina yafintu Expected: Amashina yafintu yaishibikwa bwino-bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwangala ubwangalo bwakwishiba amashina"
+                        }
+                    ],
+                    "short_notes": "Ukwishiba amashina yabantu na incende Expected: Amashina yabantu naya ncende yaishibikwa bwino-bwino Ukwishiba amashina yafintu Expected: Amashina yafintu yaishibikwa bwino-bwino",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.8",
+                    "title": "Ukumfwa na ukwasuka",
+                    "page": 0,
+                    "competences": [
+                        "Ukwilula ifili mu lyashi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 63,
+                            "hook": "Bushe Bupe abuuka nshita nshi?................",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwilula ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyailulwa bwino-bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 64,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupalanya ubwikashi bwabo kulyashi bomfwile Expected: Ilyashi bomfwile lyapalanishiwa kubwikashi bwabo bwino-bwino"
+                        }
+                    ],
+                    "short_notes": "Ukwilula ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyailulwa bwino-bwino Ukupalanya ubwikashi bwabo kulyashi bomfwile Expected: Ilyashi bomfwile lyapalanishiwa kubwikashi bwabo bwino-bwino",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.9",
+                    "title": "Ubupilibulo bwa mashiwi",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 65,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanda inshila yakusangilamo ubupilibulo bwa mashiwi aya shishibikwe bwino Expected: Amashiwi ayaletungulula kubwasuko yaishibikwa bwino-bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwangala akasela ka bukabolala Expected: Akasela kapangwa bwino-bwino ukubomfya ishiwi lya bukabolala"
+                        }
+                    ],
+                    "short_notes": "Ukulanda inshila yakusangilamo ubupilibulo bwa mashiwi aya shishibikwe bwino Expected: Amashiwi ayaletungulula kubwasuko yaishibikwa bwino-bwino Ukwangala akasela ka bukabolala Expected: Akasela kapangwa bwino-bwino ukubomfya ishiwi lya bukabolala",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.10",
+                    "title": "Ifishinka ifili mu lyashi",
+                    "page": 66,
+                    "competences": [
+                        "Ukufwaya ifishinka ifili mu lyashi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanda ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyalandwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 67,
+                            "hook": "i.    Bushe nifinshi Kafwanka atemwa?",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwasuka ameepusho pafyo bomfwile mu lyashi Expected: Ameepusho yaasukwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ilyashi umo likonkanine Expected: Ifili mu lyashi fyalandwa bwino-bwino ukulingana nomo fikonkanine"
+                        }
+                    ],
+                    "short_notes": "Ukulanda ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyalandwa mukulungika Ukwasuka ameepusho pafyo bomfwile mu lyashi Expected: Ameepusho yaasukwa mukulungika",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.11",
+                    "title": "Imilembele",
+                    "page": 68,
+                    "competences": [
+                        "Ukulemba ifilembo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukukopolola amasheepu Expected: Amasheepu yakopololwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 69,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulemba amapatani Expected: Amapatani yalembwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukukopolola ifilembo Expected: Ifilembo fyakopololwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 70,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulemba ifilembo Expected: Ifilembo fyalembwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 71,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukukopolola amashiwi mu cilembo cimo-cimo Expected: Amashiwi mu cilembo cimo-cimo yalembwa mukulungika"
+                        }
+                    ],
+                    "short_notes": "Ukukopolola amasheepu Expected: Amasheepu yakopololwa mukulungika Ukulemba amapatani Expected: Amapatani yalembwa mukulungika",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "AMATONTONKANYO",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Ukulanshanya",
+                    "page": 72,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.2",
+                    "title": "Amatontonkanyo",
+                    "page": 0,
+                    "competences": [
+                        "Abasambi bafwile ukumfwa ilyashi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwangala ubwangalo bwakulanga itontonkanyo. (ukusuminisha nagula ukukanya) Expected: Amatontonkanyo yalandwa bwino-bwino"
+                        }
+                    ],
+                    "short_notes": "Ukwangala ubwangalo bwakulanga itontonkanyo. (ukusuminisha nagula ukukanya) Expected: Amatontonkanyo yalandwa bwino-bwino",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.3",
+                    "title": "Ukwishiba ifiunda",
+                    "page": 73,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.4",
+                    "title": "Ukwishiba ifiunda",
+                    "page": 73,
+                    "competences": [
+                        "Ukulanda ifilundwa ifili mu mashiwi (fy-, pw-, ny-, mbw-)",
+                        "Ukwishiba na ukubomfya ifiunda",
+                        "Ukwishiba amashiwi ayali mu miseela",
+                        "ukubiika imfumu na bakapaso pamo pakupanga ifilundwa",
+                        "Ukubiika ifilundwa pamo pakupanga amashiwi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 74,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Abasambi bafwile ukwangala ubwangalo bwakutoota pakufwaya ifilundwa mu mashiwi Expected: Ubwangalo bwa kutoota ifilundwa mu mashiwi bwaangalwa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga amashiwi mukulanda ukubomfya ifilundwa. Expected: Amashiwi mukulandafye yapangwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 75,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwangala amangalo yakucinja na ukufumyapo ifilundwa mu mashiwi Expected: Amangalo yakufumyapo na ukucinja ifilundwa mu mashiwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwishiba iciunda cakubalilapo mu mashiwi ayakulandafye Expected: Iciunda cakubalilapo mwishiwi calandwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 77,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwishiba iciunda icili pampela yamashiwi yakulandafye Expected: Ifiunda fyapampela ya mashiwi fyalandwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwangala ubwangalo bwa kucinja na ukufuuta ifiunda mu mashiwi. Expected: Ubwangalo bwakucinja na ukufuuta ifiunda mu mashiwi bwaangalwa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 78,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubomfya amashiwi ayomfwika cimo-cine pakulanda ifiunda Expected: Ifiunda fyasoswa bwino-bwino ukubomfya amashiwi ayomfwika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukuputaula amashiwi mu miseela iyakulandafye Expected: Imiseela yakulanda yaakanishiwa mu mashiwi mukulungika."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 80,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga ifilundwa ukubomfya ifiunda (bakapaso) na imfumu Expected: Ifilundwa fyapangwa mukulungika ukubomfya bakapaso (ifiunda) na"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga caati ya filundwa Expected: Caati ya filundwa yabelengwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 81,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ifilundwa fyasobololwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ifilundwa fyabiikwa pamo pakupanga amashiwi mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 83,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukucinja na ukufuuta ifilundwa Expected: Ifilundwa fyacinjishiwa na ukufuutwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwishiba ifilundwa mu mashiwi Expected: Ifilundwa mu mashiwi fyaishibikwa bwino- bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 84,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupenda ifilundwa mu mashiwi Expected: Ifilundwa mu mashiwi fyapendwa mukulungika"
+                        }
+                    ],
+                    "short_notes": "Abasambi bafwile ukwangala ubwangalo bwakutoota pakufwaya ifilundwa mu mashiwi Expected: Ubwangalo bwa kutoota ifilundwa mu mashiwi bwaangalwa Ukupanga amashiwi mukulanda ukubomfya ifilundwa. Expected: Amashiwi mukulandafye yapangwa mukulungika",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.5",
+                    "title": "Ukubelenga",
+                    "page": 85,
+                    "competences": [
+                        "Ukubelenga imiseela mukwikatisha ukukonka amatoni"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": "a. Nikwi kuli ifyuni?...................................................................",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga na ukwishiba imiseela iipi Expected: Imiseela iipi yabelengwa na ameepusho yaasukwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 86,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga ilyashi ilikwete imiseela ibili nangula itatu Expected: ilyashi lyabelengwa busaka-busaka Expected: Ilyashi iliipi lyabelengwa bwino-bwino"
+                        }
+                    ],
+                    "short_notes": "Ukubelenga na ukwishiba imiseela iipi Expected: Imiseela iipi yabelengwa na ameepusho yaasukwa mukulungika Ukubelenga ilyashi ilikwete imiseela ibili nangula itatu Expected: ilyashi lyabelengwa busaka-busaka Expected: Ilyashi iliipi lyabelengwa bwino-bwino",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.6",
+                    "title": "Ukumfwa na ukwasuka",
+                    "page": 87,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.7",
+                    "title": "Ukwilula ifili mu lyashi",
+                    "page": 87,
+                    "competences": [
+                        "Ukwilula ifili mu lyashi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": "a. Bushe nani amoneka ubusaka?..............",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwilula ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyailulwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupalanya ubwikashi bwabo kulyashi bomfwile Expected: Ilyashi bomfwile lyapalanishiwa bwino-bwino kubwikashi bwabo"
+                        }
+                    ],
+                    "short_notes": "Ukwilula ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyailulwa mukulungika Ukupalanya ubwikashi bwabo kulyashi bomfwile Expected: Ilyashi bomfwile lyapalanishiwa bwino-bwino kubwikashi bwabo",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.8",
+                    "title": "Ubupilibulo bwa mashiwi",
+                    "page": 89,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 89,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanda inshila yakusangilamo ubupilibulo bwa mashiwi aya shishibikwe bwino Expected: Ubupilibulo bwa mashiwi bwalandwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwangala akasela ka bukafundisha Expected: Akasela kapangwa bwino-bwino ukubomfya ishiwi lya bukafundisha"
+                        }
+                    ],
+                    "short_notes": "Ukulanda inshila yakusangilamo ubupilibulo bwa mashiwi aya shishibikwe bwino Expected: Ubupilibulo bwa mashiwi bwalandwa mukulungika Ukwangala akasela ka bukafundisha Expected: Akasela kapangwa bwino-bwino ukubomfya ishiwi lya bukafundisha",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.9",
+                    "title": "Ifishinka ifili mu lyashi",
+                    "page": 0,
+                    "competences": [
+                        "Ukufwaya ifishinka ifili mu lyashi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanda ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyalandwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": "a. Bushe nibani balunga inama?.........................",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwasuka ameepusho pafyo bomfwile mu lyashi Expected: Ameepusho yaasukwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 92,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ilyashi umo likonkanine Expected: Ifili mu lyashi fyalandwa mukulungikaukulingana nomo fikonkanine"
+                        }
+                    ],
+                    "short_notes": "Ukulanda ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyalandwa mukulungika Ukwasuka ameepusho pafyo bomfwile mu lyashi Expected: Ameepusho yaasukwa mukulungika",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.10",
+                    "title": "Imilembele",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.11",
+                    "title": "Ukulemba ifilembo",
+                    "page": 0,
+                    "competences": [
+                        "Ukulemba ifilembo",
+                        "Ukulemba amashiwi mu cilembo cimo-cimo",
+                        "Ukusha incende pakati ka mashiwi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 93,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukukopolola ifilembo Expected: Ifilembo fyakopololwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulemba ifilembo Expected: Ifilembo fyalembwa bwino-bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 95,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukukopolola amashiwi mu cilembo cimo-cimo Expected: Amashiwi mu cilembo cimo-cimo yalembwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 96,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukukopolola na ukusha incende pakati ka mashiwi Expected: Imiseela yakopololwa na incende pakati ka mashiwi shabikwa"
+                        }
+                    ],
+                    "short_notes": "Ukukopolola ifilembo Expected: Ifilembo fyakopololwa mukulungika Ukulemba ifilembo Expected: Ifilembo fyalembwa bwino-bwino",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.12",
+                    "title": "Ukulenga",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 97,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga ilyashi ukubomfya ifikope Expected: "
+                        }
+                    ],
+                    "short_notes": "Ukupanga ilyashi ukubomfya ifikope Expected:",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "UKULANSHANYA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "5.1",
+                    "title": "Ukulashanya",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.2",
+                    "title": "Ukulashanya kwapa bantu babili na ukucilapo",
+                    "page": 98,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 98,
+                            "hook": "Chanda: Bushe Mwaba milimonshi ubomba pang’anda?",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukuibimba mukulanshanya pamitwe iipelwe Expected: Ukulanshanya kwapa bantu babili pa mitwe ipelwe kwacitwa"
+                        }
+                    ],
+                    "short_notes": "Ukuibimba mukulanshanya pamitwe iipelwe Expected: Ukulanshanya kwapa bantu babili pa mitwe ipelwe kwacitwa",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.3",
+                    "title": "Ukwishiba ifiunda",
+                    "page": 99,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.4",
+                    "title": "Ukwishiba Ifiunda",
+                    "page": 99,
+                    "competences": [
+                        "Ukulanda ifilundwa ifili mu mashiwi (my-. fy-, by-, sw-)",
+                        "ukubiika imfumu na bakapaso pamo pakupanga ifilundwa",
+                        "Ukubiika ifilundwa pamo pakupanga amashiwi",
+                        "Ukubelenga imiseela mukwikatisha ukukonka amatoni"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanda ifilundwa ifili mu mashiwi ayakulandafye Expected: Ifilundwa ifili mu mashiwi fyalandwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 100,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Abasambi bangale bwangalo bwakutoota pakufwaya ifilundwa mu mashiwi Expected: Ubwangalo bwakutoota ifilundwa mu mashiwi bwaangalwa bwino-"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga amashiwi mukulandafye ukubomfya ifilundwa Expected: Amashiwi mukulandafye yapangwa mukulungika ukubomfya"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 101,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwangala amangalo yakucinja na ukufumyapo ifilundwa mu mashiwi Expected: Amangalo ya kufumyapo na ukucinja ifilundwa mu mashiwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukuputaula amashiwi mu miseela iyakulandafye Expected: Imiseela yakulandafye yaakanishiwa mu mashiwi mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 103,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga ifilundwa ukubomfya ifiunda (bakapaso) na imfumu. Expected: Ifilundwa fyapangwa mukulungika ukubomfya bakapaso (ifiunda) na"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga caati ya filundwa Expected: Caati ya filundwa yabelengwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 104,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukusobolola ifilundwa Expected: Ifilundwa fyasobololwa mu kulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 105,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubiika ifilundwa pamo pakupanga amashiwi Expected: Ifilundwa fyabiikwa pamo mukulungika pakupanga amashiwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukucinja na ukufuuta ifilundwa Expected: Ifilundwa fyacinjishiwa na ukufuutwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 106,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwishiba ifilundwa mu mashiwi Expected: Ifilundwa mu mashiwi fyaishibikwa bwino- bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupenda ifilundwa mu mashiwi Expected: Ifilundwa mu mashiwi fyapendwa mukulungikwa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga amashiwi Expected: Amashiwi yabelengwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 108,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga ifyo balembele Expected: Ifyo balembele fyabelengwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": "a. Nifinshi fikabile?.........................................",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga na ukwishiba imiseela iipi Expected: Imiseela iipi yabelengwa na ameepusho yaasukwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 109,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga ilyashi ilikwete imiseela ibili nangula itatu Expected: Ilyashi ilipi lyabelengwa bwino-bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga amashina mukufusha"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 111,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga amashina mukucefya Expected: Amashina yalembwa bwino-bwino mukucefya"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupalaya amashiwi ayali mu bunoono ku mashiwi mukufusha Expected: Amashina mukucefya na mukufusha yapalanishiwa bwino-bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 112,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwangala ubwangalo bwakucefya na ukufusha amashina Expected: Ubwangalo bwakucinja amashina bwayangalwa bwino-bwino"
+                        }
+                    ],
+                    "short_notes": "Ukulanda ifilundwa ifili mu mashiwi ayakulandafye Expected: Ifilundwa ifili mu mashiwi fyalandwa mukulungika Abasambi bangale bwangalo bwakutoota pakufwaya ifilundwa mu mashiwi Expected: Ubwangalo bwakutoota ifilundwa mu mashiwi bwaangalwa bwino-",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.5",
+                    "title": "Ukumfwa na Ukwasuka",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.6",
+                    "title": "Ukwilula Ifili mu Lyashi",
+                    "page": 0,
+                    "competences": [
+                        "Ukwilula ifili mu lyashi",
+                        "Ukupalanya ilyashi bomfwile ku bwikashi bwabo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 113,
+                            "hook": "a. Bushe Bwembya ali na imyaka inga?..............",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwilula ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyailulwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 114,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupalanya ubwikashi bwabo kulyashi bomfwile Expected: Ilyashi bomfwile lyapalanishiwa bwino-bwino kubwikashi bwabo"
+                        }
+                    ],
+                    "short_notes": "Ukwilula ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyailulwa mukulungika Ukupalanya ubwikashi bwabo kulyashi bomfwile Expected: Ilyashi bomfwile lyapalanishiwa bwino-bwino kubwikashi bwabo",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": [
+                            "Kafundisha esha abasambi ukulanda ilyashi lyabo"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "5.7",
+                    "title": "Ubupilibulo bwa mashiwi",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanda inshila yakusangilamo ubupilibulo bwa mashiwi aya shishibikwe bwino. Expected: Ubupilibulo bwa mashiwi bwalandwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 115,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwangala akasela ka bukafundisha Expected: Akasela kapangwa bwino-bwino ukubomfya ishiwi lya bukafundisha"
+                        }
+                    ],
+                    "short_notes": "Ukulanda inshila yakusangilamo ubupilibulo bwa mashiwi aya shishibikwe bwino. Expected: Ubupilibulo bwa mashiwi bwalandwa mukulungika Ukwangala akasela ka bukafundisha Expected: Akasela kapangwa bwino-bwino ukubomfya ishiwi lya bukafundisha",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.8",
+                    "title": "Ifishinka ifili mu lyashi",
+                    "page": 0,
+                    "competences": [
+                        "Ukufwaya ifishinka ifili mu lyashi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 116,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanda ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyalandwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": "a. Bushe Mwango ali nemyaka iinga?..............",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwasuka ameepusho pafyo bomfwile mu lyashi Expected: Ameepusho yaasukwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ilyashi umo likonkanine Expected: Ifili mu lyashi fyalandwa mukulungika ukulingana nomo fikonkanine"
+                        }
+                    ],
+                    "short_notes": "Ukulanda ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyalandwa mukulungika Ukwasuka ameepusho pafyo bomfwile mu lyashi Expected: Ameepusho yaasukwa mukulungika",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.9",
+                    "title": "Imilembele",
+                    "page": 118,
+                    "competences": [
+                        "Ukulemba ifilembo",
+                        "Ukulemba amashiwi mu cilembo cimo-cimo",
+                        "Ukusha incende pakati ka mashiwi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukukopolola ifilembo Expected: Ifilembo fyakopololwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 119,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulemba ifilembo Expected: Ifilembo fyalembwa bwino-bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 120,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukukopolola amashiwi mu cilembo cimo-cimo Expected: Amashiwi mu cilembo cimo-cimo yalembwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 121,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukukopolola na ukusha incende pamashiwi Expected: Imiseela yakopololwa na incende mu mashiwi shabikwa mukulungika"
+                        }
+                    ],
+                    "short_notes": "Ukukopolola ifilembo Expected: Ifilembo fyakopololwa mukulungika Ukulemba ifilembo Expected: Ifilembo fyalembwa bwino-bwino",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.10",
+                    "title": "Ukulenga",
+                    "page": 122,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 122,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga ilyashi ukubomfya ifikope Expected: Ifikope ifilepanga ilyashi fyalengwa mukulungika"
+                        }
+                    ],
+                    "short_notes": "Ukupanga ilyashi ukubomfya ifikope Expected: Ifikope ifilepanga ilyashi fyalengwa mukulungika",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "6.0",
+            "topic_title": "UKULONDOLOLA ABANTU",
+            "sub_topics": [
+                {
+                    "subtopic_id": "6.1",
+                    "title": "Ukulondolola",
+                    "page": 123,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.2",
+                    "title": "Ukulondolola Abantu",
+                    "page": 123,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 123,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulemba amashiwi ayabomfiwa pakulondolola abantu."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubomfya amashiwi yaishibikwa pakulondolola abantu Expected: Amashiwi yakubopmfya pakulondolola abantu yaishibikwa bwino-"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 124,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwangala ubwangalo bwakulondolo abantu Expected: Abantu balondololwa bwino-bwino ukubomfya ubwangalo na"
+                        }
+                    ],
+                    "short_notes": "Ukulemba amashiwi ayabomfiwa pakulondolola abantu. Ukubomfya amashiwi yaishibikwa pakulondolola abantu Expected: Amashiwi yakubopmfya pakulondolola abantu yaishibikwa bwino-",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.3",
+                    "title": "Ukwishiba Ifiunda",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.4",
+                    "title": "Ukwishiba Ifiunda",
+                    "page": 0,
+                    "competences": [
+                        "Ukulanda ifilundwa ifili mu mashiwi (mp-, mb-, ns- fw-)",
+                        "Ukwishiba amashiwi ayali mu miseela",
+                        "Ukubiika ifilundwa pamo pakupanga amashiwi.",
+                        "Ukubelenga ifilundwa mukwikatisha"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 125,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanda ifilundwa ifili mu mashiwi ayalandilwe Expected: Ifilundwa ifili mu mashiwi fyalandwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ubwangalo bwakutoota pakufwaya ifilundwa mu mashiwi Expected: Ubwangalo bwakutoota ifilundwa mu mashiwi bwaangalwa bwino-"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 126,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga amashiwi mukulanda ukubomfya ifilundwa Expected: Amashiwi mukulandafye yapangwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwangala amangalo yakucinja na ukufumyapo ifilundwa mu mashiwi Expected: Amangalo ya kufumyapo na ukucinja ifilundwa mu mashiwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 128,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwakanya amashiwi mu miseela iyakulandafye Expected: Imiseela yakulandafye yaakanishiwa mu mashiwi mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubiika ifilundwa pamo pakupanga amashiwi Expected: Ifilundwa fyabiikwa pamo pakupanga amashiwi mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukucinja na ukufuuta ifilundwa Expected: Ifilundwa fyacinjishiwa na ukufuutwa mu mashiwi mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwishiba ifilundwa mu mashiwi Expected: Ifilundwa mu mashiwi fyaishibikwa bwino- bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 130,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupenda ifilundwa mu mashiwi Expected: Ifilundwa mumashiwi fyapendwa mukulungika."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 131,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga ifilundwa Expected: Ifilundwa fyabelengwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga amashiwi Expected: Amashiwi yabelengwa mukulungika Expected: Ilyashi ilipi lyabelengwa bwino-bwino"
+                        }
+                    ],
+                    "short_notes": "Ukulanda ifilundwa ifili mu mashiwi ayalandilwe Expected: Ifilundwa ifili mu mashiwi fyalandwa mukulungika Ubwangalo bwakutoota pakufwaya ifilundwa mu mashiwi Expected: Ubwangalo bwakutoota ifilundwa mu mashiwi bwaangalwa bwino-",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.5",
+                    "title": "Ukumfwa na ukwasuka",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.6",
+                    "title": "Ukwilula ifili mu lyashi",
+                    "page": 0,
+                    "competences": [
+                        "Ukwilula ifili mu lyashi",
+                        "Ukupalanya ilyashi bomfwile ku bwikashi bwabo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 133,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwilula ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyailulwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupalanya ubwikashi bwabo kulyashi bomfwile Expected: Ilyashi bomfwile lyapalanishiwa bwino-bwino kubwikashi bwabo"
+                        }
+                    ],
+                    "short_notes": "Ukwilula ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyailulwa mukulungika Ukupalanya ubwikashi bwabo kulyashi bomfwile Expected: Ilyashi bomfwile lyapalanishiwa bwino-bwino kubwikashi bwabo",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.7",
+                    "title": "Ubupilibulo bwa Mashiwi",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanda inshila yakusangilamo ubupilibulo bwa mashiwi aya shishibikwe bwino Expected: Ubupilibulo bwa mashiwi bwalandwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 135,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwangala akasela ka bukafundisha Expected: Akasela kapangwa bwino-bwino ukubomfya ishiwi lya bukafundisha"
+                        }
+                    ],
+                    "short_notes": "Ukulanda inshila yakusangilamo ubupilibulo bwa mashiwi aya shishibikwe bwino Expected: Ubupilibulo bwa mashiwi bwalandwa mukulungika Ukwangala akasela ka bukafundisha Expected: Akasela kapangwa bwino-bwino ukubomfya ishiwi lya bukafundisha",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.8",
+                    "title": "Ifishinka ifili mu lyashi",
+                    "page": 0,
+                    "competences": [
+                        "Ukufwaya ifishinka ifili mu lyashi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 136,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanda ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyalandwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": "a. Bushe nani watemenwe ukuya mumpanga?..............",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwasuka ameepusho pafyo bomfwile mu lyashi Expected: Ameepusho yaasukwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 137,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ilyashi umo likonkanine. Expected: Ifili mu lyashi fyalandwa mukulungika ukulingana nomo fikonkanine"
+                        }
+                    ],
+                    "short_notes": "Ukulanda ifyo bomfwile mu lyashi Expected: Ifyo bomfwile mu lyashi fyalandwa mukulungika Ukwasuka ameepusho pafyo bomfwile mu lyashi Expected: Ameepusho yaasukwa mukulungika",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.9",
+                    "title": "Imilembele",
+                    "page": 138,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.10",
+                    "title": "Ukulemba ifilembo",
+                    "page": 138,
+                    "competences": [
+                        "Ukulemba ifilembo",
+                        "Ukulemba amashiwi mu cilembo cimo-cimo",
+                        "Ukusha incende pakati ka mashiwi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 138,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukukopolola ifilembo Expected: Ifilembo fyakopololwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 139,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulemba ifilembo Expected: Ifilembo fyalembwa bwino-bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 140,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukukopolola amashiwi mu cilembo cimo-cimo Expected: Amashiwi mu cilembo cimo-cimo yalembwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 141,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukukopolola na ukusha incende pakati ka mashiwi Expected: Imiseela yakopololwa na incende pakati ka mashiwi shabikwa"
+                        }
+                    ],
+                    "short_notes": "Ukukopolola ifilembo Expected: Ifilembo fyakopololwa mukulungika Ukulemba ifilembo Expected: Ifilembo fyalembwa bwino-bwino",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.11",
+                    "title": "Ukulenga",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 142,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga ilyashi ukubomfya ifikope Expected: Ifikope ifilepanga ilyashi fyalengwa mukulungika"
+                        }
+                    ],
+                    "short_notes": "Ukupanga ilyashi ukubomfya ifikope Expected: Ifikope ifilepanga ilyashi fyalengwa mukulungika",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                }
+            ]
+        }
+    ]
+}

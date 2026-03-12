@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 2",
+    "subject": "Fashion and Fabrics",
+    "philosophy": "Fashion and Fabrics (FF) is an introductory subject for those learners interested in academic enrichment or accessing the textile and clothing industries. It is an applied science that deals with constructing, manufacturing, and maintaining textile articles to meet community needs. This Form I to IV learning area focuses on studying fibres and fabrics, construction of garments, and provides learners with the opportunity to be exposed to industrial production systems and the use of Information and Communication Technology in producing textile items. The syllabus seeks to develop knowledge in problem solving, design thinking, communication, teamwork, innovation, self-reliance and enterprising skills.",
+    "competence_learning": "COMPETENCES AND DESCRIPTORS AT FORM 2: Analytical thinking: Integrate culture into the design processes; Apply consumer rights and responsibilities. Creativity and innovation: Perform various beauty treatment and services; Create different desired artwork on fabric; Make forms of interior Design. Critical thinking: Produce yarns and fabrics; Draft pattern; Use crossway strips. Digital Literacy: Identify the role digital technology plays in promoting sustainable fashion practices. Emotional intelligence: Manage and influence emotions in oneself and others. Entrepreneurship: Undertake projects. Environmental Sustainability: Employ sustainable practical methods in textile production. Financial Literacy: Plan purchases to avoid overspending on unnecessary fabrics or tools. Problem solving: Repair clothes.",
+    "goals": [
+      "To provide a national curriculum for Zambia that is aligned with the Competence Based Curriculum and 21st Century Skills.",
+      "To impart the knowledge, skills, values and positive attitudes that enable children to live and grow into productive and useful members of their communities and the Zambian society.",
+      "To facilitate holistic development of learners' creativity, initiative, problem solving, physical, mental, and emotional skills.",
+      "To offer learners' hands-on experiences through manipulation of real objects, interaction with nature and learning through practice.",
+      "To develop knowledge, desirable lifelong skills, values and positive attitudes needed for personal and national development.",
+      "To integrate cross cutting themes such as Life Skills, Entrepreneurship, Climate Change and Financial Education.",
+      "To make learning more meaningful and enjoyable and allow for a smooth transition to Advanced Secondary School Level."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "2.1",
+      "topic_title": "SAFETY",
+      "page_number": 28,
+      "subtopics": [
+        "2.1.1 Environmental Impact of Textile Production"
+      ],
+      "specific_outcomes": [
+        "2.1.1.1 Employ sustainable practices that can help mitigate environmental impacts of textile production"
+      ]
+    },
+    {
+      "unit": "2.2",
+      "topic_title": "GROOMING",
+      "page_number": 28,
+      "subtopics": [
+        "2.2.1 Cosmetology in the Fashion Industry"
+      ],
+      "specific_outcomes": [
+        "2.2.1.1 Apply techniques of hair and facial makeup"
+      ]
+    },
+    {
+      "unit": "2.3",
+      "topic_title": "WARDROBE PLANNING",
+      "page_number": 29,
+      "subtopics": [
+        "2.3.1 Millinery"
+      ],
+      "specific_outcomes": [
+        "2.3.1.1 Make various Headwear"
+      ]
+    },
+    {
+      "unit": "2.4",
+      "topic_title": "TOOLS AND EQUIPMENT",
+      "page_number": 29,
+      "subtopics": [
+        "2.4.1 The Sewing Machines"
+      ],
+      "specific_outcomes": [
+        "2.4.1.1 Use a sewing machine"
+      ]
+    },
+    {
+      "unit": "2.5",
+      "topic_title": "FIBRES, YARNS AND FABRICS",
+      "page_number": 30,
+      "subtopics": [
+        "2.5.1 Production of Yarns and Fabrics"
+      ],
+      "specific_outcomes": [
+        "2.5.1.1 Apply techniques in yarns production"
+      ]
+    },
+    {
+      "unit": "2.6",
+      "topic_title": "COLOUR APPLICATION",
+      "page_number": 30,
+      "subtopics": [
+        "2.6.1 Colour Combination"
+      ],
+      "specific_outcomes": [
+        "2.6.1.1 Create different desired artwork on fabric"
+      ]
+    },
+    {
+      "unit": "2.7",
+      "topic_title": "TEXTILE DESIGN",
+      "page_number": 30,
+      "subtopics": [
+        "2.7.1 Forms of Design",
+        "2.7.2 Principles of Design",
+        "2.7.3 Culture and Design"
+      ],
+      "specific_outcomes": [
+        "2.7.1.1 Make forms of interior design",
+        "2.7.2.1 Apply different principles of design",
+        "2.7.3.1 Show culture into the design processes"
+      ]
+    },
+    {
+      "unit": "2.8",
+      "topic_title": "CONSTRUCTION PROCESSES",
+      "page_number": 31,
+      "subtopics": [
+        "2.8.1 Crossway Strips",
+        "2.8.2 Openings",
+        "2.8.3 Fastenings",
+        "2.8.4 Neckline Finishes",
+        "2.8.5 Armhole Finishes"
+      ],
+      "specific_outcomes": [
+        "2.8.1.1 Use crossway strips",
+        "2.8.2.1 Work out openings",
+        "2.8.3.1 Work out Fastenings",
+        "2.8.4.1 Work out neckline finishes",
+        "2.8.5.1 Work out armhole finishes"
+      ]
+    },
+    {
+      "unit": "2.9",
+      "topic_title": "CRAFTS",
+      "page_number": 32,
+      "subtopics": [
+        "2.9.1 Basketry"
+      ],
+      "specific_outcomes": [
+        "2.9.1.1 Make items using basketry"
+      ]
+    },
+    {
+      "unit": "2.10",
+      "topic_title": "CLOTHING",
+      "page_number": 32,
+      "subtopics": [
+        "2.10.1 Care and Maintenance of Clothes"
+      ],
+      "specific_outcomes": [
+        "2.10.1.1 Launder different types of clothes"
+      ]
+    },
+    {
+      "unit": "2.11",
+      "topic_title": "CONSUMER EDUCATION",
+      "page_number": 33,
+      "subtopics": [
+        "2.11.1 Consumer Rights and Responsibilities"
+      ],
+      "specific_outcomes": [
+        "2.11.1.1 Apply consumer rights and responsibilities"
+      ]
+    },
+    {
+      "unit": "2.12",
+      "topic_title": "ENTREPRENEURSHIP",
+      "page_number": 33,
+      "subtopics": [
+        "2.12.1 Entrepreneurial Projects in Fashion and Fabrics"
+      ],
+      "specific_outcomes": [
+        "2.12.1.1 Develop various projects in fashion and fabric"
+      ]
+    }
+  ]
+}

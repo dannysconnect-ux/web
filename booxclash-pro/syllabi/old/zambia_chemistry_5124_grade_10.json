@@ -1,0 +1,430 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "10",
+    "subject": "CHEMISTRY 5124",
+    "philosophy": "",
+    "competence_learning": "",
+    "goals": [
+      "Develop an understanding of Chemistry and its branches",
+      "Develop investigative skills about Chemistry",
+      "Demonstrate an understanding of the particulate nature of matter",
+      "Develop investigative skills about states of matter",
+      "Demonstrate an understanding of Experimental Techniques and its application in everyday life",
+      "Develop investigative skills in experimental techniques",
+      "Demonstrate an understanding of atoms, elements, molecules and compounds.",
+      "Develop investigative skills about the nature of substances.",
+      "Demonstrate an understanding of the importance, production, use, and effect on the environment of common elements and simple compounds"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "10.1",
+      "topic_title": "INTRODUCTION TO CHEMISTRY",
+      "page_number": 49,
+      "subtopics": [
+        {
+          "subtopic_unit": "10.1.1",
+          "subtopic_title": "Introduction to Chemistry"
+        }
+      ],
+      "specific_outcomes": [
+        {
+          "outcome_unit": "10.1.1.1",
+          "description": "Describe Chemistry.",
+          "knowledge": "The study of matter and their chemical changes",
+          "skills": "Classifying of chemistry into its branches",
+          "values": "Asking questions for more understanding"
+        },
+        {
+          "outcome_unit": "10.1.1.2",
+          "description": "Classify the branches of chemistry",
+          "knowledge": "Branches such as: Analytical, Biochemistry, Inorganic, Physical and Organic",
+          "skills": "Identifying different branches of chemistry",
+          "values": "Awareness of chemistry branches"
+        },
+        {
+          "outcome_unit": "10.1.1.3",
+          "description": "Explain the importance of chemistry.",
+          "knowledge": "Improved life through manufacture of soaps, detergents, plastic, sugar, cement, paper, medicines, food production and other life necessities",
+          "skills": "Differentiating chemistry from the other natural sciences",
+          "values": "Appreciating chemistry"
+        },
+        {
+          "outcome_unit": "10.1.1.4",
+          "description": "Describe the challenges of chemical industrial activities",
+          "knowledge": "Production of undesired harmful by-products.",
+          "skills": null,
+          "values": null
+        },
+        {
+          "outcome_unit": "10.1.1.5",
+          "description": "Demonstrate an appreciation of safety in the laboratory.",
+          "knowledge": "Safety rules in the lab",
+          "skills": null,
+          "values": null
+        }
+      ]
+    },
+    {
+      "unit": "10.2",
+      "topic_title": "THE PARTICULATE NATURE OF MATTER",
+      "page_number": 50,
+      "subtopics": [
+        {
+          "subtopic_unit": "10.2.1",
+          "subtopic_title": "Matter and the Kinetic theory"
+        },
+        {
+          "subtopic_unit": "10.2.2",
+          "subtopic_title": "Diffusion"
+        }
+      ],
+      "specific_outcomes": [
+        {
+          "outcome_unit": "10.2.1.1",
+          "description": "Describe matter",
+          "knowledge": "Anything that has mass and occupies space",
+          "skills": "Classifying the basic units and states of matter",
+          "values": "Appreciating the basic units of matter and its existence in three states"
+        },
+        {
+          "outcome_unit": "10.2.1.2",
+          "description": "Classify the basic units of matter",
+          "knowledge": "Atoms ,molecules ,ions",
+          "skills": null,
+          "values": null
+        },
+        {
+          "outcome_unit": "10.2.1.3",
+          "description": "Classify the states of matter.",
+          "knowledge": "Kinetic theory: in terms of particle arrangement and movement. Solid, liquid, gas",
+          "skills": null,
+          "values": null
+        },
+        {
+          "outcome_unit": "10.2.1.4",
+          "description": "Illustrate changes of states of matter.",
+          "knowledge": "Changes of states such as melting, freezing, boiling, condensation, sublimation in terms of kinetic theory",
+          "skills": "Demonstrating the changes of states of matter",
+          "values": "Applying changes of states of matter in everyday life"
+        },
+        {
+          "outcome_unit": "10.2.1.5",
+          "description": "Describe the absorption of heat and release of heat during changes of states of matter",
+          "knowledge": "Changing states of matter, exothermic-release of heat during a reaction, endothermic-absorption of heat during a reaction, include heating and cooling curves",
+          "skills": "Inferring data on absorption and release of heat during changes of states of matter",
+          "values": null
+        },
+        {
+          "outcome_unit": "10.2.2.1",
+          "description": "Describe diffusion",
+          "knowledge": "Movement of particles from region of higher concentration to region of lower concentration",
+          "skills": "Demonstrating the movement of particles in fluids",
+          "values": "Appreciating diffusion"
+        },
+        {
+          "outcome_unit": "10.2.2.2",
+          "description": "Demonstrate diffusion in fluids",
+          "knowledge": "Liquids and gases (Brownian motion)",
+          "skills": "Comparing movement of particles in fluids and factors affecting their speed of movement",
+          "values": "Asking more questions to learn more Fostering teamwork"
+        },
+        {
+          "outcome_unit": "10.2.2.3",
+          "description": "Describe the factors that affect the rate of diffusion",
+          "knowledge": "Factors of diffusion E.g. molecular mass, temperature, concentration",
+          "skills": null,
+          "values": null
+        }
+      ]
+    },
+    {
+      "unit": "10.3",
+      "topic_title": "EXPERIMENTAL TECHNIQUES",
+      "page_number": 51,
+      "subtopics": [
+        {
+          "subtopic_unit": "10.3.1",
+          "subtopic_title": "Measuring of quantities"
+        },
+        {
+          "subtopic_unit": "10.3.2",
+          "subtopic_title": "Criteria of purity"
+        },
+        {
+          "subtopic_unit": "10.3.3",
+          "subtopic_title": "Separating mixtures"
+        }
+      ],
+      "specific_outcomes": [
+        {
+          "outcome_unit": "10.3.1.1",
+          "description": "Demonstratehow different quantities are measured.",
+          "knowledge": "Quantities such as time, temperature, mass and volume",
+          "skills": "Demonstrating accurate measurement of values of various quantities",
+          "values": "Applying safety rules in use of apparatus"
+        },
+        {
+          "outcome_unit": "10.3.1.2",
+          "description": "Identify different measuring apparatus used in chemistry.",
+          "knowledge": "Measuring apparatus such as stopwatch or stop clock, thermometers, balances, burettes, pipettes, volumetric flask, measuring cylinder, and gas syringes",
+          "skills": "Identifying different measuring apparatus",
+          "values": null
+        },
+        {
+          "outcome_unit": "10.3.1.3",
+          "description": "Identify various measuring instrument and other apparatus used in chemistry",
+          "knowledge": "Other apparatus: spatula, stands and clamp, test tubes, burners, , glass rods, evaporating dish, funnel beaker, conical flask etc.",
+          "skills": null,
+          "values": null
+        },
+        {
+          "outcome_unit": "10.3.2.1",
+          "description": "Describe the differences between a pure substance and a mixture",
+          "knowledge": "In terms of melting points and boiling points",
+          "skills": "Differentiating between melting points and boiling points",
+          "values": "Appreciating purity of substances"
+        },
+        {
+          "outcome_unit": "10.3.2.2",
+          "description": "Demonstrate how to determine the purity of a substance",
+          "knowledge": "Sharp melting for pure substance and melting over a range of temperatures for a mixture.",
+          "skills": "Demonstrating determination of purity of substances",
+          "values": null
+        },
+        {
+          "outcome_unit": "10.3.2.3",
+          "description": "Explain the importance of purity of a substance",
+          "knowledge": "Importance of purity in substances such as foodstuffs, medicines, drinks",
+          "skills": "Communicating the importance of purity in substances",
+          "values": "Appreciating of the purity of substances"
+        },
+        {
+          "outcome_unit": "10.3.3.1",
+          "description": "Distinguish between physical and chemical changes",
+          "knowledge": "In terms of mass changes, irreversibility/reversibility, chemical substance formed and energy involved.",
+          "skills": "Analysing the components in the mixture",
+          "values": "Applying separation techniques in everyday life"
+        },
+        {
+          "outcome_unit": "10.3.3.2",
+          "description": "Demonstrate different methods of separating mixtures",
+          "knowledge": "Methods such as decantation, filtration, crystallisation, simple and fractional distillation, magnetism, chromatography, evaporation, sublimation, floatation, use of separating funnel and centrifugation",
+          "skills": "Identifying appropriate methods for separating different mixtures",
+          "values": null
+        },
+        {
+          "outcome_unit": "10.3.3.3",
+          "description": "Interpret simple paper chromatograms.",
+          "knowledge": "Uses such as Rf values and distances covered by components (restricted to paper chromatography)",
+          "skills": null,
+          "values": null
+        }
+      ]
+    },
+    {
+      "unit": "10.4",
+      "topic_title": "ATOMS, ELEMENTS, COMPOUNDS AND MOLECULES",
+      "page_number": 54,
+      "subtopics": [
+        {
+          "subtopic_unit": "10.4.1",
+          "subtopic_title": "Atomic structure and Periodic Table"
+        },
+        {
+          "subtopic_unit": "10.4.2",
+          "subtopic_title": "Bonding"
+        },
+        {
+          "subtopic_unit": "10.4.5",
+          "subtopic_title": "Chemical formulae and equations"
+        }
+      ],
+      "specific_outcomes": [
+        {
+          "outcome_unit": "10.4.1.1",
+          "description": "Describe an atom and its structure.",
+          "knowledge": "As the smallest particle of an element which takes part in a chemical reaction. Structure: use Bohr model (nucleus at the centre surrounded by electron shells)",
+          "skills": "Communicating atoms, elements molecules and compounds",
+          "values": "Awareness of the atomic structure"
+        },
+        {
+          "outcome_unit": "10.4.1.2",
+          "description": "Describe the relative charges and approximate relative masses of protons, neutrons and electrons",
+          "knowledge": "Charges as: +1,0,-1 Masses as: 1, 1, 1/1840",
+          "skills": "Calculating relative atomic mass",
+          "values": null
+        },
+        {
+          "outcome_unit": "10.4.1.3",
+          "description": "Describe the proton (atomic)number and nucleon(mass) number and nuclide notation",
+          "knowledge": "As number of protons: Z, number of nucleons: A (protons + neutrons)and nuclide notation   X",
+          "skills": "Calculating relative atomic mass",
+          "values": "Asking more questions to learn more Fostering teamwork"
+        },
+        {
+          "outcome_unit": "10.4.1.4",
+          "description": "Describe an element",
+          "knowledge": "As substance made up of same chemical atoms.",
+          "skills": "Communicating elements and the periodic table",
+          "values": "Appreciating elements from the environment"
+        },
+        {
+          "outcome_unit": "10.4.1.5",
+          "description": "Identify elements using their chemical symbols",
+          "knowledge": "Symbols of the elements with atomic number 1 up to 20 and other common elements in the local environment",
+          "skills": null,
+          "values": null
+        },
+        {
+          "outcome_unit": "10.4.1.6",
+          "description": "Describe the basis of the Periodic Table",
+          "knowledge": "Group determined by valence electrons Period determined by number of shells",
+          "skills": null,
+          "values": null
+        },
+        {
+          "outcome_unit": "10.4.1.7",
+          "description": "Describe isotopes",
+          "knowledge": "As atoms with same number of protons but different numbers of neutrons, including radioactive and non radioactive isotopes",
+          "skills": "Calculating relative atomic mass of an element",
+          "values": "Asking more questions to learn more Fostering teamwork"
+        },
+        {
+          "outcome_unit": "10.4.1.8",
+          "description": "Calculate relative atomic mass of an element given the % abundances of isotopes and from mass spectrum.",
+          "knowledge": "As sum of the products of the percentages and their mass numbers",
+          "skills": null,
+          "values": null
+        },
+        {
+          "outcome_unit": "10.4.1.9",
+          "description": "Describe the use of radioactive isotopes",
+          "knowledge": "Such as in medical treatment of cancer, industrial use as tracers",
+          "skills": "Communicating the uses of isotopes",
+          "values": "Awareness of the uses of isotopes"
+        },
+        {
+          "outcome_unit": "10.4.1.10",
+          "description": "Demonstrate the build-up of electrons in shells",
+          "knowledge": "Electronic configuration of atoms (spdf configuration is NOT required)",
+          "skills": null,
+          "values": null
+        },
+        {
+          "outcome_unit": "10.4.2.1",
+          "description": "Describe a compound",
+          "knowledge": "As substance formed from two or more elements chemically combined",
+          "skills": "Classifying ionic compounds and covalent compounds",
+          "values": "Appreciating the use of ionic compounds and covalent compounds"
+        },
+        {
+          "outcome_unit": "10.4.2.2",
+          "description": "Describe the formation of ions (radicals).",
+          "knowledge": "Cations by electron loss, anions by electron gain.",
+          "skills": null,
+          "values": null
+        },
+        {
+          "outcome_unit": "10.4.2.3",
+          "description": "Describe the formation of ionic (electrovalent) bonds.",
+          "knowledge": "Electrovalent bonding as loss and gain of electrons between metallic and non metallic atoms. Ionic bonds as electrostatic force between cations and anions. Such as NaCl, CaCl2 and MgO",
+          "skills": null,
+          "values": null
+        },
+        {
+          "outcome_unit": "10.4.2.4",
+          "description": "Describe the formation of covalent bonds",
+          "knowledge": "Covalent bonding as sharing of electrons between non-metallic atoms. Covalent bonds as shared pairs of electrons. Such as H2, Cl2,H2O, NH3, CH4, HCl, C2H6",
+          "skills": "Communicating the formation of covalent bonds",
+          "values": "Asking more questions to learn more Fostering teamwork"
+        },
+        {
+          "outcome_unit": "10.4.2.5",
+          "description": "Describe the electronic arrangement in simple multiple covalent molecules",
+          "knowledge": "Such as double bonds in O2,C2H4andCO2, Triple bond in N2and C2H2",
+          "skills": "Inferring the arrangements of simple multiple covalent molecules",
+          "values": null
+        },
+        {
+          "outcome_unit": "10.4.2.6",
+          "description": "Describe the uses of ionic and covalent compounds",
+          "knowledge": "As refractory materials for ionic compounds (CaO) and polar and nonpolar solvents for covalent compounds.",
+          "skills": "Communicating the uses of ionic and covalent compounds",
+          "values": "Asking more questions to learn more Fostering teamwork Appreciating ionic and covalent compounds"
+        },
+        {
+          "outcome_unit": "10.4.2.7",
+          "description": "Describe a molecule",
+          "knowledge": "As the smallest particle of an element or compound which exists independently.",
+          "skills": null,
+          "values": null
+        },
+        {
+          "outcome_unit": "10.4.2.8",
+          "description": "Describe valency and valence electrons.",
+          "knowledge": "Valency as combining power of an atom or radical. Valence electrons as the number of electrons in the outer most shell.",
+          "skills": "Demonstrating the deducing of valency",
+          "values": "Asking more questions to learn more Fostering teamwork"
+        },
+        {
+          "outcome_unit": "10.4.2.9",
+          "description": "Demonstrate how to deduce valency of an element.",
+          "knowledge": "From the formula of a compound, ionic charge, valence electrons.",
+          "skills": null,
+          "values": null
+        },
+        {
+          "outcome_unit": "10.4.2.10",
+          "description": "Formulate chemical formulae of compounds.",
+          "knowledge": "Using valency and chemical symbols of elements, charges on ions, models, relative numbers of atoms present, diagrammatic representation",
+          "skills": "Formulating chemical formulae",
+          "values": "Asking more questions to learn more Fostering teamwork Appreciating ionic and covalent compounds"
+        },
+        {
+          "outcome_unit": "10.4.2.11",
+          "description": "Identify the differences in properties of ionic and covalent compounds.",
+          "knowledge": "Differences such as volatility, electrical conductivity, density, melting point, boiling point and basic units.",
+          "skills": "Differentiating chemical formulae Investigating properties of ionic and covalent compounds",
+          "values": null
+        },
+        {
+          "outcome_unit": "10.4.2.12",
+          "description": "Describe metallic bonding",
+          "knowledge": "As lattice of positive ions in a ‘sea’ of delocalised electrons",
+          "skills": "Communicating metallic bonding and thermal conductivity",
+          "values": "Asking more questions to learn more"
+        },
+        {
+          "outcome_unit": "10.4.2.13",
+          "description": "Describe the electrical and thermal conductivity of metals",
+          "knowledge": "Due to free electron movement/delocalised electrons",
+          "skills": null,
+          "values": null
+        },
+        {
+          "outcome_unit": "10.4.4.1",
+          "description": "Demonstrate how to construct word equations.",
+          "knowledge": "Equation showing reactants and products separated by a full curled arrow (⇒).",
+          "skills": "Demonstrating construction of word equations",
+          "values": "Appreciating the conservation of matter."
+        },
+        {
+          "outcome_unit": "10.4.4.2",
+          "description": "Formulate and balance chemical equations.",
+          "knowledge": "Number of atoms of each element being equal on both sides of the equation. Balancing can be done by inspection. Equations may include state symbols (s-solid, l – liquid, g – gas, aq – aqueous).",
+          "skills": "Formulating balanced chemical and ionic equations.",
+          "values": null
+        },
+        {
+          "outcome_unit": "10.4.4.3",
+          "description": "Construct net ionic equations from balanced chemical equations.",
+          "knowledge": "Only ionic aqueous reactants/products must be broken down into their respective ions then cancel out spectator ions to come up with net ionic equation.",
+          "skills": null,
+          "values": null
+        }
+      ]
+    }
+  ]
+}

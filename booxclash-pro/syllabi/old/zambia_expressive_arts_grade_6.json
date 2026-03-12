@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "6",
+    "subject": "Expressive Arts",
+    "philosophy": "Expressive Arts plays an important role in the development of learners. It provides an avenue for learners to express themselves through movement, physical activity, and creative application of modern scientific and technological knowledge for survival skills. Learners develop a variety of life skills, awareness and sense of appreciation for the social, cultural as well as economic value of our natural environment.",
+    "competence_learning": "General Outcomes:\n• Acquire knowledge, skills, positive attitudes and values in fundamental movement\n• Develop skills that improve neuromuscular coordination in a variety of activities for fitness, manipulation, co-ordination, correlation, observation and self-expression.\n• Acquire knowledge and skills in drawing, painting and pattern designing\n• Acquire knowledge, skills, values and positive attitudes to perform various sports activities, games, music and dances\n• Develop skills to improve neuromuscular coordination through participation in a variety of sports activities, games and dances to improve physical fitness\n• Develop crafts skills using materials found in the environment\n• Acquire knowledge, values and skills in swimming\n• Develop basic swimming skills\n• Acquire knowledge and skills in design processes.\n• Acquire knowledge and skills in pool treatment\n\nCompetencies:\n• Demonstrate specific skills, techniques and values in physical activity, music and art\n• Apply knowledge in physical activity, music and design processes to everyday life",
+    "goals": [
+      "Acquire knowledge, skills, positive attitudes and values in fundamental movement",
+      "Develop skills that improve neuromuscular coordination in a variety of activities for fitness, manipulation, co-ordination, correlation, observation and self-expression.",
+      "Acquire knowledge and skills in drawing, painting and pattern designing",
+      "Acquire knowledge, skills, values and positive attitudes to perform various sports activities, games, music and dances",
+      "Develop skills to improve neuromuscular coordination through participation in a variety of sports activities, games and dances to improve physical fitness",
+      "Develop crafts skills using materials found in the environment",
+      "Acquire knowledge, values and skills in swimming",
+      "Develop basic swimming skills",
+      "Acquire knowledge and skills in design processes.",
+      "Acquire knowledge and skills in pool treatment"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "6.1",
+      "topic_title": "Safety And Health",
+      "page_number": 8,
+      "subtopics": [
+        "Safety",
+        "Environmental Protection"
+      ],
+      "specific_outcomes": [
+        "6.1.1.1 Explain the importance of good health habits in practical activities",
+        "6.1.1.2 Perform a series of activities to show how in inappropriate dress can affect performance",
+        "6.1.2.1 Demonstrate safety rules on working areas",
+        "6.1.2.2 Perform activities to show how certain sports can have an effect on the environment or playground"
+      ]
+    },
+    {
+      "unit": "6.2",
+      "topic_title": "Movement",
+      "page_number": 8,
+      "subtopics": [
+        "Movement"
+      ],
+      "specific_outcomes": [
+        "6.2.1.1 Demonstrate perceptual motor learning skills"
+      ]
+    },
+    {
+      "unit": "6.3",
+      "topic_title": "Drawing And Colouring",
+      "page_number": 8,
+      "subtopics": [
+        "Colour",
+        "Imaginative Composition",
+        "Still Life",
+        "Types of Patterns"
+      ],
+      "specific_outcomes": [
+        "6.3.1.1 Identify tertiary colours",
+        "6.3.1.2 Design a colour wheel",
+        "6.3.2.1 Draw pictures based on the given themes",
+        "6.3.3.1. Draw and shade pictures",
+        "6.3.4.1 Design different patterns using a motif"
+      ]
+    },
+    {
+      "unit": "6.4",
+      "topic_title": "Notation",
+      "page_number": 9,
+      "subtopics": [
+        "Rhythm and Tonic-sofa"
+      ],
+      "specific_outcomes": [
+        "6.4.1.1 Transcribe notes",
+        "6.4.1.2 Distribute notes into bars",
+        "6.4.1.3 Recite tonic-sofa",
+        "6.4.1.4 Clap rhythms"
+      ]
+    },
+    {
+      "unit": "6.5",
+      "topic_title": "African Music",
+      "page_number": 9,
+      "subtopics": [
+        "Style and Form",
+        "Dancing",
+        "Instrument Playing",
+        "Music Composition"
+      ],
+      "specific_outcomes": [
+        "6.5.1.1. Analyse the form and style of African music",
+        "6.5.1.2. Compose African music",
+        "6.5.2.1. Create dances in response to African music.",
+        "6.5.3.1. Play African musical instruments",
+        "6.5.4.1 Compose songs based on different themes using rhythmic and harmonic melody lines"
+      ]
+    },
+    {
+      "unit": "6.6",
+      "topic_title": "Educational Gymnastics",
+      "page_number": 10,
+      "subtopics": [
+        "Tumbling",
+        "Stunts"
+      ],
+      "specific_outcomes": [
+        "6.6.1.1 Perform a series of tumbling activities in a sequence",
+        "6.6.2.1 Perform refined floor activities"
+      ]
+    },
+    {
+      "unit": "6.7",
+      "topic_title": "Health And Fitness Management",
+      "page_number": 10,
+      "subtopics": [
+        "Health",
+        "Fitness"
+      ],
+      "specific_outcomes": [
+        "6.7.1.1 Perform a series of physical activities",
+        "6.7.2.1 Perform a series of developmental activities"
+      ]
+    },
+    {
+      "unit": "6.8",
+      "topic_title": "Sports Skills Development",
+      "page_number": 11,
+      "subtopics": [
+        "Games (Conventional Modified Games)",
+        "Track and Field Events",
+        "Traditional Games"
+      ],
+      "specific_outcomes": [
+        "6.8.1.1 Perform refined sports activities and games",
+        "6.8.2.1 Perform track and field events",
+        "6.8.3.1 Demonstrate simple traditional games"
+      ]
+    },
+    {
+      "unit": "6.9",
+      "topic_title": "Recreation",
+      "page_number": 11,
+      "subtopics": [
+        "Dance",
+        "Drug Abuse"
+      ],
+      "specific_outcomes": [
+        "6.9.1.1 Perform dances with music from different cultures",
+        "6.9.2.1 Compose songs with messages on drug abuse."
+      ]
+    },
+    {
+      "unit": "6.10",
+      "topic_title": "Crafts",
+      "page_number": 12,
+      "subtopics": [
+        "Weaving Plaiting and Knotting",
+        "Picture Making",
+        "Carving",
+        "General Crafts"
+      ],
+      "specific_outcomes": [
+        "6.10.1.1 Make items using different techniques",
+        "6.10.2.1 Describe different techniques of picture making",
+        "6.10.2.2 Make various types of pictures",
+        "6.10.3.1 Carve traditional items from wood or stone.",
+        "6.10.3.2 Decorate finished carved items",
+        "6.10.4.1. Make different types of decorations using local materials"
+      ]
+    },
+    {
+      "unit": "6.11",
+      "topic_title": "Swimming",
+      "page_number": 13,
+      "subtopics": [
+        "Strokes",
+        "Water Games",
+        "Survival Skills",
+        "Pool Hygiene",
+        "Pool Treatment"
+      ],
+      "specific_outcomes": [
+        "6.11.1.1 Demonstrate skilled strokes without buoyancy",
+        "6.11.2.1 Perform competitions in group/relay races",
+        "6.11.2.2 Perform simple water games in groups.",
+        "6.11.3.1 Perform rescue skills",
+        "6.11.4.1 Demonstrate advantages of pool hygiene",
+        "6.11.5.1 Demonstrate the importance of treating the pool"
+      ]
+    },
+    {
+      "unit": "6.12",
+      "topic_title": "Lettering And Poster Work",
+      "page_number": 13,
+      "subtopics": [
+        "Lettering",
+        "Poster Making"
+      ],
+      "specific_outcomes": [
+        "6.12.1.1. Design and make stencils",
+        "6.12.2.1. Make posters depicting different situations."
+      ]
+    }
+  ]
+}

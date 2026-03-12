@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "5",
+    "subject": "Expressive Arts",
+    "philosophy": "Quality, life long education for all which is accessible, inclusive and relevant to individual, national and global needs",
+    "competence_learning": "This Expressive Arts (EA) Syllabus reflects a learning area where the following subjects have been integrated: Art and Design, Music and Physical Education. The learning area emphasizes on developing creativity, analysis, problem-solving, interpersonal and intrapersonal skills, investigations and aesthetics in learners. Expressive Arts provides opportunities for the individual and group to learn activities that are invigorating, developmental and educational which in turn lead to appreciation of cultural heritage, social, mental and emotional growth. In particular, it helps to cultivate healthy habits, the spirit of team work, determination and problem solving. Expressive Arts enables learners to participate in musical composition and performance, visual arts, sports and games both for leisure and competition and as a means of livelihood. The purpose of this syllabus is to give an equal opportunity to learners who are abled and differently-abled to develop to their highest potential and an opportunity to acquire life-long skills.",
+    "goals": [
+      "Providing quality education that is aligned with the Competence-Based Curriculum and 21st Century Skills.",
+      "Imparting knowledge, skills, values and positive attitudes that should enable learners to live and grow into productive and useful members of their communities and the Zambian society.",
+      "Give an equal opportunity to learners who are abled and differently-abled to develop to their highest potential and an opportunity to acquire life-long skills."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "5.1",
+      "topic_title": "SAFETY AND HEALTH",
+      "page_number": 22,
+      "subtopics": [
+        "5.1.1 Safety",
+        "5.1.2 Health"
+      ],
+      "specific_outcomes": [
+        "5.1.1.1 Demonstrate storage of tools, equipment and artifacts",
+        "5.1.1.2 Show care of space",
+        "5.1.2.1 Compose songs on safety",
+        "5.1.2.2 Draw pictures on safety"
+      ]
+    },
+    {
+      "unit": "5.2",
+      "topic_title": "MOVEMENT",
+      "page_number": 22,
+      "subtopics": [
+        "5.2.1 Sport Skills Movements"
+      ],
+      "specific_outcomes": [
+        "5.2.1.1 Use movement patterns for specific sports"
+      ]
+    },
+    {
+      "unit": "5.3",
+      "topic_title": "DRAWING AND PAINTING",
+      "page_number": 22,
+      "subtopics": [
+        "5.3.1 Tonal Gradation",
+        "5.3.2 Shading Techniques",
+        "5.3.3 Imaginative Composition",
+        "5.3.4 Colour",
+        "5.3.5 Figure Drawing"
+      ],
+      "specific_outcomes": [
+        "5.3.1.1 Apply tonal gradation",
+        "5.3.2.1 Demonstrate shading techniques",
+        "5.3.3.1 Compose pictures showing light and shade",
+        "5.3.4.1 Identify types of colour (tertiary colour)",
+        "5.3.4.2 Create tints and shades",
+        "5.3.4.3 Analyse quality of tints and shades",
+        "5.3.5.1 Draw human figures"
+      ]
+    },
+    {
+      "unit": "5.4",
+      "topic_title": "NOTATION",
+      "page_number": 24,
+      "subtopics": [
+        "5.4.1 Musical Notes",
+        "5.4.2 Simple Time Signature"
+      ],
+      "specific_outcomes": [
+        "5.4.1.1 Demonstrate rhythm and tonic solfa",
+        "5.4.1.2 Perform rhythmic patterns using learnt musical notes",
+        "5.4.2.1 Perform simple time signature"
+      ]
+    },
+    {
+      "unit": "5.5",
+      "topic_title": "ZAMBIAN MUSIC",
+      "page_number": 24,
+      "subtopics": [
+        "5.5.1 Zambian Contemporary Music",
+        "5.5.2 Zambian Traditional Music"
+      ],
+      "specific_outcomes": [
+        "5.5.1.1 Perform Zambian contemporary music",
+        "5.5.2.1 Perform various styles and forms of Zambian traditional music"
+      ]
+    },
+    {
+      "unit": "5.6",
+      "topic_title": "AFRICAN MUSIC",
+      "page_number": 25,
+      "subtopics": [
+        "5.6.1 Traditional Instruments"
+      ],
+      "specific_outcomes": [
+        "5.6.1.1 Make simple African traditional instruments",
+        "5.6.1.2 Play traditional instruments"
+      ]
+    },
+    {
+      "unit": "5.7",
+      "topic_title": "HEALTH AND FITNESS MANAGEMENT",
+      "page_number": 25,
+      "subtopics": [
+        "5.7.1 Health Performances",
+        "5.7.2 Fitness",
+        "5.7.3 Gymnastics"
+      ],
+      "specific_outcomes": [
+        "5.7.1.1 Perform series of developmental activities",
+        "5.7.2.1 Practise fitness activities",
+        "5.7.3.1 Perform tumbling activities",
+        "5.7.3.2 Demonstrate stunt activities"
+      ]
+    },
+    {
+      "unit": "5.8",
+      "topic_title": "SPORTS SKILLS DEVELOPMENT",
+      "page_number": 26,
+      "subtopics": [
+        "5.8.1 Conventional Games"
+      ],
+      "specific_outcomes": [
+        "5.8.1.1 Practise modified conventional games"
+      ]
+    },
+    {
+      "unit": "5.9",
+      "topic_title": "RECREATION",
+      "page_number": 26,
+      "subtopics": [
+        "5.9.1 Dances",
+        "5.9.2 Instrument Playing"
+      ],
+      "specific_outcomes": [
+        "5.9.1.1 Perform Zambian dances",
+        "5.9.2.1 Demonstrate playing instruments"
+      ]
+    },
+    {
+      "unit": "5.10",
+      "topic_title": "SWIMMING",
+      "page_number": 26,
+      "subtopics": [
+        "5.10.1 Swimming Pool Management",
+        "5.10.2 Water Games"
+      ],
+      "specific_outcomes": [
+        "5.10.1.1 Practise pool hygiene",
+        "5.10.2.1 Perform swimming activities"
+      ]
+    },
+    {
+      "unit": "5.11",
+      "topic_title": "PATTERNS",
+      "page_number": 27,
+      "subtopics": [
+        "5.11.1 Types of Patterns"
+      ],
+      "specific_outcomes": [
+        "5.11.1.1 Design patterns"
+      ]
+    },
+    {
+      "unit": "5.12",
+      "topic_title": "CRAFTS",
+      "page_number": 27,
+      "subtopics": [
+        "5.12.1 Weaving",
+        "5.12.2 Knotting",
+        "5.12.3 Modelling",
+        "5.12.4 Papier Maché",
+        "5.12.5 Construction",
+        "5.12.6 Picture Making",
+        "5.12.7 Carving",
+        "5.12.8 General Crafts"
+      ],
+      "specific_outcomes": [
+        "5.12.1.1 Make items using weaving techniques",
+        "5.12.2.1 Make items using knotting techniques",
+        "5.12.3.1 Demonstrate modelling using materials",
+        "5.12.4.1 Make items using paper pulp",
+        "5.12.5.1 Construct objects",
+        "5.12.6.1 Create pictures using various picture making techniques",
+        "5.12.7.1 Make carved items",
+        "5.12.8.1 Make items"
+      ]
+    },
+    {
+      "unit": "5.13",
+      "topic_title": "LETTERING AND POSTER WORK",
+      "page_number": 28,
+      "subtopics": [
+        "5.13.1 Poster Designing",
+        "5.13.2 Calligraphy"
+      ],
+      "specific_outcomes": [
+        "5.13.1.1 Design posters based on different themes",
+        "5.13.2.1 Practise calligraphy"
+      ]
+    }
+  ]
+}

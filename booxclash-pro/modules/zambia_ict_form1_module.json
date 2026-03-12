@@ -1,0 +1,444 @@
+{
+    "subject": "Information and Communication Technology",
+    "grade": "Form 1",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "Introduction to ICT",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Role of ICT in Daily Life",
+                    "page": 6,
+                    "competences": [
+                        "Explain the importance of ICT in communication.",
+                        "Discuss the impact of ICT on education.",
+                        "Describe how ICT is used in business operations."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.1",
+                            "page": 9,
+                            "hook": "How do you think smartphones, emails, and online classes are changing the way we communicate, learn, and do business? Let's explore!",
+                            "teacher_steps": [
+                                "Introduce the topic by asking learners how they use technology in their daily lives.",
+                                "Facilitate a group discussion on real-life examples of ICT use in communication (e.g., social media, emails, video calls).",
+                                "Guide learners through a role-play scenario demonstrating ICT-based communication.",
+                                "Lead a class discussion comparing traditional communication methods to ICT-driven communication.",
+                                "Show multimedia presentations and videos of ICT tools in action.",
+                                "Present case studies of ICT use in communication.",
+                                "Consolidate learning by ensuring learners can articulate the importance of ICT in communication."
+                            ],
+                            "learner_steps": [
+                                "Participate in a group discussion on real-life examples of ICT in communication.",
+                                "Role-play a scenario demonstrating ICT-based communication.",
+                                "Compare traditional communication methods with ICT-driven methods through class discussion.",
+                                "Watch videos showing ICT tools in action.",
+                                "Answer assessment questions on ICT in communication."
+                            ],
+                            "short_notes": "ICT (Information and Communication Technology) plays a key role in making communication faster and more efficient. It allows people to send messages instantly through email, messaging apps, and social media platforms. Video conferencing tools, such as Zoom or Microsoft Teams, enable real-time communication across the globe. ICT also helps businesses and organizations to reach a wider audience using websites and digital marketing. Overall, it has transformed how people share information and stay connected.\n\nDefinition of ICT: ICT (Information and Communication Technology) refers to the technologies that provide access to information through telecommunications. Examples include the internet, mobile phones, and computers.\n\nImportance of ICT in Communication:\n- Faster Communication: ICT allows instant communication through emails, instant messaging, and video calls, eliminating delays caused by traditional methods.\n- Global Connectivity: People from different parts of the world can easily connect through social media platforms, video conferencing tools, and other online services.\n- Cost-Effectiveness: ICT reduces the cost of communication by providing free or affordable options such as emails, VoIP (e.g., Skype), and social media platforms.\n- Accessibility: Communication is accessible to a wider audience, including individuals in remote areas, through devices like mobile phones and the internet.\n- Ease of Sharing Information: ICT enables easy sharing of large amounts of information, such as multimedia files and documents, across distances."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.2",
+                            "page": 10,
+                            "hook": "How has technology changed the way you learn at school or at home?",
+                            "teacher_steps": [
+                                "Show videos demonstrating ICT in education (e.g., e-learning platforms, digital libraries).",
+                                "Guide learners to write a short essay about the impact of ICT on education.",
+                                "Facilitate a survey on ICT tools used at home or in schools (e.g., laptops, tablets).",
+                                "Introduce learners to educational software and apps.",
+                                "Demonstrate use of devices like tablets, projectors, and computers.",
+                                "Direct learners to internet-based resources for exploration.",
+                                "Consolidate learning on the impact of ICT on education, covering both benefits and challenges."
+                            ],
+                            "learner_steps": [
+                                "Watch videos demonstrating ICT in education.",
+                                "Write a short essay about the impact of ICT on education.",
+                                "Conduct a survey on ICT tools used at home or in schools.",
+                                "Explore educational software and apps.",
+                                "Answer assessment questions on ICT in education."
+                            ],
+                            "short_notes": "ICT has revolutionized education by providing access to vast amounts of information and resources online. Digital tools, like e-learning platforms, allow learners to learn from anywhere at any time. Interactive technologies, such as smartboards and simulations, make learning engaging and practical. ICT also enables collaboration between learners and teachers through tools like Google Classroom and Microsoft Teams. As a result, ICT enhances both teaching methods and learning outcomes.\n\nPositive Impacts:\n- Access to Information: ICT provides learners and educators with vast resources through online libraries, research databases, and e-learning platforms.\n- Interactive Learning: Digital tools like interactive whiteboards, educational apps, and virtual labs enhance engagement and understanding.\n- Remote Learning: ICT supports online classes and distance learning, allowing learners to access education from anywhere.\n- Improved Teacher-Learner Communication: Platforms like Google Classroom and Moodle enable seamless communication and resource sharing.\n- Skill Development: Exposure to ICT tools equips learners with digital literacy, which is essential in the modern world.\n\nChallenges:\n- Digital Divide: Not everyone has access to ICT due to financial or infrastructural limitations.\n- Distractions: Unsupervised use of ICT devices can lead to distractions like gaming and social media.\n\nThe integration of ICT into education has revolutionized teaching and learning, making them more interactive and engaging. ICT tools such as computers, smartboards, and mobile devices have enhanced access to information, providing learners and educators with a wealth of resources beyond traditional textbooks. Online platforms and e-learning environments allow learners to access educational materials anytime and anywhere, promoting self-paced learning. This accessibility is particularly beneficial for learners in remote areas, bridging the gap between urban and rural education.\n\nMoreover, ICT fosters collaboration and communication in education. Tools such as video conferencing, discussion forums, and collaborative software enable learners and teachers to connect beyond physical classrooms. This global connectivity allows for the exchange of diverse ideas and perspectives, enriching the learning experience. ICT also supports group projects and peer-to-peer learning, helping learners develop teamwork and problem-solving skills essential for the modern workplace.\n\nIn addition, ICT has significantly improved the efficiency of educational administration and management. Digital tools streamline tasks such as attendance tracking, grading, and curriculum planning, reducing the workload of educators. Advanced data analytics systems provide insights into learner performance, helping educators identify strengths and weaknesses and tailor their teaching strategies accordingly. Such innovations ensure a more personalized and effective approach to education, catering to the unique needs of each learner.\n\nHowever, the widespread adoption of ICT in education also presents challenges, such as the digital divide and potential overreliance on technology. Not all learners and schools have access to the necessary devices and internet connectivity, leading to inequalities in educational opportunities. Additionally, excessive screen time and reduced face-to-face interactions can impact social skills and physical health. Addressing these challenges requires a balanced approach, ensuring that ICT complements rather than replaces traditional teaching methods."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.3",
+                            "page": 11,
+                            "hook": "Can you think of a business that does NOT use any form of technology? What advantages might businesses gain by using ICT?",
+                            "teacher_steps": [
+                                "Facilitate a discussion on ICT applications in businesses (e.g., online banking, e-commerce, customer management systems).",
+                                "Guide learners to create a poster showing ICT applications in business.",
+                                "Facilitate a group brainstorming session on the benefits of ICT in business.",
+                                "Present business software demonstrations.",
+                                "Show infographics displaying ICT applications in business.",
+                                "Provide examples of ICT-driven businesses for learners to analyse.",
+                                "Consolidate learning on how ICT is used in business operations."
+                            ],
+                            "learner_steps": [
+                                "Discuss ICT applications in businesses (e.g., online banking, e-commerce, customer management systems).",
+                                "Create a poster showing ICT applications in business.",
+                                "Brainstorm benefits of ICT in business through group discussions.",
+                                "Explore business software demonstrations.",
+                                "Answer assessment questions on ICT in business."
+                            ],
+                            "short_notes": "Businesses use ICT to streamline their operations and improve efficiency. Accounting software simplifies financial management, while inventory systems track goods and supplies. Communication tools like email and video calls help teams collaborate effectively, even across different locations. ICT also supports online transactions and customer management through e-commerce platforms and CRM software. This technology helps businesses to grow, innovate, and stay competitive.\n\nApplications of ICT in Business:\n- Communication: Businesses use emails, video conferencing, and instant messaging to communicate internally and externally.\n- Marketing: Digital marketing through websites, social media, and email campaigns helps businesses reach a larger audience.\n- Data Management: ICT enables efficient storage, processing, and analysis of business data using tools like spreadsheets and databases.\n- E-commerce: Online platforms allow businesses to sell products and services directly to customers worldwide.\n- Automation: ICT tools automate repetitive tasks, improving efficiency and reducing errors. Examples include accounting software and inventory management systems.\n- Customer Support: Businesses use ICT solutions like chatbots and customer relationship management (CRM) systems to improve customer service.\n\nBenefits of ICT in Business:\n- Increased Productivity: Automation and efficient communication tools boost productivity.\n- Cost Reduction: ICT reduces operational costs, such as travel expenses and paperwork.\n- Enhanced Decision-Making: Real-time data analysis and reporting tools support informed decision-making.\n- Global Reach: ICT enables businesses to operate on a global scale, expanding their market base.\n\nICT is present in many aspects of daily life. In healthcare, electronic medical records and telemedicine are used to improve patient care. In education, platforms like Khan Academy and Coursera provide online learning opportunities. In banking, mobile apps allow users to check balances, transfer money, and pay bills. Social media platforms, such as Facebook and Instagram, enable global communication and marketing. These examples show how ICT is integrated into various sectors to simplify tasks and enhance services."
+                        }
+                    ],
+                    "short_notes": "ICT (Information and Communication Technology) refers to the technologies that provide access to information through telecommunications. It plays a vital role in enhancing communication, education, and business operations. ICT bridges geographical gaps and increases efficiency in daily life. ICT tools like email, e-learning platforms, and e-commerce systems are transformative across all sectors of society.",
+                    "vocabulary": [
+                        {
+                            "term": "ICT",
+                            "definition": "Information and Communication Technology — the technologies that provide access to information through telecommunications, including the internet, mobile phones, and computers."
+                        },
+                        {
+                            "term": "Communication tools",
+                            "definition": "Technologies used to send and receive messages or information, such as email, messaging apps, and video conferencing platforms."
+                        },
+                        {
+                            "term": "Online learning platforms",
+                            "definition": "Digital environments that provide educational content and enable teaching and learning over the internet, such as Google Classroom, Moodle, and Khan Academy."
+                        },
+                        {
+                            "term": "Business operations",
+                            "definition": "The day-to-day activities and processes a business carries out to achieve its goals, many of which are now supported or automated by ICT."
+                        },
+                        {
+                            "term": "Digital tools",
+                            "definition": "Software and hardware resources that use digital technology to perform specific tasks, such as word processors, spreadsheets, and presentation software."
+                        },
+                        {
+                            "term": "ICT applications",
+                            "definition": "Specific uses of ICT in various sectors, such as telemedicine in healthcare, e-learning in education, and e-commerce in business."
+                        },
+                        {
+                            "term": "E-commerce",
+                            "definition": "The buying and selling of goods and services online through digital platforms and websites."
+                        },
+                        {
+                            "term": "Digital divide",
+                            "definition": "The gap between individuals, communities, or countries that have access to modern ICT and those that do not, often due to financial or infrastructural limitations."
+                        },
+                        {
+                            "term": "VoIP",
+                            "definition": "Voice over Internet Protocol — a technology that allows voice calls to be made over the internet rather than traditional telephone lines, e.g., Skype."
+                        },
+                        {
+                            "term": "CRM",
+                            "definition": "Customer Relationship Management — software used by businesses to manage interactions with current and potential customers."
+                        },
+                        {
+                            "term": "E-learning",
+                            "definition": "Learning conducted via digital resources and the internet, enabling learners to access education remotely and at their own pace."
+                        },
+                        {
+                            "term": "Video conferencing",
+                            "definition": "A technology that allows people in different locations to hold face-to-face meetings over the internet using video and audio, e.g., Zoom, Microsoft Teams."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 12,
+                        "questions": [
+                            "What is ICT? Answer: ICT stands for Information and Communication Technology, encompassing tools and applications for communication and data handling.",
+                            "How does ICT help learners access information? Answer: ICT provides access to information through online libraries, educational websites, and research databases.",
+                            "What is one way ICT improves learning experiences in the classroom? Answer: ICT improves learning by using interactive tools like smartboards, educational apps, and virtual simulations.",
+                            "Name a platform that supports remote learning. Answer: Platforms like Google Classroom, Zoom, and Microsoft Teams support remote learning.",
+                            "How does ICT benefit teachers in preparing for lessons? Answer: ICT allows teachers to access a wide range of teaching resources, create digital lesson plans, and share materials with learners easily.",
+                            "What is one challenge faced when using ICT in education? Answer: One challenge is the digital divide, where some learners and schools lack access to ICT tools and the internet.",
+                            "How does ICT help in developing students' skills for the future? Answer: ICT helps learners develop digital literacy skills, which are essential for careers in the modern world.",
+                            "Why is ICT important for education in remote areas? Answer: ICT allows learners in remote areas to access online learning resources and participate in virtual classes, overcoming geographical barriers.",
+                            "Name two ways ICT improves communication. Answer: ICT enables instant messaging and video conferencing.",
+                            "Mention one ICT tool used in education. Answer: E-learning platforms like Google Classroom.",
+                            "Write two ways ICT enhances learning. Answer: Provides access to digital libraries and supports virtual collaboration.",
+                            "How does ICT support business operations? Answer: ICT enables automation, online transactions, and efficient communication.",
+                            "Name three examples of ICT tools used in communication. Answer: WhatsApp, email, video conferencing.",
+                            "Name a business process improved by ICT. Answer: Online marketing.",
+                            "Give an example of an input device used in ICT. Answer: Keyboard.",
+                            "Which ICT tool is commonly used for virtual meetings? Answer: Zoom or Microsoft Teams.",
+                            "What is the primary role of ICT in broadcasting? Answer: Facilitating real-time communication and media dissemination.",
+                            "Mention one challenge of using ICT in education. Answer: Digital divide or lack of access to technology.",
+                            "Name two platforms for e-learning. Answer: Khan Academy, Coursera.",
+                            "Define e-commerce. Answer: E-commerce is the buying and selling of goods and services online.",
+                            "How has ICT changed business operations? Answer: By enabling e-commerce, improving customer service, and automating processes."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "Introduction to ICT Tools",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Types of ICT Tools",
+                    "page": null,
+                    "competences": [
+                        "Identify various ICT tools and their purposes."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.1",
+                            "page": null,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This topic introduces learners to the various tools used in ICT, their classifications, and their specific purposes in everyday life and professional settings."
+                        }
+                    ],
+                    "short_notes": "ICT tools are hardware and software resources used to collect, store, process, and communicate information. They are broadly categorised into input devices, output devices, storage devices, and communication tools.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "Introduction to Digital Literacy",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Understanding Digital Literacy",
+                    "page": null,
+                    "competences": [
+                        "Demonstrate an understanding of digital literacy and its importance in daily life."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.1",
+                            "page": null,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This topic introduces learners to the concept of digital literacy — the ability to use digital tools and technologies effectively and responsibly."
+                        }
+                    ],
+                    "short_notes": "Digital literacy refers to the ability to find, evaluate, utilise, share, and create content using information technologies and the Internet. It is an essential skill for participation in the modern digital world.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "Basic Computer Skills",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Introduction to Hardware",
+                    "page": null,
+                    "competences": [
+                        "Differentiate between input, output, and storage devices."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.1",
+                            "page": null,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This topic provides learners with foundational knowledge of computer hardware, enabling them to identify and differentiate between the major categories of hardware devices."
+                        }
+                    ],
+                    "short_notes": "Computer hardware refers to the physical components of a computer system. Hardware is classified into input devices (used to enter data), output devices (used to display or present processed data), and storage devices (used to save data for future use).",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "Types and Components of Computer Systems",
+            "sub_topics": [
+                {
+                    "subtopic_id": "5.1",
+                    "title": "Hardware Components",
+                    "page": null,
+                    "competences": [
+                        "Identify and name basic hardware components of a computer system."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1.1",
+                            "page": null,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This topic explores the various hardware components that make up a computer system and their individual functions."
+                        }
+                    ],
+                    "short_notes": "A computer system consists of hardware and software working together. Key hardware components include the Central Processing Unit (CPU), motherboard, RAM (Random Access Memory), hard drive/SSD, power supply unit, and peripheral devices such as monitors, keyboards, and mice.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "6.0",
+            "topic_title": "Input and Output Devices",
+            "sub_topics": [
+                {
+                    "subtopic_id": "6.1",
+                    "title": "Input Devices",
+                    "page": null,
+                    "competences": [
+                        "Identify and name different input devices and describe their functions."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.1.1",
+                            "page": null,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This topic focuses on input devices — hardware components that allow users to enter data and commands into a computer system."
+                        }
+                    ],
+                    "short_notes": "Input devices are hardware peripherals that allow users to enter data and instructions into a computer. Common input devices include the keyboard (for typing text and commands), mouse (for pointing and clicking), scanner (for digitising physical documents), microphone (for audio input), and webcam (for video input).",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.2",
+                    "title": "Output Devices",
+                    "page": null,
+                    "competences": [
+                        "Identify and name different output devices and describe their functions."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.2.1",
+                            "page": null,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This topic focuses on output devices — hardware components that present processed information from the computer to the user."
+                        }
+                    ],
+                    "short_notes": "Output devices are hardware peripherals that present data or results from a computer to the user. Common output devices include the monitor (for visual display), printer (for hard-copy documents), speakers (for audio output), and projector (for large-scale visual display).",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "8.0",
+            "topic_title": "Productivity Tools",
+            "sub_topics": [
+                {
+                    "subtopic_id": "8.1",
+                    "title": "Using Software Applications",
+                    "page": null,
+                    "competences": [
+                        "Use basic software applications like word processors and spreadsheets to complete tasks."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "8.1.1",
+                            "page": null,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This topic introduces learners to common productivity software applications and how to use them for everyday tasks in education and work."
+                        }
+                    ],
+                    "short_notes": "Productivity tools are software applications designed to help individuals and organisations complete tasks more efficiently. Common examples include word processors (e.g., Microsoft Word) for creating and editing text documents, spreadsheets (e.g., Microsoft Excel) for organising and analysing numerical data, presentation software (e.g., Microsoft PowerPoint) for creating visual presentations, and email clients for digital communication.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "9.0",
+            "topic_title": "File Management",
+            "sub_topics": [
+                {
+                    "subtopic_id": "9.1",
+                    "title": "Basics of File Management",
+                    "page": null,
+                    "competences": [
+                        "Demonstrate basic file management skills including creating, saving, organising, and retrieving files."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "9.1.1",
+                            "page": null,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This topic teaches learners how to manage digital files and folders effectively on a computer operating system."
+                        }
+                    ],
+                    "short_notes": "File management refers to the process of organising, storing, naming, and retrieving digital files on a computer. Good file management practices include using descriptive file names, organising files into folders and subfolders, regularly saving work, creating backups, and deleting unnecessary files to free up storage space.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "10.0",
+            "topic_title": "Basic Internet and Online Tools",
+            "sub_topics": [
+                {
+                    "subtopic_id": "10.1",
+                    "title": "Introduction to the Internet",
+                    "page": null,
+                    "competences": [
+                        "Demonstrate basic understanding of the internet and how to use common online tools safely and effectively."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "10.1.1",
+                            "page": null,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This topic introduces learners to the internet — its structure, how it works, and how to use it safely and productively for education and daily life."
+                        }
+                    ],
+                    "short_notes": "The internet is a global network of interconnected computers that allows the sharing of information and communication across the world. It supports services such as the World Wide Web (websites and web pages), email, online banking, social media, and video streaming. Safe internet use involves understanding online privacy, avoiding sharing personal information with strangers, recognising cyberbullying, and being aware of online scams and misinformation.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                }
+            ]
+        }
+    ]
+}

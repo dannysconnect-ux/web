@@ -1,0 +1,769 @@
+{
+    "subject": "Art and Design",
+    "grade": "Form 1-4",
+    "forms": [
+        {
+            "form": "Form 1",
+            "topics": [
+                {
+                    "topic_id": "1.0",
+                    "topic_title": "Introduction to Art, Crafts and Design",
+                    "sub_topics": [
+                        {
+                            "subtopic_id": "1.1",
+                            "title": "Art Awareness and Appreciation",
+                            "page": 1,
+                            "competences": [
+                                "Categorise branches of Art"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Defining Art (performing, literary and visual)",
+                                        "Categorising branches of Art: Visual Art, Performing Arts, Digital Art...",
+                                        "Visiting different places where the named branches of Art are found: Museum, cultural centres...",
+                                        "Critiquing various artworks"
+                                    ],
+                                    "learner_steps": [
+                                        "Participate in defining different forms of Art",
+                                        "Categorize branches of Art through group activities",
+                                        "Visit museums and cultural centers",
+                                        "Engage in art critique sessions"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Art is categorized into three main branches: Visual Arts (painting, sculpture, crafts), Performing Arts (dance, music, drama), and Literary Arts (poetry, prose). Digital Art is an emerging contemporary form.",
+                            "vocabulary": [
+                                {
+                                    "term": "Visual Arts",
+                                    "definition": "Art forms that create works which are primarily visual in nature, such as painting, drawing, sculpture, and crafts"
+                                },
+                                {
+                                    "term": "Performing Arts",
+                                    "definition": "Art forms involving performance, such as dance, music, and drama"
+                                },
+                                {
+                                    "term": "Digital Art",
+                                    "definition": "Artistic work or practice that uses digital technology as part of the creative process"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 1,
+                                "questions": [
+                                    "List and explain the three main branches of Art",
+                                    "Give examples of artworks in each branch",
+                                    "Explain the difference between Visual and Performing Arts"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "1.2",
+                            "title": "Careers in Art and Design",
+                            "page": 1,
+                            "competences": [
+                                "Classify careers in Art and Design"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Identifying careers in Art and Design",
+                                        "Classifying careers: Art Teacher, fabric designer, curator...",
+                                        "Matching artworks to specific categories of art: Graphic designer, fine artists..."
+                                    ],
+                                    "learner_steps": [
+                                        "Research various art careers",
+                                        "Classify careers according to specialization",
+                                        "Match artworks to career categories",
+                                        "Present findings to class"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Art and Design careers span multiple fields including education (Art Teacher), museums (Curator), commercial design (Graphic Designer, Fashion Designer), fine arts (Painter, Sculptor), and applied arts (Fabric Designer, Interior Decorator).",
+                            "vocabulary": [
+                                {
+                                    "term": "Curator",
+                                    "definition": "A professional who manages and organizes art collections in museums or galleries"
+                                },
+                                {
+                                    "term": "Graphic Designer",
+                                    "definition": "A professional who creates visual content for communication and marketing"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 1,
+                                "questions": [
+                                    "Name five careers in Art and Design",
+                                    "Classify art careers into categories (education, commercial, fine arts)",
+                                    "Explain the role of a curator in the art field"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "1.3",
+                            "title": "Visual Arts",
+                            "page": 1,
+                            "competences": [
+                                "Identify forms of Visual Arts"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Identifying forms of Visual arts: Fine Arts, Crafts, Design",
+                                        "Discussing the functions of Visual arts: income generation, identity, cultural heritage...",
+                                        "Analysing forms of visual arts"
+                                    ],
+                                    "learner_steps": [
+                                        "Identify different forms of Visual Arts",
+                                        "Discuss functions and importance",
+                                        "Analyze various visual artworks",
+                                        "Create simple visual art pieces"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Visual Arts encompass Fine Arts (painting, drawing, printmaking), Crafts (pottery, weaving, basketry), and Design (graphic design, fashion design, interior design). These serve multiple functions including cultural preservation, economic value, and aesthetic expression.",
+                            "vocabulary": [
+                                {
+                                    "term": "Fine Arts",
+                                    "definition": "Art created primarily for aesthetic purposes rather than functional use, including painting, sculpture, and drawing"
+                                },
+                                {
+                                    "term": "Crafts",
+                                    "definition": "Skilled activities involving making things by hand, such as pottery, weaving, and woodwork"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 1,
+                                "questions": [
+                                    "Distinguish between Fine Arts and Crafts",
+                                    "List three functions of Visual Arts in society",
+                                    "Give examples of Design in Visual Arts"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "1.4",
+                            "title": "Pioneers of Zambian Visual Arts",
+                            "page": 1,
+                            "competences": [
+                                "Identify pioneers of Zambian Visual Arts"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Identifying pioneers of Zambian Visual Arts: Henry Tayali, Gabriel Ellison, Cynthia Zukas, Akwila Simpasa, Godfrey Setti, Shadreck Simukanga, Martin Abasi Phiri...",
+                                        "Critiquing works of the pioneer visual artists"
+                                    ],
+                                    "learner_steps": [
+                                        "Research Zambian pioneer artists",
+                                        "Study their artworks and styles",
+                                        "Critique and analyze their contributions",
+                                        "Present findings on selected artists"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Zambian Visual Arts pioneers include Henry Tayali (known for expressive paintings), Gabriel Ellison (sculptor and painter), Cynthia Zukas (painter), Akwila Simpasa (sculptor), and others who established the foundation of contemporary Zambian art.",
+                            "vocabulary": [
+                                {
+                                    "term": "Pioneer Artist",
+                                    "definition": "An artist who is among the first to develop or establish an art movement or style in a particular region"
+                                },
+                                {
+                                    "term": "Visual Artist",
+                                    "definition": "An artist who works in visual mediums such as painting, sculpture, or drawing"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 1,
+                                "questions": [
+                                    "Name five Zambian pioneer visual artists",
+                                    "Describe the contribution of Henry Tayali to Zambian art",
+                                    "Analyze the work of one pioneer Zambian artist"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "1.5",
+                            "title": "Elements of Art",
+                            "page": 2,
+                            "competences": [
+                                "Apply Art elements in practical activities"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Identifying elements of Art: Line, shape, space, value, texture, tone and colour",
+                                        "Experimenting with lines to express and communicate ideas",
+                                        "Using lines to create contour, gesture drawings and calligraphy writing",
+                                        "Analysing the use of shape, form and space",
+                                        "Creating Artworks with the use of shape, form and space"
+                                    ],
+                                    "learner_steps": [
+                                        "Practice using different types of lines",
+                                        "Create artworks using shapes and forms",
+                                        "Experiment with space in compositions",
+                                        "Apply texture and value in drawings",
+                                        "Demonstrate understanding through practical work"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "The seven elements of Art are the building blocks of visual composition: Line (marks that span a distance), Shape (enclosed areas), Form (3D objects), Space (area around objects), Value (lightness/darkness), Texture (surface quality), and Color (hue, value, intensity).",
+                            "vocabulary": [
+                                {
+                                    "term": "Line",
+                                    "definition": "A mark with length and direction, used to create contours, patterns, and textures"
+                                },
+                                {
+                                    "term": "Shape",
+                                    "definition": "A two-dimensional enclosed area defined by boundaries"
+                                },
+                                {
+                                    "term": "Form",
+                                    "definition": "A three-dimensional object with height, width, and depth"
+                                },
+                                {
+                                    "term": "Value",
+                                    "definition": "The lightness or darkness of a color or tone"
+                                },
+                                {
+                                    "term": "Texture",
+                                    "definition": "The surface quality of an object, either actual (tactile) or visual (implied)"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 2,
+                                "questions": [
+                                    "Name and define the seven elements of Art",
+                                    "Create a drawing demonstrating at least four elements of Art",
+                                    "Explain how line can be used to express emotions in artwork"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "1.6",
+                            "title": "Principles of Art",
+                            "page": 2,
+                            "competences": [
+                                "Create Artworks using principles of art"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Defining Art principles: balance, contrast, unity, proportion, emphasis, rhythm, pattern, visual movement...",
+                                        "Discussing use of Art principles as applied in Artworks",
+                                        "Creating an Artwork showing prominent use of one or more of the Art principles"
+                                    ],
+                                    "learner_steps": [
+                                        "Learn and understand art principles",
+                                        "Identify principles in existing artworks",
+                                        "Create artworks applying specific principles",
+                                        "Critique use of principles in peer work"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Art Principles are guidelines for organizing elements of art: Balance (visual weight distribution), Contrast (differences in elements), Unity (harmonious relationship), Proportion (relative size), Emphasis (focal point), Rhythm (repetition creating movement), Pattern (repeated elements), and Movement (visual path through artwork).",
+                            "vocabulary": [
+                                {
+                                    "term": "Balance",
+                                    "definition": "The distribution of visual weight in an artwork, can be symmetrical, asymmetrical, or radial"
+                                },
+                                {
+                                    "term": "Contrast",
+                                    "definition": "The difference between elements, such as light and dark or rough and smooth"
+                                },
+                                {
+                                    "term": "Unity",
+                                    "definition": "The sense that all parts of an artwork work together to create a harmonious whole"
+                                },
+                                {
+                                    "term": "Emphasis",
+                                    "definition": "The part of an artwork that catches the viewer's attention first"
+                                },
+                                {
+                                    "term": "Rhythm",
+                                    "definition": "The repetition of elements to create a sense of organized movement"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 2,
+                                "questions": [
+                                    "Define five principles of Art",
+                                    "Create an artwork demonstrating balance and emphasis",
+                                    "Analyze how a famous artwork uses art principles"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "1.7",
+                            "title": "Basic Shapes",
+                            "page": 2,
+                            "competences": [
+                                "Apply knowledge of basic shapes in drawing"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Identifying basic shapes: cuboid, pyramid, cone, rectangular box...",
+                                        "Using basic shapes to draw"
+                                    ],
+                                    "learner_steps": [
+                                        "Identify and name basic 3D shapes",
+                                        "Practice drawing basic shapes",
+                                        "Use shapes to construct complex objects",
+                                        "Apply shapes in observational drawing"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Basic shapes in art include 2D shapes (circle, square, triangle, rectangle) and 3D forms (sphere, cube, cylinder, cone, pyramid). Understanding these fundamental shapes helps in constructing and drawing complex objects by breaking them down into simpler components.",
+                            "vocabulary": [
+                                {
+                                    "term": "Cuboid",
+                                    "definition": "A three-dimensional rectangular box shape with six faces"
+                                },
+                                {
+                                    "term": "Pyramid",
+                                    "definition": "A three-dimensional shape with a polygon base and triangular faces meeting at an apex"
+                                },
+                                {
+                                    "term": "Cone",
+                                    "definition": "A three-dimensional shape with a circular base and curved surface tapering to a point"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 2,
+                                "questions": [
+                                    "Draw and label five basic 3D shapes",
+                                    "Use basic shapes to construct a drawing of a house",
+                                    "Explain how basic shapes help in drawing complex objects"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "1.8",
+                            "title": "Types of Shading",
+                            "page": 2,
+                            "competences": [
+                                "Apply shading techniques"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Discussing various shading techniques: pointillism, stippling, hatching, cross-hatching, smudging, scribbling, smash...",
+                                        "Applying tonal gradation on drawings",
+                                        "Applying various shading techniques"
+                                    ],
+                                    "learner_steps": [
+                                        "Learn different shading techniques",
+                                        "Practice each technique separately",
+                                        "Apply shading to create form and depth",
+                                        "Create a value scale from light to dark"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Shading techniques create the illusion of form, depth, and light in drawings. Common techniques include: Hatching (parallel lines), Cross-hatching (intersecting lines), Stippling (dots), Pointillism (controlled dots), Scribbling (random lines), Smudging (blending), and Blending (smooth gradations).",
+                            "vocabulary": [
+                                {
+                                    "term": "Hatching",
+                                    "definition": "A shading technique using parallel lines to create tonal values"
+                                },
+                                {
+                                    "term": "Cross-hatching",
+                                    "definition": "A shading technique using intersecting sets of parallel lines to create darker tones"
+                                },
+                                {
+                                    "term": "Stippling",
+                                    "definition": "A shading technique using small dots to create tonal values"
+                                },
+                                {
+                                    "term": "Tonal Gradation",
+                                    "definition": "The gradual transition from light to dark values"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 2,
+                                "questions": [
+                                    "Demonstrate three different shading techniques",
+                                    "Create a value scale showing gradation from light to dark",
+                                    "Apply appropriate shading to give form to a drawn sphere"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "1.9",
+                            "title": "Different Textures",
+                            "page": 3,
+                            "competences": [
+                                "Compose pictures using a variety of textures and values"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Defining the Art elements: texture and value",
+                                        "Identifying different textures: actual and visual texture",
+                                        "Exploring a variety of textures, value and shading",
+                                        "Composing pictures using a variety of textures and values"
+                                    ],
+                                    "learner_steps": [
+                                        "Identify textures in environment",
+                                        "Distinguish between actual and visual texture",
+                                        "Create texture samples using various techniques",
+                                        "Compose artworks incorporating different textures"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Texture refers to the surface quality of an object. Actual texture (tactile) can be felt by touch, while visual texture (implied) is created through artistic techniques to suggest how a surface might feel. Value works with texture to create depth and interest in artwork.",
+                            "vocabulary": [
+                                {
+                                    "term": "Actual Texture",
+                                    "definition": "The physical, tactile surface quality that can be felt by touch"
+                                },
+                                {
+                                    "term": "Visual Texture",
+                                    "definition": "The illusion of texture created through artistic techniques like shading and pattern"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 3,
+                                "questions": [
+                                    "Explain the difference between actual and visual texture",
+                                    "Create a texture chart showing five different textures",
+                                    "Compose a drawing using various textures and values"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "topic_id": "2.0",
+                    "topic_title": "History of Zambian Art I",
+                    "sub_topics": [
+                        {
+                            "subtopic_id": "2.1",
+                            "title": "Prehistoric Rock Art of Zambia",
+                            "page": 3,
+                            "competences": [
+                                "Research the Prehistoric Rock Art of Zambia"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Identifying the prehistoric rock art of Zambia: Mwela rocks, Kasama rock arts...",
+                                        "Researching on the prehistoric arts of Zambia: Materials and tools, themes, styles of painting...",
+                                        "Analysing the prehistoric rock Art of Zambia"
+                                    ],
+                                    "learner_steps": [
+                                        "Research prehistoric rock art sites",
+                                        "Study materials and techniques used",
+                                        "Analyze themes and styles",
+                                        "Create presentations on findings"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Zambian prehistoric rock art includes important sites like Mwela Rocks and Kasama rock paintings. These artworks provide insights into early human life, beliefs, and activities. Common themes include hunting scenes, animal representations, and geometric patterns created using natural pigments.",
+                            "vocabulary": [
+                                {
+                                    "term": "Prehistoric Art",
+                                    "definition": "Art created before written records, typically through painting or carving on rocks"
+                                },
+                                {
+                                    "term": "Rock Art",
+                                    "definition": "Images created on natural rock surfaces, including paintings and engravings"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 3,
+                                "questions": [
+                                    "Name two important prehistoric rock art sites in Zambia",
+                                    "Describe the materials and techniques used in prehistoric rock art",
+                                    "What themes are common in Zambian prehistoric rock art?"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "2.2",
+                            "title": "Traditional Crafts",
+                            "page": 3,
+                            "competences": [
+                                "Identify traditional crafts"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Identifying the traditional crafts: reed mats, stools, mortar and pestle..."
+                                    ],
+                                    "learner_steps": [
+                                        "Identify traditional crafts in community",
+                                        "Research materials and making processes",
+                                        "Document traditional crafts through photos/drawings",
+                                        "Interview craftspeople about techniques"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Traditional Zambian crafts include functional and decorative items such as reed mats, wooden stools, mortars and pestles, baskets, pottery, and wood carvings. These crafts reflect cultural heritage and practical needs of Zambian communities.",
+                            "vocabulary": [
+                                {
+                                    "term": "Traditional Crafts",
+                                    "definition": "Handmade objects created using techniques passed down through generations"
+                                },
+                                {
+                                    "term": "Functional Craft",
+                                    "definition": "Craftwork designed primarily for practical use"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 3,
+                                "questions": [
+                                    "List five traditional Zambian crafts",
+                                    "Explain the cultural significance of traditional crafts",
+                                    "Describe the making process of one traditional craft"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "2.3",
+                            "title": "Post-independence and Contemporary Art",
+                            "page": 3,
+                            "competences": [
+                                "Explain Post-independence",
+                                "Explain Contemporary Art"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Explaining post-independence and Contemporary Art"
+                                    ],
+                                    "learner_steps": [
+                                        "Study post-independence Zambian art development",
+                                        "Research contemporary Zambian artists",
+                                        "Compare traditional and contemporary art forms",
+                                        "Analyze evolution of Zambian art"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Post-independence Zambian art (from 1964) saw the emergence of formal art education and institutions. Contemporary art reflects modern themes, techniques, and global influences while maintaining Zambian identity and cultural expressions.",
+                            "vocabulary": [
+                                {
+                                    "term": "Post-independence Art",
+                                    "definition": "Art created after Zambia gained independence in 1964, often reflecting national identity"
+                                },
+                                {
+                                    "term": "Contemporary Art",
+                                    "definition": "Art created in the present period, reflecting current ideas, techniques, and social issues"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 3,
+                                "questions": [
+                                    "Explain the development of Zambian art after independence",
+                                    "How does contemporary Zambian art differ from traditional art?",
+                                    "Name two contemporary Zambian artists and their work"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "2.4",
+                            "title": "Traditional Decorations",
+                            "page": 3,
+                            "competences": [
+                                "Make traditional decorations"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Making traditional decorations: Hand prints, jewellery..."
+                                    ],
+                                    "learner_steps": [
+                                        "Create traditional hand print designs",
+                                        "Make traditional jewelry using local materials",
+                                        "Practice traditional decoration techniques",
+                                        "Display completed traditional decorations"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Traditional Zambian decorations include hand prints, beadwork, jewelry, body paintings, and scarification patterns. These decorations serve ceremonial, social, and aesthetic purposes in various Zambian cultures.",
+                            "vocabulary": [
+                                {
+                                    "term": "Traditional Decoration",
+                                    "definition": "Ornamental designs and adornments following cultural traditions"
+                                },
+                                {
+                                    "term": "Beadwork",
+                                    "definition": "Decorative work created using beads, often with cultural significance"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 3,
+                                "questions": [
+                                    "Create a traditional decoration using local materials",
+                                    "Explain the cultural significance of traditional decorations",
+                                    "Describe three types of traditional Zambian decorations"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "2.5",
+                            "title": "Traditional Artefacts",
+                            "page": 4,
+                            "competences": [
+                                "Create traditional Artefacts"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Creating traditional Artefacts: Basketry, weaving, pottery, beadwork..."
+                                    ],
+                                    "learner_steps": [
+                                        "Practice basketry techniques",
+                                        "Learn basic weaving methods",
+                                        "Create simple pottery items",
+                                        "Make beadwork pieces"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Traditional Zambian artefacts include baskets (for storage and carrying), woven mats, pottery (for cooking and storage), beadwork (for decoration and ceremony), and carved wooden items. These represent practical skills and cultural heritage.",
+                            "vocabulary": [
+                                {
+                                    "term": "Artefact",
+                                    "definition": "An object made by human hands, especially one of cultural or historical interest"
+                                },
+                                {
+                                    "term": "Basketry",
+                                    "definition": "The craft of making baskets and woven containers"
+                                },
+                                {
+                                    "term": "Pottery",
+                                    "definition": "Objects made from clay and hardened by heat"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 4,
+                                "questions": [
+                                    "Create a traditional artefact using local materials",
+                                    "Explain the function of traditional artefacts in Zambian culture",
+                                    "Demonstrate one traditional craft technique"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "topic_id": "3.0",
+                    "topic_title": "Introduction to Colour",
+                    "sub_topics": [
+                        {
+                            "subtopic_id": "3.1",
+                            "title": "Types of Colours",
+                            "page": 4,
+                            "competences": [
+                                "Experiment colours of the spectrum"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Experimenting colours of the spectrum: primary, secondary and tertiary"
+                                    ],
+                                    "learner_steps": [
+                                        "Identify primary colors (red, blue, yellow)",
+                                        "Mix primary colors to create secondary colors",
+                                        "Create tertiary colors through mixing",
+                                        "Create a color wheel showing relationships"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "The color spectrum includes Primary colors (red, blue, yellow - cannot be created by mixing), Secondary colors (orange, green, violet - created by mixing two primaries), and Tertiary colors (created by mixing primary and secondary colors).",
+                            "vocabulary": [
+                                {
+                                    "term": "Primary Colors",
+                                    "definition": "The three basic colors (red, blue, yellow) that cannot be created by mixing other colors"
+                                },
+                                {
+                                    "term": "Secondary Colors",
+                                    "definition": "Colors created by mixing two primary colors (orange, green, violet)"
+                                },
+                                {
+                                    "term": "Tertiary Colors",
+                                    "definition": "Colors created by mixing a primary and a secondary color"
+                                },
+                                {
+                                    "term": "Color Spectrum",
+                                    "definition": "The range of colors visible to the human eye"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 4,
+                                "questions": [
+                                    "Name the three primary colors",
+                                    "Mix and demonstrate how to create secondary colors",
+                                    "Create a color wheel showing primary, secondary, and tertiary colors"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "3.2",
+                            "title": "Colour Schemes",
+                            "page": 4,
+                            "competences": [
+                                "Use colour schemes in painting"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Using colour schemes in the painting: Monochromatic, Analogous, Tertiary, Complementary, Colour triads, Split complementary..."
+                                    ],
+                                    "learner_steps": [
+                                        "Learn different color scheme types",
+                                        "Practice each color scheme in small studies",
+                                        "Create paintings using specific color schemes",
+                                        "Analyze color schemes in famous artworks"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Color schemes are harmonious combinations of colors: Monochromatic (variations of one color), Analogous (adjacent colors on wheel), Complementary (opposite colors), Tertiary (three evenly spaced tertiary colors), Triadic (three evenly spaced colors), Split-complementary (one color plus two adjacent to its complement).",
+                            "vocabulary": [
+                                {
+                                    "term": "Monochromatic",
+                                    "definition": "A color scheme using variations of a single color"
+                                },
+                                {
+                                    "term": "Analogous Colors",
+                                    "definition": "Colors that are adjacent to each other on the color wheel"
+                                },
+                                {
+                                    "term": "Complementary Colors",
+                                    "definition": "Colors that are opposite each other on the color wheel"
+                                },
+                                {
+                                    "term": "Color Triad",
+                                    "definition": "Three colors evenly spaced on the color wheel"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 4,
+                                "questions": [
+                                    "Define and demonstrate three color schemes",
+                                    "Create a painting using a complementary color scheme",
+                                    "Identify the color scheme used in a given artwork"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

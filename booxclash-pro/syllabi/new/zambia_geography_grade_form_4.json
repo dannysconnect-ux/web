@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "FORM 4",
+    "subject": "Geography",
+    "philosophy": "Geography Syllabus for Ordinary Level Secondary School has been developed to provide quality education that is aligned with the Competency-Based Curriculum and 21st century skills in Form 1-4. The syllabus is designed to ignite curiosity, relate to everyday experiences and foster appreciation for the diverse landscapes, cultures and ecosystems that shape the Earth. Through the syllabus learners will explore the dynamics of the Earth's features, including landforms, climate and natural resources as well as the impact of human activities on the environment.",
+    "competence_learning": "This syllabus is designed to guide the teaching and learning of Geography for Ordinary Secondary Education Form 1-4. The syllabus interprets the competences indicated in the 2023 Zambia Education Curriculum Framework. The study of geography provides a holistic understanding of the Earth's physical and human systems and their interconnectedness. It also incorporates the techniques of map interpretation and the basic techniques in research.",
+    "goals": [
+      "To enable learners develop knowledge, skills and values necessary to understand the Earth, its systems and the relationship between human settlements, natural resources, economic activities and environmental health and sustainability.",
+      "To enable learners acquire essential competences; and think reflectively, logically, scientifically, creatively and critically so as to promote sustainable development.",
+      "To develop a variety of functional and sustainable knowledge, skills, and experiences which will help them develop into citizens with positive attitude, a sense of curiosity, capacity and ability to fit in the local, national, regional and international community."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "4.1",
+      "topic_title": "Zambia",
+      "page_number": 37,
+      "subtopics": [
+        "4.1.1. Location of Zambia",
+        "4.1.2. Relief and Drainage",
+        "4.1.3. Cultural features"
+      ],
+      "specific_outcomes": [
+        "4.1.1.2. Analyse implications of Zambia's location",
+        "4.1.2.1. Relate relief and drainage features to real -life situations",
+        "4.1.3.1. Promote cultural features of Zambia"
+      ]
+    },
+    {
+      "unit": "4.2",
+      "topic_title": "Forestry In Zambia",
+      "page_number": 38,
+      "subtopics": [
+        "4.2.1. Vegetation of Zambia",
+        "4.2.2. Invasive Plant Species in Zambia",
+        "4.2.3. Deforestation"
+      ],
+      "specific_outcomes": [
+        "4.2.1.1. Promote sustainable use of vegetation",
+        "4.2.2.1. Provide solutions to invasive plant species",
+        "4.2.3.1. Address deforestation"
+      ]
+    },
+    {
+      "unit": "4.3",
+      "topic_title": "Agriculture In Zambia",
+      "page_number": 40,
+      "subtopics": [
+        "4.3.1. Land Tenure Systems",
+        "4.3.2. Types of Farming in Zambia",
+        "4.3.3. Irrigation Farming",
+        "4.3.4. Farming and Climate Change",
+        "4.3.5. Sustainable and unsustainable Farming",
+        "4.3.6. Sugarcane Growing in the Sub-Region (South Africa)",
+        "4.3.7. Pastoral Farming in the Sub-Region (Botswana)",
+        "4.3.8. World Agriculture"
+      ],
+      "specific_outcomes": [
+        "4.3.1.1. Analyse land tenure",
+        "4.3.2.1. Demonstrate understanding of farming in Zambia",
+        "4.3.3.2. Practise irrigation farming",
+        "4.3.4.1. Analyse relationship between farming and climate change",
+        "4.3.5.1. Practise sustainable farming",
+        "4.3.5.2. Analyse unsustainable farming",
+        "4.3.6.1. Relate sugar cane growing in South Africa to Zambia",
+        "4.3.7.1. Relate pastoral farming in Botswana to Zambia",
+        "4.3.8.1. Demonstrate knowledge of major types of farming in the world"
+      ]
+    },
+    {
+      "unit": "4.4",
+      "topic_title": "Fishing In Zambia",
+      "page_number": 43,
+      "subtopics": [
+        "4.4.1. Major Fisheries in Zambia",
+        "4.4.2. Methods of Fishing and Processing",
+        "4.4.3. Fisheries Related Entrepreneurship",
+        "4.4.4. Challenges and Solutions in Fishing",
+        "4.4.5. Fish Farming (Aquaculture)",
+        "4.4.6. Fishing in the Sub-Region (Malawi)",
+        "4.4.7. Fish Farming in the Sub-Region (Zimbabwe)"
+      ],
+      "specific_outcomes": [
+        "4.4.1.1. Demonstrate understanding of fisheries in Zambia",
+        "4.4.2.1. Demonstrate understanding of fish processing",
+        "4.4.3.1. Practise fisheries related entrepreneurship",
+        "4.4.4.1. Provide solutions to fishing challenges",
+        "4.4.5.1. Practise fish farming",
+        "4.4.6.1. Adopt fishing practices from Malawi",
+        "4.4.7.1. Draw lessons of fish farming from Zimbabwe"
+      ]
+    },
+    {
+      "unit": "4.5",
+      "topic_title": "Tourism In Zambia",
+      "page_number": 46,
+      "subtopics": [
+        "4.5.1. Local and International Tourism",
+        "4.5.2. Sustainable Tourism",
+        "4.5.3. Challenges of Tourism and Solutions",
+        "4.5.4. Tourism in the Sub-Region (Kenya and South Africa)"
+      ],
+      "specific_outcomes": [
+        "4.5.1.1. Demonstrate knowledge of tourism in Zambia",
+        "4.5.2.1. Practise sustainable tourism",
+        "4.5.3.1. Provide solutions to the challenges of tourism",
+        "4.5.4.1. Adopt best tourism practices from Kenya and South Africa"
+      ]
+    },
+    {
+      "unit": "4.6",
+      "topic_title": "Fuel and Energy",
+      "page_number": 48,
+      "subtopics": [
+        "4.6.1. Fuel, Power and Energy in Zambia",
+        "4.6.2. Challenges and Solutions in Production of Energy",
+        "4.6.3. Hydro-Electric Power (HEP) in Zambia",
+        "4.6.4. Sustainable Energy",
+        "4.6.5. Energy and Climate Change",
+        "4.6.6. HEP in the Sub-Region"
+      ],
+      "specific_outcomes": [
+        "4.6.1.1. Examine renewable and non-renewable energy sources",
+        "4.6.1.2. Provide solutions to the challenges of transporting fuel and power",
+        "4.6.2.1. Address challenges in production of different types of energy",
+        "4.6.3.1. Analyse hydro-electric power in Zambia",
+        "4.6.3.2. Adopt measures to reduce overdependence on HEP",
+        "4.6.4.1. Use sustainable energy responsibly",
+        "4.6.5.1. Examine relationship between energy and climate change",
+        "4.6.6.1. Evaluate HEP in the Sub-Region"
+      ]
+    },
+    {
+      "unit": "4.7",
+      "topic_title": "Mining",
+      "page_number": 52,
+      "subtopics": [
+        "4.7.1. Mining in Zambia",
+        "4.7.2. Mineral Processing and Economic Growth in Zambia",
+        "4.7.3. Uses of Major Minerals",
+        "4.7.4. Marketing of Major Minerals",
+        "4.7.5. Mining in the Sub-Region (Angola and South Africa)"
+      ],
+      "specific_outcomes": [
+        "4.7.1.1. Demonstrate understanding of mining in Zambia",
+        "4.7.2.1. Relate mineral processing to economic growth in Zambia",
+        "4.7.3.1. Use opportunities within Zambia's mineral value chain.",
+        "4.7.4.1. Provide solutions to challenges Zambia faces in mineral markets",
+        "4.7.5.1. Draw lessons of mining from Angola and South Africa"
+      ]
+    },
+    {
+      "unit": "4.8",
+      "topic_title": "Manufacturing and Processing Industries",
+      "page_number": 54,
+      "subtopics": [
+        "4.8.1. Manufacturing and Processing Industries in Zambia",
+        "4.8.2. Challenges in processing and manufacturing industries",
+        "4.8.3. Manufacturing and Processing Industries in Sub-Region (Zimbabwe and South Africa)",
+        "4.8.4. Manufacturing Industries in the World(Japan and China)"
+      ],
+      "specific_outcomes": [
+        "4.8.1.1. Examine major processing and manufacturing industries in Zambia",
+        "4.8.2.1. Provide solutions to challenges in processing and manufacturing industries",
+        "4.8.3.1. Analyse manufacturing and processing industries in Zimbabwe and South Africa",
+        "4.8.4.1. Draw lesson from rapid industrial expansion in Japan and China"
+      ]
+    },
+    {
+      "unit": "4.9",
+      "topic_title": "Transport and Communication",
+      "page_number": 56,
+      "subtopics": [
+        "4.9.1. Transport and Communication in Zambia",
+        "4.9.2. Environmental impact of different forms of transport",
+        "4.9.3. Sustainable Mobility in Zambia",
+        "4.9.4. Transport and communication the Sub-Region",
+        "4.9.5. World Transport and Communication"
+      ],
+      "specific_outcomes": [
+        "4.9.1.1. Demonstrate understanding of transport and communication in Zambia",
+        "4.9.2.1. Analyse environmental impacts of different forms of transport",
+        "4.9.3.1. Adopt sustainable mobility practices.",
+        "4.9.4.1. Analyse efforts to improve transport and communication in landlocked countries",
+        "4.9.5.1. Demonstrate understanding of new trends in transport and communication"
+      ]
+    }
+  ]
+}

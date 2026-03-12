@@ -1,0 +1,720 @@
+{
+    "subject": "Lunda",
+    "grade": "Form 1",
+    "term": 2,
+    "topics": [
+        {
+            "topic_id": "1",
+            "topic_title": "Kuhanjeka (Discussion)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Kuhosha Nakutiyilila (Listening and Speaking)",
+                    "page": 14,
+                    "competences": [
+                        "Kuditadika hamutu wudi wezhima wunahanewi chatelela (Debate on an important topic presented appropriately)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 14,
+                            "hook": "Indi ntañishi nandotolu walema hinyi? Indi muntu yeniwu iwunateni hewulu walemena mudihi? (What makes a good teacher? What do you admire most about this person?)",
+                            "teacher_steps": [
+                                "Ambuli atudizi mumazanvu (Divide learners into groups)",
+                                "Alezhi atudizi kuditadikisha hamutu wansañu wunahanewi (Guide learners to debate on the topic presented)"
+                            ],
+                            "learner_steps": [
+                                "Ekali mumazanvu nakuditadikisha hamutu wansañu wunayinkuwu (Form groups and debate on the assigned topic)",
+                                "Discussing topics like: kuhimpika kwayuma muluzwizu (climate change), kuzatisha yitumbu nayuma yashetana munzhila yaluwa (drug and substance abuse), kukasunuka kwamuntu (human rights)"
+                            ],
+                            "short_notes": "This activity focuses on debate skills where learners discuss important social topics in groups. The activity helps learners develop listening skills, debate properly, use language effectively, express opinions appropriately, and develop critical thinking."
+                        }
+                    ],
+                    "short_notes": "Kuhosha Nakutiyilila (Listening and Speaking) component helps learners develop skills in listening to each other, debating properly, using language, having appropriate attitudes, and helping learners be confident when speaking to others and using language in different contexts.",
+                    "vocabulary": [
+                        {
+                            "term": "Kuhanjeka",
+                            "definition": "Discussion"
+                        },
+                        {
+                            "term": "Kuditadikisha",
+                            "definition": "To debate"
+                        },
+                        {
+                            "term": "Kuhosha",
+                            "definition": "To speak"
+                        },
+                        {
+                            "term": "Kutiyilila",
+                            "definition": "To listen"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 14,
+                        "questions": [
+                            "Nyitu yansañu yahanewa yinatadikewi chatelela (Topics presented are debated appropriately)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Kutaña - Mazu Akutaña (Reading - Vocabulary)",
+                    "page": 14,
+                    "competences": [
+                        "Kuzatisha mazu akutaña kweseka nachipimu (Use reading vocabulary according to standard)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 14,
+                            "hook": "What vocabulary words do you know related to the topic?",
+                            "teacher_steps": [
+                                "Ambulaku atudizi mumazanvu (Divide learners into groups)",
+                                "Yilezhi kuhanjeka mwalumbulukila mazu anasakulewi mumazanvu (Guide discussion of selected vocabulary in groups)",
+                                "Alezhi atudizi kushimuna mwalumbulukila mazu akutaña (Guide learners to present vocabulary meanings)",
+                                "Alezhi atudizi kuzatisha mazu akutaña asakulewa munyikuku yamazu (Guide learners to use selected vocabulary in sentences)"
+                            ],
+                            "learner_steps": [
+                                "Ahanjeki mwalumbulukila mazu anayinkuwu (Discuss meanings of assigned words)",
+                                "Ashimuni mwalumbulukila mazu akutaña (Present vocabulary meanings)",
+                                "Atudizi wumu wumu kufuma mumazanvu enzi kumbidi nakulumbulula mwaya mazu anahanjikeñawu mwizanvu dawu (Individual learners from groups come forward and explain the meanings discussed in their groups)",
+                                "Azatishi mazu akutaña asakulewa munyikuku yamazu (Use selected vocabulary in sentences)"
+                            ],
+                            "short_notes": "Vocabulary development activity where learners work in groups to discuss and explain word meanings, then use them in sentences. This builds language proficiency and comprehension."
+                        }
+                    ],
+                    "short_notes": "Mazu akutaña (Reading vocabulary) helps learners understand and use words correctly in context, building their language skills and reading comprehension.",
+                    "vocabulary": [
+                        {
+                            "term": "Heloyini",
+                            "definition": "Heroin"
+                        },
+                        {
+                            "term": "Kokeni",
+                            "definition": "Cocaine"
+                        },
+                        {
+                            "term": "Nshiya",
+                            "definition": "Cannabis/Marijuana"
+                        },
+                        {
+                            "term": "Mapwapwa",
+                            "definition": "Lungs"
+                        },
+                        {
+                            "term": "Muchima wachida mbanda",
+                            "definition": "Pregnancy"
+                        },
+                        {
+                            "term": "Chituñilu",
+                            "definition": "Society/Community"
+                        },
+                        {
+                            "term": "Kozomba",
+                            "definition": "Crime"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 15,
+                        "questions": [
+                            "Mazu akutaña asakulewa anahanjikewi mwatelela (Selected vocabulary discussed appropriately)",
+                            "Mazu akutaña asakulewa analumbululewi munzhila yoloka (Selected vocabulary meanings explained correctly)",
+                            "Mazu asakulewa anazatishewi munyikuku yamazu choloka (Selected words used in sentences correctly)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "Kutaña Kwakunama - Kutaña Nakanañachima (Intensive Reading - Reading Comprehension)",
+                    "page": 16,
+                    "competences": [
+                        "Kutaña nsañu yinasonekewi munyikanda yambuzhoka kweseka nachipimu chawu nakutiyishisha (Read text from various sources according to standard and comprehend)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 16,
+                            "hook": "What do you know about drug and substance abuse?",
+                            "teacher_steps": [
+                                "Alezhi atudizi kusoneka mazu (Guide learners to write words)",
+                                "Alezhi atudizi kwakula malwihu (Guide learners to answer questions)",
+                                "Alezhi atudizi kwihihisha nsañu (Guide learners to summarize the text)",
+                                "Alezhi atudizi kutaña nsañu yoyimu munzhila yikwawu (Guide learners to read the same text in their own way)",
+                                "Alezhi atudizi kuhanjeka mazu akutaña (Guide learners to discuss reading vocabulary)"
+                            ],
+                            "learner_steps": [
+                                "Atañi nsañu (Read the text about drug and substance abuse)",
+                                "Akuli malwihu amboka (Answer various questions)",
+                                "Ehihishi nsañu yinatañuwu (Summarize the text read)",
+                                "Atañi nsañu yoyimu munzhila yikwawu (Read the same text in their own way)",
+                                "Ahanjeki chalumbuluka mazu akutaña (Discuss reading vocabulary)"
+                            ],
+                            "short_notes": "Reading comprehension activity using a text about drug and substance abuse (Kuzatisha yitumbu niyuma yashetana munzhila yaluwa). The text discusses harmful drugs like heroin, cannabis, and cocaine, their effects on health, behavior, and society, and prevention strategies. Learners read, answer questions, summarize, and discuss vocabulary."
+                        }
+                    ],
+                    "short_notes": "Kutaña nakanañachima (Reading comprehension) develops learners' ability to read texts at their level, understand and comprehend them, and answer questions. It also helps learners read texts from various sources.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 17,
+                        "questions": [
+                            "Nsañu kweseka nachipimu yinatañewi chatelela (Text read according to standard appropriately)",
+                            "Malwihu ahanewa anakulewi munzhila yoloka (Questions answered correctly)",
+                            "Nsañu yatañewa yinehihishewi munzhila yoloka (Text read summarized correctly)",
+                            "Nsañu yinatañewi munzhila yikwawu chaloña (Text read in own way appropriately)",
+                            "Chalumbuluka mazu akutaña kunahanjekewi chaloña (Reading vocabulary discussed appropriately)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4",
+                    "title": "Kutañila Hewulu - Kutaña Kwakuwahi (Reading Aloud - Reading Fluently)",
+                    "page": 18,
+                    "competences": [
+                        "Kutaña nsañu chachiwahi kweseka nachipimu, kufuma munyikanda yamboka (Read text fluently according to standard, from various sources)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 18,
+                            "hook": "Can you read this text aloud fluently?",
+                            "teacher_steps": [
+                                "Alezhi atudizi kutañila hewulu chakubula kumamatila, mumpinji yashikila nikumwekesha yuma chiyidi (Guide learners to read aloud without stammering, at appropriate speed and with clear pronunciation)",
+                                "Akeñi nsañu yikutañilawu atudizi hewulu (Select texts for learners to read aloud)",
+                                "Alezhi atudizi kwakula malwihu mukuhosha (Guide learners to answer questions orally)"
+                            ],
+                            "learner_steps": [
+                                "AtañilI hewulu chakubula kumamatila, mumpinji yashikila nikumwekesha yuma chiyidi (Read aloud without stammering, at appropriate speed and with clear pronunciation)",
+                                "Atañili nsañu hewulu (Read text aloud)",
+                                "Akuli malwihu mukuhosha (Answer questions orally)"
+                            ],
+                            "short_notes": "Reading fluency activity where learners practice reading aloud with proper speed, pronunciation, and without stammering. This builds confidence and oral reading skills."
+                        }
+                    ],
+                    "short_notes": "Kutaña kwakuwahi (Reading fluently) helps learners read texts quickly and fluently from various sources without stammering.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 19,
+                        "questions": [
+                            "Nsañu yinatañilewi hewulu chachiwahi (Text read aloud fluently)",
+                            "Malwihu mukuhosha anakulewi chatelela (Questions answered orally appropriately)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.5",
+                    "title": "Kusoneka - Chituñi - Kushimuna Nsañu (Writing - Composition - Story Telling)",
+                    "page": 19,
+                    "competences": [
+                        "Kusoneka nsañu yakulumbisha (Write fictional stories)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 19,
+                            "hook": "What is the difference between fictional and non-fictional stories?",
+                            "teacher_steps": [
+                                "Alezhi atudizi kuhanjeka chekala nsañu yakulumbisha ninsañu yamwekeni (yalala) (Guide learners to discuss the difference between fictional and non-fictional stories)",
+                                "Alezhi atudizi kwambula nsañu yakulumbisha ninsañu yamwekeni (yalala) (Guide learners to distinguish between fictional and non-fictional stories)",
+                                "Alezhi atudizi kusoneka chituñi chakushimuna nsañu (yakulumbisha) (Guide learners to write a story-telling composition - fictional)"
+                            ],
+                            "learner_steps": [
+                                "Ahanjeki chekala nsañu yakulumbisha niyamwekeni (yalala.) (Discuss the difference between fictional and non-fictional stories)",
+                                "Ambuli nsañu yakulumbisha nansañu yamwekeni (Distinguish between fictional and non-fictional stories)",
+                                "Asoneki chituñi chakushimuna nsañu (yakulumbisha) (Write a story-telling composition - fictional)"
+                            ],
+                            "short_notes": "Nsañu yakulumbisha (Fictional stories) are not real, based on imagination. They contain plots, symbolism, and ideas from the author's thoughts. They are designed to entertain or stimulate readers' thoughts. Nsañu yamwekeni (Non-fictional stories) are real, based on actual events. They contain dates, real places, and specific time periods."
+                        }
+                    ],
+                    "short_notes": "Kushimuna nsañu (Story telling) helps learners understand the difference between fictional and non-fictional stories and develop writing skills for creative composition.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 19,
+                        "questions": [
+                            "Chekala nsañu yakulumbisha niyamwekeni yinahanjekewi chashikila (Difference between fictional and non-fictional stories discussed appropriately)",
+                            "Nsañu yashimunewa yakulumbisha niyamwekeni zhinambulewi chashikila (Fictional and non-fictional stories distinguished appropriately)",
+                            "Chituñi chakushimuna nsañu yakulumbisha chinasonekewi chaloña (Story-telling composition written appropriately)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.6",
+                    "title": "Mwaya Idimi - Mazhina - Ntuñilu Yamazhina (Grammar - Nouns - Classification of Nouns)",
+                    "page": 20,
+                    "competences": [
+                        "Kulumbulula ntuñilu yamazhina (Explain classification of nouns)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 20,
+                            "hook": "What are nouns and how are they classified?",
+                            "teacher_steps": [
+                                "Alezhi atudizi kuhanjeka hantuñilu yamazhina (Guide learners to discuss classification of nouns)",
+                                "Alezhi atudizi kuketuzhola mazhina muyikunku (Guide learners to segment nouns into parts - prefix and root)"
+                            ],
+                            "learner_steps": [
+                                "Kuhanjeka hantuñilu yamazhina (Discuss classification of nouns)",
+                                "Aketuli mazhina muyikunku (ntachikilu, ishina dezu) (Segment nouns into parts - prefix and root)"
+                            ],
+                            "short_notes": "Nouns in Lunda are classified by their prefixes. Learners learn to identify the prefix (ntachikilu) and the root (ishina dezu). Examples: nkusa (n-kusa), mutondu (mu-tondu), muntu (mu-ntu)."
+                        }
+                    ],
+                    "short_notes": "Ntuñilu yamazhina (Classification of nouns) teaches learners how Lunda nouns are categorized by their prefixes, which is fundamental to understanding the language structure.",
+                    "vocabulary": [
+                        {
+                            "term": "Izhina",
+                            "definition": "Noun"
+                        },
+                        {
+                            "term": "Ntachikilu",
+                            "definition": "Prefix"
+                        },
+                        {
+                            "term": "Ishina dezu",
+                            "definition": "Root/stem"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 21,
+                        "questions": [
+                            "Ntuñilu yamazhina yinahanjekewi chaloña (Classification of nouns discussed appropriately)",
+                            "Mazhina anaketulewi muyikunku chaloña (Nouns segmented into parts appropriately)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.7",
+                    "title": "Mwaya Idimi - Nhoshelu (Grammar - Proverbs/Sayings)",
+                    "page": 21,
+                    "competences": [
+                        "Kuzatisha nhoshelu (Use proverbs/sayings)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 21,
+                            "hook": "What proverbs do you know and what do they mean?",
+                            "teacher_steps": [
+                                "Alezhi atudizi kuhanjeka mwalumbulukila nhoshelu nimwakuyizatishila (Guide learners to discuss meanings and uses of proverbs)",
+                                "Alezhi atudizi kwambula nhoshelu kweseka nanimu muyazatikilaña (Guide learners to classify proverbs according to their usage)",
+                                "Alezhi atudizi kuwana nhoshelu yatela kuzatisha kweseka nayuma muyinamwekeni (Guide learners to find proverbs to use according to specific situations)",
+                                "Alezhi atudizi kuwana hamaluña hatelela kuzatishila nhoshelu (Guide learners to find appropriate contexts for using proverbs)"
+                            ],
+                            "learner_steps": [
+                                "Ahanjeki mwalumbulukila nhoshelu nimwakuyizatishila (Discuss meanings and uses of proverbs)",
+                                "Ambuli nhoshelu kweseka nanimu muyazatikilaña (Classify proverbs according to usage)",
+                                "Awani nhoshelu yatela kuzatisha kweseka nayuma muyinamwekeni (Find proverbs to use in specific situations)",
+                                "Awani hamaluña hatelela kuzatishila nhoshelu (Find appropriate contexts for using proverbs)"
+                            ],
+                            "short_notes": "Nhoshelu (Proverbs/sayings) are important elements of Lunda culture and language. Examples include: 'Kwata hehama shakamaku' (meaning: something good came unexpectedly), 'Kupeepa munfulakaluña' (meaning: to go without purpose/aimlessly)."
+                        }
+                    ],
+                    "short_notes": "Learning proverbs helps students understand cultural wisdom, use language more expressively, and communicate effectively in various social contexts.",
+                    "vocabulary": [
+                        {
+                            "term": "Nhoshelu",
+                            "definition": "Proverbs/sayings"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 22,
+                        "questions": [
+                            "Mwalumbulukila nhoshelu nimwakuyizatishila munahanjikewi chatelela (Meanings and uses of proverbs discussed appropriately)",
+                            "Nhoshelu zhinambulewi kweseka nanomu muzhazatikilaña chatelela (Proverbs classified according to usage appropriately)",
+                            "Nhoshelu yatela kuzatisha hayuma yinamwekani yinawanewi chateleIa (Proverbs for specific situations found appropriately)",
+                            "Maluña hatela kuzatishila nhoshelu hanawanewi chatelela (Contexts for using proverbs found appropriately)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.8",
+                    "title": "Kubalumuna Nsañu - Nzhila Mwakubalumwina Nsañu (Translation - Methods of Translation)",
+                    "page": 23,
+                    "competences": [
+                        "Kuzatisha nzhila zhamboka hakubalumuna nsañu kufuma mu Chizungu nakutwala mu Lunda nukufumisha mu Lunda nakutwala mu Chizungu (Use various methods to translate from English to Lunda and from Lunda to English)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 23,
+                            "hook": "How do we translate between Lunda and English?",
+                            "teacher_steps": [
+                                "Alezhi atudizi kubalumuna nsañu kufuma mu Chizungu nakutwala mu Lunda nikufumisha mu Lunda nakutwala mu Chizungu kuzatisha zhinzhila zhamboka-mboka (Guide learners to translate from English to Lunda and from Lunda to English using various methods)",
+                                "Methods include: kulumbulula hezu hezu (literal translation), kuhiñisha (substitution), mazu akupawula (borrowing), kulomba (calquing), kuhimpa mazu (neologism), kukumpakesha (generalization)"
+                            ],
+                            "learner_steps": [
+                                "Kubalumuna nsañu kufuma mu Chizungu nakutwala mu Lunda nikufumisha mu Lunda nakutwala mu Chizungu (Translate from English to Lunda and from Lunda to English)",
+                                "Using methods: kulumbulula hezu hezu, kuhiñisha, mazu akupawula, kulomba, kuhimpa mazu, kukumpakesha",
+                                "Translate example sentences provided"
+                            ],
+                            "short_notes": "Translation methods include: literal translation, substitution, borrowing words, loan translation, creating new words, and generalization. Students practice translating between English and Lunda using these methods."
+                        }
+                    ],
+                    "short_notes": "Kubalumuna nsañu (Translation) helps learners understand how to move between languages using appropriate methods and techniques.",
+                    "vocabulary": [
+                        {
+                            "term": "Kubalumuna",
+                            "definition": "To translate"
+                        },
+                        {
+                            "term": "Kulumbulula hezu hezu",
+                            "definition": "Literal translation"
+                        },
+                        {
+                            "term": "Kuhiñisha",
+                            "definition": "Substitution"
+                        },
+                        {
+                            "term": "Mazu akupawula",
+                            "definition": "Borrowing"
+                        },
+                        {
+                            "term": "Kukumpakesha",
+                            "definition": "Generalization"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 23,
+                        "questions": [
+                            "Nzhila zhamboka zhakubalumwinamu nsañu zhinazatishewi chatelela (Various translation methods used appropriately)",
+                            "Translate the following sentences from English to Lunda: 1. Last Saturday, my mother and I went to visit Kangwa children's home in Mongu. 2. On our way, we saw many children living in the streets. 3. We discovered that, some were neglected by their parents while others ran away from homes because of child abuse. 4. Each and every child has the right to food, shelter, good health, clothes, clean water, care, love and education. 5. Parents should provide food, shelter and clothing for their children."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2",
+            "topic_title": "Nsañu (Stories)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Kuhosha Nakutiyilila - Kushimuna Nsañu - Nsañu Yakulumbisha (Listening and Speaking - Story Telling - Fictional Stories)",
+                    "page": 25,
+                    "competences": [
+                        "Kushimuna nsañu yakulumbisha hanyitu yansañu yinayinkuwu (Tell fictional stories on various topics)",
+                        "Kushinshika nsañu (yakulumbisha) (Analyze stories - fictional)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 25,
+                            "hook": "Can you tell a fictional story?",
+                            "teacher_steps": [
+                                "Alezhi atudizi kwambula nsañu yakulumbisha niyamwekeni (Guide learners to distinguish fictional from non-fictional stories)",
+                                "Alezhi atudizi kushimuna nsañu yakulumbisha (Guide learners to tell fictional stories)",
+                                "Alezhi atudizi kushimuna nsañu yamwekeni (Guide learners to tell non-fictional stories)",
+                                "Alezhi atudizi kuwana yuma yekala munsañu (Guide learners to find elements in stories)",
+                                "Alezhi atudizi awani maana amawahi anadiziluwu munsañu yalala yinashimunewi (Guide learners to find important lessons from non-fictional stories told)"
+                            ],
+                            "learner_steps": [
+                                "Ashimuni nsañu yakulumbisha niyamwekeni (Tell fictional and non-fictional stories)",
+                                "Awani yuma yekala munsañu (Find elements in stories)",
+                                "Awani maana amawahi anadiziluwu munsañu yalala yinashimunewi (Find important lessons from non-fictional stories)"
+                            ],
+                            "short_notes": "Story: Kapela na Muntu - A fictional story about a girl who found a beautiful calabash and was warned not to admire it, but she did and faced consequences. The story teaches about obedience and consequences of actions."
+                        }
+                    ],
+                    "short_notes": "Fictional stories (Nsañu yakulumbisha) are not based on reality but on imagination. They contain symbolism and are meant to entertain or teach. Non-fictional stories (Nsañu yamwekeni) are based on real events with actual dates, places, and people.",
+                    "vocabulary": [
+                        {
+                            "term": "Nsañu yakulumbisha",
+                            "definition": "Fictional story"
+                        },
+                        {
+                            "term": "Nsañu yamwekeni",
+                            "definition": "Non-fictional story/true story"
+                        },
+                        {
+                            "term": "Kulumbisha",
+                            "definition": "To imagine/fiction"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Nsañu yakulumbisha nansañu yalala yinambulewi chatelela (Fictional and non-fictional stories distinguished appropriately)",
+                            "Nsañu yakulumbisha yinashimunewi chatelela (Fictional stories told appropriately)",
+                            "Nsañu yamwekeni yinashimunewi chatelela (Non-fictional stories told appropriately)",
+                            "Yuma yekala munsañu yinawanewi chatelela (Story elements found appropriately)",
+                            "Maana amawahi anadiziluwu munsañu yalala anashinshikewi chaloña (Important lessons from non-fictional stories analyzed appropriately)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Kutaña - Mazu Akutaña - Mwalumbulukila Mazu (Reading - Vocabulary - Word Meanings)",
+                    "page": 28,
+                    "competences": [
+                        "Kuzatisha mazu kweseka nachipimu (Use words according to standard)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 28,
+                            "hook": "What do these words mean?",
+                            "teacher_steps": [
+                                "Ashi atudizi mumazanvu (Divide learners into groups)",
+                                "Asakuli muketanda ninsoneki (Select board and chalk)",
+                                "Alezhi atudizi kuhanjeka mwalumbulukila mazu anasakulewi (Guide learners to discuss meanings of selected words)",
+                                "Alezhi atudizi kushimuna chalumbuluka mazu akutaña (Guide learners to present vocabulary meanings)",
+                                "Alezhi atudizi kutuña nyikuku yamazu kuzatisha mazu akutaña asakulewa (Guide learners to write sentences using selected vocabulary)"
+                            ],
+                            "learner_steps": [
+                                "Ahanjeki mwalumbulukila mazu anasakulewi mumazanvu (Discuss meanings of selected words in groups)",
+                                "Ashimuni chalumbuluka mazu akutaña (Present vocabulary meanings)",
+                                "Atuñi nyikuku yamazu kuzatisha mazu akutaña asakulewa (Write sentences using selected vocabulary)"
+                            ],
+                            "short_notes": "Vocabulary words: Ayimbuki (gifts), Dikalu (drought/dry season), Kukomwesha (to worry/be anxious), Kwimana mumukala (to live in a village), Nsaba (river/water)."
+                        }
+                    ],
+                    "short_notes": "Vocabulary development helps learners understand word meanings and use them correctly in sentences, building language proficiency.",
+                    "vocabulary": [
+                        {
+                            "term": "Ayimbuki",
+                            "definition": "Gifts"
+                        },
+                        {
+                            "term": "Dikalu",
+                            "definition": "Drought/dry season/every day"
+                        },
+                        {
+                            "term": "Kukomwesha",
+                            "definition": "To worry/be anxious"
+                        },
+                        {
+                            "term": "Kwimana mumukala",
+                            "definition": "To live/settle in a village"
+                        },
+                        {
+                            "term": "Nsaba",
+                            "definition": "River/stream/water"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 30,
+                        "questions": [
+                            "Mwalumbulukila mazu anasakulewi munahanjekewi chatelela (Meanings of selected words discussed appropriately)",
+                            "Chalumbuluka mazu akutaña kunashimunewi chatelela (Vocabulary meanings presented appropriately)",
+                            "Mazu akutaña asakulewa anazatishewi munyikuku yamazu chatelela (Selected vocabulary used in sentences appropriately)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "Kutaña Kwakunama - Kutaña Nakanañachima (Intensive Reading - Reading Comprehension)",
+                    "page": 30,
+                    "competences": [
+                        "Kutaña nsañu kweseka nachipimu kufuma munyikanda yansañu yamboka-mboka nakuyitiyishisha (Read text according to standard from various sources and comprehend)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 30,
+                            "hook": "What is this story about?",
+                            "teacher_steps": [
+                                "Ayilezhi atudizi kutaña mutu wansañu wunahanewi (Guide learners to read the assigned topic)",
+                                "Alezhi atudizi kutaña nsañu lufuchi-lufuchi (Guide learners to read text carefully)",
+                                "Asakuli atudizi akutañila nsañu hewulu (Select learners to read text aloud)",
+                                "Lezhaku atudizi atañi nsañu yayeni (Guide learners to read their own text)",
+                                "Lezhaku atudizi akuli malwihu amboka-mboka (Guide learners to answer various questions)",
+                                "Lezhaku atudizi ehihishi nsañu (Guide learners to summarize text)",
+                                "Lezhaku atudizi asoneki nsañu yoyimu munzhila yikwawu (Guide learners to write the same text in their own way)",
+                                "Lezhaku atudizi ahanjeki chalumbuluka mazu akutaña (Guide learners to discuss reading vocabulary)"
+                            ],
+                            "learner_steps": [
+                                "Kutaña nsañu yayeni (Read their own text)",
+                                "Atañi nsañu: Wazhimona na Nyakalumbu (Read the story: Wazhimona and Nyakalumbu)",
+                                "Akuli Malwihu (Answer questions)",
+                                "Ehihishi nsañu (Summarize text)",
+                                "Asoneki nsañu munzhila yikwawu (Write text in own way)",
+                                "Ahanjeki chalumbuluka mazu akutaña (Discuss reading vocabulary)"
+                            ],
+                            "short_notes": "Story: Wazhimona na Nyakalumbu - A couple lived happily until they had a baby who couldn't speak (iteta). The story explores themes of acceptance, supernatural elements, and the consequences of actions. The baby eventually transformed, teaching lessons about patience and understanding."
+                        }
+                    ],
+                    "short_notes": "Reading comprehension involves carefully reading texts, understanding them fully, answering questions, summarizing, and discussing vocabulary. The story teaches cultural values and moral lessons.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 34,
+                        "questions": [
+                            "Nsañu kweseka nachipimu yinatañewi chatelela (Text read according to standard appropriately)",
+                            "Malwihu anakulewi chaloña (Questions answered appropriately)",
+                            "Nsañu yatañewa yinehihishewi chatelela (Text summarized appropriately)",
+                            "Nsañu yoyimu yatañewa yinasonekewi munzhila yikwawu chatelela (Same text written in own way appropriately)",
+                            "Kulumbulula kwamazu akutaña kunahanjikewi chatelela (Reading vocabulary discussed appropriately)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.4",
+                    "title": "Kusoneka - Kwihihisha Nsañu (Writing - Summarizing Text)",
+                    "page": 34,
+                    "competences": [
+                        "Kwihihisha yikunku yansañu muwihi (Summarize text paragraphs into one)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 34,
+                            "hook": "How do we write a good summary?",
+                            "teacher_steps": [
+                                "Alezhi atudizi kuhanjeka chekala chikunku chansañu chachihi (Guide learners to discuss what makes a good paragraph summary)",
+                                "Alezhi atudizi kuwana mazu alema kufuma munsañu (Guide learners to find key words from text)",
+                                "Lezhaku atudizi ehihishi nsañu yinahanuwu nakuyitwala muchikunku chansañu chimu (Guide learners to summarize given text into one paragraph)"
+                            ],
+                            "learner_steps": [
+                                "Ahanjeki chekala chikunku chansañu (Discuss what makes a good paragraph)",
+                                "Awani mazu alema kufuma munsañu (Find key words from text)",
+                                "Ehihishi nsañu yinahanuwu nakuyitwala muchikunku chansañu chimu (Summarize given text into one paragraph)"
+                            ],
+                            "short_notes": "Summary writing involves: reducing text (Kukehesha), including all important words (Kuhemba), and ensuring the summary makes sense (Kwimenaku). Key points: shorten words, use essential words only, avoid repetition, include key information, maintain clarity, avoid personal opinions, write for understanding, use different words with same meaning."
+                        }
+                    ],
+                    "short_notes": "Kwihihisha nsañu (Summarizing) is writing text in shorter form while maintaining essential information and meaning. Good summaries are concise, comprehensive, and clear.",
+                    "vocabulary": [
+                        {
+                            "term": "Kwihihisha",
+                            "definition": "To summarize"
+                        },
+                        {
+                            "term": "Kukehesha",
+                            "definition": "To reduce/shorten"
+                        },
+                        {
+                            "term": "Kuhemba",
+                            "definition": "To include/contain"
+                        },
+                        {
+                            "term": "Kwimenaku",
+                            "definition": "To stand/make sense"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 37,
+                        "questions": [
+                            "Chekala chikunku chansañu chachihi chinahanjekewi chatelela (Good paragraph characteristics discussed appropriately)",
+                            "Mazu alema kufuma munsañu anawanewi chatelela (Key words from text found appropriately)",
+                            "Nsañu yahanewa yinehihishewi muchikunku chansañu chimu chatelela (Given text summarized into one paragraph appropriately)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.5",
+                    "title": "Mwaya Idimi - Ñimizhina (Grammar - Pronouns)",
+                    "page": 37,
+                    "competences": [
+                        "Kuzatisha ñimizhina (Use pronouns)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 37,
+                            "hook": "What are pronouns and how do we use them?",
+                            "teacher_steps": [
+                                "Alezhi atudizi chitalilu nakuyilumbulwila (Guide learners with examples and explanations)",
+                                "Lezhaku atudizi kuzatisha yisaka yañimizhina yamboka munyikuku yamazu (Guide learners to use different types of pronouns in sentences)",
+                                "Teach: Ñimizhina yamuntu (Personal pronouns), Ñimizhina yakuheta (Possessive pronouns), Ñimizhina yakwinyika (Demonstrative pronouns)"
+                            ],
+                            "learner_steps": [
+                                "Atali chitalilu chinayinkiyi ntañishi (Study examples given by teacher)",
+                                "Afundi ñimizhina zhidi muniyi nyikuku yamazu (Identify pronouns in given sentences)",
+                                "Azatishi yisaka yañimizhina yamboka munyikuku yamazu (Use different types of pronouns in sentences)"
+                            ],
+                            "short_notes": "Ñimizhina (Pronouns) are words that replace nouns. Types: Personal pronouns (ami, eyi, yena, etu, enu, awu), Possessive pronouns (dami, deyi, dindi, detu, dawu), Demonstrative pronouns (anu, yinu, iwu, aka, ichi, ona, yina, kana)."
+                        }
+                    ],
+                    "short_notes": "Pronouns help avoid repetition and make language flow better. Understanding pronouns is essential for proper Lunda grammar.",
+                    "vocabulary": [
+                        {
+                            "term": "Ñimizhina",
+                            "definition": "Pronoun"
+                        },
+                        {
+                            "term": "Ñimizhina yamuntu",
+                            "definition": "Personal pronoun"
+                        },
+                        {
+                            "term": "Ñimizhina yakuheta",
+                            "definition": "Possessive pronoun"
+                        },
+                        {
+                            "term": "Ñimizhina yakwinyika",
+                            "definition": "Demonstrative pronoun"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 41,
+                        "questions": [
+                            "Mwalumbulukila nimudimu wa ñimizhina wunahanjikewi chatelela (Meaning and function of pronouns discussed appropriately)",
+                            "Yisaka yamazhina yamboka-mboka yinawanewi chatelela (Different types of pronouns found appropriately)",
+                            "Yisaka yañimizhina yamboka-mboka yinazatishewi munyikuku yamazu muchatelela (Different types of pronouns used in sentences appropriately)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.6",
+                    "title": "Mwaya Idimi - Kuhosha Kwatushidikilu - Yishimu (Grammar - Figurative Language - Riddles)",
+                    "page": 41,
+                    "competences": [
+                        "Kuzatisha yishimu (Use riddles)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 41,
+                            "hook": "Do you know any riddles?",
+                            "teacher_steps": [
+                                "Lezhaku atudizi kuhanjeka chalumbuluka yishimu nimudimu wayu (Guide learners to discuss meaning and function of riddles)",
+                                "Lezhaku atudizi kwambula yishimu kweseka nanyidimu yayu (Guide learners to classify riddles according to their function)",
+                                "Lezhaku atudizi kuwana yishimu yinatweshi kuzatishewa kweseka nayuma yinakumwekana hampinji yenoyu (Guide learners to find riddles that can be used for specific situations)",
+                                "Lezhaku atudizi kuwana hatela kuzatishila muchidi wayishimu (Guide learners to find appropriate contexts for using riddles)"
+                            ],
+                            "learner_steps": [
+                                "Ahanjeki chalumbuluka yishimu ninyidimu wuyazataña (Discuss meaning and function of riddles)",
+                                "Ambuli yishimu kweseka nanyidimu yayu (Classify riddles according to function)",
+                                "Awani yishimu yinatweshi kuzatishewa kweseka nayuma yinakumwekana hampinji yenoyu (Find riddles for specific situations)",
+                                "Awani hatela kuzatishila muchidi wayishimu (Find appropriate contexts for using riddles)"
+                            ],
+                            "short_notes": "Yishimu (Riddles) are figurative language forms that test knowledge and thinking. Examples: 'Chinkola vuña mwiña wutuñi nandembi' (A riddle about height), 'Ishima dadikulu menzhi atuta' (A riddle about water)."
+                        }
+                    ],
+                    "short_notes": "Riddles are important in Lunda culture for education, entertainment, and developing critical thinking skills.",
+                    "vocabulary": [
+                        {
+                            "term": "Yishimu",
+                            "definition": "Riddles"
+                        },
+                        {
+                            "term": "Tushidikilu",
+                            "definition": "Figurative language"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 42,
+                        "questions": [
+                            "Chalumbuluka yishimu ninyidimu wayu kunahanjekewi chatelela (Meaning and function of riddles discussed appropriately)",
+                            "Yishimu kweseka nanyidimu yayu yinambulewi chatelela (Riddles classified according to function appropriately)",
+                            "Yishimu yinatweshi kuzatishewa kweseka nayuma yinakumwekana hampinji yenoyu yinawanewi mwaloña (Riddles for specific situations found appropriately)",
+                            "Hatela kuzatishila muchidi wayishimu hanawanewi chaloña (Contexts for using riddles found appropriately)"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

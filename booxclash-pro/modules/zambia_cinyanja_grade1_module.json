@@ -1,0 +1,1785 @@
+{
+    "subject": "Cinyanja",
+    "grade": "Grade 1",
+    "term": 2,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "KAMBILANO",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Kambilano",
+                    "page": 12,
+                    "competences": [
+                        "Kutengako mbali kukambilano kusewenzesa ziganizo zathunthu"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.A",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Onetsani aphunzi cha\u0000 yoonetsa amuna ndi akazi akugwila nchito zosiyana-",
+                                "Funsani aphunzi ku\u0000 achule nchito za amuna ndi akazi omwe.",
+                                "Funsani aphunzi nga\u0000 nchito zomwe achula ndi nchito za amuna ndi akazi"
+                            ],
+                            "learner_steps": [
+                                "Aone cha\u0000 yoonetsa amuna ndi akazi akugwila nchito zosiyana-siyana",
+                                "Akambilane m'magulu zinchito zomwe amagwila.",
+                                "Akambilane nchito zosiyana-siyana zomwe akazi ndi amuna agwila."
+                            ],
+                            "short_notes": "Kukambilana pa capamutu copelekedwa ndi abwenzi nchito za azibambo ndi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.A",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Onetsani cithunzi comwe cili ndi zithu zoyamba ndi mwa mwe mwi mwo mwu",
+                                "Patsani aphunzi citsanzo cozindikila masilabe monga liu mwana lili ndi masilabe",
+                                "awili mwa ndi na.",
+                                "Pelekani mau ena ndipo citani nchito yozindikila masilabe pamodzi ndi aphunzi",
+                                "Uzani aphunzi ku\u0000 azindikile masilabe m'mau okambidwa awa.",
+                                "Mwana - mwa/na, mwambo - mwa/mbo",
+                                "Mwano, mwai",
+                                "Mwathu, mwendo",
+                                "Mwazi, mwezi"
+                            ],
+                            "learner_steps": [
+                                "Amvetsele zonena za mphunzitsi",
+                                "Azindikile masilabe m'mau okambidwa omwe apatsidwa.",
+                                "Agawemau m'masilabe"
+                            ],
+                            "short_notes": "Kuzindikila masilabe m'mau opambidwa ndi mvekelo /mw/"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.B",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Sonyezani kawelengedwe ka masilabe pakuomba m'manja.",
+                                "Citsanzo mwana- mwa ombani m'manja na ombaninso m'manja",
+                                "Pelekani mau ena ndipo citani masewela a silabe omba m'manja pamodzi ndi",
+                                "Pelekani mau kwa aphunzi oyamba ndi mwa, mwe, mwi, mwo, mwu ku\u0000 acite",
+                                "masewela paokha.",
+                                "mwendo -kuomba kawili",
+                                "mwanena -kuomba katatu.",
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kusewela Masewela Owelenga Masilabe m'mau Okambidwa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.C",
+                            "page": 14,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Onetsani mopangila mau kugwilitsani nchito masilabe okambidwa kupanga mau.",
+                                "Zitsanzo: mwa + mbo = mwambo",
+                                "Mwa + na = mwana",
+                                "Nenani mau ena ndipo gawani m'masilabe pamodzi ndi aphunzi",
+                                "Nenani masilabe",
+                                "Uzani aphunzi ku\u0000 apange mau pakulumikiza masilabe okambidwa.",
+                                "Uzani aphunzi anene masilabe ao-ao ndi kupanga masilabe"
+                            ],
+                            "learner_steps": [
+                                "Amvetsele masilabe",
+                                "Apange mau kugwilitsa nchito masilabe okambidwa.",
+                                "Anene masilabe ao-ao ndi kupanga masilabe",
+                                "Chulani masilabe ndipo aphunzi apange mau m'magulu ao."
+                            ],
+                            "short_notes": "Kupanga Mau Okambidwa Kugwilitsa Nchito Masilabe."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.D",
+                            "page": 14,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Apange mau ena atsopano okambidwa pakusintha ndi kucotsa masilabe."
+                            ],
+                            "short_notes": "Kusewela masewela akusintha ndi kucotsa masilabe kupanga mau atsopano."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.A",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Apenye cithunzi ndi kuona zilipo pomwe akumvetsela ku mphunzitsi",
+                                "Amvetsele kagawidwe ka ziganizo molankhula",
+                                "Agawe ziganizo pamodzi ndi aphunzi",
+                                "Anene ziganizo ndipo agawe mau.",
+                                "Mbala yaba galimoto. (Mau atatu, 3)",
+                                "Tholiwe wazipweteka ndi mwala. (Mau atatu, 4)"
+                            ],
+                            "short_notes": "Kugawa ziganizo zokambidwa m'mau."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.A",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Sonyezani molumikidzila makonsonan\u0000 (mamvekelo) ndi mavawelo popanga",
+                                "Citani cimodzi-modzi ndi malembo ena onse."
+                            ],
+                            "learner_steps": [
+                                "Akhale m'magulu ao,",
+                                "Apange masilabe polumikiza makonsonan\u0000 (malembo) ndi mavawelo."
+                            ],
+                            "short_notes": "Kupanga masilabe kusewenzetsa makonsonan\u0000 (mvekelo) ndi mavawelo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.B",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Amvetsele kawelengedwe ka cha\u0000",
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "short_notes": "Kuwelenga silabiki cha\u0000"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.C",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kusankha masilabe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.D",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kusinthanitsa masilabe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.A",
+                            "page": 18,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kulumikiza masilabe kupanga mau"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.B",
+                            "page": 18,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kusinthanitsa ndi kucotsela masilabe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.C",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kuzindikile masilabe m'mau."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.D",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kuwelenga masilabe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.C",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kuwelenga Zolemba Okha"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.D",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kuwelenga ndi kumvetsetsa ndime."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.A",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Welengani nkhani yothandiza ana amasiye pa cha\u0000.",
+                                "Funsani mafunso yothandiza aphunzi kupeleka maganizo ao pa nkhani.",
+                                "Funsani aphunzi agamule zomwe amva."
+                            ],
+                            "learner_steps": [
+                                "Amvetsele kuwelengedwa kwa nkhani.",
+                                "Ayankhe mafunso.",
+                                "Agamule zomwe amva.",
+                                "Jambula cithunzi ca mwana ali kulandila mphaso.",
+                                "Lemba ciganizo cimodzi pa cithunzi."
+                            ],
+                            "short_notes": "Kupeleka Cigamulao pa Uthenga omwe amva."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.A",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Fotokozani nkhani ya za umoyo yaipfupi.",
+                                "Funsani aphunzi mafunso.",
+                                "Uzani aphunzi alinganize zomwe ziwaci\u0000kila ndi zomwe amamva."
+                            ],
+                            "learner_steps": [
+                                "Amvetsele ku nkhani.",
+                                "Afotokoze za umoyo wao ndi zomwe amva.",
+                                "Afotokoze zomwe zinawaci\u0000kilapo mu moyo wao ndi zomwe amamva"
+                            ],
+                            "short_notes": "Kulinganiza za umoyo wao ndi zomwe amamva."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.A",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Welengani nkhani ili ndi mau acilendo.",
+                                "Pelekani citsanzo mopezela matanthauzo amau acilendo kulondola zizindikilo"
+                            ],
+                            "learner_steps": [
+                                "Amvetsele ku nkhani.",
+                                "Apeze matanthauzo amau kulondola zizindikilo zolozela."
+                            ],
+                            "short_notes": "Kusewenzetsa zizindikilo zolozela kupeza matanthauzo a mau acilendo."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.B",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Uzani aphunzi asewele sewelo ndi mau omwe azindikilidwa."
+                            ],
+                            "learner_steps": [
+                                "Asewele sewelo ndi mau ozindikilidwa.",
+                                "Alembe mau omwe azindikilidwa."
+                            ],
+                            "short_notes": "Kucita sewelo ndi mau omwe azindikilidwa."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.A",
+                            "page": 24,
+                            "hook": "Funsani mafunso monga ndi 'ndani…?",
+                            "teacher_steps": [
+                                "Welengani nkhani yoona.",
+                                "Funsani mafunso monga ndi 'ndani…? ku\u0000….? li\u0000…? motani….?' ndi",
+                                "mwamvapo ciani pa nkhani? komanso ena otele.",
+                                "Funsani aphunzi angapo afotokoze tsatane tsatane wa nkhani."
+                            ],
+                            "learner_steps": [
+                                "Apenyetsetse mau ali pa mafulashi khadi.",
+                                "Awelenge mau.",
+                                "Amvetsele ku nkhani yowelengedwa.",
+                                "Afotokoze tsatane tsatane wa nkhani."
+                            ],
+                            "short_notes": "Kufotokoza zomwe zawelengedwa."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.B",
+                            "page": 24,
+                            "hook": "Funsani aphunzi ayankhe mafunso monga aku\u0000 ndani…?",
+                            "teacher_steps": [
+                                "Welengani nkhani yosabvuta kuwelenga.",
+                                "Funsani aphunzi ayankhe mafunso monga aku\u0000 ndani…? …ku\u0000? motani…?"
+                            ],
+                            "learner_steps": [
+                                "Amvetsele ku nkhani.",
+                                "Ayankhe mafunso",
+                                "Tsilizani ziganizo ndi mau oyenela."
+                            ],
+                            "short_notes": "Kuyankha mafunso kucokela ku zimene zawelengedwa."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.C",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "short_notes": "Kulemba nkhani mwatsatane ndi moyenela."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.A",
+                            "page": 25,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Sonyezani malembedwe oyenela a malembo akuluakulu.",
+                                "Uzani aphunzi alembe molondola m'mene mulembela.",
+                                "Citani cimodzimodzi ndi malembo ang'onoang'ono.",
+                                "ZINDIKILANI: Malembo okwezeka ndi otsika, komanso okhazika pa mzele.",
+                                "Thandizani aphunzi ali ndi bvuto pa malembedwe oyenela."
+                            ],
+                            "learner_steps": [
+                                "Apenyetsetse malembedwe amalembo.",
+                                "Alembe malembedwe oyenela a malembo akuluakulu.",
+                                "Alembe malembo ang'onoang'ono.",
+                                "ZINDIKILANI: Malembo okwezeka ndi otsika, komanso okhazikika pa mzele.",
+                                "Lembani malembo akuluakulu.",
+                                "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "short_notes": "Kulemba malembo."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.B",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Sonyezani aphunzi malembedwe amau okhazikika.",
+                                "Uzani aphunzi ayeselele.",
+                                "Uzani aphunzi ajambule."
+                            ],
+                            "learner_steps": [
+                                "Ajambule mau okhazikika."
+                            ],
+                            "short_notes": "Kujambula mau okhazikika."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.C",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Onetsani cha\u0000 lili ndi mau, ciganizo colembedwa mosasiya mipata ndi",
+                                "malembedwe obvuta kuwelenga.",
+                                "Lembani ciganizo molongosoka.",
+                                "Uzani aphunzi naonso alembe mau ndi ciganizo."
+                            ],
+                            "learner_steps": [
+                                "Aonetsetse mau ndi ciganizo colembedwa mosasiya mipata ndi malembedwe",
+                                "ovuta kuwelenga cili pa cha\u0000.",
+                                "Afotokoze zolakwika pa malembedwe a mau ndi ciganizo.",
+                                "Alembe mau ndi ciganizo molongosoka.",
+                                "Lemba ciganizo molongosoka.",
+                                "Mudziuyundiwathu."
+                            ],
+                            "short_notes": "Kujambula mau okhazikika mosiya mipata."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.A",
+                            "page": 27,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Onetsani zithunzi.",
+                                "Pangani nkhani kugwilitsa nchito zithunzi."
+                            ],
+                            "learner_steps": [
+                                "Apenye zithunzi.",
+                                "Ajambule zithunzi kupanga nkhani m'magulu.",
+                                "Apange nkhani kusewenzetsa zithunzi."
+                            ],
+                            "short_notes": "Kujambula zoci\u0000ka kupanga nkhani."
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Mvetso",
+                            "definition": ""
+                        },
+                        {
+                            "term": "lankhulo",
+                            "definition": ""
+                        },
+                        {
+                            "term": "ciphuphu",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": 12,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "MONI",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "KUKAMBILANA",
+                    "page": 28,
+                    "competences": [
+                        "Kugwilitsa nchito moni woyenela."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.A",
+                            "page": 28,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Uzani aphunzi ku\u0000 aimbe nyimbo zopelekela moni (Moni, moni alendo muli",
+                                "bwanji alendo)",
+                                "Auze aphunzi ku\u0000 akhale awili-awili ayeselele kupatsana moni wa nthawi ya",
+                                "m'mawa, m'masana ndi m'madzulo.",
+                                "Yohane: \"Wauka bwanji, Maria?\"",
+                                "Maria: \" Ndauka bwino, Yohane. Nanga iwe wauka bwanji?\"",
+                                "Yohane: \"Ndauka bwino, zikomo kwambili.\""
+                            ],
+                            "learner_steps": [
+                                "Aimbe nyimbo zopelekela moni.",
+                                "Ayeselele kupatsana moni wa nthawi ya:",
+                                "M'mawa: \"Mwauka bwanji?\"",
+                                "M'masana: \"Mwacoma bwanji?\"",
+                                "M'madzulo: \"Mwacoma bwanji?\"",
+                                "Apeleke mayankho moyankhila moni wopatsidwa pa nthawi zosiyana-siyana"
+                            ],
+                            "short_notes": "Kuimba nyimbo zopeleka moni"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.B",
+                            "page": 29,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Uzani aphunzi ku\u0000 agwilitse nchito moni oyenela pokambilana ndi acikulile",
+                                "kapena anzao.",
+                                "Uzani aphunzi ku\u0000 acite sewelo pa kuyeselela kupeleka moni ku acikulile",
+                                "komanso anzao."
+                            ],
+                            "learner_steps": [
+                                "Ayeselele kupeleka moni ku acikulile ndi anzao pogwilitsa nchito moni",
+                                "Yobe: 'Mwauka bwanji agogo?'",
+                                "Agogo: 'Ndauka bwino, yobe.'",
+                                "Yobe: 'Kodi muli bwanji?'",
+                                "Agogo: ' Ndili bwino, iwe uli bwanji?'",
+                                "Yobe: 'Ndili bwino.’"
+                            ],
+                            "short_notes": "Kugwilitsa nchito miyoni yoyenelela pa nthawi Yosiyana (m'mawa, masana ndi"
+                        }
+                    ],
+                    "short_notes": "Mutu uyu uzaona pa kuphunzitsa kupeleka moni komanso kuyankha moyenela pa nthawi zosiyana-siyana za tsiku.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 28,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Kuzindikila Masilabe",
+                    "page": 29,
+                    "competences": [
+                        "Kuzindikila ndi kusintha masilabe."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.A",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alankhule mau ndi kuuza aphunzi masilabe omwe alimo.",
+                                "Anene mau ndi kufunsa aphunzi kuzindikila masilabe alimo.",
+                                "agawe aphunzi m'magulu ku\u0000 azindikile masilabe m'mau apakamwa",
+                                "dzungu - dzi/ngu masilabe awili",
+                                "dzulo- dzu/lo masilabe awili",
+                                "dzenela- dze/ne/la- masilabe atatu",
+                                "dzenje.- masilabwe awili"
+                            ],
+                            "learner_steps": [
+                                "Amvetsele kuzonena za mphunzitsi",
+                                "Azindikile masilabe m'mau olankhulidwa.",
+                                "agawe mau m'masilabe polankhula"
+                            ],
+                            "short_notes": "Kuzindikila Masilabe m'mau okambidwa."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.B",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kusewela masewela akuwelenga Masilabe poomba m'manja."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.C",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kupanga mau Okambidwa kugwilitsa nchito Masilabe."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.D",
+                            "page": 31,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kusewela masewela opanga mau pakusintha ndi kucotsa silabe kupanga mau ena."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.A",
+                            "page": 32,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kuzindikila mau m'ziganizo zokambidwa."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.B",
+                            "page": 32,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kusankha malembo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.B",
+                            "page": 33,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Onetsani cha\u0000 ya masilabe kwa aphunzi ( dza, dze, dzi, dzo, dzu )",
+                                "Welengani cha\u0000 ya masilabe",
+                                "Uzani aphunzi ku\u0000 awelenge cha\u0000 ya masilabe yomwe aonetsedwa.",
+                                "Dz- dza dze dzi dzo dzu",
+                                "Citani cimodzi-modzi ndi masilabe onse amalemba ena ."
+                            ],
+                            "learner_steps": [
+                                "Aone cha\u0000 ca masilabe",
+                                "Amvetsele mawelengedwe amasilabe pa cha\u0000",
+                                "M'magulu ao, awelenge cha\u0000 ya masilabe"
+                            ],
+                            "short_notes": "Kuwelenga silabiki cha\u0000"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.C",
+                            "page": 33,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kusankha masilabe m'mau"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.A",
+                            "page": 35,
+                            "hook": null,
+                            "teacher_steps": [
+                                "onetsani aphunzi kasinthidwe ndi kacotsedwe ka masilabe kupanga mau ena.",
+                                "dzenela=enela cotsani/dz/ikhale enela",
+                                "dzela= muka cotsani /dza/ kuikako dzo ikupanga dzola",
+                                "Citani cimodzi-modzi ndi mau ena."
+                            ],
+                            "learner_steps": [
+                                "Aonelele kapangidwe ka mau ena pakucotsa ndi kusinthanitsa masilabe",
+                                "Asinthanitse ndi kucotsela masilabe kupanga mau ena."
+                            ],
+                            "short_notes": "Kulumikiza masilabe kupanga mau"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.B",
+                            "page": 35,
+                            "hook": null,
+                            "teacher_steps": [
+                                "onetsani aphunzi kasinthidwe ndi kacotsedwe ka masilabe kupanga mau ena.",
+                                "dzenela=enela cotsani/dz/ikhale enela",
+                                "dzela= muka cotsani /dza/ kuikako dzo ikupanga dzola",
+                                "Citani cimodzi-modzi ndi mau ena."
+                            ],
+                            "learner_steps": [
+                                "Aonelele kapangidwe ka mau ena pakucotsa ndi kusinthanitsa masilabe",
+                                "Asinthanitse ndi kucotsela masilabe kupanga mau ena."
+                            ],
+                            "short_notes": "Kusinthanitsa ndi kucotsela masilabe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.C",
+                            "page": 35,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kuzindikile masilabe m'mau."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.D",
+                            "page": 36,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Onetsani mowelengela masilabe",
+                                "uzani aphunzi anene mau ndipo muwelenge masilabe pamodzi",
+                                "Uzani aphunzi ku\u0000 azindikile nambala ya masilabe m'mau opatsidwa.",
+                                "Welengani masilabe pakuomba m'manja",
+                                "dzenela= dze- wombani m'manja + ne wombani m'manja + la wombani m'manja =",
+                                "masilabe atatu 3",
+                                "Citani cimodzi-modzi ndi mau ena"
+                            ],
+                            "learner_steps": [
+                                "Aone mowelengela masilabe",
+                                "Awelenge masilabe pamodzi ndi aphunzitsi",
+                                "Azindikile nambala ya masiabe m'mau m'magulu",
+                                "Zindikilani: Mphunzitsi ndiomasuka kugwilitsa nchito mamvekelo onse ophunzitsidwa",
+                                "m'sabata lake kupanga masilabe ndi mau."
+                            ],
+                            "short_notes": "Kuwelenga masilabe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.C",
+                            "page": 37,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kuwelenga Zolemba Zao."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.D",
+                            "page": 38,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kuwelenga ndi kumvetsa ziganizo zifupi-zifupi."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.A",
+                            "page": 39,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Fotokozani zomkhuzani muumoyo wanu",
+                                "Uzani aphunzi afotokoze zowakhuza muumoyo yao",
+                                "Uzani aphunzi ku\u0000 alinganize zomwe iwo anapitamo mu umoyo wao ku",
+                                "zomwe akumamvetsela."
+                            ],
+                            "learner_steps": [
+                                "Amvetsele khani yowelengedwa ndi aphunzitsi ndipo ayankhe mafunso.",
+                                "Apeleke maganizo ao kulinga ndi zomwe amva."
+                            ],
+                            "short_notes": "kupeleka maganizo kucokela ku uthenga womwe amva."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.B",
+                            "page": 39,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Fotokozani zomkhuzani muumoyo wanu",
+                                "Uzani aphunzi afotokoze zowakhuza muumoyo yao",
+                                "Uzani aphunzi ku\u0000 alinganize zomwe iwo anapitamo mu umoyo wao ku",
+                                "zomwe akumamvetsela."
+                            ],
+                            "learner_steps": [
+                                "Amvetsele ku zomwe mphunzitsi akhuzidwa nazo mu moyo wake",
+                                "anene zowakhuza muumoyo wao",
+                                "Alinganize zomwe iwo anapitamo mu umoyo wao ku zomwe akumvetselako"
+                            ],
+                            "short_notes": "Kulinganiza zopitamo mu umoyo wao ndi zomwe akumvetsela."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.A",
+                            "page": 40,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Uzani aphunzi ku\u0000 muzawawelengela nkhani",
+                                "Uzani aphunzi ku\u0000 awelenge nkhani ili mu buku lao lowelenga",
+                                "Funsani aphunzi kupeza matanthauzo"
+                            ],
+                            "learner_steps": [
+                                "amvetsele ku nkhan yowelengedwai",
+                                "Apeze matanthauzo a mau acilendo kulingana ndi zizindikilo zolozela",
+                                "Awelenge mau acilendo."
+                            ],
+                            "short_notes": "kugwilitsa nchito Zizindikilo zolozela ku matanthauzo la mau acilendo."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.B",
+                            "page": 40,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kucita sewelo la mau a cilendo omwe a zindikilidwa mnkhani."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.A",
+                            "page": 41,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Uzani aphunzi ku\u0000 ayankhe mafunso kulingana ndi momwe zinthu zinali",
+                                "kuci\u0000kila mu nkhani."
+                            ],
+                            "learner_steps": [
+                                "Afotokoze zomwe zawelengedwa",
+                                "Ayankhe mafunso pa zomwe zawelengedwa"
+                            ],
+                            "short_notes": "Kufotokoza zomwe zawelengedwa."
+                        }
+                    ],
+                    "short_notes": "Mutu uwu uzaona pa kuzindikila masilabe kucokela ku mau okambidwa. kusewela masewela akuwelenga masilabe ali m'mau ndi masewela akupanga mau pa kusitha ndi kucotsa masilabe kupanga mau atsopano.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 29,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "MALEMBEDWE",
+                    "page": 41,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3.A",
+                            "page": 41,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kujambula malembo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3.B",
+                            "page": 42,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lembani malembo pa bolodi kapena pa cha\u0000.",
+                                "uzani aphunzi ayeselele kulemba Malembo."
+                            ],
+                            "learner_steps": [
+                                "Aone kalembedwe ka malemba",
+                                "Alembe malembo opatsidwa."
+                            ],
+                            "short_notes": "Kulemba Malembo."
+                        }
+                    ],
+                    "short_notes": "Mutuyu uzaona pa kapangidwe ka lembo.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 41,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "KUKAMBILANA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "5.1",
+                    "title": "Kambilano",
+                    "page": 80,
+                    "competences": [
+                        "kutengako mbali pamakambilano acidule."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1.A",
+                            "page": 80,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kutengako mbali pamakambilano acidule pa mutu wopatsidwa."
+                        }
+                    ],
+                    "short_notes": "mutu uyu udzaona pa Kulankhula ndi acikulile. Kulankhula ndi acikulile ndi njila yophunzitsila anamakambidwe aulemu omwe amakulitsa ubale paka\u0000 pa anthu.",
+                    "vocabulary": [
+                        {
+                            "term": "Kambilano",
+                            "definition": ""
+                        },
+                        {
+                            "term": "mvetso",
+                            "definition": ""
+                        },
+                        {
+                            "term": "acikulile",
+                            "definition": ""
+                        },
+                        {
+                            "term": "ubale",
+                            "definition": ""
+                        },
+                        {
+                            "term": "bwenzi",
+                            "definition": ""
+                        },
+                        {
+                            "term": "miyambo",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": 80,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.2",
+                    "title": "kudzindikila Masilabe",
+                    "page": 81,
+                    "competences": [
+                        "kuzindikila Masilabe m'"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5.2.C",
+                            "page": 83,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Pangani mau pogwilitsa nchito Masilabe.",
+                                "Udzani aphunzi asonyeze kusinthanitsa ndi kucotsa Masilabe ku mau kupanga",
+                                "Nso+lo=nsolo",
+                                "Ngu+lu+we=nguluwe",
+                                "Kucotsa silabe ku Liu ndi kuikako Ina kupanga mau atsopano.",
+                                "Ngolo = nsolo-cotsani /ngo/ ndikuikako /nso/.",
+                                "Theka = nsaka---cotsani/the/ ndi kuikako /nsa/."
+                            ],
+                            "learner_steps": [
+                                "Apange mau ao mogwilitsa nchito Masilabe.",
+                                "Pangani mau polumikidza Masilabe awa.",
+                                "Nsa +ni+ko="
+                            ],
+                            "short_notes": "Kupanga Mau Olankhulidwa Kugwilitsa Nchito Masilabe."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.2.D",
+                            "page": 83,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Pangani mau pakusinthanitsa Masilabe, kucotsa ndi kupanga mau ena.",
+                                "Citani ndi aphunzi sewelo ya kusinthanitsa masilabe m'mau.",
+                                "Udzan aphunzi asonyeze kucotsa Masilabe ndi kupanga mau ena.",
+                                "Ngakhale=khale-cotsani Nga",
+                                "Thandiwe=ndiwe-cotsani tha",
+                                "Citani masewela awa ndi mamvekelo onse opatsidwa mu temu."
+                            ],
+                            "learner_steps": [
+                                "Aone zomwe Mphunzitsi acita",
+                                "Acite matsewela yosinthanitsa masilabe m'mau.",
+                                "Asinthanitse ndi kucotsa silabe kupanga mau atsopano.",
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "short_notes": "Kutsewela Masewela Opanga Mau Moonga Kusinthanitsa Masilabe, Kucotsa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.2.A",
+                            "page": 84,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Patsani citsanzo kwa aphunzi ca ciganizo ndikupenda mau ali mciganizo.",
+                                "Uzani aphunzi apatse ziganizo zina ndiponso mupeze mau ali mziganizo",
+                                "pamodzi ndi aphunzi.",
+                                "Uzani aphunzi ku\u0000 azindikile mau ali mu ciganizo izi,",
+                                "Thomasi wabwela ku cokela ku Munda.",
+                                "Mwana uyu Ali kulilila amai ake."
+                            ],
+                            "learner_steps": [
+                                "Thamasi wabwela kucokela ku munda (Mau asanu, 5)",
+                                "Mwana uyu Ali kulilila amai ake. (Mau asanu ndi imodzi, 6)"
+                            ],
+                            "short_notes": "Kugawa ziganizo zokambidwa m'mau."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.2.B",
+                            "page": 84,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kusankha malembo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.2.A",
+                            "page": 85,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kulumikiza Makonsonan\u0000 Ndi Mavawelo."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.2.B",
+                            "page": 86,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Bwelesani silabiki cha\u0000",
+                                "Welenga silabiki cha\u0000 ndi aphunzi",
+                                "Udzani aphunzi awelenge Masilabe",
+                                "Sonyezani njila zosiyana-siyana mowelengela cha\u0000 ya Masilabe.",
+                                "Th Tha The Thi Tho Thu",
+                                "NDEMANGA: Pangani silabiki cha\u0000 ya mamvekelo onse a mu temu.",
+                                "II. Aphunzi",
+                                "Awelenge Masilabe opangidwa.",
+                                "Awelenge Masilabe pa cha\u0000 ya Masilabe",
+                                "Muyeso woyembekezeleka: Kuwelenga silabiki cha\u0000 kwaci\u0000ka moyenela.",
+                                "Nchito: C. Kusankha Masilabe Kucokela ku Mau.",
+                                "I. Mphunzitsi",
+                                "Nenani mau ndiku walemba pa board.",
+                                "Sonyezani mosankhila Masilabe mu mau.",
+                                "Ngamila=muli Masilabe atatu=Nga+mi+la",
+                                "Nguluwe = muli Masilabe atatu= Ngu+lu+we",
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kuwelenga Cha\u0000 ya Masilabe."
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Masilabe",
+                            "definition": ""
+                        },
+                        {
+                            "term": "vawelo",
+                            "definition": ""
+                        },
+                        {
+                            "term": "mvekelo.",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": 81,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.3",
+                    "title": "KUWELENGA",
+                    "page": 87,
+                    "competences": [
+                        "aphunzi apange"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5.3.A",
+                            "page": 90,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kuwelenga Mau"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.3.D",
+                            "page": 91,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kuwelenga Nkhani Yokwanila Mizele Iwili Kapena Itatu"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.3.A",
+                            "page": 92,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Apange maina oculukitsidwa kucokela ku maina osachulukitsidwa.",
+                                "MAINA OSACULUKITSIDWA MAINA OCULUKITSIDWA",
+                                "Nsapato ………………………..",
+                                "Bwalili ……………………….."
+                            ],
+                            "short_notes": "Kulinganiza Maina Osaculukitsidwa Ndi Oculukitsidwa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.3.B",
+                            "page": 93,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Afunse aphunzi ku\u0000 alinganize maina osaculukitsidwa ndi maina",
+                                "oculukitsidwa.",
+                                "Mtengo - ana",
+                                "Mwana - masiku",
+                                "a. Tsiku - mitengo"
+                            ],
+                            "learner_steps": [
+                                "Linganizani maina osaculukitsidwa ndi maina oculukitsidwa.",
+                                "Mwana…..Ana"
+                            ],
+                            "short_notes": "kupanga Maina osachulikisidwa kucokela ku Maina ochulikitsidwa."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.3.C",
+                            "page": 93,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Afunse aphunzi ku\u0000 alinganize maina osaculukitsidwa ndi maina",
+                                "oculukitsidwa.",
+                                "Mtengo - ana",
+                                "Mwana - masiku",
+                                "a. Tsiku - mitengo"
+                            ],
+                            "learner_steps": [
+                                "Linganizani maina osaculukitsidwa ndi maina oculukitsidwa.",
+                                "Mwana…..Ana"
+                            ],
+                            "short_notes": "Kulinganiza Maina osaculukitsidwa ndi Maina oculukitsidwa."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.3.D",
+                            "page": 93,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Asewele masewela a Maina oculukitsidwa ndi oculukitsidwa.",
+                                "Kugwilitsani nchito ma fulashi khadi Ali ndi Maina oculukitsidwa ndi sinthani",
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kusewela Masewela Amaina Oculukitsidwa Ndi Osaculukitsidwa."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.3.A",
+                            "page": 94,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Amvetsele ku nkhani",
+                                "Ayankhe mafunso",
+                                "Athilepo ndemanga zao",
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "short_notes": "Kupeka Ndemanga Pa Nkani Yomwe Ambva"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.3.A",
+                            "page": 95,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kugwilitsa nchito Zizindikilo zolozela ku matanthauzo la mau acilendo."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.3.B",
+                            "page": 96,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Welengani mau ozindikilidwa mnkhani",
+                                "Udzani aphunzi ku acita sewelo kugwilitsa nchito mau acilendo",
+                                "II. Aphunzi",
+                                "Acite sewelo kugwilitsa nchito mau ozindikilidwa acilendo.",
+                                "Muyeso woyembekezeleka:",
+                                "Mau ozindikilidwa aseweledwa moyenela.",
+                                "Mwacidule: Aphunzi aphunzila kupeza matanthauzo a mau acilendo kulingana ndi geledi yao.",
+                                "MUTU 2: MVETSO",
+                                "Mutu waung'ono: Zoonadi za nkhani",
+                                "Ciyambi: Mutu uwu uzayangana pa kupeleka uthenga wonenedwa m'nkhani yaifupi",
+                                "yopatsidwa.",
+                                "Luso lapadela: Kupeleka uthenga wonenedwa m'nkhani yaifupi yopatsidwa.",
+                                "Mau ofunika kudziwa:",
+                                "Uthenga, nkhani, ifupi.",
+                                "Mfundo zophunzitsa:",
+                                "Kuphunzitsa momwe aphunzi angapelekele uthenga wonenedwa m'nkhani.",
+                                "Momwe angafotokozele zomwe zawelengedwa.",
+                                "Zida zophunzitsila ndi zophunzilila:",
+                                "Mabuku, makhadi aziganizo.",
+                                "Nchito A: Kufotokoza zomwe zawelengedwa.",
+                                "I. Mphunzitsi",
+                                "Uzani aphunzi ku\u0000 afotokoze zomwe zawelengedwa (ocita sewelo, malo,",
+                                "ndondomeko momwe nkhani iyendela ndi zina zace).",
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "kucita sewelo la mau a cilendo omwe a zindikilidwa mnkhani."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.3.A",
+                            "page": 96,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kufotokoza zomwe zawelengedwa."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.3.B",
+                            "page": 97,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Uzani aphunzi ku\u0000 ayankhe mafunso kulingana ndi momwe zinthu zinali",
+                                "kuci\u0000kila mu nkhani."
+                            ],
+                            "learner_steps": [
+                                "Ayankhe mafunso monga nciani ….? ndani…? ku\u0000…? li\u0000 …? motani…?"
+                            ],
+                            "short_notes": "Kuyankha mafunso kucokela ku zimene zawelengedwa."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.3.C",
+                            "page": 97,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Uzani aphunzi kumvetsela ku nkhani ndi ku\u0000 azayankha mafunso",
+                                "Awelenge nkhani ndi kufunsa aphunzi pa zomwe amva."
+                            ],
+                            "learner_steps": [
+                                "Amvetsele ku nkhani",
+                                "Afotokoze mwatsatane tsane pa zomwe amva mu nkhani."
+                            ],
+                            "short_notes": "Kufotokoza mwatsatane tsatane pa zoci\u0000ka mnkhani"
+                        }
+                    ],
+                    "short_notes": "Mutu uyu udzaona pakulumikiza Masilabe kupanga mau, kusintha ndi kucotsa masilabe kupanga mau atsopano, kuzindikila Masilabe m'mau ndi kuwelenga Masilabe.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 87,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.4",
+                    "title": "MALEMBEDWE",
+                    "page": 97,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5.4.A",
+                            "page": 97,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kujambula malembo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.4.B",
+                            "page": 98,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Ajambule mau opatsidwa.",
+                                "Alembe mau opatsidwa okhazikika."
+                            ],
+                            "short_notes": "Kulemba Malembo."
+                        }
+                    ],
+                    "short_notes": "Mutuyu uzaona pa kapangidwe ka lembo.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 97,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "6.0",
+            "topic_title": "KUZINDIKILA ANTHU",
+            "sub_topics": [
+                {
+                    "subtopic_id": "6.1",
+                    "title": "Zizindikilo",
+                    "page": 100,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.1.A",
+                            "page": 100,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Phunzitsani aphunzi mau osonyeza zizindikilo za maonekedwe a anthu ndi",
+                                "kupanga mndandanda wa mau osonyeza zizindikilo za maonekedwe a anthu.",
+                                "Yetselelani ndi aphunzi kupeka longotsolo ya izi zinthu ndi aphunzi mbalame,",
+                                "nja\u0000, mbelele kapena zinthu zina.",
+                                "Citsanzo: Wamtali, wamfupi, wonenepa, woonda, woyela, wakuda."
+                            ],
+                            "learner_steps": [
+                                "Anvetsele pomwe aphunzi akupatsa longotsolo.",
+                                "Kunena zizindikilo za maonekedwe a munthu amene aphunzila ndi kupanga",
+                                "mndandanda wake.",
+                                "Nchito B: Kugwilitsa Nchito Mau Opezedwa Kulongotsolela Anthu",
+                                "I. Mphunzitsi:",
+                                "Pelekani itsanzo ca maonekedwe a munthu wina wake ponena za zizindikilo",
+                                "Jabesi ndi wamtali. Mayase ndi wonenepa."
+                            ],
+                            "short_notes": "Kupeleka Mndandanda wa Mau Yolongotsolela Anthu"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.1.B",
+                            "page": 100,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Pelekani itsanzo ca maonekedwe a munthu wina wake ponena za zizindikilo",
+                                "Jabesi ndi wamtali. Mayase ndi wonenepa."
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kugwilitsa Nchito Mau Opezedwa Kulongotsolela Anthu"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.1.C",
+                            "page": 101,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Uzani aphunzi ka sewelo ka kaku longotsola cinthu ciliconse",
+                                "Citani masewela osonyeza kuzindikila anthu monga awa: Ndine ndani?",
+                                "Wandidziwa bwanji?",
+                                "Uzani aphunzi acite amsewela alongotsola zinthu m'magulu ao."
+                            ],
+                            "learner_steps": [
+                                "Anvetsele zomwe aphunzitsi akunena",
+                                "Kucita sewelo pamodzi ndi Mphunzitsi.",
+                                "Acite masewela m'magulu ao."
+                            ],
+                            "short_notes": "kutsewela masewela osonyeza anthu monga awa Ndine ndani? Wandidziwa"
+                        }
+                    ],
+                    "short_notes": "M'cigawo cino aphunzi adzaphunzila kupeleka zizindikilo za anthu, kugwilitsa nchito mau ozindikilitsa anthu ndi kucita masewela ozindikila anthu.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 100,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.2",
+                    "title": "Zizindikilo Masilabe",
+                    "page": 101,
+                    "competences": [
+                        "Kuzindikila masilabe ndi kupanga"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.2.A",
+                            "page": 102,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lankhulani mau osaiyana-siyana ndi kuuza aphunzi zigawo za mauwo ku\u0000",
+                                "ndiye masilabe.",
+                                "Citsanzo: Mu liu 'mlaliki' muli masilabe atatu (3), mla-li-ki.",
+                                "Citani cimodzi-modzi ndi mau ena osaiyana-siyana.",
+                                "Lankhulani mau osaiyana-siyana pamodzi ndi aphunzi ndi kuyagawa-gawa",
+                                "Uzani aphunzi ku\u0000 alankhule mau awo-awo, kuyagawa-gawa ndi kuwelenga"
+                            ],
+                            "learner_steps": [
+                                "Alankhule mau osaiyana-siyana, kuyagawa-gawa ndi kuwelenga masilabe.",
+                                "Azindikile masilabe m'mau olankhulidwa",
+                                "Alankhule mau osiyana-siyana ndiku zindikila masibe ali m'mau.",
+                                "Nchito B: Kucita masewela owelenga masilabe",
+                                "I. Mphunzitsi:",
+                                "Pelekani citsanzo ca kuwelenga masilabe m'mau olankhulidwa.",
+                                "Lembani mau pa bodi ndi kuwelenga ndi aphunzi masilabe m'mau alembedwa",
+                                "Uzani aphunzi azindikile masilabe ma'mau ena apatsidwa.",
+                                "II. Aphunzi:",
+                                "Aphunzi acite masewela owelenga masilabe.",
+                                "Azindikile masilabe m'mau okambidwa",
+                                "Azindikile masilabe m'mau osiyana-siyana.",
+                                "Nchito C: Kupanga Mau Olankhulidwa Pogwilitsa Nchito Masilabe.",
+                                "I. Mphunzitsi:",
+                                "Lankhulani mau ndi kuuza aphunzi masilabe ali mu mau olankhulidwa",
+                                "Uzani aphunzi ku\u0000 masilabe ndi yogwilitsa nchito kupanga mau.",
+                                "Gwilitsani nchito masilabe kupanga amau ena pamodzi ndi aphunzi.",
+                                "Pangani mau olankhulidwa pogwilitsa nchito masilabe.",
+                                "II. Aphunzi:",
+                                "Alankhule masilabe m'mau",
+                                "Amvetsele kwa aphunzi kapangidwe ka mau olankhulidwa kugwilitsa nchito",
+                                "Apange mau pogwilitsa nchito masilabe.",
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "short_notes": "Kuzindikila masilabe m'mau olankhulidwa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.2.B",
+                            "page": 102,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Pelekani citsanzo ca kuwelenga masilabe m'mau olankhulidwa.",
+                                "Lembani mau pa bodi ndi kuwelenga ndi aphunzi masilabe m'mau alembedwa",
+                                "Uzani aphunzi azindikile masilabe ma'mau ena apatsidwa."
+                            ],
+                            "learner_steps": [
+                                "Aphunzi acite masewela owelenga masilabe.",
+                                "Azindikile masilabe m'mau okambidwa",
+                                "Azindikile masilabe m'mau osiyana-siyana.",
+                                "Nchito C: Kupanga Mau Olankhulidwa Pogwilitsa Nchito Masilabe.",
+                                "I. Mphunzitsi:",
+                                "Lankhulani mau ndi kuuza aphunzi masilabe ali mu mau olankhulidwa",
+                                "Uzani aphunzi ku\u0000 masilabe ndi yogwilitsa nchito kupanga mau.",
+                                "Gwilitsani nchito masilabe kupanga amau ena pamodzi ndi aphunzi.",
+                                "Pangani mau olankhulidwa pogwilitsa nchito masilabe.",
+                                "II. Aphunzi:",
+                                "Alankhule masilabe m'mau",
+                                "Amvetsele kwa aphunzi kapangidwe ka mau olankhulidwa kugwilitsa nchito",
+                                "Apange mau pogwilitsa nchito masilabe.",
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "short_notes": "Kucita masewela owelenga masilabe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.2.C",
+                            "page": 102,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lankhulani mau ndi kuuza aphunzi masilabe ali mu mau olankhulidwa",
+                                "Uzani aphunzi ku\u0000 masilabe ndi yogwilitsa nchito kupanga mau.",
+                                "Gwilitsani nchito masilabe kupanga amau ena pamodzi ndi aphunzi.",
+                                "Pangani mau olankhulidwa pogwilitsa nchito masilabe."
+                            ],
+                            "learner_steps": [
+                                "Alankhule masilabe m'mau",
+                                "Amvetsele kwa aphunzi kapangidwe ka mau olankhulidwa kugwilitsa nchito",
+                                "Apange mau pogwilitsa nchito masilabe.",
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "short_notes": "Kupanga Mau Olankhulidwa Pogwilitsa Nchito Masilabe."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.2.D",
+                            "page": 103,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Onetsani sewelo kwa aphunzi yopanga mau",
+                                "Citani sewelo ndi aphunzi youpanga mau",
+                                "Pangani mau osaiyana-siyana kucokela ku masilabe olankhulidwa.",
+                                "Aphunzi apange mau"
+                            ],
+                            "learner_steps": [
+                                "Amvetsele kwa aphunzi pa nkhani masewela opanga mau",
+                                "Acite sewelo ndi aphunzi yopanga mau",
+                                "Apange mau osaiyana-siyana kucokela ku masilabe olankhulidwa."
+                            ],
+                            "short_notes": "Kucita Masewela Opanga Mau"
+                        }
+                    ],
+                    "short_notes": "Mutu waung'ono uyu uzaona pa kuzindikila masilabe m'mau olankhulidwa, kucita masewela owelenga masilabe, kupanga mau olankhulidwa pogwilitsa nchito masilabe ndi kucita masewela opanga mau.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 101,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.3",
+                    "title": "Kuzindikila mvekelo",
+                    "page": 103,
+                    "competences": [
+                        "Kugawa ziganizo zolankhulidwa ndi kuziika m'"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.3.A",
+                            "page": 104,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Onetsani aphunzi kulumikidza ma konsonan\u0000 ndi mavawelo kupanga masilabe",
+                                "Lumikidzani makonsonant ndi mavawelo ku\u0000 mupange masilabe: ml +a = mla,",
+                                "ml + e = mle, ml + i = mli, ml + o = mlo, ml + u = mlu.",
+                                "Uzani aphunzi ku\u0000 apange masilabe kucokela ku makonsonant ndi mavawelo"
+                            ],
+                            "learner_steps": [
+                                "Apange masilabe kucokela ku makonsonant ndi mavawelo."
+                            ],
+                            "short_notes": "Kupanga masilabe kucokela ku makonsonant ndi mavawelo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.3.B",
+                            "page": 104,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Phunzitsani kawelengedwe ka silabiki cha\u0000 kwa aphunzi.",
+                                "Uzani aphunzi alondole powelenga",
+                                "Uzani aphunzi ku\u0000 awelenge masilabe pa silabiki cha\u0000 paokha."
+                            ],
+                            "learner_steps": [
+                                "Apenyelele mowelengela masilabe pa cha\u0000",
+                                "awelenge molondola mphunzitsi",
+                                "Awelenge masilabe pa silabiki cha\u0000 paokha.",
+                                "Citsanzo: mla, mle, mli, mlo, mlu"
+                            ],
+                            "short_notes": "Kuwelenga cha\u0000 ya masilabe- Mla, mle, mli, mlo, mlu"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.3.C",
+                            "page": 104,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kusankha masilabe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.3.D",
+                            "page": 105,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Phunzitsani kasinthanitsidwe ka malembo ku masilabe.",
+                                "Citsanzo: \"mlimila\" nga\u0000 mwacotsako \"mli\" ndi mukhala ndi limila .",
+                                "Uzani aphunzi ku\u0000 asinthanitse malembo ndi kupanga masilabe atsopano."
+                            ],
+                            "learner_steps": [
+                                "Asinthanitse malembo ku masilabe ndi kupanga masilabe atsopano."
+                            ],
+                            "short_notes": "Kusinthanitsa malembo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.3.A",
+                            "page": 105,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lumikidzani masilabe kucokela pa cha\u0000 ya masilabe ndi kupanga mau.",
+                                "Lumikidzaninso masilabe kucokela ku makhadi ya masilabe ndi kupanga mau.",
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kulumikidza masilabe ndi kupanga mau"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.3.B",
+                            "page": 106,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Sinthanitsani ndi kucotsa masilabe ndi kupanga mau atsopano.",
+                                "Citsanzo: \"khola\" mukacotsa \"kho\" ndi kuikako \"mba\" ikhala \"mbala\".",
+                                "\"thamanga\", mukacotsako \"tha\" ikhala \"manga\".",
+                                "Uzani aphunzi ku\u0000 asinthanitse ndi kucotsa masilabe ndi kupanga mau",
+                                "atsopano moyenela."
+                            ],
+                            "learner_steps": [
+                                "Asinthanitse ndi kucotsa masilabe ndi kupanga mau atsopano.",
+                                "Aone kasinthanitsidwe ndi kacotsedwe ka masilabe m'mau",
+                                "Citani cimodzi-modzi ndi masilabe ena onse otsalila."
+                            ],
+                            "short_notes": "Kusinthanitsa ndi kucotsa masilabe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.3.C",
+                            "page": 106,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Phunzitsani m'mene aphunzi angazindikilile masilabe m'mau.",
+                                "Mwacitsanzo, konsonan\u0000 iliyonse yomwe ili ndi vawelo kutsogolo kwake",
+                                "imachedwa ku\u0000 silabe.",
+                                "Citsanzo, mu liu laku\u0000 \"mlonda\" muli masilabe awili (2) \"mlo\" ndi \"nda\". Uzani",
+                                "aphunzi ku\u0000 azindikile masilabe m'mau opatsidwa."
+                            ],
+                            "learner_steps": [
+                                "Azindikile masilabe m'mau opatsidwa ndi m'mabuku.",
+                                "Aone kazindikilidwe ka masilabe m'mau"
+                            ],
+                            "short_notes": "Kuzindikila masilabe m'mau."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.3.D",
+                            "page": 106,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lembani mau pa bolodi ndi kuwelenga nambala ya masilabe m'mau",
+                                "olembedwawo.",
+                                "Citsanzo, \"mlangizi\" muli masilabe atatu (3): mla - ngi - zi.",
+                                "Yetselelani ndi aphunzi kuwelenga nambala ya masilabe m'mau apatsidwa.",
+                                "Uzani aphunzi ku\u0000 alankhule, alembe ndi kuwelenga nambala ya masilabe",
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kuwelenga nambala ya masilabe"
+                        }
+                    ],
+                    "short_notes": "Mutu uyu uzaona pa kugawa ziganizo zolankhulidwa ndi kuziika m'mau.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 103,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.4",
+                    "title": "Mvetso ya kumvetsela",
+                    "page": 107,
+                    "competences": [
+                        "Kupeleka cigamulo pa uthenga umene wamveka moyenela."
+                    ],
+                    "instructional_blocks": [],
+                    "short_notes": "Mutu waung'ono uyu uzaona pa kupeleka cigamulo pa uthenga umene wamveka.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 107,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.5",
+                    "title": "Mvetso ya kumvetsela",
+                    "page": 107,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.5.A",
+                            "page": 108,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Uzani aphunzi ku\u0000 ayenela kumvetsetsa pamene mphunzitsi akuwelenga",
+                                "nkhani kapena nthano ku\u0000 azindikile matanthauzo a mau acilendo.",
+                                "Simbani ngakhale kuwelenga nkhani kapena nthano yoyenelela kucokela mu",
+                                "kabuku ka nthano kapena ka nkhani zoyenelela aphunzi.",
+                                "Pamudzi wa Chipindo panali bambo wina.",
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kugwilitsa Nchito Mau Olozela kupeza Matanthauzo a Mau Acilendo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.5.B",
+                            "page": 109,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Phunzitsani momwe mungasonyezele kucita mau.",
+                                "Mwacitsanzo: kudzidzimuka, kudabwa, kukhetsa misozi, kugwa ndi phwete, kufoka",
+                                "Citani citsanzo ca kucita mau asanu opelekedwawo.",
+                                "Uzani aphunzi ku\u0000 anene zomwe mphunzitsi wacita."
+                            ],
+                            "learner_steps": [
+                                "Amvetsele ku zophunzitsidwa",
+                                "Asonyeze kucita mau awa: kudzidzimuka, kudabwa, kukhetsa misozi, kugwa",
+                                "ndi phwete, kufoka"
+                            ],
+                            "short_notes": "Kucita Sowelo la Mau Ozindikilidwa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.5.A",
+                            "page": 110,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Uzani aphunzi ku\u0000 achele makutu kwambili ku zotsa\u0000la pomwe mukuwelenga",
+                                "nkhani: opezeka m'nkhani, malo, maonekedwe a malo ndi nthawi pomwe",
+                                "nkhani inaci\u0000ka.",
+                                "Welengani nkhani pomwe aphunzi akumvetsela modekha.",
+                                "Uzani aphunzi ku\u0000 awelenge nkhani yopatsidwa momveka bwino."
+                            ],
+                            "learner_steps": [
+                                "Amvetsele ku nkhani",
+                                "Awelenge nkhani yopatsidwa momveka bwino pozindikila opezeka m'nkhani,",
+                                "malo, maonekedwe a malo ndi nthawi pomwe nkhani inaci\u0000ka.",
+                                "Acite kulingana ndi mau ena ali mu nkhani"
+                            ],
+                            "short_notes": "Kufotokoza Zomwe Zawelengedwa (Opezeka m'nkhani, Malo, maonekedwe a Malo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.5.B",
+                            "page": 110,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Phunzitsani aphunzi mbali zomwe zimapezeka m'mafunso izi: ndi ciani, ndi",
+                                "ndani, ndi ku\u0000, ndi li\u0000, ndi cifukwa ninji, zinaci\u0000ka bwanji?",
+                                "Welengani nkhani kapena nthano ndipo mukambilane ndi aphunzi za mbali za",
+                                "Funsani aphunzi mafunso kucokela ku nkhani kapena nthano yomwe",
+                                "mwawelengedwa."
+                            ],
+                            "learner_steps": [
+                                "Amvetsele mau ofunsila",
+                                "Amvetsele ku nkhani",
+                                "Ayankhe mafunso kucokela ku nkhani kapena nthano yomwe yawelengedwa."
+                            ],
+                            "short_notes": "Kuyankha Mafunso Kucokela Ku Zomwe Zawelengedwa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.5.C",
+                            "page": 110,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Welengani nkhani kapena nthano.",
+                                "Phunzitsani aphunzi ndondomeko ya zoci\u0000ka mu nkhani kapena nthano",
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kufotokoza Nkhani molondola Ndondomeko ya m'mene Yaci\u0000kila"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 107,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.6",
+                    "title": "Malembedwe",
+                    "page": 111,
+                    "competences": [
+                        "Kulemba malembo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.6.A",
+                            "page": 111,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Pelekani citsanzo ca malembedwe a malembo kucokela ku ciyambi mpaka",
+                                "Lembani malembo ml ML ndi dy DY pa bolodi pomwe aphunzi akuonetsetsa",
+                                "ndipo mudzilankhula mayendedwe a dzanja pomwe mukulemba monga:",
+                                "kucokela kumwamba kupita pansi ndi kuzungulila.",
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kujambula Malembo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.6.B",
+                            "page": 112,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kulemba malembo kucokela ku zitsanzo.",
+                                "Pelekani citsanzo ca malembedwe a malembo m'mizela pa bolodi.",
+                                "Sonyezani m'mene malembo ml ML ndi dy DY akhalila m'mizela.",
+                                "Kumbutsani aphunzi za mitundu itatu ya malembo yomwe ndi malembo",
+                                "amicila yokwezeka, malembo yathyathyathya ndi malembo ya micila yotsika.",
+                                "Uzani aphunzi ku\u0000 alembe malembo m'mabuku ao."
+                            ],
+                            "learner_steps": [
+                                "Alembe malembo m'mabuku ao mosamala."
+                            ],
+                            "short_notes": "Kulemba malembo"
+                        }
+                    ],
+                    "short_notes": "Mutu waung'ono uyu uzaona pa kujambula malembo.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 111,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.7",
+                    "title": "Malembedwe",
+                    "page": 112,
+                    "competences": [
+                        "Kulemba zowelengeka m'malembedwe okhazikika"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.7.A",
+                            "page": 112,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kujambula Mau M'malembedwe Okhazikika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.7.B",
+                            "page": 113,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lembani mizela pa bolodi.",
+                                "Lembani ziganizo m'malembedwe okhazikika m'mizela posiya mipata yoyenela",
+                                "paka\u0000 pa mau.",
+                                "Uzani aphunzi ena ku\u0000 ajambule ziganizo zili pa bolodi m'mizela ina yomwe ili",
+                                "pa bolodipo.",
+                                "1 Mlaliki wadela lino sakudya mazila okazinga.",
+                                "Zakudya zambili zimacokela ku mlimi.",
+                                "Kalulu akonda kudya kabichi.",
+                                "Uzani aphunzi ku\u0000 ajambule ziganizo zili pa bolodi m'mabuku ao motsa\u0000la malembedwe a",
+                                "mitundu itatu ya malembo.",
+                                "Mitundu itatu ya malembo:",
+                                "Malembo a micila yokwezeka kumwamba: b, d, f, h, k, l, t.",
+                                "Malembo otsika micila: g, j, p, y.",
+                                "Malembo a okhazikika : a, c, e, i, m, n, o, r, s, u, v, w, z."
+                            ],
+                            "learner_steps": [
+                                "Aonetsetse molembela mizele",
+                                "Aonetsetse molembela ziganizo m'malembedwe okhazikika m'mizela posiya",
+                                "mipata yoyenela paka\u0000 pa mau.",
+                                "Giledi 1: Temu 2Buku Lothandizila Mphunzitsi M'cinyanja"
+                            ],
+                            "short_notes": "Kujambula Ziganizo M'malembedwe Okhazikika"
+                        }
+                    ],
+                    "short_notes": "Mutu waung'ono uyu uzaona pa kujambula mau m'malembedwe okhazikika.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 112,
+                        "questions": []
+                    }
+                }
+            ]
+        }
+    ]
+}

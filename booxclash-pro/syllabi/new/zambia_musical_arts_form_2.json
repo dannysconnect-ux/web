@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 2",
+    "subject": "Musical Arts",
+    "philosophy": "The Musical Arts Syllabus is for Secondary School Ordinary Level implemented from Form 1 to Form 4. The subject aims at developing the musical instincts and expressions of learners for the promotion of the creative, expressive, dynamic and aesthetic values of music. Musical Arts Education equips learners with three major competences: analysing, composing and performing, which are not to be treated as isolated areas.",
+    "competence_learning": "The syllabus is structured in five parts that include the Topic, Subtopic, Specific Competences, Expected Learning Outcomes and Learning Activities. The expected learning activities cover knowledge, skills and values arranged from simple to complex. The syllabus has been reviewed in line with Competence Based principles which seek to link education to real life experiences that give learners skills to access, criticise, analyse and practically apply knowledge.",
+    "goals": [
+      "Develop musical instincts and expressions of learners.",
+      "Promote creative, expressive, dynamic and aesthetic values of music.",
+      "Equip learners with competences in analysing, composing and performing music.",
+      "Link education to real life experiences through Competence Based principles.",
+      "Equip learners with vital knowledge, values and skills of 21st Century Competences.",
+      "Contribute to the attainment of Vision 2030."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "2.1",
+      "topic_title": "WORLD MUSIC",
+      "page_number": 9,
+      "subtopics": [
+        "Zambian music"
+      ],
+      "specific_outcomes": [
+        "Perform Zambian music styles"
+      ]
+    },
+    {
+      "unit": "2.2",
+      "topic_title": "RHYTHM",
+      "page_number": 9,
+      "subtopics": [
+        "Metre"
+      ],
+      "specific_outcomes": [
+        "Apply compound time in a composition"
+      ]
+    },
+    {
+      "unit": "2.3",
+      "topic_title": "PITCH",
+      "page_number": 9,
+      "subtopics": [
+        "C Clefs",
+        "Double Sharps and Double Flats"
+      ],
+      "specific_outcomes": [
+        "Relate pitch to the C clefs",
+        "Apply double sharps and double flats in a music composition"
+      ]
+    },
+    {
+      "unit": "2.4",
+      "topic_title": "INTERVALS",
+      "page_number": 9,
+      "subtopics": [
+        "Compound Intervals"
+      ],
+      "specific_outcomes": [
+        "Apply compound intervals in music composition"
+      ]
+    },
+    {
+      "unit": "2.5",
+      "topic_title": "MELODY",
+      "page_number": 10,
+      "subtopics": [
+        "Melody Writing",
+        "Transposing",
+        "Translating",
+        "Sight Reading"
+      ],
+      "specific_outcomes": [
+        "Construct an eight bars melody",
+        "Transpose a diatonic melody",
+        "Translate a diatonic melody",
+        "Perform music written in any clef"
+      ]
+    },
+    {
+      "unit": "2.6",
+      "topic_title": "FORM",
+      "page_number": 10,
+      "subtopics": [
+        "Rondo"
+      ],
+      "specific_outcomes": [
+        "Construct melody in rondo form"
+      ]
+    },
+    {
+      "unit": "2.7",
+      "topic_title": "MUSICAL TERMS AND SIGNS",
+      "page_number": 10,
+      "subtopics": [
+        "Musical Signs"
+      ],
+      "specific_outcomes": [
+        "Interpret musical signs"
+      ]
+    },
+    {
+      "unit": "2.8",
+      "topic_title": "HARMONY",
+      "page_number": 10,
+      "subtopics": [
+        "Triads",
+        "Cadences",
+        "Part Singing"
+      ],
+      "specific_outcomes": [
+        "Identify chord progression",
+        "Detect harmonic cadences in major keys",
+        "Perform two, three and four part scores in group singing"
+      ]
+    },
+    {
+      "unit": "2.9",
+      "topic_title": "TEXTURE",
+      "page_number": 11,
+      "subtopics": [
+        "Density"
+      ],
+      "specific_outcomes": [
+        "Identify density for a given music"
+      ]
+    },
+    {
+      "unit": "2.10",
+      "topic_title": "CONDUCTING",
+      "page_number": 11,
+      "subtopics": [
+        "Conducting Figures"
+      ],
+      "specific_outcomes": [
+        "Recognize types of conducting figures",
+        "Relate music accentuation to hand movements in conducting"
+      ]
+    },
+    {
+      "unit": "2.11",
+      "topic_title": "VOICE",
+      "page_number": 11,
+      "subtopics": [
+        "Singing"
+      ],
+      "specific_outcomes": [
+        "Apply singing techniques"
+      ]
+    },
+    {
+      "unit": "2.12",
+      "topic_title": "MUSICAL INSTRUMENTS",
+      "page_number": 11,
+      "subtopics": [
+        "Instrument Playing"
+      ],
+      "specific_outcomes": [
+        "Apply instrument playing techniques"
+      ]
+    },
+    {
+      "unit": "2.13",
+      "topic_title": "MUSICAL ARTS AND TECHNOLOGY",
+      "page_number": 11,
+      "subtopics": [
+        "Writing Music",
+        "Music Recording"
+      ],
+      "specific_outcomes": [
+        "Write music using available software",
+        "Record music"
+      ]
+    }
+  ]
+}

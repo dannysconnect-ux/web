@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "6",
+    "subject": "Technology Studies",
+    "philosophy": "",
+    "competence_learning": "",
+    "goals": []
+  },
+  "topics": [
+    {
+      "unit": "6.1",
+      "topic_title": "SAFETY",
+      "page_number": 31,
+      "subtopics": [
+        "6.1.1 First Aid"
+      ],
+      "specific_outcomes": [
+        "6.1.1.1 Apply First Aid"
+      ]
+    },
+    {
+      "unit": "6.2",
+      "topic_title": "WORD PROCESSING",
+      "page_number": 31,
+      "subtopics": [
+        "6.2.1 Document Collaboration"
+      ],
+      "specific_outcomes": [
+        "6.2.1.1 Perform collaborative document editing and version control"
+      ]
+    },
+    {
+      "unit": "6.3",
+      "topic_title": "TOOLS AND EQUIPMENT",
+      "page_number": 31,
+      "subtopics": [
+        "6.3.1 Building Tools"
+      ],
+      "specific_outcomes": [
+        "6.3.1.1 Classify building tools"
+      ]
+    },
+    {
+      "unit": "6.4",
+      "topic_title": "MATERIALS",
+      "page_number": 32,
+      "subtopics": [
+        "6.4.1 Building Materials"
+      ],
+      "specific_outcomes": [
+        "6.4.1.1 Classify building Materials",
+        "6.4.1.2 Make bricks"
+      ]
+    },
+    {
+      "unit": "6.5",
+      "topic_title": "PRESENTATION",
+      "page_number": 32,
+      "subtopics": [
+        "6.5.1 Animations"
+      ],
+      "specific_outcomes": [
+        "6.5.1.1 Create interactive presentations"
+      ]
+    },
+    {
+      "unit": "6.6",
+      "topic_title": "ENERGY",
+      "page_number": 32,
+      "subtopics": [
+        "6.6.1 Installation of electrical components"
+      ],
+      "specific_outcomes": [
+        "6.6.1.1 Instalelectrical components"
+      ]
+    },
+    {
+      "unit": "6.7",
+      "topic_title": "SPREADSHEET",
+      "page_number": 33,
+      "subtopics": [
+        "6.7.1 Multiplication and division in spreadsheet"
+      ],
+      "specific_outcomes": [
+        "6.7.1.1 Perform multiplication and division in spreadsheet"
+      ]
+    },
+    {
+      "unit": "6.8",
+      "topic_title": "GRAPHIC COMMUNICATION",
+      "page_number": 33,
+      "subtopics": [
+        "6.8.1 Orthographic Projection",
+        "6.8.2 Modeling"
+      ],
+      "specific_outcomes": [
+        "6.8.1.1 Construct Orthographic views",
+        "6.8.2.1 Create 3D models"
+      ]
+    },
+    {
+      "unit": "6.9",
+      "topic_title": "DESIGNING",
+      "page_number": 34,
+      "subtopics": [
+        "6.9.1 Product Design"
+      ],
+      "specific_outcomes": [
+        "6.9.1.1 Design products to solve real life problems"
+      ]
+    },
+    {
+      "unit": "6.10",
+      "topic_title": "CODING",
+      "page_number": 34,
+      "subtopics": [
+        "6.10.1 Block Based Coding"
+      ],
+      "specific_outcomes": [
+        "6.10.1.1 Create simple computer programs"
+      ]
+    },
+    {
+      "unit": "6.11",
+      "topic_title": "STRUCTURES",
+      "page_number": 34,
+      "subtopics": [
+        "6.11.1 Building Structures"
+      ],
+      "specific_outcomes": [
+        "6.11.1.1 Construct buildings"
+      ]
+    },
+    {
+      "unit": "6.12",
+      "topic_title": "INTERNET",
+      "page_number": 34,
+      "subtopics": [
+        "6.12.1 Digital Citizenship"
+      ],
+      "specific_outcomes": [
+        "6.12.1.1 Apply digital citizenship ethics"
+      ]
+    },
+    {
+      "unit": "6.13",
+      "topic_title": "ENTREPRENEURSHIP",
+      "page_number": 35,
+      "subtopics": [
+        "6.13.1 Business Plan"
+      ],
+      "specific_outcomes": [
+        "6.13.1.1 Develop business plans"
+      ]
+    }
+  ]
+}

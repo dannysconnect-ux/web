@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 2",
+    "subject": "Hospitality Management",
+    "philosophy": "The Hospitality Management (HM) Syllabus has been developed by the need to provide a national curriculum for Zambia that is aligned with the competence based curriculum and 21st Century Skills. It aims to impart the knowledge, skills, values and positive attitudes that are aimed at enabling children to live and grow into productive and useful members of their communities and the Zambian society. The content/topics provided in this syllabi are aimed at facilitating holistic development of learners' creativity, initiative, problem solving, physical, mental, emotional skills among others. The suggested activities are designed to offer learners' hands-on experiences through manipulation of real objects, interaction with nature and learning through practice.",
+    "competence_learning": "Integrating STEM topics into hospitality management lessons will help the learners become more engaging and relevant. Science, Technology, Engineering and Math is becoming increasingly important in the hospitality industry. The use of technology is a key component in hospitality operations and data analysis for decision making. Hospitality managers utilize STEM skills to streamline processes, improve efficiency, and enhance the guest experience.",
+    "goals": [
+      "Evaluate the effects of the hospitality industry on the economy.",
+      "Apply skills to deliver exceptional front office services.",
+      "Make use of records in the housekeeping department.",
+      "Apply correct cleaning processes.",
+      "Perform laundry procedures in hospitality facility.",
+      "Conduct routine housekeeping maintenance.",
+      "Create different menus.",
+      "Cater for different functions.",
+      "Carry out the basic sequence in Food and Beverage services.",
+      "Show skillful serving of food and beverages.",
+      "Cost food and beverage.",
+      "Employ various food commodities in cookery.",
+      "Care of hair and scalp.",
+      "Apply hair dye and colouring techniques.",
+      "Set up a business venture."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "2.1",
+      "topic_title": "INTRODUCTION TO HOSPITALITY",
+      "page_number": 28,
+      "subtopics": [
+        "2.1.1 Economic Effect in Hospitality Industry"
+      ],
+      "specific_outcomes": [
+        "Evaluate the effects of the hospitality industry on the economy",
+        "Discuss the effects of hospitality industry on the economy: Local economic development, Small and medium enterprise, Job creation and entrepreneurship (Chef, receptionist, housekeeper), Foreign exchange earnings, Infrastructure development (transportation, amenities, hotels, attractions), Tourism growth (increased demand, tourist facilities)",
+        "Undertake an education tour to appreciate the benefits of hospitality industry on the economy"
+      ]
+    },
+    {
+      "unit": "2.2",
+      "topic_title": "FRONT OFFICE OPERATIONS",
+      "page_number": 29,
+      "subtopics": [
+        "2.2.1 Front Office",
+        "2.2.2 Record Keeping"
+      ],
+      "specific_outcomes": [
+        "Apply skills to deliver exceptional front office services",
+        "Creating a mock scenario of front office desk customer service: Pre-arrival stage (inquiries, reservations), Arrivals stage (Porter, Registration, room assignment), Occupancy stage (guest services, billing, complaints), Departure stage (payments, handover)",
+        "Social skills (Posture, Eye contact, Poise and deportment, Gestures)"
+      ]
+    },
+    {
+      "unit": "2.3",
+      "topic_title": "HOUSEKEEPING",
+      "page_number": 29,
+      "subtopics": [
+        "2.3.1 Record Keeping",
+        "2.3.2 Cleaning Areas and Processes",
+        "2.3.3 Laundry in Hospitality Facility",
+        "2.3.4 Maintenance"
+      ],
+      "specific_outcomes": [
+        "Make use of records in the housekeeping department",
+        "Documenting housekeeping records (Attendance book, handing over report book, Housekeeper's room report, Lost and found book, Room checklist, Theft complaint book, Gift record book)",
+        "Organizing records in housekeeping department",
+        "Conducting a mock audit of housekeeping records",
+        "Apply correct cleaning processes",
+        "Identifying cleaning areas and rooms (Corridors, public areas, conference rooms)",
+        "Using correct cleaning procedures for different areas (Sanitizing, Sterilizing, disinfecting, decontaminating, polishing, mopping, vacuuming)",
+        "Making use of cleaning products on cars, carpets, upholstery, furniture",
+        "Perform laundry procedures in hospitality facility",
+        "Demonstrating laundry procedures for guest linen (collecting, sorting, pre-treatment, washing, drying, ironing, storage, distribution)",
+        "Conduct routine housekeeping maintenance",
+        "Conducting routine maintenance (Daily, Weekly, Monthly, Quarterly, Semi-annually and annually)",
+        "Carrying out preventive maintenance (clean and sanitize guest rooms, check and replace batteries, test emergency lighting, inspect and clean laundry facilities and surroundings)"
+      ]
+    },
+    {
+      "unit": "2.4",
+      "topic_title": "FOOD AND BEVERAGE SERVICES",
+      "page_number": 31,
+      "subtopics": [
+        "2.4.1 Menu Planning",
+        "2.4.2 Catering",
+        "2.4.3 Basic Sequence of Service",
+        "2.4.4 Serving of Food and Beverages",
+        "2.4.5 Food Costing",
+        "2.4.6 Food Commodities"
+      ],
+      "specific_outcomes": [
+        "Create different menus",
+        "Discuss functions of the menu / menu card",
+        "Identify types of menus (Table d'hôte, à la carte, Carte du jour, Cycle, Static menu, Health menu, Bar menu)",
+        "Discuss menu planning considerations (Seasonality, Dietary requirements, Preparation, Variety, Ethnic considerations)",
+        "Explore menu design elements (Attractive, Clean, Compliment occasion, Easy to read)",
+        "Analyze menu content elements (Language, Accuracy, Sales mix)",
+        "Creating a menu and menu card for a function of your choice",
+        "Cater for different functions",
+        "Discuss types of functions (business, national)",
+        "Coordinating event catering (event décor, security, ushering, equipment and utensils supply)",
+        "Preparing indigenous foods for a ceremony from any province (Zambian: matebeto, sikenge, nkolo, lapoly, acizyo le)",
+        "Carry out the basic sequence in Food and Beverage services",
+        "Arrange the pre-requirements for basic sequence of service (food equipment, beverage service equipment, billing requirements)",
+        "Illustrate the basic sequence of service: Pre-service (greeting, seating, present menu), Service (order, serve food, clear table), Post-service (present bill, process payment, farewell)",
+        "Show skillful serving of food and beverages",
+        "Demonstrating skillful serving of beverages (pre-preparation, mise en place, cleaning the environment, reshaping/cleaning the equipment, arrange station)",
+        "Displaying table setting skills (Informal, Linen, Glassware, Cutlery/flatware)",
+        "Practising the serving of food in different styles of service (Plated, assisted service, self-service)",
+        "Practising beverage service (Alcoholic beverages - beers, spirits, wines; Non-alcoholic beverages - refreshing, nourishing, stimulating; Clearing, table crumbing, down, resetting the table)",
+        "Simulating a themed event for a banquet, a casual brunch, a cocktail reception",
+        "Cost food and beverage",
+        "Costing food and beverages (planning, recipe development and dish costing)",
+        "Employ various food commodities in cookery",
+        "Classifying food commodities: Animal foods (meats, poultry, fish, lard); Plant foods (vegetables, fruits, pulses); Food of animal origin (dairy products including eggs, fats, cooking oil, edible fats such as lard); Condiments (pepper, tabasco sauce, soy sauce, shire sauce); Sugar and syrups (granulated, castor, icing, demerara); Beverages (alcoholic and non-alcoholic); Groceries, Danish pastries, croissants",
+        "Carrying out an experiment to determine the effect of heat and chemicals on nutrients in food (proteins, carbohydrates, fats)",
+        "Developing profiling recipes and documenting Zambian indigenous recipes according to provinces"
+      ]
+    },
+    {
+      "unit": "2.5",
+      "topic_title": "COSMETOLOGY",
+      "page_number": 34,
+      "subtopics": [
+        "2.5.1 Hair Care",
+        "2.5.2 Hair Dye and Coloring"
+      ],
+      "specific_outcomes": [
+        "Care of hair and scalp",
+        "Explaining hair anatomy and analysis (hair shaft, root, hair bulb, dermatological papilla, cuticle)",
+        "Discussing hair properties (texture, porosity, elasticity, tensile strength, moisture content, pH level)",
+        "Identifying hair and scalp problems (dandruff, hair fall, damaged hair, oily scalp, chemically treated hair)",
+        "Practising hair care (shampooing, plaiting hair, barbing hair, locking)",
+        "Apply hair dye and colouring techniques",
+        "Differentiating hair colour and product (brand, price, features)",
+        "Applying hair colour (prepare, choose the right amount and application, specific sections, work the product as desired)",
+        "Streaking hair (horizontal, vertical, diagonal, balayage)",
+        "Discussing advantages and disadvantages of streaking (dimension and texture, brightening looks)"
+      ]
+    },
+    {
+      "unit": "2.6",
+      "topic_title": "ENTREPRENEURSHIP",
+      "page_number": 35,
+      "subtopics": [
+        "2.6.1 Types of Businesses"
+      ],
+      "specific_outcomes": [
+        "Set up a business venture",
+        "Exploring different types of businesses (partnership, sole trade, limited business)",
+        "Explaining the requirements for a business (pre-operational requirements, business plan, registration and financial)",
+        "Operational requirements (business location)",
+        "Regulatory compliance (health and safety)"
+      ]
+    }
+  ]
+}

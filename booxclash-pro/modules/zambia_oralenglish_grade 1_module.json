@@ -1,0 +1,1202 @@
+{
+    "subject": "Oral English Language",
+    "grade": "Grade 1",
+    "term": 3,
+    "topics": [
+        {
+            "topic_id": "1.1",
+            "topic_title": "Conversations",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1.13",
+                    "title": "Community Practices",
+                    "page": 11,
+                    "competences": [
+                        "1.1.13.1 Use appropriate language to talk about community practices"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 11,
+                            "hook": "Good community practices",
+                            "teacher_steps": [
+                                "Introduce the phrases community and practices",
+                                "Explain that community practices is when people work together to help everyone",
+                                "Use a poster or chart showing people working together (sweeping, sharing, planting trees)",
+                                "Ask learners to mention good community practices",
+                                "Demonstrate: Teacher: What are they doing? Learner: They are sweeping",
+                                "Supervise groups to ensure everyone practices",
+                                "Ask some groups to present their dialogue in front of class",
+                                "Provide feedback",
+                                "Ask learners to mention good community practices"
+                            ],
+                            "learner_steps": [
+                                "Listen and observe the poster",
+                                "Mention good community practices",
+                                "Practice in pairs: Learner 1: What are they doing? Learner 2: They are planting trees",
+                                "Take turns asking and responding",
+                                "Present dialogue in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 12,
+                            "hook": "How we live together in harmony",
+                            "teacher_steps": [
+                                "Introduce the word harmony",
+                                "Explain that harmony is when people work together to make something better",
+                                "Display a poster showing people living in harmony (kind, sharing, caring, honest)",
+                                "Demonstrate: Teacher: What is he/she doing? Learner: He/she is being caring",
+                                "Rotate pairs",
+                                "Put learners into groups for role-play demonstrating harmony",
+                                "Have each group present to class",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Listen and observe the poster",
+                                "Practice in pairs: Learner 1: What is he/she doing? Learner 2: He/she is sharing",
+                                "Rotate pairs",
+                                "In groups, role-play living in harmony",
+                                "Present to class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1c",
+                            "page": 13,
+                            "hook": "Keeping our community clean",
+                            "teacher_steps": [
+                                "Revise the word community",
+                                "Explain that a community is a group of people who live, work and help each other",
+                                "Ask learners to mention how they keep the community clean",
+                                "Demonstrate: Teacher: How do we keep the community clean? Learner: By slashing",
+                                "Pair learners and rotate",
+                                "Go to school ground and demonstrate one way to keep community clean"
+                            ],
+                            "learner_steps": [
+                                "Mention how they keep community clean",
+                                "Practice in pairs: How do we keep our community clean? By putting litter in the bin",
+                                "Go to school ground and demonstrate (picking rubbish, slashing, sweeping, weeding)"
+                            ]
+                        }
+                    ],
+                    "short_notes": "This sub-topic focuses on equipping learners with the ability to use appropriate language to talk about community practices. Understanding community practices builds unity, promotes respect and a sense of responsibility to self, family and community. Community practices include sweeping, sharing, planting trees. Living in harmony involves being kind, fair, honest, and caring. Keeping the community clean involves slashing, sweeping, picking rubbish, and weeding.",
+                    "vocabulary": [
+                        {
+                            "term": "community",
+                            "definition": "A group of people who live, work and help each other"
+                        },
+                        {
+                            "term": "practices",
+                            "definition": "Activities that people do regularly as part of community life"
+                        },
+                        {
+                            "term": "harmony",
+                            "definition": "When people work together to make something better"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 13,
+                        "questions": [
+                            "Ask learners to mention some good community practices",
+                            "Ask learners to mention how people live together in harmony",
+                            "Ask learners to mention ways of keeping the community clean"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.1.14",
+                    "title": "Statements",
+                    "page": 14,
+                    "competences": [
+                        "1.1.14.1 Use appropriate language to deny, confirm, correct and express statements and propositions"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 15,
+                            "hook": "Denying statements",
+                            "teacher_steps": [
+                                "Introduce the word deny and explain what it means",
+                                "Demonstrate: Teacher: Is this your pen? Learner: No, it is not my pen",
+                                "Conduct whole-class choral repetition of denial phrases",
+                                "Pair learners to practice",
+                                "Rotate pairs",
+                                "Ask learners to explain what it means to deny"
+                            ],
+                            "learner_steps": [
+                                "Listen to explanation of deny",
+                                "Participate in choral repetition",
+                                "Practice in pairs: Learner 1: Is this your book? Learner 2: No it is not my book",
+                                "Learner 2: Are you a boy? Learner 1: No I am not a boy",
+                                "Showcase dialogue in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 16,
+                            "hook": "Confirming statements",
+                            "teacher_steps": [
+                                "Revise denying",
+                                "Introduce the word confirm and explain",
+                                "Demonstrate: Teacher: Is this your bag? Learner: Yes, it is my bag",
+                                "Conduct choral repetition",
+                                "Pair learners to practice",
+                                "Play ball game: throw a ball and ask learners to deny or confirm"
+                            ],
+                            "learner_steps": [
+                                "Listen to explanation of confirm",
+                                "Participate in choral repetition",
+                                "Practice in pairs: Is this your crayon? Yes it is my crayon",
+                                "Participate in ball game"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1c",
+                            "page": 17,
+                            "hook": "Asking and answering questions - denying and confirming",
+                            "teacher_steps": [
+                                "Revise denying and confirming",
+                                "Introduce the phrase to correct and explain",
+                                "Engage learners in group activity",
+                                "Put learners in pairs",
+                                "Instruct pairs to showcase"
+                            ],
+                            "learner_steps": [
+                                "Participate in group activity: Group A: What are you doing? Group B: We are learning",
+                                "Group A: You are walking. Group B: No, we are learning",
+                                "Practice in pairs",
+                                "Showcase in front of class"
+                            ]
+                        }
+                    ],
+                    "short_notes": "This sub-topic focuses on using various statements in conversations. Denying means saying something is not true (e.g., No, it is not my pen). Confirming means agreeing that something is true (e.g., Yes, it is my bag). Correcting means fixing a wrong statement made by another person.",
+                    "vocabulary": [
+                        {
+                            "term": "deny",
+                            "definition": "To say that something is not true or does not belong to you"
+                        },
+                        {
+                            "term": "confirm",
+                            "definition": "To say that something is true or to agree with a statement"
+                        },
+                        {
+                            "term": "correct",
+                            "definition": "To fix or change a wrong statement to make it accurate"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 18,
+                        "questions": [
+                            "Ask learners to explain what it means to deny",
+                            "Ask learners to explain the meaning of confirm",
+                            "Ask learners to correct statements"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.1.15",
+                    "title": "Plurals",
+                    "page": 18,
+                    "competences": [
+                        "1.1.15.1 Use the plural forms of regular nouns"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 19,
+                            "hook": "Changing regular nouns from singular to plural form - adding /s/ sound",
+                            "teacher_steps": [
+                                "Introduce the word plural",
+                                "Explain that plural is when things are more than one",
+                                "Explain that regular nouns change to plural by adding /s/ sound",
+                                "Display chart showing singular and plural",
+                                "Ask learners to name things in singular then plural (book-books, cup-cups, pot-pots, blanket-blankets)",
+                                "Demonstrate: What is this? This is a cat. What are these? These are cats",
+                                "Conduct choral repetition",
+                                "Pair learners to practice",
+                                "Rotate pairs",
+                                "Ask each pair to perform",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Listen to explanation of plural",
+                                "Name things in singular then plural",
+                                "Participate in choral repetition",
+                                "Practice in pairs: What is this? This is a book. What are these? These are books",
+                                "Rotate and take turns",
+                                "Perform dialogue in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 20,
+                            "hook": "Changing regular nouns from singular to plural form - adding /z/ sound",
+                            "teacher_steps": [
+                                "Revise /s/ plurals",
+                                "Explain some nouns change to plural by adding /z/ sound",
+                                "Ask learners to name things in plural using /z/ sound (bag-bags, girl-girls, dog-dogs, pencil-pencils)",
+                                "Demonstrate: What is this? This is a bag. What are these? These are bags",
+                                "Conduct choral repetition",
+                                "Pair learners and rotate",
+                                "Ask each pair to perform"
+                            ],
+                            "learner_steps": [
+                                "Review /s/ plurals",
+                                "Name things in plural using /z/ sound",
+                                "Participate in choral repetition",
+                                "Practice in pairs: What is this? This is a pencil. What are these? These are pencils",
+                                "Perform dialogue in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1c",
+                            "page": 21,
+                            "hook": "Changing regular nouns from singular to plural form - adding /e/ and /z/ sound",
+                            "teacher_steps": [
+                                "Recap /z/ plurals",
+                                "Display chart showing nouns taking /e/ and /z/ sounds",
+                                "Ask learners to name in plural (dish-dishes, box-boxes, bus-buses, dress-dresses, class-classes)",
+                                "Demonstrate: What is this? This is a box. What are these? These are boxes",
+                                "Conduct choral repetition",
+                                "Pair learners and rotate",
+                                "Ask each pair to perform"
+                            ],
+                            "learner_steps": [
+                                "Recall /z/ plurals",
+                                "Name things in plural using /e/ and /z/ sounds",
+                                "Participate in choral repetition",
+                                "Practice in pairs: What is this? This is a bus. What are these? These are buses",
+                                "Perform dialogue in front of class"
+                            ]
+                        }
+                    ],
+                    "short_notes": "This sub-topic focuses on changing regular nouns from singular to plural form. Three plural formation rules: (1) adding /s/ sound: book-books, cup-cups, pot-pots, blanket-blankets, cat-cats, stick-sticks; (2) adding /z/ sound: bag-bags, girl-girls, dog-dogs, pencil-pencils; (3) adding /e/ and /z/ sound for nouns ending in s, sh, ch, x: dish-dishes, box-boxes, bus-buses, dress-dresses, class-classes.",
+                    "vocabulary": [
+                        {
+                            "term": "plural",
+                            "definition": "When things are more than one"
+                        },
+                        {
+                            "term": "singular",
+                            "definition": "When referring to just one thing"
+                        },
+                        {
+                            "term": "regular noun",
+                            "definition": "A noun that follows standard rules to form its plural"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 22,
+                        "questions": [
+                            "Ask learners to name items in singular and plural form",
+                            "Ask learners to mention regular nouns in singular and plural form"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.2",
+            "topic_title": "Etiquette",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.2.1",
+                    "title": "Manner",
+                    "page": 24,
+                    "competences": [
+                        "1.2.1.1 Use appropriate language to talk about good manners and behavior"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 25,
+                            "hook": "Table manners",
+                            "teacher_steps": [
+                                "Introduce the phrase table manners",
+                                "Explain table manners as the way you conduct yourself while eating",
+                                "Display a poster showing a family having a meal",
+                                "Ask learners to say what they see (praying, washing hands, not talking with food in mouth)",
+                                "Demonstrate: What are good table manners? Praying before eating",
+                                "Conduct choral repetition",
+                                "Pair learners to practice",
+                                "Rotate pairs",
+                                "Groups role-play good table manners",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Observe the poster and mention what they see",
+                                "Participate in choral repetition",
+                                "Practice in pairs: What are good table manners? Washing hands before eating",
+                                "Role-play good table manners in groups",
+                                "Present in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 26,
+                            "hook": "Being kind",
+                            "teacher_steps": [
+                                "Introduce the phrase being kind",
+                                "Explain being kind as caring, helping and respecting others",
+                                "Show a picture of someone helping another person",
+                                "Ask learners how they show kindness (sharing food, sharing pencils, helping elderly)",
+                                "Demonstrate: How can we show kindness? Sharing food",
+                                "Pair learners to practice",
+                                "Groups role-play kindness",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Observe the picture",
+                                "Share how they show kindness",
+                                "Practice in pairs: How can we show kindness? Sharing pencils",
+                                "Role-play kindness in groups"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1c",
+                            "page": 27,
+                            "hook": "Respecting personal space",
+                            "teacher_steps": [
+                                "Introduce the phrase personal space",
+                                "Explain what respecting personal space means",
+                                "Give examples: can I come in, can I sit next to you, can I pass",
+                                "Demonstrate: Excuse me, can I come in? Yes you can",
+                                "Conduct choral repetition of Excuse me, can I_____?",
+                                "Pair learners to practice",
+                                "Ask each pair to perform dialogue"
+                            ],
+                            "learner_steps": [
+                                "Listen to explanation of personal space",
+                                "Participate in choral repetition",
+                                "Practice in pairs: Excuse me, can I come in? Yes you can",
+                                "Excuse me, can I sit next to you? Yes you can",
+                                "Excuse me, can I talk to you? Yes you can",
+                                "Perform dialogue in front of class"
+                            ]
+                        }
+                    ],
+                    "short_notes": "In Term 3, Etiquette focuses on manners. Good table manners include praying before eating, washing hands before eating, not talking with food in the mouth, not playing while eating, and helping clean the table. Being kind involves sharing food, sharing pencils, and helping elderly people. Respecting personal space means asking permission using phrases like Excuse me, can I...?",
+                    "vocabulary": [
+                        {
+                            "term": "respect",
+                            "definition": "To treat someone with care and consideration"
+                        },
+                        {
+                            "term": "honest",
+                            "definition": "Telling the truth and being trustworthy"
+                        },
+                        {
+                            "term": "punctuality",
+                            "definition": "Being on time"
+                        },
+                        {
+                            "term": "apologizing",
+                            "definition": "Saying sorry for something wrong you have done"
+                        },
+                        {
+                            "term": "gratitude",
+                            "definition": "Being thankful"
+                        },
+                        {
+                            "term": "manners",
+                            "definition": "The polite ways of behaving towards other people"
+                        },
+                        {
+                            "term": "personal space",
+                            "definition": "The area around a person that should be respected by others"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 28,
+                        "questions": [
+                            "Ask learners to mention good table manners",
+                            "Ask learners to mention ways of showing kindness",
+                            "Ask learners to mention ways of respecting personal space"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.3",
+            "topic_title": "Stories",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.3.1",
+                    "title": "Simple Stories",
+                    "page": 29,
+                    "competences": [
+                        "1.3.1.1 Analyse simple stories orally"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 29,
+                            "hook": "Listening to simple stories",
+                            "teacher_steps": [
+                                "Ask learners to mention stories they know",
+                                "Tell learners a simple story at their level (folktale, fable)",
+                                "Demonstrate: Teacher: Tell a simple story. Learners: Listen to a simple story",
+                                "Put learners in pairs",
+                                "Rotate pairs",
+                                "Groups: one learner tells while others listen",
+                                "Ask each group to present",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Mention stories they know",
+                                "Listen to the story",
+                                "Practice in pairs: Tell a simple story / Listen to a simple story",
+                                "Take turns telling and listening",
+                                "In groups, one learner tells while others listen",
+                                "Present in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 30,
+                            "hook": "Retelling simple stories",
+                            "teacher_steps": [
+                                "Ask learners to say stories they know",
+                                "Tell a simple story",
+                                "Ask learners to retell it",
+                                "Demonstrate: Teacher: Tell a simple story. Learners: Retell the simple story",
+                                "Put learners in pairs to retell",
+                                "Rotate pairs",
+                                "Groups: one learner retells while others listen",
+                                "Provide feedback",
+                                "Randomly pick learners to retell"
+                            ],
+                            "learner_steps": [
+                                "Listen to the story",
+                                "Retell the story",
+                                "Practice retelling in pairs",
+                                "In groups, one learner retells while others listen",
+                                "Present retelling in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1c",
+                            "page": 31,
+                            "hook": "Answering oral questions based on the text",
+                            "teacher_steps": [
+                                "Display picture/chart showing characters in a story",
+                                "Tell a simple story",
+                                "Ask learners to mention the characters",
+                                "Demonstrate: Teacher: Who/What is in the story? Learner: Mother/The lion",
+                                "Conduct choral repetition",
+                                "Pair learners to practice answering questions",
+                                "Rotate pairs",
+                                "Ask each pair to perform",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Observe the picture/chart",
+                                "Listen to the story",
+                                "Mention characters",
+                                "Participate in choral repetition",
+                                "Practice in pairs: Who/What ate the food? Bibusa/Kalulu ate the food",
+                                "Who/What won the race? Bwalya/Tortoise",
+                                "Perform dialogue in front of class"
+                            ]
+                        }
+                    ],
+                    "short_notes": "In Term 3, stories focuses on simple stories. Learners listen to and retell simple stories and answer oral questions. Story types include: folktales, fables, traditional stories, fairytales, and decodable stories. This builds communication skills, confidence, and fosters social relationships.",
+                    "vocabulary": [
+                        {
+                            "term": "folktales",
+                            "definition": "Traditional stories passed down through generations"
+                        },
+                        {
+                            "term": "fables",
+                            "definition": "Short stories with a moral lesson, usually featuring animals"
+                        },
+                        {
+                            "term": "traditional stories",
+                            "definition": "Stories told for many years in a particular culture"
+                        },
+                        {
+                            "term": "fairytales",
+                            "definition": "Stories featuring magical creatures and events"
+                        },
+                        {
+                            "term": "decodable stories",
+                            "definition": "Stories written with words that follow regular phonics patterns"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 32,
+                        "questions": [
+                            "Ask learner to listen to a simple story",
+                            "Ask learners to retell the simple story",
+                            "Ask learners oral questions based on the story"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.4",
+            "topic_title": "Songs",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.4.1",
+                    "title": "Simple Songs",
+                    "page": 33,
+                    "competences": [
+                        "1.4.1.1 Appropriate language in simple songs used correctly"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 34,
+                            "hook": "Listening to and singing simple songs - The Alphabet Song",
+                            "teacher_steps": [
+                                "Recap on songs from previous lesson",
+                                "Display a poster showing the alphabet",
+                                "Introduce the alphabet song",
+                                "Explain the importance of the alphabet song",
+                                "Demonstrate: Teacher: Sing the alphabet song. Learner: Listen to the alphabet song",
+                                "Conduct whole-class choral repetition",
+                                "Pair learners to practice",
+                                "Rotate pairs",
+                                "Groups sing the alphabet song",
+                                "Ask each group to perform",
+                                "Provide feedback",
+                                "Ask learners to sing as a class"
+                            ],
+                            "learner_steps": [
+                                "Review songs from previous lesson",
+                                "Observe the alphabet poster",
+                                "Participate in choral repetition",
+                                "Practice in pairs: Sing the alphabet song / Listen to the alphabet song",
+                                "Rotate and take turns",
+                                "In groups, sing the alphabet song",
+                                "Perform in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 35,
+                            "hook": "Listening to and singing simple songs - The Greeting Song",
+                            "teacher_steps": [
+                                "Recap on songs from previous lesson",
+                                "Display a poster showing greetings",
+                                "Introduce the greeting song",
+                                "Demonstrate: Teacher: Sing the greeting song. Learner: Listen to the greeting song",
+                                "Conduct choral repetition",
+                                "Pair learners to practice",
+                                "Rotate pairs",
+                                "Groups sing the greeting song",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Review songs from previous lesson",
+                                "Participate in choral repetition",
+                                "Practice in pairs: Sing the greeting song / Listen to the greeting song",
+                                "Rotate and take turns",
+                                "In groups, sing the greeting song",
+                                "Perform in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1c",
+                            "page": 36,
+                            "hook": "Answering oral questions based on the song - alphabet and greeting",
+                            "teacher_steps": [
+                                "Recap on songs from previous lesson",
+                                "Display chart showing alphabet/greetings",
+                                "Explain the lesson/message/moral from the songs",
+                                "Demonstrate: Why do we sing the alphabet song? To know the letters of the alphabet",
+                                "Why do we sing the greeting song? To know how to greet",
+                                "Pair learners to practice",
+                                "Rotate pairs",
+                                "Ask each pair to perform"
+                            ],
+                            "learner_steps": [
+                                "Review songs from previous lesson",
+                                "Practice in pairs: Why do we sing the alphabet song? To know the letters of the alphabet",
+                                "Why do we sing the greeting song? To know how to greet",
+                                "Rotate and take turns",
+                                "Perform dialogue in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2a",
+                            "page": 38,
+                            "hook": "Listening to and singing simple songs - The Number Song",
+                            "teacher_steps": [
+                                "Recap on songs from previous lesson",
+                                "Display a poster showing numbers",
+                                "Introduce the number song",
+                                "Demonstrate: Teacher: Sing the number song. Learner: Listen to the number song",
+                                "Conduct choral repetition",
+                                "Pair learners to practice",
+                                "Rotate pairs",
+                                "Groups sing the number song",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Review songs",
+                                "Participate in choral repetition",
+                                "Practice in pairs: Sing the number song / Listen to the number song",
+                                "Rotate and take turns",
+                                "In groups, sing the number song",
+                                "Perform in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2b",
+                            "page": 39,
+                            "hook": "Listening to and singing simple songs - Days of the Week Song",
+                            "teacher_steps": [
+                                "Recap on songs from previous lesson",
+                                "Display poster showing days of the week",
+                                "Introduce the days of the week song",
+                                "Demonstrate: Teacher: Sing the days of the week song. Learner: Listen to the days of the week song",
+                                "Conduct choral repetition",
+                                "Pair learners to practice",
+                                "Rotate pairs",
+                                "Groups sing the days of the week song",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Review songs",
+                                "Participate in choral repetition",
+                                "Practice in pairs: Sing the days of the week song / Listen to the days of the week song",
+                                "Rotate and take turns",
+                                "In groups, sing the days of the week song",
+                                "Perform in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2c",
+                            "page": 40,
+                            "hook": "Answering oral questions based on the song - number and days of the week",
+                            "teacher_steps": [
+                                "Recap on songs from previous lesson",
+                                "Display chart showing numbers/days of the week",
+                                "Explain the lesson/message/moral",
+                                "Demonstrate: Why do we sing the number song? To know how to count numbers",
+                                "Why do we sing the days of the week song? To know days of the week",
+                                "Pair learners to practice",
+                                "Rotate pairs",
+                                "Ask each pair to perform"
+                            ],
+                            "learner_steps": [
+                                "Review songs",
+                                "Practice in pairs: Why do we sing the number song? To know how to count numbers",
+                                "Why do we sing the days of the week song? To know days of the week",
+                                "Rotate and take turns",
+                                "Perform dialogue in front of class"
+                            ]
+                        }
+                    ],
+                    "short_notes": "In Term 3, songs is a topic developing vocabulary, correct pronunciation, and communication skills through rhythm and melody. Songs foster respect, build relationships, and promote social harmony. Key songs: greeting song, days of the week song, alphabet song, number song, months song, national anthem.",
+                    "vocabulary": [
+                        {
+                            "term": "greeting song",
+                            "definition": "A song used to say hello and welcome others"
+                        },
+                        {
+                            "term": "days of the week song",
+                            "definition": "A song that helps learners remember the seven days of the week"
+                        },
+                        {
+                            "term": "alphabet song",
+                            "definition": "A song that helps learners remember the letters of the alphabet"
+                        },
+                        {
+                            "term": "number song",
+                            "definition": "A song that helps learners learn how to count numbers"
+                        },
+                        {
+                            "term": "national anthem",
+                            "definition": "An official song representing a nation"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 41,
+                        "questions": [
+                            "Ask learners to sing the alphabet song",
+                            "Ask learners to sing the greeting song",
+                            "Ask learners to answer oral questions based on the song",
+                            "Ask learners to sing the number song",
+                            "Ask learners to sing the days of the week song"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.5",
+            "topic_title": "Drama",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.5.1",
+                    "title": "Role Playing",
+                    "page": 42,
+                    "competences": [
+                        "1.5.1.1 Use appropriate language to depict real life situations"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 42,
+                            "hook": "Events",
+                            "teacher_steps": [
+                                "Introduce the word events and explain what it is",
+                                "Ask learners to mention events they have attended",
+                                "Display a poster showing different events (birthdays, Christmas, independence, sports day, wedding)",
+                                "Ask learners to mention events shown on the chart",
+                                "Demonstrate: Teacher: What event is this/that? Learner: It is Christmas",
+                                "Conduct choral repetition",
+                                "Pair learners to practice",
+                                "Rotate pairs",
+                                "Groups role-play one event",
+                                "Ask each group to perform",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Mention events they have attended",
+                                "Name events shown on chart",
+                                "Participate in choral repetition",
+                                "Practice in pairs: What event is this/that? It is a wedding / It is a birthday party",
+                                "Rotate and take turns",
+                                "In groups, role-play one event",
+                                "Perform in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 43,
+                            "hook": "Simple events - Christmas",
+                            "teacher_steps": [
+                                "Recap on events",
+                                "Display chart showing what happens on Christmas",
+                                "Demonstrate: What do people do on Christmas? They go to church",
+                                "Conduct choral repetition",
+                                "Pair learners to practice",
+                                "Rotate pairs",
+                                "Groups role-play Christmas activities",
+                                "Provide feedback",
+                                "Ask learners to sing a Christmas song"
+                            ],
+                            "learner_steps": [
+                                "Practice in pairs: What do people do on Christmas? They dance / They eat nice food",
+                                "Rotate and take turns",
+                                "Role-play Christmas activities in groups",
+                                "Perform in front of class",
+                                "Sing a Christmas song"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1c",
+                            "page": 44,
+                            "hook": "Simple events - Birthdays",
+                            "teacher_steps": [
+                                "Recap on events",
+                                "Display chart showing what happens on birthdays",
+                                "Demonstrate: What do people do on birthdays? They eat cake",
+                                "Conduct choral repetition",
+                                "Pair learners to practice",
+                                "Rotate pairs",
+                                "Groups role-play birthday activities",
+                                "Provide feedback",
+                                "Ask learners to sing a birthday song"
+                            ],
+                            "learner_steps": [
+                                "Practice in pairs: What do people do on birthdays? They sing / They dance",
+                                "Rotate and take turns",
+                                "Role-play birthday activities in groups",
+                                "Perform in front of class",
+                                "Sing a birthday song"
+                            ]
+                        }
+                    ],
+                    "short_notes": "In Term 3, drama focuses on role-playing. Drama provides a dynamic, engaging and authentic environment for language practice, fostering fluency, confidence and real world communication skills. Events covered: birthdays (eating cake, singing, dancing), Christmas (going to church, dancing, eating nice food), Independence Day, sports day, wedding, and baptism.",
+                    "vocabulary": [
+                        {
+                            "term": "events",
+                            "definition": "Special occasions or celebrations that people participate in"
+                        },
+                        {
+                            "term": "birthdays",
+                            "definition": "Celebrations held each year on the day someone was born"
+                        },
+                        {
+                            "term": "Christmas",
+                            "definition": "A Christian holiday celebrated on 25th December"
+                        },
+                        {
+                            "term": "Independence Day",
+                            "definition": "A national holiday celebrating a country's freedom"
+                        },
+                        {
+                            "term": "sports day",
+                            "definition": "A day when people participate in athletic events and competitions"
+                        },
+                        {
+                            "term": "wedding",
+                            "definition": "A ceremony where two people get married"
+                        },
+                        {
+                            "term": "baptism",
+                            "definition": "A religious ceremony welcoming someone into the church"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 45,
+                        "questions": [
+                            "Ask learners to mention different events",
+                            "Ask learners to mention things that people do on Christmas",
+                            "Ask learners to mention things that people do on birthdays"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.6",
+            "topic_title": "Poetry",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.6.1",
+                    "title": "Simple Poems",
+                    "page": 46,
+                    "competences": [
+                        "1.6.1.1 Recite simple poems"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 47,
+                            "hook": "Reciting simple poems on animals - Baa Baa Black Sheep",
+                            "teacher_steps": [
+                                "Introduce the phrase poem",
+                                "Explain that a poem is using words in a style to talk about something",
+                                "Display a picture showing a black sheep",
+                                "Recite a simple poem loudly with fun (baa-baa black sheep...)",
+                                "Demonstrate: Recite a simple poem on animals (baa baa black sheep...). Learners listen",
+                                "Conduct whole class repetition",
+                                "Put learners in pairs to practice",
+                                "Rotate pairs",
+                                "Groups recite poem on animals in front of class",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Listen to explanation of poem",
+                                "Observe the picture of a black sheep",
+                                "Listen to the poem",
+                                "Participate in whole class repetition",
+                                "Practice in pairs: take turns reciting and listening",
+                                "In groups, recite the poem on animals",
+                                "Perform in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 48,
+                            "hook": "Reciting simple poems on colors - Red Red Like an Apple Ripe",
+                            "teacher_steps": [
+                                "Arrange desks with pictures/real objects of different colors",
+                                "Tell learners to identify the colors",
+                                "Recite a simple poem on colors (red, red like an apple ripe...)",
+                                "Demonstrate: Recite a simple poem on colors. Learners listen",
+                                "Conduct whole class repetition",
+                                "Put learners in pairs to practice",
+                                "Rotate pairs",
+                                "Groups recite poem on colors in front of class",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Identify colors on the desks",
+                                "Listen to the poem on colors",
+                                "Participate in whole class repetition",
+                                "Practice in pairs: take turns reciting and listening",
+                                "In groups, recite the poem on colors",
+                                "Perform in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1c",
+                            "page": 49,
+                            "hook": "Reciting simple poems on family - A Mother's Touch So Warm",
+                            "teacher_steps": [
+                                "Ask learners to mention members of the family",
+                                "Display a picture showing father, mother and children",
+                                "Recite a simple poem on family (a mother's touch, so warm...)",
+                                "Demonstrate: Recite a simple poem on family. Learners listen",
+                                "Conduct whole class repetition",
+                                "Put learners in pairs to practice",
+                                "Rotate pairs",
+                                "Groups recite poem on family in front of class",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Mention members of the family",
+                                "Observe the family picture",
+                                "Listen to the family poem",
+                                "Participate in whole class repetition",
+                                "Practice in pairs: take turns reciting and listening",
+                                "In groups, recite the poem on family",
+                                "Perform in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2a",
+                            "page": 50,
+                            "hook": "Repeating rhymes - Twinkle Twinkle Little Star",
+                            "teacher_steps": [
+                                "Introduce the word rhyme",
+                                "Display a picture showing things with rhyming words (dog, frog, fog, log)",
+                                "Explain that rhymes are words that sound the same at the end",
+                                "Repeat the rhyme (Twinkle, twinkle little star...)",
+                                "Demonstrate: Repeat the rhyme. Learners listen",
+                                "Conduct whole class repetition",
+                                "Put learners in pairs to practice",
+                                "Rotate pairs",
+                                "Groups repeat the rhyme in front of class",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Mention things on the picture",
+                                "Listen to explanation of rhymes",
+                                "Listen and repeat Twinkle Twinkle Little Star",
+                                "Participate in whole class repetition",
+                                "Practice in pairs: take turns repeating and listening",
+                                "In groups, repeat the rhyme",
+                                "Perform in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2b",
+                            "page": 51,
+                            "hook": "Repeating rhymes - The Little Cat (cat, hat, rat, bat, fat)",
+                            "teacher_steps": [
+                                "Revise the word rhyme",
+                                "Ask learners to mention rhyming words (cat, hat, rat, bat, fat)",
+                                "Display chart showing a cat, hat, rat and bat",
+                                "Demonstrate: Repeat the rhyme (the little cat, so big and fat, sat upon a purple hat...). Learners listen",
+                                "Conduct whole class repetition",
+                                "Put learners in pairs to practice",
+                                "Rotate pairs",
+                                "Groups repeat the rhyme in front of class",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Mention rhyming words (cat, hat, rat, bat, fat)",
+                                "Identify things in the picture",
+                                "Listen and repeat the rhyme",
+                                "Participate in whole class repetition",
+                                "Practice in pairs: take turns repeating and listening",
+                                "In groups, repeat the rhyme",
+                                "Perform in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2c",
+                            "page": 53,
+                            "hook": "Repeating rhymes - Hickory Dickory Dock",
+                            "teacher_steps": [
+                                "Revise the word rhyme",
+                                "Ask learners to mention rhyming words (cook, book, took, look, hook)",
+                                "Demonstrate: Repeat the rhyme (Hickory dickory dock, the mouse ran up...). Learners listen",
+                                "Conduct whole class repetition",
+                                "Put learners in pairs to practice",
+                                "Rotate pairs",
+                                "Play rhyme game: word cards in box, rhyming words around classroom, learners find matching words",
+                                "Ask learners to identify rhyming words from the repeated rhyme"
+                            ],
+                            "learner_steps": [
+                                "Mention rhyming words (cook, book, took, look, hook)",
+                                "Listen and repeat Hickory Dickory Dock",
+                                "Participate in whole class repetition",
+                                "Practice in pairs: take turns repeating and listening",
+                                "Participate in rhyme game: find rhyming words around classroom",
+                                "Identify rhyming words from the repeated rhyme"
+                            ]
+                        }
+                    ],
+                    "short_notes": "In Term 3, poetry focuses on simple poems. Learners recite poems on animals (baa-baa black sheep), colors (red, red like an apple ripe), and family (a mother's touch, so warm). Rhymes are words that sound the same at the end. Rhyme groups: dog/frog/fog/log; cat/hat/rat/bat/fat; cook/book/took/look/hook. Nursery rhymes: Twinkle Twinkle Little Star, The Little Cat poem, Hickory Dickory Dock.",
+                    "vocabulary": [
+                        {
+                            "term": "poem",
+                            "definition": "Using words in a style to talk about something, often with rhythm"
+                        },
+                        {
+                            "term": "rhyme",
+                            "definition": "Words that sound the same at the end e.g. cat, hat, bat"
+                        },
+                        {
+                            "term": "recite",
+                            "definition": "To say something aloud from memory"
+                        },
+                        {
+                            "term": "animals",
+                            "definition": "Living creatures such as sheep, dogs, cats"
+                        },
+                        {
+                            "term": "colors",
+                            "definition": "Visual properties of objects such as red, blue, yellow"
+                        },
+                        {
+                            "term": "family",
+                            "definition": "A group of people related to each other"
+                        },
+                        {
+                            "term": "friendship",
+                            "definition": "A relationship between people who care about and support each other"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 54,
+                        "questions": [
+                            "Ask learners to recite the simple poem on animals",
+                            "Ask learners to recite the simple poem on colors",
+                            "Ask learners to recite the simple poem on family",
+                            "Ask learners to repeat a number of rhymes"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.6.2",
+                    "title": "Tongue Twisters",
+                    "page": 54,
+                    "competences": [
+                        "1.6.2.1 Recite tongue twisters"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 54,
+                            "hook": "Reciting tongue twisters - Red lorry yellow lorry",
+                            "teacher_steps": [
+                                "Introduce the phrase tongue twisters",
+                                "Display a picture showing the red lorry and yellow lorry",
+                                "Recite the tongue twister (red lorry, yellow lorry)",
+                                "Explain that tongue twisters are sentences that twist your tongue when said quickly",
+                                "Demonstrate: Recite the tongue twisters (red lorry, yellow lorry). Learners listen",
+                                "Conduct whole class repetition",
+                                "Put learners in pairs to practice",
+                                "Rotate pairs",
+                                "Groups recite the tongue twister in front of class",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Listen to explanation of tongue twisters",
+                                "Observe the picture",
+                                "Listen and repeat (red lorry, yellow lorry)",
+                                "Participate in whole class repetition",
+                                "Practice in pairs: take turns reciting and listening",
+                                "In groups, recite the tongue twister",
+                                "Perform in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 56,
+                            "hook": "Reciting tongue twisters - Peter Piper",
+                            "teacher_steps": [
+                                "Revise tongue twisters",
+                                "Recite Peter piper picked a perk of pickled peppers",
+                                "Demonstrate: Recite the tongue twisters (Peter piper...). Learners listen",
+                                "Conduct whole class repetition",
+                                "Put learners in pairs to practice",
+                                "Rotate pairs",
+                                "Groups recite the tongue twister in front of class",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Review tongue twisters",
+                                "Listen and repeat Peter Piper tongue twister",
+                                "Participate in whole class repetition",
+                                "Practice in pairs: take turns reciting and listening",
+                                "In groups, recite the tongue twister",
+                                "Perform in front of class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1c",
+                            "page": 57,
+                            "hook": "Reciting tongue twisters - A flea and a fly",
+                            "teacher_steps": [
+                                "Revise tongue twisters",
+                                "Recite A flea and a fly flew up in a flue",
+                                "Say it fast three times",
+                                "Demonstrate: Recite the tongue twisters (A flea and a fly...). Learners listen",
+                                "Conduct whole class repetition",
+                                "Put learners in pairs to practice",
+                                "Rotate pairs",
+                                "Groups recite the tongue twister in front of class",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Review tongue twisters",
+                                "Listen and repeat A flea and a fly flew up in a flue",
+                                "Say it fast three times",
+                                "Participate in whole class repetition",
+                                "Practice in pairs: take turns reciting and listening",
+                                "In groups, recite the tongue twister",
+                                "Perform in front of class"
+                            ]
+                        }
+                    ],
+                    "short_notes": "Tongue twisters are sentences that twist your tongue when said quickly. They improve pronunciation and phonological awareness. Three tongue twisters: (1) Red lorry, yellow lorry - focuses on /r/ and /l/ sounds; (2) Peter piper picked a perk of pickled peppers - focuses on /p/ sounds; (3) A flea and a fly flew up in a flue - focuses on /fl/ consonant clusters.",
+                    "vocabulary": [
+                        {
+                            "term": "tongue twister",
+                            "definition": "A sentence that is difficult to say quickly because of similar sounds"
+                        },
+                        {
+                            "term": "pronunciation",
+                            "definition": "The way sounds are made when speaking words"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 58,
+                        "questions": [
+                            "Ask learners to recite the given tongue twisters",
+                            "Ask learners to recite red lorry, yellow lorry",
+                            "Ask learners to recite Peter piper picked a perk of pickled peppers",
+                            "Ask learners to recite A flea and a fly flew up in a flue"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

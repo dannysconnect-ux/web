@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "5",
+    "subject": "Social Studies",
+    "philosophy": "Education is a vehicle through which a morally democratic learner should be developed. Thus, Social Studies is expected to be the mirror through which Zambian society should see itself in its quest and dedication to promote and perpetuate its social skills, beliefs, values, and traditions. Social Studies is a learning area that covers a number of aspects that include human behaviour, relationships, institutions, and resources. The learning area enables learners to use the acquired knowledge and skills to enable greater understanding of themselves, others, societies, institutions, nations, and environments.",
+    "competence_learning": "This new curriculum emphasises that the learner should be at the centre of the education process. Therefore, it is envisioned that the learners should acquire essential competences; and think reflectively, logically, scientifically, creatively and critically so as to promote the formation of positive social behaviour and a socially desirable attitude. It is desired that the learner should have an education that will shape the development of a personally held set of civic, moral, and spiritual values as well as further the acquisition of knowledge and understanding of Zambia's democratic and cultural institutions.",
+    "goals": [
+      "Quality, life long education for all which is accessible, inclusive and relevant to individual, national and global needs and value systems",
+      "Providing national age-appropriate curriculum for learners in grades 4 to 6 aligned with Competence-Based Curriculum and 21st century skills",
+      "Imparting knowledge, skills, values, and positive attitudes to enable children to live and grow into productive and useful members of their communities and the Zambian society",
+      "Facilitating the holistic development of children's physical, mental, emotional, social, spiritual, and moral faculties",
+      "Developing knowledge, desirable lifelong skills, values, and positive attitudes needed for personal and national development",
+      "Cultivating a mindset, skills, values, and positive attitudes that prepare learners to live responsible lives and be protected from life-threatening vices",
+      "Shaping the moral up-bringing of a leaner",
+      "Promoting and perpetuating social skills, beliefs, values, and traditions",
+      "Enabling greater understanding of themselves, others, societies, institutions, nations, and environments"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "5.1",
+      "topic_title": "FRIENDSHIP",
+      "page_number": 22,
+      "subtopics": [
+        "5.1.1 Health Friendships",
+        "5.1.3 Value of Friendship",
+        "5.1.4 Ways of Showing Respect to One's Body",
+        "5.1.5 Individual differences",
+        "5.1.6 Friendship in Different Religions"
+      ],
+      "specific_outcomes": [
+        "5.1.1.1 Develop healthy friendships",
+        "5.1.1.2 Show understanding of self-awareness and self-management",
+        "5.1.3.1 Evaluate value of friendship",
+        "5.1.4.1 Perform actions that show respect for one's body",
+        "5.1.5.1 Demonstrate respect for individual differences",
+        "5.1.5.2 Manage personal emotions",
+        "5.1.6.1 Develop healthy friendships"
+      ]
+    },
+    {
+      "unit": "5.2",
+      "topic_title": "ZAMBIA",
+      "page_number": 23,
+      "subtopics": [
+        "5.2.1 Provinces in Zambia",
+        "5.2.2 Physical Features",
+        "5.2.3 Cultural Features",
+        "5.2.4 Economic Activities"
+      ],
+      "specific_outcomes": [
+        "5.2.1.1 Locate provinces on the map of Zambia",
+        "5.2.2.1 Locate physical features on the map of Zambia",
+        "5.2.3.1 Locate (man-made) cultural features",
+        "5.2.4.1 Analyse economic activities in Zambia"
+      ]
+    },
+    {
+      "unit": "5.3",
+      "topic_title": "GOVERNANCE",
+      "page_number": 24,
+      "subtopics": [
+        "5.3.1 Human Rights",
+        "5.3.2 Corruption",
+        "5.3.3 Child Abuse",
+        "5.3.4 Gender Roles"
+      ],
+      "specific_outcomes": [
+        "5.3.1.1 Analyse respect for human rights",
+        "5.3.2.1 Show understanding of corruption",
+        "5.3.3.1 Analyse ways of preventing child abuse",
+        "5.3.4.1 Perform gender roles"
+      ]
+    },
+    {
+      "unit": "5.4",
+      "topic_title": "LEARNING ABOUT THE PAST",
+      "page_number": 26,
+      "subtopics": [
+        "5.4.1 The Bantu Speaking People of Zambia"
+      ],
+      "specific_outcomes": [
+        "5.4.1.1 Locate historical areas of settlement of the Bantu speaking people in Zambia"
+      ]
+    },
+    {
+      "unit": "5.5",
+      "topic_title": "ENTREPRENEURSHIP",
+      "page_number": 26,
+      "subtopics": [
+        "5.5.1 Business Idea",
+        "5.5.2 Business Plan"
+      ],
+      "specific_outcomes": [
+        "5.5.1.1 Generate business ideas",
+        "5.5.2.1 Prepare business plan"
+      ]
+    },
+    {
+      "unit": "5.6",
+      "topic_title": "LEARNING ABOUT MONEY",
+      "page_number": 26,
+      "subtopics": [
+        "5.6.1 Tax"
+      ],
+      "specific_outcomes": [
+        "5.6.1.1 Show understanding of benefits pay tax"
+      ]
+    },
+    {
+      "unit": "5.7",
+      "topic_title": "TRANSPORT AND COMMUNICATION",
+      "page_number": 27,
+      "subtopics": [
+        "5.7.1 Road Safety"
+      ],
+      "specific_outcomes": [
+        "5.7.1.1 Demonstrate ways of promoting road safety"
+      ]
+    },
+    {
+      "unit": "5.8",
+      "topic_title": "WEATHER AND CLIMATE",
+      "page_number": 27,
+      "subtopics": [
+        "5.8.1 Climate Change"
+      ],
+      "specific_outcomes": [
+        "5.8.1.1 Analyse effects of climate change"
+      ]
+    },
+    {
+      "unit": "5.9",
+      "topic_title": "THE ENVIRONMENT",
+      "page_number": 27,
+      "subtopics": [
+        "5.9.1 Waste Management"
+      ],
+      "specific_outcomes": [
+        "5.9.1.1 Practise waste management in the immediate environment"
+      ]
+    }
+  ]
+}

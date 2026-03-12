@@ -1,0 +1,340 @@
+{
+    "subject": "Chitonga",
+    "grade": "Grade 1",
+    "term": 3,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "KUPANDULULA MASENA (Describing Situations)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Masena (Situations)",
+                    "page": 15,
+                    "competences": [
+                        "Bape bupanduluzi bwamasena. (Give descriptions of situations)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 15,
+                            "hook": "Mwaswaigwa mweenzu kwenu wakazyila kucisi cimbi mpoonya uyanda kuswaya meebeebe ajanika kubusena nkomukkala. Kamutaninga mutola uyanda kuti mumupandulwide kusyoonto biyo kujatikizya busena oobo. Inga mwamupandulwida buti busena oobo?",
+                            "teacher_steps": [
+                                "Ambila basicikolo kuti ciiyo ncakwaamba biyo mabala abelesyegwa nobapandulula masena",
+                                "Penzya mabala abelesyegwa kupandulula masena atala (cipati, kasyoonto, cilamfwu, cifwaafwi)",
+                                "Tondezya kuti mabala aayo aakonzya kubelesyegwa kupandulula zyintu, masena, bantu nokuba cimbi naa kuli",
+                                "Gamba basicikolo kusansaula mabala aabelesyegwa kupandulula masena",
+                                "Yungizya basicikolo kuzuzikizya kupandulula masena aatobela zyintu zyilabidwe",
+                                "Gamba basicikolo kuzunyaula mabala aakonzyeka kubelekela mucipani"
+                            ],
+                            "learner_steps": [
+                                "Swiilila mwiiyi nokwaamba mabala abelesyegwa kupandulula masena",
+                                "Kwaamba busena bwazintu zyindene-indene zyili mukkalasize akunze aakkalasize",
+                                "Pandulula nokweendelanya akwaakunobwenesegwa",
+                                "Kwaamba mabala aapandulula nokutobela nkozyigwa"
+                            ],
+                            "short_notes": "This activity helps learners understand and use descriptive words (adjectives) to describe situations, places, people and things. Focus on words like cipati (big), kasyoonto (small), cilamfwu (long), cifwaafwi (short)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2",
+                            "page": 17,
+                            "hook": "Inga mwaambaula buti cintu cisansaidwe mumunzi?",
+                            "teacher_steps": [
+                                "Penzya cintu cisansaidwe mumunzi atala (ng'anda, mizeezo, citabwa, muti, cikuta)",
+                                "Gamba basicikolo kusansaula cintu eeco atobela zyintu zyabeneseesegwa",
+                                "Yungizya basicikolo kupandulula cintu eeco aabelesya mabala aayandisya",
+                                "Bedelesya cibalo cisansaidwe mukubuzya basicikolo kuti kapandulule busena bwazintu zyilabidwe"
+                            ],
+                            "learner_steps": [
+                                "Sansaula cintu cisansaidwe mumunzi kutobela zyintu zyabeneseesegwa",
+                                "Pandulula cintu eeco aabelesya mabala aatobela",
+                                "Pandulula busena bwazintu zyilabidwe zyaambwa amwiiyi"
+                            ],
+                            "short_notes": "Learners identify and describe common village items using appropriate descriptive words."
+                        }
+                    ],
+                    "short_notes": "Kupandulula masena (Describing situations) helps learners develop vocabulary and communication skills by using descriptive words to talk about their environment, people, and things around them.",
+                    "vocabulary": [
+                        {
+                            "term": "cipati",
+                            "definition": "big"
+                        },
+                        {
+                            "term": "kasyoonto",
+                            "definition": "small"
+                        },
+                        {
+                            "term": "cilamfwu",
+                            "definition": "long"
+                        },
+                        {
+                            "term": "cifwaafwi",
+                            "definition": "short"
+                        },
+                        {
+                            "term": "busena",
+                            "definition": "situation/state"
+                        },
+                        {
+                            "term": "mabala",
+                            "definition": "words/descriptions"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 20,
+                        "questions": [
+                            "Observe learners as they describe situations using appropriate words",
+                            "Check if learners can identify descriptive words",
+                            "Ask learners to describe objects around them",
+                            "Assess learners' ability to use descriptive words in sentences"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "KUPANDULULA ZYINTU (Describing Things)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Zyintu (Things)",
+                    "page": 39,
+                    "competences": [
+                        "Bape bupanduluzi bwazyintu. (Give descriptions of things)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1",
+                            "page": 39,
+                            "hook": "Busena bwabulongo buli buti kumweenzu kwenu?",
+                            "teacher_steps": [
+                                "Penzya zyintu zyiindene-indene zyili mumweenzu (matabeela, zyigalilo, zyanwa, zyinlya)",
+                                "Gamba basicikolo kusansaula zyintu eezyo kutobela bupanduluzi",
+                                "Yungizya basicikolo kupandulula zyintu eezyo aabelesya mabala aayandisya",
+                                "Bedelesya zyipikicca zyazyintu nokubuzya basicikolo kuti kapandulule"
+                            ],
+                            "learner_steps": [
+                                "Sansaula zyintu zyaambiidwe amwiiyi",
+                                "Pandulula zyintu eezyo aabelesya mabala aatobela",
+                                "Pandulula zyintu zyilabidwe muzyipikicca"
+                            ],
+                            "short_notes": "This activity focuses on describing household items and everyday objects using descriptive vocabulary."
+                        }
+                    ],
+                    "short_notes": "Kupandulula zyintu helps learners expand their vocabulary by describing objects in their environment using size, color, shape and other attributes.",
+                    "vocabulary": [
+                        {
+                            "term": "cintu",
+                            "definition": "thing/object"
+                        },
+                        {
+                            "term": "cibeela",
+                            "definition": "part/piece"
+                        },
+                        {
+                            "term": "bube",
+                            "definition": "size/form"
+                        },
+                        {
+                            "term": "mubala",
+                            "definition": "color"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 45,
+                        "questions": [
+                            "Can learners describe objects using appropriate words?",
+                            "Do learners understand size and color words?",
+                            "Can learners identify objects based on descriptions?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "TUSOBANO (Riddles)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Tusobano (Riddles)",
+                    "page": 59,
+                    "competences": [
+                        "Yungizya tusobano. (Solve riddles)",
+                        "Lemba tusobano. (Write riddles)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1",
+                            "page": 59,
+                            "hook": "Inga mwayungizya tusobano twaanga tumwi?",
+                            "teacher_steps": [
+                                "Penzya tusobano twimbi nokutondezya mbotuyungizya",
+                                "Gamba basicikolo kuyungizya tusobano",
+                                "Yungizya basicikolo kulemba tusobano twaabo",
+                                "Bedelesya micito yakubeela nokubuzya tusobano"
+                            ],
+                            "learner_steps": [
+                                "Swiilila tusobano twaambiidwe amwiiyi",
+                                "Yungizya tusobano",
+                                "Lemba tusobano",
+                                "Beela tusobano kuli bayiisimwabo"
+                            ],
+                            "short_notes": "Tusobano (riddles) help develop critical thinking, listening skills and cultural knowledge. Learners learn traditional riddles and create their own."
+                        }
+                    ],
+                    "short_notes": "Tusobano are traditional Chitonga riddles that play an important role in oral literature and cultural transmission. They develop language skills and logical thinking.",
+                    "vocabulary": [
+                        {
+                            "term": "sobano",
+                            "definition": "riddle"
+                        },
+                        {
+                            "term": "kuyungizya",
+                            "definition": "to solve"
+                        },
+                        {
+                            "term": "kupandulula",
+                            "definition": "to answer/explain"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 70,
+                        "questions": [
+                            "Can learners solve simple riddles?",
+                            "Can learners create their own riddles?",
+                            "Do learners understand the structure of riddles?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "TULABI (Stories)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Tulabi a twaanga mulaka (Traditional stories)",
+                    "page": 79,
+                    "competences": [
+                        "Swiilila tulabi twaanga mulaka. (Listen to traditional stories)",
+                        "Ambaula tulabi. (Tell stories)",
+                        "Pandulula zyakacitika mutulabi. (Describe what happened in stories)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1",
+                            "page": 79,
+                            "hook": "Inga mwakaziswiilila tulabi twaanga tumwi?",
+                            "teacher_steps": [
+                                "Ambaula labi liimwi lyaanga mulaka",
+                                "Gamba basicikolo kuswiilila kapati",
+                                "Yungizya basicikolo kupandulula zyakacitika mulabi",
+                                "Bedelesya mibuzyo yamulabi nokugamba basicikolo kupandulula"
+                            ],
+                            "learner_steps": [
+                                "Swiilila labi lyaambiidwe amwiiyi",
+                                "Pandulula zyakacitika mulabi",
+                                "Ambaula tulabi twimbi twaakaziswiilila",
+                                "Pika zyintu zyakacitika mulabi"
+                            ],
+                            "short_notes": "Traditional stories (tulabi) are important for cultural education, moral lessons, and language development. Learners listen, comprehend and retell stories."
+                        }
+                    ],
+                    "short_notes": "Tulabi a twaanga mulaka (traditional stories) preserve cultural values, teach moral lessons and develop listening and speaking skills.",
+                    "vocabulary": [
+                        {
+                            "term": "labi",
+                            "definition": "story"
+                        },
+                        {
+                            "term": "tulabi",
+                            "definition": "stories"
+                        },
+                        {
+                            "term": "kwaamba",
+                            "definition": "to tell/say"
+                        },
+                        {
+                            "term": "kuswiilila",
+                            "definition": "to listen"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 95,
+                        "questions": [
+                            "Can learners retell a story they heard?",
+                            "Do learners understand the moral lesson?",
+                            "Can learners answer questions about the story?",
+                            "Can learners create simple stories?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "KWAAMBA TWAANGA MULAKA (Speaking Traditional Language)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "5.1",
+                    "title": "Twaanga mulaka (Traditional expressions)",
+                    "page": 108,
+                    "competences": [
+                        "Belesya twaanga mulaka mumasena aayandisya. (Use traditional expressions in appropriate situations)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1",
+                            "page": 108,
+                            "hook": "Inga mwakaziyiba twaanga twaimbi?",
+                            "teacher_steps": [
+                                "Penzya twaanga twaanga mulaka (zyikumpanano, zyipozyo, nzyotumpela)",
+                                "Tondezya mbotwabelesyegwa mumasena aayandisya",
+                                "Gamba basicikolo kupilika abelesya twaanga mutomene",
+                                "Yungizya basicikolo kubelesya twaanga twaanga mulaka"
+                            ],
+                            "learner_steps": [
+                                "Swiilila twaanga twaambiidwe amwiiyi",
+                                "Belesya twaanga mutomene",
+                                "Pilika akubambya zyikumu zitobela twaanga"
+                            ],
+                            "short_notes": "Traditional expressions include greetings, proverbs, idioms and respectful language that are essential for cultural communication."
+                        }
+                    ],
+                    "short_notes": "Kwaamba twaanga mulaka preserves cultural identity and teaches appropriate communication in different social contexts.",
+                    "vocabulary": [
+                        {
+                            "term": "cikumpanano",
+                            "definition": "greeting"
+                        },
+                        {
+                            "term": "cipozyo",
+                            "definition": "proverb"
+                        },
+                        {
+                            "term": "cutumpelo",
+                            "definition": "respect/honor"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 120,
+                        "questions": [
+                            "Can learners use appropriate greetings?",
+                            "Do learners understand when to use respectful language?",
+                            "Can learners explain simple proverbs?"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

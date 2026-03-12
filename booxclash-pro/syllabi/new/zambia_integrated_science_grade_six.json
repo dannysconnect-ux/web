@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "6",
+    "subject": "Science",
+    "philosophy": "Quality, life long education for all which is accessible, inclusive and relevant to individual, national and global needs and value systems. The Upper Primary Science Syllabus has been reviewed to provide a national age-appropriate curriculum for learners at Grade 4 to 6. The syllabus aims to provide quality education that is aligned with the Competence-Based Curriculum and 21st Century Skills, imparting knowledge, skills, values, and positive attitudes to enable learners to live and grow into productive and useful members of their communities and the Zambian society. This syllabus comprises four branches of science: Agricultural Science, Biology, Chemistry, and Physics. It promotes hands-on experiences, interaction with nature, and learning through research and practical work, developing desirable lifelong skills. Cross-cutting themes and emerging issues such as national values and principles, life skills and health education, climate change, and financial education have been incorporated to cultivate a mindset, skills, values, and positive attitudes. The syllabus aims to spark curiosity, nurture foundational skills, and instill a love for learning, providing a solid foundation for Science Technology Engineering and Mathematics (STEM) education and smooth transition to secondary education.",
+    "competence_learning": "The syllabus outlines the content in the form of topics, sub-topics, while the specific competences are meant to respond to the realization of scientific concepts. Key competences to be developed include Analytical Thinking, Communication, Creativity and Innovation, Collaboration, Critical Thinking, Environmental Sustainability, and Problem Solving, each with specific descriptors to guide learning and development.",
+    "goals": [
+      "Foster curiosity to nurture a sense of wonder by encouraging young learners to ask questions, explore their surroundings, and make connections between the scientific concepts they encounter.",
+      "Foster scientific inquiry that promotes a hands-on approach to science by engaging young learners in simple, age-appropriate experiments to observe cause and effect, explore the properties of materials, and develop a keen interest in the world of science.",
+      "Encourage collaborative learning by recognizing the importance of social interactions in the learning process. The activities should be designed to promote teamwork, communication, and the sharing of ideas, creating a supportive community of learners.",
+      "Encourage sustainable environmental management practices to evade the impact of climate change."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "6.1.1.1",
+      "topic_title": "6.1 THE HUMAN BODY",
+      "page_number": 35,
+      "subtopics": [
+        "6.1.1 The Digestive System"
+      ],
+      "specific_outcomes": [
+        "6.1.1.1 Demonstrate understanding of the digestive system of the human body"
+      ]
+    },
+    {
+      "unit": "6.1.2.1",
+      "topic_title": "6.1 THE HUMAN BODY",
+      "page_number": 36,
+      "subtopics": [
+        "6.1.2 Risk of Teenage Pregnancy"
+      ],
+      "specific_outcomes": [
+        "6.1.2.1 Examine risks associated with teenage pregnancy"
+      ]
+    },
+    {
+      "unit": "6.2.1.1",
+      "topic_title": "6.2 NUTRITION AND HEALTH",
+      "page_number": 37,
+      "subtopics": [
+        "6.2.1 Health Risks Associated with Nutrition"
+      ],
+      "specific_outcomes": [
+        "6.2.1.1 Relate nutritional disorders to poor nutrition in human beings"
+      ]
+    },
+    {
+      "unit": "6.2.2.1",
+      "topic_title": "6.2 NUTRITION AND HEALTH",
+      "page_number": 37,
+      "subtopics": [
+        "6.2.2 Tuberculosis"
+      ],
+      "specific_outcomes": [
+        "6.2.2.1 Practise effective ways of preventing the spread of Tuberculosis in the community"
+      ]
+    },
+    {
+      "unit": "6.2.3.1",
+      "topic_title": "6.2 NUTRITION AND HEALTH",
+      "page_number": 38,
+      "subtopics": [
+        "6.2.3 Bacteria, Fungi and Viruses"
+      ],
+      "specific_outcomes": [
+        "6.2.3.1 Classify bacteria, fungi and viruses based on the structure and mode of infection"
+      ]
+    },
+    {
+      "unit": "6.3.1.1",
+      "topic_title": "6.3 THE ENVIRONMENT",
+      "page_number": 39,
+      "subtopics": [
+        "6.3.1 Environmental Management"
+      ],
+      "specific_outcomes": [
+        "6.3.1.1 Develop sustainable practices and approaches in environmental management"
+      ]
+    },
+    {
+      "unit": "6.3.2.1",
+      "topic_title": "6.3 THE ENVIRONMENT",
+      "page_number": 39,
+      "subtopics": [
+        "6.3.2 Water Supply Systems"
+      ],
+      "specific_outcomes": [
+        "6.3.2.1 Examine different water supply systems"
+      ]
+    },
+    {
+      "unit": "6.3.2.2",
+      "topic_title": "6.3 THE ENVIRONMENT",
+      "page_number": 40,
+      "subtopics": [
+        "6.3.2 Water Supply Systems"
+      ],
+      "specific_outcomes": [
+        "6.3.2.2 Explore water conservation methods in homes and communities"
+      ]
+    },
+    {
+      "unit": "6.4.1.1",
+      "topic_title": "6.4 PLANTS AND ANIMALS",
+      "page_number": 41,
+      "subtopics": [
+        "6.4.1 Reproduction in Flowering Plants"
+      ],
+      "specific_outcomes": [
+        "6.4.1.1 Investigate the reproductive parts in flowering plants"
+      ]
+    },
+    {
+      "unit": "6.4.1.2",
+      "topic_title": "6.4 PLANTS AND ANIMALS",
+      "page_number": 41,
+      "subtopics": [
+        "6.4.1 Reproduction in Flowering Plants"
+      ],
+      "specific_outcomes": [
+        "6.4.1.2 Determine methods of dispersal based on the structure of the seed"
+      ]
+    },
+    {
+      "unit": "6.4.1.3",
+      "topic_title": "6.4 PLANTS AND ANIMALS",
+      "page_number": 41,
+      "subtopics": [
+        "6.4.1 Reproduction in Flowering Plants"
+      ],
+      "specific_outcomes": [
+        "6.4.1.3 Explore different methods of propagating plants found in the environment"
+      ]
+    },
+    {
+      "unit": "6.4.2.1",
+      "topic_title": "6.4 PLANTS AND ANIMALS",
+      "page_number": 42,
+      "subtopics": [
+        "6.4.2 Soil Erosion and Conservation"
+      ],
+      "specific_outcomes": [
+        "6.4.2.1 Practice soil conservation"
+      ]
+    },
+    {
+      "unit": "6.4.3.1",
+      "topic_title": "6.4 PLANTS AND ANIMALS",
+      "page_number": 42,
+      "subtopics": [
+        "6.4.3 Crops"
+      ],
+      "specific_outcomes": [
+        "6.4.3.1 Grow different field crops to maturity"
+      ]
+    },
+    {
+      "unit": "6.4.4.1",
+      "topic_title": "6.4 PLANTS AND ANIMALS",
+      "page_number": 43,
+      "subtopics": [
+        "6.4.4 Crop Diversification"
+      ],
+      "specific_outcomes": [
+        "6.4.4.1 Grow drought-resistant crops"
+      ]
+    },
+    {
+      "unit": "6.4.5.1",
+      "topic_title": "6.4 PLANTS AND ANIMALS",
+      "page_number": 43,
+      "subtopics": [
+        "6.4.5 Agro-processing and Entrepreneurship"
+      ],
+      "specific_outcomes": [
+        "6.4.5.1 Develop innovations in Agro-processing and entrepreneurship"
+      ]
+    },
+    {
+      "unit": "6.4.6.1",
+      "topic_title": "6.4 PLANTS AND ANIMALS",
+      "page_number": 44,
+      "subtopics": [
+        "6.4.6 Small- Stock Production"
+      ],
+      "specific_outcomes": [
+        "6.4.6.1 Rear small-stock"
+      ]
+    },
+    {
+      "unit": "6.5.1.1",
+      "topic_title": "6.5 MATERIALS AND ENERGY",
+      "page_number": 44,
+      "subtopics": [
+        "6.5.1 Sustainable Energy Conservation"
+      ],
+      "specific_outcomes": [
+        "6.5.1.1 Practise efficient energy conserving methods"
+      ]
+    },
+    {
+      "unit": "6.5.2.1",
+      "topic_title": "6.5 MATERIALS AND ENERGY",
+      "page_number": 44,
+      "subtopics": [
+        "6.5.2 Simple Machines"
+      ],
+      "specific_outcomes": [
+        "6.5.2.1 Use simple machines to do work"
+      ]
+    },
+    {
+      "unit": "6.5.3.1",
+      "topic_title": "6.5 MATERIALS AND ENERGY",
+      "page_number": 46,
+      "subtopics": [
+        "6.5.3 Basic Astronomy"
+      ],
+      "specific_outcomes": [
+        "6.5.3.1 Demonstrate understanding of the relationship between the earth, moon and the sun in the galaxy"
+      ]
+    },
+    {
+      "unit": "6.5.4.1",
+      "topic_title": "6.5 MATERIALS AND ENERGY",
+      "page_number": 46,
+      "subtopics": [
+        "6.5.4 Technological Advancement"
+      ],
+      "specific_outcomes": [
+        "6.5.4.1. Design prototypes of robots"
+      ]
+    },
+    {
+      "unit": "6.5.5.1",
+      "topic_title": "6.5 MATERIALS AND ENERGY",
+      "page_number": 46,
+      "subtopics": [
+        "6.5.5 Sound"
+      ],
+      "specific_outcomes": [
+        "6.5.5.1 Evaluate the sources and properties of sound"
+      ]
+    },
+    {
+      "unit": "6.5.6.1",
+      "topic_title": "6.5 MATERIALS AND ENERGY",
+      "page_number": 47,
+      "subtopics": [
+        "6.5.6 Magnetism"
+      ],
+      "specific_outcomes": [
+        "6.5.6.1 Apply the principles of magnetism"
+      ]
+    }
+  ]
+}

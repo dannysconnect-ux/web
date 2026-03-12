@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "6",
+    "subject": "Home Economics and Hospitality",
+    "philosophy": "Quality, life long education for all which is accessible, inclusive and relevant to individual, national and global needs and value systems.",
+    "competence_learning": "The Home Economics and Hospitality syllabus is developed to accommodate a competence-based approach in teaching and learning, putting more emphasis on a learner-centered approach which can develop learner's competences, including knowledge, skills, and attitudes.",
+    "goals": [
+      "To impart knowledge, skills, values, and positive attitudes that enable children to live and grow into productive and useful members of their communities and the Zambian society.",
+      "To facilitate the holistic development of children's creativity, initiative, problem-solving, physical, mental, and emotional skills.",
+      "To equip young people with important skills for living as individuals and for establishing and developing a stable environment for the nation and their families."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "6.1",
+      "topic_title": "Food and Nutrition",
+      "page_number": 28,
+      "subtopics": [
+        "Digestion",
+        "Food Processing",
+        "Labour saving devices",
+        "Methods of cooking",
+        "Meal Planning",
+        "Food presentation",
+        "Left Over Foods"
+      ],
+      "specific_outcomes": [
+        "6.1.1.1 Plan various meals that are crucial to maintaining a healthy digestive system.",
+        "6.1.2.1 Explore different levels of food processing.",
+        "6.1.3.1 Use Labour saving Devices.",
+        "6.1.4.1 Practice methods of cooking.",
+        "6.1.5.1 Plan meals for different individual needs.",
+        "6.1.6.1 Lay a table.",
+        "6.1.7.1 Prepare meals using Left Over Foods."
+      ]
+    },
+    {
+      "unit": "6.2",
+      "topic_title": "Hospitality Management",
+      "page_number": 32,
+      "subtopics": [
+        "Receiving guests",
+        "Cleaning",
+        "Interior and Exterior Decorations",
+        "Pest Control",
+        "Laundry Methods",
+        "Menstrual Hygiene",
+        "Cosmetology"
+      ],
+      "specific_outcomes": [
+        "6.2.1.1 Apply hospitality skills in receiving guests.",
+        "6.2.2.1 Care and clean different rooms.",
+        "6.2.3.1 Practice interior decorations.",
+        "6.2.3.2 Practice exterior decorations.",
+        "6.2.4.1 Apply control measures in preventing household pests.",
+        "6.2.1.1 Launder different clothes/articles.",
+        "6.3.1.1 Practice Menstrual Hygiene.",
+        "6.3.2.1 Enhance cosmetology skills."
+      ]
+    },
+    {
+      "unit": "6.5",
+      "topic_title": "Travel and Tourism",
+      "page_number": 36,
+      "subtopics": [
+        "Travel Agency"
+      ],
+      "specific_outcomes": [
+        "6.5.1.1 Organise a travel package."
+      ]
+    },
+    {
+      "unit": "6.6",
+      "topic_title": "Needlework and Crafts",
+      "page_number": 38,
+      "subtopics": [
+        "Hand Sewing Techniques",
+        "The Sewing Machine",
+        "Household crafts",
+        "Beadwork",
+        "Smart Shopping",
+        "Winding up a Business"
+      ],
+      "specific_outcomes": [
+        "6.6.1.1 Practice hand-sewing techniques.",
+        "6.6.2.1 Practice sewing using a sewing machine.",
+        "6.7.1.1 Design appliqué.",
+        "6.7.2.1 Make simple items using beads.",
+        "6.8.1.1 Practice smart shopping.",
+        "6.9.1.1 Conclude the business process."
+      ]
+    }
+  ]
+}

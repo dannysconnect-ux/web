@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 3",
+    "subject": "Physics",
+    "philosophy": "",
+    "competence_learning": "",
+    "goals": []
+  },
+  "topics": [
+    {
+      "unit": "3.1",
+      "topic_title": "LIGHT",
+      "page_number": 30,
+      "subtopics": [
+        "3.1.1 Rectilinear Propagation of Light",
+        "3.1.2 Reflection of Light",
+        "3.1.3 Refraction of Light",
+        "3.1.4 Lenses"
+      ],
+      "specific_outcomes": [
+        "3.1.1.1 Apply the concept of rectilinear propagation of light",
+        "3.1.2.1 Apply the concept of reflection of light.",
+        "3.1.3.1 Apply the concept of refraction of light",
+        "3.1.4.1 Demonstrate understanding of lenses"
+      ]
+    },
+    {
+      "unit": "3.2",
+      "topic_title": "STATIC ELECTRICITY",
+      "page_number": 32,
+      "subtopics": [
+        "3.2.1 Introduction to Static Electricity"
+      ],
+      "specific_outcomes": [
+        "3.2.1.1 Design experiments to investigate static electricity",
+        "3.2.1.2 Install a lightning arrester"
+      ]
+    },
+    {
+      "unit": "3.3",
+      "topic_title": "CURRENT ELECTRICITY",
+      "page_number": 33,
+      "subtopics": [
+        "3.3.1 Electric Charge, Current and Potential Difference",
+        "3.3.2 Electric Cells",
+        "3.3.3 Ohm's Law",
+        "3.3.4 Electric Energy and Power",
+        "3.3.5 Electric Safety"
+      ],
+      "specific_outcomes": [
+        "3.3.1.1 Construct a simple electric circuit",
+        "3.3.2.1 Apply electric cell technology to solve problems",
+        "3.3.3.1 Construct an electrical circuit system to apply the concept of ohms' law",
+        "3.3.4.1 Solve practical and numerical problems involving electrical energy and power",
+        "3.3.5.1 Develop a domestic electric circuit, considering safety and efficiency"
+      ]
+    },
+    {
+      "unit": "3.4",
+      "topic_title": "MAGNETISM",
+      "page_number": 36,
+      "subtopics": [
+        "3.4.1 Phenomenon of Magnetism"
+      ],
+      "specific_outcomes": [
+        "3.4.1.1 Demonstrate understanding of the phenomenon of magnetism"
+      ]
+    },
+    {
+      "unit": "3.5",
+      "topic_title": "ELECTROMAGNETISM",
+      "page_number": 36,
+      "subtopics": [
+        "3.5.1 Magnetic effect of Electric-Current"
+      ],
+      "specific_outcomes": [
+        "3.5.1.1 Apply magnetic effect of electric current to solve problems"
+      ]
+    },
+    {
+      "unit": "3.6",
+      "topic_title": "ELECTROMAGNETIC INDUCTION",
+      "page_number": 37,
+      "subtopics": [
+        "3.6.1 Introduction to Electromagnetic Induction",
+        "3.6.2 The Simple AC and DC Generators",
+        "3.6.3 Transformers",
+        "3.6.4 Electrical Energy Transmission"
+      ],
+      "specific_outcomes": [
+        "3.6.1.1 Create a system that applies Faraday's law of electromagnetic induction",
+        "3.6.2.1 Create simple AC and DC generators",
+        "3.6.3.1 Solve practical and numeric problems involving transformers",
+        "3.6.4.1 Explore the transmission of electrical energy"
+      ]
+    }
+  ]
+}

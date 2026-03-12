@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "1",
+    "subject": "Mathematics and Science",
+    "philosophy": "The Lower Primary Mathematics and Science Syllabus is designed for Grades 1 to 3, focusing on foundational concepts from Early Childhood Education (ECE). Mathematics and Science are two interconnected disciplines that shape our understanding of the world around us. Mathematics provides the language and tools to describe and analyse scientific phenomena, while science provides the context and application for mathematical concepts. It emphasises learners demonstrating competences fostering 21st-century skills like communication, critical thinking, and problem-solving. This syllabus prescribes mathematics and science as a single learning area and teaching of Mathematics and Science should be integrated. The course recognises individual potential and creates a dynamic environment for discovering Mathematics and Science. A Combination of these two components provides a solid foundation for Science, Technology, Engineering, and Mathematics (STEM) careers and preparing learners for a diverse range of careers.",
+    "competence_learning": "Key competences to be developed (listed on pages 98-100) include Analytical Thinking, Communication, Creativity and Innovation, Collaboration, Critical Thinking, Environmental Sustainability, Financial Literacy, and Problem Solving.",
+    "goals": [
+      "To enhance children's innate ability to learn scientific and mathematical concepts through engaging, effective learning experiences.",
+      "To foster curiosity through observation, questioning, and experimentation, preparing them for a smooth transition to Upper Primary Education and a solid foundation for STEM education."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "1.1",
+      "topic_title": "EXPLORING MY WORLD",
+      "page_number": 101,
+      "subtopics": [
+        "1.1.1 Grouping Things",
+        "1.1.2 Things in the Surroundings",
+        "1.1.3 Plants and Animals"
+      ],
+      "specific_outcomes": [
+        "1.1.1.1 Distinguish groups of things according to their characteristics",
+        "1.1.2.1 Care for natural resources using ways such as recovering, reducing, reusing.......",
+        "1.1.2.2 Use whole numbers in variety of ways in daily life",
+        "1.1.3.2 Classify Plants and Animals according to their characteristics"
+      ]
+    },
+    {
+      "unit": "1.2",
+      "topic_title": "UNDERSTANDING MY BODY",
+      "page_number": 104,
+      "subtopics": [
+        "1.2.1 The Human Body",
+        "1.2.2 Water borne and Food borne Diseases"
+      ],
+      "specific_outcomes": [
+        "1.2.1.1 Relate external structures of the human body to their functions",
+        "1.2.1.2 Measure using a variety of units",
+        "1.2.1.3 Practise hygiene",
+        "1.2.2.1 Practise hygiene to prevent Water borne and foodborne diseases"
+      ]
+    },
+    {
+      "unit": "1.3",
+      "topic_title": "EXPLORING THE SKY AND SEASONS",
+      "page_number": 105,
+      "subtopics": [
+        "1.3.1 Time",
+        "1.3.2 Weather and Climate Change"
+      ],
+      "specific_outcomes": [
+        "1.3.1.1 Use measures of time in everyday life",
+        "1.3.2.1 Apply adaptation measures to weather changes"
+      ]
+    },
+    {
+      "unit": "1.4",
+      "topic_title": "EXPLORING MATERIALS",
+      "page_number": 106,
+      "subtopics": [
+        "1.4.1 Materials",
+        "1.4.2 Energy",
+        "1.4.3 Plane and Solid shapes",
+        "1.4.4 Safe Water",
+        "1.4.5 Surroundings"
+      ],
+      "specific_outcomes": [
+        "1.4.1.1 Explore different materials in the environment",
+        "1.4.2.1 Explore sources of energy using different materials",
+        "1.4.3.1 Make shapes using different materials",
+        "1.4.4.1 Use safe and clean water.",
+        "1.4.5.1 Exhibit care for the surroundings"
+      ]
+    },
+    {
+      "unit": "1.5",
+      "topic_title": "EXPLORING MIXITURES",
+      "page_number": 108,
+      "subtopics": [
+        "1.5.1 Mixtures",
+        "1.5.2 Addition and Subtraction of things",
+        "1.5.3 Domestic Waste"
+      ],
+      "specific_outcomes": [
+        "1.5.1.1 Make mixtures",
+        "1.5.2.1 Use whole numbers in addition of things",
+        "1.5.2.2 Use whole numbers in subtraction things",
+        "1.5.3.1 Manage domestic waste"
+      ]
+    }
+  ]
+}

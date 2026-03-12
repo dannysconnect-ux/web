@@ -1,0 +1,673 @@
+{
+    "subject": "Literacy in English Language",
+    "grade": "Grade 1",
+    "term": 3,
+    "topics": [
+        {
+            "topic_id": "1.9",
+            "topic_title": "Sounds",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.9.4",
+                    "title": "Sound /ng/",
+                    "page": 9,
+                    "competences": [
+                        "Sound out digraphs in English"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 10,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Say words that carry the /ng/ sound (king, ring, sing, bring, sting)",
+                                "Instruct learners to elicit the common sound",
+                                "Model sounding out /ng/ correctly",
+                                "Sound out /ng/ together with learners",
+                                "Tell learners to sound out /ng/ as whole class, groups, pairs or individuals",
+                                "Say words with /ng/ sound and those without in any order",
+                                "Instruct learners thumbs up for /ng/ sound, thumbs down otherwise",
+                                "Show card with letters 'ng'",
+                                "Say the letter as you form the shape",
+                                "Tell learners to blend /ng/ with other known sounds",
+                                "Write words on board: lung, sting, song, thing, ring, sing, hang, sang",
+                                "Model reading fluently",
+                                "Display sentences on board",
+                                "Discuss meanings of words",
+                                "Write short sentences with /ng/ sound",
+                                "Tell learners to copy and underline words with /ng/",
+                                "Remind about capital letters and full stops",
+                                "Tell interesting story",
+                                "Ask oral questions at all six thinking levels"
+                            ],
+                            "learner_steps": [
+                                "Listen and identify common sound",
+                                "Sound out /ng/",
+                                "Use thumbs to indicate /ng/ sound",
+                                "Say the sound letters make",
+                                "Blend /ng/ with other sounds",
+                                "Read words fluently",
+                                "Read sentences fluently",
+                                "Make oral sentences using vocabulary",
+                                "Copy sentences and underline /ng/ words",
+                                "Use capital letters and full stops",
+                                "Listen to story and answer questions"
+                            ],
+                            "short_notes": "Sound /ng/ is a common consonant digraph. Learners are introduced to the sound, shape, blending, segmenting and words containing it."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Say words with /ng/ sound",
+                                "Model sounding out /ng/",
+                                "Show card with 'ng'",
+                                "Play 'flip it, say it, make it, read it' game",
+                                "Display words: king, spring, bring, long, bang, wing",
+                                "Model reading fluently",
+                                "Display sentences",
+                                "Discuss vocabulary meanings",
+                                "Write sets of words with and without /ng/",
+                                "Tell learners to identify and underline /ng/ words"
+                            ],
+                            "learner_steps": [
+                                "Say /ng/ sound",
+                                "Play the game",
+                                "Read words fluently",
+                                "Read sentences fluently",
+                                "Make oral sentences",
+                                "Identify and underline /ng/ words",
+                                "Mention characters liked in story with reasons"
+                            ],
+                            "short_notes": "Revision of sound /ng/ using games and reading practice"
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "lung",
+                            "definition": "organ for breathing"
+                        },
+                        {
+                            "term": "sting",
+                            "definition": "to prick or hurt"
+                        },
+                        {
+                            "term": "song",
+                            "definition": "music with words"
+                        },
+                        {
+                            "term": "ring",
+                            "definition": "circular band or to make sound"
+                        },
+                        {
+                            "term": "king",
+                            "definition": "male ruler"
+                        },
+                        {
+                            "term": "spring",
+                            "definition": "season or to jump"
+                        },
+                        {
+                            "term": "wing",
+                            "definition": "part of bird for flying"
+                        },
+                        {
+                            "term": "bang",
+                            "definition": "loud sudden noise"
+                        },
+                        {
+                            "term": "hang",
+                            "definition": "to suspend from above"
+                        },
+                        {
+                            "term": "sang",
+                            "definition": "past tense of sing"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 11,
+                        "questions": [
+                            "Write letters 'ng' correctly",
+                            "Sound out /ng/ correctly",
+                            "Write sentences with /ng/ words",
+                            "Write own names independently",
+                            "Identify words with /ng/ sound",
+                            "Read decodable texts"
+                        ],
+                        "expected_standard": "Digraphs sounded out correctly. Digraphs blended and read correctly. Sitting posture demonstrated correctly. Knowledge of basic concepts of print demonstrated correctly."
+                    }
+                },
+                {
+                    "subtopic_id": "1.9.4",
+                    "title": "Sound /oo/ (short)",
+                    "page": 14,
+                    "competences": [
+                        "Sound out digraphs in English"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 14,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Say words: stood, wood, took, look, book",
+                                "Ask learners to identify common sound",
+                                "Model sounding out short /oo/",
+                                "Sound out with learners",
+                                "Say words and instruct clapping for /oo/ sound",
+                                "Show card with 'oo' grapheme",
+                                "Use grapheme cards to form 'took'",
+                                "Show words with learnt graphemes",
+                                "Mention individual sounds in words",
+                                "Write vocabulary words",
+                                "Discuss meanings",
+                                "Instruct to re-arrange jumbled graphemes"
+                            ],
+                            "learner_steps": [
+                                "Listen attentively to words",
+                                "Identify common sound",
+                                "Sound out short /oo/",
+                                "Clap when hearing /oo/ sound",
+                                "Look at 'oo' card",
+                                "Use cards to form words",
+                                "Read words fluently",
+                                "Use words in oral sentences",
+                                "Re-arrange jumbled graphemes",
+                                "Write own names",
+                                "Mention most interesting story part"
+                            ],
+                            "short_notes": "Sound /oo/ (short) is a vowel digraph. Learners learn sound, shape, blending, segmenting and words containing it."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ask for learnt sound from previous lesson",
+                                "Instruct to mention words with short /oo/",
+                                "Show 'oo' card",
+                                "Segment word 'took'",
+                                "Teach sight words: 'I' and 'my'",
+                                "Display sentences",
+                                "Model reading fluently",
+                                "Display jumbled sentences",
+                                "Instruct to re-arrange words"
+                            ],
+                            "learner_steps": [
+                                "Say learnt sound",
+                                "Mention /oo/ words",
+                                "Clap for /oo/ words",
+                                "Segment words",
+                                "Read sight words",
+                                "Read sentences fluently",
+                                "Re-arrange jumbled sentences",
+                                "Mention disliked story part with reasons"
+                            ],
+                            "short_notes": "Revision focusing on sight words 'I' and 'my' and sentence construction"
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "hook",
+                            "definition": "curved piece for hanging or catching"
+                        },
+                        {
+                            "term": "foot",
+                            "definition": "lower part of leg"
+                        },
+                        {
+                            "term": "wool",
+                            "definition": "soft hair from sheep"
+                        },
+                        {
+                            "term": "cook",
+                            "definition": "to prepare food by heating"
+                        },
+                        {
+                            "term": "stood",
+                            "definition": "past tense of stand"
+                        },
+                        {
+                            "term": "wood",
+                            "definition": "material from trees"
+                        },
+                        {
+                            "term": "good",
+                            "definition": "pleasant or high quality"
+                        },
+                        {
+                            "term": "book",
+                            "definition": "written work for reading"
+                        },
+                        {
+                            "term": "look",
+                            "definition": "to see or observe"
+                        },
+                        {
+                            "term": "took",
+                            "definition": "past tense of take"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 16,
+                        "questions": [
+                            "Re-arrange jumbled graphemes to form words",
+                            "Sound /oo/ correctly",
+                            "Write given words",
+                            "Segment and blend words",
+                            "Read decodable text",
+                            "Re-arrange words to form sentences"
+                        ],
+                        "expected_standard": "Digraphs sounded out correctly. Digraphs read and blended correctly. Knowledge of basic concepts of print demonstrated correctly."
+                    }
+                },
+                {
+                    "subtopic_id": "1.9.4",
+                    "title": "Sound /oo/ (long)",
+                    "page": 18,
+                    "competences": [
+                        "Sound out digraphs in English"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 19,
+                            "hook": "Display a picture of a moon",
+                            "teacher_steps": [
+                                "Display moon picture",
+                                "Ask to identify picture",
+                                "Ask to identify middle sound in 'moon'",
+                                "Model sounding out long /oo/",
+                                "Sound out with learners",
+                                "Instruct to say other words with long /oo/",
+                                "Show 'oo' card",
+                                "Display learnt graphemes",
+                                "Blend /oo/ with other graphemes",
+                                "Model reading short story",
+                                "Write story while learners observe",
+                                "Ask oral questions about story"
+                            ],
+                            "learner_steps": [
+                                "Identify moon picture",
+                                "Identify middle sound in 'moon'",
+                                "Sound out long /oo/",
+                                "Say words: doom, boom, food",
+                                "Sound out grapheme",
+                                "Select graphemes to blend",
+                                "Read story fluently",
+                                "Use words in oral sentences",
+                                "Copy story neatly",
+                                "Answer story questions"
+                            ],
+                            "short_notes": "Long /oo/ sound in words like moon, zoo, food. Story: Jack and Jona went to the zoo. They spent a week at the zoo. They stood at the zoo. They waited for dad at the zoo."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Show pictures: moon, food, zip, roof",
+                                "Point at pictures without naming",
+                                "Instruct thumbs up for long /oo/ sound",
+                                "Show 'oo' card",
+                                "Play fishing game with grapheme cards",
+                                "Display words on board",
+                                "Play segmenting and spelling game",
+                                "Dictate sounds to form words",
+                                "Tell story without ending",
+                                "Ask for different endings"
+                            ],
+                            "learner_steps": [
+                                "Use thumbs to identify long /oo/ pictures",
+                                "Say picture names to confirm",
+                                "Play fishing game",
+                                "Play segmenting game",
+                                "Write dictated words",
+                                "Provide story endings"
+                            ],
+                            "short_notes": "Revision using games and creative storytelling"
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "moon",
+                            "definition": "natural satellite of Earth"
+                        },
+                        {
+                            "term": "food",
+                            "definition": "what we eat"
+                        },
+                        {
+                            "term": "fool",
+                            "definition": "silly person"
+                        },
+                        {
+                            "term": "pool",
+                            "definition": "small body of water"
+                        },
+                        {
+                            "term": "zoo",
+                            "definition": "place where animals are kept"
+                        },
+                        {
+                            "term": "roof",
+                            "definition": "top covering of building"
+                        },
+                        {
+                            "term": "boot",
+                            "definition": "type of shoe"
+                        },
+                        {
+                            "term": "broom",
+                            "definition": "tool for sweeping"
+                        },
+                        {
+                            "term": "mood",
+                            "definition": "emotional state"
+                        },
+                        {
+                            "term": "cool",
+                            "definition": "slightly cold"
+                        },
+                        {
+                            "term": "spoon",
+                            "definition": "utensil for eating"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 21,
+                        "questions": [
+                            "Copy the story",
+                            "Sound long /oo/ correctly",
+                            "Write given words",
+                            "Segment and blend words",
+                            "Read decodable text",
+                            "Write dictated phonemes to form words"
+                        ],
+                        "expected_standard": "Digraphs sounded out correctly. Digraphs read and blended correctly. Knowledge of basic concepts of print demonstrated correctly."
+                    }
+                },
+                {
+                    "subtopic_id": "1.9.2",
+                    "title": "Sound /y/",
+                    "page": 23,
+                    "competences": [
+                        "Sound out consonants in English"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 23,
+                            "hook": "Tell/read passage dominated by /y/ sound",
+                            "teacher_steps": [
+                                "Tell/read passage with /y/ sound",
+                                "Ask to identify most frequent sound",
+                                "Model sounding out /y/",
+                                "Sound out with learners",
+                                "Tell to say words with /y/",
+                                "Explain /y/ written as 'y' 'Y'",
+                                "Point at lower and upper case",
+                                "Form letter 'y' in air",
+                                "Show grapheme-phoneme cards",
+                                "Blend to form words",
+                                "Teach sight words: 'he' and 'she'",
+                                "Model reading dialogue",
+                                "Dictate CVC words",
+                                "Tell interesting story",
+                                "Ask Bloom's Taxonomy questions"
+                            ],
+                            "learner_steps": [
+                                "Identify most frequent sound",
+                                "Sound out /y/",
+                                "Say words: yellow, yolk, yet, yes",
+                                "Observe 'y' 'Y' writing",
+                                "Form 'y' in air",
+                                "Write 'y' on desks",
+                                "Blend graphemes to form words",
+                                "Read sight words fluently",
+                                "Read dialogue in groups",
+                                "Use words in oral sentences",
+                                "Write dictated words: yam, yes, yet",
+                                "Answer story questions"
+                            ],
+                            "short_notes": "Consonant /y/ sound. Dialogue: A: Did the hook prick him? B: Yes, the hook pricked him. C: Did he yell? D: No, he did not yell."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Say 'yam' and clap sounds",
+                                "Say 'yet' with learners, clapping",
+                                "Say 'yes', ask learners to clap sounds",
+                                "Remind /y/ written as 'y' 'Y'",
+                                "Form 'y' in air",
+                                "Provide grapheme-phoneme cards",
+                                "Instruct to form, sound, read, spell words",
+                                "Put word cards in circle center",
+                                "Sing song, pick card, read word",
+                                "Write words with and without /y/",
+                                "Instruct to identify odd one out"
+                            ],
+                            "learner_steps": [
+                                "Clap sounds in words",
+                                "Form 'y' in air",
+                                "Write 'y' on desks",
+                                "Form words using cards",
+                                "Sound, read, spell words",
+                                "Read words from cards",
+                                "Identify odd words without /y/",
+                                "Mention liked/disliked characters with reasons"
+                            ],
+                            "short_notes": "Revision through clapping, games, and word identification"
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "yes",
+                            "definition": "affirmative response"
+                        },
+                        {
+                            "term": "yet",
+                            "definition": "still or up to now"
+                        },
+                        {
+                            "term": "yelp",
+                            "definition": "short sharp cry"
+                        },
+                        {
+                            "term": "yam",
+                            "definition": "type of root vegetable"
+                        },
+                        {
+                            "term": "yell",
+                            "definition": "to shout loudly"
+                        },
+                        {
+                            "term": "yuck",
+                            "definition": "expression of disgust"
+                        },
+                        {
+                            "term": "yolk",
+                            "definition": "yellow part of egg"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 26,
+                        "questions": [
+                            "Write letter 'y' correctly",
+                            "Sound /y/ correctly",
+                            "Write given words",
+                            "Segment and blend words",
+                            "Read decodable text",
+                            "Write dictated words",
+                            "Identify odd one out"
+                        ],
+                        "expected_standard": "Consonant sounded out correctly. Consonant written correctly. Knowledge of basic concepts of print demonstrated correctly. Words read and blended correctly."
+                    }
+                },
+                {
+                    "subtopic_id": "1.9.2",
+                    "title": "Sound /x/",
+                    "page": 28,
+                    "competences": [
+                        "Sound out consonants in English"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 28,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Say words 'fix' and 'box'",
+                                "Ask to identify common sound",
+                                "Model sounding out /x/",
+                                "Sound out with learners",
+                                "Instruct to mention other /x/ words",
+                                "Tell sounds can be written",
+                                "Write 'x' 'X' on board",
+                                "Point at lower and upper case",
+                                "Form 'x' in air",
+                                "Display/write words with learnt sounds",
+                                "Pick word, read, sound, spell",
+                                "Write text on board",
+                                "Model reading fluently",
+                                "Discuss word meanings",
+                                "Instruct to copy text",
+                                "Tell/read story",
+                                "Instruct to dramatise story"
+                            ],
+                            "learner_steps": [
+                                "Identify common sound in 'fix' and 'box'",
+                                "Sound out /x/",
+                                "Mention words: mix, fox, six, wax, max",
+                                "Observe 'x' 'X' writing",
+                                "Form 'x' in air",
+                                "Write 'x' on desks",
+                                "Read, sound, spell words",
+                                "Read text fluently",
+                                "Use words in oral sentences",
+                                "Copy text neatly",
+                                "Take story roles and dramatise"
+                            ],
+                            "short_notes": "Consonant /x/ sound. Text: Fox sits in a box. Ox sits in a box. Fox and ox sit in a box. Fox sits next to ox."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Say sounds while putting dots",
+                                "Slide pointer under dots saying word",
+                                "Draw squares/rectangles connected",
+                                "Place grapheme cards in each square",
+                                "Instruct to hop squares forming words",
+                                "Circle word, read, segment",
+                                "Write sentences",
+                                "Model reading fluently",
+                                "Put 'x' in circle",
+                                "Instruct to write /x/ words around circle",
+                                "Tell/read interesting story",
+                                "Ask to re-tell story"
+                            ],
+                            "learner_steps": [
+                                "Listen to sounds and dots",
+                                "Say word as pointer slides",
+                                "Hop squares to form words",
+                                "Sound graphemes",
+                                "Read sentences fluently",
+                                "Use words in oral sentences",
+                                "Write five /x/ words around circle",
+                                "Re-tell story"
+                            ],
+                            "short_notes": "Revision using hopscotch game and word mapping. Sentences: Get the text book. The text book is in a box. Fix the text book."
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "fix",
+                            "definition": "to repair"
+                        },
+                        {
+                            "term": "box",
+                            "definition": "container with sides"
+                        },
+                        {
+                            "term": "mix",
+                            "definition": "to combine together"
+                        },
+                        {
+                            "term": "fox",
+                            "definition": "wild animal similar to dog"
+                        },
+                        {
+                            "term": "six",
+                            "definition": "number 6"
+                        },
+                        {
+                            "term": "wax",
+                            "definition": "solid substance used for polish"
+                        },
+                        {
+                            "term": "max",
+                            "definition": "maximum or most"
+                        },
+                        {
+                            "term": "next",
+                            "definition": "coming immediately after"
+                        },
+                        {
+                            "term": "text",
+                            "definition": "written words"
+                        },
+                        {
+                            "term": "ox",
+                            "definition": "large cattle"
+                        },
+                        {
+                            "term": "taxi",
+                            "definition": "vehicle for hire"
+                        },
+                        {
+                            "term": "sixteen",
+                            "definition": "number 16"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 30,
+                        "questions": [
+                            "Write letter 'x' correctly",
+                            "Sound /x/ correctly",
+                            "Write given words and sentences",
+                            "Segment and blend words",
+                            "Read decodable text",
+                            "Write five /x/ words around circle"
+                        ],
+                        "expected_standard": "Consonant sounded out correctly. Consonant written correctly. Knowledge of basic concepts of print demonstrated correctly. Words read and blended correctly."
+                    }
+                }
+            ]
+        }
+    ],
+    "notes": [
+        "This module supports Grade 1 teachers implementing the Competence-Based Curriculum",
+        "Reading follows Primary Literacy Programme (PLP) focusing on: Phonemic Awareness, Phonics, Fluency, Vocabulary, Comprehension",
+        "Integrated skills: Handwriting and Punctuation emphasized during writing",
+        "Teachers encouraged to supplement with own research and innovations",
+        "Translanguaging practices support multilingual teaching environment",
+        "Sample lesson plan included on page 81",
+        "Page numbers reference the original Teaching Module document",
+        "Expected standards and assessment activities provided for each sound"
+    ]
+}

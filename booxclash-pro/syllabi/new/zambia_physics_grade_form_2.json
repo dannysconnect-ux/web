@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 2",
+    "subject": "Physics",
+    "philosophy": "The Physics Syllabus for Form 1 to 4 is designed to equip learners with a comprehensive understanding of Physics concepts, fostering a deep appreciation for its role in everyday life and various fields. It focuses on developing a solid foundation in Physics, cultivating critical thinking, analytical, and problem-solving skills, and linking concepts to real-world problems and emerging technologies through practical activities and simulations. The syllabus seeks to create a stimulating and supportive learning environment that prepares learners for further education and STEM careers, contributing to their intellectual and personal growth, and inspiring them to explore Physics and its significance in shaping the future.",
+    "competence_learning": "The O-level Physics syllabus incorporates an interdisciplinary approach that integrates Science, Technology, Engineering, and Mathematics (STEM) to foster innovative solutions and critical thinking, encompassing scientific observation, technological application, engineering design, and mathematical analysis. Effective teaching methodologies include conducting experiments, collaborative learning, conceptual learning, differentiated instructions, feedback and reflection, and inquiry-based learning. Key competences developed enable learners to manage their own learning and knowledge, interact with others and solve problems, contribute to society and the economy, and adapt to change and navigate emerging environmental issues.",
+    "goals": [
+      "Equip learners with a comprehensive understanding of Physics concepts.",
+      "Foster a deep appreciation for the role of Physics in everyday life and its applications.",
+      "Develop a solid foundation in Physics.",
+      "Cultivate critical thinking, analytical skills, and problem-solving skills.",
+      "Link Physics concepts to real-world problems and emerging technologies through hands-on practical activities and simulations.",
+      "Reinforce theoretical understanding.",
+      "Create a stimulating and supportive learning environment for profound understanding of the subject.",
+      "Prepare learners for further education and careers in Science, Technology, Engineering and Mathematics (STEM).",
+      "Contribute to learners' overall intellectual and personal growth.",
+      "Inspire learners to explore the fascinating world of Physics and appreciate its significance in shaping the future.",
+      "Develop an understanding of the natural world through observation, experimentation, and evidence-based reasoning.",
+      "Prepare learners for future roles as informed and responsible citizens in a scientifically advanced society."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "2.1",
+      "topic_title": "MECHANICS 2",
+      "page_number": 21,
+      "subtopics": [
+        "2.1.1 Work, Energy, and Power",
+        "2.1.2 Linear Momentum",
+        "2.1.3 Simple Machines",
+        "2.1.4 Pressure"
+      ],
+      "specific_outcomes": [
+        "2.1.1.1 Create a system that applies work, energy, and power concepts",
+        "2.1.2.1 Apply the principle of linear momentum in everyday life",
+        "2.1.3.1 Build simple machines to solve real life problems",
+        "2.1.4.1 Apply the principles of pressure to solve real-life problems"
+      ]
+    },
+    {
+      "unit": "2.2",
+      "topic_title": "THERMAL PHYSICS",
+      "page_number": 23,
+      "subtopics": [
+        "2.2.1 Simple Kinetic Theory of Matter",
+        "2.2.2 Measurement of Temperature",
+        "2.2.3 Expansion of Solids, Liquids and Gases",
+        "2.2.4 The Internal Combustion Engine",
+        "2.2.5 Heat Transfer",
+        "2.2.6 Measurement of Heat"
+      ],
+      "specific_outcomes": [
+        "2.2.1.1 Analyse the impact of simple kinetic theory of matter on technological innovations",
+        "2.2.2.1 Measure temperature using appropriate instruments",
+        "2.2.3.1 Demonstrate expansion of solids, liquids and gases",
+        "2.2.4.1 Demonstrate how various internal combustion engines operate (four stroke engine)",
+        "2.2.5.1 Apply the concepts of heat transfer",
+        "2.2.6.1 Solve practical and numerical problems involving measurement of heat"
+      ]
+    },
+    {
+      "unit": "2.3",
+      "topic_title": "WAVE MOTION",
+      "page_number": 26,
+      "subtopics": [
+        "2.3.1 Longitudinal and Transverse Waves",
+        "2.3.2 Electromagnetic Spectrum"
+      ],
+      "specific_outcomes": [
+        "2.3.1.1 Solve practical and numerical problems involving wave motion",
+        "2.3.2.1 Interpret information related to electromagnetic waves"
+      ]
+    },
+    {
+      "unit": "2.4",
+      "topic_title": "SOUND",
+      "page_number": 27,
+      "subtopics": [
+        "2.4.1 Properties and Application of Sound"
+      ],
+      "specific_outcomes": [
+        "2.4.1.1 Manipulate devices to demonstrate fundamental properties of sound"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,845 @@
+{
+    "subject": "Literature in Lunda (Litilicha mu Lunda)",
+    "grade": "Form 1",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "KUWAHA KWA LITILICHA (Introduction to Literature)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Kulumbulula izu da Litilicha (Defining Literature)",
+                    "page": 10,
+                    "competences": [
+                        "Kulumbulula izu da Litilicha (Define the term Literature)",
+                        "Kuwana mazu amaha (Obtain good ideas)",
+                        "Kuhajika mumazavu (Discuss in groups)",
+                        "Kulumbulula zhinhoshelu zhamboka (Explain different concepts)",
+                        "Kwikala na kashinshi munichi chikunku cha ndizilu (Have knowledge in the foundation of lessons)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.1",
+                            "page": 10,
+                            "hook": "Ihulaku atudizi neyi eluka mwalumbulukila izu Litilicha (Ask learners what they know about the definition of Literature)",
+                            "teacher_steps": [
+                                "Zatishaku yikuyuñulu yikukwashi kulumbulula Litilicha (Prepare teaching aids that help explain Literature)",
+                                "Lumbululaku mwamboka mwalumbulukila izu Litilicha (Explain in detail the definition of Literature)",
+                                "Lezhaku kadizi wumu hela eyi aweni kusoneka ha bodi (Have one or more learners write on the board)",
+                                "Hitulukaku hamu nawa tudizi muyuma yamboka yinashimuniwu mwalumbulukila izu Litilicha dinasonekewi habodi (Discuss with learners the different things about the definition of Literature written on the board)"
+                            ],
+                            "learner_steps": [
+                                "Yilezhi atudizi izu Litilicha kwesekezha na mwadilumbulwilawu ansoneki amboka (Learners write the term Literature according to how different authors have defined it)"
+                            ],
+                            "short_notes": "Litilicha yekala munyichidi yiyedi: Ya kushimuna nakanwa na yakusoneka munyikanda (Literature exists in two types: Oral literature and written literature)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.2",
+                            "page": 11,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ihulaku atudizi kwambula chinalumbululiwu izu Litilicha kweseka nawa nsoneki amboka (Ask learners to categorize what has been explained about Literature according to different authors)",
+                                "Zatishaku chati hanansonekiwu nakulumbulula izu Litilicha kudi ansoneki amboka-amboka (Prepare a chart showing the definition of Literature from different authors)",
+                                "Lezhaku kadizi wumu hela eyi aweni kusoneka ha bodi (Have one or more learners write on the board)",
+                                "Hitulukaku hamu nawa tudizi munasaduzholiwu izu Litilicha kwesekezha na chinasonekewi (Discuss with learners what has been analyzed about Literature according to what is written)"
+                            ],
+                            "learner_steps": [
+                                "Sonekaku nakulumbulula izu litilicha munzhila zhiwana kwesekezha (Write and explain the term Literature in ways that agree)",
+                                "Lezhaku atudizi asandi nakusandulula chikupu mwamboka mwalumbulukila izu Litilicha (Have learners analyze and break down the main points about the definition of Literature)"
+                            ],
+                            "short_notes": "Kusanda nakusandulula mwamboka mwalumbulukila izu Litilicha (Analyzing and breaking down the definition of Literature in detail)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.3",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Awani mazu alema alumbululewa Litilichi (Give important ideas that have been explained about Literature)",
+                                "Azatishi mazu alema kutuña nachi kulumbululewa izu Litilicha kuzatisha mazu awu (Use important ideas to create what has been explained about Literature using your own ideas)",
+                                "Alezhi kadizi asoneki nlumbululwilu ya Litilicha yi natuñiwu akwawu ha bodi (Have learners write the definition of Literature they have created on the board)",
+                                "Ahanjiki nakuhituluka mulumbulukila zhinasonekewi ha bodi (Discuss and engage with the definitions written on the board)"
+                            ],
+                            "learner_steps": [
+                                "Kwesekezha nanochu chiwunalumbululi izu Litilicha, sonekaku na kumwekesha walala weyi mukulumbulula izu Litilicha kuzatisha yitalilu yamboka (Based on what you have learned about Literature, write and show others how you define Literature using different examples)"
+                            ],
+                            "short_notes": "Kutuña munalumbululewi Litilicha - Creating your own definition of Literature based on what has been learned"
+                        }
+                    ],
+                    "short_notes": "Iwu mutu wansañu wunakushinshika ha hakuwaha kwa Litilicha. Literature is divided into oral literature (ya kushimuna nakanwa) and written literature (ya kusoneka munyikanda). This unit helps learners understand the foundation of what Literature is, analyze different definitions, and create their own understanding.",
+                    "vocabulary": [
+                        {
+                            "term": "Litilicha",
+                            "definition": "Literature"
+                        },
+                        {
+                            "term": "Nkinji",
+                            "definition": "Irony"
+                        },
+                        {
+                            "term": "Yifwanu",
+                            "definition": "Metaphors"
+                        },
+                        {
+                            "term": "Yifwanisha",
+                            "definition": "Similes"
+                        },
+                        {
+                            "term": "Tushidikilu",
+                            "definition": "Riddles"
+                        },
+                        {
+                            "term": "Yishimu",
+                            "definition": "Proverbs"
+                        },
+                        {
+                            "term": "Tuheka (Twanu)",
+                            "definition": "Poems/Songs"
+                        },
+                        {
+                            "term": "Mpanji",
+                            "definition": "Stories/Narratives"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 13,
+                        "questions": [
+                            "Hakwila wumoni neyi atudizi anelukishi mwalumbulukila izu Litilicha, yihuli atudizi malwihu amboka-mboka haniwu mutu wansa (Check if learners have understood the definition of Literature through various questions)",
+                            "Anukaku neyi kweseka kweniku kunatweshi kwikalaku hampiji yinakutañawu ni hakumanisha (Check if the assessment you give can be done within the teaching period and at the end)",
+                            "Kuyinka mudimu wakuzata hadi mpinji yayilehi, nyidimu yakuzata nakuyimwekesha, kweseka kwakusoneka (Give homework for long-term work, practical demonstration work, written assessment)"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "NYICHIDI YA LITILICHA (Types/Categories of Literature)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Litilicha ya kushimuna nakanwa (Oral Literature)",
+                    "page": 15,
+                    "competences": [
+                        "Alumbululi ha litilicha ya kushimuna na kanwa (Explain oral literature)",
+                        "Ahanjeki mumazanvu ha nyichidi ya Litilicha yakushimuna nakanwa (Discuss in groups about types of oral literature)",
+                        "Awani mazu amaha anakundami ku Litilicha ya kushimuna nakanwa (Give good ideas related to oral literature)",
+                        "Kwikala nakashinshi munichi chikunku cha ndizilu (Have knowledge in the foundation of lessons)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.1",
+                            "page": 15,
+                            "hook": "Kuhosha nkumbu yidi neyi Zambia yetu (Singing a song like 'Our Zambia')",
+                            "teacher_steps": [
+                                "Ihulaku atudizi alumbululi Litilicha ya kushimuna nakanwa (Ask learners to explain oral literature)",
+                                "Zatishaku yikuyuñulu yikukwashiku kulumbulula Litilicha yakushimuna nakanwa (Prepare teaching aids to help explain oral literature)",
+                                "Lumbululaku mwamboka mwalumbulukila Litilicha ya kuhosha nakanwa (Explain in detail the definition of oral literature)",
+                                "Hitulukaku hamu nawa tudizi muyuuma ya mboka yinashimuni mwalumbulukila Litilicha yakushimuna nakanwa yina sonekewi habodi (Discuss with learners the various things about oral literature definition written on the board)"
+                            ],
+                            "learner_steps": [
+                                "Shakamishaku atudizi mumazavu ahanjeki ha nyichidi yamboka ya Litilicha ya kushimuna nakanwa (Divide learners into groups to discuss different types of oral literature)",
+                                "Atudizi asoneki nyichidi ya litilicha yakuhosha mukanwa yitanu (Learners write five types of oral literature)"
+                            ],
+                            "short_notes": "Litilicha yakushimuna nakanwa yekala munyichi yayivulu: Nkumbu, tumina, nyikunyi, tuheka, yisela yishimu... (Oral literature exists in many forms: names, songs, nursery rhymes, poems, stories, proverbs...)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.2",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ihulaku atudizi awani Litilicha ya kushimuna nakanwa (Ask learners to identify oral literature)",
+                                "Zatishaku yikuyuñulu yikuyikwasha atudizi kuwana Litilicha ya kushimuna nakanwa (Prepare teaching aids to help learners identify oral literature)",
+                                "Shakamishaku atudizi mu mazavu nakuyilezha ahanjeki ha Litilicha yakushimuna nakanwa (Divide learners into groups and have them discuss oral literature)",
+                                "Hezavu dezhima hafumi ñimeni wumu yalumbululi yuuma yinahanjekewi (Each group should have one person explain what was discussed)",
+                                "Ntañishi ololi munahanjekiwu atudizi mumazavu (Teacher facilitates the discussion among learner groups)"
+                            ],
+                            "learner_steps": [
+                                "Atudizi ambuli Litilicha ya kushimuna nakanwa (Learners categorize oral literature)",
+                                "Ambuzholaku Litilicha ya kushimuna nakanwa (Differentiate oral literature types)",
+                                "Lezhaku kadizi wumu hela ayedi ashimuni munambwilewu Litilicha ya kushimuna nakanwa (Have one or more learners present the categorized oral literature)",
+                                "Atudizi atuñi nakumwekesha nkumbu, kamina, kaheka hela chisela (Learners create and show names, songs, poems or stories)"
+                            ],
+                            "short_notes": "Oral literature includes: tumina (songs), nkumbu (names), yisela (stories), yishimu (proverbs), tuheka/twanu (poems), nyikunyi (nursery rhymes)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.3",
+                            "page": 18,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kumwesha hatooka mwekalila Litilicha ya kushimuna nakanwa (Show the outline/characteristics of oral literature)",
+                                "Zatishaku yikuyuñulu yikukwashi kumwekesha hatooka mwekalila Litilicha yakushimuna nakanwa (Prepare teaching aids to show characteristics of oral literature)",
+                                "Mwekeshaku hatooka mwekalila Litilicha yakushimuna na kanwa (Show the characteristics of oral literature)",
+                                "Hitulukaku hamu nawa tudizi nakumwekesha hatooka mwekalila Litilicha yakushimu nakanwa (Discuss with learners showing characteristics of oral literature)"
+                            ],
+                            "learner_steps": [
+                                "Atudizi amwekeshi hatooka mwekalila Litilicha ya kushimuna nakanwa (Learners show the characteristics of oral literature)",
+                                "Ntañishi anonuhu atudizi amu ashimuni na kashinshi ha Litilicha ya kushimuna na kanwa (Teacher engages learners to discuss in detail about oral literature)",
+                                "Ololaku nshimwinu na kashinshi ha Litilicha yinashimuniwu atudizi (Facilitate detailed stories about the oral literature discussed by learners)"
+                            ],
+                            "short_notes": "Kulumbulula na kashinshi Litilicha ya kushimuna na kanwa - Explaining oral literature in detail and its characteristics"
+                        }
+                    ],
+                    "short_notes": "Litilicha yakushimuna nakanwa (Oral Literature) is literature transmitted through spoken word. It includes various forms such as songs (tumina), proverbs (yishimu), poems (tuheka), stories (yisela/mpanji), names (nkumbu), and riddles (tushidikilu). This literature is passed from generation to generation orally.",
+                    "vocabulary": [
+                        {
+                            "term": "Nkumbu",
+                            "definition": "Names"
+                        },
+                        {
+                            "term": "Tumina",
+                            "definition": "Songs"
+                        },
+                        {
+                            "term": "Yishimu",
+                            "definition": "Proverbs"
+                        },
+                        {
+                            "term": "Kushindulula",
+                            "definition": "To change/transform"
+                        },
+                        {
+                            "term": "Yizhila",
+                            "definition": "Paths/ways"
+                        },
+                        {
+                            "term": "Tushidikilu",
+                            "definition": "Riddles"
+                        },
+                        {
+                            "term": "Nyikeña",
+                            "definition": "Customs/traditions"
+                        },
+                        {
+                            "term": "Yisela",
+                            "definition": "Stories"
+                        },
+                        {
+                            "term": "Tuheka/Twanu",
+                            "definition": "Poems/Songs"
+                        },
+                        {
+                            "term": "Nyikunyi",
+                            "definition": "Nursery rhymes"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 19,
+                        "questions": [
+                            "Hakwila wumoni neyi atudizi anelukishi mwalumbulukila Litilicha yakushimuna nakanwa, yihuli atudizi malwihu amboka-mboka haniwu mutu wansañu (Check if learners understood the definition of oral literature through various questions)",
+                            "Kuyika mudimu wakuzata hadi mpiji yayilehi (Give long-term homework assignments)",
+                            "Nyidimu yakuzata na kuyimwekesha (Practical demonstration work)",
+                            "Kweseka kwakwila (Assessment through singing tumina, reciting nkumbu, presenting tukeka/twanu...)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Litilicha ya kusoneka munyikanda (Written Literature)",
+                    "page": 19,
+                    "competences": [
+                        "Kulumbulula Litilicha ya kusoneka munyikanda (Explain written literature)",
+                        "Kwambuzhola nyichidi ya litilicha ya kusoneka munyikanda (Differentiate types of written literature)",
+                        "Kulumbulula nakashinshi Litilicha yakusoneka munyikanda (Explain written literature in detail)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.1",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ihulaku atudizi neyi eluka mwalumbulukila Litilicha yakusoneka (Ask learners what they know about the definition of written literature)",
+                                "Zatishaku yikuyuñulu yikukwashi kulumbulula Litilicha yakusoneka (Prepare teaching aids to help explain written literature)",
+                                "Lumbululaku mwamboka mwalumbulukila Litilicha yakusoneka (Explain in detail the definition of written literature)",
+                                "Ntañishi hela atudizi asoneki ha bodi mwalumbulikila Litilicha yakusoneka munyikanda (Teacher or learners write the definition of written literature on the board)",
+                                "Hitulukaku hamu nawa tudizi muyuma yamboka yinashimwinewi Litilicha yakusoneka munyikanda yina sonekewi habodi (Discuss with learners various things about written literature definition written on the board)"
+                            ],
+                            "learner_steps": [
+                                "Atudizi alumbululi Litilicha yakusoneka munyikanda (Learners explain written literature)",
+                                "Yilezhi atudizi amwekeshi litilicha yakusoneka munyikanda (Have learners show written literature)"
+                            ],
+                            "short_notes": "Litilicha yakusoneka munyikanda yekala muyedi: Yakulumbisha ni yakumbula kulumbisha (Written literature exists in two types: Fiction and Non-fiction)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.2",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Zatishaku yikuyuñulu yikukwashiku kwambuzhola nyichidi ya Litilicha ya kusoneka mu nyikanda (Prepare teaching aids to help differentiate types of written literature)",
+                                "Lumbululaku mwakwambwila nyichidi ya Litilicha ya kusoneka munyikanda (Explain how to categorize types of written literature)",
+                                "Yambuli atudizi mu mazavu ambuzholi nyichidi ya Litilicha ya kusoneka (Divide learners into groups to differentiate types of written literature)",
+                                "Atudizi amwekeshi mwanambwiliwu nyichidi ya Litilicha ya kusoneka (Learners show how they have categorized written literature)"
+                            ],
+                            "learner_steps": [
+                                "Sonekaku chambu chidi ha Litilicha ya kulumbisha ni yakumbula kulumbisha (Write the difference between fiction and non-fiction literature)",
+                                "Lumbululaku muwihi nakumwekesha hatooka chekala Litilicha ya kusoneka munyikanda (Explain fully and show the outline of what written literature is)"
+                            ],
+                            "short_notes": "Kwambuzhola nyichidi ya litilicha ya kusoneka munyikanda - Differentiating types of written literature into yakulumbisha (fiction) and yakumbula kulumbisha (non-fiction)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.3",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ihulaku atudizi kulumbulula nakashinshi Litilicha yakusoneka munyikanda (Ask learners to explain written literature in detail)",
+                                "Zatishaku yikuyuñulu yikukwashaku kulumbulula Litilicha yakusoneka munyikanda (Prepare teaching aids to help explain written literature)",
+                                "Lumbululaku nakashinshi mwamboka mwalumbulukila Litilicha ya kusoneka munyikanda (Explain in detail about the definition of written literature)",
+                                "Lezhaku atudizi ekali ayedi-ayedi alumbululi nakashinshi Litilicha yakusoneka munyikanda (Have each learner explain written literature in detail)"
+                            ],
+                            "learner_steps": [
+                                "Kuhitila mukuzatisha yitalilu, lumbululaku na kashinshi Litilicha ya kusoneka mu nyikanda (Through the use of examples, explain written literature in detail)"
+                            ],
+                            "short_notes": "Kulumbulula nakashinshi Litilicha yakusoneka munyikanda - Detailed explanation of written literature, its characteristics, and examples"
+                        }
+                    ],
+                    "short_notes": "Litilicha ya kusoneka munyikanda (Written Literature) is literature recorded in written form. It is divided into: Yakulumbisha (Fiction) - creative/imaginative literature including novels, plays, poetry; and Yakumbula kulumbisha (Non-fiction) - factual literature including essays, biographies, newspapers, magazines.",
+                    "vocabulary": [
+                        {
+                            "term": "Yakulumbisha",
+                            "definition": "Fiction - Creative/imaginative literature"
+                        },
+                        {
+                            "term": "Yakumbula kulumbisha",
+                            "definition": "Non-fiction - Factual literature"
+                        },
+                        {
+                            "term": "Nyikanda",
+                            "definition": "Books/written documents"
+                        },
+                        {
+                            "term": "Makazini",
+                            "definition": "Magazines"
+                        },
+                        {
+                            "term": "Yipapilu ya wakambansañu",
+                            "definition": "Newspapers"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 23,
+                        "questions": [
+                            "Hakwila wumoni neyi litilicha yakusoneka munyikanda yinelukishewi mwaloña, yihuli atudizi malwihu amboka-amboka haniwu mutu wansañu (Check if written literature has been understood well through various questions to learners)",
+                            "Kuyika mudimu wakuzata hadi mpiji ya yilehi (Give long-term homework)",
+                            "Nyidimu ya kuzata na kuyimwekesha (Practical demonstration work)",
+                            "Kweseka kwakusoneka (Written assessment)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "Chambu na kudifwana chekala ha litilicha (Similarities and differences in literature types)",
+                    "page": 23,
+                    "competences": [
+                        "Kwesekezha na kusowashana litilicha ya kushimuna na kanwa ni yakusoneka munyikanda (Compare and contrast oral and written literature)",
+                        "Kulema mwalemena Litilicha (Importance of Literature)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3.1",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ihulaku atudizi awani chambu chekala ha Litilicha ya kushimuna nakanwa naya kusoneka mu nyikanda (Ask learners to identify similarities between oral and written literature)",
+                                "Zatishaku yikuyuñulu yikukwashi kwambula Litilicha ya kushimuna nakanwa naya kusoneka munyikanda (Prepare teaching aids to help categorize oral and written literature)",
+                                "Tenaku zhinzhila zhitanu-zhitanu zhinakulumbulula mwadifwanina ni mwambukila litilicha yakushimuna nakanwa ni yakusoneka munyikanda (Identify five ways that explain similarities and differences between oral and written literature)",
+                                "Zatishaku malwihu wesekezhi nakutala neyi atudizi anakwati yuma yinadiziwu (Prepare questions to check if learners have understood the material)"
+                            ],
+                            "learner_steps": [
+                                "Sonekaku zhinzhila zhitanu-zhitanu mwadifwanina ni mwambukila litilicha yakushimuna nakanwa ni yakusoneka munyikanda (Write five ways showing similarities and differences between oral and written literature)",
+                                "Lezhaku atudizi ahanjeki ha Chambu ni kudifwana kwa litilicha yakushimuna na kanwa ni ya kusoneka munyikanda mumazavu awu (Have learners discuss similarities and differences between oral and written literature in their groups)"
+                            ],
+                            "short_notes": "Similarities: Both tell stories, both have fiction and non-fiction, both convey culture, both teach and entertain. Differences: Oral is transmitted verbally and changes over time; written is permanent and fixed, oral is accessible to all, written requires literacy."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3.2",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ihulaku atudizi ashimuni kulema mwalemena Litilicha ya kushimuna nakanwa niyakusoneka munyikanda (Ask learners to discuss the importance of oral and written literature)",
+                                "Zatishaku yikuyuñulu yikukwashi kulumbulula kulema mwalemena Litilicha ya kushimuna nakanwa ni yakusoneka munyikanda (Prepare teaching aids to help explain the importance of oral and written literature)",
+                                "Lezhaku atudizi ahemi chisela ha kulema mwalemena Litilicha ya kushimuna nakanwa ni ya kusoneka munyikanda (Have learners tell stories about the importance of oral and written literature)"
+                            ],
+                            "learner_steps": [
+                                "Sonekaku yuma yitanu yinakumwekesha kulemesha mwalemena Litilicha ya kushimuna nakanwa ni ya kusoneka munyikanda (Write five things showing the importance of oral and written literature)"
+                            ],
+                            "short_notes": "The importance of literature includes: preserving culture, teaching moral values, entertainment, passing knowledge across generations, developing language skills, and promoting critical thinking."
+                        }
+                    ],
+                    "short_notes": "This section compares oral and written literature, highlighting their similarities (both convey meaning, culture, and education) and differences (transmission method, permanence, accessibility). It also examines the importance of both forms of literature in society.",
+                    "vocabulary": [
+                        {
+                            "term": "Chambu",
+                            "definition": "Similarities/things in common"
+                        },
+                        {
+                            "term": "Kudifwana",
+                            "definition": "Differences"
+                        },
+                        {
+                            "term": "Kusowashana",
+                            "definition": "To contrast"
+                        },
+                        {
+                            "term": "Kwesekezha",
+                            "definition": "To compare"
+                        },
+                        {
+                            "term": "Kulema",
+                            "definition": "Importance/significance"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Hakwila wumoni neyi atudizi aneluki kufwanisha ni kwambula ha litilicha yakushimuna na kanwa ni yakusoneka munyikanda, yihuli atudizi malwihu amboka-mboka (Check if learners can compare and differentiate between oral and written literature through various questions)",
+                            "Kuyika mudimu wakuzata hadi mpiji yayilehi (Give long-term homework)",
+                            "Nyidimu yakuzata na kuyimwekesha (Practical demonstration work)",
+                            "Kweseka kwakusoneka (Written assessment - puzzles, quizzes, various questions)"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "MWAZATILAÑA NYIDIMU YA LITILICHA (Functions/Uses of Literature)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Mwazatikilaña litilicha ya kushimuna nakanwa (Functions of oral literature)",
+                    "page": 27,
+                    "competences": [
+                        "Amwekeshi hatooka mwazatikilaña litilicha ya kushimuna nakanwa ni yakusoneka munyikanda (Show outline of functions of oral and written literature)",
+                        "Kuwana mazu amaha (Obtain good ideas)",
+                        "Kuhanjeka mu mazavu (Discuss in groups)",
+                        "Alumbululi mwazatikilaña litilicha (Explain the functions of literature)",
+                        "Amwekeshi kashinshi ka mwazatikilaña litilicha (Show detailed knowledge of literature functions)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.1",
+                            "page": 28,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ihulaku atudizi asoneki zhizhila mwazatikilaña Litilicha ya kushimuna nakanwa (Ask learners to write ways oral literature is used)",
+                                "Zatishaku yikuyuñulu yikukwashiku kulumbulula mwazatikilaña Litilicha ya kushimuna nakanwa (Prepare teaching aids to help explain functions of oral literature)",
+                                "Lumbululaku mwamboka mwazatikilaña Litilicha ya kushimuna nakanwa (Explain in detail the functions of oral literature)",
+                                "Hitulukaku hamu nawatudizi muyuma yamboka mwazatikilaña litilicha ya kushimuna nakanwa (Discuss with learners various functions of oral literature)"
+                            ],
+                            "learner_steps": [
+                                "Sonekaku yuma yitanu mwazatikilaña litilicha ya kushimuna na kanwa (Write five functions of oral literature)",
+                                "Ambulaku atudizi mu mazavu, atuñina kwimba kamina kanakundami kuyuma yakukashimwisha yina kumwekana muchihadilu chawantu (Divide learners into groups to compose and sing songs related to issues affecting society)"
+                            ],
+                            "short_notes": "Functions of oral literature include: entertainment (atiyañani mwashikila), teaching each other (kuditiyilila wumu namukwawu), warning each other (kudanukisha wumu na mukwawu), preserving culture, moral education, social cohesion."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.2",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alumbululi nakashinshi mwazatikilaña Litilicha ya kushimuna nakanwa mu yuma ya mwekanaña muchihadilu cha wantu (Explain in detail functions of oral literature in social issues)",
+                                "Zatishaku yikuyuñulu yikukwashi kulumbulula mwazatikilaña Litilicha ya kushimuna nakanwa mu yumaya mwekanaña muchihadilu chawantu (Prepare teaching aids to explain functions of oral literature in social context)",
+                                "Hitulukaku hamu nawatudizi mu yuma yamboka yidi nakutala mwazatikilaña Litilicha ya kushimuna nakanwa kukwashaku kulumbulula yuma yamwekanaña chakukasumwisha muchihadilu chawantu (Discuss with learners various ways oral literature functions help explain social issues affecting the community)"
+                            ],
+                            "learner_steps": [
+                                "Ambulaka atudizi mu mazavu atuñi nakwimba tumina tunakundami kuyuma yinakumwekana muchihadilu cha wantu (Divide learners into groups to create and sing songs related to social issues)",
+                                "Lezhaku atudizi ashakami mu mazavu a hanjeki nakumwekesha mwazatikilaña Litilicha ya kushimuna nakanwa (Have learners divide into groups to discuss and show functions of oral literature)",
+                                "Sonekaku yuuma yitanu mwazatikilaña Litilicha yakushimuna nakanwa (Write five functions of oral literature)"
+                            ],
+                            "short_notes": "Oral literature serves to address social problems such as: moral decay (mazhika kanwa/maseleka), encouraging development (kuhimpika kwa muluzwizwu), fighting corruption (kuseluzhola), promoting unity, and preserving indigenous knowledge."
+                        }
+                    ],
+                    "short_notes": "Functions of oral literature (mwazatikilaña litilicha ya kushimuna nakanwa) include: entertainment, education, socialization, cultural preservation, moral instruction, addressing social issues, and promoting community values. Forms include: tuheka/twanu (poems), tumina (songs), yishimu (proverbs), tukasa madimi (tongue twisters), kushimununa (narratives).",
+                    "vocabulary": [
+                        {
+                            "term": "Mwazatikilaña",
+                            "definition": "Functions/uses/applications"
+                        },
+                        {
+                            "term": "Atiyañani mwashikila",
+                            "definition": "Entertain well"
+                        },
+                        {
+                            "term": "Kuditiyilila wumu namukwawu",
+                            "definition": "Teaching each other"
+                        },
+                        {
+                            "term": "Kudanukisha wumu na mukwawu",
+                            "definition": "Warning each other"
+                        },
+                        {
+                            "term": "Mazhika kanwa/Maseleka",
+                            "definition": "Corruption/moral decay"
+                        },
+                        {
+                            "term": "Kuhimpika kwa muluzwizwu",
+                            "definition": "Development/progress"
+                        },
+                        {
+                            "term": "Kuseluzhola",
+                            "definition": "Fighting against/opposing"
+                        },
+                        {
+                            "term": "Tukasa madimi",
+                            "definition": "Tongue twisters"
+                        },
+                        {
+                            "term": "Kushimununa",
+                            "definition": "Narratives/storytelling"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 32,
+                        "questions": [
+                            "Hakwila wumoni neyi mwazatikilaña litilicha ya kushimuna nakanwa muna sonekewi mwaloña, yihuli atudizi malwihu amboka-mboka (Check if functions of oral literature have been written correctly through various learner questions)",
+                            "Hakachi kazhila zhiwunatweshi kuzatisha kushimuna nachu litilicha ya kushimuna nakanwa kudi atudizi (Use methods to have learners perform oral literature)",
+                            "Kuyika mudimu wakuzata hadi mpiji ya yilehi (Give long-term homework)",
+                            "Nyidimu ya kuzata na kuyimwekesha (Practical demonstration work)",
+                            "Kweseka kwa kusoneka (Written assessment)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "Mwazatikilaña Litilicha ya kusoneka munyikanda (Functions of written literature)",
+                    "page": 33,
+                    "competences": [
+                        "Amwekeshi hatooka mwazatikilaña Litilicha ya kusoneka munyikanda (Show outline of functions of written literature)",
+                        "Alumbululi nakashinshi mwazatikilaña Litilicha ya kusoneka munyikanda (Explain in detail the functions of written literature)",
+                        "Kumwekesha walala mwazatikilaña Litilicha (Show clearly the functions of Literature)",
+                        "Alumbululi nakashinshi mwazatikilaña Litilicha ya kusoneka munyikanda mukukasununa yitoñozhoka ya wantu (Explain in detail functions of written literature in decolonizing people's mindset)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.1",
+                            "page": 33,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ihulaku atudizi amwekeshi mwazatikilaña Litilicha yakusoneka munyikanda (Ask learners to show functions of written literature)",
+                                "Zatishaku yikuyuñulu yikukwashiku ku mwekesha hatooka mwazatikilaña Litilicha yakusoneka munyikanda (Prepare teaching aids to show outline of functions of written literature)",
+                                "Lumbululaku mwakumwekeshela hatooka mwazatikilaña Litilicha ya kusoneka munyikanda (Explain how to show the outline of functions of written literature)",
+                                "Atudizi ayi mumazavu ahanjeki nakumwekesha hatooka mwazatikilaña Litilicha ya kusoneka munyikanda (Learners go into groups to discuss and show outline of functions of written literature)",
+                                "Hitulukakumu nawa tudizi nakutala kumwekesha hatooka mwazatilkilaña Litilicha ya kusoneka munyikanda (Discuss with learners about showing the outline of functions of written literature)"
+                            ],
+                            "learner_steps": [
+                                "Atudizi asoneki nakumwekesha yuma yitanu mwazatikilaña Litilicha ya kusoneka munyikanda (Learners write and show five functions of written literature)",
+                                "Lumbululaku nakashinshi mwazatikilaña Litilicha yakusoneka munyikanda kuhitila muyitalilu (Explain in detail the functions of written literature through examples)"
+                            ],
+                            "short_notes": "Functions of written literature include: preserving knowledge permanently, educating masses, entertainment, cultural documentation, historical record-keeping, promoting literacy, and social commentary."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.2",
+                            "page": 36,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kumwekesha mwazatikilaña Litilicha kukwashaku antu kwimika mushindu muyuma yamwekanaña yakukasumwisha (Show how literature functions help people stand against oppressive issues)",
+                                "Zatishaku yikuyuñulu yikukwashiku mwakutweshela kukañesha yuma yamwekanaña mukuhanda kwawantu chakukasumwisha (Prepare teaching aids to help address issues affecting people's lives oppressively)",
+                                "Lumbululaku mwamboka mwakuzatishila Litilicha ya kusoneka munyikanda muyatela kukukwashila kukañesha yuma yamwekanaña mukuhanda kwawantu chakukasumwisha (Explain in detail how to use written literature to help address issues affecting people's lives oppressively)",
+                                "Lezhaku kadizi wumu hela ayedi alumbululi mwakuzatishila Litilicha kukwashaku kukañesha yuma yamwekanaña muchihandilu cha wantu munzhila yakukasumbwisha (Have one or more learners explain how to use Literature to help address issues affecting people's community oppressively)"
+                            ],
+                            "learner_steps": [
+                                "Atudizi ayi mu mazavu nakwila yuma yidi neyi, yikulishi, nkumbu, chisela akwashiku kukañesha yamwekanaña mukuhanda kwawantu yakukasumwisha (Learners go into groups on issues like drama, names, stories that can help address issues affecting people's lives oppressively)",
+                                "Alumbululi nakashinshi mwazatikilaña Litilicha ya kusoneka munyikanda mukukasununa yitoñozhoka ya wantu (Explain in detail functions of written literature in decolonizing people's mindset)"
+                            ],
+                            "short_notes": "Written literature serves to: challenge oppression, decolonize mindsets (kukasununa yitoñozhoka ya wantu), promote social justice, critique corruption (mazhika kanwa), encourage development (kuhimpa cha muluzwizu), and preserve indigenous perspectives."
+                        }
+                    ],
+                    "short_notes": "Functions of written literature (mwazatikilaña Litilicha ya kusoneka munyikanda) include both general functions (education, entertainment, cultural preservation) and critical functions (decolonizing thought, social critique, promoting justice). Written literature types include yakulumbisha (fiction: tuheka/poems, yikulishi/dramas, nshimwinu/narratives) and yakumbula kulumbisha (non-fiction: yipapilu ya kamba nsañu/newspapers, makazini/magazines).",
+                    "vocabulary": [
+                        {
+                            "term": "Kukasununa",
+                            "definition": "Decolonizing/liberating"
+                        },
+                        {
+                            "term": "Yitoñozhoka",
+                            "definition": "Mindset/perspective/worldview"
+                        },
+                        {
+                            "term": "Yikulishi",
+                            "definition": "Dramas/plays"
+                        },
+                        {
+                            "term": "Nshimwinu",
+                            "definition": "Narratives/stories"
+                        },
+                        {
+                            "term": "Makazini",
+                            "definition": "Magazines"
+                        },
+                        {
+                            "term": "Yipapilu ya kamba nsañu",
+                            "definition": "Newspapers"
+                        },
+                        {
+                            "term": "Kuhimpa cha muluzwizu",
+                            "definition": "Development/progress"
+                        },
+                        {
+                            "term": "Kudiseluzhola",
+                            "definition": "To fight against/oppose"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 38,
+                        "questions": [
+                            "Hakwila wumoni neyi atudizi aneluki kuzatisha litilicha ya kusoneka mu nyikanda na kukasununa yitoñozhoka ya wantu, yihulu malwihu amboka (Check if learners can use written literature to decolonize people's mindset through various questions)",
+                            "Kuyika mudimu wakuzata ha mpiji ya yilehi (Give long-term homework)",
+                            "Nyidimu ya kuzata nakuyimwekesha (Practical demonstration work)",
+                            "Kweseka kwa kusoneka (Written assessment - puzzles, quizzes, various questions)"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "LITILICHA YAKUSHIMUNA NA KANWA (Oral Literature)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Chikunku chanshimwinu yekala mu Litilicha mukuhanda kwawantu (Foundation of narratives in Literature within people's society)",
+                    "page": 38,
+                    "competences": [
+                        "Ahanjiki nyidimu ya Litilicha muchihadilu chawantu (Discuss the work of Literature in people's society)",
+                        "Awani mazu amaha (Obtain good ideas)",
+                        "Alumbululi nhoshelu zhamboka (Explain different concepts)",
+                        "Atiyañanitiyañana wumu namukwawu (Entertain one another)",
+                        "Adanukisha wumu namukwawu (Warn one another)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.1",
+                            "page": 40,
+                            "hook": "Lezhaku kadizi wumu atumbuli kamina kiyembaña hachidika chamukanda (Have one learner sing a song that relates to the topic of the unit)",
+                            "teacher_steps": [
+                                "Kunjikaku nyidimu ya Litilicha yidi neyi tumina, yishimu, tuheka/twanu, nkumbu… mu chihandilu (Mention works of Literature such as songs, proverbs, poems, names... in society)",
+                                "Zatishaku yikuyuñulu yikukwashiku kulumbulula mwazatikilaña nyidimu ya Litilicha mu chihandilu chawu chezhima (Prepare teaching aids to help explain functions of Literature work in your entire society)",
+                                "Lumbululaku mwamboka mwalumbulukila nyidimu ya Litilicha muchihandilu chawantu (Explain in detail the definition of Literature work in people's society)",
+                                "Lezhaku atudizi ayi nakuloñesha kamina kakusambilila nachu mwanta (Have learners go and show/perform a song that greets like a prayer)"
+                            ],
+                            "learner_steps": [
+                                "Sonekaku mwamboka mwalumbulukila nyidimu ya Litilicha muchihandilu chawantu (Write in detail the definition of Literature work in people's society)",
+                                "Ihulaku atudizi akeñakeñi yuma yamuchihandilu chetu yatukwashañaku kutulezha nyidimu ya Litilicha (Ask learners to identify things in our society that help us understand Literature work)"
+                            ],
+                            "short_notes": "Literature work in society includes: preservation of culture and traditions, moral education through stories and proverbs, entertainment, historical documentation, socialization, and community bonding. Key terms: wushona (heritage), chituñi (creation), kulumbisha (fiction), maana amaha (good ideas), yiwumbeka-wumba (creativity), chisemwa (culture), yikuhwelelu (capabilities), maana amuchituňilu (creative ideas)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.2",
+                            "page": 42,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Zatishaku yikuyuñulu yikukwashi kukeñakeña yuma yakwashanaña kwilukisha nyidimu ya Litilicha muchihandilu cha wantu (Prepare teaching aids to help identify things that help understand Literature work in people's society)",
+                                "Ihulaku mwamboka mwakukuñulwila yuma yamuchihandilu chawantu yakwashanaña kwilukisha nyidimu ya Litilicha (Ask in detail about things in people's society that help understand Literature work)",
+                                "Atudizi ayi mumazavu akuñululi yuma yamuchihandilu chawantu yakwashanaña kwilukisha nyidimu ya Litilicha (Learners go into groups to identify things in people's society that help understand Literature work)",
+                                "Lezhaku atudizi alumbululi yuma yinawaniwu (Have learners explain the things they found)"
+                            ],
+                            "learner_steps": [
+                                "Sonekalu yuma yitanu ya kwashanaña kwilukisha nyidimu ya Litilicha (Write five things that help understand Literature work)",
+                                "Lumbululaku zhinzhila mwakwashenaña yiwumbeka mukulumbulwisha nyidimu ya Litilicha (Explain ways that help creativity in teaching Literature work)"
+                            ],
+                            "short_notes": "Things that help understand Literature include: cultural practices (yiwumbeka), creative expression, social interactions, traditional ceremonies, storytelling sessions, communal gatherings, and observing how literature addresses social issues like corruption, development, and unity."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.3",
+                            "page": 43,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Zatishaku yikuyuñulu yikukwasha kukundamisha nyidimu ya Litilicha ku maana amuchihandilu chawantu (Prepare teaching aids to help connect Literature work to ideas in people's society)",
+                                "Lumbululaku mwamboka mwakundamishila nyidimu ya Litilicha ku maana amuchihandilu chawantu (Explain in detail how to connect Literature work to ideas in people's society)",
+                                "Atudizi ayi mumazavu ahanjeki mwakukundamisha nyidimu ya Litilicha (tumina, yishimu, tuheka) kumaana muchihandilu chawantu (Learners go into groups to discuss how to connect Literature work - songs, proverbs, poems - to ideas in people's society)",
+                                "Hitulukaku hamu nawa tudizi hayuma yinakundamishuwu ya kunyidimu kunyidimu ya Litilicha mumaana amuchihandilu chawantu (Discuss with learners the things that connect Literature work to ideas in people's society)"
+                            ],
+                            "learner_steps": [
+                                "Sonekaku nakulumbulula yuuma yitanu mwakukundamishila nyidimu ya Litilicha muchihandilu chawantu (Write and explain five things about how Literature work connects to people's society)"
+                            ],
+                            "short_notes": "Literature connects to society through: teaching moral lessons (chiyulu), helping people develop skills (mwakuhwelela antu), creating good ideas (kuzatisha maana amaha), addressing social problems, preserving culture, and promoting community values."
+                        }
+                    ],
+                    "short_notes": "This section explores how oral literature functions as a foundation in society. It examines the role of different forms (tumina, yishimu, tuheka, yisela, nkumbu, chiyulu) in preserving culture, teaching morals, entertainment, and social cohesion. Literature is connected to societal values and addresses contemporary issues.",
+                    "vocabulary": [
+                        {
+                            "term": "Wushona",
+                            "definition": "Heritage/inheritance"
+                        },
+                        {
+                            "term": "Chituñi",
+                            "definition": "Creation/creative work"
+                        },
+                        {
+                            "term": "Kulumbisha",
+                            "definition": "Fiction/imaginative literature"
+                        },
+                        {
+                            "term": "Maana amaha",
+                            "definition": "Good ideas/valuable thoughts"
+                        },
+                        {
+                            "term": "Yiwumbeka-wumba",
+                            "definition": "Creativity/creative expression"
+                        },
+                        {
+                            "term": "Chisemwa",
+                            "definition": "Culture/customs"
+                        },
+                        {
+                            "term": "Yikuhwelelu",
+                            "definition": "Capabilities/abilities"
+                        },
+                        {
+                            "term": "Maana amuchituňilu",
+                            "definition": "Creative ideas/imaginative thoughts"
+                        },
+                        {
+                            "term": "Chiyulu",
+                            "definition": "Education/learning"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 41,
+                        "questions": [
+                            "Hakwila wumoni neyi atudizi aneluki yuma yekala mukachi ka Litilicha yinakunjikewi mwawanina (Check if learners understand things found in literature content adequately)",
+                            "Kuyika mudimu wakuzata hampiji yayilehi (Give long-term homework)",
+                            "Nyidimu yakuzata nakuyimwekesha (Practical demonstration work)",
+                            "Kweseka kwakusoneka (Written assessment - puzzles, quizzes, various questions)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.2",
+                    "title": "Nyichidi ya Litilicha ya kushimuna nakanwa (Types of oral literature)",
+                    "page": 44,
+                    "competences": [
+                        "Kuhanjeka hanyichidi ya litilicha yakushimuna nakanwa (Discuss types of oral literature)",
+                        "Kulumbulula nyichidi ya Litilicha (Explain types of Literature)",
+                        "Kutena yitalilu ya nyichidi ya Litilicha (Identify examples of Literature types)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2.1",
+                            "page": 44,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Atudizi awani nyichidi ya Litilicha ya kushimuna nakanwa (Learners identify types of oral literature)",
+                                "Zatishaku yikuyuñulu yikukwashi kuwana nyichidi ya litilicha ya kushimuna nakanwa (Prepare teaching aids to help identify types of oral literature)",
+                                "Lumbululaku mwakuwanina nyichidi ya Litilicha ya kushimuna nakanwa (Explain how to identify types of oral literature)",
+                                "Atudizi ayi mu mazavu nakuhanjeka ha mwakuwanina nyichidi ya Litilicha ya kushimuna nakanwa (Learners go into groups to discuss how to identify types of oral literature)",
+                                "Añimeni amu mazavu ashimuni yuma yinawaniwu (Group representatives present what they found)",
+                                "Hitulukaku hamu nawatudizi hayuma yinawaniwu (Discuss with learners the things they found)"
+                            ],
+                            "learner_steps": [
+                                "Atudizi awani nakusoneka nyichidi yitanu ya Litilicha ya kushimuna nakanwa (Learners identify and write five types of oral literature)",
+                                "Yilezhi atudizi asoneki yuma yitanu mwalumbulukila nyichidi ya Litilicha ya kushimuna nakanwa (Have learners write five things about explaining types of oral literature)"
+                            ],
+                            "short_notes": "Types of oral literature include: Tuheka/twanu (poems/songs), Yishimu (proverbs), Tumina (songs), Nkumbu (names), Yakushimununa (narratives), Tushidikilu (riddles), Nyikunyi (nursery rhymes), Mukeña (customs/traditions)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2.2",
+                            "page": 45,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ihulaku atudizi alumbululi nyichidi ya Litilicha yakushimuna nakanwa (Ask learners to explain types of oral literature)",
+                                "Zatishaku yikuyuñulu yikukwashi kulumbulula nyichidi ya Litilicha ya kushimuna nakanwa (Prepare teaching aids to help explain types of oral literature)",
+                                "Shimunaku mwalumbulukila nyichidi ya Litilicha ya kushimuna nakanwa (Discuss the definition of types of oral literature)",
+                                "Ihulaku atudizi alumbululi nyichidi ya Litilicha yakushimuna nakanwa (Ask learners to explain types of oral literature)",
+                                "Hitulukakumu hamu nawatudizi mu yuma yamboka-amboka yinashimuniwu (Discuss with learners various things that were discussed)"
+                            ],
+                            "learner_steps": [
+                                "Yilezhi atudizi asoneki yuma yitanu mwalumbulukila nyichidi ya Litilicha ya kushimuna nakanwa (Have learners write five things about explaining types of oral literature)",
+                                "Tenaku yitalilu ya nyichidi ya Litilicha ya kushimuna nakanwa (Identify examples of types of oral literature)"
+                            ],
+                            "short_notes": "Detailed explanation of oral literature types and their characteristics, with examples from Lunda culture. Each type serves specific functions in society."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2.3",
+                            "page": 46,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Zatishaku yikuyuñulu yikukwashi kutena yitalilu yanyichidi ya Litilicha ya kushimuna nakanwa (Prepare teaching aids to help identify examples of types of oral literature)",
+                                "Atudizi ayi mu mazavu nakuhanjeka ha yitalilu ya nyichidi ya Litilicha ya kushimuna nakanwa yidi neyi; twanu, nkumbu, yishimu, tukasa madimi, tumina, nyikunyi, mukeña (Learners go into groups to discuss examples of types of oral literature such as poems, names, proverbs, tongue twisters, songs, nursery rhymes, customs)",
+                                "Hitulukaku hamu nawa tudizi hayuma yanawaniwu (Discuss with learners the things they found)"
+                            ],
+                            "learner_steps": [
+                                "Yilezi atudizi asoneki yitalilu yitanu nakamu yanyichidi ya Litilicha ya kushimuna nakanwa (Have learners write five or more examples of types of oral literature)"
+                            ],
+                            "short_notes": "Practical identification and creation of examples from each type of oral literature, demonstrating understanding through performance and written work."
+                        }
+                    ],
+                    "short_notes": "This section provides detailed study of oral literature types (nyichidi ya Litilicha ya kushimuna nakanwa): Tuheka/twanu (poems), Tumina (songs), Yishimu (proverbs), Nkumbu (names), Tushidikilu (riddles), Nyikunyi (nursery rhymes), Yakushimununa (narratives), Tukasa madimi (tongue twisters), and Mukeña (customs). Each type has specific characteristics, functions, and examples from Lunda culture.",
+                    "vocabulary": [
+                        {
+                            "term": "Tuheka/Twanu",
+                            "definition": "Poems/Songs"
+                        },
+                        {
+                            "term": "Yishimu",
+                            "definition": "Proverbs"
+                        },
+                        {
+                            "term": "Tumina",
+                            "definition": "Songs"
+                        },
+                        {
+                            "term": "Nkumbu",
+                            "definition": "Names"
+                        },
+                        {
+                            "term": "Tushidikilu",
+                            "definition": "Riddles"
+                        },
+                        {
+                            "term": "Nyikunyi",
+                            "definition": "Nursery rhymes"
+                        },
+                        {
+                            "term": "Yakushimununa",
+                            "definition": "Narratives/oral stories"
+                        },
+                        {
+                            "term": "Tukasa madimi",
+                            "definition": "Tongue twisters"
+                        },
+                        {
+                            "term": "Mukeña",
+                            "definition": "Customs/traditions"
+                        },
+                        {
+                            "term": "Yitalilu",
+                            "definition": "Examples"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 46,
+                        "questions": [
+                            "Hakwila womoni neyi atidizi anelukishi yitalilu yanyichidi ya Litilicha yakushimuna nakanwa (Check if learners understand examples of types of oral literature)",
+                            "Yihuli atudizi malwihu amboka-amboka haniwu mutu wansañu (Give learners various questions in this unit)",
+                            "Kuyinka mudimu wakuzata hampinji yayilehi (Give long-term homework)",
+                            "Nyidimu yakuzata nakuyimwekesha (Practical demonstration work)",
+                            "Kweseka kwakusoneka (Written assessment - puzzles, quizzes, various questions)"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

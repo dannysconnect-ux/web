@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 2",
+    "subject": "Principles of Accounts",
+    "philosophy": "The syllabus for Principles of Accounts equips learners with knowledge, skills and positive values to be able to engage in and contribute to national development. The subject covers topics such as accounting concepts, business transactions, ledgers, subsidiary books and financial statements, equipping learners with knowledge and skills to understand, record financial transactions and prepare financial statements.",
+    "competence_learning": "The Competence Based Curriculum utilises a learner-centred approach, which entails that the teaching and learning process is learner-centred in nature. The emphasis is on what learners are expected to do rather than what they are expected to know, ensuring that learners develop competences that can contribute to the development of society.",
+    "goals": [
+      "Record Business Transactions in the Subsidiary Books",
+      "Prepare the Trial Balance",
+      "Classify Capital and Revenue Receipts and Expenditure",
+      "Prepare the Statement of Profit or Loss",
+      "Draw up the Statement of Financial Position using the accounting equation method",
+      "Calculate profit and loss",
+      "Calculate Accounting Ratios"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "2.1",
+      "topic_title": "BOOKS OF PRIME ENTRY",
+      "page_number": 36,
+      "subtopics": [
+        "2.1.1 Types of Books of Prime Entry"
+      ],
+      "specific_outcomes": [
+        "2.1.1.1 Record Business Transactions in the Books of Prime Entry",
+        "2.1.1.2 Post Business Transactions to the Ledger"
+      ]
+    },
+    {
+      "unit": "2.2",
+      "topic_title": "TRIAL BALANCE",
+      "page_number": 37,
+      "subtopics": [
+        "2.2.1 Extracting the Trial Balance"
+      ],
+      "specific_outcomes": [
+        "2.2.1.1 Prepare the Trial Balance"
+      ]
+    },
+    {
+      "unit": "2.3",
+      "topic_title": "CAPITAL AND REVENUE RECEIPTS AND EXPENDITURE",
+      "page_number": 37,
+      "subtopics": [
+        "2.3.1 Capital and Revenue Receipts and Expenditure"
+      ],
+      "specific_outcomes": [
+        "2.3.1.1 Classify Capital and Revenue Receipts and Expenditure"
+      ]
+    },
+    {
+      "unit": "2.4",
+      "topic_title": "FINANCIAL STATEMENTS OF A SOLE TRADER",
+      "page_number": 38,
+      "subtopics": [
+        "2.4.1 Statement of Profit or Loss (Income Statement)",
+        "2.4.2 Statement of Financial Position (Balance Sheet)"
+      ],
+      "specific_outcomes": [
+        "2.4.1.1 Prepare the Statement of Profit or Loss",
+        "2.4.2.1 Prepare the Statement of Financial Position/Balance Sheet"
+      ]
+    },
+    {
+      "unit": "2.5",
+      "topic_title": "INTRODUCTION TO ACCOUNTING RATIOS",
+      "page_number": 39,
+      "subtopics": [
+        "2.5.1 Accounting Ratios"
+      ],
+      "specific_outcomes": [
+        "2.5.1.1 Calculate Accounting Ratios"
+      ]
+    }
+  ]
+}

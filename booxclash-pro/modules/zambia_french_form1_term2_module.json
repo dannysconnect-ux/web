@@ -1,0 +1,1507 @@
+{
+  "subject": "French Language",
+  "grade": "Form 1",
+  "term": 2,
+  "topics": [
+    {
+      "topic_id": "1.6.0",
+      "topic_title": "Attributes of a Person or Thing",
+      "overview": "This topic discusses qualities, characteristics or features that define a person or thing. It explores physical attributes of a person such as height, weight, eye colour, complexion and personality traits such as kindness, honesty, patience, confidence.",
+      "general_competences": [
+        "Communication: Use appropriate language when describing a person or a thing in French",
+        "Communication: Express oneself clearly, effectively and take turns when conversing with others",
+        "Emotional intelligence: Express empathy for other people",
+        "Emotional intelligence: Relate effectively with others as they discuss their different personalities"
+      ],
+      "hook": "Display a set of images of animals or objects depicting different emotions, sizes, colours and other qualities. Ask the learners to describe each one of them using adjectives they already know e.g petit/e, grand, content.",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.6.1",
+          "title": "Colours",
+          "page": 6,
+          "introduction": "This sub topic focuses on colours. Colours are one of the first vocabulary sets learners learn. They are easy to visualize and use in everyday life, making them a great starting point for language learning. Knowing colours helps learners to describe objects, clothes, food and the world around them.",
+          "competences": [
+            "1.6.1.1: Express preferences for colours in French",
+            "1.6.1.2: Distinguish gender in colours"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 7,
+              "hook": "Identifying colours of objects (rouge, jaune, verte)",
+              "teacher_steps": [
+                "Provide a dialogue on colours",
+                "Provide different objects with colours mentioned in the dialogue for learners to see",
+                "Introduce other colours to the learners (vert/e, gris, jaune, orange etc)"
+              ],
+              "learner_steps": [
+                "Learners listen to a dialogue/conversation on colours and identify the names of colours in French"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 8,
+              "hook": "Discussing one's preferences for colours (j'aime/ je n'aime pas la couleur verte)",
+              "teacher_steps": [
+                "Conjugate le verbe 'aimer' and préférer",
+                "Explain la négation 'ne…. pas' structure",
+                "Guide learners to construct sentences using 'ne … pas' for their colour preferences"
+              ],
+              "learner_steps": [
+                "In groups, learners talk about colour preferences using the verbs 'aimer' and 'préférer (positive and negative form)",
+                "Learners construct sentences using 'ne … pas' for their colour preferences"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3",
+              "page": 8,
+              "hook": "Drawing and coloring the Flag of Zambia",
+              "teacher_steps": [
+                "Guide learners to mention colours of the Flag of Zambia in French"
+              ],
+              "learner_steps": [
+                "Learners mention colours of the Flag of Zambia in French",
+                "Learners draw the Flag of Zambia and label the colours in French"
+              ]
+            }
+          ],
+          "short_notes": "Colours in French: Les couleurs - vert/verte, rouge, orange, noir/noire blanc, blanche (masculin/féminin) rouge, jaune, bleu/bleue, brun/brune, marron, rose. Content tips: Colours that end with '-e' do not change form according to gender e.g le pantalon rouge, la robe rouge. Some colours agree in gender and number with the noun e.g Un sac bleu - des sacs bleus, Une robe verte - des robes vertes. If a noun is feminine, many colour adjectives take an '-e' at the end e.g une robe bleue, une pomme verte. Some colours change form to agree with the noun's gender and number e.g blanc(m)/blanche(f) e.g un mur blanc, une robe blanche.",
+          "vocabulary": [
+            {
+              "term": "Les couleurs",
+              "definition": "Colours"
+            },
+            {
+              "term": "rouge",
+              "definition": "red"
+            },
+            {
+              "term": "jaune",
+              "definition": "yellow"
+            },
+            {
+              "term": "bleu/bleue",
+              "definition": "blue (masculine/feminine)"
+            },
+            {
+              "term": "vert/verte",
+              "definition": "green (masculine/feminine)"
+            },
+            {
+              "term": "blanc/blanche",
+              "definition": "white (masculine/feminine)"
+            },
+            {
+              "term": "noir/noire",
+              "definition": "black (masculine/feminine)"
+            },
+            {
+              "term": "orange",
+              "definition": "orange"
+            },
+            {
+              "term": "rose",
+              "definition": "pink"
+            },
+            {
+              "term": "marron",
+              "definition": "brown"
+            },
+            {
+              "term": "aimer",
+              "definition": "to like/love"
+            },
+            {
+              "term": "préférer",
+              "definition": "to prefer"
+            }
+          ],
+          "assessment": {
+            "page": 9,
+            "questions": [
+              "Express preferences for colours in French correctly",
+              "Distinguish gender in colours correctly"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.6.2",
+          "title": "Physical Characteristics and Personality",
+          "page": 9,
+          "introduction": "This subtopic will enhance learners' communication skills, understanding of cultural contexts and will enable them express themselves with confidence as they describe characteristics of a person and objects by using adjectives related to traits in French.",
+          "competences": [
+            "1.6.2.1: Describe someone's physical characteristics and personality in French"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 10,
+              "hook": "Identifying physical characteristics and personality (cheveux longs, les yeux bruns)",
+              "teacher_steps": [
+                "Draw 'le corps humain' and label the external parts in French (la tête, les cheveux, les yeux, le nez, les oreilles, la bouche etc)",
+                "Guide learners to read and pronounce the body parts in French correctly"
+              ],
+              "learner_steps": [
+                "Learners read and pronounce the body parts in French correctly",
+                "In groups, learners identify the physical characteristics of people from the images or pictures displayed"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 10,
+              "hook": "Discussing adjectives in French",
+              "teacher_steps": [
+                "Provide sentences in French in which adjectives describing physical characteristics of a person or thing have been used",
+                "Guide learners to identify adjectives used in the given sentences"
+              ],
+              "learner_steps": [
+                "Learners identify adjectives used in the given sentences"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3",
+              "page": 11,
+              "hook": "Describing a person or an object using information provided",
+              "teacher_steps": [
+                "Guide learners to describe a friend or family members",
+                "Discuss irregular adjectives (adjectives ending in - x,-f, -er, -on, -en, -el, and il)"
+              ],
+              "learner_steps": [
+                "In pairs, learners describe a friend or family members using the vocabulary learned",
+                "Write a guided composition on describing a person using a picture"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 4",
+              "page": 11,
+              "hook": "Discussing the expressions used to describe ones personality",
+              "teacher_steps": [
+                "Introduce adjectives used to describe ones personality (heureux, intelligent, content/e, paresseux)"
+              ],
+              "learner_steps": [
+                "Learners role-play describing someone's personality e.g. Mon frère est calme, Ma mère est timide"
+              ]
+            }
+          ],
+          "short_notes": "Physical characteristics vocabulary: la tête, les cheveux, les yeux, le nez, les oreilles, la bouche. Expressions: Il/Elle est comment? Comment est-il/elle? Il/elle est petit/petite, grand/grande, gros/grosse, mince. Grammar: Le comparatif - Il/Elle est plus +(adjectif) que, Il/Elle est moins+(adjectif) que. Adjectives must agree with the thing they are describing in gender and number. Add an 'e' to the describing word if the word being described is feminine. Adjectives ending in 'e' don't need to add an extra 'e' when dealing with gender.",
+          "vocabulary": [
+            {
+              "term": "la tête",
+              "definition": "the head"
+            },
+            {
+              "term": "les cheveux",
+              "definition": "the hair"
+            },
+            {
+              "term": "les yeux",
+              "definition": "the eyes"
+            },
+            {
+              "term": "le nez",
+              "definition": "the nose"
+            },
+            {
+              "term": "les oreilles",
+              "definition": "the ears"
+            },
+            {
+              "term": "la bouche",
+              "definition": "the mouth"
+            },
+            {
+              "term": "petit/petite",
+              "definition": "small (masculine/feminine)"
+            },
+            {
+              "term": "grand/grande",
+              "definition": "tall/big (masculine/feminine)"
+            },
+            {
+              "term": "gros/grosse",
+              "definition": "fat (masculine/feminine)"
+            },
+            {
+              "term": "mince",
+              "definition": "thin"
+            },
+            {
+              "term": "beau/belle",
+              "definition": "handsome/beautiful"
+            },
+            {
+              "term": "heureux/heureuse",
+              "definition": "happy (masculine/feminine)"
+            }
+          ],
+          "assessment": {
+            "page": 12,
+            "questions": [
+              "Physical characteristics and personalities described correctly"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "1.7.0",
+      "topic_title": "Numeracy",
+      "overview": "Numeracy refers to the ability to understand, interpret and work with numbers and mathematical concepts. Numbers are a basic and essential part of any language. Understanding numbers in French helps learners to engage in practical communication through practical usage of numbers in real life situations.",
+      "general_competences": [
+        "Communication: Learners will use numbers during their everyday conversation in different situations",
+        "Critical Thinking: Learners will explore how French speakers structure numbers in a unique way thereby recognizing numbers and their pattern relationships",
+        "Problem Solving: Learners will develop skills that help them budget, save and make smart financial decisions"
+      ],
+      "hook": "Imagine you are in Paris, standing in a bakery and want to buy two croissants. The baker asks, 'combien en voulez - vous?' you know what you want, but how do you say the number in French? Without your numbers in French, you might end up with twelve instead of two.",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.7.1",
+          "title": "Cardinal Numbers (0 - 1000)",
+          "page": 14,
+          "introduction": "Cardinal numbers are used constantly in everyday life when expressing age, quantity, prices, time and dates. They are building blocks for learning ordinal numbers as they are a foundation for other number types and mathematical operations.",
+          "competences": [
+            "1.7.1.1: Count from 0 - 1000 in French"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 15,
+              "hook": "Listening to numbers in French",
+              "teacher_steps": [
+                "Teacher counts objects or items in French. E.g. un, deux, trois, quatre, cinq",
+                "Display a chart with objects and their numbers in French"
+              ],
+              "learner_steps": [
+                "Learners listen and count after the teacher with correct pronunciation",
+                "In groups, learners count different items in French"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 15,
+              "hook": "Identifying numbers from 0 to 1000 in French",
+              "teacher_steps": [
+                "Display a chart with numbers in French (zéro to cent)"
+              ],
+              "learner_steps": [
+                "Learners identify the numbers ending with -ze-, -nte- and group them accordingly"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3",
+              "page": 16,
+              "hook": "Counting cardinal numbers from 0 to 1000",
+              "teacher_steps": [
+                "Guide learners to count from 0 to 100"
+              ],
+              "learner_steps": [
+                "Learners count from 0 to 100",
+                "In groups, learners use flashcards to compete in identifying numbers in French",
+                "In pairs, learners ask each other's phone number in French"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 4",
+              "page": 16,
+              "hook": "Write numbers in French from 0 - 1000",
+              "teacher_steps": [
+                "Guide learners to write numbers in French"
+              ],
+              "learner_steps": [
+                "Learners write numbers in French from 0 - 100",
+                "Learners match the numbers in figures to numbers in French"
+              ]
+            }
+          ],
+          "short_notes": "Numbers from 11 (onze) to 16 (seize) end with 'ze'. Numbers from 17 to 19 are ten-seven (dix-sept), ten-eight (dix-huit) and ten-nine (dix-neuf). 30, 40, 50 and 60 in french end with 'nte' (trente, quarante, cinquante, soixante). 70 is sixty-ten (soixante-dix). 80 is four 20s (quatre-vingts). 90 is four 20s-ten (quatre-vingts-dix). In between numbers are like in English e.g. vingt-deux, vingt-trois. Except for 21: vingt et un, 31: trente et un, 41: quarante et un.",
+          "vocabulary": [
+            {
+              "term": "zéro",
+              "definition": "zero"
+            },
+            {
+              "term": "un",
+              "definition": "one"
+            },
+            {
+              "term": "deux",
+              "definition": "two"
+            },
+            {
+              "term": "trois",
+              "definition": "three"
+            },
+            {
+              "term": "quatre",
+              "definition": "four"
+            },
+            {
+              "term": "cinq",
+              "definition": "five"
+            },
+            {
+              "term": "dix",
+              "definition": "ten"
+            },
+            {
+              "term": "vingt",
+              "definition": "twenty"
+            },
+            {
+              "term": "trente",
+              "definition": "thirty"
+            },
+            {
+              "term": "quarante",
+              "definition": "forty"
+            },
+            {
+              "term": "cinquante",
+              "definition": "fifty"
+            },
+            {
+              "term": "soixante",
+              "definition": "sixty"
+            },
+            {
+              "term": "cent",
+              "definition": "hundred"
+            },
+            {
+              "term": "mille",
+              "definition": "thousand"
+            },
+            {
+              "term": "compter",
+              "definition": "to count"
+            },
+            {
+              "term": "numéro",
+              "definition": "number"
+            }
+          ],
+          "assessment": {
+            "page": 16,
+            "questions": [
+              "Cardinal numbers counted correctly",
+              "Numbers written in French accurately"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.7.2",
+          "title": "Ordinal Numbers (first to twentieth)",
+          "page": 16,
+          "introduction": "In French, ordinal numbers are very important as they help learners to know the position, ranking and order. Ordinal numbers help learners form more natural sentences and improve their ability to understand instructions, sequence and narratives.",
+          "competences": [
+            "1.7.2.1: Demonstrate knowledge of ordinal numbers from 1 to 20 in French"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 17,
+              "hook": "Listening to a passage on ordinal numbers and identify them",
+              "teacher_steps": [
+                "Provide a passage or dialogue which contains ordinal numbers",
+                "Explain the meaning of ordinal numbers used in the passage or dialogue"
+              ],
+              "learner_steps": [
+                "Learners identify ordinal numbers from the passage or dialogue"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 17,
+              "hook": "Discussing Ordinal numbers and their endings (ième)",
+              "teacher_steps": [
+                "Explain the formation of Ordinal numbers",
+                "Add -ième to the cardinal number to get deuxième (second), troisième (third), etc",
+                "Explain the complete change for un/une into masculin: premier/feminin: première (first)"
+              ],
+              "learner_steps": [
+                "Learners read and pronounce the Ordinal numbers"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3",
+              "page": 17,
+              "hook": "Reading the passage on ordinal numbers and answer the questions",
+              "teacher_steps": [
+                "Provide passage/dialogue for learners to read and pronounce the ordinal numbers"
+              ],
+              "learner_steps": [
+                "In groups, learners write ordinal numbers from different passages/dialogues provided",
+                "Groups present their findings"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 4",
+              "page": 18,
+              "hook": "Writing ordinal numbers from 1 to 20",
+              "teacher_steps": [
+                "Guide learners to write ordinal numbers"
+              ],
+              "learner_steps": [
+                "Learners write ordinal numbers from 1 to 20"
+              ]
+            }
+          ],
+          "short_notes": "Formation of ordinal numbers: Add -ième to the cardinal number to get deuxième (second), troisième (third), etc. Complete change for un/une into masculin: premier/feminin: première (first) and spelling adjustment for cinq - cinquième (fifth), neuf - neuvième (ninth). Words ending in 'e' such as quatre, seize, treize drop the 'e' to become quatrième, seizième, and treizième respectively.",
+          "vocabulary": [
+            {
+              "term": "premier/première",
+              "definition": "first (masculine/feminine)"
+            },
+            {
+              "term": "deuxième",
+              "definition": "second"
+            },
+            {
+              "term": "troisième",
+              "definition": "third"
+            },
+            {
+              "term": "quatrième",
+              "definition": "fourth"
+            },
+            {
+              "term": "cinquième",
+              "definition": "fifth"
+            },
+            {
+              "term": "sixième",
+              "definition": "sixth"
+            },
+            {
+              "term": "septième",
+              "definition": "seventh"
+            },
+            {
+              "term": "huitième",
+              "definition": "eighth"
+            },
+            {
+              "term": "neuvième",
+              "definition": "ninth"
+            },
+            {
+              "term": "dixième",
+              "definition": "tenth"
+            }
+          ],
+          "assessment": {
+            "page": 18,
+            "questions": [
+              "Knowledge of ordinal numbers 1 to 20 demonstrated correctly"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.7.3",
+          "title": "Counting Money",
+          "page": 18,
+          "introduction": "Money management is an important life skill. By learning about counting money, learners will develop skills that help them budget, save and make smart financial decisions. This sub-topic will also help learners explore mathematical operations and develop skills to manage everyday transactions with confidence.",
+          "competences": [
+            "1.7.3.1: Apply the four mathematical operations on numbers below 100 in French"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 18,
+              "hook": "Adding, Subtracting, Dividing and Multiplying small numbers",
+              "teacher_steps": [
+                "Explain the four mathematical operations - divisé, fois, plus, moins",
+                "Provide scenarios on addition, subtraction, multiplication, and division"
+              ],
+              "learner_steps": [
+                "Learners practice adding small numbers: 2 + 3 = 5 (Deux plus trois égale cinq)",
+                "Learners practice subtracting: 7 - 2 = 5 (sept moins deux égale cinq)",
+                "Learners practice multiplying: 8 x 3 = 24 (huit fois trois égale vingt-quatre)",
+                "Learners practice dividing: 12 ÷ 4 = 3 (Douze divisé par quatre égale trois)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 20,
+              "hook": "Writing a small budget in French",
+              "teacher_steps": [
+                "Provide a sample of a written budget"
+              ],
+              "learner_steps": [
+                "Learners write a small budget in French (daily or monthly)"
+              ]
+            }
+          ],
+          "short_notes": "Mathematical operations in French: plus (addition), moins (subtraction), fois (multiplication), divisé (division), égale (equals). Examples: K10 + K5 = K15 (Dix Kwacha plus Cinq Kwacha égale Quinze Kwacha).",
+          "vocabulary": [
+            {
+              "term": "l'argent",
+              "definition": "money"
+            },
+            {
+              "term": "le prix",
+              "definition": "price"
+            },
+            {
+              "term": "la monnaie",
+              "definition": "currency/change"
+            },
+            {
+              "term": "combien coûte",
+              "definition": "how much does it cost"
+            },
+            {
+              "term": "plus",
+              "definition": "plus/addition"
+            },
+            {
+              "term": "moins",
+              "definition": "minus/subtraction"
+            },
+            {
+              "term": "fois",
+              "definition": "times/multiplication"
+            },
+            {
+              "term": "divisé",
+              "definition": "divided"
+            },
+            {
+              "term": "égale",
+              "definition": "equals"
+            },
+            {
+              "term": "acheter",
+              "definition": "to buy"
+            }
+          ],
+          "assessment": {
+            "page": 20,
+            "questions": [
+              "The four mathematical operations applied correctly"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "1.8.0",
+      "topic_title": "Preferences",
+      "overview": "Expressing one's preferences is essential for effective daily communication. This skill enables learners to share their interests and engage with others, which is crucial for building relationships. This topic will cover essential vocabulary, key phrases, and sentence structures necessary for discussing preferences.",
+      "general_competences": [
+        "Communication: Develop basic conversational skills to express likes, dislikes, and preferences clearly and confidently in French",
+        "Emotional Intelligence: Understand how preferences reflect personality and emotions. Show empathy towards others when discussing likes and dislikes",
+        "Critical Thinking: Analyse the reasons behind personal preferences and formulate responses that express these reasons in French",
+        "Critical Thinking: Recognize the role of language in shaping and conveying personal preferences",
+        "Critical Thinking: Compare and contrast preferences with classmates in order to foster a deeper understanding and appreciation of cultural diversity"
+      ],
+      "hook": "Ask learners questions about things they like or dislike. (e.g Qui préfère le chocolat/les bonbons?)",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.8.1",
+          "title": "Likes and Dislikes",
+          "page": 23,
+          "introduction": "The subtopic focuses on how to express likes and dislikes in French. Being able to clearly communicate what you like or dislike is essential for both social interactions and personal conversations. By learning these expressions, learners will be able to express their opinions and preferences with confidence.",
+          "competences": [
+            "1.8.1.1: Express likes and dislikes in French"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 23,
+              "hook": "Responding to oral questions on likes and dislikes in French",
+              "teacher_steps": [
+                "Provide verbs and phrases used to express likes and dislikes (e.g., J'aime, Je déteste, Je préfère, Je n'aime pas)",
+                "Conjugate the verbs: Aimer, détester, adorer au temps présent",
+                "Introduce question words: Qu'est-ce que, quel/quelle est/qui",
+                "Explain the negative expression: 'ne … pas' can also be used to express dislikes (subject + ne + verbe + pas)"
+              ],
+              "learner_steps": [
+                "In pairs, learners practice asking and answering simple questions about their preferences using the verbs and phrases provided"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 24,
+              "hook": "Expressing likes and dislikes for taste, colour, hobbies, places, buildings, scenery, people",
+              "teacher_steps": [
+                "Provide a passage/dialogue on likes and dislikes about different things and objects",
+                "Provide more examples to help learners express likes and dislikes for each category listed"
+              ],
+              "learner_steps": [
+                "Learners read and identify different preference expressions/phrases",
+                "In pairs, learners practice expressions used to ask about likes and dislikes",
+                "In small groups, learners discuss likes and dislikes for taste, colour, hobbies, places, buildings, scenery, people"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3",
+              "page": 25,
+              "hook": "Reading a passage on likes and dislikes and answering questions",
+              "teacher_steps": [
+                "Provide learners with a passage on likes and dislikes"
+              ],
+              "learner_steps": [
+                "Learners read the passage and answer questions"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 4",
+              "page": 25,
+              "hook": "Writing about likes and dislikes in French",
+              "teacher_steps": [
+                "Guide learners to write a coherent paragraph"
+              ],
+              "learner_steps": [
+                "Learners write a coherent paragraph on their likes and dislikes"
+              ]
+            }
+          ],
+          "short_notes": "Expressing likes and dislikes: J'aime (I like), Je déteste (I hate), Je préfère (I prefer), J'adore (I love), Je n'aime pas (I don't like). Question words: Qu'est-ce que tu aimes? (What do you like?), Quel est ton plat préféré? (What is your favorite dish?). Categories include: taste (j'adore la glace), colour (j'aime le bleu), hobbies (j'aime lire), places (j'aime la plage), buildings (j'aime les musées), scenery (j'aime la mer), people (j'adore ma famille). Negation structure: subject + ne + verbe + pas.",
+          "vocabulary": [
+            {
+              "term": "aimer",
+              "definition": "to like/love"
+            },
+            {
+              "term": "adorer",
+              "definition": "to adore/love"
+            },
+            {
+              "term": "détester",
+              "definition": "to hate"
+            },
+            {
+              "term": "préférer",
+              "definition": "to prefer"
+            },
+            {
+              "term": "déplaire",
+              "definition": "to displease"
+            },
+            {
+              "term": "dégoûter",
+              "definition": "to disgust"
+            },
+            {
+              "term": "rejeter",
+              "definition": "to reject"
+            },
+            {
+              "term": "fromage",
+              "definition": "cheese"
+            },
+            {
+              "term": "glace",
+              "definition": "ice cream"
+            },
+            {
+              "term": "chocolat",
+              "definition": "chocolate"
+            },
+            {
+              "term": "campagne",
+              "definition": "countryside"
+            },
+            {
+              "term": "plage",
+              "definition": "beach"
+            },
+            {
+              "term": "beaucoup",
+              "definition": "a lot"
+            },
+            {
+              "term": "un peu",
+              "definition": "a little"
+            }
+          ],
+          "assessment": {
+            "page": 26,
+            "questions": [
+              "Likes and dislikes expressed accurately"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "1.9.0",
+      "topic_title": "Localisation and Movement",
+      "overview": "In French, localisation refers to the concept of 'where' something is, while movement involves the concept of 'where something is going' or 'how it is moving'. This topic discusses the position of an object, person, or thing in a sentence. It is a crucial topic for learners because it equips them with the vocabulary, expressions and grammatical structures needed for describing position, direction and distance.",
+      "general_competences": [
+        "Communication: Apply listening, speaking, reading, and writing skills",
+        "Communication: Express oneself (spoken and written) clearly and effectively using prepositions of place",
+        "Communication: Express oneself using different media and symbols of something object or person",
+        "Analytical thinking: Use appropriate language (Verbal and non-verbal) in different situations when giving directions and locating the position of something",
+        "Emotional Intelligence: Learners will use appropriate expressions and show empathy when asking for direction"
+      ],
+      "hook": "How do you ask for direction and location of a place you have never been to?",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.9.1",
+          "title": "Position",
+          "page": 27,
+          "introduction": "Position is defined as the location or placement of an object, person, and point in relation to its surrounding. It describes where something is situated physically.",
+          "competences": [
+            "1.9.1.1: Describe the position of an object in French",
+            "1.9.1.2: State the location of a person, place or thing in French"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 28,
+              "hook": "Identifying preposition of place from a given passage/demonstration",
+              "teacher_steps": [
+                "Provide a passage with prepositions of place",
+                "Demonstrate and explain the meaning of each preposition used in the passage by using objects in class with different prepositions of place"
+              ],
+              "learner_steps": [
+                "Learners read the passage on prepositions of place (sur, dans, sous)",
+                "Learners identify different positions of objects in a given picture"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 28,
+              "hook": "Discussing the position of the object in relation to another",
+              "teacher_steps": [
+                "Introduce other prepositions and explain their meaning to the learners (derrière, devant, à côté de)",
+                "Provide any two objects to be described in relation to each other",
+                "Position the two objects",
+                "Place different objects in different positions in relation to the other by using (devant, a cote, derriere, au, dessous)"
+              ],
+              "learner_steps": [
+                "Learners construct sentences on the position of an object in relation to the other"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 1 (Location)",
+              "page": 29,
+              "hook": "Locating a place or person on a given map or drawing",
+              "teacher_steps": [
+                "Provide a map or a chart with people, buildings, roads and symbols correctly marked",
+                "Explain how to use 'se trouver' in a sentence when giving a response"
+              ],
+              "learner_steps": [
+                "Learners identify landmarks such as hôtel, restaurant, banque, hopital, Rue Cairo on the map by naming them",
+                "Learners identify where a person, place or thing is located on the map in relation to buildings, roads",
+                "Learners respond to questions on positions of people, places or things using the map and the vocabulary learned"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2 (Campus)",
+              "page": 30,
+              "hook": "Discussing the campus (l'Est, Ouest, Nord, Sud)",
+              "teacher_steps": [
+                "Introduce the four cardinal points of the campus (le Sud, le Nord, l'Est, l'Ouest)"
+              ],
+              "learner_steps": [
+                "Learners draw the campus and label the points in French"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3 (Provinces)",
+              "page": 30,
+              "hook": "Locating the provinces of Zambia and their headquarters",
+              "teacher_steps": [
+                "Guide learners to name the 10 provinces of Zambia and their headquarters in French"
+              ],
+              "learner_steps": [
+                "Learners name the 10 provinces of Zambia and their headquarters in French",
+                "Learners match provinces to different activities found in each province"
+              ]
+            }
+          ],
+          "short_notes": "Prepositions of place: sur (on), dans (in), sous (under), devant (in front of), derrière (behind), à côté de (next to), entre (between), près de (near), loin de (far from), en face de (opposite), à gauche (on the left), à droite (on the right). Cardinal points: le Nord (North), le Sud (South), l'Est (East), l'Ouest (West). Using 'se trouver' to indicate location: Notre école se trouve près de la banque (Our school is located near the bank).",
+          "vocabulary": [
+            {
+              "term": "sur",
+              "definition": "on"
+            },
+            {
+              "term": "sous",
+              "definition": "under"
+            },
+            {
+              "term": "dans",
+              "definition": "in"
+            },
+            {
+              "term": "devant",
+              "definition": "in front of"
+            },
+            {
+              "term": "derrière",
+              "definition": "behind"
+            },
+            {
+              "term": "à côté de",
+              "definition": "next to"
+            },
+            {
+              "term": "entre",
+              "definition": "between"
+            },
+            {
+              "term": "près de",
+              "definition": "near"
+            },
+            {
+              "term": "loin de",
+              "definition": "far from"
+            },
+            {
+              "term": "en face de",
+              "definition": "opposite"
+            },
+            {
+              "term": "à gauche",
+              "definition": "on the left"
+            },
+            {
+              "term": "à droite",
+              "definition": "on the right"
+            },
+            {
+              "term": "le Nord",
+              "definition": "North"
+            },
+            {
+              "term": "le Sud",
+              "definition": "South"
+            },
+            {
+              "term": "l'Est",
+              "definition": "East"
+            },
+            {
+              "term": "l'Ouest",
+              "definition": "West"
+            },
+            {
+              "term": "se trouver",
+              "definition": "to be located"
+            }
+          ],
+          "assessment": {
+            "page": 30,
+            "questions": [
+              "Position of an object described correctly",
+              "Location of a thing, place, and people stated in French accordingly"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.9.2",
+          "title": "Direction",
+          "page": 30,
+          "introduction": "Directions are instructions or guidance on how to navigate from one place to another. They help learners understand where they are, where they need to go, and how to get there. Asking for and giving directions in French is an essential skill used in everyday conversations.",
+          "competences": [
+            "1.9.2.1: Give directions to someone in French"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 31,
+              "hook": "Listening to a dialogue on giving directions and identifying expressions used",
+              "teacher_steps": [
+                "Provide dialogue/conversation in which two people are asking for and giving directions",
+                "Demonstrate giving directions by using a sketch map with places, roads and symbols"
+              ],
+              "learner_steps": [
+                "Learners listen to the conversation or dialogue and identify expressions used when asking and giving directions",
+                "Learners practice giving direction using specific destinations of their choice"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 31,
+              "hook": "Reading a simple map and locating a place/village/town/any other features",
+              "teacher_steps": [
+                "Introduce more expressions used to ask for and give directions in French",
+                "Explain l'emploi de: à, à l', à la, au",
+                "Provide and display a map showing different places and ask learners to locate the places mentioned"
+              ],
+              "learner_steps": [
+                "Learners role play asking for and giving directions using the expressions learned"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3",
+              "page": 32,
+              "hook": "Directing someone to a given place",
+              "teacher_steps": [
+                "Guide learners to ask for and give directions"
+              ],
+              "learner_steps": [
+                "In pairs, learners ask for and give directions using correct expressions learned"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 4",
+              "page": 32,
+              "hook": "Giving directions to ones own place of choice in written",
+              "teacher_steps": [
+                "Guide learners to write a composition"
+              ],
+              "learner_steps": [
+                "Learners write a guided composition directing someone to their own place of choice"
+              ]
+            }
+          ],
+          "short_notes": "Asking for directions: Où se trouve l'hôpital? (Where is the hospital?), Où est l'église s'il vous plaît? (Where is the church please?), Excusez-moi, Je cherche la banque ZANACO (Excuse me, I'm looking for ZANACO bank), Je suis perdu(e), c'est où le centre commercial? (I'm lost, where is the shopping center?). Giving directions: Allez tout droit (Go straight ahead), Continuez tout droit (Continue straight ahead), Tournez à droite/à gauche (Turn right/left), Prenez la première route à droite (Take the first road on the right), Traversez la rue/le pont (Cross the street/bridge). Using à, à l', à la, au to indicate direction to a place.",
+          "vocabulary": [
+            {
+              "term": "allez tout droit",
+              "definition": "go straight ahead"
+            },
+            {
+              "term": "tournez à gauche",
+              "definition": "turn left"
+            },
+            {
+              "term": "tournez à droite",
+              "definition": "turn right"
+            },
+            {
+              "term": "continuez",
+              "definition": "continue"
+            },
+            {
+              "term": "prenez",
+              "definition": "take"
+            },
+            {
+              "term": "traversez",
+              "definition": "cross"
+            },
+            {
+              "term": "la rue",
+              "definition": "the street"
+            },
+            {
+              "term": "le pont",
+              "definition": "the bridge"
+            },
+            {
+              "term": "où se trouve",
+              "definition": "where is located"
+            },
+            {
+              "term": "je cherche",
+              "definition": "I'm looking for"
+            },
+            {
+              "term": "je suis perdu(e)",
+              "definition": "I'm lost"
+            }
+          ],
+          "assessment": {
+            "page": 32,
+            "questions": [
+              "Directions given to someone in French precisely"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.9.3",
+          "title": "Distance",
+          "page": 32,
+          "introduction": "Distance is a common topic in everyday conversations. Whether someone is asking how far a location is or discussing travel plans, knowing how to express distance allows one to engage in these conversations naturally. This sub-topic will discuss French expressions that are important in describing locations and directions.",
+          "competences": [
+            "1.9.3.1: Indicate how far or near a point is from another in French"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 33,
+              "hook": "Identifying expressions indicating how far or near a point is from another",
+              "teacher_steps": [
+                "Provide expressions used to talk about distance in French"
+              ],
+              "learner_steps": [
+                "Learners identify expressions used to indicate distance between two points from a given passage"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 33,
+              "hook": "Discussing distance between two points",
+              "teacher_steps": [
+                "Display a plan or map showing distances between two places"
+              ],
+              "learner_steps": [
+                "Learners discuss how far the two places are from each other",
+                "In groups, learners construct sentences using 'près de, loin de, à … kilomètre de'",
+                "In pairs, learners role-play using expressions used to indicate distance between two points in French"
+              ]
+            }
+          ],
+          "short_notes": "Asking about distance: À quelle distance de Lusaka se trouve Solwezi? (How far from Lusaka is Solwezi?), C'est à quelle distance? (How far is it?), À combien de kilomètres de Chinsali? (How many kilometers from Chinsali?). Expressing distance: Il y a 7 kilomètres de Chipata à Katete (There are 7 kilometers from Chipata to Katete), C'est à 20 kilomètres de Choma à Mazabuka (It's 20 kilometers from Choma to Mazabuka), près de (near), loin de (far from).",
+          "vocabulary": [
+            {
+              "term": "le kilomètre",
+              "definition": "kilometer"
+            },
+            {
+              "term": "la distance",
+              "definition": "distance"
+            },
+            {
+              "term": "le mètre",
+              "definition": "meter"
+            },
+            {
+              "term": "près de",
+              "definition": "near"
+            },
+            {
+              "term": "loin de",
+              "definition": "far from"
+            },
+            {
+              "term": "à quelle distance",
+              "definition": "how far"
+            },
+            {
+              "term": "il y a",
+              "definition": "there is/are"
+            },
+            {
+              "term": "c'est à",
+              "definition": "it is at"
+            }
+          ],
+          "assessment": {
+            "page": 34,
+            "questions": [
+              "Distance between two points indicated clearly"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "1.10.0",
+      "topic_title": "Accommodation and Hygiene",
+      "overview": "Accommodation and hygiene are two sides of the same coin that are closely linked to environment awareness. Hygiene plays a crucial role in ensuring good health, comfort and overall well-being. Understanding the importance of accommodation and hygiene helps learners to take care of their surroundings and make informed choices about where they live and how to maintain their environment.",
+      "general_competences": [
+        "Communication: Learners will acquire necessary vocabulary to engage in environmental discussions",
+        "Critical thinking: Learners will develop environmental awareness that will enable them to make right decision on issues to do with their environment",
+        "Environmental Sustainability: Learners will uphold good practices that benefit and sustain their environment"
+      ],
+      "hook": "Show two pictures showing dirty environment and ask learners to guess words for dirty and clean in French.",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.10.1",
+          "title": "Types of Homes",
+          "page": 35,
+          "introduction": "A home is a place where a person or family lives. It provides shelter, safety, comfort and a sense of belonging. A home can be a house, a hut or any space where people feel secure and at ease. It is more than just a building, it is where people eat, sleep, rest and spend time with loved ones. This sub topic explores different types of homes notably modern and traditional homes.",
+          "competences": [
+            "1.10.1.1: Compare modern and traditional houses in French",
+            "1.10.1.2: Name different rooms and their use in a house"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 36,
+              "hook": "Identify the difference between a modern and traditional houses",
+              "teacher_steps": [
+                "Show pictures of different types of houses (traditional and modern)",
+                "Explain the traditional and modern types of houses in French",
+                "Explain the structures: Il y a (there is), Y a t-il? (is there?)",
+                "Explain the Prepositions en (made of), au (à+ le) (at), Dans (in)",
+                "Conclude with a matching activity",
+                "Provide a list of material used for traditional and modern houses in French"
+              ],
+              "learner_steps": [
+                "Learners describe and identify modern and traditional houses in the pictures provided",
+                "In groups, learners name the types of houses they know",
+                "Learners draw and colour the two different types of houses",
+                "Learners classify the materials according to the types of houses"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 37,
+              "hook": "Reading a passage on modern and traditional houses and summarize the features",
+              "teacher_steps": [
+                "Provide a passage on characteristics of modern and traditional homes"
+              ],
+              "learner_steps": [
+                "Learners read a given passage and answer the questions"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3",
+              "page": 37,
+              "hook": "Describing modern and traditional houses in writing",
+              "teacher_steps": [
+                "Guide learners to write a short composition"
+              ],
+              "learner_steps": [
+                "Learners write a short-guided composition describing their homes or houses"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 1 (Rooms)",
+              "page": 38,
+              "hook": "Naming different rooms in a house and their use",
+              "teacher_steps": [
+                "Provide a sketch map of a house with different rooms (salle à coucher, salon)",
+                "Explain the use of each room in the house (chambre - dormir, salon - regarder la télévision)"
+              ],
+              "learner_steps": [
+                "In groups, learners name items found in each room",
+                "Learners match different rooms with their corresponding uses"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2 (Description)",
+              "page": 38,
+              "hook": "Describing one's own house in French",
+              "teacher_steps": [
+                "Guide learners to describe their houses and rooms"
+              ],
+              "learner_steps": [
+                "Learners describe their houses and rooms by using different descriptive adjectives"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3 (Composition)",
+              "page": 38,
+              "hook": "Writing a short-guided composition on a house of your choice",
+              "teacher_steps": [
+                "Guide learners to write a composition"
+              ],
+              "learner_steps": [
+                "Learners write a short composition on a house of their choice and describe the rooms"
+              ]
+            }
+          ],
+          "short_notes": "Types of houses: Traditional (Traditionnelle): Une maison en bous (grass house), Une maison en bois (wooden house), Une maison en terre battue (mud house). Modern (Moderne): Une maison en brique (brick house), Une maison en étage (storey building). Structures: Il y a (there is/are), Y a t-il? (is there?). Prepositions: en (made of), au (at), dans (in). Rooms: les chambres (rooms), la chambre à coucher (bedroom), le salon (living room), la salle de bain (bathroom), la salle à manger (dining room), la cuisine (kitchen), les toilettes (toilet), la douche (shower).",
+          "vocabulary": [
+            {
+              "term": "une maison",
+              "definition": "a house"
+            },
+            {
+              "term": "en bois",
+              "definition": "made of wood"
+            },
+            {
+              "term": "en brique",
+              "definition": "made of brick"
+            },
+            {
+              "term": "en bous",
+              "definition": "made of grass"
+            },
+            {
+              "term": "en terre battue",
+              "definition": "made of mud"
+            },
+            {
+              "term": "en étage",
+              "definition": "storey building"
+            },
+            {
+              "term": "la chambre à coucher",
+              "definition": "bedroom"
+            },
+            {
+              "term": "le salon",
+              "definition": "living room"
+            },
+            {
+              "term": "la salle de bain",
+              "definition": "bathroom"
+            },
+            {
+              "term": "la salle à manger",
+              "definition": "dining room"
+            },
+            {
+              "term": "la cuisine",
+              "definition": "kitchen"
+            },
+            {
+              "term": "les toilettes",
+              "definition": "toilet"
+            },
+            {
+              "term": "la douche",
+              "definition": "shower"
+            },
+            {
+              "term": "dormir",
+              "definition": "to sleep"
+            },
+            {
+              "term": "se coucher",
+              "definition": "to go to bed"
+            }
+          ],
+          "assessment": {
+            "page": 38,
+            "questions": [
+              "Modern and traditional houses compared in French correctly",
+              "Different rooms in a house and their use identified accordingly"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.10.2",
+          "title": "Care for the Surrounding",
+          "page": 39,
+          "introduction": "Living in a clean and conducive environment is key to good health. It is very important to take extra care of our surroundings in order to promote sound health. This sub topic focuses on the activities, hygiene behavioral changes and tools that are needed to maintain a good surrounding.",
+          "competences": [
+            "1.10.2.1: Describe a clean and dirty place",
+            "1.10.2.2: Discuss personal hygiene"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 39,
+              "hook": "Describing a clean and dirty place in French",
+              "teacher_steps": [
+                "Provide two pictures. One showing a clean place and the other a dirty one",
+                "Explain the key words describing a clean and dirty place (propre, sale)"
+              ],
+              "learner_steps": [
+                "Learners compare the two pictures provided in groups",
+                "Learners describe the two pictures using the French vocabulary learned"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 40,
+              "hook": "Use the verb 'être' to indicate that a place is clean or dirty",
+              "teacher_steps": [
+                "Guide learners to discuss whether their class or school is clean or dirty"
+              ],
+              "learner_steps": [
+                "In groups, learners discuss whether their class or school is clean or dirty in French",
+                "Learners write a short paragraph describing a clean or a dirty place of their choice"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3",
+              "page": 40,
+              "hook": "Discussing ways of keeping the surrounding clean",
+              "teacher_steps": [
+                "Conjugate the verbs: balayer, travailler, nettoyer, faire and jeter in present tense",
+                "Explain ways of keeping the surrounding clean",
+                "Provide a passage on ways of keeping a surrounding clean"
+              ],
+              "learner_steps": [
+                "In groups, learners discuss the passage on ways of keeping the surrounding clean",
+                "Learners write a summary on ways of keeping the surrounding clean"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 4",
+              "page": 41,
+              "hook": "Identifying materials used for keeping the surrounding clean",
+              "teacher_steps": [
+                "Provide a list of assorted items found in a house in French",
+                "Introduce materials used for cleaning an environment (le balai, le torchon, la houe, la pelle)"
+              ],
+              "learner_steps": [
+                "In groups, learners identify the materials used to clean the surroundings from the provided list",
+                "Learners draw and label the cleaning materials in French",
+                "Learners translate the learned vocabulary into English"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 5",
+              "page": 41,
+              "hook": "Stating negative effects of dirty surroundings",
+              "teacher_steps": [
+                "Explain negative effects of dirty surroundings",
+                "Provide a text depicting the negative effects of dirty environments"
+              ],
+              "learner_steps": [
+                "In groups, learners read and discuss the passage on the negative effects of dirty surroundings",
+                "Learners write a note summary on the negative effects of living in a dirty surroundings"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 1 (Personal Hygiene)",
+              "page": 42,
+              "hook": "Mentioning ways of keeping oneself clean",
+              "teacher_steps": [
+                "Explain ways of keeping personal hygiene",
+                "Guide learners on how to construct simple sentences on personal hygiene in French",
+                "Provide a short passage on personal hygiene"
+              ],
+              "learner_steps": [
+                "Learners answer questions based on the given passage",
+                "Learners write a short paragraph on ways to keep oneself clean"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2 (Drawing)",
+              "page": 42,
+              "hook": "Drawing materials used for personal hygiene",
+              "teacher_steps": [
+                "Provide a list of materials used for personal hygiene in French"
+              ],
+              "learner_steps": [
+                "Learners draw and label materials used for personal hygiene and make talking walls or a photo gallery"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3 (Dictation)",
+              "page": 43,
+              "hook": "Writing dictated words in French",
+              "teacher_steps": [
+                "Dictate words on personal hygiene"
+              ],
+              "learner_steps": [
+                "Learners write dictated words of the learned vocabulary on personal hygiene"
+              ]
+            }
+          ],
+          "short_notes": "Describing cleanliness: propre (clean), sale (dirty), frais/fraîche (fresh), organisé (organized), brillant (shiny). Ways to keep surroundings clean: balayer (sweep), nettoyer (clean), jeter les déchets dans la poubelle (throw trash in the bin), arroser les fleurs (water the flowers), recycler les plastics (recycle plastics). Cleaning materials: le balai (broom), le torchon (mop), la houe (hoe), la pelle (shovel), l'eau (water), la poubelle (trash bin). Negative effects: contracter le choléra (contract cholera), la toux (cough), la dysenterie (dysentery). Personal hygiene: se laver (wash oneself), couper les cheveux (cut hair), brosser les dents (brush teeth), prendre une douche (take a shower). Materials: le savon (soap), la brosse à dent (toothbrush), le dentifrice (toothpaste), le déodorant (deodorant).",
+          "vocabulary": [
+            {
+              "term": "propre",
+              "definition": "clean"
+            },
+            {
+              "term": "sale",
+              "definition": "dirty"
+            },
+            {
+              "term": "frais/fraîche",
+              "definition": "fresh"
+            },
+            {
+              "term": "organisé",
+              "definition": "organized"
+            },
+            {
+              "term": "balayer",
+              "definition": "to sweep"
+            },
+            {
+              "term": "nettoyer",
+              "definition": "to clean"
+            },
+            {
+              "term": "le balai",
+              "definition": "broom"
+            },
+            {
+              "term": "le torchon",
+              "definition": "mop"
+            },
+            {
+              "term": "la houe",
+              "definition": "hoe"
+            },
+            {
+              "term": "la pelle",
+              "definition": "shovel"
+            },
+            {
+              "term": "la poubelle",
+              "definition": "trash bin"
+            },
+            {
+              "term": "les déchets",
+              "definition": "waste/trash"
+            },
+            {
+              "term": "le choléra",
+              "definition": "cholera"
+            },
+            {
+              "term": "la toux",
+              "definition": "cough"
+            },
+            {
+              "term": "se laver",
+              "definition": "to wash oneself"
+            },
+            {
+              "term": "se baigner",
+              "definition": "to bathe"
+            },
+            {
+              "term": "brosser les dents",
+              "definition": "to brush teeth"
+            },
+            {
+              "term": "le savon",
+              "definition": "soap"
+            },
+            {
+              "term": "la brosse à dent",
+              "definition": "toothbrush"
+            },
+            {
+              "term": "le dentifrice",
+              "definition": "toothpaste"
+            }
+          ],
+          "assessment": {
+            "page": 43,
+            "questions": [
+              "A clean and dirty place described correctly",
+              "Personal hygiene discussed accordingly"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

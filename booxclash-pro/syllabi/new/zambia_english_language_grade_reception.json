@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "4-5 Years",
+    "subject": "English Language",
+    "philosophy": "The English Language Syllabus for ECE (Levels 3-4 and 4-5) is designed to help children aged three to five develop the four language skills: listening, speaking, reading and writing. The syllabus has been developed to ensure consistent exposure to and practice of language.",
+    "competence_learning": "Each of these components has a range of topics and corresponding sub-topics. In order to maintain a uniform and cohesive delivery of content to learners, specific-competences and their subsequent learning activities have been identified to facilitate effective learning. This structured approach ensures a consistent and organised learning experience for all learners.",
+    "goals": [
+      "To help children aged three to five develop the four language skills: listening, speaking, reading and writing.",
+      "To ensure consistent exposure to and practice of language.",
+      "To help learners become fluent and successful in academics as they progress to Grade 1 and beyond."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "0.2.1",
+      "topic_title": "CONVERSATION",
+      "page_number": 62,
+      "subtopics": [
+        "0.2.1.1 Greetings",
+        "0.2.1.2 Simple Instructions",
+        "0.2.1.3 Classroom Rules",
+        "0.2.1.4 Making Requests"
+      ],
+      "specific_outcomes": [
+        "0.2.1.1.1 Use appropriate greetings at different times of the day",
+        "0.2.1.1.2 Take turns to speak",
+        "0.2.1.2.1 Follow simple instructions",
+        "0.2.1.3.1 Follow classroom rules",
+        "0.2.1.4.1 Use appropriate language in making requests"
+      ]
+    },
+    {
+      "unit": "0.2.2",
+      "topic_title": "NAMING",
+      "page_number": 63,
+      "subtopics": [
+        "0.2.2.1 Things at Home",
+        "0.2.2.2 Things at School",
+        "0.2.2.3 Naming Domestic Animals",
+        "0.2.2.4 Naming Wild Animals",
+        "0.2.2.5 Naming Occupations",
+        "0.2.2.6 Naming Modes of Transport."
+      ],
+      "specific_outcomes": [
+        "0.2.2.1.1 Name objects found at home.",
+        "0.2.2.2.1 Name objects found at school",
+        "0.2.2.3.1 Name domestic animals",
+        "0.2.2.4.1 Name wild animals",
+        "0.2.2.5.1 Name different occupations in the community",
+        "0.2.2.6.1 Name modes of transport"
+      ]
+    },
+    {
+      "unit": "0.2.3",
+      "topic_title": "DESCRIPTIONS",
+      "page_number": 64,
+      "subtopics": [
+        "0.2.3.1 Colours",
+        "0.2.3.2 Describing Things",
+        "0.2.3.3 House Chores",
+        "0.2.3.4 School Rules",
+        "0.2.3.5 Positions of Things",
+        "0.2.3.6 Singular and Plural Forms."
+      ],
+      "specific_outcomes": [
+        "0.2.3.1.1 Describe objects according to primary colours",
+        "0.2.3.1.2 Describe objects according to secondary colours",
+        "0.2.3.2.1 Describe things according to their attributes",
+        "0.2.3.3.1 Describe home chores",
+        "0.2.3.4.1 Use appropriate language to talk about school rules",
+        "0.2.3.5.1 Use appropriate language to show position of things.",
+        "0.2.3.6.1 Use appropriate vocabulary to express singular and plural forms."
+      ]
+    },
+    {
+      "unit": "0.2.4",
+      "topic_title": "SONGS",
+      "page_number": 65,
+      "subtopics": [
+        "0.2.4.1 Days of the Week"
+      ],
+      "specific_outcomes": [
+        "0.2.4.1.1 Name days of the week"
+      ]
+    },
+    {
+      "unit": "0.2.4.2",
+      "topic_title": "Months of the Year",
+      "page_number": 66,
+      "subtopics": [],
+      "specific_outcomes": [
+        "0.2.4.2.1 Name months of the year"
+      ]
+    },
+    {
+      "unit": "0.2.4.3",
+      "topic_title": "Care for the Body",
+      "page_number": 66,
+      "subtopics": [],
+      "specific_outcomes": [
+        "0.2.4.3.1 Use appropriate language about caring for the body"
+      ]
+    },
+    {
+      "unit": "0.2.5",
+      "topic_title": "NARRATION",
+      "page_number": 66,
+      "subtopics": [
+        "0.2.5.1 Road Safety Rules",
+        "0.2.5.2 Simple Events",
+        "0.2.5.3 Weather"
+      ],
+      "specific_outcomes": [
+        "0.2.5.1.1 Use appropriate language to talk about road safety rules",
+        "0.2.5.2.1 Narrate simple events",
+        "0.2.5.3.1 Use appropriate language to talk about the weather"
+      ]
+    },
+    {
+      "unit": "0.2.6",
+      "topic_title": "STORIES",
+      "page_number": 66,
+      "subtopics": [
+        "0.2.6.1 Caring for Others",
+        "0.2.6.2 Communication",
+        "0.2.6.3 Selling and Buying"
+      ],
+      "specific_outcomes": [
+        "0.2.6.1.1 Use appropriate language to tell stories about caring for others",
+        "0.2.6.2.1 Use appropriate language to talk about means of communication",
+        "0.2.6.3.1 Use appropriate language for buying and selling"
+      ]
+    },
+    {
+      "unit": "0.2.7",
+      "topic_title": "VISUAL DESCRIMINATION",
+      "page_number": 68,
+      "subtopics": [
+        "0.2.7.1 Matching",
+        "0.2.7.2 Identification",
+        "0.2.7.3 Simple Stories"
+      ],
+      "specific_outcomes": [
+        "0.2.7.1.1 Demonstrate left to right eye movement.",
+        "0.2.7.2.1 Identify objects according to their attributes",
+        "0.2.7.3.1 Read picture stories"
+      ]
+    },
+    {
+      "unit": "0.2.8",
+      "topic_title": "SOUNDS",
+      "page_number": 69,
+      "subtopics": [
+        "0.2.8.1 Natural Sounds",
+        "0.2.8.2 Initial Sounds",
+        "0.2.8.3 Number of Sounds",
+        "0.2.8.4 Blending",
+        "0.2.8.5 Substitution",
+        "0.2.8.6 Recognition",
+        "0.2.8.7 Rhyming",
+        "0.2.8.8 Tongue Twisters"
+      ],
+      "specific_outcomes": [
+        "0.2.8.1.1 Recognise sounds",
+        "0.2.8.2.1 Sound out initial sounds in words",
+        "0.2.8.3.1 Count the number of sounds in regular words",
+        "0.2.8.4.1 Blend sounds",
+        "0.2.8.5.1 Manipulate sounds within words to form new words",
+        "0.2.8.6.1 Identify sounds found in words",
+        "0.2.8.7.1 Identify rhyming words in rhymes and songs.",
+        "0.2.8.8.1 Recite tongue twisters."
+      ]
+    },
+    {
+      "unit": "0.2.9",
+      "topic_title": "HANDWRITING",
+      "page_number": 71,
+      "subtopics": [
+        "0.2.9.1 Sitting Posture",
+        "0.2.9.2 Hand /Finger Manipulation",
+        "0.2.9.3 Book Handling",
+        "0.2.9.4 Book Exploration",
+        "0.2.9.5 Make own Book",
+        "0.2.9.6 Simple Gadget Exploration",
+        "0.2.9.7 Pencil Grip",
+        "0.2.9.8 Patterns",
+        "0.2.9.9 Copying"
+      ],
+      "specific_outcomes": [
+        "0.2.9.1.1 Demonstrate correct sitting posture",
+        "0.2.9.2.1 Manipulate objects",
+        "0.2.9.3.1 Demonstrate correct book handling habits",
+        "0.2.9.4.1 Name different parts of a book.",
+        "0.2.9.5.1 Make picture book.",
+        "02.9.6.1Manipulate simple gadgets.",
+        "0.2.9.7.1 Hold pencil using the tripod grip",
+        "0.2.9.8.1 Draw lines, patterns and shapes.",
+        "0.2.9.9.1 Copy simple words",
+        "0.2.9.9.2 Copy simple sentences",
+        "0.2.9.9.3 Copy own name"
+      ]
+    }
+  ]
+}

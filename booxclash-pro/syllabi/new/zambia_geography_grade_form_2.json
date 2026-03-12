@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "FORM 2",
+    "subject": "Geography",
+    "philosophy": "Geography Syllabus for Ordinary Level Secondary School has been developed to provide quality education that is aligned with the Competency-Based Curriculum and 21st century skills in Form 1-4. The syllabus is designed to ignite curiosity, relate to everyday experiences and foster appreciation for the diverse landscapes, cultures and ecosystems that shape the Earth. Through the syllabus learners will explore the dynamics of the Earth's features, including landforms, climate and natural resources as well as the impact of human activities on the environment. This syllabus places emphasis on spatial awareness, analytical skills, sustainable practices and the use of geographical tools and technologies to prepare learners to engage meaningfully with global challenges such as climate change, urbanisation and resource management. This syllabus is designed to guide the teaching and learning of Geography for Ordinary Secondary Education Form 1-4. The syllabus interprets the competences indicated in the 2023 Zambia Education Curriculum Framework. The study of geography provides a holistic understanding of the Earth's physical and human systems and their interconnectedness. It also incorporates the techniques of map interpretation and the basic techniques in research.",
+    "competence_learning": "The topics provided in this syllabus are aimed at facilitating the holistic development of learners. The suggested activities are designed to offer learners hands-on experiences through manipulation of real objects and interaction with nature. Thus, the children will develop knowledge, desirable lifelong skills, values, and positive attitudes needed for their personal and national development. Cross-cutting themes and emerging issues such as National Values and Principles, Life Skills and Health Education, and Entrepreneurship Education have been incorporated into the syllabus to ensure that children cultivate a mindset, skills, values, and positive attitudes that prepare them to live responsible lives and be protected from life-threatening vices. The purpose of learning Geography is to enable learners develop knowledge, skills and values necessary to understand the Earth, its systems and the relationship between human settlements, natural resources, economic activities and environmental health and sustainability. It is envisioned that learning Geography should enable learners acquire essential competences; and think reflectively, logically, scientifically, creatively and critically so as to promote sustainable development. It is desired that in this syllabus learners should develop a variety of functional and sustainable knowledge, skills, and experiences which will help them develop into citizens with positive attitude, a sense of curiosity, capacity and ability to fit in the local, national, regional and international community.",
+    "goals": [
+      "To provide quality education aligned with the Competency-Based Curriculum and 21st-century skills.",
+      "To ignite curiosity and foster appreciation for the Earth's diverse landscapes, cultures, and ecosystems.",
+      "To prepare learners to engage meaningfully with global challenges such as climate change, urbanisation, and resource management.",
+      "To facilitate the holistic development of learners, including knowledge, desirable lifelong skills, values, and positive attitudes.",
+      "To ensure learners cultivate a mindset, skills, values, and positive attitudes for responsible lives and protection from life-threatening vices.",
+      "To enable learners to acquire essential competences and think reflectively, logically, scientifically, creatively, and critically for sustainable development.",
+      "To help learners develop into citizens with a positive attitude, a sense of curiosity, capacity, and ability to fit into local, national, regional, and international communities."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "2.1",
+      "topic_title": "Basic Map Reading Techniques",
+      "page_number": 28,
+      "subtopics": [
+        "2.1.1. Maps and Diagrams",
+        "2.1.2. Map Symbols",
+        "2.1.3. Map Reading and Interpretation",
+        "2.1.4. Relief"
+      ],
+      "specific_outcomes": [
+        "2.1.1.1. Demonstrate understanding of maps and diagrams",
+        "2.1.2.1. Use symbols and legend to recognise features",
+        "2.1.3.1. Use 4-figure and 6-figure to grid references to locate points or features",
+        "2.1.4.1. Use contours and other symbols to determine relief",
+        "2.1.4.2. Analyse terrain"
+      ]
+    },
+    {
+      "unit": "2.1",
+      "topic_title": "Basic Map Reading Techniques",
+      "page_number": 29,
+      "subtopics": [
+        "2.1.5. Drainage Features",
+        "2.1.6. Land Use",
+        "2.1.7. Direction and Orientation",
+        "2.1.8. Measurement of Distance and Area"
+      ],
+      "specific_outcomes": [
+        "2.1.5.1. Analyse drainage patterns",
+        "2.1.6.1. Use symbols to interpret vegetation and land use",
+        "2.1.7.1. Use compass bearing and cardinal directions for navigation",
+        "2.1.8.1. Practise distance and area measurement"
+      ]
+    },
+    {
+      "unit": "2.2",
+      "topic_title": "Basic Research Skills",
+      "page_number": 30,
+      "subtopics": [
+        "2.2.1. Fieldwork",
+        "2.2.2. Planning and Preparing for Field Work",
+        "2.2.3. Data Collection/ Fieldwork"
+      ],
+      "specific_outcomes": [
+        "2.2.1.1. Analyse fieldwork",
+        "2.2.2.1. Plan for field work",
+        "2.2.3.1. Collect data in the field"
+      ]
+    },
+    {
+      "unit": "2.2",
+      "topic_title": "Basic Research Skills",
+      "page_number": 31,
+      "subtopics": [
+        "2.2.4. Data processing",
+        "2.2.5. Presenting Findings"
+      ],
+      "specific_outcomes": [
+        "2.2.4.1. Process Data",
+        "2.2.5.1. Use findings to address local challenges"
+      ]
+    },
+    {
+      "unit": "2.3",
+      "topic_title": "Environment",
+      "page_number": 31,
+      "subtopics": [
+        "2.3.1. Environment Degradation"
+      ],
+      "specific_outcomes": [
+        "2.3.1.1. Demonstrate understanding of environmental degradation"
+      ]
+    },
+    {
+      "unit": "2.3",
+      "topic_title": "Environment",
+      "page_number": 32,
+      "subtopics": [
+        "2.3.2. Environmental Protection",
+        "2.3.3. Environmental Hazards and Disasters"
+      ],
+      "specific_outcomes": [
+        "2.3.2.1. Conduct sustainable management practices",
+        "2.3.3.1. Analyse environmental hazards and disasters",
+        "2.3.3.2. Respond to natural hazards and disasters"
+      ]
+    },
+    {
+      "unit": "2.4",
+      "topic_title": "Agro-Ecological Regions in Zambia",
+      "page_number": 33,
+      "subtopics": [
+        "2.4.1. Zambia's Agro-Ecological Regions",
+        "2.4.2. Climate and Agro-Ecological Regions",
+        "2.4.3. Agriculture and Agro-Ecological Regions"
+      ],
+      "specific_outcomes": [
+        "2.4.1.1. Analyse Zambia's Agro Ecological Regions",
+        "2.4.2.1. Establish relationship between climate and Agro Ecological Regions",
+        "2.4.3.1. Show a relationship between Agriculture and Agro-Ecological Regions"
+      ]
+    }
+  ]
+}

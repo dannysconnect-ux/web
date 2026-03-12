@@ -1,0 +1,1752 @@
+{
+  "subject": "French Language",
+  "grade": "Form 1",
+  "term": 3,
+  "topics": [
+    {
+      "topic_id": "1.11.0",
+      "topic_title": "MY SCHOOL",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.11.1",
+          "title": "Classroom Orders and Instructions in French",
+          "page": 6,
+          "competences": [
+            "Use classroom orders and instructions in French"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 7,
+              "hook": "Imagine a place where you learn new things, play with your friends and grow everyday. That place is your school. Let us talk about what makes your school special in French.",
+              "teacher_steps": [
+                "Give instructions in French accompanied by gestures",
+                "Learners listen to a set of demonstrated instructions and respond appropriately (e.g. Entrez!/Venez! Va a ta place! Levez-vous!)"
+              ],
+              "learner_steps": [
+                "Listen to a list of French classroom expressions",
+                "Find their meaning in English (Sortez - Entrez - Taisez-vous…)",
+                "Respond appropriately to demonstrated instructions"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 7,
+              "hook": "Discussing classroom expressions/commands/orders in French",
+              "teacher_steps": [
+                "Provide revision on 'Les adjectifs possessifs'",
+                "Guide learners to find the meaning of different classroom instructions and commands in groups"
+              ],
+              "learner_steps": [
+                "Work in groups to find the meaning of different classroom instructions and commands"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 8,
+              "hook": "Dramatizing classroom expressions or orders",
+              "teacher_steps": [
+                "Guide learners to role play classroom orders (Levez-vous!, Asseyez-vous!, Ecoutez!, Repetez!…)"
+              ],
+              "learner_steps": [
+                "Role play classroom orders"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "4",
+              "page": 8,
+              "hook": "Reading classroom expressions and translating them from French to English and vice versa",
+              "teacher_steps": [
+                "Provide classroom expressions for reading and translation"
+              ],
+              "learner_steps": [
+                "Read and translate classroom expressions from French to English and vice versa"
+              ]
+            }
+          ],
+          "short_notes": "Classroom orders and instructions are essential for creating a productive and supportive learning environment. A well ordered classroom minimizes distractions allowing learners to focus better on their studies. In this subtopic, learners will learn key phrases used by teachers and learners in a French speaking classroom such as common commands, instructions and questions that facilitate communication.",
+          "vocabulary": [
+            {
+              "term": "Les ordres",
+              "definition": "Orders/commands"
+            },
+            {
+              "term": "Ouvre ton livre à la page 3!",
+              "definition": "Open your book to page 3!"
+            },
+            {
+              "term": "Ferme ton livre!",
+              "definition": "Close your book!"
+            },
+            {
+              "term": "Lève ta main gauche!",
+              "definition": "Raise your left hand!"
+            },
+            {
+              "term": "Regarde!",
+              "definition": "Look!"
+            },
+            {
+              "term": "Parle plus fort!",
+              "definition": "Speak louder!"
+            },
+            {
+              "term": "Sors!",
+              "definition": "Go out!/Exit!"
+            },
+            {
+              "term": "Assieds-toi!",
+              "definition": "Sit down!"
+            },
+            {
+              "term": "Entrez!",
+              "definition": "Come in!/Enter!"
+            },
+            {
+              "term": "Venez!",
+              "definition": "Come!"
+            },
+            {
+              "term": "Va a ta place!",
+              "definition": "Go to your seat!"
+            },
+            {
+              "term": "Levez-vous!",
+              "definition": "Stand up!"
+            },
+            {
+              "term": "Asseyez-vous!",
+              "definition": "Sit down!"
+            },
+            {
+              "term": "Ecoutez!",
+              "definition": "Listen!"
+            },
+            {
+              "term": "Repetez!",
+              "definition": "Repeat!"
+            },
+            {
+              "term": "Sortez!",
+              "definition": "Go out!"
+            },
+            {
+              "term": "Taisez-vous",
+              "definition": "Be quiet!"
+            },
+            {
+              "term": "Sortir",
+              "definition": "To go out"
+            },
+            {
+              "term": "Faire",
+              "definition": "To do/make"
+            },
+            {
+              "term": "Parler",
+              "definition": "To speak"
+            },
+            {
+              "term": "Entrer",
+              "definition": "To enter"
+            },
+            {
+              "term": "Regarder",
+              "definition": "To look/watch"
+            },
+            {
+              "term": "Fermer",
+              "definition": "To close"
+            },
+            {
+              "term": "Manger",
+              "definition": "To eat"
+            },
+            {
+              "term": "Retourner",
+              "definition": "To return"
+            },
+            {
+              "term": "Venir",
+              "definition": "To come"
+            },
+            {
+              "term": "Aller",
+              "definition": "To go"
+            },
+            {
+              "term": "Dégager",
+              "definition": "To clear out/leave"
+            }
+          ],
+          "assessment": {
+            "page": 8,
+            "questions": [
+              "Use classroom orders and instructions in French correctly"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.11.2",
+          "title": "My School Subjects",
+          "page": 8,
+          "competences": [
+            "Identify different school subjects in French"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 9,
+              "hook": "Listing different subjects offered in a school",
+              "teacher_steps": [
+                "Ask learners to mention the subjects they know in secondary school",
+                "Provide a simple passage on 'Les matières' (e.g Le Français, l'anglais, les mathématiques, le civisme, la géographie, l'histoire, l'éducation religieuse, l'informatique, les sciences etc…)"
+              ],
+              "learner_steps": [
+                "Mention the subjects they know in secondary school",
+                "Identify and list the different subjects mentioned in the passage"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 9,
+              "hook": "Discussing school subjects (les matières préferées)",
+              "teacher_steps": [
+                "Explain Comparatif: 'Que' (e.g. Je préfère les Mathématiques que la Biologie)",
+                "Explain Superlatif: plus…que, très…que (La Science est plus facile que la Géographie. Le Français est très intéressant que l'Histoire)",
+                "Explain Egalité: Aussi…que (e.g. La Physique est aussi difficile que la Chimie)",
+                "Explain Infériorité: Moins…que (e.g. L'Anglais est moins facile que les Mathématiques)",
+                "Explain use of Parce que… (E.g. Je préfère les Mathématiques parce que je veux être ingénieur)"
+              ],
+              "learner_steps": [
+                "Work in groups to make sentences using verbs préférer and aimer (e.g J'aime le Civisme, Nous préférons l'informatique, Il n'aime pas la Chimie)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 10,
+              "hook": "Writing a simple composition on one's favourite subjects and explain why",
+              "teacher_steps": [
+                "Guide learners on composition structure: Your name, school, number and names of subjects, subjects preferred…"
+              ],
+              "learner_steps": [
+                "Write a guided composition on subjects they like and why"
+              ]
+            }
+          ],
+          "short_notes": "This sub topic will enable learners to learn names of different school subjects in French and be able to express preferences about their favorite and least favorite subjects. The sub-topic will also introduce how to ask questions about subjects and discuss the subjects learners study.",
+          "vocabulary": [
+            {
+              "term": "Les matières",
+              "definition": "Subjects"
+            },
+            {
+              "term": "Le français",
+              "definition": "French"
+            },
+            {
+              "term": "L'anglais",
+              "definition": "English"
+            },
+            {
+              "term": "Les mathématiques",
+              "definition": "Mathematics"
+            },
+            {
+              "term": "Le civisme",
+              "definition": "Civic education"
+            },
+            {
+              "term": "La géographie",
+              "definition": "Geography"
+            },
+            {
+              "term": "L'histoire",
+              "definition": "History"
+            },
+            {
+              "term": "L'éducation religieuse",
+              "definition": "Religious education"
+            },
+            {
+              "term": "L'informatique",
+              "definition": "Computer studies/ICT"
+            },
+            {
+              "term": "Les sciences",
+              "definition": "Science"
+            },
+            {
+              "term": "Aimer",
+              "definition": "To like/love"
+            },
+            {
+              "term": "Préférer",
+              "definition": "To prefer"
+            },
+            {
+              "term": "Avoir",
+              "definition": "To have"
+            },
+            {
+              "term": "Prendre",
+              "definition": "To take"
+            },
+            {
+              "term": "Étudier",
+              "definition": "To study"
+            }
+          ],
+          "assessment": {
+            "page": 10,
+            "questions": [
+              "Identify different school subjects in French correctly"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.11.3",
+          "title": "School Timetable",
+          "page": 10,
+          "competences": [
+            "Draw up a school/personal timetable",
+            "Describe different classroom objects"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 11,
+              "hook": "Discussing a school timetable (Remplir son emploi du temps avec les matières de son école)",
+              "teacher_steps": [
+                "Provide and explain vocabulary that is related to a school timetable (e.g les matières, classes, jour de la semaine, récréation, heure…)",
+                "Present a sample of a school timetable written in French"
+              ],
+              "learner_steps": [
+                "In groups, discuss the various French terms used on the given sample of a timetable"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 11,
+              "hook": "Formulating own study timetable (l'horaire personnel)",
+              "teacher_steps": [
+                "Provide learners with a blank timetable (a table with days of the week and times of the day)"
+              ],
+              "learner_steps": [
+                "Fill in the blank timetable given in French (Les mathématiques, le français…)",
+                "After filling in their personal timetables, share with partners or the class on what they do each day",
+                "Interpret their timetable and practice constructing simple sentences in French using the vocabulary learned (e.g le lundi, j'ai les Mathématiques à 9.00 heures. Le vendredi, j'ai l'anglais après la recréation…)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 11,
+              "hook": "Writing a simple composition including the name of your school/subjects you take and like",
+              "teacher_steps": [
+                "Provide a sample of guided composition in which a learner introduces him/herself and talk about their favourite subjects (e.g. Bonjour, je m'appelle Mulenga. J'ai quinze ans. J'habite à Lusaka. Je suis un élève à l'école David Kaunda. J'aime le français et la géographie. Ma matière préférée est…)"
+              ],
+              "learner_steps": [
+                "Write similar compositions using their own information"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "4",
+              "page": 12,
+              "hook": "Listing different classroom objects (la table, le tableau…)",
+              "teacher_steps": [
+                "Show real items or images and say their names in French (e.g un stylo, un crayon)",
+                "Provide a short passage about classroom objects"
+              ],
+              "learner_steps": [
+                "Each learner picks an object from their desk and says its name in French",
+                "Play a game (cherchez et trouvez une gomme…)",
+                "Draw the classroom items and label them in French (la table, le stylo, le banc, la gomme…)",
+                "Answer questions from the passage"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "5",
+              "page": 13,
+              "hook": "Dramatizing the named classroom objects using interrogative expressions (Qu'est-ce que c'est? C'est…)",
+              "teacher_steps": [
+                "Explain 'les adjectifs démonstratifs': ce, cet, cette, ces (this, these) (e.g ce livre est bleu, cet élève est intelligent, cette table est sale, ces stylos sont rouges)"
+              ],
+              "learner_steps": [
+                "Dramatize the names of classroom objects (e.g. Qu'est-ce que c'est? C'est le stylo)",
+                "Identify the correct 'adjectif démonstratif' (e.g. … stylo, … ordinateur, … crayons, … table)"
+              ]
+            }
+          ],
+          "short_notes": "Planning is an important aspect of every person's daily activities. In this sub topic, learners will learn how to plan for their daily activities and come up with timetables in French. A school timetable is a summarised plan that describes learners activities. It smoothly guides learners to pursue their academic activities without any stress. This sub-topic discusses school and personal timetable and classroom objects.",
+          "vocabulary": [
+            {
+              "term": "Nom de l'école",
+              "definition": "Name of the school"
+            },
+            {
+              "term": "Heure",
+              "definition": "Hour/time"
+            },
+            {
+              "term": "Matière",
+              "definition": "Subject"
+            },
+            {
+              "term": "Les jours de la semaine",
+              "definition": "Days of the week"
+            },
+            {
+              "term": "Matin",
+              "definition": "Morning"
+            },
+            {
+              "term": "Midi",
+              "definition": "Noon/midday"
+            },
+            {
+              "term": "Après-midi",
+              "definition": "Afternoon"
+            },
+            {
+              "term": "Récréation",
+              "definition": "Break/recess"
+            },
+            {
+              "term": "Classes",
+              "definition": "Classes"
+            },
+            {
+              "term": "Un stylo",
+              "definition": "A pen"
+            },
+            {
+              "term": "Livre",
+              "definition": "Book"
+            },
+            {
+              "term": "Cahier",
+              "definition": "Exercise book/notebook"
+            },
+            {
+              "term": "Sac",
+              "definition": "Bag"
+            },
+            {
+              "term": "Un tableau",
+              "definition": "A board/chalkboard"
+            },
+            {
+              "term": "Marqueur",
+              "definition": "Marker"
+            },
+            {
+              "term": "Une chaise",
+              "definition": "A chair"
+            },
+            {
+              "term": "Gomme",
+              "definition": "Eraser"
+            },
+            {
+              "term": "Règle",
+              "definition": "Ruler"
+            },
+            {
+              "term": "Calculatrice",
+              "definition": "Calculator"
+            },
+            {
+              "term": "Un banc",
+              "definition": "A bench/desk"
+            },
+            {
+              "term": "Une table",
+              "definition": "A table"
+            },
+            {
+              "term": "Un frottoir",
+              "definition": "A duster/eraser"
+            },
+            {
+              "term": "Craie",
+              "definition": "Chalk"
+            },
+            {
+              "term": "Crayon",
+              "definition": "Pencil"
+            },
+            {
+              "term": "Ordinateur",
+              "definition": "Computer"
+            },
+            {
+              "term": "Dictionnaire",
+              "definition": "Dictionary"
+            },
+            {
+              "term": "Atlas",
+              "definition": "Atlas"
+            },
+            {
+              "term": "Papier",
+              "definition": "Paper"
+            },
+            {
+              "term": "Poubelle",
+              "definition": "Trash can/bin"
+            },
+            {
+              "term": "Voici",
+              "definition": "Here is"
+            },
+            {
+              "term": "Voilà",
+              "definition": "There is"
+            },
+            {
+              "term": "Il y a",
+              "definition": "There is/are"
+            },
+            {
+              "term": "Qu'est-ce que c'est?",
+              "definition": "What is it?"
+            },
+            {
+              "term": "C'est le/la…",
+              "definition": "It is the…"
+            },
+            {
+              "term": "Avoir",
+              "definition": "To have"
+            },
+            {
+              "term": "Étudier",
+              "definition": "To study"
+            },
+            {
+              "term": "Réviser",
+              "definition": "To revise"
+            },
+            {
+              "term": "Être",
+              "definition": "To be"
+            },
+            {
+              "term": "Mettre",
+              "definition": "To put"
+            },
+            {
+              "term": "Prendre",
+              "definition": "To take"
+            },
+            {
+              "term": "Donner",
+              "definition": "To give"
+            }
+          ],
+          "assessment": {
+            "page": 13,
+            "questions": [
+              "Draw school and personal timetables correctly",
+              "Describe different classroom objects correctly"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "1.12.0",
+      "topic_title": "DAILY ACTIVITIES",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.12.1",
+          "title": "Telling Time",
+          "page": 16,
+          "competences": [
+            "Tell Time in French",
+            "Narrate daily activities in French",
+            "Identify days of the week and months of the year in French"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 17,
+              "hook": "Show a series of pictures representing different daily activities (e.g. waking up, eating breakfast, going to work/school, exercising…). Ask students to identify these activities and arrange them in the order of a typical day.",
+              "teacher_steps": [
+                "Provide a dialogue or conversation in which people ask and tell time",
+                "Explain the expressions used to ask and tell time in French"
+              ],
+              "learner_steps": [
+                "Listen to a dialogue or conversation in which people ask and tell time in French (Quelle heure est-il? Il est…)",
+                "Identify expressions used to ask and tell time (e.g Quelle heure est-il? Il est quelle heure? Vous avez l'heure, s'il vous plaît?…)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 17,
+              "hook": "Asking and telling time in French",
+              "teacher_steps": [
+                "Provide different expressions used to ask and tell time in French (Quelle heure est-il?… Il est 7 heures 30. Il est quelle heure? Il est 12 heures. Vous avez l'heure, s'il vous plaît? Oui, il est 16 heures....)",
+                "Use visual aid like a clock or digital timer showing different times. Read the time aloud and ask learners to repeat after you",
+                "Use a large paper clock with moveable hands. Call each learner to position the clock hands to match the time given",
+                "Explain expressions to indicate half hour and quarter hour in French (…et demi, …et quart...) (e.g. je mange à douze heures et demi, Le bus arrive à huit heures et quart)"
+              ],
+              "learner_steps": [
+                "Repeat the time expressions after the teacher",
+                "Position clock hands to match given times",
+                "Practice using half hour and quarter hour expressions"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 17,
+              "hook": "Reading a passage on a bus schedule indicating departure and arrival time",
+              "teacher_steps": [
+                "Provide a passage on a bus schedule indicating departure or arrival time"
+              ],
+              "learner_steps": [
+                "Read the passage and answer questions relating to departure or arrival times (e.g. A quelle heure le bus arrive à Kitwe? Le bus arrive à Kitwe à 14 heures 30)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "4",
+              "page": 18,
+              "hook": "Writing how to ask and tell time in French",
+              "teacher_steps": [
+                "Provide a written dialogue on asking and telling time with blank spaces"
+              ],
+              "learner_steps": [
+                "Complete the dialogue on asking and telling time in French (e.g. Masauso: Quelle heure est-il? Namakao: .…. dix heures. Masauso: C'est …. heure la géographie? Namakao: La géographie est à ………..heures)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "5",
+              "page": 18,
+              "hook": "Narrating daily activities in chronological order",
+              "teacher_steps": [
+                "Provide a passage of a person narrating their daily activities"
+              ],
+              "learner_steps": [
+                "Identify the activities of the person in the passage and what time they are performed",
+                "In groups, narrate their daily activities with the time they are performed (e.g. à six heures, je me lave, à sept heures, je prends le petit déjeuner)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "6",
+              "page": 18,
+              "hook": "Making a diary in French",
+              "teacher_steps": [
+                "Provide a written dialogue on daily routines in French",
+                "Provide a cloze passage on daily routine accompanied with possible answers (Answers: douze, vais, je, à, e.g. Le matin, je me lève …. 6h45. A 8h00, je … à l'école, et … mange mon déjeuner à ….heures)"
+              ],
+              "learner_steps": [
+                "Role-play the dialogue in French (Nkisu: 'À quelle heure tu prends ton petit déjeuner?' Wana: Je prends mon petit déjeuner à huit heures et demi. Nkisu: 'Qu'est-ce que tu fais après l'école?' Wana: Je fais la vaisselle)",
+                "Complete the cloze passage on daily routine"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "7",
+              "page": 19,
+              "hook": "Writing on one's daily activities",
+              "teacher_steps": [
+                "Guide learners on writing a paragraph on daily activities"
+              ],
+              "learner_steps": [
+                "Write a paragraph on their daily activities in a chronological order"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "8",
+              "page": 19,
+              "hook": "Naming the days of the week and months of the year",
+              "teacher_steps": [
+                "Provide a list of days of the week in French and their pronunciation",
+                "Provide a list of months of the year in French and their pronunciation"
+              ],
+              "learner_steps": [
+                "Write down the days of the week and pronounce them in French correctly (Lundi, mardi…)",
+                "Write down the months of the year and pronounce them in French correctly (janvier, février…)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "9",
+              "page": 20,
+              "hook": "Making a calendar",
+              "teacher_steps": [
+                "Using a real calender, explain the features of a calender (la date, jour de la semaine, les mois de l'année)",
+                "Guide learners on how to make a calender (Step 1: write a year on top e.g. 2025. Step 2: write a month on top e.g. Janvier, février… Step 3: Fill in the days of the week e.g. lundi, mardi, mercredi, jeudi… Step 4: Fill in the dates e.g. 1, 2, 3, 4…)"
+              ],
+              "learner_steps": [
+                "Make a calendar for the year"
+              ]
+            }
+          ],
+          "short_notes": "Understanding how to tell time in French is a fundamental skill for learners. Time is an essential aspect of daily life, and knowing how to express it accurately enables learners to engage in a variety of everyday activities, from scheduling appointments to discussing plans and routines. In French, telling time differs slightly from English, particularly in expressing hours and minutes, as well as in the formal and informal structures used in conversations about time. Expressing daily activities is a universal concept that is relevant and relatable to all learners, regardless of their cultural background. This topic lays a foundation for everyday communication and helps learners to gain confidence in daily conversations.",
+          "vocabulary": [
+            {
+              "term": "Lundi",
+              "definition": "Monday"
+            },
+            {
+              "term": "Mardi",
+              "definition": "Tuesday"
+            },
+            {
+              "term": "Mercredi",
+              "definition": "Wednesday"
+            },
+            {
+              "term": "Jeudi",
+              "definition": "Thursday"
+            },
+            {
+              "term": "Vendredi",
+              "definition": "Friday"
+            },
+            {
+              "term": "Samedi",
+              "definition": "Saturday"
+            },
+            {
+              "term": "Dimanche",
+              "definition": "Sunday"
+            },
+            {
+              "term": "Janvier",
+              "definition": "January"
+            },
+            {
+              "term": "Février",
+              "definition": "February"
+            },
+            {
+              "term": "Mars",
+              "definition": "March"
+            },
+            {
+              "term": "Avril",
+              "definition": "April"
+            },
+            {
+              "term": "Mai",
+              "definition": "May"
+            },
+            {
+              "term": "Juin",
+              "definition": "June"
+            },
+            {
+              "term": "Juillet",
+              "definition": "July"
+            },
+            {
+              "term": "Août",
+              "definition": "August"
+            },
+            {
+              "term": "Septembre",
+              "definition": "September"
+            },
+            {
+              "term": "Octobre",
+              "definition": "October"
+            },
+            {
+              "term": "Novembre",
+              "definition": "November"
+            },
+            {
+              "term": "Décembre",
+              "definition": "December"
+            },
+            {
+              "term": "Le jour",
+              "definition": "The day"
+            },
+            {
+              "term": "La journée",
+              "definition": "The day (duration)"
+            },
+            {
+              "term": "Le matin",
+              "definition": "The morning"
+            },
+            {
+              "term": "L'après-midi",
+              "definition": "The afternoon"
+            },
+            {
+              "term": "Le soir",
+              "definition": "The evening"
+            },
+            {
+              "term": "La nuit",
+              "definition": "The night"
+            },
+            {
+              "term": "L'heure",
+              "definition": "The hour/time"
+            },
+            {
+              "term": "Minute",
+              "definition": "Minute"
+            },
+            {
+              "term": "Seconde",
+              "definition": "Second"
+            },
+            {
+              "term": "La soirée",
+              "definition": "The evening (duration)"
+            },
+            {
+              "term": "Le mois",
+              "definition": "The month"
+            },
+            {
+              "term": "La semaine",
+              "definition": "The week"
+            },
+            {
+              "term": "L'année",
+              "definition": "The year"
+            },
+            {
+              "term": "L'an",
+              "definition": "The year"
+            },
+            {
+              "term": "Le temps",
+              "definition": "Time/weather"
+            },
+            {
+              "term": "En retard",
+              "definition": "Late"
+            },
+            {
+              "term": "Agenda",
+              "definition": "Diary/planner"
+            },
+            {
+              "term": "Programme",
+              "definition": "Schedule/program"
+            },
+            {
+              "term": "La montre/pendule",
+              "definition": "Watch/clock"
+            },
+            {
+              "term": "Faire la vaisselle",
+              "definition": "To do the dishes"
+            },
+            {
+              "term": "Faire du sport",
+              "definition": "To do sports"
+            },
+            {
+              "term": "Se brosser les dents",
+              "definition": "To brush one's teeth"
+            },
+            {
+              "term": "À quelle heure",
+              "definition": "At what time"
+            },
+            {
+              "term": "Tous les jours",
+              "definition": "Every day"
+            },
+            {
+              "term": "Une fois par semaine",
+              "definition": "Once a week"
+            },
+            {
+              "term": "Prendre",
+              "definition": "To take"
+            },
+            {
+              "term": "Dire",
+              "definition": "To say/tell"
+            },
+            {
+              "term": "Faire",
+              "definition": "To do/make"
+            },
+            {
+              "term": "Aller",
+              "definition": "To go"
+            },
+            {
+              "term": "Raconter",
+              "definition": "To tell/narrate"
+            },
+            {
+              "term": "Suivre",
+              "definition": "To follow"
+            },
+            {
+              "term": "Narrer",
+              "definition": "To narrate"
+            },
+            {
+              "term": "Retarder",
+              "definition": "To delay/be late"
+            },
+            {
+              "term": "Se dépêcher",
+              "definition": "To hurry"
+            },
+            {
+              "term": "Se doucher",
+              "definition": "To shower"
+            },
+            {
+              "term": "Habiller",
+              "definition": "To dress"
+            },
+            {
+              "term": "Se laver",
+              "definition": "To wash oneself"
+            },
+            {
+              "term": "Se lever",
+              "definition": "To get up"
+            },
+            {
+              "term": "Manger",
+              "definition": "To eat"
+            },
+            {
+              "term": "Boire",
+              "definition": "To drink"
+            },
+            {
+              "term": "Se coucher",
+              "definition": "To go to bed"
+            },
+            {
+              "term": "Lire",
+              "definition": "To read"
+            },
+            {
+              "term": "Regarder",
+              "definition": "To watch/look"
+            },
+            {
+              "term": "Préparer",
+              "definition": "To prepare"
+            },
+            {
+              "term": "Étudier",
+              "definition": "To study"
+            }
+          ],
+          "assessment": {
+            "page": 20,
+            "questions": [
+              "Tell time in French correctly",
+              "Narrate daily activities in French accordingly",
+              "Identify days of the week and months of the year in French correctly"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "1.13.0",
+      "topic_title": "THE PAST",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.13.1",
+          "title": "Past Actions",
+          "page": 22,
+          "competences": [
+            "Describe past actions in French"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 23,
+              "hook": "Show a picture of an action and say 'Aujourd'hui, je mange. Hier, j'ai mangé'. Ask the learners to guess the meaning of the second sentence.",
+              "teacher_steps": [
+                "Play an audio or read a passage in which le passé composé has been used for the learners to understand the structure and its usage",
+                "Guide learners in identifying the structure (le passé composé) from the passage (e.g. Hier, je suis allé au marché. J'ai acheté une pomme)"
+              ],
+              "learner_steps": [
+                "Listen to a passage on past happenings (je suis allé hier, j'ai mangé)",
+                "In groups, identify the structure (le passé composé) used from the passage given"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 24,
+              "hook": "Composing le passé composé",
+              "teacher_steps": [
+                "Explain the formation of le passé composé",
+                "Explain L'auxiliaire (helping verb) – Either avoir or être, used to form the past tense",
+                "Explain Conjugaison du verbe avoir et être au temps présent",
+                "Explain Formation du participe passé des verbes réguliers (-er): When forming the participe passé of -er verbs, remove -er and add -é (e.g manger - mangé)",
+                "Explain structure: Sujet + avoir + (participe passé) - Chanter: Elle a chanté. Sujet + être + (participe passé) - Aller: Je suis allé à l'église"
+              ],
+              "learner_steps": [
+                "Complete sentences given with the correct form of the verbs in brackets using le passé composé (e.g. Il ... (achêter) la chemise. Il a achêté la chemise)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 24,
+              "hook": "Distinguishing the verbs that use être and avoir",
+              "teacher_steps": [
+                "Explain le passé composé avec être: some verbs have être as the auxiliary verb instead of avoir (e.g. A group of common verbs mostly connected with movement and change)",
+                "Teach pairs of opposite verbs: aller (to go) - venir (to come), arriver (to arrive) - partir (to leave), entrer (to go in) - sortir (to go out), monter (to go up) - descendre (to go down), naître (to be born) - mourir (to die), devenir (to become), rentrer (to go back), rester (to stay), retourner (to return), revenir (to come back), tomber (to fall)",
+                "Explain that all reflexive verbs use être as auxiliary verb (e.g. se laver, se lever)",
+                "Explain L'accord du participe passé en genre et en nombre – Agreement of the past participle with the subject when using the auxiliary être (e.g. il est parti /elle est partie, ils sont allés /elles sont allées)",
+                "Provide le participe passé of verbs that use the auxiliary être"
+              ],
+              "learner_steps": [
+                "Transform the given sentences from present to le passé composé using être (e.g. Elle va au marché - Elle est allée au marché. Nous entrons dans la salle - Nous sommes entrées /entres dans la salle)",
+                "Complete the passage using the correct auxiliary verb and le participe passé (e.g. Hier, je …. (aller) à l'école. Je ….. (arriver) à 7.30 heures. Nous ….(étudier) le français avec mes amis. Apres classe, je ….. (rentrer) a la maison. Je …. (manger) mon déjeuner à 13.00 heures)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "4",
+              "page": 26,
+              "hook": "Role playing past actions using être/avoir + participe passé (passé composé)",
+              "teacher_steps": [
+                "Guide learners to talk about past activities"
+              ],
+              "learner_steps": [
+                "In pairs talk about what they did during the weekend"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "5",
+              "page": 26,
+              "hook": "Reading a passage on past happenings",
+              "teacher_steps": [
+                "Provide a short passage on past events"
+              ],
+              "learner_steps": [
+                "Respond to the questions based on the passage"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "6",
+              "page": 26,
+              "hook": "Writing a story on past events using pictures",
+              "teacher_steps": [
+                "Provide picture stories"
+              ],
+              "learner_steps": [
+                "Narrate a story in the past using the given pictures"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "7",
+              "page": 26,
+              "hook": "Composing a story from past events",
+              "teacher_steps": [
+                "Introduce expressions used to narrate a story in the past (e.g. Hier (yesterday), La semaine dernière (last week), Il y a… (… ago), Ce matin (this morning), Quand J'étais petit(e), J'étais calme)",
+                "Explain l'imparfait: L'Imparfait is sometimes called the past continuous tense. It is not made up of two parts like le passé composé, but it is just one word made of a stem and an ending",
+                "Explain that the stem is the nous form of the present tense of the verb minus the -ons",
+                "Provide formation table for l'imparfait: Regarder - Nous regardons - regard - regardions; Prendre - Nous prenons - Pren - Prenions",
+                "Explain the endings: Je -ais, Tu -ais, Il/Elle/On -ait, Nous -ions, Vous -iez, Ils/Elles -aient",
+                "Explain how to write an imaginative story from the past events"
+              ],
+              "learner_steps": [
+                "Write an imaginative story from past events using le passé composé and l'imparfait"
+              ]
+            }
+          ],
+          "short_notes": "The past refers to a time that has already happened, before the present moment. It could be recent (yesterday, last week) or distant (years ago). The past usually means past tense and it is used to talk about actions or events that have already happened. In French, learners start by learning passé composé which is the most commonly used past tense in everyday conversations. It is used to talk about completed actions in the past. Understanding past actions and the tenses used to describe them is essential as it allows learners to share their experiences, tell stories and connect events that shape their day to day lives.",
+          "vocabulary": [
+            {
+              "term": "Hier",
+              "definition": "Yesterday"
+            },
+            {
+              "term": "La semaine dernière",
+              "definition": "Last week"
+            },
+            {
+              "term": "Il y a…",
+              "definition": "… ago"
+            },
+            {
+              "term": "Ce matin",
+              "definition": "This morning"
+            },
+            {
+              "term": "Une fois",
+              "definition": "Once"
+            },
+            {
+              "term": "Le passé composé",
+              "definition": "Compound past tense (used for completed actions)"
+            },
+            {
+              "term": "L'auxiliaire",
+              "definition": "Helping verb (avoir or être)"
+            },
+            {
+              "term": "Le participe passé",
+              "definition": "Past participle (e.g. mangé, fini, pris)"
+            },
+            {
+              "term": "L'accord du participe passé",
+              "definition": "Agreement of the past participle with the subject"
+            },
+            {
+              "term": "L'imparfait",
+              "definition": "Imperfect tense (past continuous)"
+            },
+            {
+              "term": "Aller",
+              "definition": "To go"
+            },
+            {
+              "term": "Venir",
+              "definition": "To come"
+            },
+            {
+              "term": "Arriver",
+              "definition": "To arrive"
+            },
+            {
+              "term": "Partir",
+              "definition": "To leave"
+            },
+            {
+              "term": "Entrer",
+              "definition": "To go in/enter"
+            },
+            {
+              "term": "Sortir",
+              "definition": "To go out"
+            },
+            {
+              "term": "Monter",
+              "definition": "To go up"
+            },
+            {
+              "term": "Descendre",
+              "definition": "To go down"
+            },
+            {
+              "term": "Naître",
+              "definition": "To be born"
+            },
+            {
+              "term": "Mourir",
+              "definition": "To die"
+            },
+            {
+              "term": "Devenir",
+              "definition": "To become"
+            },
+            {
+              "term": "Rentrer",
+              "definition": "To go back/return home"
+            },
+            {
+              "term": "Rester",
+              "definition": "To stay"
+            },
+            {
+              "term": "Retourner",
+              "definition": "To return"
+            },
+            {
+              "term": "Revenir",
+              "definition": "To come back"
+            },
+            {
+              "term": "Tomber",
+              "definition": "To fall"
+            },
+            {
+              "term": "Se laver",
+              "definition": "To wash oneself"
+            },
+            {
+              "term": "Se lever",
+              "definition": "To get up"
+            }
+          ],
+          "assessment": {
+            "page": 27,
+            "questions": [
+              "Describe past actions in French correctly using le passé composé",
+              "Use appropriate auxiliary verbs (avoir or être) with past participles",
+              "Apply correct agreement of past participle with subject when using être",
+              "Use l'imparfait appropriately in narratives"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "1.14.0",
+      "topic_title": "WEATHER",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.14.1",
+          "title": "Weather Conditions",
+          "page": 29,
+          "competences": [
+            "Describe what the weather is like in French",
+            "Identify various seasons in French"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 30,
+              "hook": "Show a picture depicting a cold weather and say 'aujourd'hui, il fait très froid.' Ask the learners what the weather is like.",
+              "teacher_steps": [
+                "Provide a dialogue (audio) about weather (e.g. Michelo: Salut! Quel temps fait-il aujourd'hui? Mutale: Il fait beau et chaud. Michelo: Ah, super! Hier il faisait très froid. Mutale: Oui, il y a du soleil aujourd'hui)",
+                "Guide the learners to read the dialogue and explain the expressions used to talk about weather"
+              ],
+              "learner_steps": [
+                "Identify the expressions used to talk about weather from a given dialogue (il fait beau, froid…)",
+                "In pairs, role-play the dialogue on weather"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 30,
+              "hook": "Discussing what the weather is like on a particular day",
+              "teacher_steps": [
+                "Introduce more expressions to talk about weather (e.g. Il pleut, il fait du vent)"
+              ],
+              "learner_steps": [
+                "In groups, describe the weather of a particular day"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 30,
+              "hook": "Display a chart showing different types of weather conditions",
+              "teacher_steps": [
+                "Provide a chart showing different types of weather conditions"
+              ],
+              "learner_steps": [
+                "Construct sentences on the different weather conditions displayed on the chart"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "4",
+              "page": 30,
+              "hook": "Reading a passage on different types of weather conditions",
+              "teacher_steps": [
+                "Provide a passage on different types of weather conditions"
+              ],
+              "learner_steps": [
+                "Answer questions based on the passage"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "5",
+              "page": 31,
+              "hook": "Writing different dictated expressions used to talk about weather in French",
+              "teacher_steps": [
+                "Dictate different expressions used to talk about weather in French"
+              ],
+              "learner_steps": [
+                "Write the dictated expressions"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "6",
+              "page": 31,
+              "hook": "Discussing the different seasons in Zambia",
+              "teacher_steps": [
+                "Explain the different seasons in Zambia (saison sèche, saison de pluie…)"
+              ],
+              "learner_steps": [
+                "Name different seasons in Zambia",
+                "Identify months of the year for each season in French (e.g. saison de pluie - octobre, novembre, décembre, janvier, février, mars, avril)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "7",
+              "page": 31,
+              "hook": "Describing the different seasons in French (local/foreign)",
+              "teacher_steps": [
+                "Introduce and explain the seasons in French (e.g. Printemps, l'hiver, l'été, l'automne)",
+                "Show learners a video/images of different seasons in French"
+              ],
+              "learner_steps": [
+                "Read and pronounce the seasons correctly",
+                "Watch a video/images of different seasons in French",
+                "Match the given images to the correct seasons in French"
+              ]
+            }
+          ],
+          "short_notes": "The term weather encompasses a set of atmospheric conditions like temperature, rain, wind and sun that are observed at specific time in a particular place. Weather conditions refers to the temporary and local state of the atmosphere at a specific place and time, including factors such as: temperature, rain, clouds, wind etc. This sub topic is essential for learners as it equips them with the basic vocabulary and expressions needed to describe the various weather conditions they encounter daily.",
+          "vocabulary": [
+            {
+              "term": "Froid",
+              "definition": "Cold"
+            },
+            {
+              "term": "Chaud",
+              "definition": "Hot/warm"
+            },
+            {
+              "term": "Pluie",
+              "definition": "Rain"
+            },
+            {
+              "term": "Vent",
+              "definition": "Wind"
+            },
+            {
+              "term": "Nuages",
+              "definition": "Clouds"
+            },
+            {
+              "term": "Soleil",
+              "definition": "Sun"
+            },
+            {
+              "term": "Le printemps",
+              "definition": "Spring"
+            },
+            {
+              "term": "L'été",
+              "definition": "Summer"
+            },
+            {
+              "term": "L'automne",
+              "definition": "Autumn/Fall"
+            },
+            {
+              "term": "L'hiver",
+              "definition": "Winter"
+            },
+            {
+              "term": "Parapluie",
+              "definition": "Umbrella"
+            },
+            {
+              "term": "Feu",
+              "definition": "Fire"
+            },
+            {
+              "term": "Inondation",
+              "definition": "Flood"
+            },
+            {
+              "term": "Fumée",
+              "definition": "Smoke"
+            },
+            {
+              "term": "Poussière",
+              "definition": "Dust"
+            },
+            {
+              "term": "Neige",
+              "definition": "Snow"
+            },
+            {
+              "term": "Quel temps fait-il aujourd'hui?",
+              "definition": "What's the weather like today?"
+            },
+            {
+              "term": "Il fait quel temps?",
+              "definition": "What's the weather like?"
+            },
+            {
+              "term": "Quelle est la température d'aujourd'hui?",
+              "definition": "What's today's temperature?"
+            },
+            {
+              "term": "Il fait (très) beau",
+              "definition": "It's (very) nice/beautiful"
+            },
+            {
+              "term": "Il fait mauvais",
+              "definition": "It's bad weather"
+            },
+            {
+              "term": "Il y a du soleil",
+              "definition": "It's sunny"
+            },
+            {
+              "term": "Il pleut",
+              "definition": "It's raining"
+            },
+            {
+              "term": "Il y a du vent",
+              "definition": "It's windy"
+            },
+            {
+              "term": "Il y a une tempête",
+              "definition": "There's a storm"
+            },
+            {
+              "term": "Il y a des éclairs",
+              "definition": "There's lightning"
+            },
+            {
+              "term": "Il fait (très) chaud",
+              "definition": "It's (very) hot"
+            },
+            {
+              "term": "Il fait frais",
+              "definition": "It's cool/fresh"
+            },
+            {
+              "term": "Il fait (très) froid",
+              "definition": "It's (very) cold"
+            },
+            {
+              "term": "Il y a du brouillard",
+              "definition": "It's foggy"
+            },
+            {
+              "term": "Il neige",
+              "definition": "It's snowing"
+            },
+            {
+              "term": "Il fait + ...(nombre) + degrés Celsius",
+              "definition": "It's ...(number) degrees Celsius"
+            },
+            {
+              "term": "Saison sèche",
+              "definition": "Dry season"
+            },
+            {
+              "term": "Saison de pluie",
+              "definition": "Rainy season"
+            }
+          ],
+          "assessment": {
+            "page": 31,
+            "questions": [
+              "Describe weather in French correctly",
+              "Identify seasons correctly in French"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.14.2",
+          "title": "Clothes and Activities",
+          "page": 32,
+          "competences": [
+            "Describe activities and clothes associated with seasons in French"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 32,
+              "hook": "Weather plays an important role in our daily lives. It influences our activities, mood, and clothes.",
+              "teacher_steps": [
+                "Provide a passage or dialogue on different seasons and the type of clothes to wear (Dialogue: Wana: Salut Wanji! Il fait très froid aujourd'hui, non? Wanji: Oui, c'est la saison froide! Moi, je mets un manteau et un tricot. Wana: Moi aussi! Et j'adore boire du chocolat chaud quand il fait froid. Wanji: Et toi, qu'est-ce que tu mets dans la saison sèche? Wana: Je mets un t-shirt, une jupe ou un short, et des sandales. Et toi? Wanji: Moi, je mets une culotte et des lunettes de soleil. J'aime aller à la mer! Wana: Et la saison de pluie, quand il pleut? Wanji: Je mets un imperméable et des baskets. Et toi? Wana: Je porte un manteau de pluie et des bottes et j'apporte aussi un parapluie. Wanji: ok. Au revoir! Wana: A bientôt!)"
+              ],
+              "learner_steps": [
+                "Listen to a dialogue or conversation in which people are discussing clothes associated with the different seasons (froide – le tricot, sèche - culotte, T-shirt)",
+                "Identify and mention each type of season and clothes to wear",
+                "Match the different clothes to the correct seasons in French"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 33,
+              "hook": "Discussing activities associated with different seasons",
+              "teacher_steps": [
+                "Guide discussion on activities done in each season"
+              ],
+              "learner_steps": [
+                "Discuss activities done in each season (e.g: froide-récolter, pluie-cultiver)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 33,
+              "hook": "Reading a passage on clothes and activities associated with different seasons",
+              "teacher_steps": [
+                "Provide a passage on clothes and activities associated with different seasons"
+              ],
+              "learner_steps": [
+                "In pairs, read the passage provided and make summary notes",
+                "Write a summary on clothes and activities associated with different seasons"
+              ]
+            }
+          ],
+          "short_notes": "Weather plays an important role in our daily lives. It influences our activities, mood, and clothes. Depending on the season, we adapt our clothes and activities to feel comfortable and enjoy the weather.",
+          "vocabulary": [
+            {
+              "term": "Manteau",
+              "definition": "Coat"
+            },
+            {
+              "term": "Tricot",
+              "definition": "Sweater/jumper"
+            },
+            {
+              "term": "Gants",
+              "definition": "Gloves"
+            },
+            {
+              "term": "Chapeau",
+              "definition": "Hat"
+            },
+            {
+              "term": "Veste",
+              "definition": "Jacket"
+            },
+            {
+              "term": "T-shirt",
+              "definition": "T-shirt"
+            },
+            {
+              "term": "Chemise",
+              "definition": "Shirt"
+            },
+            {
+              "term": "Pantalon",
+              "definition": "Pants/trousers"
+            },
+            {
+              "term": "Shorts",
+              "definition": "Shorts"
+            },
+            {
+              "term": "Jupe",
+              "definition": "Skirt"
+            },
+            {
+              "term": "Chaussures",
+              "definition": "Shoes"
+            },
+            {
+              "term": "Écharpe",
+              "definition": "Scarf"
+            },
+            {
+              "term": "Culotte",
+              "definition": "Shorts/underwear"
+            },
+            {
+              "term": "Imperméable",
+              "definition": "Raincoat"
+            },
+            {
+              "term": "Baskets",
+              "definition": "Sneakers/trainers"
+            },
+            {
+              "term": "Bottes",
+              "definition": "Boots"
+            },
+            {
+              "term": "Lunettes de soleil",
+              "definition": "Sunglasses"
+            },
+            {
+              "term": "Sandales",
+              "definition": "Sandals"
+            },
+            {
+              "term": "Faire du vélo",
+              "definition": "To ride a bike"
+            },
+            {
+              "term": "Pique-nique",
+              "definition": "Picnic"
+            },
+            {
+              "term": "Faire du jardinage",
+              "definition": "To do gardening"
+            },
+            {
+              "term": "Cultiver",
+              "definition": "To cultivate/farm"
+            },
+            {
+              "term": "Récolter",
+              "definition": "To harvest"
+            },
+            {
+              "term": "Pêcher",
+              "definition": "To fish"
+            },
+            {
+              "term": "Moissonner",
+              "definition": "To harvest/reap"
+            }
+          ],
+          "assessment": {
+            "page": 33,
+            "questions": [
+              "Describe activities and clothes for specific seasons in French correctly"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.14.3",
+          "title": "Factors Affecting Weather",
+          "page": 33,
+          "competences": [
+            "Discuss Factors Affecting Weather in Zambia"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 34,
+              "hook": "Weather is a complex phenomenon that is influenced by many factors",
+              "teacher_steps": [
+                "Provide a passage on factors affecting weather (e.g. La météo change chaque jour. Il fait chaud quand le soleil brille. Il fait froid quand il y a du vent. Les nuages cachent le soleil. Le ciel est sombre quand il pleut beaucoup)"
+              ],
+              "learner_steps": [
+                "Identify factors affecting weather from a given passage (temperature, les vents)",
+                "Read and identify factors affecting weather (e.g. le soleil, la température, le vent, les nuages….)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 34,
+              "hook": "Discussing factors affecting weather in Zambia",
+              "teacher_steps": [
+                "Explain other factors affecting weather in Zambia (e.g. déforestation, changement climatique, sécheresse...)",
+                "Give summarized notes in French on factors affecting climate change in Zambia"
+              ],
+              "learner_steps": [
+                "Discuss factors affecting weather in Zambia"
+              ]
+            }
+          ],
+          "short_notes": "Weather is a complex phenomenon that is influenced by many factors such as atmospheric conditions, geographic factors and human activities. Understanding the factors that influence the weather is essential for predicting weather conditions and marking informed decisions to protect people and the world we live in.",
+          "vocabulary": [
+            {
+              "term": "Le temps",
+              "definition": "Time/weather"
+            },
+            {
+              "term": "Températures",
+              "definition": "Temperatures"
+            },
+            {
+              "term": "Vent",
+              "definition": "Wind"
+            },
+            {
+              "term": "Humidité",
+              "definition": "Humidity"
+            },
+            {
+              "term": "Changement climatique",
+              "definition": "Climate change"
+            },
+            {
+              "term": "La météo",
+              "definition": "The weather/weather forecast"
+            },
+            {
+              "term": "Sombre",
+              "definition": "Dark"
+            },
+            {
+              "term": "Déforestation",
+              "definition": "Deforestation"
+            },
+            {
+              "term": "Sécheresse",
+              "definition": "Drought"
+            },
+            {
+              "term": "Cultiver",
+              "definition": "To cultivate"
+            },
+            {
+              "term": "Défricher",
+              "definition": "To clear (land)"
+            },
+            {
+              "term": "Labourer",
+              "definition": "To plough"
+            },
+            {
+              "term": "Récolter",
+              "definition": "To harvest"
+            },
+            {
+              "term": "Pêcher",
+              "definition": "To fish"
+            },
+            {
+              "term": "Pleuvoir",
+              "definition": "To rain"
+            },
+            {
+              "term": "Briller",
+              "definition": "To shine"
+            },
+            {
+              "term": "Sécher",
+              "definition": "To dry"
+            },
+            {
+              "term": "Brûler",
+              "definition": "To burn"
+            },
+            {
+              "term": "Couper",
+              "definition": "To cut"
+            },
+            {
+              "term": "Jeter",
+              "definition": "To throw"
+            }
+          ],
+          "assessment": {
+            "page": 34,
+            "questions": [
+              "Discuss factors affecting weather in French correctly"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

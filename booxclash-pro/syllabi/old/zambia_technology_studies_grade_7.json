@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "7",
+    "subject": "Technology Studies"
+  },
+  "topics": [
+    {
+      "unit": "7.1 DRAWING",
+      "topic_title": "7.1.1 Introduction to Orthographic Projection",
+      "page_number": 11,
+      "subtopics": [
+        "Convert simple solids from Isometric to Orthographic Projection."
+      ],
+      "learning_outcomes": [
+        "Knowledge: Views in Orthographic: Front Elevation, Plan, End View or Elevation",
+        "Skills: Interpretation of views in orthographic projection",
+        "Values: Awareness of orthographic projection; Appreciation of orthographic projection."
+      ]
+    },
+    {
+      "unit": "7.1 DRAWING",
+      "topic_title": "7.1.2 Basic Building Drawing.",
+      "page_number": 11,
+      "subtopics": [
+        "Draw elevations of a simple conventional house."
+      ],
+      "learning_outcomes": [
+        "Knowledge: Views in Orthographic: Front Elevation, Plan, End View or Elevation",
+        "Skills: Interpretation of building drawings.",
+        "Values: Appreciation of orthographic projection."
+      ]
+    },
+    {
+      "unit": "7.2 CONSTRUCTION",
+      "topic_title": "7.2.1 Joining Materials",
+      "page_number": 11,
+      "subtopics": [
+        "Join materials."
+      ],
+      "learning_outcomes": [
+        "Knowledge: Methods of joining materials: Butt joint, Lap joint, Nailing (Wire nail)",
+        "Skills: Application of butt joint and lap joints; Joining materials using nails .",
+        "Values: Awareness of methods of joining materials"
+      ]
+    },
+    {
+      "unit": "7.2 CONSTRUCTION",
+      "topic_title": "7.2.2 Building Materials",
+      "page_number": 11,
+      "subtopics": [
+        "Burn clay bricks"
+      ],
+      "learning_outcomes": [
+        "Knowledge: Burning clay bricks construct a kiln, cover the sides, set the fire",
+        "Skills: Application of methods of burning clay bricks",
+        "Values: Awareness of methods of burning clay bricks."
+      ]
+    },
+    {
+      "unit": "7.3 CALCULATOR",
+      "topic_title": "7.3.1 System Calculator",
+      "page_number": 11,
+      "subtopics": [
+        "Use the system calculator to perform elementary operations"
+      ],
+      "learning_outcomes": [
+        "Knowledge: Changing calculator type (standard, scientific); Calculations; Copying from calculator to word",
+        "Skills: Demonstration on the use of calculator; Manipulation of the calculator keys; Computation of various operations using the calculator.",
+        "Values: Application of calculator to carry out arithmetic problems; Interpretation of keys on the calculator; Awareness that the calculator as an aid arithmetic operations."
+      ]
+    },
+    {
+      "unit": "7.4 ENERGY",
+      "topic_title": "7.4.1 Electricity",
+      "page_number": 12,
+      "subtopics": [
+        "Design and make a switch to a simple circuit."
+      ],
+      "learning_outcomes": [
+        "Knowledge: Designing switches; Part of the circuit used to turn on or off the bulb",
+        "Skills: Application of switches in a simple circuit",
+        "Values: Appreciation of principles in making switches"
+      ]
+    },
+    {
+      "unit": "7.5 THE INTERNET",
+      "topic_title": "7.5.1 Internet risks",
+      "page_number": 12,
+      "subtopics": [
+        "Identify the risks associated with the internet.",
+        "Protect oneself from financial risk"
+      ],
+      "learning_outcomes": [
+        "Knowledge: Web risk awareness (cyber crimes, undesirable materials)",
+        "Skills: Communication with internet to search for information; Analysis of web risks and implications.",
+        "Values: Responsibility in browsing the web; Awareness that the web can have some risks.",
+        "Knowledge: Not disclosing of identity, and passwords on line or phones and ATM cards.",
+        "Skills: Identification of search engines; Interpretation of passwords.",
+        "Values: Safety consciousness about risks on the internet."
+      ]
+    },
+    {
+      "unit": "7.6. SEARCHING AND RETRIEVING INFORMATION",
+      "topic_title": "7.6.1. External Storage Devices",
+      "page_number": 12,
+      "subtopics": [
+        "Search and retrieve information from external storage devices"
+      ],
+      "learning_outcomes": [
+        "Knowledge: CD ROM and flash Disc",
+        "Skills: Identification of external storage devices; Demonstration on how to get data from external drives.",
+        "Values: Application of external drives; Awareness of the limitations of external drives."
+      ]
+    },
+    {
+      "unit": "7.6. SEARCHING AND RETRIEVING INFORMATION",
+      "topic_title": "7.6.2 The World Wide Web (www)",
+      "page_number": 12,
+      "subtopics": [
+        "Search for specific information from the internet"
+      ],
+      "learning_outcomes": [
+        "Knowledge: World Wide Web; Selecting relevant Information (sifting)",
+        "Skills: Application of external drives",
+        "Values: Appreciation of external drives importance."
+      ]
+    },
+    {
+      "unit": "7.7 ENTREPRENEURSHIP",
+      "topic_title": "7.7.1 Entrepreneurship as a Career",
+      "page_number": 12,
+      "subtopics": [
+        "Explain the entrepreneural career options:- Technology studies"
+      ],
+      "learning_outcomes": [
+        "Knowledge: Career options: Carpentry, Welding, Brick making.",
+        "Skills: Identification of entrepreneural career options",
+        "Values: Awareness of entrepreneurship as an alternative career"
+      ]
+    }
+  ]
+}

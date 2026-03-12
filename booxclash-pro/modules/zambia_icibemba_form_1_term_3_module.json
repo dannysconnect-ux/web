@@ -1,0 +1,2585 @@
+{
+    "subject": "Icibemba Language",
+    "grade": "Form 1",
+    "term": 3,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "IFISUMINO NA INTAMBI SHACAALO",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Ukulanshanya - Ukushimika Ilyashi",
+                    "page": 14,
+                    "competences": [
+                        "Ukubomfya amashiwi ayayaana pakushimika ilyashi illipeelwe \npamulandu ‘Ukukobekela Namasambililo’"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 14,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya palyashi pakati kakokwa Mulenga nabanankwe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ifyalanshanishiwa palyashi pakati ka kwa Mulenga nabanankwe"
+                        }
+                    ],
+                    "short_notes": "Muli ici cipande muli ukulanshanya pa Ifisumino na Intambi shacaalo. Ubukankala \nbwailisambililo bwakumona ukuti abasambi babomfya amashiwi ukulingana na ilyashi \nbalelandapo. Kabili abasambi bakasambilila ifyakwasuka ameepusho panuma yakubelenga elyo na \nukulanshanya pamashiwi yantu basanga ayakosa ubupilibulo. Abasambi bakalabelenga \nmukwikatisha ukwishiba ngacakuti balebelenga busaka -busaka. Nakabili abasambi bakasambilila \nifyakuleemba ilyashi ukubomfya ifikomo fifwaikwa pakupanga ilyashi. Mukusoobolola Icibemba, \nabasambi bakasambilila panundwa elyo na ukusambilila ifyo beengalula ululimi lumo ukutwala \nmululimi lumbi. \nA: UKUMFWA NA UKULANDA",
+                    "vocabulary": [
+                        {
+                            "term": "mumpuka",
+                            "definition": ""
+                        },
+                        {
+                            "term": "fipoka-poka",
+                            "definition": ""
+                        },
+                        {
+                            "term": "ukukobekela",
+                            "definition": ""
+                        },
+                        {
+                            "term": "yakubuko",
+                            "definition": ""
+                        },
+                        {
+                            "term": "amakunda",
+                            "definition": ""
+                        },
+                        {
+                            "term": "asaminefye",
+                            "definition": ""
+                        },
+                        {
+                            "term": "yaleemusabukila \n \nIfikomo fyakufundapo:   \na. Ukubomfya amashiwi ayayana na umulandu upeelwe \nb. Ukulondolola ifyo ifisumino na intambi shacaalo shingabacingilila mumicitile \nc. Amafya yasangwamo muli iyi micitile \nd. Ukupeela ifilangililo fyabanabo abasangwa muli iyi micitile \ne. Ukubomfya Icibemba icasuminishiwa",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Amashiwi - Ubupilibulo bwa Mashiwi",
+                    "page": 15,
+                    "competences": [
+                        "Bomfya amashiwi ukulingana na fomu"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ifyalanshanishiwa palyashi pakati ka kwa Mulenga nabanankwe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya pabupilibulo bwamashiwi yasalilwe mulyashi Ukumfwa na"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ubupilibulo bwamashiwi."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubomfya amashiwi yasalilwe mumiseela"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Ifyakubomfya; Umulandu: Ukukobekela Namasambililo uuli Mukumfwa na Ukulanda \nIfikomo fyakufundapo: Lanshanyeni pabupilibulo bwamashiwi yasaalilwe",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "Ukubelenga na Ukumfwikisha - Ukubelenga na Ukwasuka Ameepusho",
+                    "page": 16,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya pabupilibulo bwamashiwi yasalilwe mulyashi Ukumfwa na"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ubupilibulo bwamashiwi."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubomfya amashiwi yasalilwe mumiseela"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga Umulandu"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 18,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwasuka ameepusho ayalekana- lekana"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukuleemba icipande camulandu mumashiwi yakwe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya pabupilibulo bwamashiwi yali mumulandu"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga umulandu mukwikatisha ukwabula ukutamantama"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwasuka ameepusho mukulandafye"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "ifisumino",
+                            "definition": ""
+                        },
+                        {
+                            "term": "intambi",
+                            "definition": ""
+                        },
+                        {
+                            "term": "kampashi",
+                            "definition": ""
+                        },
+                        {
+                            "term": "intunga",
+                            "definition": ""
+                        },
+                        {
+                            "term": "bashingwana",
+                            "definition": ""
+                        },
+                        {
+                            "term": "ukukangana",
+                            "definition": ""
+                        },
+                        {
+                            "term": "ukulungana",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Social Media",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Anti Gender Policy",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Cyber Security Law. \nIfikomo fyakufundapo:",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.4",
+                    "title": "Ukubelenga Mukwikatisha - Ukubelenga Ukwabula Ukutamantama.",
+                    "page": 20,
+                    "competences": [
+                        "Belenga imilandu iyalekana lekana ukwabula ukutamantika iyakulinga \nfomu 1 \nIfikomo fyakufundapo:   \n Imibelengele isuma (ukubelenga mukwangufyanya,  \n Ukubelenga mukwikatisha tekupunda,  \n Ukubelenga inshita iyalinga,   \n Ukulumbula bwino amashiwi,  \n Ukulanga icinso ukulingana na ifyo alebelengapo.  \n Ukulanga apali ukutusha, ukwipusha.."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga umulandu mukwikatisha ukwabula ukutamantama"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwasuka ameepusho mukulandafye"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya pamilembele na ifipoope fyakukonka pakuleemba ilyashi"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.5",
+                    "title": "Ukupanga Ilyashi - Ukuleemba ilyashi lyakulondolola Umuntu, Icintu, Incende nangu Imibele",
+                    "page": 21,
+                    "competences": [
+                        "Ukuleemba umulandu uulelodolola abantu \nIfikomo Fyakufundapo:  \n Ifipoope fyakukonka pakuleemba umulandu uulelondolola pabantu.  \n Imilembele isuma. \n Ukubomfya amashiwi ayalepanga icikope ca uyo muntu nangu ico icintu icakuti nangu \nwalimukumenye/walicikumeenye kuti wamwishiba/wacishiba. \n Ukulondolola umuntu nangu icintu kupeela ubwishibilo bumo pafyo uyo muntu, incende \nnangu icintu caba nangu ifyo caali. \n Ubu bulondoloshi bufwile ukwafwa saana ukupanga icikope capwililika mu \nmwitontonkanyo lya ulebelenga ica uyo muntu, cintu nangu incende. \n  Ukubomfya batungi weshina na batuungi wakacita pakupeela icikope capwililika."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya pamilembele na ifipoope fyakukonka pakuleemba ilyashi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukuleemba ilyashi lyakulondolola umuntu"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.6",
+                    "title": "Ukupanga Amashiwi - Ukubomfya Inundwa",
+                    "page": 22,
+                    "competences": [
+                        "Bomfya inundwa shakukutampa na kumpela yeshiwi pakupanga"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukuleemba ilyashi lyakulondolola umuntu"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ubupilibulo na imibomfeshe yanundwa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulumbula imisango iyalekana-lekana iyanundwa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubiika inundwa mumisango yashiko"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga amashiwi ukubomfya inundwa ishalekana-lekana"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.7",
+                    "title": "Insoselo",
+                    "page": 24,
+                    "competences": [
+                        "Ukubomfya insoselo \nIfikomo fyakufundapo:  \n Umusango insoselo shipangilwamo \n Ubupusano bwaba pa insoselo na amapinda \n Inshita yakubomfya insoselo shapusana-pusana \n Insoselo ilingi line shakwata ubupilibulo bwayanguka ukumfwa \n Insoselo shilembwafye mu museela umo uwapwililika (shikwata iciputulwa ca \nmuseela cimofye) \n \nIcilangililo \nINSOSELO AMAPINDA \n1. Insoselo shalyanguka ukumfwa. 1. Amapinda kulandila mumanshoko. \n2. Insoselo shikwatafye ubupilibulo bwayanguka 2. Amapinda yakwata ubupilibulo bwaanguka \nnobwashika (literal and deep meaning) \n3. Insoselo shapangwafye nomuseela umo \nuwapwililika \n4. Ipinda limo likwata ifiputulwa fibili \nifymuseela; Ukutampa na ukupwisha."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubiika inundwa mumisango yashiko"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga amashiwi ukubomfya inundwa ishalekana-lekana"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 25,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubiika insoselo mumabumba ukulingana neefyo shibomfiwa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukusoobolola insoselo ukulingana nenshita shingabomba"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukufwaya insoselo shingabomfiwa ukulingana nenshita"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 27,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukufwaya inshita bengabomfya insoselo."
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.8",
+                    "title": "Ukwalula",
+                    "page": 27,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 27,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukufwaya inshita bengabomfya insoselo."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 28,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwalula imiseela ili peesamba ukufuma mu Cingeleshi ukutwala"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 31,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupusanya ifishinka na ifyakwelenganya"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.9",
+                    "title": "Ukulanshanya - Ifishinka na ifyakwelenganya",
+                    "page": 31,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 31,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupusanya ifishinka na ifyakwelenganya"
+                        }
+                    ],
+                    "short_notes": "Ici cipande cilelanda pa; kumfwa na ukulanda, ukubelenga, ukulemba, ukusoobolola Icibemba, \nukusupawila elyo na ukwalula umulandu. Mukulanda na ukumfwa muli ukushika ilyashi \nlyacishinka na ilyabufi. Ubukankaala bwa muli ili isambililo bwakutila abasambi baishiba \nukushimika ilyashi lyacishinkana ilyabufi. Ukubelenga na ukwasuka ameepusho ayalekana-lekana. \nUkulemba, ukusoobolola Icibemba bwino na ukucibomfya ukulingana na amafunde. Ukusupawila \numulandu elyo na ukwalula umulandu ukufumya mu Cingeleshi ukutwala mu Cibemba kabili na \nukufumya mu Cibemba ukutwala mu Cingeleshi. \nA: UKUMFWA NA UKULANDA",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 29,
+                        "questions": [
+                            "Alula imiseela ili pesamba, uitwale mucibemba. Ubomfye inshila shimo-shimo isho",
+                            "Alula ii miseela ili peesamba uitwaile mucisungu"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "IFISHINKA NA IFYAKWELENGANYA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Ukulanshanya - Ifishinka na ifyakwelenganya",
+                    "page": 31,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 31,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupusanya ifishinka na ifyakwelenganya"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 32,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ifishinka na ifyakwelenganya"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 33,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya ubupilibulo bwamashiwi."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 33,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ubupilibulo bwamashiwi"
+                        }
+                    ],
+                    "short_notes": "Ici cipande cilelanda pa; kumfwa na ukulanda, ukubelenga, ukulemba, ukusoobolola Icibemba, \nukusupawila elyo na ukwalula umulandu. Mukulanda na ukumfwa muli ukushika ilyashi \nlyacishinka na ilyabufi. Ubukankaala bwa muli ili isambililo bwakutila abasambi baishiba \nukushimika ilyashi lyacishinkana ilyabufi. Ukubelenga na ukwasuka ameepusho ayalekana-lekana. \nUkulemba, ukusoobolola Icibemba bwino na ukucibomfya ukulingana na amafunde. Ukusupawila \numulandu elyo na ukwalula umulandu ukufumya mu Cingeleshi ukutwala mu Cibemba kabili na \nukufumya mu Cibemba ukutwala mu Cingeleshi. \nA: UKUMFWA NA UKULANDA",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Amashiwi - Ubupilibulo bwa Amashiwi",
+                    "page": 33,
+                    "competences": [
+                        "Bomfya amashiwi ukulingana na ayaba fomu 1."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 33,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya ubupilibulo bwamashiwi."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 33,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ubupilibulo bwamashiwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 34,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubomfya amashiwi mu miseela"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "Ukubelenga Mukushika - Ukubelenga na Ukumfwikisha",
+                    "page": 34,
+                    "competences": [
+                        "Ukubelenga imilandu yamu fomu 1 \nIfikomo fyakufunda: \n Imibelengele isuma \n Balanshanye ubupilibulo bwa mashiwi yasalilwe \n Babelenge ifipande mukushika \n Baasuke ameepusho yalekana-lekena \n Basupawile umulandu ba belengele mukusupula \n Baleembulule umulandu ba belengele ukubomfya amashiwi yaabo \n Balanshanye ubupilibulo bwa amashiwi \nMuli cilakubelenga ilyashi mufwile mwaba ifyakucita ifyalekana lekana abasambi ukwasuka \nameepusho ayali nga:"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 34,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubomfya amashiwi mu miseela"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 35,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga umulandu"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 36,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwasuka ameepusho ayalekana-lekana bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 37,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulembulula imilandu ukubomfyako amashiwi yabo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 37,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya ubupilibulo bwamashiwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 38,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga imilandu iyalekana-lekanai"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 38,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola imilandu  ibelengelwe mukusupawila mukulandafye"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.4",
+                    "title": "Ukubelenga Mukupwisha Icitendwe - Ukubelenga",
+                    "page": 38,
+                    "competences": [
+                        "Ukubelenga amalyashi yamu fomu 1 ayalekana-lekana \nIfikomo fyakufunda:  \n Imibelengele isuma \n ukuleemba ifitabo umusambi alebelenga"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 38,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga imilandu iyalekana-lekanai"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 38,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola imilandu  ibelengelwe mukusupawila mukulandafye"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 39,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya pafikomo fyakwipifishamo umulandu mucipande"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.5",
+                    "title": "Ukusupawila - Ukusupawila umulandu mucipande",
+                    "page": 39,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 39,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya pafikomo fyakwipifishamo umulandu mucipande"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 40,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukufumya na ukuleemba ifikomo ifikankaala ukufuma mumulandu upeelwe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 40,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukuleemba bwino umulandu upeelwe mucipande cimo"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.6",
+                    "title": "Ilandile na Landilwa - Ilandile",
+                    "page": 40,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 40,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukufumya na ukuleemba ifikomo ifikankaala ukufuma mumulandu upeelwe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 40,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukuleemba bwino umulandu upeelwe mucipande cimo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 41,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya pa bupilibulo na imibomfeshe ya ilandile"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 41,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukufwaya imiseela ya ilandile mumilandu ipeelwe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 41,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubiika amatoni mumiseela ya ilandile"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 42,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga bwino imiseela ya ilandile"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 42,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya ubupilibulo na imibomfeshe ya amapinda"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.7",
+                    "title": "Amashiwi Yakwata Ubupilibulo Bwafisama - Amapinda",
+                    "page": 42,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 42,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga bwino imiseela ya ilandile"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 42,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya ubupilibulo na imibomfeshe ya amapinda"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 43,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubiika amapinda mumabumba ukukonka na ifyo yabomba"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 43,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukufwaya na ukuleemba amapinda ayalungatene na ifilecitika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 44,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukufwaya na ukuleemba ifilecitika umwingabomfiwa bwino amapinda"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.8",
+                    "title": "Ukwalula Ululimi - Inshila Shakwalwilamo Ululimi",
+                    "page": 44,
+                    "competences": [
+                        "Bomfya inshila ishalekana-lekana mukwalula ululimi  \nIfikomo fyakufunda:  \n Ukukomaila panshila shalekana-lekana ishibomfiwa pakwalula ululimi \n Ukulanshanya pa panshila shalekana-lekana  \n Ubulondoloshi bwakupalanya ifintu pamo (Generalisation) :(kiss, peck, - fyonse \nkutomona), (ship, canoe, speed boat: amaato), scooter, motor bike: mpumpumpu) \n Ishiwi pa ishiwi (literal translation) : bottle = umusukupala …. \n Amashiwi twafumya kufilimi fimbi (loaning)“She is wearing a short dress ”- “Afwele \nindeleshi iipi” \n Amashiwi yakwashima (borrowing) : cyber = cyber \n Ukulondolola amashiwi (Description) “petrol” -“ amafuta ya mucimbaya-mbaya” \n Ukubiika ifintu pamo (generalization) : blocks, bricks, pan bricks = amatafwali/injelwa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 44,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukufwaya na ukuleemba ifilecitika umwingabomfiwa bwino amapinda"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 45,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwalula imilandu ukufumya mu Cingeleshi ukutwala mu Cibemba na"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 48,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukufwaya ifyebo fyakulanda mulyashi pamutwe upeelwe."
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.9",
+                    "title": "Ukulanda Kucintubwingi - Ukulanda Ilyashi",
+                    "page": 48,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 48,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukufwaya ifyebo fyakulanda mulyashi pamutwe upeelwe."
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Icintu-bwingi",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukulanda ilyashi",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukoolomoka",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Impango",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Umwata. \nIfikomo fyakufundapo: \n",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": 46,
+                        "questions": [
+                            "banakulu basosa ati baayakwifwe mukutapa ameenshi",
+                            "kwena nakutalala saana efyailishanya abaana",
+                            "loleleeni twalaya mukulima nga kabalika efyasosa baMulilo",
+                            "Katongo atiila ati ndeesamba",
+                            "Mulindwa aatile Sampa alitemwa ukulya cungamu",
+                            "Uwenda mumushitu, …………………………………",
+                            "Uwakakaana ukwela, …………………………………"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "UKULANDA KUCINTUBWINGI",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Ukulanda Kucintubwingi - Ukulanda Ilyashi",
+                    "page": 48,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 48,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukufwaya ifyebo fyakulanda mulyashi pamutwe upeelwe."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 49,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanda ilyashi kwibumba pamutwe upeelwe"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Icintu-bwingi",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukulanda ilyashi",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukoolomoka",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Impango",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Umwata. \nIfikomo fyakufundapo: \n",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "Amashiwi",
+                    "page": 49,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 49,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanda ilyashi kwibumba pamutwe upeelwe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 51,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya pamashiwi yasalilwe."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 51,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ubupilibulo bwa mashiwi kubasambi bonse"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 52,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubomfya amashiwi mumiseela"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 52,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga ilyashi"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.3",
+                    "title": "Ukubelenga Mukushika - Ukubelenga Na Ukumfwikisha",
+                    "page": 52,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 52,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubomfya amashiwi mumiseela"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 52,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga ilyashi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 55,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwasuka ameepusho ayalekana-lekana"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 55,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukusupula ilyashi libelengelwe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 55,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ilyashi babelengele mumashiwi yaabo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 55,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya ubupilibulo bwamashiwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 56,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga ifitabo fikwete amalyashi ifyapusana -pusana pamo nga inshimi,"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Ukubelenga",
+                            "definition": ""
+                        },
+                        {
+                            "term": "ukumfwikisha",
+                            "definition": ""
+                        },
+                        {
+                            "term": "umutalalila",
+                            "definition": ""
+                        },
+                        {
+                            "term": "ukuilama",
+                            "definition": ""
+                        },
+                        {
+                            "term": "ukupumfyanya",
+                            "definition": ""
+                        },
+                        {
+                            "term": "intampulo \nIfikomo fyakufundapo: \n Ukubelenga \n Ukwasuka ameepusho ayalekana-lekana \n Ukusupawila ilyashi libelengelwe \n Ukulondolola ilyashi libelengelwe mu mashiwi yabo \n Ukulanshanya pa bupilibulo bwa mashiwi  \nIfyakubomfya: Ilyashi lipeelwe peesamba na ifitabo ifikweete amalyashi ayapusaana -pusana \nayalingile ba Fomu 1",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.4",
+                    "title": "Ukubelenga Mukwikatisha - Imibelengele Isuma",
+                    "page": 56,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 56,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga ifitabo fikwete amalyashi ifyapusana -pusana pamo nga inshimi,"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 57,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya ifyo imilembele yabulondoloshi yakwata"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Imibelengele",
+                            "definition": ""
+                        },
+                        {
+                            "term": "ukubelenga mukwikatisha",
+                            "definition": ""
+                        },
+                        {
+                            "term": "akamusenselo",
+                            "definition": ""
+                        },
+                        {
+                            "term": "ukutama -\nntama. \nIfikomo Fyakufundapo:  \n Imibelengele isuma; ukukaana tama -ntama",
+                            "definition": ""
+                        },
+                        {
+                            "term": "akamusenselo na ukulanga icinso ukulingana \nna mashiwi uleebelenga \n \nIfyakubomfya: Ifitabo ifikwete amalyashi ayalekana-lekana",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.5",
+                    "title": "Ukulemba - Ukulondolola",
+                    "page": 57,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 57,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya ifyo imilembele yabulondoloshi yakwata"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 58,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulemba ubulondoloshi bwa finama"
+                        }
+                    ],
+                    "short_notes": "Ukulondolola miilembele yakubomfya amashiwi kukupanga icikope mumatontonkanyo yakwa \nkabelenga ukubomfya batungi weshina, elyo na insoselo shakwata ubupilibulo bwafis ama. \nUbulondoloshi bubomfya imyumfwile, pamo nga iya fiunda, iya kununsha, iya kumfwa na \niyakusonda. \n \nIfyakukonka pakulemba ubulondoloshi: Pakulemba ubulondoloshi ufwile wabomfya ifikomo \nfili peesamba: \na) Ukubomfya ifyebo ifilondolola ifyo ifintu fimoneka, if yo fyumfwika nga wanunsha, \nwasonda na ukwikata pakuti ifintu fimoneke nga ifili na umweo. \nb) Ukubomfya batungi wakacita na tungi weshina \nc) Ukubomfya insoselo \nd) Langisha ico ulelandapo teekulandafye; munshita yakulemba fye ukuti ‘alitiina’ londolola \nifyo iminwe yakwe yaleetutuma na ifyo umutima waleetuntisha \ne) Peela icikope icalungama pakuti kabelenga aumfwa kwati aleemona ifyo uleelondolola \n \nIfyakucita 1: Ukulanshanya ifyo imilembele yabulondoloshi yakwata \n \ni. Kafundisha: \n Biika abasambi mumabumba balanshanye ifisangwa mumilembele yabulondoloshi \n Eba abasambi basale kalemba uulepeela ubulondoloshi kuntanshi \n Eba bakalemba wamabumba beese kuntashi na ukulondolola ifyo bacilanshanya \n Lundapo pabulondoloshi abasambi bapeele \n \nii. Abasambi: \n Babe mumabumba na ukusala kalemba",
+                    "vocabulary": [
+                        {
+                            "term": "Umweo",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Tungi-wakacita",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Tungi-weshina",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukusonda \nIfikomo fyakufundapo:  \n Ukulanshanya imilembele yabulondoloshi \n Ukulemba",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.6",
+                    "title": "Ilandile na Landilwa - Landilwa",
+                    "page": 58,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 58,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulemba ubulondoloshi bwa finama"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 59,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukufwaya imiseela muli landilwa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 60,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubika amatoni ayalingile mumiseela ili muli landilwa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 60,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga imiseela muli Landilwa."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 60,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Twaleeni imiseela ili muli L andilwa muli Ilandile kabili twaleeni imiseela ili"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 61,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya ubupilibulo bwansonselo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 61,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubiika insoselo mumabumba ukulingana na ifyo yabomba"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Landilwa",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ilandile",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Amatoni \nIfikomo fyakufundapo:  \n",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.7",
+                    "title": "Amashiwi Ayaakwaata Ubupilibulo Ubwafisama - Insonselo",
+                    "page": 61,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 61,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya ubupilibulo bwansonselo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 61,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubiika insoselo mumabumba ukulingana na ifyo yabomba"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 62,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukufwaya insoselo ukulingana na inshita shingabomba"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 62,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukufwaya inshita ilyo insoselo shibomba"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Insoselo",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ubupilo ubwafisama",
+                            "definition": ""
+                        },
+                        {
+                            "term": "ubucenjeshi \nIfikomo fyakufundapo:  \n Ubupilibulo bwansoselo \n Ukubiika insoselo mumabumba ukulingana na ifyo yabomfiwa \n Ukufwaya insonselo shayana na inshita  \n Ukufwaya inshita ilyo insonselo shinga bomfiwa",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.8",
+                    "title": "Ukwalula - Inshila Ishalekana-lekana Ishakwalwilamo Umulandu",
+                    "page": 63,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 64,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubomfya inshila mwaishiba ishakwalwilamo imilandu , alula umulandu uli"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 67,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupaashanya pa milandu iibalingile iyakuma ubwikashi bwa bantu"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.9",
+                    "title": "Ukulanshanya - Ukupaashanya",
+                    "page": 67,
+                    "competences": [
+                        "Bapaashanye pamutwe uuli onse uwingapeelwa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 67,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupaashanya pa milandu iibalingile iyakuma ubwikashi bwa bantu"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Ukupaashanya",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": 66,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "UKUPAASHANYA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Ukulanshanya - Ukupaashanya",
+                    "page": 67,
+                    "competences": [
+                        "Bapaashanye pamutwe uuli onse uwingapeelwa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 67,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupaashanya pa milandu iibalingile iyakuma ubwikashi bwa bantu"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Ukupaashanya",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.2",
+                    "title": "Amashiwi - Ubupilibulo Bwamashiwi",
+                    "page": 68,
+                    "competences": [
+                        "Ukubomfya amashiwi ukulingana na Fomu 1."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 70,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya pa bupilibulo bwa mashiwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 70,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubomfya amashiwi mumiseela"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Ukwiluka",
+                            "definition": ""
+                        },
+                        {
+                            "term": "HIV/AIDS",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukutotosha",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukukabila. \nIfikomo fyakufundapo: \n Ukufwaya amashiwi mu mulandu ayashikwete ubupilibulo ubwishibikwe \n Ifyakubomfya amashiwi yasalilwe mu miseela \nIfyakubomfya: Ifitabo ifikwete amalyashi yapabulwele bwa HIV na AIDS  \nIlyashi",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.3",
+                    "title": "Ukubelenga Mukushika - Ukubelenga na Ukumfwikisha",
+                    "page": 71,
+                    "competences": [
+                        "Ukubelenga imilandu iilingile ba Fomu 1 iyapusana-pusana"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 73,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga ilyashi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 73,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwasuka ameepusho ayalekana-lekana"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 73,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukusupula ilyashi libelengelwe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 74,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ilyashi babelengele ukubomfya amashiwi yabo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 74,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya ubupilibulo bwamashiwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 75,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga amalyashi ayapusana-pusana"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 75,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukusupawila amalyashi ukupitila mukulondolola pakanwa"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Ukubelenga mukushika",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukubelenga na ukumfwikisha",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ubunonshi",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukukansha",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukupakamisha",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ubunonshi",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukushingwana \nIfikomo fyakufundapo: \n Ukubelenga \n Ukwasuka ameepusho ayalekana-lekana \n Ukusupawila ilyashi libelengelwe mukulandafye \n Ukulondolola ilyashi libelengelwe mumashiwi yabo \n Ukulanshanya pa bupilibulo bwamashiwi  \n Ukubombela mumabumba \n",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.4",
+                    "title": "Ukubelengela Ukuisansamusha - Ukubelenga",
+                    "page": 75,
+                    "competences": [
+                        "Ukubelenga amalyashi ayalekana -lekana ayalingile ba Fomu 1(ayali \nnga; inshimi, imishikakulo elyo na inyimbo)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 75,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga amalyashi ayapusana-pusana"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 75,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukusupawila amalyashi ukupitila mukulondolola pakanwa"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Ukubelenga Mukuisansamusha",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Imishikakulo",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukusupawila. \nIfikomo Fyakufundapo:  \n Ukubelenga amalyashi ayapusana-pusana \n Ukusupula mukulondolola pakanwa imilandu ibelengelwe  \nIfyakubomfya: Ifitabo ifyalekana-lekana ifikwete amalyashi",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.5",
+                    "title": "Ukulemba Ilyashi - Ilyashi Lyaku Paashanya",
+                    "page": 76,
+                    "competences": [
+                        "Ukulemba ilyashi lyakupaashanya"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 77,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya pamilembele na ifikomo fisangwa mulyashi lyakupaashanya"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 78,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "ukulemba ilyashi lyakupaashanya"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Ukupaashanya",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukusonsomba",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukusondwelela \nIfikomo fyakufundapo: \n Ifikomo fisangwa mulyashi lyakupaashanya \nIfyakubomfya:  \n Ifitabo ifilelondolola imilembele yamalyashi",
+                            "definition": ""
+                        },
+                        {
+                            "term": "intaneti nafimbipo \n Caati iilelanga ifikomo fisangwa mulyashi lyakupaashanya",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.6",
+                    "title": "Amashiwi Yalanga Ukucitika na Ukucitwa Kwafintu - Imiseela Ilanga Ukucitika kwafintu na Ukucitwa Kwafintu",
+                    "page": 78,
+                    "competences": [
+                        "ukubomfya amashiwi yalanga ukucitika na ukucitwa kwa fintu"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 78,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "ukulemba ilyashi lyakupaashanya"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 79,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ubupilibulo na umulimo wamashiwi yalanga ukucitika kwacintu"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 80,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupusanya amashiwi yalanga ukucitika kwa fintu elyo na amashiwi yalanga"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 80,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukusanga/ukufwaya amashiwi yalanga ifyo icintu cilecitika elyo na amashiwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 81,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga imiseela ukubomfya amashiwi yalanga ukucitika kwacintu elyo na"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 82,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "ukucinja imiseela ukufuma mumashiwi yalanga ukucitika kwafintu ukutwala"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Ukucitika na Ukucitwa kwafintu. \nIfikomo fyakufundapo:",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.7",
+                    "title": "Amashiwi Yakwata Ubupilibulo Bwafisama - Amapinda",
+                    "page": 82,
+                    "competences": [
+                        "Ukubomfya Amapinda"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 82,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "ukucinja imiseela ukufuma mumashiwi yalanga ukucitika kwafintu ukutwala"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 84,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubika amapinda mumabumba ukukonka nefyo yabomba"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 84,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukusala inshita iilingile umo amapinda yengabomba"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Amapinda",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ubupilibulo ubwafisama",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Imipoka-poka",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Icipampa",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.8",
+                    "title": "Ukwalula - Inshila Ishalekana-lekana Ishakwalwilamo ululimi",
+                    "page": 85,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 86,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwalula ululimi ukufuma mu Cingeleshi ukutwala mu Cibemba n a ukufumya"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.9",
+                    "title": "Inyimbo - Inyimbo Shapali Ndakai",
+                    "page": 88,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Inyimbo shandakai \n Ifikomo fyakufundapo: \n",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": 87,
+                        "questions": [
+                            "Peela abasambi umulandu, basupawiile ukupitila mukubulamo ifikomo ifikankala ifilimo",
+                            "Peela abasambi ukulemba ilyashi ili pakupaashanya",
+                            "(a) Eba abasambi bacinje imiseela ili peesamba ukufuma mumashiwi yalanga ukucitika",
+                            "Ba Mulilo balekokota amafupa yankoko.",
+                            "Mukonde aaleta isaka lyabunga."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "INYIMBO",
+            "sub_topics": [
+                {
+                    "subtopic_id": "5.1",
+                    "title": "Inyimbo - Inyimbo Shapali Ndakai",
+                    "page": 88,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 89,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya na ukulondolola ubukankala bwa nyimbo shapali ndakai"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 89,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupelulula amafundisho yali mu nyimbo shapali ndaki"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 89,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwimba inyimbo shapali ndakai"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Inyimbo shandakai \n Ifikomo fyakufundapo: \n",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.2",
+                    "title": "Amashiwi - Ubupilibulo bwamashiwi",
+                    "page": 90,
+                    "competences": [
+                        "Ukubomfya amashiwi ukulingana na Fomu 1"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 91,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya pabupilibulo bwamashiwi yasalilwe."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 91,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukupeela ubupilibulo bwamashiwi."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 92,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "ukubomfya amashiwi yasalilwe mumuseela"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "ubupilibulo bwamashiwi",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Imikowa",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ndakai",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ubukumu \nIfikomo fyakufundapo: \n Ukufwaya amashiwi mumulandu ayashikwete ubupilibulo ubwishibikwe \n Ifyakubomfya amashiwi yasalilwe mumiseela \nIfyakubomfya: Ifitabo ifikwete amalyashi yapanyimbo na ifikope ifilelangisha abaleimba \ninyimbo \nIlyashi \nMumyaka yapita ubwinga bwasendelwe nga icintu icikankala ico bwaleleta abantu pamo",
+                            "definition": ""
+                        },
+                        {
+                            "term": "pamofye \nna ukulunda imikowa.Ico kushali ifyakutamba -tamba nga ifyo cili pali ndakai",
+                            "definition": ""
+                        },
+                        {
+                            "term": "abantu ilyo lyonse \nbaumfwa ukuti uku ekuli ubwinga",
+                            "definition": ""
+                        },
+                        {
+                            "term": "awe baale ima cipipya nakana konka kumo mpaka baye imwena \nifyo cinonene. Kwaleba ukwangala uk wasotambe.Imifwalile nayo awe ni lekaleka.Leelo \nicacililepo ukuwamya amenga",
+                            "definition": ""
+                        },
+                        {
+                            "term": "ni nyimbo ishale imbwa mumisango iyalekana lekana.Pali ishi \ninyimbo paali ishobaleimba ukubalelisha ingoma",
+                            "definition": ""
+                        },
+                        {
+                            "term": "shimbi shena baleimba ukuninshi balelisha",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.3",
+                    "title": "Ukubelenga Mukushika - Ukubelenga Na Ukumfwikisha",
+                    "page": 92,
+                    "competences": [
+                        "Ukubelenga imilandu iilingile ba Fomu 1 iyapusana-pusana (inshimi, \ninyimbo elyo na imishikakulo)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 92,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "ukubomfya amashiwi yasalilwe mumuseela"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 93,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga ilyashi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 94,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwasuka ameepusho ayalekana-lekana"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 95,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukusupula ilyashi libelengelwe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 95,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ilyashi babelengele ukubomfya amashiwi yabo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 95,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya ubupilibulo bwa mashiwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 96,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga bwino Mukwikatisha , ukubikamo akamusenselo na ukulanga"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Ukubelenga mukushika",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukubelenga na Ukumfwikisha",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Amabwenge",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukusowesha",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukuwama-nshiwama",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Akana-konka",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Amabwenge",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukusowesha \nIfikomo fyakufundapo: \n Ukubelenga",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.4",
+                    "title": "Ukubelenga Mukwikatisha - Imibelengele Isuma",
+                    "page": 96,
+                    "competences": [
+                        "Ukubelenga bwino amalyashi ayalekana-lekana ayalingile ba Fomu 1"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 96,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga bwino Mukwikatisha , ukubikamo akamusenselo na ukulanga"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 97,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya pafikomo ifikankala ifyakukonka pakulemba ilyashi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 98,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukuleemba ilyashi lyakulondolola umuntu"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Imibelengele Isuma",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukutama-ntama. \nIfikomo Fyakufundapo:  \n Imibelengele isuma; ukukaana tama -ntama",
+                            "definition": ""
+                        },
+                        {
+                            "term": "akamusenselo na ukulanga icinso ukulingana \nnamashiwi ulebelenga \nIfyakubomfya: Ifitabo ifikwete amalyashi ayalekana-lekana",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.5",
+                    "title": "Ukulemba Ilyashi - Imibelengele Isuma",
+                    "page": 96,
+                    "competences": [
+                        "Ukubelenga bwino amalyashi ayalekana-lekana ayalingile ba Fomu 1"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 96,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubelenga bwino Mukwikatisha , ukubikamo akamusenselo na ukulanga"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 97,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya pafikomo ifikankala ifyakukonka pakulemba ilyashi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 98,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukuleemba ilyashi lyakulondolola umuntu"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Imibelengele Isuma",
+                            "definition": ""
+                        },
+                        {
+                            "term": "Ukutama-ntama. \nIfikomo Fyakufundapo:  \n Imibelengele isuma; ukukaana tama -ntama",
+                            "definition": ""
+                        },
+                        {
+                            "term": "akamusenselo na ukulanga icinso ukulingana \nnamashiwi ulebelenga \nIfyakubomfya: Ifitabo ifikwete amalyashi ayalekana-lekana",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.6",
+                    "title": "Ifiunda - Imisango Yafiunda",
+                    "page": 98,
+                    "competences": [
+                        "Ukubombfya imisango yafiunda iyapusana-pusana mumiseela"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 98,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukuleemba ilyashi lyakulondolola umuntu"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 99,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulondolola ubupilibulo bwa fiunda"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 100,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukufwaya ifiunda ukulingana na ilangi elyo na imibeele"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 100,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "ukupanga imiseela ukubomfya imisango ya fiunda iyapusana-pusana"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 101,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya ubupilibulo na imibomfeshe yansoselo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 101,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubiika insoselo mumabumba ukulingana na imilimo yashiko"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Ifiunda",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.7",
+                    "title": "Amashiwi Ayaakwaata Ubupilibulo Ubwafisama - Insoselo",
+                    "page": 101,
+                    "competences": [
+                        "Ukubomfya insoselo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 101,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukulanshanya ubupilibulo na imibomfeshe yansoselo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 101,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukubiika insoselo mumabumba ukulingana na imilimo yashiko"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 102,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukufwaya insoselo ukulingana na inshita ilyo shingabomba"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 102,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukufwaya inshita iyalinga ilyo insoselo shingabomba"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 104,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwalula umulandu uli pesamba nangu imilandu imbi ukufumya mu Cisungu"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [
+                        {
+                            "term": "Amashiwi yabupilibulo ubwafisama",
+                            "definition": ""
+                        },
+                        {
+                            "term": "icipampa. \nIfikomo fyakufundapo:  \n Ubupilibulo bwansoselo \n Ukubiika insoselo mumabumba ukulingana na ifyo shibomba \n Ukubomfya insoselo ishayaana na inshita shingabomba \n Ukufwaya inshita ilyo bengabomfya insoselo",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": null,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.8",
+                    "title": "Ukwalula - Inshila Ishalekana-lekana Ishakwalwilamo Umulandu.",
+                    "page": 104,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 104,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwalula umulandu uli pesamba nangu imilandu imbi ukufumya mu Cisungu"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 105,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ukwalula umulandu ukufumya mu Cibemba ukutwala mu Cingeleshi"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 106,
+                        "questions": [
+                            "Peela abasambi ifitabo ifyapusana -pusana elyo babelenge imilandunilimo iyo batemenwe",
+                            "Alula iimiseela ilipeesamba utwale mu Cibemba"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "6",
+    "subject": "Social Studies"
+  },
+  "topics": [
+    {
+      "unit": "6.1",
+      "topic_title": "LIVING TOGETHER IN THE COMMUNITY",
+      "page_number": 30,
+      "subtopics": [
+        "6.1.1 Province"
+      ],
+      "learning_outcomes": [
+        "Locate on the map of Zambia the position of the province",
+        "Identify the main physical features on a map of the province",
+        "Describe social, economic, cultural, political structures of the province in the past",
+        "Mention the cultural composition of the people in the province",
+        "Describe the economic activities in the province"
+      ]
+    },
+    {
+      "unit": "6.2",
+      "topic_title": "GOVERNANCE",
+      "page_number": 30,
+      "subtopics": [
+        "6.2.1 Leadership",
+        "6.2.2 Local Government"
+      ],
+      "learning_outcomes": [
+        "Identify leadership qualities that promote development",
+        "Describe the functions of local government"
+      ]
+    },
+    {
+      "unit": "6.3",
+      "topic_title": "LEARNING ABOUT MONEY",
+      "page_number": 31,
+      "subtopics": [
+        "6.3.1 Keeping money safe"
+      ],
+      "learning_outcomes": [
+        "Identify the different ways of saving",
+        "Explain the benefits of keeping money safe",
+        "Identify the main features of saving and borrowing",
+        "Identify the relationship between risk and reward in different financial contexts"
+      ]
+    },
+    {
+      "unit": "6.4",
+      "topic_title": "RELIGION",
+      "page_number": 31,
+      "subtopics": [
+        "6.4.1 Religious Faith (Martyrdom)"
+      ],
+      "learning_outcomes": [
+        "Identify Africans killed for their religious faith",
+        "Describe the encounter between David and Goliath",
+        "State the role of faith in helping people to be brave"
+      ]
+    },
+    {
+      "unit": "6.5",
+      "topic_title": "WEATHER AND CLIMATE",
+      "page_number": 32,
+      "subtopics": [
+        "6.5.1 Elements of Weather and Climate"
+      ],
+      "learning_outcomes": [
+        "Outline elements of weather and climate"
+      ]
+    },
+    {
+      "unit": "6.6",
+      "topic_title": "ENVIRONMENT",
+      "page_number": 32,
+      "subtopics": [
+        "6.6.1 Protection of the Environment"
+      ],
+      "learning_outcomes": [
+        "Identify ways of disposing waste",
+        "Identify communal places that need protection from waste",
+        "Describe the role of the community in environmental protection and waste management"
+      ]
+    },
+    {
+      "unit": "6.7",
+      "topic_title": "TRANSPORT AND COMMUNICATION",
+      "page_number": 32,
+      "subtopics": [
+        "6.7.1 Road Safety"
+      ],
+      "learning_outcomes": [
+        "Explain factors that influence road safety"
+      ]
+    }
+  ]
+}

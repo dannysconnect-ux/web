@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "10",
+    "subject": "Physics 5054",
+    "philosophy": "Quality, life-long education for all which is accessible, inclusive and relevant to individual, national and global needs and value systems. The syllabus has been reviewed in line with the Outcome Based Education principles which seek to link education to real life experiences that give learners skills to access, criticize analyze and practically apply knowledge that help them gain life skills. Effective implementation of Outcome Based Education requires that the following principles be observed: clarity of focus, Reflective designing, setting high expectations for all learners and appropriate opportunities.",
+    "competence_learning": "Its competences and general outcomes are the expected outcomes to be attained by the leaners through the acquisition of knowledge, skills, techniques and values which are very important for the total development of the individual and the nation as a whole. General Outcomes for Grade 10: Develop an understanding of measurements, Develop investigative skills, Demonstrate an understanding of mechanics. Key competences for Grade 10: Demonstrate ability to measure length, time, mass, weight and volume, Show skills and knowledge to calculate density, speed, velocity, acceleration and force, Demonstrate ability to use different sources of energy, Demonstrate ability to use simple machines to do work.",
+    "goals": [
+      "Knowledge and understanding of facts, ideas techniques and the applications of Physics.",
+      "Skill in applying their knowledge and understanding in problem solving.",
+      "Practical abilities associated with investigation of certain phenomena and principles in Physics.",
+      "Positive Scientific attitudes such as open mindedness and willingness to recognise alternative points of view."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "10.1",
+      "topic_title": "Measurements",
+      "page_number": 14,
+      "subtopics": [
+        "10.1.1 International System of Units (SI).",
+        "10.1.2 Length and time",
+        "10.1.3 Mass and, weight",
+        "10.1.4 Density"
+      ],
+      "specific_outcomes": [
+        "10.1.1.1 Distinguish between basic and derived quantities",
+        "10.1.1.2 Identify basic units and derived units.",
+        "10.1.1.3 Recognise prefixes, multiples and submultiples of fundamental and derived units.",
+        "10.1.1.4 Use scientific notation and significant figures in numerical problems.",
+        "10.1.2.1 Demonstrate the use of various measuring instruments to determine length",
+        "10.1.2.2 Demonstrate the use of clocks and devices for measuring an interval of time",
+        "10.1.2.3 Identify factors that affect the period of a simple pendulum",
+        "10.1.3.1 Distinguish between mass and weight",
+        "10.1.3.2 Demonstrate how to measure mass and weight",
+        "10.1.3.3Demonstrate how to locate the centre of mass of an object",
+        "10.1.3.4 Describe qualitatively the effect of the position of the centre of mass on the stability of an object.",
+        "10.1.4.1 Determine the density of floating objects",
+        "10.1.4.2 Determine the density of a mixture of liquids",
+        "10.1.4.3 Describe what relative density is",
+        "10.1.4.4 Calculate relative density of air"
+      ]
+    },
+    {
+      "unit": "10.2",
+      "topic_title": "Mechanics",
+      "page_number": 17,
+      "subtopics": [
+        "10.2.1 Scalars and vectors.",
+        "10.2.2 Linear motion",
+        "10.2.3 Forces",
+        "10.2.4 Moment of forces.",
+        "10.2.5 Work, Energy and Power.",
+        "10.2.6 Simple machines",
+        "10.2.7 Pressure"
+      ],
+      "specific_outcomes": [
+        "10.2.1.1Describe what scalar and vector quantities are",
+        "10.2.1.2 Distinguish between scalars and vectors.",
+        "10.2.1.3 Demonstrate adding of vectors to determine a resultant",
+        "10.2.1.4 Demonstrate how to determine the resultant of two vectors graphically.",
+        "10.2.2.1 Describe the terms used in mechanics.",
+        "10.2.2.2 Demonstrate the use of equations of uniformly accelerated motion to solve problems",
+        "10.2.2.3 Interpret graphical representation of distance-time, Displacement - time, speed-time, velocity-time and acceleration-time.",
+        "10.2.2.4 Investigate the consequences of over speeding",
+        "10.2.2.5 Describe the acceleration of free fall for a body near the earth.",
+        "10.2.2.6 Describe qualitatively the motion of bodies falling in a uniform gravitational field with and without air resistance",
+        "10.2.3.1 Explain what force is.",
+        "10.2.3.2 Explain the effect of forces on bodies.",
+        "10.2.3.3 Describe the inertia law",
+        "10.2.3.4 Demonstrate the relationship between force and acceleration",
+        "10.2.3.5 Demonstrate the relationship between mass and acceleration.",
+        "10.2.3.6 Perform calculations on force.",
+        "10.2.3.7 Investigate the effect of force on a spring.",
+        "10.2.3.8 Demonstrate the effects of friction on the motion of a body.",
+        "10.2.3.9 Describe the motion in a circular path due to a perpendicular force.",
+        "10.2.4.1 Perform calculations based on the principle of moments.",
+        "10.2.4.2 Investigate the everyday application of moments.",
+        "10.2.5.1 Explain the meaning of the terms work, energy and power.",
+        "10.2.5.2 Identify the units of measurement for work, energy and power",
+        "10.2.5.3 Calculate work using the appropriate formula",
+        "10.2.5.4 Identify the different forms of energy",
+        "10.2.5.5 Explain qualitatively and quantitatively the terms gravitational potential and kinetic energy.",
+        "10.2.5.6 Describe sources of renewable and non renewable energy.",
+        "10.2.5.7 Explain the effects of the use of energy sources on the environment.",
+        "10.2.5.8 Demonstrate energy transformation from one form to another",
+        "10.2.5.9 Describe the conservation of energy",
+        "10.2.5.10 Calculate energy using mass and velocity",
+        "10.2.5.11 Demonstrate the calculation of efficiency of energy conversion using the appropriate formula",
+        "10.2.5.12Demonstrate calculation of power using the appropriate formula",
+        "10.2.6.1 Describe what a simple machine is",
+        "10.2.6.2 Identify the different types of simple machines.",
+        "10.2.6.3 Describe the distances moved by the effort and the load in a simple machine",
+        "10.2.6.4 Explain the terms of Mechanical advantage (MA), Velocity Ratio (VR) and Efficiency.",
+        "10.2.6.5 Perform calculations involving simple machines",
+        "10.2.7.1 Explain what pressure is.",
+        "10.2.7.2 Describe how pressure relate to force and area using appropriate examples and formula",
+        "10.2.7.3 Identify factors affecting pressure in liquids.",
+        "10.2.7.4 Describe the transmission of pressure in hydraulic systems.",
+        "10.2.7.5 Calculate pressure in liquids.",
+        "10.2.7.6 Explain the mechanism of a mercury barometer.",
+        "10.2.7.7 Explain the mechanism of a manometer",
+        "10.2.7.8 Explain principles of upthrust and floatation.",
+        "10.2.7.9 Describe how upthrust relate to floatation in fluids."
+      ]
+    }
+  ]
+}

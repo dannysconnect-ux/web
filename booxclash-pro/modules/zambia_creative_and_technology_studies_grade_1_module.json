@@ -1,0 +1,1888 @@
+{
+    "subject": "Creative and Technology Studies",
+    "grade": "Grade 1",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.1",
+            "topic_title": "SAFETY",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1.1",
+                    "title": "Safety in the immediate environment",
+                    "page": 6,
+                    "competences": [
+                        "Demonstrate safety practices in the immediate environment"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 7,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Introduce the phrase (safety in the immediate environment)",
+                                "Explain the terminology safety. Explain immediate environment as any surrounding (e.g. home, playground, road) that influences ones behavior and decision likely to bring about accidents, injuries and death without proper measures.",
+                                "Demonstrate the best safety measures to be taken in specialized and regular rooms. For example, proper storage of some sharp items (e.g. knives, hoe, axe, building tools) likely to make children with visual impairments have serious injuries.",
+                                "Proper arrangement of furniture with enough space in between desks for easy movements of each and every learner."
+                            ],
+                            "learner_steps": [
+                                "Listen to teacher explanation about safety in the immediate environment",
+                                "Observe demonstrations of best safety measures",
+                                "Note proper storage of sharp items",
+                                "Observe proper furniture arrangement"
+                            ],
+                            "short_notes": "Demonstrating safety practices in the classroom"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 7,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Conduct a whole-class question and answer on how to practice safety rules in both specialized and regular classrooms as immediate environment.",
+                                "Choral repetition of key terminologies.",
+                                "Pair learners to practice the best safety measures in specialized and regular classrooms in a dialogue format"
+                            ],
+                            "learner_steps": [
+                                "Participate in whole-class question and answer session",
+                                "Practice choral repetition of key terminologies",
+                                "Work in pairs to practice safety measures in dialogue format",
+                                "Rotate pairs to ensure everyone practices with different partners"
+                            ],
+                            "short_notes": "Practicing safety rules in the classroom"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 8,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put learners in small groups. Ask learners to role-play a scenario where they are practicing how to clean and store equipment in correct places.",
+                                "Ask each group to perform their dialogue in front of the class.",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Form small groups",
+                                "Role-play scenarios of cleaning and storing equipment in correct places",
+                                "Perform dialogue in front of the class",
+                                "Receive feedback from teacher"
+                            ],
+                            "short_notes": "Demonstrate how to clean and store equipment"
+                        }
+                    ],
+                    "short_notes": "This sub-topic focuses on equipping learners with the ability to use appropriate means to interact with the immediate environment. Learners will be given an opportunity to explore the environment to prevent any unforeseen circumstances and practice safety rules. Applying correct safety measures is an essential innovation skill that brings about confidence as someone navigates the immediate environment around them.",
+                    "vocabulary": [
+                        {
+                            "term": "safety",
+                            "definition": "the state of being protected from danger or injuries"
+                        },
+                        {
+                            "term": "injury",
+                            "definition": "physical harm or damage to the body"
+                        },
+                        {
+                            "term": "death",
+                            "definition": "the end of life"
+                        },
+                        {
+                            "term": "accident",
+                            "definition": "an unfortunate incident that happens unexpectedly and unintentionally"
+                        },
+                        {
+                            "term": "playground",
+                            "definition": "an outdoor area provided for children to play"
+                        },
+                        {
+                            "term": "environment",
+                            "definition": "the surroundings or conditions in which a person, animal, or plant lives or operates"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 8,
+                        "questions": [
+                            "What is safety?",
+                            "How can you prevent accidents?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.1.2",
+                    "title": "Body Posture",
+                    "page": 9,
+                    "competences": [
+                        "Demonstrate correct postural habits"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 9,
+                            "hook": null,
+                            "teacher_steps": [
+                                "The teacher explains the term body posture. Body posture is the way the body is positioned including whether one is standing or sitting, the relative positions of body parts, and how much space the body occupies.",
+                                "Illustrate to learners how men and women in uniform stand or how people stand when they are singing the national anthem. Then ask learners what the two groups of people have in common.",
+                                "Thereafter, state exactly what good posture is. Good posture refers to the way a person stands, sits and moves where there is proper body alignment.",
+                                "Demonstrate to the learners the different correct postural habits such as sitting, standing, walking, kneeling and lifting etc."
+                            ],
+                            "learner_steps": [
+                                "Listen to explanation of body posture",
+                                "Observe illustrations of people with good posture",
+                                "Identify common characteristics of good posture",
+                                "Learn about proper body alignment",
+                                "Observe demonstrations of correct postural habits"
+                            ],
+                            "short_notes": "Explanation on the meaning of body posture"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 9,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put the learners in pairs and ask them to practice the correct posture habits."
+                            ],
+                            "learner_steps": [
+                                "Work in pairs",
+                                "Practice correct posture habits with partner"
+                            ],
+                            "short_notes": "Pair work to demonstrate correct posture habits"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 9,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put learners in small groups. Ask learners to demonstrate correct postural habits.",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Form small groups",
+                                "Demonstrate correct postural habits",
+                                "Receive feedback from teacher"
+                            ],
+                            "short_notes": "Individual performance of correct postural habits"
+                        }
+                    ],
+                    "short_notes": "The purpose of this topic is basic postural skills or habits. Body posture is very much connected to safety. Some accidents or injuries may be brought about due to bad body posture habits. Therefore, learners should be taught good body posture habit for safety reasons. Basic posture exercises will also improve motor skills, balance and make it easier for the learners with visual impairment to use the leg, body and arms properly and prevent accidents.",
+                    "vocabulary": [
+                        {
+                            "term": "Body posture",
+                            "definition": "the way the body is positioned including whether one is standing or sitting, the relative positions of body parts, and how much space the body occupies"
+                        },
+                        {
+                            "term": "standing",
+                            "definition": "being in an upright position on one's feet"
+                        },
+                        {
+                            "term": "sitting",
+                            "definition": "resting with the body supported by one's buttocks"
+                        },
+                        {
+                            "term": "lifting",
+                            "definition": "raising something to a higher position"
+                        },
+                        {
+                            "term": "kneeling",
+                            "definition": "being in or moving into a position in which the body is supported by a knee or the knees"
+                        },
+                        {
+                            "term": "walking",
+                            "definition": "moving at a regular pace by lifting and setting down each foot in turn"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 10,
+                        "questions": [
+                            "What is the meaning of the term body posture?",
+                            "Mention various ways of bad and good posture."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.2",
+            "topic_title": "HAND MOTOR COORDINATION",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.2.1",
+                    "title": "Tactile Activities",
+                    "page": 11,
+                    "competences": [
+                        "Differentiate textures of different objects"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 11,
+                            "hook": null,
+                            "teacher_steps": [
+                                "While displaying some objects such as plastic eggs, egg shells, dolls, medium sized stones, bottle tops etc., explain the meaning of the word object and texture.",
+                                "Learners identify different objects displayed."
+                            ],
+                            "learner_steps": [
+                                "Observe objects being displayed",
+                                "Learn the meaning of object and texture",
+                                "Identify different objects displayed"
+                            ],
+                            "short_notes": "Learners identify different shapes of objects according to texture"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "The teacher guides the learners on how to make various simple objects using local resources such as kite, house, car, hat, dolls."
+                            ],
+                            "learner_steps": [
+                                "Follow teacher guidance",
+                                "Make simple objects using local resources (kite, house, car, hat, dolls)"
+                            ],
+                            "short_notes": "Learners make simple objects (kite, house, car, hat)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put learners in small groups. Ask learners to make any of the tactile objects such as house, car, hat or kite.",
+                                "Ask each group to explain and demonstrate their object in front of the class.",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Form small groups",
+                                "Make tactile objects (house, car, hat or kite)",
+                                "Explain and demonstrate object to the class",
+                                "Receive feedback from teacher"
+                            ],
+                            "short_notes": "Learners make tactile objects"
+                        }
+                    ],
+                    "short_notes": "This sub-topic focuses on equipping learners with the ability to use appropriate means to interact with the immediate environment using finger dexterity. Learners will be given an opportunity to explore the environment while observing safety rules to avoid possible accidents.",
+                    "vocabulary": [
+                        {
+                            "term": "Texture",
+                            "definition": "the feel, appearance, or consistency of a surface or substance"
+                        },
+                        {
+                            "term": "Object",
+                            "definition": "a material thing that can be seen and touched"
+                        },
+                        {
+                            "term": "Tactile",
+                            "definition": "relating to the sense of touch"
+                        },
+                        {
+                            "term": "Coordination",
+                            "definition": "the organization of different elements to enable them to work together effectively"
+                        },
+                        {
+                            "term": "Manipulation",
+                            "definition": "handling or controlling something skillfully"
+                        },
+                        {
+                            "term": "Identification",
+                            "definition": "the action or process of identifying someone or something"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 12,
+                        "questions": [
+                            "Ask learners to assemble similar objects in different groups or sets."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2.2",
+                    "title": "Finger Manipulation",
+                    "page": 13,
+                    "competences": [
+                        "Identify objects of different sizes, heights and shapes"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain while showing learners the different objects according to their shapes, sizes (in reference to smoothness and roughness of an object). Floor, smooth surfaces and others may be used as examples. The teacher can also make shapes such as square, rectangle, circle, triangle etc.",
+                                "The instructor asks learners to state some textures of some objects."
+                            ],
+                            "learner_steps": [
+                                "Observe different objects according to their shapes and sizes",
+                                "Learn about smoothness and roughness of objects",
+                                "State textures of some objects"
+                            ],
+                            "short_notes": "Explain while showing the learners different kinds objects according to their sizes, heights and shapes"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners divide into small groups. Learners in their small groups make two objects with different size and height.",
+                                "Thereafter, each group explains and distinguishes the two objects made in terms of size and height to the rest of the class.",
+                                "Learners identify the six dots of the braille cell on an egg tray cutting.",
+                                "Provide feedback"
+                            ],
+                            "learner_steps": [
+                                "Divide into small groups",
+                                "Make two objects with different size and height",
+                                "Explain and distinguish the two objects to the class",
+                                "Identify the six dots of the braille cell on an egg tray cutting",
+                                "Receive feedback"
+                            ],
+                            "short_notes": "Demonstrate how to differentiate various objects in the environment"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners display the different objects and show their different sizes, heights"
+                            ],
+                            "learner_steps": [
+                                "Display the different objects",
+                                "Show their different sizes and heights",
+                                "Touch and identify the different objects individually",
+                                "Show different sizes, heights and shapes"
+                            ],
+                            "short_notes": "Identification of objects of different sizes, heights and shapes"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 4",
+                            "page": 14,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Teacher distributes several egg tray cuttings replicating the six dots of the braille cell.",
+                                "Then, while being guided by the teacher, learners touch and learn about the six dots of the braille cell using the egg tray cuttings."
+                            ],
+                            "learner_steps": [
+                                "Receive egg tray cuttings",
+                                "Touch and learn about the six dots of the braille cell",
+                                "Describe the correct positions of dots of the braille cell on an egg tray cutting"
+                            ],
+                            "short_notes": "Identifying the six dots of the braille using the egg tray"
+                        }
+                    ],
+                    "short_notes": "In this topic, learners will identify objects of different sizes, heights and shapes through finger manipulation. Learners will also use the egg tray to identify the six dots of the braille cell. This topic is important as it enables learners with visual impairment to build and strengthen finger dexterity and enhance object identification.",
+                    "vocabulary": [
+                        {
+                            "term": "Objects",
+                            "definition": "material things that can be seen and touched"
+                        },
+                        {
+                            "term": "finger manipulation",
+                            "definition": "the skillful use of fingers to handle and control objects"
+                        },
+                        {
+                            "term": "dots",
+                            "definition": "small round marks or spots"
+                        },
+                        {
+                            "term": "dexterity",
+                            "definition": "skill in performing tasks, especially with the hands"
+                        },
+                        {
+                            "term": "object identification",
+                            "definition": "the process of recognizing and naming objects"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 14,
+                        "questions": [
+                            "In few minutes, learners to give an explanation on the importance of texture and the six dots of a Braille cell."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.3",
+            "topic_title": "TOOLS AND EQUIPMENT",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.3.1",
+                    "title": "Hand tools",
+                    "page": 15,
+                    "competences": [
+                        "Demonstrate ability to use hand tools to make products"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Teacher displays various hand tools used to make products such as handsaw, hammer, chisel, knitting needles, pliers.",
+                                "An intensive and extensive introspection on the Hand tools used to make products they know so far."
+                            ],
+                            "learner_steps": [
+                                "Observe various hand tools displayed",
+                                "Reflect on hand tools used to make products they know",
+                                "Identify hand tools such as knife, adze, saw"
+                            ],
+                            "short_notes": "Identifying Hand tools used to make products (knife, adze, saw…)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Conduct a whole-class discussion session on identifying hand tools used to make various products (knife, adze, saw…)"
+                            ],
+                            "learner_steps": [
+                                "Participate in whole-class discussion",
+                                "Identify hand tools used to make various products"
+                            ],
+                            "short_notes": "Whole-class discussion session on identifying hand tools"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put learners in small groups. Ask them to match given hand tools with their use/product.",
+                                "Ask each group to give a clear explanation and demonstrate their artifact in front of the whole class."
+                            ],
+                            "learner_steps": [
+                                "Form small groups",
+                                "Match given hand tools with their use/product",
+                                "Give clear explanation to the whole class",
+                                "Demonstrate artifact in front of the class"
+                            ],
+                            "short_notes": "Matching given hand tools with their use/product"
+                        }
+                    ],
+                    "short_notes": "This sub-topic focuses on equipping learners with the ability to use appropriate means to interact with the immediate environment using hand tools and products made from them.",
+                    "vocabulary": [
+                        {
+                            "term": "Hand tools",
+                            "definition": "tools that are powered by hand rather than by an engine or motor"
+                        },
+                        {
+                            "term": "saw",
+                            "definition": "a hand tool used for cutting wood or other materials"
+                        },
+                        {
+                            "term": "adze",
+                            "definition": "a tool used for smoothing or carving wood"
+                        },
+                        {
+                            "term": "knife",
+                            "definition": "a cutting instrument with a sharp blade"
+                        },
+                        {
+                            "term": "Equipment",
+                            "definition": "the necessary items for a particular purpose"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 16,
+                        "questions": [
+                            "Give three examples of the hand tools used in making Products discussed in the lesson."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3.2",
+                    "title": "Kitchen Utensils",
+                    "page": 18,
+                    "competences": [
+                        "Use kitchen utensils"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 18,
+                            "hook": "What are some of the kitchen utensils you know?",
+                            "teacher_steps": [
+                                "Question and Answer on types of kitchen utensils and their uses"
+                            ],
+                            "learner_steps": [
+                                "Participate in Q&A session",
+                                "Identify kitchen utensils: Knife, fork, spoon, grater, Jar, kitchen scissors, cutting board, kitchen towels, pan, pot, stove, microwave, mortar, Colander, Peeler, Can opener, plates, dish etc."
+                            ],
+                            "short_notes": "Identify kitchen utensils and their uses"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 18,
+                            "hook": null,
+                            "teacher_steps": [
+                                "In pairs, learners discuss the uses of kitchen utensils",
+                                "Ask learners to match kitchen utensils with their uses"
+                            ],
+                            "learner_steps": [
+                                "Work in pairs to discuss uses of kitchen utensils",
+                                "Identify uses: Cutting food items to size, Heating food, Grinding food, Blending food, Cooking food, Baking",
+                                "Match kitchen utensils with their uses"
+                            ],
+                            "short_notes": "Uses of various kitchen utensils"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners divide into small groups to discuss on how to clean and store kitchen utensils in suitable places."
+                            ],
+                            "learner_steps": [
+                                "Divide into small groups",
+                                "Discuss how to clean kitchen utensils: Fill the kitchen sink or dish with water, Soak the dirty kitchen utensils in water, Add dish washing liquid (detergent) or soda to break down the stains, Scrub each kitchen utensil, Rinse each kitchen utensil, Dry the kitchen utensils",
+                                "Discuss how to store kitchen utensils: Use drawers, kitchen utensil holders, cabinet doors, cutlery baskets, dish drainers"
+                            ],
+                            "short_notes": "How to clean and store kitchen utensils in suitable places"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 4",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [
+                                "In small groups, learners demonstrate how to clean and store kitchen utensils in suitable places."
+                            ],
+                            "learner_steps": [
+                                "Work in small groups",
+                                "Demonstrate how to clean kitchen utensils",
+                                "Demonstrate how to store kitchen utensils in suitable places"
+                            ],
+                            "short_notes": "Demonstrating how to clean and store kitchen utensils"
+                        }
+                    ],
+                    "short_notes": "In this sub topic, the learners will acquire knowledge and skills on how to work in the kitchen and its utensils. Knowing where to find which tools and for what purpose goes very far in establishing the learner's self-reliance and independent living.",
+                    "vocabulary": [
+                        {
+                            "term": "Kitchen",
+                            "definition": "a room or area where food is prepared and cooked"
+                        },
+                        {
+                            "term": "Utensils",
+                            "definition": "tools or containers used in the kitchen for cooking and eating"
+                        },
+                        {
+                            "term": "kitchen scissors",
+                            "definition": "scissors used for cutting food items in the kitchen"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 19,
+                        "questions": [
+                            "Mention 3 kitchen utensils and their uses",
+                            "Explain how kitchen utensils are cleaned and stored."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.4",
+            "topic_title": "MATERIALS",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.4.1",
+                    "title": "Sources of materials",
+                    "page": 21,
+                    "competences": [
+                        "Identify sources of materials used to make items"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners identify sources of materials."
+                            ],
+                            "learner_steps": [
+                                "Identify sources of materials: Soil, plants, animals, minerals, sand etc"
+                            ],
+                            "short_notes": "Identify sources of materials"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "On a chart, make a list of objects available at home and classroom. Then using words from the word box, ask learners to identify materials from which the named objects are made."
+                            ],
+                            "learner_steps": [
+                                "Observe chart with list of objects",
+                                "Match products with their sources",
+                                "Identify materials from which objects are made"
+                            ],
+                            "short_notes": "Match products with their sources"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners use different sources of materials to come up with products such as huts, wire cars, dolls, tooth picks, moulding mortar & pestle, cooking stick."
+                            ],
+                            "learner_steps": [
+                                "Use different sources of materials",
+                                "Create products: huts, wire cars, dolls, tooth picks, mortar & pestle, cooking stick"
+                            ],
+                            "short_notes": "Use different sources of materials to come up with products"
+                        }
+                    ],
+                    "short_notes": "In this topic, learners will be equipped with knowledge on the various materials. Learners will learn about sources of materials such as trees, soil and animals. They will also acquire knowledge and skills on methods that can be used to preserve the sources of materials.",
+                    "vocabulary": [
+                        {
+                            "term": "Materials",
+                            "definition": "the substances from which something is made"
+                        },
+                        {
+                            "term": "Conservation",
+                            "definition": "careful maintenance and upkeep of a natural resource to prevent it from disappearing"
+                        },
+                        {
+                            "term": "Reuse",
+                            "definition": "the action or practice of using an item, whether for its original purpose or to fulfill a different function"
+                        },
+                        {
+                            "term": "Recycle",
+                            "definition": "the process of converting waste materials into new materials and objects"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 23,
+                        "questions": [
+                            "List any three sources of materials.",
+                            "Mention two products and their sources."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4.2",
+                    "title": "Material Conservation",
+                    "page": 24,
+                    "competences": [
+                        "Demonstrate different ways of conserving materials"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [
+                                "The teacher explains the concepts of material conservation.",
+                                "Ask learners to state various ways of conserving materials and sources of materials."
+                            ],
+                            "learner_steps": [
+                                "Listen to explanation of material conservation",
+                                "State various ways of conserving materials: recycling, reusing, tree planting, caring, painting, treatment using chemicals"
+                            ],
+                            "short_notes": "Explanation of the concept of material conservation"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Teacher asks learners to come with small trees.",
+                                "In pairs, learners are taken out of the classroom to the school garden to plant the trees.",
+                                "Then, the teacher asks learners to explain how they were going to care for the planted trees."
+                            ],
+                            "learner_steps": [
+                                "Bring small trees to school",
+                                "Work in pairs",
+                                "Go to school garden",
+                                "Plant the trees",
+                                "Explain how to care for planted trees"
+                            ],
+                            "short_notes": "Field work on tree planting"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners together with the teacher to monitor the already planted trees"
+                            ],
+                            "learner_steps": [
+                                "Monitor the already planted trees with teacher",
+                                "Observe growth of planted trees"
+                            ],
+                            "short_notes": "Learners together with the teacher to monitor the already planted trees"
+                        }
+                    ],
+                    "short_notes": "Under this topic, learners will learn different ways of conserving materials such as reusing, recycling for the purpose of selling, tree planting and care. Learners will acquire knowledge and skills of conserving materials and sources of materials. The lesson will also introduce the learners to the concept, practice and values of conservation of nature for sustainable development. Through this topic, learners will understand the importance of keeping materials in their original form for as long as possible.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 25,
+                        "questions": [
+                            "Explain the meaning of the term material conservation.",
+                            "Describe what would happen if the small trees are not taken care of."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.5",
+            "topic_title": "PATTERNS",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.5.1",
+                    "title": "Simple patterns",
+                    "page": 26,
+                    "competences": [
+                        "Make simple patterns"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "The teacher creates the patterns in the classroom.",
+                                "Then, the teacher shows the created patterns (finger prints, scribble, zig zag etc) to each individual learner."
+                            ],
+                            "learner_steps": [
+                                "Observe teacher creating patterns",
+                                "View created patterns individually: finger prints, scribble, zig zag etc"
+                            ],
+                            "short_notes": "Creating different patterns and shows them to the learners"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Teacher displays various patterns to the learners for them to identify (e.g. finger prints, scribble, line, splash, tear patterns, zig zag)"
+                            ],
+                            "learner_steps": [
+                                "Observe various patterns displayed",
+                                "Identify patterns: finger prints, scribble, line, splash, tear patterns, zig zag"
+                            ],
+                            "short_notes": "Learners to identify various patterns"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "In pairs, the learners create various patterns (e.g. finger prints, scribble, line, splash, tear patterns, zig zag).",
+                                "The teacher guides the learners as they make the patterns."
+                            ],
+                            "learner_steps": [
+                                "Work in pairs",
+                                "Create various patterns: finger prints, scribble, line, splash, tear patterns, zig zag",
+                                "Receive guidance from teacher"
+                            ],
+                            "short_notes": "Learners make the patterns individually"
+                        }
+                    ],
+                    "short_notes": "This topic will introduce learners to the concept of patterns. Learners will acquire skills on how to make simple patterns such as lines, scribbling, finger prints, splash, tear patterns and zig zag. The significance of this topic for learners with visual impairments include guidance in following straight lines when negotiating the environment and embossing.",
+                    "vocabulary": [
+                        {
+                            "term": "Patterns",
+                            "definition": "a repeated decorative design or arrangement"
+                        },
+                        {
+                            "term": "finger prints",
+                            "definition": "an impression or mark made on a surface by a person's fingertip"
+                        },
+                        {
+                            "term": "scribble",
+                            "definition": "to write or draw carelessly or hurriedly"
+                        },
+                        {
+                            "term": "line",
+                            "definition": "a long, narrow mark or band"
+                        },
+                        {
+                            "term": "splash",
+                            "definition": "a mark or patch of color"
+                        },
+                        {
+                            "term": "tear patterns",
+                            "definition": "patterns created by tearing paper or material"
+                        },
+                        {
+                            "term": "zig zag",
+                            "definition": "a line or pattern that has a series of sharp turns"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Mention any three (3) types of patterns."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.6",
+            "topic_title": "SOUNDS",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.6.1",
+                    "title": "Exploration of sound",
+                    "page": 28,
+                    "competences": [
+                        "Produce different sounds"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 28,
+                            "hook": null,
+                            "teacher_steps": [
+                                "The teacher should create the sounds e.g. clapping, hissing, whistling, sound of animals, cars, water, motorbike, birds etc.",
+                                "Learners listen attentively to the sounds being produced by the teacher."
+                            ],
+                            "learner_steps": [
+                                "Listen attentively to sounds produced by teacher",
+                                "Identify sounds: clapping, hissing, whistling, sound of animals, cars, water, motorbike, birds etc"
+                            ],
+                            "short_notes": "Teacher produces different sounds"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 28,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners distinguish different types of sounds e.g. sound of a motorbike and that of a running car."
+                            ],
+                            "learner_steps": [
+                                "Distinguish different types of sounds",
+                                "Differentiate between sound of motorbike and running car"
+                            ],
+                            "short_notes": "Distinguishing various sounds"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 28,
+                            "hook": null,
+                            "teacher_steps": [
+                                "In pairs, ask learners to make their own sounds.",
+                                "Learners should explain the representation of each sound such as sound of a cow, running engine of a car and hooting sound."
+                            ],
+                            "learner_steps": [
+                                "Work in pairs",
+                                "Make own sounds",
+                                "Explain representation of each sound: cow, running engine, hooting sound"
+                            ],
+                            "short_notes": "Learners make their own sounds"
+                        }
+                    ],
+                    "short_notes": "This topic covers the concept of exploration of sound. Learners are expected to distinguish and produce various sounds such as clapping, hissing, whistling. This topic plays a pivotal role in enhancing the hearing ability of learners with visual impairment for safe and effective navigation in the environment, locate the direction of sound and for protection against social exclusion. It will help them make their way around the environment and identify and grasp nearby items such as water, cars, animals, birds, drums, keyboard etc.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 29,
+                        "questions": [
+                            "Give three examples of different sounds."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.7",
+            "topic_title": "DRAMA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.7.1",
+                    "title": "Drama",
+                    "page": 30,
+                    "competences": [
+                        "Demonstrate ability to act"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Teacher to introduce activities that are involved in house chores"
+                            ],
+                            "learner_steps": [
+                                "Learn about activities involved in house chores"
+                            ],
+                            "short_notes": "Teacher to introduce activities that are involved in house chores"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners identify and discuss some house chores"
+                            ],
+                            "learner_steps": [
+                                "Identify house chores",
+                                "Discuss various house chores"
+                            ],
+                            "short_notes": "Learners identify and discuss some house chores"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [
+                                "In pairs, learners dramatize various house chores using role play to the rest of the class."
+                            ],
+                            "learner_steps": [
+                                "Work in pairs",
+                                "Dramatize various house chores using role play",
+                                "Perform to the rest of the class"
+                            ],
+                            "short_notes": "In pairs, learners dramatize various house chores using role play to the rest of the class"
+                        }
+                    ],
+                    "short_notes": "This topic unfolds performances that involve conflicts, emotions and the portrayal of human experiences expressed through dialogue and actions. Learners will be expected to perform role plays of various situations such as earning money, performing household chores, washing cars, selling artefacts. Drama allows learners to relate better to different situations, context and different cultures. Through drama, learners will develop empathy, creativity, communication and critical thinking skills.",
+                    "vocabulary": [
+                        {
+                            "term": "Drama",
+                            "definition": "a performance that involves conflicts, emotions and human experiences"
+                        },
+                        {
+                            "term": "acting",
+                            "definition": "performing a role in a play or film"
+                        },
+                        {
+                            "term": "singing",
+                            "definition": "making musical sounds with the voice"
+                        },
+                        {
+                            "term": "Role play",
+                            "definition": "acting out a particular role or character"
+                        },
+                        {
+                            "term": "empathy",
+                            "definition": "the ability to understand and share the feelings of another"
+                        },
+                        {
+                            "term": "context",
+                            "definition": "the circumstances that form the setting for an event"
+                        },
+                        {
+                            "term": "culture",
+                            "definition": "the customs and social behavior of a particular people or society"
+                        },
+                        {
+                            "term": "dancing",
+                            "definition": "moving rhythmically to music"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 30,
+                        "questions": [
+                            "Learners to state their observations from the actions displayed."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.8",
+            "topic_title": "HOSPITALITY",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.8.1",
+                    "title": "Customer Service",
+                    "page": 32,
+                    "competences": [
+                        "Perform customer service skills"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 32,
+                            "hook": "Imagine you work at hungry lion. What things would you do make your customers feel welcome?",
+                            "teacher_steps": [
+                                "Learners share their experiences from the restaurant they have been to.",
+                                "Then, the teacher comes in to explain the customer service skills to the learners."
+                            ],
+                            "learner_steps": [
+                                "Share experiences from restaurants visited",
+                                "Learn about customer service skills: Soft skills including providing customer support on the phone, such as empathy, the ability to read a customer's emotional state, social graces, communication, and friendliness"
+                            ],
+                            "short_notes": "Explain customer service skills"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 32,
+                            "hook": null,
+                            "teacher_steps": [
+                                "In pairs, learners practice a role play on how to attend to customer in a shop. One learner should play the role of a customer or waiter and another should play the role of a sales assistant.",
+                                "Selected pairs perform their role plays to the rest of the class."
+                            ],
+                            "learner_steps": [
+                                "Work in pairs",
+                                "Practice role play on attending to customers",
+                                "Play role of customer/waiter or sales assistant",
+                                "Perform role play to the class"
+                            ],
+                            "short_notes": "Demonstrating customer service skills"
+                        }
+                    ],
+                    "short_notes": "In this topic, learners are expected to acquire knowledge and skills on how to develop a cordial relationship between themselves and visitors or customers. They will also learn about the importance of being friendly, generous and welcoming to strangers or visitors. This topic will also enable learners to acquire good customer relations such as communicating effectively, being empathetic, helpful, efficient, creative and quick to attend to the needs of customers/guests.",
+                    "vocabulary": [
+                        {
+                            "term": "Hospitality",
+                            "definition": "the friendly and generous reception and entertainment of guests or strangers"
+                        },
+                        {
+                            "term": "customer",
+                            "definition": "a person who buys goods or services from a shop or business"
+                        },
+                        {
+                            "term": "customer service",
+                            "definition": "the assistance and advice provided by a company to those who buy or use its products or services"
+                        },
+                        {
+                            "term": "restaurant",
+                            "definition": "a place where people pay to sit and eat meals that are cooked and served on the premises"
+                        },
+                        {
+                            "term": "guest",
+                            "definition": "a person who is invited to visit someone's home or attend a particular event"
+                        },
+                        {
+                            "term": "welcoming",
+                            "definition": "behaving in a polite or friendly way to a guest or new arrival"
+                        },
+                        {
+                            "term": "shop",
+                            "definition": "a building or part of a building where goods or services are sold"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 33,
+                        "questions": [
+                            "Mention four (4) good customer service skills practiced at a restaurant."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.8.2",
+                    "title": "Cleaning",
+                    "page": 34,
+                    "competences": [
+                        "Clean rooms using different items"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 34,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Teacher displays some cleaning items (broom, mop, detergent, polish, water, scrubbing brush, bucket)",
+                                "Learners identify some of the cleaning items"
+                            ],
+                            "learner_steps": [
+                                "Observe cleaning items displayed",
+                                "Identify cleaning items: broom, mop, detergent, polish, water, scrubbing brush, bucket"
+                            ],
+                            "short_notes": "Identification of cleaning items"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 35,
+                            "hook": null,
+                            "teacher_steps": [
+                                "The teacher demonstrates how to clean rooms using various cleaning items.",
+                                "With the guidance of the teacher, learners imitate how to clean rooms using different cleaning items."
+                            ],
+                            "learner_steps": [
+                                "Observe teacher demonstration",
+                                "Imitate how to clean rooms using different cleaning items",
+                                "Receive guidance from teacher"
+                            ],
+                            "short_notes": "Demonstrate how to clean rooms"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 35,
+                            "hook": null,
+                            "teacher_steps": [
+                                "In pairs, learners clean the rooms using various cleaning items."
+                            ],
+                            "learner_steps": [
+                                "Work in pairs",
+                                "Clean rooms using various cleaning items"
+                            ],
+                            "short_notes": "Learners clean the rooms"
+                        }
+                    ],
+                    "short_notes": "This topic focuses on equipping learners with knowledge and skills on how to clean rooms using different items such as brooms, pieces of cloth etc. Learners will acquire skills on how to sweep floors, dust furniture and other surfaces, mop or wash floors, polish surfaces, articles and accessories, scrub tiles, sinks, toilets, disinfect drains, rearrange cleaned areas and put things in their specific place.",
+                    "vocabulary": [
+                        {
+                            "term": "Cleaning",
+                            "definition": "the action of removing unwanted substances such as dirt, infectious agents and other impurities from an object or environment"
+                        },
+                        {
+                            "term": "Cleaning agents",
+                            "definition": "chemicals that help to keep an area clean by removing the soiling agents"
+                        },
+                        {
+                            "term": "Mop",
+                            "definition": "the process of cleaning or soaking up liquid from a particular surface"
+                        },
+                        {
+                            "term": "Wipe",
+                            "definition": "the process of cleaning or drying of something by rubbing with a cloth, a piece of paper, or one's hand"
+                        },
+                        {
+                            "term": "Rinse",
+                            "definition": "the act of washing something with clean water to remove soap, detergent, dirt, or impurities"
+                        },
+                        {
+                            "term": "Scrub",
+                            "definition": "the act of rubbing someone or something hard so as to clean them, typically with a brush and water"
+                        },
+                        {
+                            "term": "Floor polish",
+                            "definition": "wax or polish used to protect, polish and enhance floor surfaces"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 35,
+                        "questions": [
+                            "Mention any four (4) cleaning items."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.9",
+            "topic_title": "ICT DEVICES",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.9.1",
+                    "title": "Types of ICT devices",
+                    "page": 36,
+                    "competences": [
+                        "Identify types of ICT devices",
+                        "Demonstrate switching on/off of ICT devices"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 36,
+                            "hook": null,
+                            "teacher_steps": [
+                                "The teacher displays some ICT devices (e.g. smartphone, laptop, desktop, Television, Radio, Printer)",
+                                "Learners identify various ICT devices displayed."
+                            ],
+                            "learner_steps": [
+                                "Observe ICT devices displayed",
+                                "Identify ICT devices: smartphone, laptop, desktop, Television, Radio, Printer"
+                            ],
+                            "short_notes": "Display some types of ICT devices"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 36,
+                            "hook": null,
+                            "teacher_steps": [
+                                "The teacher demonstrates the switching on and off of the given ICT devices (laptop, desktop, smartphone, Radio, Television)",
+                                "Learners observe and imitate how to switch on and off of the given ICT devices (laptop, desktop, smartphone, Radio, Television)"
+                            ],
+                            "learner_steps": [
+                                "Observe teacher demonstration",
+                                "Imitate switching on and off ICT devices",
+                                "Practice with laptop, desktop, smartphone, Radio, Television"
+                            ],
+                            "short_notes": "Demonstrate switching on/off of ICT devices"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 37,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Individually, learners perform the activity of switching on and off the given ICT devices."
+                            ],
+                            "learner_steps": [
+                                "Individually switch on and off ICT devices",
+                                "Practice with given devices"
+                            ],
+                            "short_notes": "Learners switch ICT devices on and off"
+                        }
+                    ],
+                    "short_notes": "The purpose of this topic is to equip learners with knowledge and skills on Information and Communication Technology (ICT) devices such as a Desktop, laptop, smartphone, Television, Radio, printer and how to switch on and off ICT devices. The significance of this topic to learners with visual impairment is for them to gain knowledge, skills, general interest and develop basic ICT literacy and ICT capabilities. It will also build a foundation for them to live in an integrated society dominated by ICT developments. Learning about ICT devices is essential as they act as a conduit for effective communication, collaboration and provide a sense of critical thinking.",
+                    "vocabulary": [
+                        {
+                            "term": "Information and Communication Technology",
+                            "definition": "the use of technology to communicate, create, disseminate, store, and manage information"
+                        },
+                        {
+                            "term": "ICT devices",
+                            "definition": "electronic equipment used for processing, storing, retrieving, and sharing information"
+                        },
+                        {
+                            "term": "Computer",
+                            "definition": "an electronic device that is used to process information"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 37,
+                        "questions": [
+                            "Mention any four (4) ICT devices.",
+                            "Ask learners to switch on and off a given ICT device."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.10",
+            "topic_title": "COMPUTER SOFTWARE",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.10.1",
+                    "title": "Computer Educational Games",
+                    "page": 38,
+                    "competences": [
+                        "Exhibit knowledge and ability to play different computer educational games"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 39,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Teacher begins by introducing some shortcut of the keyboard used in playing some computer educational games using screen readers such as JAWS.",
+                                "Learners repeat the demonstrations by the teacher."
+                            ],
+                            "learner_steps": [
+                                "Learn keyboard shortcuts for educational games",
+                                "Repeat teacher demonstrations",
+                                "Practice using screen readers like JAWS"
+                            ],
+                            "short_notes": "Demonstration on using shortcut keys of the computer for playing educational computer games"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 39,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Teacher introduces and demonstrates how to play some educational computer games.",
+                                "While being guided by the teacher, learners explore various computer educational games."
+                            ],
+                            "learner_steps": [
+                                "Observe teacher demonstration",
+                                "Explore various computer educational games",
+                                "Receive guidance from teacher"
+                            ],
+                            "short_notes": "Introduction of some educational computer games"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 39,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners play computer educational games using screen readers using JAWS."
+                            ],
+                            "learner_steps": [
+                                "Play computer educational games",
+                                "Use screen readers (JAWS)",
+                                "Practice with various educational games"
+                            ],
+                            "short_notes": "Playing computer educational games"
+                        }
+                    ],
+                    "short_notes": "In this sub-topic, learners will acquire knowledge and skills on how to play computer educational games. Computer Educational Games will help to increase the cognitive abilities of learners by strengthening particular areas of their brains, boost their motivation, strengthen their social skills and make them aware of their emotions. Learners will also gain expected practical skills on playing video games such as word puzzles, colouring books, identifying shapes, number sense games, spelling games, parts of speech sorting games, telling time, place value block and so on.",
+                    "vocabulary": [
+                        {
+                            "term": "Software",
+                            "definition": "different kinds of programs that enable a user to perform some specific tasks on the computer"
+                        },
+                        {
+                            "term": "Screen readers",
+                            "definition": "software programs that allow blind or visually impaired users to navigate icons of the computer, explore various programmes and read text that is displayed on the computer screen"
+                        },
+                        {
+                            "term": "Computer educational games",
+                            "definition": "games used in the classroom to enhance learning"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 39,
+                        "questions": [
+                            "Learners to play one of the educational computer games."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.11",
+            "topic_title": "ICT DEVICES IN EVERYDAY LIFE",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.11.1",
+                    "title": "Use of ICT devices",
+                    "page": 41,
+                    "competences": [
+                        "Demonstrate ability to use ICT devices"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 41,
+                            "hook": null,
+                            "teacher_steps": [
+                                "The teacher explains the use of various ICT devices.",
+                                "In groups, learners match ICT devices with their uses."
+                            ],
+                            "learner_steps": [
+                                "Learn about uses of various ICT devices",
+                                "Work in groups",
+                                "Match ICT devices with their uses: Smartphones, Smart TVs, Digital cameras, Security cameras, Laptop/Desktop, Smart watches, Home theatre speakers, Projector"
+                            ],
+                            "short_notes": "Matching ICT devices with their uses"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 42,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners to come up with real life examples where ICTs are used in our communities to provide services and share them with the learners."
+                            ],
+                            "learner_steps": [
+                                "Come up with real life examples of ICT use",
+                                "Identify ICT use in: Home, School, Hospital/clinic, Business",
+                                "Share examples with class"
+                            ],
+                            "short_notes": "Whole class discussion on the use of ICT devices in real-life situations"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 43,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Teacher displays some ICT devices while demonstrating how the same are used."
+                            ],
+                            "learner_steps": [
+                                "Observe ICT devices displayed",
+                                "Learn how to use various ICT devices",
+                                "Practice basic functions like sending/receiving phone calls, capturing photos"
+                            ],
+                            "short_notes": "Demonstration on how to use various ICT devices"
+                        }
+                    ],
+                    "short_notes": "In this sub-topic, learners acquire knowledge and skills on common ICT devices and their application in daily life. Hereafter, learners should demonstrate the ability to use ICT devices in various situations.",
+                    "vocabulary": [
+                        {
+                            "term": "Information and Communication Technology (ICT)",
+                            "definition": "a wide range of technologies used for processing, storing, retrieving, and sharing information e.g. laptop, smartphone, desktop, smart television, radio"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 44,
+                        "questions": [
+                            "Match the following ICT devices with their uses: Smartphone, Laptop, Tablet, Desktop, Smart Television"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.12",
+            "topic_title": "HEALTH AND FITNESS MANAGEMENT",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.12.1",
+                    "title": "Fitness and health",
+                    "page": 45,
+                    "competences": [
+                        "Perform fitness and health activities"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 46,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Teacher introduces the topic by carrying out actual physical exercises such as running, jumping, deep breathing, stretching together with learners",
+                                "Teacher finds out from the learners what exercises they had just performed in step 1 and tells them to repeat the same exercises."
+                            ],
+                            "learner_steps": [
+                                "Perform physical exercises with teacher",
+                                "Identify exercises performed: running, jumping, deep breathing, stretching",
+                                "Repeat the exercises"
+                            ],
+                            "short_notes": "Performing various fitness and health activities (climbing, running, jumping, deep breathing)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 46,
+                            "hook": null,
+                            "teacher_steps": [
+                                "The teacher leads learners to the school playground to perform various fitness activities using the following: horizontal bars, ropes, sliders, ladders, stair cases"
+                            ],
+                            "learner_steps": [
+                                "Go to school playground",
+                                "Perform fitness activities using equipment",
+                                "Use horizontal bars, ropes, sliders, ladders, stair cases"
+                            ],
+                            "short_notes": "Using of horizontal bars, ropes, sliders, ladders, stair cases"
+                        }
+                    ],
+                    "short_notes": "In this topic, learners will acquire knowledge and skills in performing the following fitness and health activities: climbing, running, jumping, deep breathing. Learners gain skills such as using of horizontal bars, ropes, sliders, ladders and stair cases.",
+                    "vocabulary": [
+                        {
+                            "term": "Health",
+                            "definition": "not merely the condition of being free from illness, injury or pain, it is your overall state of wellness on all levels of your being: physical, social, emotional, mental and spiritual"
+                        },
+                        {
+                            "term": "Fitness",
+                            "definition": "the ability to carry out effectively and efficiently some particular activity"
+                        },
+                        {
+                            "term": "Physical exercises",
+                            "definition": "movements and activities done to keep your body healthy or make it stronger"
+                        },
+                        {
+                            "term": "Warm-up",
+                            "definition": "the gradual increase in intensity in physical activity, joint mobility exercise, stretching, followed by the activity"
+                        },
+                        {
+                            "term": "Playground",
+                            "definition": "an outdoor area provided for children to play especially at school or park"
+                        },
+                        {
+                            "term": "Gymnasium",
+                            "definition": "a place people go to exercise and participate in sports"
+                        },
+                        {
+                            "term": "Sports attire",
+                            "definition": "athletic clothing such as footwear, track suits, t-shirts, worn for sports activity or physical exercise"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 47,
+                        "questions": [
+                            "Teacher instructs learners to return to the classroom as quickly as possible."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.12.2",
+                    "title": "Educational Gymnastics",
+                    "page": 48,
+                    "competences": [
+                        "Perform tumbling activities",
+                        "Perform stunt activities"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 48,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Introduce the topic by demonstrating simple tumbling activities (forward roll, cartwheel, frog jump).",
+                                "Learners observe and repeat the exercises that the teacher just performed."
+                            ],
+                            "learner_steps": [
+                                "Observe teacher demonstration",
+                                "Repeat tumbling activities: forward roll, cartwheel, frog jump"
+                            ],
+                            "short_notes": "Performing simple tumbling activities such as forward roll, cartwheel, frog jump"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 48,
+                            "hook": null,
+                            "teacher_steps": [
+                                "The teacher demonstrates to learners in performing simple stunt activities such as arm, trunk, leg rolling, squatting, balancing.",
+                                "Learners observe and repeat the exercises that the teacher just performed."
+                            ],
+                            "learner_steps": [
+                                "Observe teacher demonstration",
+                                "Repeat stunt activities: arm rolling, trunk rolling, leg rolling, squatting, balancing"
+                            ],
+                            "short_notes": "Performing simple stunts activities like arm, trunk, leg rolling, squatting, balancing"
+                        }
+                    ],
+                    "short_notes": "This topic provides learning experiences that are designed to meet children at their skill level and expand skills within their level of competence. Educational gymnastics centers on balance as a lifelong skill, on self-responsibility, and on respect for self and others. Here, children will perform simple tumbling activities such as forward roll, cartwheel and frog jump. Further, learners are expected to perform simple stunts activities including arm, trunk, leg rolling, squatting, balancing.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 49,
+                        "questions": [
+                            "Divide learners into two groups; Group 1: perform tumbling activities, Group 2: perform stunts activities."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.13",
+            "topic_title": "TRAVEL AND TOURISM",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.13.1",
+                    "title": "Cultures and Landmarks",
+                    "page": 50,
+                    "competences": [
+                        "Explore different cultures and landmarks in the immediate environment",
+                        "Locate landmarks using cardinal points"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 50,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Exhibit some traditional clothing, artefacts, traditional food",
+                                "Learners touch or view the traditional items displayed to them and make observations.",
+                                "Through class discussion, learners identify traditional ceremonies practised in their home areas and famous places (heritage sites)."
+                            ],
+                            "learner_steps": [
+                                "Touch or view traditional items displayed",
+                                "Make observations about traditional clothing, artefacts, traditional food",
+                                "Participate in class discussion",
+                                "Identify traditional ceremonies and famous places"
+                            ],
+                            "short_notes": "Exploring different cultures and landmarks (traditional clothing, unique customs, traditional food, famous places, traditional ceremonies, artefacts, songs and dances)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 51,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Discussion of the following landmarks (markets, hospital, police station, shop, bridge, highway).",
+                                "Learners locate different landmarks of famous places (e.g. markets, hospital, police station, shop, bridge)"
+                            ],
+                            "learner_steps": [
+                                "Participate in discussion about landmarks",
+                                "Locate different landmarks: markets, hospital, police station, shop, bridge, highway",
+                                "Use cardinal points for location"
+                            ],
+                            "short_notes": "Locating landmarks (markets, hospital, police station, shop, bridge, highway…) using cardinal points"
+                        }
+                    ],
+                    "short_notes": "This sub-topic focuses on equipping learners with knowledge and skills on culture and landmarks. Learners will be exposed to different cultures and landmarks including traditional clothing, unique customs and famous places. They will also locate landmarks such as markets, hospital, police station, curio, shop using cardinal points.",
+                    "vocabulary": [
+                        {
+                            "term": "Travel",
+                            "definition": "go from one place to another over a distance of some length"
+                        },
+                        {
+                            "term": "Tourism",
+                            "definition": "travelling for pleasure and the commercial activity of providing and supporting such travel"
+                        },
+                        {
+                            "term": "Culture",
+                            "definition": "the idea, customs and social behavior of a particular people or society"
+                        },
+                        {
+                            "term": "Landmarks",
+                            "definition": "a recognizable natural or artificial features used for navigation"
+                        },
+                        {
+                            "term": "Cardinal points",
+                            "definition": "each of the main four points of the compass i.e. north, south, east & west"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 51,
+                        "questions": [
+                            "Ask learners to mention some of the landmarks of famous places."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.14",
+            "topic_title": "ENERGY",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.14.1",
+                    "title": "Light",
+                    "page": 52,
+                    "competences": [
+                        "Identify items used to produce light"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 52,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain to the learners the concept of Energy and Light",
+                                "Teacher guides learners in analyzing situations where light is or is not present (e.g. night, day, room without a bulb, room with a bulb)."
+                            ],
+                            "learner_steps": [
+                                "Learn about concept of Energy and Light",
+                                "Analyze situations where light is present or absent",
+                                "Identify examples: night, day, room without bulb, room with bulb"
+                            ],
+                            "short_notes": "Explaining the concept of Energy and Light"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 53,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Display various items that produce light.",
+                                "Learners touch and identify the displayed items used to produce light."
+                            ],
+                            "learner_steps": [
+                                "Observe items that produce light",
+                                "Touch and identify items: torch, electric bulb, mobile phones, candle, solar panel, lamp"
+                            ],
+                            "short_notes": "Identifying different items that produce light"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 53,
+                            "hook": null,
+                            "teacher_steps": [
+                                "In pairs, learners discuss how each item used to produce light works."
+                            ],
+                            "learner_steps": [
+                                "Work in pairs",
+                                "Discuss how items produce light",
+                                "Learn about: Torch (dry cells/solar), Bulb (electricity/solar/battery), Mobile phone (battery), Candle (wax/wick), Solar panel (solar energy), Lamp (paraffin/wick)"
+                            ],
+                            "short_notes": "Discuss how each item used to produce light works"
+                        }
+                    ],
+                    "short_notes": "This sub-topic focuses light as one form of energy. Learners will discuss the various sources of light. It is expected to arouse learner's initial interest in the concept of light. The young learners with visual impairment are likely to be inquisitive about items used to produce light.",
+                    "vocabulary": [
+                        {
+                            "term": "Energy",
+                            "definition": "a property of matter that can be converted into work, heat or radiation"
+                        },
+                        {
+                            "term": "Light",
+                            "definition": "a common form of renewable energy that comes from various sources such as sun, stars, fire, electricity"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 53,
+                        "questions": [
+                            "Ask learners to mention some items used to produce light."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.15",
+            "topic_title": "SPORTS SKILLS DEVELOPMENT",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.15.1",
+                    "title": "Games",
+                    "page": 55,
+                    "competences": [
+                        "Perform games"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 56,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Introduce the topic by explaining the meaning of the term games.",
+                                "Ask learners to mention some of the games they know.",
+                                "The teacher gives other games not mentioned by the learners."
+                            ],
+                            "learner_steps": [
+                                "Learn the meaning of games",
+                                "Mention games they know",
+                                "Learn about additional games from teacher"
+                            ],
+                            "short_notes": "Explain the meaning of conventional and traditional games"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 56,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Demonstrate how to perform various modified conventional games (chess, scrabble, football, goalball, netball, checkers, basketball, volleyball, braille draft, tug of war)",
+                                "While being guided by the teacher, learners observe and imitate how to play some conventional games (e.g. chess, scrabble, football, goalball, netball, checkers, basketball, volleyball, braille draft, tug of war).",
+                                "In small groups, learners perform various conventional games."
+                            ],
+                            "learner_steps": [
+                                "Observe teacher demonstration",
+                                "Imitate how to play conventional games",
+                                "Practice games: chess, scrabble, football, goalball, netball, checkers, basketball, volleyball, braille draft, tug of war",
+                                "Perform games in small groups"
+                            ],
+                            "short_notes": "Demonstrate how to perform various modified conventional games"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 56,
+                            "hook": null,
+                            "teacher_steps": [
+                                "The teacher demonstrates how to perform various modified traditional games (e.g. isolo, impeta, icibale, iciyenga)",
+                                "With the guidance of the teacher, learners observe and imitate how to play some traditional games (e.g. isolo, impeta, icibale, iciyenga, icindunu).",
+                                "In small groups, learners perform various modified traditional games (e.g. isolo, impeta, icibale, iciyenga, icindunu)."
+                            ],
+                            "learner_steps": [
+                                "Observe teacher demonstration",
+                                "Imitate how to play traditional games",
+                                "Practice games: isolo, impeta, icibale, iciyenga, icindunu",
+                                "Perform games in small groups"
+                            ],
+                            "short_notes": "Demonstrate how to perform different modified traditional games"
+                        }
+                    ],
+                    "short_notes": "This sub-topic focuses on imparting knowledge and skills in learners in performing various games. Games are important to learners with visual impairment as they enhance their physical, mental, social, emotional, and spiritual health and fitness. Learners will utilize games for both competitive and recreational purposes.",
+                    "vocabulary": [
+                        {
+                            "term": "Sports Skills Development",
+                            "definition": "include hand-eye coordination, balance, strength, speed, endurance, agility, reaction time, decision making and tactical development"
+                        },
+                        {
+                            "term": "Sports",
+                            "definition": "an organized, competitive and skillful physical activity which asks for devotion and fair play"
+                        },
+                        {
+                            "term": "Game",
+                            "definition": "a system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 57,
+                        "questions": [
+                            "Ask learners to perform some modified conventional and traditional games."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.15.2",
+                    "title": "Field and Track Events",
+                    "page": 58,
+                    "competences": [
+                        "Perform Field and Track Events"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 58,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lead learners to the school playground.",
+                                "Then, introduce the lesson by explaining the topic for the day (field & track events)"
+                            ],
+                            "learner_steps": [
+                                "Go to school playground",
+                                "Learn about field and track events",
+                                "Identify Field Events: Discus, Javelin, High Jump, Long Jump, Shot put",
+                                "Identify Track Events: Long distance races, Short distance sprints, Relay races, Hurdle races, Sack race"
+                            ],
+                            "short_notes": "Explaining and identifying field and track events"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 58,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Demonstrate to the learners how to perform track events listed in table 1 above.",
+                                "Ask learners to perform some track events demonstrated by the teacher."
+                            ],
+                            "learner_steps": [
+                                "Observe teacher demonstration of track events",
+                                "Perform track events: long distance races, short distance sprints, relay races, hurdle races, sack race"
+                            ],
+                            "short_notes": "Demonstrating perform track events listed above"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 59,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Demonstrate to the learners how to perform field events listed in table 1 above.",
+                                "Ask learners to perform some field events demonstrated by the teacher."
+                            ],
+                            "learner_steps": [
+                                "Observe teacher demonstration of field events",
+                                "Perform field events: Discus, Javelin, High Jump, Long Jump, Shot put"
+                            ],
+                            "short_notes": "Demonstrating perform field events listed above"
+                        }
+                    ],
+                    "short_notes": "This topic aims at imparting knowledge and skills in learners in performing various athletics activities. Athletics is a sport in which athletes compete in running, walking, jumping and throwing events. Track events consist of running and walking races of various distances while Field on the other side includes jumping and throwing events. Track and field events are important to learners with visual impairment as they improve cognitive, physical and emotional wellbeing. They are also useful in maintaining good body shape and posture, reducing stress and enhancing performance, as well as orientation and mobility.",
+                    "vocabulary": [
+                        {
+                            "term": "Field events",
+                            "definition": "includes throwing and jumping competitions"
+                        },
+                        {
+                            "term": "Track events",
+                            "definition": "refers to activities which test an athlete's running, endurance, agility, and speed capabilities"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 59,
+                        "questions": [
+                            "Ask learners to perform any three (3) track events.",
+                            "Ask learners perform any three (3) field events."
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

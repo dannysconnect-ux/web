@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "3",
+    "subject": "Mathematics"
+  },
+  "topics": [
+    {
+      "unit": "Algebra",
+      "topic_title": "SETS",
+      "page_number": 23,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Describe a set by listing its members.",
+        "Recognise and use the symbols \"=\" equal to, \"≠\" not equal to."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "NUMBERS AND NOTATION",
+      "page_number": 23,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Read and write numbers up to 1 000 000.",
+        "Express a number in expanded notation."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "ADDITION",
+      "page_number": 23,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Add whole numbers with sums up to 100 000.",
+        "Carry out addition of numbers in real life situations."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "SUBTRACTION",
+      "page_number": 24,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Subtract whole numbers up to 100 000.",
+        "Carry out subtraction and addition in real life situation."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "MULTIPLICATION",
+      "page_number": 24,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Multiply two and three digit numbers by a single digit number vertically.",
+        "Apply multiplication in real life situation."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "DIVISION",
+      "page_number": 25,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Divide two and three digit numbers by single digit number using Long division (with remainders).",
+        "Demonstrate multiplication and division skills in real life situations."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "NUMBER PATTERNS",
+      "page_number": 25,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Order numbers using mathematical symbols \">\", \"<\", \"=\" and \"≠\"."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "FRACTIONS",
+      "page_number": 25,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Identify and represent proper fractions as equal parts of a whole.",
+        "Draw and shade proper fractions.",
+        "Add and subtract proper fractions with common denominator.",
+        "Apply proper fractions in real life situations."
+      ]
+    },
+    {
+      "unit": "Measures",
+      "topic_title": "MEASURES",
+      "page_number": 26,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Tell time at specified intervals.",
+        "Read and use the calendar.",
+        "Describe the unit for measuring long distances (Km).",
+        "Describe mass and the standard units for its measure.",
+        "Describe capacity and the standard units for its measure."
+      ]
+    },
+    {
+      "unit": "Statistics",
+      "topic_title": "STATISTICS",
+      "page_number": 26,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Collect and present ungrouped data on a frequency table."
+      ]
+    },
+    {
+      "unit": "Relations",
+      "topic_title": "RELATIONS & MAPPINGS",
+      "page_number": 26,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Draw Arrow diagrams to illustrate one-to-one mappings."
+      ]
+    },
+    {
+      "unit": "Geometry",
+      "topic_title": "PLANE SHAPES",
+      "page_number": 26,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Identify right angled triangle by folding rectangular and squared paper.",
+        "Draw right angled triangle on squared paper."
+      ]
+    }
+  ]
+}

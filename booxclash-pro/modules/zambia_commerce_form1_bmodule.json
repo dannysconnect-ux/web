@@ -1,0 +1,693 @@
+{
+  "subject": "Commerce",
+  "grade": "Form 1",
+  "term": 1,
+  "topics": [
+    {
+      "topic_id": "1.0",
+      "topic_title": "Commerce",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.1",
+          "title": "Introduction to Commerce",
+          "page": 2,
+          "competences": [
+            "Show understanding of the importance of Commerce"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 3,
+              "hook": "Let the learners do the role play on what happens at the market or a market scenario",
+              "teacher_steps": [
+                "Let the learners do the role play on what happens at the market or a market scenario in the artificial environment (classroom) or any applicable environment",
+                "Ask learners to describe or say what they observed in the role play",
+                "Ask prompt questions which will lead to what the lesson is all about",
+                "Write the learners' responses on the board",
+                "Relate the learners' responses to content by offering constructive feedback and acknowledge learners' achievement",
+                "Let the learners Describe Commerce: (Trade and Aids to Trade)"
+              ],
+              "learner_steps": [
+                "Participate in role play of market scenario",
+                "Describe observations from the role play",
+                "Respond to teacher's questions",
+                "Describe Commerce as trade and aids to trade"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 5,
+              "hook": "Ask learners to imagine the world without commerce",
+              "teacher_steps": [
+                "Ask learners to imagine the world without commerce",
+                "Facilitate the discussion on the world without commerce",
+                "Discuss the learners' responses",
+                "Put learners into three groups, one group to discuss the importance of commerce to an individual, another to a nation and the third to the world",
+                "Allow the learners to present what they discussed in their respective groups",
+                "Extract the importance of commerce from what was presented and relate it to the content tips, while addressing misconceptions"
+              ],
+              "learner_steps": [
+                "Imagine a world without commerce",
+                "Discuss in groups the importance of commerce to individuals, nations, and the world",
+                "Present group findings",
+                "Participate in class discussion"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 6,
+              "hook": "Ask learners to research on career prospects in Commerce",
+              "teacher_steps": [
+                "Ask learners to research on career prospects in Commerce",
+                "Let learners present their findings",
+                "Discuss the identified career prospects in commerce and relate them to those in the content tips",
+                "Clear misconceptions"
+              ],
+              "learner_steps": [
+                "Research on career prospects in Commerce",
+                "Present research findings",
+                "Discuss career prospects identified"
+              ]
+            }
+          ],
+          "short_notes": "Commerce is trade and aids to trade. It gives knowledge about the world of business and economic activity that is a cornerstone of national development. Commerce plays a vital role in the economy, as it enables businesses and individuals to acquire the goods and services they need to survive and thrive. In addition, it creates employment, generates revenue and creates wealth. Commerce is therefore trade and aids to trade and is concerned with the distribution of goods and services to satisfy human needs and wants. Whenever goods are produced, they are supposed to be moved from the place of production to the place of consumption where consumers are. This is called the chain of distribution of goods and services and is facilitated by services such as Transport, Warehousing, Advertising, Banking, Insurance and Communication. Trade is the buying and selling of goods and services with the aim of making profit. Trade can be done within the country (home trade) and between or among countries (foreign trade). Home trade is trade done within a country and is divided into retail and wholesale trade. Retail trade is selling of goods in small quantities. The person who sells goods in smaller quantities is called a retailer. Wholesale is selling of goods in bulk (large quantities). The person who sells goods in large quantities is called a wholesaler. Foreign trade is trade between two or more countries and is divided into imports and exports. Exports are goods going out of the country while imports are the goods coming into the country. Aids to trade are systems which facilitate trade to take place referred to as commercial services. They include: Banking provides finances for customers through loans and overdrafts and keeps money for customers by accepting deposits. Insurance mitigates risks in trade by providing compensation to those that suffer financial losses. Advertising allows businesses to find market for their goods and persuades potential customers to buy. Warehousing provides storage of finished goods awaiting demand. Transport facilitates the movement of goods and workers from one place to another. Communication enables contact between suppliers and customers through telephone, email, internet, and letters.",
+          "vocabulary": [
+            {
+              "term": "Commerce",
+              "definition": "trade and aids to trade"
+            },
+            {
+              "term": "Trade",
+              "definition": "buying and selling of goods and services"
+            },
+            {
+              "term": "Aids to trade",
+              "definition": "activities that help trade to take place"
+            },
+            {
+              "term": "Good",
+              "definition": "tangible product that is bought or sold"
+            },
+            {
+              "term": "Service",
+              "definition": "intangible product that is bought or sold"
+            },
+            {
+              "term": "Home trade",
+              "definition": "trade done within a country and is divided into retail and wholesale trade"
+            },
+            {
+              "term": "Foreign trade",
+              "definition": "the buying and selling of goods and services between two or more countries and is divided into imports and exports"
+            }
+          ],
+          "assessment": {
+            "page": 7,
+            "questions": [
+              {
+                "type": "class_exercise",
+                "items": [
+                  "Describe the main categories of Commerce",
+                  "Describe how a farmer benefits from commercial services"
+                ]
+              },
+              {
+                "type": "homework",
+                "items": [
+                  "Discuss how Zambia benefits from Commerce",
+                  "Discuss how the world benefits from commerce",
+                  "In relation to aids to trade give examples of how companies support trade in Zambia"
+                ]
+              },
+              {
+                "type": "assignment",
+                "items": [
+                  "Choose one career prospect in Commerce and explain how Commerce as a subject would help you attain that",
+                  "With an aid of a diagram, explain the meaning of commerce"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "2.0",
+      "topic_title": "Production",
+      "sub_topics": [
+        {
+          "subtopic_id": "2.1",
+          "title": "Stages of Production",
+          "page": 8,
+          "competences": [
+            "Demonstrate knowledge of stages of production"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 9,
+              "hook": "Allow learners to discuss in pairs how shoes are made (processes)",
+              "teacher_steps": [
+                "Allow learners to discuss in pairs how shoes are made (processes)",
+                "Let them present the processes that take place before making shoes or clothes (production)",
+                "Relate the learners' responses to the three stages of production and offer constructive feedback while acknowledging learners' achievement"
+              ],
+              "learner_steps": [
+                "Discuss in pairs how shoes are made",
+                "Present the production processes",
+                "Relate responses to stages of production"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 10,
+              "hook": "Let every learner be a producer",
+              "teacher_steps": [
+                "Let every learner be a producer",
+                "Ask the learners to individually write on a piece of paper a good or product they would produce",
+                "Learners to share their responses",
+                "Facilitate the discussion by asking the learners why they chose the good or product to be produced",
+                "Help them to understand human needs and wants and that production is based on consumer demand of goods and services"
+              ],
+              "learner_steps": [
+                "Write down a good or product to produce",
+                "Share responses with class",
+                "Explain choice of product",
+                "Understand needs and wants"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 11,
+              "hook": "Use case study or charts showing subsistence vs commercial farming",
+              "teacher_steps": [
+                "Let one learner read out the case study given or show charts",
+                "Ask learners to bring out the key points from the case study",
+                "Facilitate the discussion by asking questions which leads to the concept of direct and indirect production"
+              ],
+              "learner_steps": [
+                "Read and analyze case study",
+                "Extract key points",
+                "Discuss direct vs indirect production"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "4",
+              "page": 13,
+              "hook": "Pose a question: how maize is grown and turned into mealie meal to reach the final consumer?",
+              "teacher_steps": [
+                "Pose a question: how maize is grown and turned into mealie meal to reach the final consumer?",
+                "Allow learners to bring out their responses",
+                "Relate these responses to either primary production, secondary production and tertiary production"
+              ],
+              "learner_steps": [
+                "Explain maize production process",
+                "Identify different stages of production",
+                "Relate to primary, secondary, and tertiary production"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "5",
+              "page": 14,
+              "hook": "Ask the leaners to investigate a situation where low production of goods or where raw materials are not available at primary production in the production process",
+              "teacher_steps": [
+                "Ask the leaners to investigate a situation where low production of goods or where raw materials are not available at primary production in the production process",
+                "Allow learners to present their findings from their research",
+                "Facilitate the discussion leading to the linkages in the stages of production",
+                "Consolidate and summarise the discussion by giving correct explanations on how low production of goods at primary stage can affect both secondary and tertiary stages"
+              ],
+              "learner_steps": [
+                "Research impact of low primary production",
+                "Present research findings",
+                "Discuss linkages between production stages"
+              ]
+            }
+          ],
+          "short_notes": "Production is the provision of goods and services to satisfy human needs and wants. Production covers all activities which contribute to the satisfaction of consumers' demand for goods and services or needs and wants. Industry includes primary (obtains raw materials from nature) and secondary (processes raw material into finished products) and Tertiary (provides service). Needs are items that satisfy basic requirements of man only in order to survive and maintain personal wellbeing such as water, food, shelter, clothes and air. Wants are goods and services that people desire to have but are not necessary for their survival or wellbeing. Methods of Production: Direct Production refers to the process of creating goods or services without involving anyone. The producer is responsible for all aspects of the production process from raw material to finished products. It is production of goods for one's own use/consumption, usually done on small scale/subsistence level without the need for exchange/trade. Indirect Production is the process of producing goods for the benefit of others or for sale. It involves trading of what has been produced so as to obtain what one cannot produce or does not have. Production can be placed into three stages: Primary, Secondary and Tertiary production. Primary Production is the first stage concerned with the extraction of natural resources from nature including mining, fisheries, forestry, and agriculture. Secondary Production converts raw materials into semi-finished or finished products consisting of manufacturing and construction industries. Tertiary Production is the third and final stage involving the provision of services that helps in the transfer of finished goods from the factory to the consumer including commercial services (aids to trade) and direct services like doctors, teachers, lawyers.",
+          "vocabulary": [
+            {
+              "term": "Production",
+              "definition": "creation of goods and services that meets the needs and wants of consumers"
+            },
+            {
+              "term": "Goods",
+              "definition": "tangible or things we can see, feel and touch (original, standard, sub-standard and counterfeit)"
+            },
+            {
+              "term": "Services",
+              "definition": "intangible or things we cannot see, feel or touch"
+            },
+            {
+              "term": "Consumer",
+              "definition": "a person who buys goods for own use or the end user"
+            },
+            {
+              "term": "Primary production",
+              "definition": "stage at which raw materials are provided"
+            },
+            {
+              "term": "Secondary production",
+              "definition": "(industry) stage at which raw materials are converted into semi or finished product"
+            },
+            {
+              "term": "Tertiary production",
+              "definition": "the distribution stage of goods and provision of services"
+            }
+          ],
+          "assessment": {
+            "page": 15,
+            "questions": [
+              {
+                "type": "class_exercise",
+                "items": [
+                  "Explain production in relation to the activities practiced in your community"
+                ]
+              },
+              {
+                "type": "homework",
+                "items": [
+                  "Learners to find out about the things in life that they can do without (luxuries) and those they cannot do without (necessities) in order to survive"
+                ]
+              },
+              {
+                "type": "assignment",
+                "items": [
+                  "Research the linkages on the three stages of production on maize from the time it is grown, up to the time it is converted into mealie meal and reaches the final consumer"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "subtopic_id": "2.2",
+          "title": "Specialisation",
+          "page": 16,
+          "competences": [
+            "Exhibit understanding of the importance of Specialisation to trade"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 17,
+              "hook": "Invite a resource person who has specialized or has a skill in a particular field to speak about his/her experience",
+              "teacher_steps": [
+                "Invite a resource person who has specialized or has a skill in a particular field to speak about his/her experience",
+                "Request learners to take notes of important points",
+                "Ask some learners to present their observations or key points from the guest speaker's presentation",
+                "Use responses from the learners to relate to the content tips"
+              ],
+              "learner_steps": [
+                "Listen to guest speaker",
+                "Take notes of important points",
+                "Present key observations",
+                "Relate to specialisation concepts"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 18,
+              "hook": "Split the class into groups to investigate how Division of labour, Government Policies, and Technology influence specialisation",
+              "teacher_steps": [
+                "Split the class into groups to investigate how they influence specialisation",
+                "One group to investigate Division of labour, another Government Policies, and the third one Technology",
+                "Learners to present their findings",
+                "Consolidate their findings with the content in the content tips"
+              ],
+              "learner_steps": [
+                "Work in groups to investigate drivers of specialisation",
+                "Present group findings",
+                "Discuss how each driver influences specialisation"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 19,
+              "hook": "Split the learners according to the 10 provinces of Zambia",
+              "teacher_steps": [
+                "Split the learners according to the 10 provinces of Zambia or any other applicable way",
+                "Let the learners discuss about the most common economic activity/activities done in the ten provinces and why",
+                "Let learners present what came out in their discussion such as types of goods mainly produced in each province",
+                "Facilitate the discussion and clear any misconceptions. Probe further so that learners can bring out various specialisation at individual, national and regional level"
+              ],
+              "learner_steps": [
+                "Discuss economic activities in assigned province",
+                "Identify main products and reasons for specialisation",
+                "Present findings to class",
+                "Understand specialisation at different levels"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "4",
+              "page": 20,
+              "hook": "Let learners research on real life scenarios on the benefits and challenges of Specialisation",
+              "teacher_steps": [
+                "Let learners research on real life scenarios on the benefits and challenges of Specialisation",
+                "Allow learners to present their research findings before the class",
+                "Consolidate on the learners' findings and address the misconceptions"
+              ],
+              "learner_steps": [
+                "Research benefits and challenges of specialisation",
+                "Present research findings",
+                "Discuss real-world examples"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "5",
+              "page": 21,
+              "hook": "Ask learners to list 5 products which are produced in Zambia and products which are imported",
+              "teacher_steps": [
+                "Ask learners to list 5 products which are produced in Zambia and products which are imported",
+                "Allow learners to present what they have written",
+                "Facilitate the discussion why some products are imported instead of producing them within",
+                "Emphasise on the linkages of specialisation to trade by bringing out how nations benefits from specialisation through trade"
+              ],
+              "learner_steps": [
+                "List Zambian products and imports",
+                "Explain why certain products are imported",
+                "Understand link between specialisation and trade"
+              ]
+            }
+          ],
+          "short_notes": "Specialisation is the process of focussing or concentrating on producing only one product by a company or an individual. It is the concentration on a specific area of expertise or activity/task or occupation or on a narrow range of work within a particular occupation by an individual/region for which their ability or resources best suits them. It does not only apply to individuals but also to countries/regions producing goods or services for which they are best suited for or for which they have an advantage on. This allows division of labour to take place and leads to greater skill and efficiency amongst workers and increased output. Specialisation takes place at different levels: Individual specialisation where an individual concentrate on producing a single product or service based on their skills and expertise. National specialisation where countries concentrate on products which are dominant in that particular nation. Regional specialisation where a region specialises in producing a specific good because of various conditions in that region. Drivers of Specialisation include: Comparative advantage means that an entity can produce a good or service more efficiently than another. Division of Labour enables workers to focus on specific tasks leading to efficiency and productivity. Technology allows more efficient production methods. Government policies can influence and encourage businesses to specialize in specific industries. Benefits of Specialisation include: increases efficiency and productivity, promotes expertise, makes countries concentrate on products which are dominant, benefits from trade and export opportunities. Challenges include: can be boring doing same work, leads to overdependence on one sector, difficult for workers to switch careers. Specialisation is the basis for trade as countries trade their specialized goods and services with other countries for goods and services they need.",
+          "vocabulary": [
+            {
+              "term": "Division of Labour",
+              "definition": "separation of work into specialized tasks to increase efficiency"
+            },
+            {
+              "term": "Expertise",
+              "definition": "Specialized knowledge or skills acquired through experience or training"
+            },
+            {
+              "term": "Specialist",
+              "definition": "An individual with specialized skills or knowledge"
+            },
+            {
+              "term": "Generalist",
+              "definition": "An individual with broad non specialized knowledge or skills"
+            }
+          ],
+          "assessment": {
+            "page": 22,
+            "questions": [
+              {
+                "type": "class_exercise",
+                "items": [
+                  "Discuss Specialisation",
+                  "Explore the drivers of specialisation (Division of labour, Government Policies, Technology…)"
+                ]
+              },
+              {
+                "type": "homework",
+                "items": [
+                  "Discuss various forms of specialisation (nation, region, individual, process…)",
+                  "Explain the linkage between specialisation and trade"
+                ]
+              },
+              {
+                "type": "assignment",
+                "items": [
+                  "In what ways does Zambia benefit from specialisation. Give examples where necessary"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "subtopic_id": "2.3",
+          "title": "Factors of Production",
+          "page": 22,
+          "competences": [
+            "Demonstrate knowledge on the use of factors of production",
+            "Apply technological factors of production in production processes"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 23,
+              "hook": "Present case study: You live in an area where there are enough natural resources/raw materials, customers, unemployed people, enough unused space, and funding sources",
+              "teacher_steps": [
+                "Ask the learners to read through the case study",
+                "Using the case study, ask the learners to list the resources they have to start up a business in their community",
+                "Learners to make presentations about their findings and the benefits",
+                "Consolidate and summarise the findings emphasizing on the factors of production and their rewards"
+              ],
+              "learner_steps": [
+                "Read and analyze case study",
+                "List resources needed to start business",
+                "Present findings on factors of production",
+                "Understand rewards for each factor"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 25,
+              "hook": "Pose a question: How would the factors of production be used in the manufacturing of furniture?",
+              "teacher_steps": [
+                "Pose a question: How would the factors of production be used in the manufacturing of furniture?",
+                "Split learners in groups",
+                "Ask the learners to demonstrate how each factor of production is used in the manufacturing of furniture (role play)",
+                "Consolidate and summarise the findings emphasizing on the factors of production and their rewards"
+              ],
+              "learner_steps": [
+                "Demonstrate use of factors in furniture production",
+                "Role play production process",
+                "Identify each factor's contribution"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 26,
+              "hook": "Ask learners to bring out the old ways of producing goods",
+              "teacher_steps": [
+                "Ask learners to bring out the old ways of producing goods",
+                "Put learners into groups",
+                "Start by having each group identify writing technological factors of production",
+                "Let each group present what they have written",
+                "Relate what learners have presented to the ones identified in the module"
+              ],
+              "learner_steps": [
+                "Discuss old vs new production methods",
+                "Identify technological factors",
+                "Present group findings on technology in production"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "4",
+              "page": 27,
+              "hook": "Let learners research on the benefits of technological factors of production",
+              "teacher_steps": [
+                "Let learners research on benefits of technological factors",
+                "Let them think and share their findings",
+                "Relate what learners have presented to the ones outlined in the module"
+              ],
+              "learner_steps": [
+                "Research benefits of technology in production",
+                "Present findings",
+                "Discuss technological advantages"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "5",
+              "page": 28,
+              "hook": "Arrange a virtual or physical tour to a modern manufacturing factory",
+              "teacher_steps": [
+                "Arrange a virtual (video) or physical tour to a modern manufacturing factory or any production unit activity",
+                "Let learners take note of their observations",
+                "Learners to make presentations",
+                "Relate the presentations to the module content and consolidate key points"
+              ],
+              "learner_steps": [
+                "Observe technology use in factory/production unit",
+                "Take notes on observations",
+                "Present findings on technology application"
+              ]
+            }
+          ],
+          "short_notes": "Factors of production are inputs used to produce goods and services. They play a crucial role in the production of goods and services and economic development. Generally, there are four factors of production: Land, Capital, Labour and Enterprise. Technology is an additional fifth factor. Capital includes financial resources, buildings, machinery and all man-made assets required to operate a business. Capital is created by humans and can be in business for a long time. The providers of capital are investors and the reward for capital is interest. Labour is human effort or energy used in the production of goods and services. It can be skilled or unskilled labour and is limited in supply. The providers of labour are workers and the reward is wages or salary. Land includes all kinds of natural resources found on earth and underground such as buildings, minerals, rocks, fish, trees and other natural resources. The providers of land are land owners and the reward is rent/rates. Enterprise is the ability to organise the other factors of production to start and run a business. For production to take place, someone must have the idea and skill to organise, direct and control the production process. This decision involves risks and special skill. The provider of enterprise is an entrepreneur and the reward is profit. Technology is a facilitator of the factors of production. It has a big impact on business in terms of updating existing products and finding new ways of manufacturing. Technology benefits business as it allows them to produce higher quantities, makes products more consistent and more cost effective. Technological factors of production include: Renewable Energy Technologies such as solar panels and wind turbines; Information Technology (IT) using computer hardware, software, networks; Artificial Intelligence (AI) for problem-solving and decision-making; Advanced Manufacturing Technologies like 3D printing, IoT, CNC machining; Automation using control systems and robots; Machinery as physical devices and equipment. Benefits of technological factors include: Increased Efficiency reducing time and effort; Cost Reduction through reduced labour costs and minimized waste; Improved Quality of products; Improved Innovation allowing new product development; Global Reach through internet and e-commerce; Sustainability through renewable energy and eco-friendly methods.",
+          "vocabulary": [
+            {
+              "term": "Factors of production",
+              "definition": "are inputs used to produce goods and services"
+            },
+            {
+              "term": "Reward",
+              "definition": "benefit of owning factors of production (rent, interest, profit, wage or salary)"
+            },
+            {
+              "term": "Land",
+              "definition": "all natural resources including land itself"
+            },
+            {
+              "term": "Capital",
+              "definition": "man made resources that initiate productive activities (money, machinery, raw materials)"
+            },
+            {
+              "term": "Enterprise",
+              "definition": "ability to organise resources to start and run a business"
+            },
+            {
+              "term": "Labour",
+              "definition": "human effort both skilled and unskilled used to produce goods/services"
+            },
+            {
+              "term": "Technology",
+              "definition": "application of scientific knowledge to improve production"
+            }
+          ],
+          "assessment": {
+            "page": 30,
+            "questions": [
+              {
+                "type": "class_exercise",
+                "items": [
+                  "Describe how the rewards for the factors of production are achieved",
+                  "Explain the technological factors of the production process"
+                ]
+              },
+              {
+                "type": "homework",
+                "items": [
+                  "Describe the benefits of technological factors on production",
+                  "Describe the negative effects of technological factors on production"
+                ]
+              },
+              {
+                "type": "assignment",
+                "items": [
+                  "Which factors of production would you combine to produce a good of your choice?",
+                  "Describe how a manufacturing firm can use technological factors on production",
+                  "Ask learners to do a small project using simple locally available material to make a modern production process such as drip irrigation"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "subtopic_id": "2.4",
+          "title": "Production and the Environment",
+          "page": 31,
+          "competences": [
+            "Practice environmental management strategies in production processes"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 32,
+              "hook": "Allow learners to explore the effects of production on the environment",
+              "teacher_steps": [
+                "Allow learners to explore the effects of production on the environment",
+                "Make appropriate groups of learners",
+                "Start by having each group write the effects of production on the environment on a piece of paper",
+                "Let each group present what they have written",
+                "Relate what learners have presented to the ones identified in the module"
+              ],
+              "learner_steps": [
+                "Explore environmental effects of production",
+                "Write effects in groups",
+                "Present findings to class"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 33,
+              "hook": "Allow learners to investigate possible solutions to the environmental effects caused by mass production",
+              "teacher_steps": [
+                "Allow learners to investigate possible solutions to the environmental effects caused by mass production on their own",
+                "Put learners in groups",
+                "Start by having each group write on a piece of paper the solutions to the environmental effects of production",
+                "Let each group present what they have written",
+                "Facilitate the discussion by relating what learners have presented to the ones identified in the module"
+              ],
+              "learner_steps": [
+                "Investigate solutions to environmental effects",
+                "Write solutions in groups",
+                "Present and discuss solutions"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 34,
+              "hook": "Let learners practice the possible solutions on the effects of production on the environment",
+              "teacher_steps": [
+                "Let learners practice the possible solutions on the effects of production on the environment (picking litter, community clean up, planting trees, recycling)",
+                "Facilitate the discussion by emphasising on the use of dustbins for dumping litter, the three Rs and other solutions to avoid the effects of climate change"
+              ],
+              "learner_steps": [
+                "Practice environmental solutions (litter collection, tree planting, recycling)",
+                "Implement 3Rs (Reduce, Reuse, Recycle)",
+                "Participate in community cleanup activities"
+              ]
+            }
+          ],
+          "short_notes": "Production can have negative effects on the environment. Technological factors of production can worsen the impact if not well handled. Effects of production on environment include: Littering is the act of throwing waste such as trash, garbage or debris in public places without permission, harming the environment by polluting air, harming wildlife, contaminating soil. Air Pollution from factories releasing sulphur dioxide and nitrogen oxides contributing to respiratory problems, acid rain, and climate change. Climate Change from burning fuels releasing carbon dioxide and greenhouse gases, driving global warming. Water Pollution from industrial processes discharging heavy metals and chemicals into water sources, harming aquatic life and contaminating drinking water. Soil/Land Degradation from harmful chemicals and improper waste disposal reducing soil fertility. Deforestation to meet demands for raw materials and factory space, leading to loss of species and ecosystem disruption. Resource Depletion from over-extraction of minerals, fossil fuels, and water endangering future supplies. Waste Generation from industrial production contributing to pollution. Possible solutions include: Waste Management and Recycling through 3Rs (Reduce, reuse, recycle); Reforestation/Tree planting to reduce climate change effects; Renewable Energy Sources like solar, wind mills, hydroelectric power reducing gas emissions; Adopting Cleaner Technologies that produce fewer pollutants; Sustainable Resource Management maintaining resources without depletion; Regulation and Legislation enforcing environmental regulations; Corporate Social Responsibility encouraging environmentally conscious decisions; Public Awareness and Education about environmental impacts; Eco-friendly Transportation using electric vehicles and public transport. Practical solutions students can implement: Using paper bags instead of plastics; Planting trees; Encouraging use of solar and renewable energy; Improving waste management with waste bins; Initiating recycling programs; Creating recycling collection centres; Starting cleanup programs; Creating green spaces and gardens.",
+          "vocabulary": [
+            {
+              "term": "Environment",
+              "definition": "is the external surroundings in which we live, work, and interact"
+            },
+            {
+              "term": "Technological factors",
+              "definition": "refer to the various technologies, tools and systems that are used to design, develop and deliver products, services and processes"
+            },
+            {
+              "term": "Environmental management strategies",
+              "definition": "are plans and actions taken to reduce the negative impact of human activities on the environment"
+            },
+            {
+              "term": "Sustainability",
+              "definition": "ability to maintain or support a process, systems or activity over time without depleting natural resources or causing harm to the environment"
+            }
+          ],
+          "assessment": {
+            "page": 35,
+            "questions": [
+              {
+                "type": "class_exercise",
+                "items": [
+                  "Demonstrate the need for factors of production",
+                  "Explain the effects of production on the environment"
+                ]
+              },
+              {
+                "type": "homework",
+                "items": [
+                  "Investigate how the factors of production depend on each other",
+                  "Investigate possible solutions to the environmental effects on production",
+                  "Describe possible solutions on the effects of production on the environment"
+                ]
+              },
+              {
+                "type": "assignment",
+                "items": [
+                  "Describe how a manufacturing firm can implement environmental management strategies that can be practiced in the production processes"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

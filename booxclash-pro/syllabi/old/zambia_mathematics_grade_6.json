@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "6",
+    "subject": "Mathematics"
+  },
+  "topics": [
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "INDEX NOTATION",
+      "page_number": 39,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Describe index notation.",
+        "Change a number in index form to expanded notation and vice versa.",
+        "Evaluate numbers in index notation with positive bases and indices."
+      ]
+    },
+    {
+      "unit": "Algebra",
+      "topic_title": "SETS",
+      "page_number": 39,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Describe the intersection, union in a Venn diagram.",
+        "Use symbols of intersection \"∩\", union \"U\" (and subset \"⊂\" as recap).",
+        "Find number of subsets of a given set using the formula 2ⁿ.",
+        "Apply the knowledge of sets in real life situations."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "PRIME FACTORS",
+      "page_number": 39,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Describe and list prime and composite numbers.",
+        "Identify prime factors of given numbers."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "FRACTIONS",
+      "page_number": 40,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Multiply fractions by whole numbers.",
+        "Multiply a fraction by another fraction.",
+        "Divide fractions by whole numbers.",
+        "Divide whole numbers by fractions.",
+        "Divide a fraction by another fraction.",
+        "Apply fractions to solve problems in real life."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "DECIMALS",
+      "page_number": 40,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Describe decimal numbers by their names (up to 3 decimal places).",
+        "Add and subtract decimal numbers up to 3 decimal places.",
+        "Multiply decimal numbers by decimal numbers.",
+        "Divide decimal numbers by decimal numbers (up to 3 decimal places (INCLUDING REMAINDER))."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "APPROXIMATION",
+      "page_number": 41,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Round off to the nearest unit.",
+        "Round off to the nearest decimal places.",
+        "Solve simple problems involving rounding off quantities to required number of decimal places."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "RATIO AND PROPORTION",
+      "page_number": 41,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Describe ratio and direct proportion.",
+        "Differentiate between ratio and direct proportion.",
+        "Express a given ratio in its lowest term.",
+        "Solve problems involving ratio and direct proportion."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "SOCIAL AND COMMERCIAL ARITHMETIC",
+      "page_number": 42,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Describe cost price, selling price, profit and loss.",
+        "Calculate cost price, selling price, profit and loss.",
+        "Calculate simple interest, discount, and profit and loss percentage.",
+        "Carry out calculations involving transportation."
+      ]
+    },
+    {
+      "unit": "Statistics",
+      "topic_title": "STATISTICS",
+      "page_number": 42,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Describe averages or measures of central tendency.",
+        "Solve problems involving averages."
+      ]
+    },
+    {
+      "unit": "Algebra",
+      "topic_title": "LINEAR EQUATIONS IN ONE VARIABLE",
+      "page_number": 42,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Describe an open sentences.",
+        "Solve linear equations in one variable."
+      ]
+    },
+    {
+      "unit": "Geometry",
+      "topic_title": "PLANE SHAPES",
+      "page_number": 43,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Identify regular polygons up to six sides.",
+        "Draw pentagon and hexagon."
+      ]
+    },
+    {
+      "unit": "Measures",
+      "topic_title": "MEASUREMENT",
+      "page_number": 43,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Find the total length of edges of cube and cuboid.",
+        "Find the total surface area of cube and cuboid.",
+        "Describe the meaning of speed.",
+        "Calculate speed using distance and time."
+      ]
+    }
+  ]
+}

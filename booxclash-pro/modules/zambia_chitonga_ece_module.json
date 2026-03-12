@@ -1,0 +1,1089 @@
+{
+    "subject": "Chitonga ECE (Early Childhood Education - Literacy in Zambian Language)",
+    "grade": "ECE Level 1 (3-4 Years)",
+    "term": 3,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "Zyintu Zyijanika Muŋanda (Things Found at Home)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "A. Kuswiilila Akwaambaula - Kupandulula (Listening and Speaking - Describing Things at Home)",
+                    "page": 12,
+                    "competences": [
+                        "Pandulula zyintu zyijanika munkiccini (Describe things found in the kitchen).",
+                        "Pandulula zyintu zyibezedwe zyijanika muŋanda (Describe household furniture found at home)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.1",
+                            "page": 13,
+                            "hook": "Ncinzi ncoobweza? Ciitwa buti? Cipandulule. (What do you see? What is it called? Describe it.)",
+                            "teacher_steps": [
+                                "Tondezya mapikicca azyintu zyamunkiccini akwaambila basicikolo kubandauka mazyina azyizyo (Show pictures of kitchen items and ask learners to name them).",
+                                "Kobuzya basicikolo mibuzyo ijatikizya zyintu zyoobatondezya (Ask learners questions about the things shown): Ncinzi ncoobweza? Ciitwa buti? Cipandulule.",
+                                "Ambila basicikolo kuti bafwinye akulyeelekezya kuba munkiccini (Ask learners to role-play being in a kitchen).",
+                                "Tondezya akupa mazyina azyintu zyili mumapikicca atondezyegwa (Show and name things in the pictures displayed).",
+                                "Lailila basicikolo kujalula meso akubabuzya mubuzyo wakwaamba cipikicca calamatikwa ahheete (Ask learners to close their eyes and describe a picture placed on the board).",
+                                "Kozumanana kusobana kasobano aaka kubelesya mapikicca ambi azyintu zyamuŋanda zyalamatikwa ahheete (Continue the activity using other pictures of household items on the board)."
+                            ],
+                            "learner_steps": [
+                                "Baimbe kaimbo amwiiyi mbuli mbobakkala amunseme (Sing a song with the teacher as they sit in a circle).",
+                                "Bafwinye akulyeelekezya kuba munkiccini (Role-play being in a kitchen).",
+                                "Bapandulule zyintu nzyobayeeyela munkiccini (Describe things they think are in the kitchen).",
+                                "Bavwiile mibuzyo kuzwa kumwiiyi: Eeyi nimpoto. Ilijisi mukobezyo acivwunisyo. Eeyi ninketulo naa mpoto yatii. Ilijisi mwakutilila meenda. Eeyi nimpani. Ilijisi mukobezyo. (Answer teacher questions: This is a pot. This is a kettle. This is a pan.)",
+                                "Batondezye akupa mazyina azyintu zyili mumapikicca atondezyegwa amwiiyi (Name things shown in the pictures).",
+                                "Bateelele mbuli mwiiyi mbwapandulula kasobano ka 'Ncinzi cili ahheete?' (Listen and follow the teacher's description of 'What is on the board?').",
+                                "Basobane kasobano mbuli mbwaabatondezya mwiiyi (Play the game as demonstrated by the teacher).",
+                                "Bapandulule zyintu zyibezedwe zyijanika muŋanda (Describe household furniture found at home)."
+                            ],
+                            "short_notes": "Eeci ciiyo cijatikizya basicikolo kucikonzya kwaamba zyintu zyijanika muŋanda. Bayakupandulula zyintu zyijanika munkiccini, acibuye akuzyuli. (This activity focuses on learners' ability to describe things found at home, including things in the kitchen, bedroom and living room.)"
+                        }
+                    ],
+                    "short_notes": "Eeci ciiyo cijatikizya kupandulula zyintu zya muŋanda. Cilanganya tuvwuumina atubeela twamabala ntobeelede kuzyiba basicikolo. (This topic covers describing things found in the home. It focuses on syllables and letter units that learners need to know. It also covers tracing shapes and patterns and colouring different things. These help learners to develop writing and reading skills.)",
+                    "vocabulary": [
+                        {
+                            "term": "Impoto",
+                            "definition": "A pot; a cooking vessel with a handle and lid (Ilijisi mukobezyo acivwunisyo)."
+                        },
+                        {
+                            "term": "Inketulo / Mpoto yatii",
+                            "definition": "A kettle; a vessel with a spout for boiling water (Ilijisi mwakutilila meenda)."
+                        },
+                        {
+                            "term": "Impani",
+                            "definition": "A pan; a flat cooking vessel with a handle (Ilijisi mukobezyo)."
+                        },
+                        {
+                            "term": "Tubeela twamabala",
+                            "definition": "Syllables; units of sound that make up words."
+                        },
+                        {
+                            "term": "Tuvwuumina",
+                            "definition": "Consonants; letters that are not vowels."
+                        },
+                        {
+                            "term": "Mapatani",
+                            "definition": "Lines/strokes; written marks used in forming letters."
+                        },
+                        {
+                            "term": "Masyeepu",
+                            "definition": "Shapes; geometric forms such as circle, square, triangle, rectangle."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 14,
+                        "questions": [
+                            "Basicikolo bapandulule zyintu zyamunkiccini (Learners describe things found in the kitchen).",
+                            "Basicikolo bapandulule zyintu zyibezedwe zyijanika muŋanda (Learners describe household furniture found at home)."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "B. Kubala - Tubeela Twamabala (Reading - Syllables)",
+                    "page": 15,
+                    "competences": [
+                        "Basicikolo baambe tubeela twamabala mumabala ambwa (Learners say syllables in spoken words).",
+                        "Basicikolo baswaanganye tubeela twamabala kubamba mabala maubauba ambwa (Learners blend syllables to form simple spoken words).",
+                        "Basicikolo baandaanye tubeela twamabala kuzwa kumabala ambwa (Learners segment syllables from spoken words).",
+                        "Basicikolo baambe tuvwuumina twakumatalikilo mumabala ambwa (Learners say initial consonants in spoken words).",
+                        "Basicikolo baambe tuvwuumina twatubala twapegwa (Learners say given letter sounds)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.1",
+                            "page": 15,
+                            "hook": "Mabala alikubambwa buti? (How are words formed?)",
+                            "teacher_steps": [
+                                "Baambile basicikolo kujatikizya tubeela twa mabala kuti ninzi. Ulakonzya kubelesya makkaadi amapikicca kutegwa ujane mabala akubelesya (Explain to learners what syllables are, using picture cards).",
+                                "Sololela sicikolo umwi kuti aambe bbala mpoona mwiiyi aambe tubeela twa tubala tujanika mubbala eelyo (Lead one learner to say a word while the teacher says the syllables in that word).",
+                                "Tondezya mbokukambwa kweendelana atubeela twamabala tuli mubbala (Demonstrate clapping along with the syllables in a word, e.g., du-kamba, la-kamba).",
+                                "Endeenda akugwasyilizya basicikolo bajisi buyumuyumu kutondezya tubeela twamabala tuli mubbala (Move around and assist learners who have difficulty identifying syllables in a word)."
+                            ],
+                            "learner_steps": [
+                                "Baambe tubeela twamabala mwiiyi ntwaamba. Kufwumbwa kabeela kabbala kaambwa, batondezye kwiinda mukukamba (Say syllables that the teacher says, and clap for each syllable in the word).",
+                                "Bakambe kweendelana tubeela twamabala tuli mubbala lyaambwa (Clap along with the syllables in the spoken word).",
+                                "Basicikolo bobile-bobile antela mutubunga baambe tubeela twa mabala tuli mubbala lyaambwa (In pairs or groups, say syllables in the given word).",
+                                "Baambe tubeela twamabala mumabala maubauba ambi aambwa (Say syllables in other simple words spoken)."
+                            ],
+                            "short_notes": "Tubeela twamabala tulijisi tuvwuumina. Kubamba tubeela twatubala tubelesya tubala mucikuwa twiitwa kuti vowelo alimwi amakkonsonanti. Tubeela twa mabala tujisi mulimo mupati wambuli mbobwaa bbala, mbolikwelelezyegwa ambuli kavwuumina mbokeelede kumvwika. (Syllables contain consonants. Forming syllable units uses letters known as vowels and consonants. Syllables play an important role in terms of how a word is formed, how it is pronounced and how a consonant sound should be heard.)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.2",
+                            "page": 17,
+                            "hook": "Mabala ababambwa buti kwiinda mukuswaanganya tubeela? (How are words built by blending syllables?)",
+                            "teacher_steps": [
+                                "Tondezya basicikolo bwakuswaanganya tubeela twamabala kubamba mabala ambwa (Demonstrate how to blend syllables to form spoken words).",
+                                "Sololela basicikolo kuswaanganya tubeela twa mabala kubamba mabala maubauba ambwa (Lead learners to blend syllables to form simple spoken words).",
+                                "Mukozyanyo: Mwiiyi aambe tubeela twatubala mbuli du a la kubamba bbala dula; da a da kubamba bbala dada; da a di kubamba bbala dadi (Example: Teacher says syllables like du + la to form dula; da + da to form dada; da + di to form dadi).",
+                                "Tondezya basicikolo bwakubamba mabala kubelesya pazo yamapikicca (Demonstrate how to form words using picture cards).",
+                                "Babikke bobile bobile basicikolo kubamba mabala kubelesya mapazo (Put learners in pairs to form words using cards).",
+                                "Endeenda kugwasilizya basicikolo bajana buyumuyumu kuswaanganya tubeela twamabala kubamba mabala (Move around to assist learners who have difficulty blending syllables).",
+                                "Bobilo bobilo, babelesye mapazo amapikicca antela makkaadi kubamba mabala akwaambaula kwiinda mukuswaanganya tubeela twamabala (In pairs, use picture cards and letter cards to form words by blending syllables)."
+                            ],
+                            "learner_steps": [
+                                "Baambe tubeela twamabala mbuli: /ba, ma, li, na, ka, bi, bu, lu…/ (Say syllables such as /ba, ma, li, na, ka, bi, bu, lu…/).",
+                                "Babambe mabala kwiinda mukuswaanganya tubeela (Form words by blending syllables).",
+                                "Basobane kasobano kakubamba mabala: Sicikolo A: /pu/ a /na/ Sicikolo B: Ngu 'puna' (Play the word-building game: Learner A says /pu/ and /na/, Learner B responds 'puna').",
+                                "Batondezye mubobilo-bobilo mbobacita mukasobano (In pairs, demonstrate what they do in the game)."
+                            ],
+                            "short_notes": "Eeci ciiyo calikujatikizya kuswaanganya tubeela twamabala kubamba mabala maubauba ambwa. (This activity focuses on blending syllables to form simple spoken words. The assessment items include: da + da, da + di, du + la.)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.3",
+                            "page": 18,
+                            "hook": "Mabala andaanyigwa buti mutubeela? (How are words segmented into syllables?)",
+                            "teacher_steps": [
+                                "Yeeyezya basicikolo kujatikizya tubeela twamabala kuti ninzi. Ulakonzya kubelesya mapikicca kutegwa ujane mabala akubelesya (Remind learners what syllables are, using pictures to find words to use).",
+                                "Tondezya basicikolo makkaadi aajisi mapikicca asandulula mabala wamana ubasololele kwaamba mabala (Show learners picture cards representing words and lead them to say the words).",
+                                "Tondezya basicikolo mapikicca asandulula tubeela twamabala kubamba mabala ambwa (Show learners pictures representing syllables that make up spoken words).",
+                                "Sololela basicikolo kwaamba bbala lyasandululwa antela lilaa kkaadi mpoona balo baambe tubeela twamabala tujanika mubbala eelyo (Lead learners to say the segmented word while they hold the card, then say the syllables in that word).",
+                                "Mukozyanyo: cula = cu/la, cela = ce/la (Example: cula = cu/la, cela = ce/la).",
+                                "Amba mabala aindene-indene wamana waambile basicikolo kuti baambe tubeela twamabala tuli mubbala-abbala (Say different words and ask learners to say the syllables in each word)."
+                            ],
+                            "learner_steps": [
+                                "Basicikolo babeleke bobile bobile antela mutubunga baandaanye tubeela twamabala tuli mumabala (In pairs or groups, segment the syllables in the given words).",
+                                "Segment practice words: damu→ da + mu, dada, dadi, dula, cala, cula, cela."
+                            ],
+                            "short_notes": "Eeci ciiyo calikujatikizya kwaandaanya mabala maubauba ambwa mutubeela twamabala. (This activity focuses on segmenting simple spoken words into syllables. Example segmentation: dada→ da + da, dadi→ da + di, dula→ du + la, cala→ ca + la, cula→ cu + la, cela→ ce + la.)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.4",
+                            "page": 20,
+                            "hook": "Tuvwuumina twakumatalikilo amabala tuli nzi? (What consonants begin these words?)",
+                            "teacher_steps": [
+                                "Ambila basicikolo kujatikizya tuvwuumina kuti ninzi. Ulakonzya kubelesya makkaadi amapikicca kutegwa ujane mabala akubelesya (Tell learners about consonants, using picture cards to find words to use).",
+                                "Tondezya basicikolo mapikicca mbuli damu, dada, desiki (Show learners pictures such as duck, father, desk).",
+                                "Buzya basicikolo baambe kavwuumina nkobamvwa kumatalikilo (Ask learners to say the consonant they hear at the beginning).",
+                                "Ambila basicikolo kuti kulasobanwa cisobano ciitwa kuti 'Cinwe Cipati mujulu, Cinwe Cipati ansi' (Explain the activity called 'Thumbs Up, Thumbs Down').",
+                                "Ambila basicikolo kuti batondezye 'Cinwe Cipati mujulu' kuti bamvwa bbala litalisya akavwuumina kayiigwa buzuba oobo (Ask learners to show 'Thumbs Up' if the word begins with the consonant being learnt that day).",
+                                "Tondezya basicikolo mapikicca mbuli: Kada - Tondezya Cinwe Cipati mujulu kuta kavwuumina /d/ kapezyi (Show pictures and indicate Thumbs Up when the initial consonant /d/ is present).",
+                                "Amba mabala manji aavwelengenye ayaayo aatatalisyi kavwuumina nkobaiya buzuba oobo (Say more words mixed with those that do not begin with the consonant being learnt).",
+                                "Ambila basicikolo kusobana kasobano kayiigwa atala kubelesya mabala apegwa (Ask learners to apply the activity above using given words)."
+                            ],
+                            "learner_steps": [
+                                "Batondezye 'Cinwe Cipati mujulu' kuti bamvwa bbala litalisya akavwuumina kayiigwa buzuba oobo na 'Cinwe Cipati ansi' kutondezya kukazya (Show 'Thumbs Up' when they hear a word beginning with the consonant of the day, and 'Thumbs Down' when it does not)."
+                            ],
+                            "short_notes": "Eeci ciiyo calikujatikizya kwaamba tuvwuumina twakumatalikilo amabala. (This activity focuses on identifying and saying initial consonants in words. Learners demonstrate understanding by using 'Thumbs Up, Thumbs Down' strategy.)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.5",
+                            "page": 22,
+                            "hook": "Tuvwuumina twatubala twaambwa buti? (How are letter sounds pronounced?)",
+                            "teacher_steps": [
+                                "Pandulwida akusololela basicikolo mbokwaambwa tuvwuumina twatubala (Explain and lead learners in how letter sounds are pronounced).",
+                                "Muciindi eeci, bona masimpe kuti basicikolo babala tuvwuumina tuboneka (At this time, make sure learners only look at the letter sounds visible to them).",
+                                "Tondezya basicikolo tukkaadi antela mapikicca asandulula tuvwuumina twatubala tuyiisyigwa buzuba oobo mbuli /d/ kuzwa mucipikicca ca dada antela /c/ kuzwa mucipikicca ca cala naa cula (Show learners cards and pictures representing the letter sounds being taught that day, such as /d/ from a picture of 'dada' and /c/ from 'cala' or 'cula').",
+                                "Tondezya zyintu zyini kuti kacikonzyeka (Show real objects if possible).",
+                                "Lemba kabala kaiminina kavwuumina kayiigwa buzuba oobo mubupati amubusyoonto (Write the letter representing the consonant being learnt in both uppercase and lowercase).",
+                                "Mukozyanyo: d. Amba mbokaambwa kavwuumina /d/ antela /c/ (Example: d. Say how consonant /d/ and /c/ are pronounced).",
+                                "Langa kuli basicikolo kutegwa babone kabotu-kabotu mbuli mbokaambwa kavwuumina (Watch the learners to ensure they clearly observe how the consonant is pronounced).",
+                                "Ambila basicikolo kuti abalo baambe kavwuumina (Ask learners to also say the consonant sound)."
+                            ],
+                            "learner_steps": [
+                                "Bateelelesye mwiiyi napandulula cakucita (Listen to the teacher as they explain the activity).",
+                                "Baambe tuvwuumina twatubala mwiiyi ntwaamba (Say the letter sounds that the teacher says).",
+                                "Bakambe kavwuumina mbuli mbokaambwa (Pronounce the consonant as it is said)."
+                            ],
+                            "short_notes": "Eeci ciiyo calikujatikizya kwaamba tuvwuumina twatubala. Letter sounds /d/ and /c/ are the focus consonants for this sub-topic."
+                        }
+                    ],
+                    "short_notes": "Tubeela twamabala tulijisi tuvwuumina. Kubamba tubeela twatubala tubelesya tubala mucikuwa twiitwa kuti vowelo alimwi amakkonsonanti. Tubeela twa mabala tujisi mulimo mupati wambuli mbobwaa bbala, mbolikwelelezyegwa ambuli kavwuumina mbokeelede kumvwika. (Syllables consist of consonants and vowels. They play a key role in how words are formed, how they are pronounced and how consonant sounds should be heard.)",
+                    "vocabulary": [
+                        {
+                            "term": "Tubeela twamabala",
+                            "definition": "Syllables; units of sound that make up a word."
+                        },
+                        {
+                            "term": "Tuvwuumina",
+                            "definition": "Consonants; letters that are not vowels."
+                        },
+                        {
+                            "term": "Vowelo",
+                            "definition": "Vowels; the letters a, e, i, o, u."
+                        },
+                        {
+                            "term": "Kuswaanganya tubeela",
+                            "definition": "Blending syllables; combining syllable units to form words."
+                        },
+                        {
+                            "term": "Kwaandaanya tubeela",
+                            "definition": "Segmenting syllables; breaking a word into its syllable units."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 18,
+                        "questions": [
+                            "Basicikolo babambe mabala akwaambaula kubelesya tubeela twamabala: 1. da + da → 2. da + di → 3. du + la → (Learners form and say words using syllables: 1. da + da → 2. da + di → 3. du + la →)",
+                            "Basicikolo baandaanye tubeela twamabala tuli mumabala (Learners segment syllables from words): damu→ da + mu, dada→, dadi→, dula→, cala→, cula→, cela→",
+                            "Basicikolo baambe kavwuumina kakumatalikilo amabala ngataambe mwiiyi (Learners say the initial consonant of words the teacher speaks)."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "C. Kusandulula Mapikicca (Picture Interpretation)",
+                    "page": 24,
+                    "competences": [
+                        "Basicikolo basandulule mapikicca (Learners interpret pictures).",
+                        "Basicikolo bavwiila mibuzyo ijatikizya twaano (Learners answer questions about a story)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.1",
+                            "page": 24,
+                            "hook": "Ncinzi ncimwabona mucipikicca? (What do you see in the picture?)",
+                            "teacher_steps": [
+                                "Tondezya mapikicca basicikolo wamana ubabuzye mibuzyo: Ncinzi ncimwabona mucipikicca? (Show pictures to learners then ask them questions: What do you see in the picture?).",
+                                "Kopa ciindi cakusandulula ncibabona mucipikicca mbuli kubona (musankwa, dada, cizyiba, cisamu, azyimbi nzyobakonzya kubona zyataambwa) (Allow time to interpret what they see in the picture, such as a boy, a duck, a lake, a tree).",
+                                "Kulwaizya akwa... (Facilitate and guide interpretation using pictures).",
+                                "Ambila basicikolo kuti baambe kaano kaubauba kubelesya zyintu nzyobabona mucipikicca (Ask learners to tell a simple story using what they see in the picture).",
+                                "Ambila basicikolo kaano kapandululwa mucipikicca munzila itibakkomanisye (Ask learners to tell the story in the picture in a way that is interesting to them)."
+                            ],
+                            "learner_steps": [
+                                "Basandulule mapikicca ngobapegwa kumwiiyi (Interpret the pictures given by the teacher).",
+                                "Bavwiile mibuzyo ijatikizya mapikicca (Answer questions about the pictures).",
+                                "Baambe cababotela acababi mukaano (Say what they like and dislike in the story).",
+                                "Kusandulula mapikicca kubamba kaano (Interpret pictures to build a story)."
+                            ],
+                            "short_notes": "Ciiyo eeci cijatikizya kusandulula mapikicca, kumvwisisisya zyaambwa, akubamba twaano kuzwa mumapikicca. Mibuzyo isandululwa amapikicca yali: 'Ino musankwa ooyu ucita nzi?' 'Nguni ngobalilimwi musankwa oyu?' 'Ncinzi ncokacita kana kadada aka?' 'Uyeeya kuti ncinzi citi itobele kucitika?' (This activity involves interpreting pictures, comprehending what is spoken, and creating stories from pictures. Sample questions: 'What is this boy doing?' 'Who is alone, this boy?' 'What does this duck do?' 'What do you think will happen next?')"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.2",
+                            "page": 26,
+                            "hook": "Ncinzi ncobamvwa mukaano kaubauba? (What do learners understand from a simple story?)",
+                            "teacher_steps": [
+                                "Tondezya basicikolo mapikicca mbuli aajisi dada wamana ubabuzye mibuzyo: Ino ciitwa buti ciyuni eeci? Ino cikkala kuli ciyuni eeci? Ino cilila buti ciyuni caambwa? (Show learners pictures such as one with a duck then ask questions: What is this bird called? Where does this bird live? How does this bird sound?)",
+                                "Kulwaizya basicikolo kwiiya micito mbuli kubbaibbika antela kulila bulila dada kuti, 'kkwakki, kkwakki' (Encourage learners to imitate actions like waddling and making the sound of a duck: 'kkwakki, kkwakki').",
+                                "Buzya mibuzyo myuubauba akubakulwaizya kwaamba bwiinguzi kubelesya bbala lyomwe antela obile (Ask simple questions and encourage learners to give answers using one or two words).",
+                                "Lumbaizya basicikolo mukutola lubazu muciiyo (Praise learners for participating in the activity)."
+                            ],
+                            "learner_steps": [
+                                "Bavwiile mibuzyo ijatikizya cipikicca antela kaano (Answer questions about the picture or story).",
+                                "Baambe cababotela acababijila mukaano antela mucipikicca (Say what they like and dislike in the story or picture).",
+                                "Baingule mibuzyo: Nguni ngwaakaguma Dani? Ino dada yakali kuli? Ncinzi ncaakalisanizya dada Dani? Nkavwuumina nzi dada nkoibamba? (Answer questions: Who did Dani find? Where was the duck? What did Dani share with the duck? What sound does the duck make?)"
+                            ],
+                            "short_notes": "Eeci ciiyo cijatikizya basicikolo kucikonzya kuingula mibuzyo kuzwa kutwaano tuubauba. Kuvwiila mibuzyo bweelede kuzwa kukaano antela mucipikicca capegwa. (This activity focuses on learners' ability to answer questions from a simple story. Correctly answering questions from a given story or picture.)"
+                        }
+                    ],
+                    "short_notes": "Kusandulula mapikicca ncintu ncotwabona kale kuti nciyandisi kuli basicikolo. Basicikolo baya kwiiya kupandulula mapikicca andeene-andeene akunze kuzwa mumapikicca, kucita kuti babe aluzyibo lwakuswiilila akwambaula kabotu. (Interpreting pictures is important for learners at this level. Learners will learn to interpret various pictures and create stories from pictures, to develop listening and speaking skills.)",
+                    "vocabulary": [
+                        {
+                            "term": "Kusandulula mapikicca",
+                            "definition": "Interpreting pictures; describing and making meaning from what is seen in pictures."
+                        },
+                        {
+                            "term": "Kaano kaubauba",
+                            "definition": "A simple/easy story."
+                        },
+                        {
+                            "term": "Mibuzyo",
+                            "definition": "Questions; queries asked to check understanding."
+                        },
+                        {
+                            "term": "Bwiinguzi",
+                            "definition": "Answer/response; a reply to a question."
+                        },
+                        {
+                            "term": "Dada",
+                            "definition": "A duck; a water bird that quacks (kilila kuti 'kkwakki, kkwakki')."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Muciindi cakwiiya akumamanino, basicikolo: Bavwiile mibuzyo ijatikizya kaano antela mapikicca asandululwa (At the end of the lesson, learners: Answer questions about the story or the interpreted pictures).",
+                            "Basicikolo bapandulule zyintu zyibezedwe zyijanika muŋanda (Learners describe household items found at home)."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4",
+                    "title": "D. Ntalisyo Yakulemba - Kulemba (Introduction to Writing)",
+                    "page": 28,
+                    "competences": [
+                        "Basicikolo balembulule mapatani maubauba (Learners trace simple lines/strokes).",
+                        "Basicikolo balembulule masyeepu maubauba (Learners trace simple shapes).",
+                        "Basicikolo balembulule tubala (Learners trace letters).",
+                        "Basicikolo bazile-zile mibala mumasyeepu (Learners colour shapes).",
+                        "Basicikolo badulowe zyintu zyiindene-indene (Learners draw various things)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.1",
+                            "page": 28,
+                            "hook": "Mapatani alembululwa buti? (How are strokes/lines traced?)",
+                            "teacher_steps": [
+                                "Koita basicikolo kumunseme kubelesya kaimbo. Basicikolo bakkale kutegwa kabakonzya kubona kabotu ncocita (Call learners to sit in a circle using a song, so they can see clearly what is being done).",
+                                "Pandulwida basicikolo ncobaticite (Explain to learners what they will be doing).",
+                                "Tondezya basicikolo cibbokesi ca museenga a patani njoyanda kuti basicikolo batobelezye (Show learners the sand tray and the stroke you want them to trace).",
+                                "Tondezya basicikolo mbobeelede kulembulula (Demonstrate how they should trace).",
+                                "Balembulule mapatani mumabbuku aabo (Trace the strokes in their exercise books)."
+                            ],
+                            "learner_steps": [
+                                "Batobelezye mwiiyi mbwaalembulula mapatani mucibbokesi ca museenga akumabbuku (Follow the teacher in tracing strokes in the sand tray and in their books).",
+                                "Balembulule mapatani mumabbuku aabo (Trace strokes in their exercise books).",
+                                "Balembulule mapatani maubauba kuzwa kubboodi, bweelede (Correctly trace simple strokes from the board)."
+                            ],
+                            "short_notes": "Eeci ciiyo cijatikizya basicikolo kulembulula mapatani maubauba, kulembulula masyeepu, kulembulula tubala, kuzila-zila mibala akudulowa. Aboobo cilabagwasya kuba aluzyibo lwakulemba kabotu. (This activity focuses on tracing simple strokes, tracing shapes, tracing letters, colouring, and drawing. These activities help develop proper writing skills.)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.2",
+                            "page": 29,
+                            "hook": "Masyeepu alembululwa buti? (How are shapes traced?)",
+                            "teacher_steps": [
+                                "Koimba kaimbo kajatikizya masyeepu antoomwe abasicikolo (Sing a song about shapes together with the learners).",
+                                "Ambila basicikolo kuti baambe masyeepu ngobazyi (Ask learners to say the shapes they know).",
+                                "Tondezya mapikicca amasyeepu aindene-indene akwaambila basicikolo kuti baambe mazyina (Show pictures of various shapes and ask learners to name them).",
+                                "Tondezya basicikolo bwakulembulula masyeepu kubelesya bbokesi ijisi museenga (Demonstrate how to trace shapes using the sand tray).",
+                                "Sololela basicikolo kulembulula masyeepu aumwi alikke (Guide learners to trace shapes individually).",
+                                "Gwasya basicikolo bajana buyumu-yumu (Help learners who are experiencing difficulties)."
+                            ],
+                            "learner_steps": [
+                                "Baimbe kaimbo amwiiyi (Sing a song together with the teacher).",
+                                "Baambe masyeepu ngobatondezyegwa kumwiiyi aali amapikicca (Name shapes shown by the teacher and in the pictures).",
+                                "Baunke anze akulangilizya mbuli mwiiyi mbwalembulula masyeepu aansi (Come out and demonstrate like the teacher how to trace shapes underneath).",
+                                "Balembulule masyeepu alaatukkaadi kwiinda mukulemba ansi (Trace shapes from cards by writing underneath).",
+                                "Balembulule masyeepu mumabbuku aabo (Trace shapes in their exercise books)."
+                            ],
+                            "short_notes": "Eeci ciiyo calikujatikizya kulembulula masyeepu maubauba. Masyeepu: tulaiyango (circle), sikkweya (square), lekitaango (rectangle), seekko (triangle). (This activity focuses on tracing simple shapes: circle, square, rectangle, triangle.)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.3",
+                            "page": 30,
+                            "hook": "Tubala twalembululwa buti? (How are letters traced?)",
+                            "teacher_steps": [
+                                "Tondezya basicikolo bwakulembulula tubala ansi, kubelesya cibbokesi cijisi museenga amumabbuku aabo ('d' a 'c') (Demonstrate to learners how to trace letters, using the sand tray and their books - letters 'd' and 'c').",
+                                "Bikka basicikolo mutubunga akubaambila kuti balembulule tubala 'd' a 'c' aansi, kubelesya cibbokesi cijisi museenga amumabbuku aabo (Put learners into groups and tell them to trace letters 'd' and 'c', using the sand tray and their books).",
+                                "Kobapa zyakubelesya zyaandeene-andeene mukulemba tubala (Provide various materials for writing letters).",
+                                "Kopa mabbuku aabo basicikolo balembulule tubala (Take their books for learners to trace letters)."
+                            ],
+                            "learner_steps": [
+                                "Babandauke mazyina atubala ntobatondezyegwa kumwiiyi (Name the letters shown by the teacher).",
+                                "Batobelezye mbuli mwiiyi mbwaalembulula tubala aansi, kubelesya cibbokesi cijisi museenga amumabbuku ('d' a 'c') (Follow the teacher and trace the letters using the sand tray and their books).",
+                                "Mutubunga balembulule tubala ('d' a 'c') aansi kubelesya cibbokesi cijisi museenga amumabbuku aabo mbuli mbobatondezyegwa kumwiiyi (In groups, trace letters 'd' and 'c' using the sand tray and their books as demonstrated).",
+                                "Bayinzyanye kulembulula tubala mutubunga twabo (Take turns tracing letters in their groups).",
+                                "Balembulule tubala mumabbuku aabo (Trace letters in their exercise books)."
+                            ],
+                            "short_notes": "Eeci ciiyo calikujatikizya kulembulula tubala twaalufabbeti 'd' a 'c'. Basicikolo beelede kutondezya kucikonzya kulembulula tubala mumvwiki. (This activity focuses on tracing alphabet letters 'd' and 'c'. Learners should demonstrate their ability to trace letters within the week.)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.4",
+                            "page": 32,
+                            "hook": "Mibala izilwa-zilwa buti mumasyeepu? (How are shapes coloured?)",
+                            "teacher_steps": [
+                                "Tondezya mbokuzilwa mibala mumasyeepu (Demonstrate how to colour shapes).",
+                                "Kopa mabbuku amakkilayoni bazile-zile mubala mumasyeepu ngotibape (Give them books and crayons to colour the shapes provided)."
+                            ],
+                            "learner_steps": [
+                                "Balangilile mbuli bayimbobatondezya bwakuzila-zila mubala kumasyeepu (Observe and follow the teacher's demonstration of how to colour shapes).",
+                                "Bazile-zile mubala mumasyeepu aapegwa mumabbuku aabo kubelesya makkilayoni (Colour the shapes provided in their books using crayons)."
+                            ],
+                            "short_notes": "Eeci ciiyo calikujatikizya kuzila-zila mibala mumasyeepu maubauba. Mibala iindene-indene ibelesyegwa. (This activity focuses on colouring simple shapes using various colours.)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.5",
+                            "page": 34,
+                            "hook": "Zyintu zyidulowedwe buti? (How are things drawn?)",
+                            "teacher_steps": [
+                                "Tondezya basicikolo bwakuzila-zila mibala kuzyintu zyidulowedwe kakwiina kwiindilila mumilaini kumwi koimba lwiimbo (Demonstrate how to colour drawn objects without going over the lines, whilst singing a song).",
+                                "Langisisya basicikolo mbobazila-zila zyidulowedwe akugwasilizya bajana buyumuyumu (Monitor learners as they colour the drawn objects and assist those who are having difficulty).",
+                                "Tondezya mapikicca azyintu zyiindene-indene (Show pictures of various things).",
+                                "Tondezya zyintu eezyi mbobanga bazyidulowa (Show these things in a way they could draw them).",
+                                "Ambila basicikolo kuti badulowe (Ask learners to draw)."
+                            ],
+                            "learner_steps": [
+                                "Balangilizye mbuli mwiiyi mbwazila zila mibala kuzyintu zyidulowedwe (Observe the teacher's demonstration of colouring drawn objects).",
+                                "Bazile-zile mibala kuzyintu zyidulowedwe kakwiina kwiindilila mu milaini kumwi kabaimba kaimbo (Colour drawn objects without going over the lines whilst singing a song).",
+                                "Balange zyobatondezyegwa kumwiiyi (Look at what the teacher is showing them).",
+                                "Badulowe zyintu eezyo zyobatondezyegwa mumabbuku aabo (Draw those things shown by the teacher in their exercise books)."
+                            ],
+                            "short_notes": "Eeci ciiyo calikujatikizya kudulowa zyintu zyiindene-indene akuzila-zila mibala kuzyidulowedwe. (This activity focuses on drawing various things and colouring drawn objects.)"
+                        }
+                    ],
+                    "short_notes": "Ciiyo eeci cijatikizya basicikolo kulembulula mapatani maubauba, kulembulula masyeepu, kulembulula tubala, kuzila-zila mibala akudulowa. Aboobo cilabagwasya kuba aluzyibo lwakulemba kabotu. (This topic focuses on tracing simple strokes, shapes, and letters, colouring and drawing - all of which help develop good writing skills.)",
+                    "vocabulary": [
+                        {
+                            "term": "Mapatani",
+                            "definition": "Strokes/lines; basic marks used in letter and shape formation."
+                        },
+                        {
+                            "term": "Masyeepu",
+                            "definition": "Shapes; geometric forms including circle (tulaiyango), square (sikkweya), rectangle (lekitaango), triangle (seekko)."
+                        },
+                        {
+                            "term": "Kulembulula",
+                            "definition": "To trace; to copy a shape or letter by following its outline."
+                        },
+                        {
+                            "term": "Kuzila-zila mibala",
+                            "definition": "To colour; to fill in a shape or drawing with colour."
+                        },
+                        {
+                            "term": "Kudulowa",
+                            "definition": "To draw; to create an image using a pencil, crayon, or other material."
+                        },
+                        {
+                            "term": "Museenga",
+                            "definition": "Sand; used in sand trays for early writing practice."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 29,
+                        "questions": [
+                            "Balembulule mapatani maubauba kuzwa kubboodi, bweelede (Correctly trace simple strokes from the board).",
+                            "Kulembulula masyeepu maubauba mumabbuku aabo ciindi nobaiya akumamanino aciiyo (Trace simple shapes in their books at the end of the lesson).",
+                            "Basicikolo balembulule tubala tuubauba twapegwa (Learners trace the given simple letters).",
+                            "Bazile-zile mibala mumasyeepu bweelede ciindi nobaiya akumamanino akwiiya (Correctly colour shapes at the end of the lesson).",
+                            "Kudulowa zyintu zyiindene-indene ciindi nobaiya akumamanino aciiyo (Draw various things at the end of the lesson)."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "Kuswiilila Kutwaano (Listening to Stories)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "A. Kuswiilila Akwaambaula - Kuswiilila Kutwaano (Listening and Speaking - Listening to Stories)",
+                    "page": 36,
+                    "competences": [
+                        "Basicikolo baswiilile kukaano kaubauba kaambwa akuvwiila mibuzyo mukwaambaula (Learners listen to a simple spoken story and answer questions orally).",
+                        "Basicikolo baswiilile kukaano kaubauba kabalwa akuvwiila mibuzyo mukwaambaula (Learners listen to a simple read story and answer questions orally).",
+                        "Basicikolo balicengezye kubaa bulwazi bwakusoomona akuluka (Learners role-play to avoid the disease of coughing and running nose)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.1",
+                            "page": 37,
+                            "hook": "Ncinzi ncobayiya basicikolo mukaano? (What do learners learn from the story?)",
+                            "teacher_steps": [
+                                "Ambila basicikolo kuti baswiilisisye kukaano nkoyanda kubaanina nkaambo kuli mibuzyo itobela (Tell learners to listen carefully to the story because there are questions that will follow).",
+                                "Anina basicikolo kaano kaubauba (Tell learners a simple story).",
+                                "Buzya basicikolo mibuzyo ijatikizya kaano nkobaanina (Ask learners questions about the story told).",
+                                "Ulakonzya ku... (You can...lead discussion about the story's message).",
+                                "Buzya basicikolo mibuzyo eeyi ijatikizya kaano: 1. Ncinzi ncobayiya basicikolo? 2. Ino mbaani babalayilila buponi bubotu? 3. Ncinzi ncobayoowa baama? 4. Ino kwaamba kuti 'Kolela utola kulufwu' caamba nzi? (Ask learners these questions about the story: 1. What did the learners learn? 2. Who advised them on good health? 3. What did mothers fear? 4. What does 'Kolela utola kulufwu' mean?)"
+                            ],
+                            "learner_steps": [
+                                "Baswiilile kukaano (Listen to the story).",
+                                "Bavwiile mibuzyo ijatikizya kaano nkobaaninwa mukwaambaula (Answer questions about the story told to them orally).",
+                                "Basicikolo balicengezye kubaa bulwazi bwakusoomona akuluka (Learners role-play to avoid the disease of coughing and running nose)."
+                            ],
+                            "short_notes": "Kuswiilila kutwaano ncintu ncotwabona kale kuti nciyandisi kuli basicikolo bamusela ooyu. Kufumbwa kuti twaano twaba tooto tukwelelezya basicikolo akupa ciiyo cijatikizya bukkale bwabo, twaano tulasandula bana kuti babe batambulika mucikolo amumasena mobakkala. (Listening to stories is seen as important for learners at this level. When stories are relevant and help learners get lessons about their lives, stories transform children to be acceptable in school and in the communities where they live.) Key health message from story: Ulafwa nkaambo usweekelwa meenda ayandika mumubili. (One can die because they lack the water needed in the body.)"
+                        }
+                    ],
+                    "short_notes": "Kuswiilila kutwaano ncintu ncotwabona kale kuti nciyandisi kuli basicikolo bamusela ooyu. Twaano tulayandika kuti basicikolo babe acilengwa cakuswiilila akwiingula mibuzyo bululeme kutondezya kuti balikuswiilila. (Listening to stories is important for learners at this level. Stories are needed so that learners develop the habit of listening carefully and answering questions correctly to show that they are listening.)",
+                    "vocabulary": [
+                        {
+                            "term": "Kaano kaubauba",
+                            "definition": "A simple/easy story."
+                        },
+                        {
+                            "term": "Kuswiilila",
+                            "definition": "To listen; to pay careful attention to what is being said or read."
+                        },
+                        {
+                            "term": "Kuvwiila mibuzyo",
+                            "definition": "To answer questions; to respond to queries about a story."
+                        },
+                        {
+                            "term": "Bulwazi bwakusoomona akuluka",
+                            "definition": "The disease of coughing and running nose; a cold/respiratory illness."
+                        },
+                        {
+                            "term": "Buponi bubotu",
+                            "definition": "Good health; a state of physical well-being."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 39,
+                        "questions": [
+                            "Ncinzi ncobayiya basicikolo? (What did the learners learn?)",
+                            "Ino mbaani babalayilila buponi bubotu? (Who advised them on good health?)",
+                            "Ncinzi ncobayoowa baama? (What did the mothers fear?)",
+                            "Ino kwaamba kuti 'Kolela utola kulufwu' caamba nzi? (What does 'Kolela utola kulufwu' mean?)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "B. Kubala - Tuvwuumina /g/ a /p/ (Reading - Consonants /g/ and /p/)",
+                    "page": 40,
+                    "competences": [
+                        "Basicikolo beelede kunomoona tubeela twamabala mumabala maubauba mukwaambaula (Learners should be able to segment syllables in simple spoken words).",
+                        "Basicikolo baswaanganye tubeela twamabala kubamba mabala maubauba (Learners blend syllables to form simple words).",
+                        "Basicikolo baandaanye tubeela twamabala kuzwa kumabala abandikwa (Learners segment syllables from printed words).",
+                        "Basicikolo baambe tuvwuumina twakumatalikilo amabala maubauba abandikwa (Learners say initial consonants in simple printed words).",
+                        "Basicikolo baambe tuvwuumina /g/ a /p/ twatubala (Learners say consonant sounds /g/ and /p/)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.1",
+                            "page": 40,
+                            "hook": "Mabala alikubambwa buti mutubeela? (How are words formed from syllables?)",
+                            "teacher_steps": [
+                                "Pandulula kujatikizya tubeela twamabala kutegwa basicikolo bacite ciiyo eeci tabanatalika kulanga mabala alembedwe (Explain about syllables so that learners do this activity without yet looking at printed words - everything is oral).",
+                                "Amba mabala maubauba amwaambaule basicikolo (Say simple words aloud to learners).",
+                                "Lailila basicikolo kusobana kasobano kakubamba mabala (Encourage learners to play the word-building game)."
+                            ],
+                            "learner_steps": [
+                                "Baswiilile akulangisisya ncatondezya mwiiyi (Listen and observe what the teacher is demonstrating).",
+                                "Baambe tubeela twamabala (Say syllables in words).",
+                                "Mukozyanyo: gama => lijisi tubeela tobilo; /ga/, /ma/; pa => lijisi kabeela komwe; /pa/; palila => lijisi tubeela totatwe; /pa/, /li/, /la/; gatula => ga/ tu/ la (Example: gama has two syllables /ga/, /ma/; pa has one syllable /pa/; palila has three syllables /pa/, /li/, /la/; gatula = ga/tu/la).",
+                                "Baambe tubeela twamabala mbuli: /ba, ma, li, na, ka, bi, bu, lu…/ (Say syllables such as /ba, ma, li, na, ka, bi, bu, lu…/).",
+                                "Babambe mabala kwiinda mukuswaanganya tubeela (Form words by blending syllables).",
+                                "Basobane kasobano kakubamba mabala. Sicikolo A: /pu/ a /na/ Sicikolo B: Ngu 'puna' (Play the word-building game. Learner A: /pu/ + /na/. Learner B: 'puna').",
+                                "Baandaanye mabala abandikwa: bola, kuna, bika, mana, nuna (Segment printed words: bola, kuna, bika, mana, nuna)."
+                            ],
+                            "short_notes": "Ntalisyo: Cibeela cantalisyo yakubala cilazumanana kwiiyisya tuvwuumina tubamba tubeela twamabala, atwalo tubeela tubamba mabala. Mucibeela eeci, tuvwuumina /g/ a /p/ tuyakuyiisyigwa mbotwaambwa alimwi ambotubelesyegwa kubamba mabala abelesyegwa notwaambaula. (Introduction: The beginning reading section continues to teach consonants that form syllables, and those syllables that form words. In this section, consonants /g/ and /p/ will be taught in how they are pronounced and how they are used to form words used in speech.)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.2",
+                            "page": 43,
+                            "hook": "Tuvwuumina /g/ a /p/ twaambwa buti? (How are consonants /g/ and /p/ pronounced?)",
+                            "teacher_steps": [
+                                "Balange cipikicca cagondo, camuntu ugela masusu, augonka (Show a picture of a hyena, a person shaving hair, yawning).",
+                                "Baambe zyobabona nokuba zyicitika muzyipikicca (Say what they see or what is happening in the pictures).",
+                                "Baambe kawuumina kali kumatalikilo mumabala ambwa ('gela, goba, gola') (Say the consonant at the beginning of the spoken words: 'gela, goba, gola').",
+                                "Baambe mabala atalisya akavwuumina /g/ akati kaamwi (gondo, magondo, gilazi, kagabba, ganda, suka) (Say words beginning with consonant /g/ and mixed ones: gondo, magondo, gilazi, kagabba, ganda, suka).",
+                                "Buzya basicikolo baambe mbozyilila mpondo zyakayuma ciindi nozyipanduka, nokuba mapopukkoni naa bbotoka (Ask learners to say how dry corn sounds when it bursts, or popcorn or a bottle cap: mpondo = pop sound).",
+                                "Ambila basicikolo babe mbuli mpondo naaba mapopukkoni abbotauka (Ask learners to act like popping corn and a popping bottle cap).",
+                                "Baambe mabala atalisya akavwuumina /p/ akati kaamwi (panga, pilo, pumuna, piluka, pizza, pompi) (Say words beginning with consonant /p/ and mixed ones: panga, pilo, pumuna, piluka, pizza, pompi).",
+                                "Bacite kasobano kakukamba naa bamvwa bbala litalisya akavwuumina /p/ (Play a game clapping when they hear a word beginning with /p/)."
+                            ],
+                            "learner_steps": [
+                                "Baambe kavwuumina /g/ kutegwa batondezye kuzyiba (Say consonant /g/ to demonstrate knowledge).",
+                                "Baambe mabala atalisya akavwuumina /g/ (Say words beginning with /g/).",
+                                "Baimbe kaimbo aciiyo coyandakwiisya keendelana aciiyo (Sing a song related to the lesson).",
+                                "Baambe kavwuumina /p/ (Say consonant /p/).",
+                                "Bacite kasobano kakukamba naa bamvwa bbala litalisya akavwuumina /p/ (Play the clapping game when they hear a word beginning with /p/)."
+                            ],
+                            "short_notes": "Tuvwuumina /g/ a /p/ twaambwa bweelede. Kumatalikilo akumamanino aciiyo basicikolo beelede: kwaamba tubeela twamabala mumabala apegwa, kuswaanganya tubeela twamabala, kwaandaanya tubeela twamabala. (Consonants /g/ and /p/ are correctly pronounced. At the beginning and end of the lesson, learners should be able to: say syllables in given words, blend syllables, segment syllables.)"
+                        }
+                    ],
+                    "short_notes": "Mucibeela eeci, tuvwuumina /g/ a /p/ tuyakuyiisyigwa mbotwaambwa alimwi ambotubelesyegwa kubamba mabala abelesyegwa notwaambaula. Kabeela kakuvwisisisya zyibalwa kapa kuti basicikolo bajane nguzu zyakuzyiba tuvwuumina tujanwa mulizyobamvwa. (In this section, consonants /g/ and /p/ are taught in how they are pronounced and how they are used to form spoken words. The reading comprehension component gives learners the skills to identify consonants found in what they hear.)",
+                    "vocabulary": [
+                        {
+                            "term": "Gondo",
+                            "definition": "Hyena; a wild animal whose name begins with /g/."
+                        },
+                        {
+                            "term": "Gela",
+                            "definition": "To shave; an action word beginning with /g/."
+                        },
+                        {
+                            "term": "Panga",
+                            "definition": "To make/create; an action word beginning with /p/."
+                        },
+                        {
+                            "term": "Pumuna",
+                            "definition": "To rest; an action word beginning with /p/."
+                        },
+                        {
+                            "term": "Pompi",
+                            "definition": "A water pump; a noun beginning with /p/."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 45,
+                        "questions": [
+                            "Kumatalikilo akumamanino aciiyo, basicikolo beelede: kwaamba tubeela twamabala mumabala apegwa (At the beginning and end of the lesson, learners should be able to: say syllables in given words).",
+                            "Kuswaanganya tubeela twamabala (Blend syllables to form words).",
+                            "Kwaandaanya tubeela twamabala (Segment words into syllables).",
+                            "Kwaamba tuvwuumina /g/ a /p/ mumabala apegwa (Say consonants /g/ and /p/ in given words)."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "C. Kusandulula Mapikicca (Picture Interpretation) - Module 2",
+                    "page": 45,
+                    "competences": [
+                        "Basicikolo basandulule mapikicca (Learners interpret pictures).",
+                        "Basicikolo bavwiile mibuzyo ijatikizya twaano tuubauba (Learners answer questions about simple stories).",
+                        "Basicikolo babambe twaano kuzwa mumapikicca apegwa (Learners create stories from given pictures)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3.1",
+                            "page": 46,
+                            "hook": "Ncinzi ncimwabona mucipikicca? (What do you see in the picture?)",
+                            "teacher_steps": [
+                                "Tondezya basicikolo pepa lijisi mapikicca wamana ubabuzye kuti sena balakonzya kwiisandulula pikicca njoobatondezya (Show learners a page with pictures and ask if they can interpret the pictures shown).",
+                                "Tondezya basicikolo mapepa aajisi mapikicca ayindene-indene (Show learners pages with various pictures).",
+                                "Ambila basicikolo basandulule pikicca aimwi njoobatondezya (Ask learners to interpret one picture at a time that you show them).",
+                                "Kulwaizya basicikolo kubelesya mabala mbuli mibala, masyeepu, abube bwazyintu (Encourage learners to use words describing colours, shapes, and textures).",
+                                "Baambile basicikolo mabala ayelede kubelesyegwa (Tell learners the right words to use).",
+                                "Sololela basicikolo kusandulula pikicca akuvwiila mibuzyo (Lead learners to interpret the picture and answer questions)."
+                            ],
+                            "learner_steps": [
+                                "Basandulule mapikicca ngobapegwa kumwiiyi (Interpret the pictures given by the teacher).",
+                                "Bavwiile mibuzyo ijatikizya mapikicca (Answer questions about the pictures).",
+                                "Baingule mibuzyo iizwa iccilila: 1. Nguni/ncinzi waambwa/caambwa kapati mukaano? 2. Cakacitikila kuli caambwa mukaano? 3. Ncinzi cakacitika kuli waambwa/caambwa mukaano? (Answer the following questions: 1. Who/What is mentioned most in the story? 2. What happened to the one mentioned in the story? 3. What happened to the one mentioned in the story?)",
+                                "Baambe cababotela acababijila mukaano (Say what they liked and did not like in the story).",
+                                "Babelesye mapikicca kkaadi amabbuku atwaano, bobilo bobilo babuzyanye akwiingula mibuzyo kuzwa kukaano (In pairs, use picture cards and story books to ask and answer questions from the story)."
+                            ],
+                            "short_notes": "Ciiyo eeci cijatikizya kuswiilila twaano. Basicikolo balaiya kuswiilila kutwaano alimwi akuvwiila mibuzyo ijatikizya twaano. Eeci ciyakubagwasya basicikolo kucikonzya kwaana, kuswiilila alimwi akucikonzya kwiibaluka zyintu mubuumi bwabo buzuba abuzuba. (This activity involves listening to stories. Learners will learn to listen to stories and answer questions about stories. This will help learners develop the ability to tell, listen and remember things in their daily lives.)"
+                        }
+                    ],
+                    "short_notes": "Eeci nciiyo cijatikizya bupanduluzi bwamapikicca. Basicikolo baya kwiiya kupandulula mapikicca andeene-andeene. Basicikolo beelede kuswiililisya twaambo twaambwa kuzwa mumapikicca, kucita kuti babe aluzyibo lwakuswiilila akwambaula kabotu mubuponi bwabo. (This is an activity about picture interpretation. Learners will learn to interpret various pictures. Learners should listen to what is spoken from pictures, so they develop listening and speaking skills for their daily lives.)",
+                    "vocabulary": [
+                        {
+                            "term": "Kusandulula mapikicca",
+                            "definition": "To interpret pictures; to describe, explain and draw meaning from pictures."
+                        },
+                        {
+                            "term": "Twaano tuubauba",
+                            "definition": "Simple stories; short, easy-to-understand narratives."
+                        },
+                        {
+                            "term": "Kubamba twaano",
+                            "definition": "To create/build stories; composing stories from pictures or prompts."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 48,
+                        "questions": [
+                            "Nguni/ncinzi waambwa/caambwa kapati mukaano? (Who/What is mentioned most in the story?)",
+                            "Cakacitikila kuli caambwa mukaano? (What happened to the one mentioned in the story?)",
+                            "Ncinzi cakacitika kuli waambwa/caambwa mukaano? (What happened to the one mentioned in the story?)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.4",
+                    "title": "D. Ntalisyo Yakulemba - Kulemba (Introduction to Writing) - Module 2",
+                    "page": 49,
+                    "competences": [
+                        "Basicikolo balembulule mapatani maubauba (Learners trace simple strokes).",
+                        "Basicikolo balembulule masyeepu maubauba (Learners trace simple shapes).",
+                        "Basicikolo balembulule tubala twa 'g' a 'p' (Learners trace letters 'g' and 'p').",
+                        "Basicikolo bazile-zile mibala mumasyeepu (Learners colour shapes).",
+                        "Basicikolo badulowe zyintu zyiindene-indene (Learners draw various things)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.1",
+                            "page": 49,
+                            "hook": "Mapatani alembululwa buti? (How are strokes traced?)",
+                            "teacher_steps": [
+                                "Aambila basicikolo kuti balaiya kulembulula mapatani (Tell learners they will be tracing strokes).",
+                                "Tondezya basicikolo mbobeelede kujata mpesele amakkilayoni (Demonstrate to learners how they should hold a pencil and crayons).",
+                                "Tondezya basicikolo bwakulembulula mapatani (Demonstrate to learners how to trace strokes).",
+                                "Kobapa cipepa cijisi mapatani basicikolo (Give learners a page with strokes).",
+                                "Sololela basicikolo kulembulula mapatani aumwi alikke (Guide each learner individually to trace the strokes)."
+                            ],
+                            "learner_steps": [
+                                "Batobelezye mwiiyi mbwaalembulula mapatani (Follow the teacher in tracing strokes).",
+                                "Balembulule mapatani mumabbuku aabo (Trace strokes in their exercise books)."
+                            ],
+                            "short_notes": "Muciiyo eeci basicikolo bali kwiiya kukkopolola mapani. (In this activity, learners are learning to trace strokes.)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.2",
+                            "page": 50,
+                            "hook": "Masyeepu alembululwa buti? (How are shapes traced?)",
+                            "teacher_steps": [
+                                "Tondezya mbokulembululwa masyeepu maubauba (Demonstrate how simple shapes are traced).",
+                                "Tondezya basicikolo bwakulembulula masyeepu (Demonstrate to learners how to trace shapes).",
+                                "Ambila basicikolo kuti beelede kubikkila maanu kuswiilizya akulangisisya mwiiyi mbwaalembululwa masyeepu (Tell learners they should pay attention and watch closely as the teacher traces shapes).",
+                                "Kopa cipepa cijisi masyeepu basicikolo (Give learners a page with shapes).",
+                                "Sololela basicikolo kulembulula masyeepu aumwi alikke (Guide each learner individually to trace shapes).",
+                                "Gwasya basicikolo bajana buyumu-yumu (Help learners experiencing difficulties)."
+                            ],
+                            "learner_steps": [
+                                "Babambe bbuku lya masyeepu ngobayandisisya (Choose the shape book they prefer).",
+                                "Babambe masyeepu kufwumbwa ngobayanda kubelesya bulongo/museenga (Form shapes using clay/sand as they wish).",
+                                "Balembulule masyeepu mumabbuku aabo (Trace shapes in their exercise books)."
+                            ],
+                            "short_notes": "Ciiyo eeci cijatikizya kulembulula masyeepu. Ciyakubagwasya basicikolo koolola akunyanyazya minwe ooko kuyakubagwasya kulemba kabotu, kubelesya zyintu zyaandeene kakunyina buyumu-yumu alimwi akweendelanya maanza ameso. (This activity involves tracing shapes. It will help learners stretch and flex their fingers, which will help them write properly, use various materials without difficulty and coordinate their hands and eyes.)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.3",
+                            "page": 52,
+                            "hook": "Tubala twa 'g' a 'p' twalembululwa buti? (How are letters 'g' and 'p' traced?)",
+                            "teacher_steps": [
+                                "Aambile basicikolo kuti balaiya kulembulula tubala twaalufabbeti (Tell learners they will be tracing alphabet letters).",
+                                "Tondezya basicikolo mbobeelede kujata mpesele amakkilayoni (Demonstrate how to hold a pencil and crayons).",
+                                "Tondezya basicikolo bwakulembulula kabala ka 'g' a 'p' (Demonstrate how to trace letters 'g' and 'p').",
+                                "Ambila basicikolo... (Tell learners how to form the letters correctly).",
+                                "Kopa mapepa ajisi tubala twa alufabbeti basicikolo (Give learners pages with alphabet letters).",
+                                "Sololela basicikolo kulembulula tubala aumwi alikke (Guide each learner individually to trace letters)."
+                            ],
+                            "learner_steps": [
+                                "Batobelezye mwiiyi mbwaalembulula tubala (Follow the teacher in tracing letters).",
+                                "Balembulule tubala 'g' a 'p' mumabbuku aabo (Trace letters 'g' and 'p' in their exercise books)."
+                            ],
+                            "short_notes": "Muciiyo eeci basicikolo bali kwiiya kulembulula tubala twaalufabbeti 'g' a 'p'. (In this activity, learners are learning to trace alphabet letters 'g' and 'p'.)"
+                        }
+                    ],
+                    "short_notes": "Eeci ciiyo cijatikizya kulembulula mapatani, masyeepu atubala twaalufabbeti 'g' a 'p', akuzila-zila mibala mumasyeepu akudulowa zyintu zyaandeene-andeene. (This topic involves tracing strokes, shapes and alphabet letters 'g' and 'p', colouring shapes and drawing various things.)",
+                    "vocabulary": [
+                        {
+                            "term": "Kulembulula",
+                            "definition": "To trace; to copy a shape or letter by following its outline."
+                        },
+                        {
+                            "term": "Mapatani",
+                            "definition": "Strokes; basic marks made in preparation for writing."
+                        },
+                        {
+                            "term": "Tubala twaalufabbeti",
+                            "definition": "Alphabet letters; the letters of the alphabet used in writing."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 53,
+                        "questions": [
+                            "Langisisya basicikolo ciindi nobalembulula tubala (Monitor learners as they trace letters).",
+                            "Kubona kuti sicikolo omwe omwe walembulula kabotu tubala 'g' a 'p' (Check that each learner has correctly traced letters 'g' and 'p')."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "Kupandulula Mapikicca (Picture Description)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "A. Kuswiilila Akwaambaula - Kupandulula Mapikicca (Listening and Speaking - Describing Pictures)",
+                    "page": 58,
+                    "competences": [
+                        "Basicikolo bapandulule zyintu mumapikicca (masamu, maanda, banyama…) (Learners describe things in pictures - trees, fruits, animals).",
+                        "Basicikolo baambe ncobacita bantu bali mucipikicca (Learners say what people in the picture are doing)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.1",
+                            "page": 59,
+                            "hook": "Ncinzi ncobabona mucipikicca? (What do they see in the picture?)",
+                            "teacher_steps": [
+                                "Bikka basicikolo museeko (Arrange learners in a circle).",
+                                "Tondezya basicikolo ciccaati cijisi mapikicca zyaandeene-andeene (Show learners a chart with various pictures).",
+                                "Pandulula zyintu zyili mumapikicca (Describe the things in the pictures).",
+                                "Ambila basicikolo kuti baambe ncobabona amapikicca (Ask learners to say what they see in the pictures).",
+                                "Ambila basicikolo kuti basobane cisobano cakupandulula mapikicca mutubunga-bunga (Ask learners to play the picture description game in groups).",
+                                "Ambila omwe omwe sicikolo kuti aambe ncobacita bantu bali mucipikicca ncobatondezyegwa (Ask each learner to say what the people in the picture shown are doing)."
+                            ],
+                            "learner_steps": [
+                                "Baambe ncobabona acipikicca ncobatondezyegwa amwiiyi (Say what they see in the picture shown by the teacher).",
+                                "Basobane mutubunga-bunga kwendelana ancobabona mucipikicca (Discuss in groups about what they see in the picture).",
+                                "Baambe omwe omwe ncobacita bantu bali mucipikicca ncobabona (Each one says what the people in the picture are doing)."
+                            ],
+                            "short_notes": "Eeci nciiyo cijatikizya bupanduluzi bwamapikicca. Basicikolo baya kwiiya kupandulula mapikicca andeene-andeene. Basicikolo beelede kuswiililisya twaambo twaambwa kuzwa mumapikicca, kucita kuti babe aluzyibo lwakuswiilila akwambaula kabotu mubuponi bwabo. Baya kwiiya kucita mizuzumina yandeene kutegwa babe aluzyibo lwakuswiilila akwambaula. (This is an activity about picture description. Learners will learn to describe various pictures. Learners should listen to what is spoken from pictures to develop their listening and speaking skills for daily life. They will learn various exercises to develop listening and speaking skills.)"
+                        }
+                    ],
+                    "short_notes": "Eeci nciiyo cijatikizya bupanduluzi bwamapikicca. Basicikolo baya kwiiya kupandulula mapikicca andeene-andeene. (This is an activity about picture description. Learners will learn to describe various pictures.)",
+                    "vocabulary": [
+                        {
+                            "term": "Kupandulula mapikicca",
+                            "definition": "To describe pictures; to explain what is seen in pictures using words."
+                        },
+                        {
+                            "term": "Masamu",
+                            "definition": "Trees; plants with trunks and branches."
+                        },
+                        {
+                            "term": "Maanda",
+                            "definition": "Fruits; edible produce from trees and plants."
+                        },
+                        {
+                            "term": "Banyama",
+                            "definition": "Animals; living creatures that are not plants."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 60,
+                        "questions": [
+                            "Kuteelelesya basicikolo nobasandulula mapikicca andeene-andeene (Monitor learners as they interpret various pictures).",
+                            "Kubona kuti sicikolo omwe omwe wacita ceelede kwiinda mukusandulula mapikicca (Confirm that each learner correctly interprets pictures)."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "B. Kubala - Tuvwuumina /j/ a /bb/ (Reading - Consonants /j/ and /bb/)",
+                    "page": 61,
+                    "competences": [
+                        "Basicikolo baambe tubeela twamabala kuzwa kumabala maubauba aambaulwa (Learners say syllables from spoken simple words).",
+                        "Basicikolo baswaanganye tubeela twamabala kubamba mabala maubauba akupozya (Learners blend syllables to form simple printed words).",
+                        "Basicikolo baandaanye tubeela twamabala kuzwa kumabala maubauba akupozya (Learners segment syllables from simple printed words).",
+                        "Basicikolo baambe tuvwuumina tutalisya mumabala akwaambaula maubauba (Learners say initial consonants in simple spoken words).",
+                        "Basicikolo baambe tuvwuumina /j/ a /bb/ (Learners say consonant sounds /j/ and /bb/)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.1",
+                            "page": 61,
+                            "hook": "Tubeela twamabala twaambwa buti? (How are syllables said?)",
+                            "teacher_steps": [
+                                "Bikka basicikolo museeko (Arrange learners in a circle).",
+                                "Tondezya basicikolo tukkaadi tujisi mapikicca (Show learners cards with pictures).",
+                                "Buzya basicikolo kuti baambe zyina yacintu cili acipikicca (Ask learners to say the name of the thing in the picture).",
+                                "Tondezya tubeela twamabala kumwi bbala kolyaamba (Show syllables in a word as it is spoken).",
+                                "Tondezya mbokuswaanganisyigwa tubeela twamabala kubamba mabala akwaambaula maubauba. Mukozyanyo: Ju + la = jula (Demonstrate how syllables are blended to form simple spoken words. Example: Ju + la = jula).",
+                                "Ambila basicikolo kuti basobane mutubunga-bunga kwiinda mukukamba tubeela twamabala akwaambaula (Ask learners to play in groups by clapping syllables and speaking).",
+                                "Ambila sicikolo omwe omwe kuti aswaanganye tubeela twamabala kwiinda mukuswaanganya maanza akukamba (Ask each learner to blend syllables by clapping hands and speaking)."
+                            ],
+                            "learner_steps": [
+                                "Bateelelesye mwiiyi napandulula (Listen to the teacher's explanation).",
+                                "Baswaanganye tubeela twamabala mutubunga-bunga (Blend syllables in groups).",
+                                "Umwi aumwi sicikolo aswaanganye tubeela twamabala akwaamba bbala lyabambwa (Each learner blends syllables and says the word formed).",
+                                "Baambe tubeela twamabala mbuli: /ba, ma, li, na, ka, bi, bu, lu…/ (Say syllables such as: /ba, ma, li, na, ka, bi, bu, lu…/).",
+                                "Baandaanye mabala maubauba akupozya: Ju/la, bbo/la (Segment simple printed words into syllables: Ju/la, bbo/la).",
+                                "Baambe kavwuumina /j/ kutegwa batondezye kuzyiba (Say consonant /j/ to show knowledge).",
+                                "Baambe kavwuumina /bb/ (Say consonant /bb/).",
+                                "Omwe omwe atondezye kavwuumina kajanika kumabala aambwa cakupozya (Each one shows the consonant found at the beginning of the printed words)."
+                            ],
+                            "short_notes": "Eeci ciiyo calikugwasilizya sicikolo kukonzya kwaamba tubeela twamabala bweelede akwaamba tuvwuumina tutalisya mabala maubauba akupozya. Tuvwuumina /j/ a /bb/ ntobeelede kuyiisyigwa mucibeela eeci. (This activity assists each learner to correctly say syllables and say initial consonants in simple printed words. Consonants /j/ and /bb/ are the ones to be taught in this section.)"
+                        }
+                    ],
+                    "short_notes": "Mucibeela eeci, tuvwuumina /j/ a /bb/ tuyakuyiisyigwa mbotwaambwa alimwi ambotubelesyegwa kubamba mabala abelesyegwa notwaambaula akupozya. (In this section, consonants /j/ and /bb/ are taught in how they are pronounced and how they are used to form spoken and printed words.)",
+                    "vocabulary": [
+                        {
+                            "term": "Jula",
+                            "definition": "To put in; a word beginning with /j/. Syllables: Ju + la."
+                        },
+                        {
+                            "term": "Bbola",
+                            "definition": "A ball; a word beginning with /bb/. Syllables: bbo + la."
+                        },
+                        {
+                            "term": "Fooni",
+                            "definition": "A phone; syllable segmentation: foo + ni."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 66,
+                        "questions": [
+                            "Kuteelelesya basicikolo nobaamba tuvwuumina tutalisya kumabala maubauba akupozya (Monitor learners as they say initial consonants in simple printed words).",
+                            "Kubona kuti sicikolo omwe omwe wacita ceelede kwiinda mukwaamba tuvwuumina /j/ a /bb/ bweelede (Confirm that each learner correctly says consonants /j/ and /bb/)."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "Kuswiilila Kutwaano (Listening to Stories) - Module 4",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "A. Kuswiilila Akwaambaula - Kuswiilila Kutwaano (Listening and Speaking - Module 4)",
+                    "page": 77,
+                    "competences": [
+                        "Basicikolo batondezye kuba aluzyibo lwaamba kaano nkobaaninwa (Learners demonstrate knowledge of retelling a story heard).",
+                        "Basicikolo bavwiile mibuzyo kuzwa kutwaano tuubauba (Learners answer questions from simple stories).",
+                        "Basicikolo babambe twaano kuzwa kumapikicca apegwa (Learners create stories from given pictures)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.1",
+                            "page": 78,
+                            "hook": "Ncinzi ncobamvwa mukaano kaubauba? (What do learners understand from a simple story?)",
+                            "teacher_steps": [
+                                "Bikka basicikolo bakkale museeko (Arrange learners to sit in a circle).",
+                                "Ana kaano kaubauba (Tell a simple story).",
+                                "Ambila basicikolo kuti baindulule kwaana kaano nkobaaninwa (Ask learners to retell the story they were told).",
+                                "Lailila basicikolo kuti bapakamane akuswiilila kukaano nkaambo kumamanino beelede kwiingula mibuzyo (Alert learners to pay attention and listen to the story because at the end they should answer questions).",
+                                "Anina basicikolo kaano kaubauba kateeleleka. Ulakonzya kubelesya twaano twandeene-andeene (Bupaizi, munyono, …) (Tell learners a well-known simple story. You can use various stories such as 'The Dove, the Fox, etc.').",
+                                "Kopa basicikolo tukkaadi tujisi tupikicca twakubelesya kubamba twaano (Give learners cards with pictures to use to create a story).",
+                                "Ambila basicikolo kuti babambe twaano kuzwa kumapikicca apedwe (Ask learners to create a story from the given pictures)."
+                            ],
+                            "learner_steps": [
+                                "Bainduluke kwaana kaano (Retell the story).",
+                                "Bavwiile mibuzyo ijatikizya kaano (Answer questions about the story).",
+                                "Baane twaano mutubunga-bunga kubelesya tukkaadi (In groups, create stories using cards).",
+                                "Baindulule kaano kaanwa (Retell the story heard).",
+                                "Babambe twaano kuzwa kumapikicca ngubapegwa kutobelezya zyintu mbozyakali kucitika (Create stories from the given pictures following what had happened)."
+                            ],
+                            "short_notes": "Eeci nciiyo cijatikizya kuswiilila kutwaano. Basicikolo bayakwiiya kuswiilila kutwaano twaambwa akubalwa. Basicikolo beelede kuswiilila kutwaano bweelede kucita kuti babe aauzyibo lwakuswiilila akwaambaula kabotu mubuponi bwabo. Eeci nciyandisi nkaambo kakuti basicikolo banikuyandika kubelesya mulaka weelede mucisi cawo. (This is an activity about listening to stories. Learners will learn to listen to both spoken and read stories. Learners should listen to stories correctly to develop their listening and speaking skills in their daily lives. This is important because learners need to use the proper national language.)"
+                        }
+                    ],
+                    "short_notes": "Eeci nciiyo cijatikizya kuswiilila kutwaano. Basicikolo bayakwiiya kuswiilila kutwaano twaambwa akubalwa. (This activity focuses on listening to stories. Learners will learn to listen to both spoken and read stories.)",
+                    "vocabulary": [
+                        {
+                            "term": "Kwiindulula kaano",
+                            "definition": "To retell a story; to repeat a story in one's own words."
+                        },
+                        {
+                            "term": "Bupaizi",
+                            "definition": "The Dove; a type of bird often used in traditional stories."
+                        },
+                        {
+                            "term": "Munyono",
+                            "definition": "The Fox; an animal used in traditional Tonga stories."
+                        },
+                        {
+                            "term": "Kkonkolekwa",
+                            "definition": "A frog; an animal that appears in stories about water and nature."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 79,
+                        "questions": [
+                            "Kumatalikilo kusikila kumamanino, mwiiyi alangisisye kuti basicikolo baindulula twaano mutubunga-bunga bweelede (From beginning to end, the teacher should monitor that learners retell stories in groups correctly).",
+                            "Abone kuti sicikolo aumwi mucigaminina wakonzya kwiindulula kaano kaubauba bweelede (Check that each individual learner can correctly retell a simple story)."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.2",
+                    "title": "B. Kubala - Tuvwuumina /f/ a /v/ (Reading - Consonants /f/ and /v/)",
+                    "page": 84,
+                    "competences": [
+                        "Basicikolo baambe tubeela twamabala kuzwa kumabala maubauba ambwa (Learners say syllables from simple spoken words).",
+                        "Basicikolo baswaanganye tubeela twamabala kubamba mabala maubauba (Learners blend syllables to form simple words).",
+                        "Basicikolo baandaanye tubeela twamabala kuzwa kumabala abandikwa (Learners segment syllables from printed words).",
+                        "Basicikolo baambe tuvwuumina /f/ a /v/ (Learners say consonant sounds /f/ and /v/)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2.1",
+                            "page": 84,
+                            "hook": "Tuvwuumina /f/ a /v/ twaambwa buti? (How are consonants /f/ and /v/ pronounced?)",
+                            "teacher_steps": [
+                                "Amba mabala alaatuvwuumina tukozyanya kumatalikilo (Say words with consonants that sound similar at the beginning).",
+                                "Tondezya kavwuumina katalisya mabala apegwa (Show the consonant that begins the given words).",
+                                "Belesya papeti kwaamba mabala ajisi kavwuumina katalisya kakozyenye. Mukozyanyo: ana, ano; enga, enda (Use cards to say words with consonants that sound alike at the beginning. Example: ana, ano; enga, enda).",
+                                "Amba mabala akozyanya tuvwuumina kumatalikilo (Say words with similar consonants at the beginning).",
+                                "Tondezya kavwuumina katalisya mabala apegwa (Show the consonant that begins the given words).",
+                                "Tondezya basicikolo mapikicca (Show learners pictures).",
+                                "Buzya basicikolo kuti baambe zyina lyacintu cili acipikicca ncoobatondezya (Ask learners to say the name of the thing in the picture shown)."
+                            ],
+                            "learner_steps": [
+                                "Baswiililisye mwiiyi napandulula cakucita (Listen as the teacher explains the activity).",
+                                "Bavwuume kavwuumina kakumatalikilo kakozyanya mumabala aambwa amwiiyi (Say the consonant at the beginning that sounds similar in the words spoken by the teacher).",
+                                "Baambe mutubunga-bunga twabo kavwuumina kajanika mumabala atobelana (In their groups, say the consonant found in the following words).",
+                                "Bakambe mpobamvwa kavwuumina /v/ na /f/ (Clap when they hear consonant /v/ or /f/).",
+                                "Zyiba kuti tuvwuumina /v/ a /f/ mu Chitonga tweelede kulembwa a 'w' ccita mumabala atali a Chitonga pele kaabelesyedwe mumulaka wa Chitonga (Know that consonants /v/ and /f/ in Chitonga should be written with 'w' sound in non-Chitonga words but are used in Chitonga)."
+                            ],
+                            "short_notes": "Eeci ciiyo cali atuvwuumina /f/ a /v/. Cagwasilizya basicikolo kukonzya kwaamba tuvwuumina tutalisya mabala maubauba akwaambaula. Zyiba kuti tuvwuumina /v/ a /f/ mu Chitonga tweelede kulembwa a 'w' ccita mumabala atali a Chitonga pele kaabelesyedwe mumulaka wa Chitonga. (This activity focuses on consonants /f/ and /v/. It helps learners say initial consonants in simple spoken words. Know that consonants /v/ and /f/ in Chitonga should be written with the 'w' sound in non-Chitonga words but are used in Chitonga language.)"
+                        }
+                    ],
+                    "short_notes": "Mucibeela eeci, tuvwuumina /f/ a /v/ tuyakuyiisyigwa. Tuvwuumina /v/ a /f/ mu Chitonga tweelede kulembwa a 'w' ccita mumabala atali a Chitonga pele kaabelesyedwe mumulaka wa Chitonga. (In this section, consonants /f/ and /v/ are taught. Consonants /v/ and /f/ in Chitonga should be written with the 'w' sound in non-Chitonga words but are used in the Chitonga language.)",
+                    "vocabulary": [
+                        {
+                            "term": "Tuvwuumina /f/ a /v/",
+                            "definition": "Consonants /f/ and /v/; sounds that in Chitonga context may be represented with 'w' in non-Chitonga borrowed words."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 85,
+                        "questions": [
+                            "ateelelesya basicikolo nobaamba tuvwuumina twakumatalikilo amabala maubauba (Monitor learners as they say initial consonants in simple words).",
+                            "abona kuti sicikolo omwe-omwe wacita ceelede kwiinda mukwaamba tuvwuumina tutalisya mabala maubauba ambaula (Check that each learner correctly says initial consonants in simple spoken words)."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.3",
+                    "title": "C. Ntalisyo Yakulemba - Kulemba (Introduction to Writing) - Module 4",
+                    "page": 90,
+                    "competences": [
+                        "Basicikolo balembulule mapatani maubauba (Learners trace simple strokes).",
+                        "Basicikolo balembulule masyeepu maubauba (Learners trace simple shapes).",
+                        "Basicikolo balembulule tubala 'v' a 'f' (Learners trace letters 'v' and 'f').",
+                        "Basicikolo bazile-zile mibala mumasyeepu (Learners colour shapes).",
+                        "Basicikolo bazile-zile mibala zyintu zyidulowedwe (Learners colour drawn objects).",
+                        "Basicikolo badulowe zyintu zyaandeene-andeene (Learners draw various objects)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.3.1",
+                            "page": 90,
+                            "hook": "Mapatani alembululwa buti? (How are strokes traced?)",
+                            "teacher_steps": [
+                                "Yeeyezya basicikolo mulimo wakulembulula mapatani (Remind learners of the task of tracing strokes).",
+                                "Ambila basicikolo kuti batondezye mapatani ngobakaiya kale (Ɔ Ɔ Ɔ Ɔ) (Ask learners to show strokes they have already learnt).",
+                                "Tondezya basicikolo mapatani (Demonstrate the strokes to learners).",
+                                "Tondezya mbokulembululwa masyeepu maubauba (Demonstrate how simple shapes are traced).",
+                                "Kobikka basicikolo mutubunga tusyoonto-syoonto (Put learners in small groups).",
+                                "Kobatondezya mpobatitalikile kulembulula masyeepu kubelesya: Masileeti, Museenga buli mukabbokesi, Ncoko (Show them where to start tracing shapes using: Slates, Sand in a box, Chalk)."
+                            ],
+                            "learner_steps": [
+                                "Batobelezye mwiiyi mbwaalembulula mapatani (Follow the teacher in tracing strokes).",
+                                "Balembulule masyeepu mutubunga (Trace shapes in groups).",
+                                "Batondezye mapatani ngobakaiya kale (Show the strokes they have already learnt)."
+                            ],
+                            "short_notes": "Eeci ciiyo calikujatikizya kulembulula mapatani maubauba. Basicikolo beelede kutondezya luzyibo lwakulembulula mapatani, masyeepu atubala mumvwiki zyobilo. (This activity focuses on tracing simple strokes. Learners should demonstrate their knowledge of tracing strokes, shapes and letters over two weeks.)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.3.2",
+                            "page": 92,
+                            "hook": "Tubala 'v' a 'f' twalembululwa buti? (How are letters 'v' and 'f' traced?)",
+                            "teacher_steps": [
+                                "Tondezya mbokulembululwa tubeela twamabala: v v v v v, f f f f f (Demonstrate how to trace letter sounds: v v v v v, f f f f f).",
+                                "Bikka basicikolo mutubunga tusyoonto-syoonto (Put learners in small groups).",
+                                "Tondezya mpobatitalikile kulembulula tubala kubelesya: Masileeti, Museenga uli mukabbokesi, Ncoko (Show them where to start tracing letters using: Slates, Sand in a box, Chalk)."
+                            ],
+                            "learner_steps": [
+                                "Batobelezye mwiiyi mbwaalembulula tubala 'v' a 'f' (Follow the teacher in tracing letters 'v' and 'f').",
+                                "Balembulule tubala 'v' a 'f' mutubunga (Trace letters 'v' and 'f' in groups).",
+                                "Bazile-zile mibala masyeepu maubauba (Colour simple shapes).",
+                                "Bazile-zile mibala zyintu zyidulowedwe (Colour drawn objects).",
+                                "Badulowe zyintu zyaandeene-andeene (Draw various objects)."
+                            ],
+                            "short_notes": "Eeci ciiyo calikujatikizya kulembulula tubala 'v' a 'f' akuzila-zila mibala masyeepu maubauba akudulowa zyintu zyaandeene-andeene. (This activity focuses on tracing letters 'v' and 'f', colouring simple shapes and drawing various objects.)"
+                        }
+                    ],
+                    "short_notes": "Eeci ciiyo calikujatikizya kulembulula mapatani, masyeepu atubala twaalufabbeti 'v' a 'f', akuzila-zila mibala mumasyeepu, akudulowa zyintu zyaandeene-andeene. (This topic involves tracing strokes, shapes and alphabet letters 'v' and 'f', colouring shapes and drawing various objects.)",
+                    "vocabulary": [
+                        {
+                            "term": "Masileeti",
+                            "definition": "Slates; flat writing surfaces used for practice."
+                        },
+                        {
+                            "term": "Ncoko",
+                            "definition": "Chalk; a white stick used for writing on slates and boards."
+                        },
+                        {
+                            "term": "Mpesele",
+                            "definition": "Pencil; a writing implement used for tracing and writing in books."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 96,
+                        "questions": [
+                            "Langisisya basicikolo ciindi nobalembulula tubala 'v' a 'f' (Monitor learners as they trace letters 'v' and 'f').",
+                            "Basicikolo badulowe zyintu zyaandeene-andeene (Learners draw various objects).",
+                            "Basicikolo bazile-zile mibala zyintu zyidulowedwe (Learners colour drawn objects)."
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

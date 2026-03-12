@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "5",
+    "subject": "Mathematics",
+    "philosophy": "The upper primary mathematics syllabus is designed to provide a comprehensive overview and understanding of fundamental mathematical concepts. The syllabus has been prepared and produced against the background of the need to set high standards for mathematics education and actualise the country's vision from early childhood to tertiary education. The syllabus comprises topics aimed at providing a coherent learning progression based on their interconnection. This syllabus aligns with the 21st Century skills to help learners gain competences that they can utilise in life beyond school. It provides an enriching and supportive educational environment where learners can develop a lifelong interest for mathematics. It is expected that this syllabus will inspire and empower learners to achieve their full potential, equipping them with the knowledge and skills necessary to navigate and contribute to the world around them. Hence the syllabus aims to provide a solid foundation for Science, Technology, Engineering and Mathematics (STEM) education and smooth transition to Secondary Education. Mathematics is a fundamental subject that develops logical reasoning, problem-solving skills, and numerical proficiency essential for everyday life and future learning. The Grade 4–6 mathematics syllabus is designed to build upon the foundational concepts introduced in earlier grades while preparing learners for more advanced mathematical thinking in higher education. At this stage, learners transition from basic arithmetic to more complex mathematical operations, including fractions, decimals, geometry, measurements, and introductory algebra. These concepts are essential for developing critical thinking, reasoning, and analytical skills necessary for real-world problem-solving. The syllabus emphasizes a learner-centered approach, where leaners actively engage in hands-on activities, group work, and investigations to discover mathematical relationships and patterns.",
+    "competence_learning": "Specific competence refers to a particular skill, values, or knowledge that enables learners to perform a specific mathematical task, solve a particular type of problem, or demonstrate understanding of a distinct mathematical concept. This may be achieved after performing several learning activities for a specific instruction.",
+    "goals": [
+      "To foster mathematical fluency, conceptual understanding, and logical reasoning, equipping learners with the skills needed for further studies in arithmetic and related disciplines.",
+      "To help learners gain competences that they can utilise in life beyond school.",
+      "To provide a solid foundation for Science, Technology, Engineering and Mathematics (STEM) education and smooth transition to Secondary Education."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "5.1.1",
+      "topic_title": "SETS",
+      "page_number": 20,
+      "subtopics": [
+        "Venn Diagrams"
+      ],
+      "specific_outcomes": [
+        "Apply set operations to present ideas in everyday life"
+      ]
+    },
+    {
+      "unit": "5.2.1",
+      "topic_title": "NUMBERS",
+      "page_number": 20,
+      "subtopics": [
+        "Roman Numerals"
+      ],
+      "specific_outcomes": [
+        "Use the Roman numeration system to communicate ideas in life context"
+      ]
+    },
+    {
+      "unit": "5.2.2",
+      "topic_title": "NUMBERS",
+      "page_number": 20,
+      "subtopics": [
+        "Prime and Composite Numbers"
+      ],
+      "specific_outcomes": [
+        "Apply prime and composite numbers in everyday context"
+      ]
+    },
+    {
+      "unit": "5.3.1",
+      "topic_title": "FRACTIONS",
+      "page_number": 21,
+      "subtopics": [
+        "Common Fractions"
+      ],
+      "specific_outcomes": [
+        "Apply fractions in everyday life"
+      ]
+    },
+    {
+      "unit": "5.3.2",
+      "topic_title": "FRACTIONS",
+      "page_number": 21,
+      "subtopics": [
+        "Decimal Fractions"
+      ],
+      "specific_outcomes": [
+        "Utilize decimal fractions in everyday life"
+      ]
+    },
+    {
+      "unit": "5.4.1",
+      "topic_title": "COMBINED OPERATIONS",
+      "page_number": 22,
+      "subtopics": [
+        "Order of Operations"
+      ],
+      "specific_outcomes": [
+        "Apply combined operations in daily situations"
+      ]
+    },
+    {
+      "unit": "5.5.1",
+      "topic_title": "ANGLES",
+      "page_number": 22,
+      "subtopics": [
+        "Related Angles"
+      ],
+      "specific_outcomes": [
+        "Apply angles in different life contexts"
+      ]
+    },
+    {
+      "unit": "5.6.1",
+      "topic_title": "SHAPES",
+      "page_number": 22,
+      "subtopics": [
+        "Plane Shapes (Symmetry)"
+      ],
+      "specific_outcomes": [
+        "Relate line of symmetry in life context"
+      ]
+    },
+    {
+      "unit": "5.6.2",
+      "topic_title": "SHAPES",
+      "page_number": 23,
+      "subtopics": [
+        "Solid Shapes"
+      ],
+      "specific_outcomes": [
+        "Create prisms in life context"
+      ]
+    },
+    {
+      "unit": "5.7.1",
+      "topic_title": "MEASURES",
+      "page_number": 23,
+      "subtopics": [
+        "Perimeter, Area and Volume"
+      ],
+      "specific_outcomes": [
+        "Apply measurements in different life contexts"
+      ]
+    },
+    {
+      "unit": "5.8.1",
+      "topic_title": "STATISTICS",
+      "page_number": 24,
+      "subtopics": [
+        "Stem- Leaf Plot and Pie Chart"
+      ],
+      "specific_outcomes": [
+        "Present data in different forms"
+      ]
+    }
+  ]
+}

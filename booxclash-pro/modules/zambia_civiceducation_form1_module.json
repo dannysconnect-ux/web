@@ -1,0 +1,990 @@
+{
+    "subject": "Civic Education",
+    "grade": "Form 1",
+    "term": 2,
+    "topics": [
+        {
+            "topic_id": "1.5",
+            "topic_title": "Political Parties",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.5.1",
+                    "title": "Political Party",
+                    "page": 2,
+                    "competences": [
+                        "Analyse the Organisation and Structure of a Political Party"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5.1.1",
+                            "page": 2,
+                            "hook": "What would happen in a democratic nation without political parties?",
+                            "teacher_steps": [
+                                "Divide the class into groups, and assign the following tasks for simulation",
+                                "Guide each group to design and form a mock political party",
+                                "Guide each group to come up with a party manifesto and include key issues such as a party logo, ideology and campaign materials",
+                                "Facilitate groups to hold a mock meeting to discuss their key issues and ideology and party leaders explain their importance",
+                                "Invite groups to present their key issues and ideology",
+                                "Hold a plenary session with learners to give explanations on the importance of having clarity of a political party's intentions"
+                            ],
+                            "learner_steps": [
+                                "Form groups as assigned by the teacher",
+                                "Design and form a mock political party",
+                                "Come up with a party manifesto and include key issues such as a party logo, ideology and campaign materials",
+                                "Hold a mock meeting to discuss key issues and ideology",
+                                "Party leaders explain the importance of their key issues",
+                                "Present key issues and ideology to the class",
+                                "Participate in plenary session discussing the importance of having clarity of a political party's intentions"
+                            ],
+                            "short_notes": "A political party is a group of citizens who organize themselves with a common value, ideas and a goal towards forming government. A political party represents an alternative government in a country. Political parties originate from different aspects of our communities. The following are some of the factors that lead to the formation of political parties: Ideological differences (disagreements over ideology, principles and policies can lead to the formation of new parties), Economic interests (disagreements over economic policies and interests can lead to party formation), Charismatic leaders (individuals with persuasive and compelling attitudes can lead others in the formation of a political party), Human nature/inborn differences (by nature, people differ in the way they understand and look at issues of life. Therefore, differences in opinion lead people to form political parties), Religious and communal sentiments (some people form political parties according to their religious beliefs), Regional and geographic interests (parties may form to represent the interests of specific regions or geographic areas), Social and cultural issues (parties may form around social and cultural issues such as slavery, civil rights or immigration), Historical events and crises (major historical events such as wars, economic depressions or social unrest may lead to the formation of parties)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5.1.2",
+                            "page": 3,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Divide the learners into groups and assign them activities to identify the different roles played by the ruling and opposition Political Parties based on the Zambian scenario",
+                                "Each group to make a presentation based on the discussion"
+                            ],
+                            "learner_steps": [
+                                "Work in groups to identify different roles played by ruling and opposition parties",
+                                "Discuss the Zambian scenario",
+                                "Prepare group presentation",
+                                "Make presentations to the class"
+                            ],
+                            "short_notes": "Ruling party: The ruling party is the political party which governs a country after winning elections and holds the governing power. It forms the executive arm of government (cabinet) headed by the president which is responsible for policy formulation and implementation. In the legislature, the ruling party initiates laws through public bills in line with its vision and development goals as enshrined in the party manifesto. It mobilises citizens to support national initiatives and government programmes. Opposition party: An opposition political party is any political party which is not in government but works to provide checks and balances on the ruling party. This is done by questioning the actions, policies and decisions of government in power. It ensures that the government remains answerable to the citizens by holding government accountable for its actions. It provides a healthy democracy by ensuring that government is accountable, transparent and responsive to the needs of the citizens. It presents alternative policies and programmes for development purposes and stands as an alternative government. It educates the public on important national and international issues. Opposition political parties raise public debates that in turn force government consider popular concerns in the interest of the public."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5.1.3",
+                            "page": 4,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Organise the class as a political party with structures at National, Provincial, District, Constituency, Ward and Section levels",
+                                "Let each structure apportion positions to its members"
+                            ],
+                            "learner_steps": [
+                                "Organize as a political party with different structural levels",
+                                "Assign positions within each structure",
+                                "Practice the roles of each position"
+                            ],
+                            "short_notes": "Political Party Structure: Every political party is structured as follows: (a) The National Executive Committee (NEC): this is the highest organ of the party which is made up of senior elected party members. (b) The Provincial Committee (PEC): this is a political party organ which administers party affairs at the provincial level headed by elected chairperson. (c) The District Executive Committee (DEC): this is a political party organ established in every district headed by the district chairperson. (d) The Constituency Committee: this is a party organ which is answerable to the district executive and is responsible for managing the affairs of a political party at constituency level. (e) Ward and Sections or Branch Committee: These are lower organs within the party structure responsible for mobilizing grassroot membership for a political party. Key Positions in Political parties: Party President (leader of a political party who becomes a party candidate in the election), Party Chairperson (person responsible for managing the general affairs of a political party), Secretary general (Chief Executive Officer of the party responsible for the day-to-day operations), Party Treasurer (official who manages the finances), Committee Chairpersons (heads of various committees at different levels)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5.1.4",
+                            "page": 5,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Invite a guest speaker (an expert) to give a talk on the functions of a political party or visit a nearby political party office",
+                                "Guide learners to listen, take down important points and ask questions based on the talk",
+                                "Organise a debate on the importance of political parties",
+                                "Hold a plenary session, discussing the importance of political parties",
+                                "Ask learners to diagrammatically present the functions of political parties on flowcharts, then to the class"
+                            ],
+                            "learner_steps": [
+                                "Listen to guest speaker presentation",
+                                "Take notes on important points",
+                                "Ask questions for clarification",
+                                "Participate in debate on importance of political parties",
+                                "Engage in plenary discussion",
+                                "Create flowcharts showing functions of political parties",
+                                "Present flowcharts to the class"
+                            ],
+                            "short_notes": "Functions of a political party: Selection or nomination of political personal, Formation of public policies, Conducting and criticism of government, Political education, International between people and government, Development and maintenance of a sense of national unity, Coordinating the branches of government, Making it possible for the electorate to function in an organized and effective manner, Framing of political issue for the people, Selection of candidates during elections, Serving as agencies of civic education, Parties develop a sense of national unity, Formulate party policies, They permit the electorate to function, They seek to control government, They minimize the crushes of economic interests for the demand of various economic groups find expressions in party platforms."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5.1.5",
+                            "page": 7,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Divide class into a few groups (as political parties) to dramatize an elections campaign to elect a class monitor or members of a student council",
+                                "Guide each group to represent a political party with pseudonyms of party names",
+                                "Guide each group to choose a learner to act as a candidate for elections",
+                                "Guide learners to act as party candidates in the preparation for their campaign messages in order to win voters over",
+                                "Facilitate party candidates to present their campaign messages to the class (the audience)",
+                                "Allow the audience to listen and ask them questions",
+                                "Summarize with learners the importance of political campaigns"
+                            ],
+                            "learner_steps": [
+                                "Form political party groups",
+                                "Choose a party name",
+                                "Select a candidate for elections",
+                                "Prepare campaign messages",
+                                "Present campaign messages to the class",
+                                "Listen to other groups' presentations",
+                                "Ask questions to candidates",
+                                "Participate in summary discussion on importance of political campaigns"
+                            ],
+                            "short_notes": "A political party campaign is a selling of political ideas to the public in order to win the support of the public. It involves the dissemination of political party message to the public through rallies, debates, door to door canvasing, social media engagements and town hall meetings. Every political party has rights to disseminate information about its policies and ideologies as a means towards winning people's trust to gain the votes."
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "Political Party",
+                            "definition": "A group of people who come together with a view of governing a nation"
+                        },
+                        {
+                            "term": "Political Power",
+                            "definition": "The ability to influence or direct the actions, beliefs or conduct of individuals or groups"
+                        },
+                        {
+                            "term": "Ideology",
+                            "definition": "A set of beliefs, values and principles that shape understanding of the world and provide guidance to actions. Ideology can be political, social, economic or cultural in nature"
+                        },
+                        {
+                            "term": "Accountability",
+                            "definition": "Leaders being answerable to citizens for their actions"
+                        },
+                        {
+                            "term": "Transparency",
+                            "definition": "The openness of leaders in their decisions and actions"
+                        },
+                        {
+                            "term": "Party Manifesto",
+                            "definition": "A document that contains the values and plans of a political party towards the nation"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 7,
+                        "questions": [
+                            "Essay: Imagine you have been elected as a leader of your party. Explore the strategies you would use to organise the party in order to win elections and form government.",
+                            "Project: Conduct a research on the importance of women and youth participation in political party structures."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.5.2",
+                    "title": "Political Party Systems",
+                    "page": 8,
+                    "competences": [
+                        "Evaluate political party systems"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5.2.1",
+                            "page": 8,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Organise an assembly for learners and ask those who want to be representatives to campaign in order to be elected into leadership roles such as class monitor, prefect, board member",
+                                "Facilitate the campaign process",
+                                "Guide learners through election process"
+                            ],
+                            "learner_steps": [
+                                "Participate in school assembly",
+                                "Campaign for leadership positions if interested",
+                                "Create campaign manifestos including name, position, promises and slogans",
+                                "Design campaign posters",
+                                "Utilize public speaking opportunities",
+                                "Vote for representatives"
+                            ],
+                            "short_notes": "Learners should be given an opportunity to participate in the governance of a school. As such the best way to choose representatives for learners into the school council or school board is to allow learners elect their own representatives. There is need for a workable platform for learners to campaign and be voted in. Key features of a campaign platform include: Campaign manifesto (name, position, promises and slogans), Campaign posters, Public speaking opportunity."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5.2.2",
+                            "page": 9,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Arrange the class into three different groups and give them country names to discuss the party systems",
+                                "Assign Country A: One party system",
+                                "Assign Country B: Two party system",
+                                "Assign Country C: Multi-party system",
+                                "Each group to present their points based on the discussion"
+                            ],
+                            "learner_steps": [
+                                "Work in assigned groups",
+                                "Discuss assigned party system",
+                                "Prepare presentation",
+                                "Present findings to the class"
+                            ],
+                            "short_notes": "Kinds of Party Systems: The most basic way of classifying different party systems is One-Party System, Bi or two-Party System and Multi-Party System. One-Party System: This is where a country only allows the existence of one political party. Bi or Two-Party System: This is a situation where there are two major political parties in a country such as the Republican party and the Democrats in the United States of America or the Conservative Party and Labour Party in the United Kingdom. The two parties compete for political power. Multi-Party System: this is where a country allows the formation of more political parties to compete for political power. A Good example is Zambia where there are more than 40 political parties."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5.2.3",
+                            "page": 10,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Arrange the learners into two groups and ask them to debate on the advantages and disadvantages of One-Party and Multi-Party systems",
+                                "After the debate hold the plenary session in which the entire class can bring out the advantages and disadvantages of the different party systems"
+                            ],
+                            "learner_steps": [
+                                "Participate in debate",
+                                "Prepare arguments for assigned party system",
+                                "Present advantages and disadvantages",
+                                "Engage in plenary discussion",
+                                "Contribute to class summary"
+                            ],
+                            "short_notes": "One-Party System Advantages: One-party system brings about stable government as there is no power struggle among parties; There is faster decision-making since there are no lengthy debates; Implementing uniform policies becomes easier; Can act as unifying factor, promoting national integration; A single party can easily mobilize resources quickly. Disadvantages: Lack of transparency and accountability; Suppression of individual freedoms; Risk of dictatorship; May not represent diverse interests; Limited political debates; Lack of political competition can hinder social progress. Bi-Party System Advantages: Ensures successful working of parliamentary form of government; Stability of government; Natural effect on efficiency of ruling administration; Opposition provides alternative for citizens; Each major party plays positive and constructive role. Disadvantages: Limits choice to only two options; Can promote regionalism, racism or tribalism; Promotes blind devotion to a political party. Multi-Party System Advantages: Gives variety of choices to voters; Gives adequate representation to numerous interests; Promotes respect for people's choice; Promotes political rights; Acts as powerful check on dictatorial governance. Disadvantages: Large number creates confusion; Different ideologies might be inimical to wellbeing; Can promote instability; Undermines national unity and can lead to conflict."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5.2.4",
+                            "page": 11,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Divide learners into groups and ask them to undertake a case study of Zambia's political history under the following themes: Multi-party system in the First Republic, One-Party participatory system in the Second Republic, Multi-party system in the Third Republic",
+                                "Guide learners to identify the salient features of one-party and multi-party systems in Zambia",
+                                "Guide learners to analyse the impact of the two systems on individual freedoms and general welfare of citizens",
+                                "Facilitate learners to present their findings to the class in a diagrammatical presentation"
+                            ],
+                            "learner_steps": [
+                                "Work in groups on case study",
+                                "Research Zambia's political party history",
+                                "Identify salient features of different systems",
+                                "Analyze impact on individual freedoms and welfare",
+                                "Create diagrammatic presentation",
+                                "Present findings to class"
+                            ],
+                            "short_notes": "The History of Political Party System in Zambia: Since independence Zambia's political party system has changed from multiparty to one party and back to multiparty. Multi-Party System (1964 to 1972): Major parties included UNIP, ANC, and UPP with UNIP in power. One-Party System (1973 to 1991): Only UNIP allowed. Multi-Party System (1991 to Date): MMD (1991-2011), PF (2011-2021), UPND (2021 to present), along with UNIP and other parties."
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "One-Party System",
+                            "definition": "A political system in which only one party is allowed to exist and hold power"
+                        },
+                        {
+                            "term": "Bi-Party System",
+                            "definition": "A political system in which two major parties dominate the political landscape. It can also be called a two-party system"
+                        },
+                        {
+                            "term": "Multi-Party System",
+                            "definition": "Signifies the existence of many political parties, big and small in the country. They alternate power, to more than two political parties"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 13,
+                        "questions": [
+                            "Create a timeline of Zambia's political party systems, highlighting key events, milestones and major changes.",
+                            "Read the scenario and answer the questions: At independence Zambia inherited a multiparty system. However, the constitution of Zambia changed in 1973 recommending the establishment of a one-party participatory democracy. All opposition political parties were banned leaving only the ruling United National Independence party (UNIP). In 1991, the country reverted to multipartyism. (a) Identify the shortcomings of a one-party political system. (b) Show how political parties have contributed to development and democracy in Zambia. (c) State the challenges faced by political parties in Zambia. (d) Briefly explain the developmental contribution made by the successive ruling parties in Zambia since independence."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.6",
+            "topic_title": "Local and Central Government",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.6.1",
+                    "title": "Local Government in Zambia",
+                    "page": 15,
+                    "competences": [
+                        "Demonstrate understanding of the history of Local Government",
+                        "Examine functions of Local Government",
+                        "Care for the environment"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.1.1",
+                            "page": 15,
+                            "hook": "What do you think is the danger when parents start performing tasks which should be performed by children in the family?",
+                            "teacher_steps": [
+                                "Identify a retired council employee or any senior citizen with information on how councils used to operate in the past",
+                                "Invite him or her or take the learners to him or her to share the history of local government in Zambia",
+                                "Put learners in groups to discuss what they gathered from the presentation or field visit",
+                                "Facilitate group presentations",
+                                "Alternative: Divide learners into groups to create a timeline showing major milestones such as: Pre-colonial traditional leadership, Colonial era Native Authorities, Post-independence local councils, Decentralisation reforms (e.g., 1991, 2013)"
+                            ],
+                            "learner_steps": [
+                                "Listen to guest speaker or visit retired council employee",
+                                "Take notes on history of local government",
+                                "Work in groups to discuss what was learned",
+                                "Create timeline of local government evolution",
+                                "Make group presentations"
+                            ],
+                            "short_notes": "Before independence, the British Colonial administration ruled through traditional leaders or native authorities. Native authorities assisted the colonial government in collecting taxes, issuing licences and presiding over civil cases. After independence, Zambia enacted the Local Government Act Number 69 of 1965 which created four types of councils: City Councils, Municipal Councils, Township Councils and Rural Councils. In 1980, the Local government and Decentralisation Act was enacted which placed all council under the control of District Governors. In 1991, the Local Government and Decentralisation Act of 1980 was amended creating the current three types of autonomous councils: City (for cities), Municipal (For Provincial Headquarters and other big towns) and District Councils (for small towns or districts). The 2019 Local Government Act outlines the three main types of Local Councils based on the size and status of the area they govern: City councils, Municipal Councils and Town Councils."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.1.2",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Take learners on a field visit to the nearby local council to have first-hand information on the structure and functions of the Council and how councils raise revenue",
+                                "After the field trip, place learners in groups to present what they learnt during the visit regarding the structure of the Local Councils",
+                                "Ask learners to draw or label a diagram showing Local Authorities (urban and rural councils)"
+                            ],
+                            "learner_steps": [
+                                "Participate in field visit to local council",
+                                "Observe council structure and operations",
+                                "Ask questions about council functions and revenue",
+                                "Work in groups to discuss observations",
+                                "Draw or label diagrams of local authority structure",
+                                "Make presentations to class"
+                            ],
+                            "short_notes": "Under the current Local Government Act, City and Municipal Councils are headed by Mayors while District Councils are administered by Council Chairpersons together with Ward Councillors as Decision Makers. The administrative functions of the City and Municipal Councils are placed under the Town Clerk while the Town Councils are under the Council Secretary working with Directors of various Departments. THE STRUCTURE OF LOCAL COUNCILS: City Councils (Political Head: Mayor working with ward councillors; Administrative Head: Town Clerk working with Directors of Departments), Municipal Councils (Political Head: Mayor working with ward councillors; Administrative Head: Town Clerk working with Directors of Departments), Town Councils (Political Head: Council Chairperson working with ward councillors; Administrative Head: Council Secretary working with Directors of Departments)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.1.3",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Conduct Service Mapping in the Community: In groups, learners walk around the local area or reflect on services seen daily",
+                                "Ask them to list services provided by the local council such as: Waste collection, Water supply, Road maintenance, Market management, Health and Sanitation",
+                                "Follow up: learners to discuss the services which are well provided and which need improvement",
+                                "Conduct Local Government Simulation game: Assign learners roles such as mayor, councillors, and community members",
+                                "Present a local issue (e.g., how to deal with illegal vending or waste collection; allocate funds for building a market or repair a road) and let the 'council' discuss and make decisions",
+                                "Ask learners to write a reflection paper on how local government debate and pass resolutions"
+                            ],
+                            "learner_steps": [
+                                "Walk around local area in groups",
+                                "List services provided by council",
+                                "Reflect on services seen daily",
+                                "Discuss which services are well provided and which need improvement",
+                                "Participate in simulation game",
+                                "Take on roles of mayor, councillors, or community members",
+                                "Discuss local issues",
+                                "Make decisions on local issues",
+                                "Write reflection paper on council decision-making"
+                            ],
+                            "short_notes": "Local councils perform the following functions: Making By-Laws, Providing clean and safe water to communities, Providing accommodation and allocating plots for development, Ensuring a clean environment and pollution control, Allocating land for and maintaining graveyards, Awarding trading licences to business persons, Maintaining township roads and streets, Building and maintaining trading places such as markets, Providing street lighting, Controlling the movement of livestock to and from the district, Controlling drainage and sewage disposal, City and town planning, Providing recreation facilities such as swimming pools and play parks, Collecting various kinds of levies, rates and rentals, Providing health facilities and controlling epidemics in communities, Providing fire-fighting services, Promoting local tourism."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.1.4",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Local Revenue Investigation Walk: Take a walk with learners around the local area (or nearby market)",
+                                "Have learners look for signs of council revenue collection, such as Market stalls (traders pay fees), Bus stations (levies on transport operators), Shops or billboards (licence fees)",
+                                "Follow up: learners to create a list or chart of observed revenue sources",
+                                "Revenue Source Sorting Game: Provide work cards with different items (taxes, donations, licences, fines, etc.)",
+                                "Categorize as Internal sources (e.g., market fees, business licences) or External sources (e.g., government grants, donor funding)",
+                                "Plenary session: class discussion on how reliable each source is"
+                            ],
+                            "learner_steps": [
+                                "Participate in revenue investigation walk",
+                                "Observe revenue collection activities",
+                                "Identify different revenue sources",
+                                "Create list or chart of revenue sources",
+                                "Participate in sorting game",
+                                "Categorize revenue sources as internal or external",
+                                "Discuss reliability of each revenue source"
+                            ],
+                            "short_notes": "To undertake daily operations, local councils need to raise enough revenue. The most common ways by which councils raise funds are: Business levies from business persons in the district, Grants from government such as the Equalisation Fund, Personal levies paid by workers annually to the council, Issuance of Trading Licences, Local revenue raising measures through such means as barriers, lodges, land rates, animal and crop levy among others, Constituency Development Fund for service delivery to constituencies."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.1.5",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Take learners to a public place such as a market, health centre, play park, bus station, public roads, dumpsites or shopping complexes to observe the sanitary and environmental condition in these places",
+                                "While on the visit, ask learners to undertake a simple cleaning exercise",
+                                "Learners can also undertake interviews with some people in those places on cleanliness and environmental care",
+                                "After the field visit, ask learners to explain what they observed in terms of sanitation and environmental care and suggest measures to improve the situation"
+                            ],
+                            "learner_steps": [
+                                "Visit public places",
+                                "Observe sanitary and environmental conditions",
+                                "Participate in cleaning exercise",
+                                "Conduct interviews on cleanliness",
+                                "Discuss observations in groups",
+                                "Suggest improvement measures",
+                                "Present findings to class"
+                            ],
+                            "short_notes": "One of the key functions of the local councils is to ensure environmental care and sanitation. This is mostly done through the following means: Cleaning public surroundings, Tree planting in designated areas, Providing and managing toilets in public places, Providing rubbish bins in public places, Developing and managing dumpsites, Sewer and drainage control, Sweeping of public places, Provision of clean water and sanitation."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.1.6",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Take learners to a nearby organisation involved in environmental care such as the Zambia Environmental Management Agency (ZEMA), Health Centre, the council or any other Civil Society Organisation",
+                                "Facilitate learners to discuss what they learnt during the field trip and make presentations based on the discussions"
+                            ],
+                            "learner_steps": [
+                                "Visit environmental care organization",
+                                "Learn about their activities",
+                                "Ask questions about environmental care",
+                                "Discuss field trip learnings in groups",
+                                "Make presentations to class"
+                            ],
+                            "short_notes": "Taking care of the environment is an important activity which cannot be left to the local authorities alone. Other institutions and organisations can contribute significantly towards environmental care. These may include the following: Zambia Environmental Management Agency (ZEMA), Line Government Ministries, Civil Society (CSOs) involved in environmental Management, None Governmental Organisations (NGOs) committed to environmental care, Schools, Religious bodies, Households and Communities."
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "Local Government",
+                            "definition": "Governance based on localised community at district level"
+                        },
+                        {
+                            "term": "Local Council",
+                            "definition": "The pillar of governance under the local government system where elected officials make decisions from"
+                        },
+                        {
+                            "term": "Native Authority",
+                            "definition": "A system of governance established during colonial rule in which local leaders were recognized and empowered by colonial administrations to manage their communities"
+                        },
+                        {
+                            "term": "Mayor",
+                            "definition": "The Political head of a city or Municipal Council"
+                        },
+                        {
+                            "term": "Councillor",
+                            "definition": "A locally elected representative of the people from at ward level"
+                        },
+                        {
+                            "term": "Decentralisation",
+                            "definition": "Transferring of decision-making powers from the central government to local government"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 17,
+                        "questions": [
+                            "Read the following passage and answer question 1. You have been tasked to review council records relating to council operations from colonial times to the present. Through the review you discover that with passage of time the law governing councils has undergone several reforms. (a) Write an essay on the evolution of councils in Zambia from colonial days to date (b) Analyse the factors which led to local government reforms in Zambia.",
+                            "Draw the structure of the local council",
+                            "Describe the roles you would be playing if you held the following council positions: a. A Mayor b. A Town Clerk c. A Councillor",
+                            "Undertake research to identify local challenges and write a report based on the findings emphasising how the identified challenges can be addressed.",
+                            "Imagine you are elected as a ward councillor, suggest the revenue collection strategies you would employ for local councils.",
+                            "Outline the importance of Local Councils in promoting effective governance",
+                            "Communities face a number of environmental challenges. (a) Identify these challenges around your community and work in groups to address the identified challenges (such as by tree planting and public cleaning activity). (b) Write a report on these challenges suggesting the best practices in addressing various environmental challenges.",
+                            "Design posters carrying different messages on environmental care."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.6.2",
+                    "title": "House of Chiefs",
+                    "page": 22,
+                    "competences": [
+                        "Demonstrate understanding of the role of traditional rulers in the governance of the country"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.2.1",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Take learners to a nearest Chief or Village Headman/woman to learn about traditional leadership and its role in governance",
+                                "After the visit ask learners to discuss what they learnt and make presentations"
+                            ],
+                            "learner_steps": [
+                                "Visit chief or village headman/woman",
+                                "Learn about traditional leadership",
+                                "Ask questions about governance roles",
+                                "Discuss learnings in groups",
+                                "Make presentations to class"
+                            ],
+                            "short_notes": "Traditional leadership has been at the core of Zambia's governance from pre-colonial, colonial and post-colonial eras. In pre-colonial era, traditional leaders were the only known leaders in the Zambian societies. The colonial administration practiced indirect rule by using traditional leadership to govern societies. Currently Zambia has a total of 288 Chiefs who play a significant role in the governance of a nation. They influence and motivate their subjects to achieve common goals and maintain order and harmony in communities. Traditional leaders play various roles in their communities which include: providing spiritual guidance to their subjects, to preside over cultural, judicial and administrative activities in the chiefdoms, To resolve conflict among subjects, To spearhead economic and social development in the community, To provide advice to political and religious leaders in society, They lobby for and spearhead developmental projects for their chiefdoms, They are custodians of traditional leadership, customs and traditional land in their chiefdoms."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.2.2",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Allocate learners positions as members of the House of chief to discuss any issue related to traditional or national leadership",
+                                "Ask learners to arrange desks as in the house of chiefs",
+                                "Facilitate learners to debate an issue as guided by the teacher"
+                            ],
+                            "learner_steps": [
+                                "Take on roles as House of Chiefs members",
+                                "Arrange classroom like House of Chiefs",
+                                "Debate issues related to traditional or national leadership",
+                                "Follow House of Chiefs procedures"
+                            ],
+                            "short_notes": "Article 169 of the Constitution of Zambia provides that there is established a House of Chiefs which shall consist of five chiefs from each province, elected by the chiefs in a Province, as prescribed. According to Article 169 Clause 5 of the Constitution, the functions of the House of Chiefs are to: (a) consider and discuss a Bill relating to custom or tradition referred to it by the President, before the Bill is introduced into the National Assembly; (b) initiate, discuss and make recommendations to the National Assembly regarding socio-economic development in the province; (c) initiate, discuss and decide on matters relating to customary law and practice; (d) initiate, discuss and make recommendations to a local authority regarding the welfare of communities in a local authority; (e) make proposals on areas in customary law that require codification; (f) advise the Government on traditional and customary matters; and (g) perform other functions as prescribed."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.2.3",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Invite a traditional leader to come and make a presentation on the roles of traditional rulers in society",
+                                "Allow learners to ask the guest questions on areas that need clarity",
+                                "Ask learners to prepare a reflective paper based on the presentation made by the guest speaker"
+                            ],
+                            "learner_steps": [
+                                "Listen to traditional leader presentation",
+                                "Ask questions for clarification",
+                                "Take notes on roles of traditional leaders",
+                                "Write reflective paper on presentation"
+                            ],
+                            "short_notes": "Roles of traditional leaders: Preserving traditional customs and values, Resolving disputes and maintaining peace, Advocating for community interests and needs, Mobilise community resources for development projects, Encourage subjects to participate in national affairs, Encourage subjects to take up public office, Promote community cultural identity, Promote moral uprightness and discourage subjects to be involved in corruption, Custodian of traditional land, Conduct traditional ceremonies to strength their cultural heritage."
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "Chief",
+                            "definition": "A traditional ruler in charge of a chiefdom"
+                        },
+                        {
+                            "term": "House of Chiefs",
+                            "definition": "An institution established for selected traditional leaders to meet and deliberate on national legislative matters"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 25,
+                        "questions": [
+                            "Write a proposal to the House of Chiefs for remedy on the customs and traditions that have a negative bearing on the lives of the youths.",
+                            "Imagine you are a traditional leader, suggest measures you would put in place to improve the livelihood of your subjects",
+                            "Undertake research on the influence of traditional leadership on the daily lives of the subjects"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.6.3",
+                    "title": "Central Government in Zambia",
+                    "page": 26,
+                    "competences": [
+                        "Examine Organs of Central Government in Zambia",
+                        "Show understanding of the relationship between Central Government and Local Government"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.3.1",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ask learners to perform a simulation on how to strengthen relationships among themselves",
+                                "Organise learners in groups and ask them to discuss how they can promote stronger relationships with each other as learners, with the teachers and with the community around",
+                                "Each group to make a presentation based on their discussion"
+                            ],
+                            "learner_steps": [
+                                "Perform simulation on strengthening relationships",
+                                "Work in groups to discuss relationship-building",
+                                "Identify ways to strengthen relationships with peers, teachers, and community",
+                                "Make group presentations"
+                            ],
+                            "short_notes": "Creating Strong Relationships in School: Teacher-Learner relationships can be strengthened through: Showing passion, Highlighting the good more than the bad side of individuals, Creating of a safe and supportive environment for learners by showing empathy and understanding. Peer relationships among learners can be strengthened through: Collaborative activities and projects, Promoting inclusivity and respect among learners, Showing empathy and conflict resolution. Community-School Relationship can be strengthened through: Regular communication, Establishment of Parent Teacher Committees (PTCs), Participating in voluntary activities towards the wellbeing of the school, Celebrating school successes for learners and the school."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.3.2",
+                            "page": 27,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Role Play: 'Government in Action': Divide learners into 3 groups representing each organ",
+                                "Assign roles: President/Ministers (Executive), Members of Parliament (Legislature), Judges (Judiciary)",
+                                "Present a simple issue (e.g., a proposed law about school uniforms)",
+                                "Let each group act out their role: Legislature debates and passes the law, Executive carries out and enforces the law, Judiciary interprets the law in a mock court case"
+                            ],
+                            "learner_steps": [
+                                "Participate in role play",
+                                "Take on assigned government roles",
+                                "Act out government processes",
+                                "Debate proposed laws (Legislature)",
+                                "Enforce laws (Executive)",
+                                "Interpret laws in mock cases (Judiciary)"
+                            ],
+                            "short_notes": "The Central Government is the highest level of government in any country. It consists of the three organs of government, The Executive, the Legislature and the Judiciary as illustrated: GOVERNMENT ORGAN - RESPONSIBLE OFFICIALS - RESPONSIBILITY: Executive (Cabinet and Civil Service) - President, Vice President, Cabinet Ministers + civil servants - Administration of the law and public policies (administration); Legislature (Parliament) - Speaker, Deputy Speakers, Members of Parliament - Law making (legislation); Judiciary (Court System) - Chief Justice, Deputy Chief Justice, Judges, Magistrates - Interpretation of the law (adjudication)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.3.3",
+                            "page": 28,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Function sorting Game: Prepare cards with various government activities (e.g., building roads, making laws, protecting the country)",
+                                "Learners work in groups to sort the cards under correct functions: Legislature (make laws), Executive (implement laws), Judiciary (interpret laws)",
+                                "Each group explains why they placed each card under that category"
+                            ],
+                            "learner_steps": [
+                                "Participate in sorting game",
+                                "Work in groups to categorize government activities",
+                                "Sort cards under Legislature, Executive, or Judiciary",
+                                "Explain reasoning for categorization"
+                            ],
+                            "short_notes": "The three organs of the central government play distinct roles. The legislature makes the laws, the judiciary interpret the laws and the executives carries out and enforces the laws. In order to carry out the laws, central government makes use of the civil service through different ministries, departments and agencies. Specifically, central government plays the following functions: Spearheading the provision of Social Services like education and health care, Raising public revenue, Building public infrastructure like roads, bridges, airports, railway etc, Providing national security and defence, Developing various public policies to solve public problems, Creating a conducive environment for development."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.3.4",
+                            "page": 29,
+                            "hook": null,
+                            "teacher_steps": [
+                                "'A Day in the Life' Diary: Ask learners to write a short diary entry describing their day and highlighting services used (school, clinic, clean water, roads, etc.)",
+                                "Then label each service as provided by local or central government, or both",
+                                "Government Tree Poster: In groups, learners create a poster of a tree: Roots = central government, Branches = local government, Leaves = services provided",
+                                "Class presentations: show how each part of the tree depends on the others"
+                            ],
+                            "learner_steps": [
+                                "Write diary entry about daily services used",
+                                "Label services as local, central, or both government",
+                                "Create government tree poster in groups",
+                                "Show relationships between government levels",
+                                "Present posters to class"
+                            ],
+                            "short_notes": "Central government uses a centralised approach to decision making. Local Government employs a decentralised approach. The Central Government consists of the cabinet headed by the President to make the decisions on behalf of the entire nation. In the Local Government, the council, headed by the Mayor/Council Chairperson working with councillors, make decisions at district level. While central government is the higher level of decision making, local government is the lower level but both aim at service delivery to the people. A process of transferring decision-making powers from the central government to the local government is known as decentralisation. This is to ensure quick delivery of services and effective participation of people in governance at local level. Policies such as international relations, national defence and public finance can be handled by central government while such policies like environmental protection, health care, education and housing can be a preserve of the local government."
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "Central Government",
+                            "definition": "Centralised governance system under the control of cabinet"
+                        },
+                        {
+                            "term": "Cabinet",
+                            "definition": "A committee of senior government ministers responsible for controlling government policy under the headship of the President or Prime Minister"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 30,
+                        "questions": [
+                            "Draw the structures of both the central government and local government.",
+                            "Imagine you were elected as a Member of Parliament or appointed as a Minister, what would be your role in either situation.",
+                            "The judiciary plays a significant role in dispensing justice in society. Given a chance to analyse the Zambian judicial system, what areas of improvement would you suggest.",
+                            "Undertake an analysis of newspaper articles relating to the operations of the councils, the legislature, the judiciary and executive.",
+                            "The Constituency Development Fund (CDF) presents the best approach to the relationship between the Central government and Local Government. The central government provides the fund and the local government utilizes the fund on local activities. Based on this: a. Discuss the effectiveness of the Constituency development Fund in communities b. Demonstrate how Members of Parliament and Councilors help in implementing community projects through the Constituency Development Fund c. Identify the challenges experienced by communities in accessing or utilizing the Constituency Development Fund."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.7",
+            "topic_title": "Personal Finance Management",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.7.1",
+                    "title": "Money",
+                    "page": 32,
+                    "competences": [
+                        "Show the importance of money"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.1.1",
+                            "page": 32,
+                            "hook": "Imagine you receive an amount of money as a reward for outstanding performance. You can either spend it all on something fun, save it for something you really want in future or invest it to make more money. What would you do with it, and why?",
+                            "teacher_steps": [
+                                "Field Visit: Take learners to a trading place to observe what goes on between the traders and the buyers",
+                                "Learners can interact with both the traders and buyers asking questions regarding the value of money",
+                                "Facilitate learners to work in groups to discuss what they observed at the trading place",
+                                "Learners to make presentations based on their discussions",
+                                "Pair Work: Arrange learners in pairs to undertake a discussion on why certain goods costs more than others",
+                                "Each pair to make a presentation based on their discussion"
+                            ],
+                            "learner_steps": [
+                                "Participate in field visit to trading place",
+                                "Observe trader-buyer interactions",
+                                "Ask questions about money value",
+                                "Discuss observations in groups",
+                                "Make group presentations",
+                                "Work in pairs to discuss price differences",
+                                "Present pair findings"
+                            ],
+                            "short_notes": "The concept money: Money is anything of value used to buy goods and to pay for services. It is a medium of exchange that is agreed upon or accepted to be used by society. In ancient times people used to exchange one item for another. That was referred to as barter system. For example, people would use salt to exchange with gold. It was later realized that barter system alone could not make trade easy because some article that were used in trade were very heavy and sometimes it was difficult to harmonise the article with the value of something that someone wanted. With the rise in civilization, bank notes and coins were introduced to easy transactions. The value of money is the amount of goods and services it buys or pays for. This means that the price is the value of the commodities and services expressed in monetary form. The general increase in the price of goods and services reduces the purchasing power of money leading to inflation."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.1.2",
+                            "page": 33,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Demonstration: Divide learners into small groups and distribute scenario cards on the characteristics of money namely portability, durability, divisibility, acceptability, scarcity and uniformity",
+                                "Each group to design a chart describing the characteristic of money assigned to it",
+                                "Learners can take time to discuss each of the characteristics of money",
+                                "Role-play activity: In pairs, learners to role play a market transaction, taking turns as buyer and seller",
+                                "They must negotiate prices and transact",
+                                "Discussion on the characteristic of money involved in their transaction",
+                                "Class discussion: reflect on the role of each characteristic in facilitating trade and maintaining a stable economy"
+                            ],
+                            "learner_steps": [
+                                "Work in groups on money characteristics",
+                                "Design charts describing assigned characteristics",
+                                "Discuss characteristics with class",
+                                "Role play market transactions in pairs",
+                                "Negotiate prices",
+                                "Identify characteristics used in transaction",
+                                "Participate in class reflection"
+                            ],
+                            "short_notes": "The following are some of the main characteristics of money: Portability - meaning money should be easy to carry. Durability - meaning that money should last for a long time without being damaged. Divisibility - Meaning that it must be easy to divide money into smaller units. Uniformity - This means that unit of money should be uniform in terms of design. Acceptability - meaning that money must be widely agreed upon and accepted by people as a means of exchange. Scarcity - Money should not be easy to find."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.1.3",
+                            "page": 34,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Set up a classroom as a marketplace where learners act as sellers and buyers",
+                                "Buyers to use their play money to buy items from sellers within the classroom",
+                                "Learners should demonstrate how money performs its functions namely: a medium of exchange, store of value, measure of value, means of deferred payment",
+                                "After the activity, learners to discuss how money helped them with these functions and how it made trade easier"
+                            ],
+                            "learner_steps": [
+                                "Participate in classroom marketplace",
+                                "Act as sellers or buyers",
+                                "Use play money for transactions",
+                                "Demonstrate money functions",
+                                "Discuss how money facilitated trade"
+                            ],
+                            "short_notes": "The functions of money are: Medium of exchange: it enables people to buy one item which they can later sell to get what they want. Store of value: People can convert their wealth into money. Measure of value or unit of account: Money is used as a standard to quantify the value of goods and services. Means of deferred payment: getting commodities and pay later."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.1.4",
+                            "page": 35,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Invite a business person to come and present to the learners how the law of demand and supply influences their business",
+                                "Leaners to ask questions based on the explanation of the guest",
+                                "Class to hold a plenary session to discuss the issues raised by the guest speaker on demand and supply"
+                            ],
+                            "learner_steps": [
+                                "Listen to business person presentation",
+                                "Ask questions about demand and supply",
+                                "Participate in plenary discussion",
+                                "Discuss how demand and supply affects prices"
+                            ],
+                            "short_notes": "Demand is the ability and willingness of people to pay for goods and services. Supply is the availability of goods and services on the market. The law of demand and supply explains the interaction between the two concepts. This law states that the price of the product will go down if the supply increases or the demand for the product is low. On the contrary, the price of the product will go up if the supply decreases or if the demand for the product is high. Sometimes the demand can match the supply. This is called equilibrium point. Here, the price of the goods seems to be fair to both the customers and the sellers. High Demand + Low Supply = High Price; Low Demand + High Supply = Low Price; Moderate Demand + Moderate Supply = Fair Price (equilibrium); High Demand + High Supply = High Price (exception to the law of demand and supply)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.1.5",
+                            "page": 35,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Role-playing money laundering scenarios: divide the learners into small groups and give each group a different scenario card describing a money laundering case",
+                                "Each group will act out the scenario, showing the steps involved in laundering money",
+                                "After each play, have a discussion about how the illegal activity was conducted and how people can detect or prevent it",
+                                "Creating a Money Laundering Prevention Poster: Learners to design posters that outline the dangers of money laundering and conduct a campaign around the school against the vice",
+                                "Display the posters in the classroom or school to raise awareness about the issue"
+                            ],
+                            "learner_steps": [
+                                "Participate in role-playing money laundering scenarios",
+                                "Act out money laundering steps",
+                                "Discuss how to detect and prevent money laundering",
+                                "Design prevention posters",
+                                "Conduct awareness campaign",
+                                "Display posters in school"
+                            ],
+                            "short_notes": "Money Laundering: Money laundering means making money which has been acquired illegally look clean. This is done by passing illegally acquired money through a legitimate business or bank account in order to disguise its illegal origins. Money laundering activities include: Fraud, concealment or deception, theft, counterfeiting, collusion, forgery, false pretence among others. People who practice money laundering are those involved in drug trafficking, bribery, smuggling, terrorism and sell of illegal arms among others. Effects of Money Laundering: Leads to an increase in corruption and crime, Undermines national revenue collection, Damages the integrity of the country, undermines democracy and the rule of law, Affects direct foreign investment."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.1.6",
+                            "page": 36,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Business idea Evaluation Worksheet: Provide each group with worksheets to help them evaluate different business ideas",
+                                "After completing the worksheet, each group to present their evaluation of the business idea",
+                                "SWOT Analysis for Business Ideas: Provide learners with a template that divides a page into four sections: Strengths, Weaknesses, Opportunities and Threats",
+                                "In groups, learners will evaluate several business ideas using the SWOT analysis framework",
+                                "Have each group present their SWOT analysis and discuss which business ideas appear to have the most potential"
+                            ],
+                            "learner_steps": [
+                                "Complete business idea evaluation worksheet in groups",
+                                "Evaluate market demand, costs, competition, profit potential, and risks",
+                                "Present business idea evaluation",
+                                "Conduct SWOT analysis of business ideas",
+                                "Identify strengths, weaknesses, opportunities, threats",
+                                "Present SWOT analysis to class",
+                                "Discuss business idea potential"
+                            ],
+                            "short_notes": "Evaluating business opportunities involves doing a thorough analysis of different factors to establish their potential and check if they match with the goals and resources. How to Evaluate Business Opportunities: Alignment with goals (Ensure the opportunity is in line with your objectives, values and mission), Market demand (Make a survey of the market to determine if there is a genuine demand for the product or service), Competitive landscape (Analyse the competition so that you understand the market's saturation and to see the potential to engage in something different), Target audience (Identify the target audience and their needs and preferences), Market size and growth (Make an estimate of the market size, growth potential and trends), Barriers to entry (Assess the ease or difficulty of entering the market, including regulatory requirements, competition and compliance), Revenue potential (Estimate the potential revenue and profit margins)."
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "Budgeting",
+                            "definition": "Tracking income and expenses to ensure spending is within limits and saving goals are met"
+                        },
+                        {
+                            "term": "Saving",
+                            "definition": "Setting aside a portion of income for emergencies, future needs, or retirement"
+                        },
+                        {
+                            "term": "Investing",
+                            "definition": "Putting money into assets to grow wealth over time"
+                        },
+                        {
+                            "term": "Debt management",
+                            "definition": "Managing loans and other liabilities in a way that avoid excessive debt"
+                        },
+                        {
+                            "term": "Tax planning",
+                            "definition": "Understanding how taxes impact finances and finding ways to minimize tax liabilities"
+                        },
+                        {
+                            "term": "Circulation",
+                            "definition": "Refers to the total amount of monies that are actively being used for transaction in an economy"
+                        },
+                        {
+                            "term": "Recession",
+                            "definition": "Is a period of decline in the Gross Domestic Product (GDP) for two or more consecutive quarters"
+                        },
+                        {
+                            "term": "Crypto currencies",
+                            "definition": "Are digital currencies offering potential for high returns but also high risk"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 38,
+                        "questions": [
+                            "Write a business plan for a business dealing in a commodity which would be on high demand and more profitable.",
+                            "Imagine you are working under the Drug Enforcement Commission (DEC), come up with an action plan on how to prevent money laundering activities.",
+                            "Learners to Research on: a. Factors that affect demand and supply b. How the characteristics of money have influenced the development of different forms of currency from barter system to digital currencies."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.7.2",
+                    "title": "Saving",
+                    "page": 38,
+                    "competences": [
+                        "Practice different ways of Saving"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.2.1",
+                            "page": 39,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Guest Speaker: Invite a guest speaker (business or financial expert) to come and talk to the learners on the significance of saving money",
+                                "Learners to ask questions for clarity",
+                                "Plenary session: class to engage into a discussion based on the guest speaker's talk",
+                                "Alternative: Start with an open discussion where learners can share their thoughts on why people save money",
+                                "Guide them to discuss different reasons, such as: Saving for the future, Avoiding debt, Financial independence and security, Reaching personal goals",
+                                "After the discussion, summarize key points and explain how saving provides financial security and help achieve long-term goals"
+                            ],
+                            "learner_steps": [
+                                "Listen to guest speaker on saving",
+                                "Ask questions about saving",
+                                "Participate in plenary discussion",
+                                "Share thoughts on why people save",
+                                "Discuss reasons for saving",
+                                "Learn about financial security benefits"
+                            ],
+                            "short_notes": "Saving provides individuals, households, businesses and the broader economy with a number of significant benefits. Some of the reasons why saving is significant are that it provides: Financial Security (Saving provides a safety net for unforeseen expenses, emergencies and financial shock. This reduces financial stress and anxiety), Investment or Wealth Creation (By putting aside part of one's income, individuals can accumulate and grow wealth over time for use to achieve long-term financial goals), Independence (Saving give individuals financial independence. That enables them to make choices about their lives, careers and future), Reduced Debt (Saving can help individuals reduce their debt burden by providing a source of funds for debt repayment), Increased Financial Flexibility (Saving provides with financial flexibility to take advantage of new opportunities such investing in education or starting anew business), Improved Financial literacy (It helps individuals develop good financial habits and improve their financial literacy. This can lead to better financial decision-making and a stable financial future)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.2.2",
+                            "page": 40,
+                            "hook": null,
+                            "teacher_steps": [
+                                "In smaller group practice different ways of saving by simulated saving exercises",
+                                "In groups learners to come with different ways of saving money (such as piggy banking, mobile banking, monthly calendar banking, bank account)",
+                                "Each group to make a presentation on the ways of saving the group has come up with"
+                            ],
+                            "learner_steps": [
+                                "Practice saving exercises in groups",
+                                "Identify different saving methods",
+                                "Discuss piggy banking, mobile banking, bank accounts",
+                                "Present saving methods to class"
+                            ],
+                            "short_notes": "The following are ways of saving: Piggy Bank (keeping of money in a tin or box), Village Banking (Saving money in groups and gaining interest), Chilimba (Putting money together and giving it to one person monthly), Mobile Banking (Keeping money through a mobile money systems), Bank Accounts (Keeping money in the bank)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.2.3",
+                            "page": 40,
+                            "hook": null,
+                            "teacher_steps": [
+                                "The 50/30/20 Rule Exercise: Divide learners into groups and allocate them different amounts of money to practice the 50/30/20 rule (50% for needs, 30% for wants, and 20% for savings)",
+                                "Ask learners to allocate their hypothetical income based on this rule",
+                                "Discuss how the 50/30/20 rule can be a useful guideline for managing finances and prioritizing savings"
+                            ],
+                            "learner_steps": [
+                                "Work in groups on 50/30/20 rule exercise",
+                                "Allocate hypothetical income",
+                                "Practice budgeting: 50% needs, 30% wants, 20% savings",
+                                "Discuss budgeting guidelines",
+                                "Present budget allocations"
+                            ],
+                            "short_notes": "The 50/30/20 rule is a budgeting guideline that suggests allocating 50% of income to needs (essentials like rent, food, utilities), 30% to wants (non-essentials like entertainment, dining out), and 20% to savings and debt repayment. This simple framework helps individuals manage their finances effectively and prioritize saving for future goals."
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 41,
+                        "questions": [
+                            "Case study: Chilanga has just been offered a job as a sales officer. He earns k4,500.00 per month. His expenses are as follows: Rent- k1,500, Utilities - K400, Groceries- K1,000, Transport- K500, Student loan repayment – K500, and Credit card debit – K 300. Chilanga wants to buy a house in five years time. He has been advised to save 20% of his monthly income to achieve his goal. Task: 1. As a financial adviser, you have been tasked to help Chilanga to create his savings plan. Using the information provided, a. calculate how much Chilanga can realistically save every month to achieve 20% savings, taking into consideration the net income (after taxes) and monthly expenses. b. Which expenses can Chilanga reduce on to have enough money for savings? c. Identify some potential challenges or risks that Chilanga may face in achieving his saving goals.",
+                            "If you have a plan to buy land in future, what would you do to save money towards your plan. Consider things like how much to save each month and where to put the money",
+                            "Create a campaign that encourage your peers to save money. Your campaign can be in form of a poster, video, or digital presentation about why saving is important and how it can benefit them in the long term."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.7.3",
+                    "title": "Spending",
+                    "page": 41,
+                    "competences": [
+                        "Exhibit Personal Financial Management"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.3.1",
+                            "page": 42,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Classroom economic simulation: Create a classroom economy where students earn 'classroom currency' (Points) for completing assignments, helping others, or exhibiting positive behaviour",
+                                "Learners will have to budget their earnings to buy privileges (like extra recess time or choosing seats for a week)",
+                                "At the end of a term, discuss the lessons learned about money management and decision-making",
+                                "The cost of living: Present a scenario requiring learners to make a personal budget based on a certain amount",
+                                "Show the learners a simple budget Template",
+                                "Investment Decision-making: Divide learners into small groups",
+                                "Present different investment opportunities (e.g., saving in a bank account, mobile money, starting a small business) and their associated risks and rewards",
+                                "Have the groups decide where to 'invest' their money and explain their reasoning",
+                                "Discuss how investing can increase wealth over time and the importance of making informed decisions with money"
+                            ],
+                            "learner_steps": [
+                                "Participate in classroom economy",
+                                "Earn classroom currency",
+                                "Budget earnings for privileges",
+                                "Make spending decisions",
+                                "Create personal budget",
+                                "Work in groups on investment decisions",
+                                "Evaluate investment opportunities",
+                                "Decide where to invest money",
+                                "Explain investment reasoning",
+                                "Discuss lessons learned about money management"
+                            ],
+                            "short_notes": "Personal finance management is about making smart choices with money. Budgeting, saving, investing, and spending responsibly are all part of Personal finance management. Money managing can help avoid problems in the future, such as running out of money or not having enough for important things; and be financially prepared for the future."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.3.2",
+                            "page": 43,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Role-Playing a Financial Decision: Set up role playing scenarios where learners have to make financial decisions (e.g., deciding whether to buy a new phone or save for a future goal, or how to allocate money during a holiday season)",
+                                "Learners to present their decisions to the class and explain why they made certain choices, considering factors such as needs and wants, budget, and long-term goals",
+                                "Follow up with a discussion on the consequences of poor financial decisions and how to make smarter choices",
+                                "Alternative: Invite a Guest Speaker (a local bank representative or financial expert) to talk to the learners about how to manage money"
+                            ],
+                            "learner_steps": [
+                                "Participate in role-playing financial decisions",
+                                "Make spending decisions in scenarios",
+                                "Present decisions to class",
+                                "Explain reasoning for choices",
+                                "Consider needs vs wants",
+                                "Discuss consequences of poor decisions",
+                                "Learn from guest speaker if available"
+                            ],
+                            "short_notes": "Financial management is key when to comes to spending money. It is important to balance between needs and wants. Saving money for future goals or emergencies is just as important as enjoying the present. Creating a budget helps to prioritize spending and saving. Setting goals and saving money helps persons to be financially prepared for the future."
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 43,
+                        "questions": [
+                            "Pupils to write a reflection paper: 'How would practicing good financial management help you in future, when you are older and have bigger responsibilities?'",
+                            "Personal Budget Project: Draw a simple budget based on monthly income. The budget should include categories like needs, wants, and savings.",
+                            "Conduct research to investigate how people in the community practice prudent financial management."
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

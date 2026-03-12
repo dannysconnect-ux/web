@@ -1,0 +1,1446 @@
+{
+  "subject": "Art and Design",
+  "grade": "Form 1",
+  "term": 1,
+  "topics": [
+    {
+      "topic_id": "1.1",
+      "topic_title": "INTRODUCTION TO ART, CRAFTS AND DESIGN",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.1.1",
+          "title": "ART AWARENESS AND APPRECIATION",
+          "page": 3,
+          "competences": [
+            "Critical thinking",
+            "Analytical thinking",
+            "Collaboration",
+            "Communication"
+          ],
+          "specific_competence": "Categorise branches of Art",
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "activity_title": "Defining Art",
+              "page": 4,
+              "method": "Brainstorming",
+              "teacher_steps": [
+                "Encourage learners to define the meaning of art in general by displaying different pictures depicting various art branches (Performing Arts, Visual Arts, Fine Arts and Digital Arts)",
+                "Guide learners to categorize art into performing (like dance and theatre…), literary (poetry, stories…), and visual (paintings, sculptures…) art forms"
+              ],
+              "learner_steps": [
+                "Discuss what art means to them",
+                "Categorize art into performing, literary, and visual art forms",
+                "Create posters or digital collages illustrating each type of art, explaining their definitions"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "activity_title": "Categorizing Branches of Art",
+              "page": 4,
+              "method": "Discussion and field-trip",
+              "teacher_steps": [
+                "Organize a gallery walk or virtual tour where examples of visual art, performing arts (videos of dance performances or theatre excerpts), and digital art (websites, digital illustrations) are exhibited",
+                "In an event of not having gallery facilities in a locality, prepare a selection of artworks, videos or digital images representing different branches of art",
+                "Use multi-media to enhance the learning process"
+              ],
+              "learner_steps": [
+                "Undertake a gallery walk or virtual tour in groups",
+                "Create a mind map or infographic categorizing different branches of art discovered, with examples and brief descriptions for each"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3",
+              "activity_title": "Visiting Different Places Where Art is Found",
+              "page": 5,
+              "method": "Field trip",
+              "teacher_steps": [
+                "Give learners a structured observation guide including: work titles/message interpretation and how the work resonates with the learners' insight",
+                "Co-ordinate with local art institutions or arrange guest speakers/artists, if the field trip is not possible"
+              ],
+              "learner_steps": [
+                "Visit local art galleries, museums, cultural centres or out-door murals (if physical visits are not feasible, take virtual tours of museums e.g google arts and culture sites)",
+                "Document their observations as per tour-study findings",
+                "Prepare a short oral presentation about their favourite piece of art from the visit, discussing why it resonates with them"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 4",
+              "activity_title": "Critiquing Various Artworks",
+              "page": 5,
+              "method": "Critique",
+              "teacher_steps": [
+                "Teach basic art critique methods to learners (how to analyse, interpret, describe, judge …)",
+                "Encourage positive discussion where varied interpretations are given",
+                "Provide learners with different artworks (prints, digital images, or videos) representing various styles and periods",
+                "Guide them through structured critique sessions where art elements are conveyed and interpreted",
+                "Guide learners in the process of identifying and critiquing various artworks"
+              ],
+              "learner_steps": [
+                "Critique identified/readily made artefacts they were exposed to during art gallery reviews",
+                "Write a critique or create a video presentation sharing analysis of one artwork"
+              ]
+            }
+          ],
+          "short_notes": "In this Subtopic, the focus is on art Awareness and Appreciation which covers categories of art which includes, Visual arts such as painting, drawing, sculpture, photography and print making. Learners should be guided to comprehend Applied Arts which focuses on practical skills. Learners should be introduced to various categories and branches of art, so that they develop a deeper understanding and valuing of the arts, enriching their lives and broader cultural experiences. Art awareness and appreciation covers categories of art which includes visual arts (painting, drawing, sculpture, photography and print making) performing arts (music, dance, theater and film) and literary arts (poetry, fiction, drama, and creative writing). The branches of Art include Fine Art, Applied Arts and Decorative Arts by applying appreciation skills such as observation, analysis, evaluation and contextualization. Learners should be exposed to Art movements and styles like Renaissance Art, Modern Art and Contemporary Art.",
+          "vocabulary": [
+            {
+              "term": "Visual Arts",
+              "definition": "crafts, painting, drawing, sculpture, photography"
+            },
+            {
+              "term": "Performing Arts",
+              "definition": "music, dance, theatre"
+            },
+            {
+              "term": "Literary Arts",
+              "definition": "poetry, fiction, drama"
+            },
+            {
+              "term": "Fine Arts",
+              "definition": "Art forms created primarily for aesthetic purposes"
+            },
+            {
+              "term": "Artefacts",
+              "definition": "Objects made by humans, typically of cultural or historical interest"
+            }
+          ],
+          "materials": [
+            "On-line resources such as art station, YouTube",
+            "Ready-made photos/illustrations/pictures",
+            "Visual arts resources such as sketchbooks, paper, paint",
+            "Artifacts",
+            "Sound systems"
+          ],
+          "assessment": {
+            "page": 6,
+            "type": "Practical and oral assessments",
+            "description": "Make an assessment to ensure that learners develop a deeper comprehension and valuing of the arts. Prepare learning tasks during (learning sessions) and after (carry-home tasks) the allocated time for practical and oral assessments based on Branches of Art to determine competences of the learner.",
+            "expected_standard": "Branches of Art categorised accordingly"
+          }
+        },
+        {
+          "subtopic_id": "1.1.2",
+          "title": "CAREERS IN ART AND DESIGN",
+          "page": 7,
+          "competences": [
+            "Critical thinking",
+            "Analytical thinking",
+            "Collaboration",
+            "Communication"
+          ],
+          "specific_competence": "Classify careers in Art",
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "activity_title": "Classifying Careers in Art",
+              "page": 7,
+              "method": "Brainstorming Session and Role-Play",
+              "teacher_steps": [
+                "Invite guest speakers from various art careers to share their insights and experiences",
+                "Engage in online tutorials related to art careers"
+              ],
+              "learner_steps": [
+                "List different careers related to Art and Design and categorize them under various fields (education, fashion, museum work, digital art, fine arts…)",
+                "Dramatize various art careers",
+                "Create an art work to do with an art career of their choice (the learner must exhibit job description, required skills…)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "activity_title": "Gallery Walk and Discussion",
+              "page": 8,
+              "method": "Discussion and Research",
+              "teacher_steps": [
+                "Introduce famous artists from different time periods and styles (Henry Tayali, Cynthia Zukas, Caleb Chisha…)",
+                "Provide different paintings or sculptures and ask learners to analyze styles, techniques, and common themes used by artists",
+                "Provide clues or hints about artists' unique styles to help learners make connections"
+              ],
+              "learner_steps": [
+                "Discuss images of famous artworks and match them to their creators",
+                "Research on different artists and create short biographies and present their findings"
+              ]
+            }
+          ],
+          "short_notes": "In this subtopic, learners shall be introduced to some job opportunities in Art so that they can understand the job descriptions of various areas of Art and Design such as, General Arts, Fine Arts, Crafts and Commercial Art. Under careers in Art and Design, there are a number of job descriptions which include: Art Teachers, Lecturers, Curators, Painters, Drawers, Sculptors, Craftsmen, Potters, Textile artists, Jewellers, Weavers, Sign Writers, Graphic Designers, Furniture Designer, Fashion Designer, Architects, Product Designers, Interior Designers, Illustrators, Cartoonist, Landscape Designers.",
+          "vocabulary": [
+            {
+              "term": "Art Teacher",
+              "definition": "Professional who teaches art in educational institutions"
+            },
+            {
+              "term": "Curator",
+              "definition": "Professional responsible for overseeing and managing artefacts or other items of historical or cultural significance"
+            },
+            {
+              "term": "Graphic Designer",
+              "definition": "Professional who creates visual content using design software"
+            },
+            {
+              "term": "Fabric Designer",
+              "definition": "Professional who designs patterns and textiles"
+            }
+          ],
+          "materials": [
+            "Charts and diagrams on art careers",
+            "Videos/documentaries about professionals in different art fields",
+            "Printed career profiles with job descriptions and educational requirements",
+            "Art and Design textbooks and literature",
+            "Matching Artworks to Specific Artists"
+          ],
+          "assessment": {
+            "page": 8,
+            "type": "Oral and written assessment",
+            "description": "Learners should be tasked to mention/write what is involved in a number of listed art related careers. For example, an art curator: is a professional responsible for overseeing and managing artefacts or other items of historical or cultural significance.",
+            "expected_standard": "Careers in Art classified appropriately"
+          }
+        },
+        {
+          "subtopic_id": "1.1.3",
+          "title": "VISUAL ARTS",
+          "page": 9,
+          "competences": [
+            "Critical thinking",
+            "Analytical thinking",
+            "Collaboration",
+            "Communication"
+          ],
+          "specific_competence": "Identify forms of Visual Arts",
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "activity_title": "Identifying Forms of Visual Arts",
+              "page": 9,
+              "method": "Discussion",
+              "teacher_steps": [
+                "Encourage learners to conduct critical discussions when identifying art forms"
+              ],
+              "learner_steps": [
+                "Identify and classify images of different artworks into Fine Arts (painting, sculpture…), Crafts (pottery, weaving…) and Design (graphic design, fashion...)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "activity_title": "Analyzing Forms of Visual Arts",
+              "page": 9,
+              "method": "Gallery Walk and Discussion, Comparative Analysis",
+              "teacher_steps": [
+                "Set up an exhibition of the different art forms in the classroom",
+                "Arrange the displays into Fine Arts (painting, sculpture…), Crafts (pottery, weaving…) and Design (graphic design, fashion...) categories",
+                "Encourage learners to conduct critical discussions during the sorting and classifying processes"
+              ],
+              "learner_steps": [
+                "Examine different artworks, identifying materials, techniques and purposes of each form",
+                "Analyze their styles, cultural significance and artistic techniques"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3",
+              "activity_title": "Discussing the Functions of Visual Arts",
+              "page": 10,
+              "method": "Community Exploration",
+              "teacher_steps": [
+                "Provide real-life examples of artists who earn a living from their art (fashion designers, painters, sculptors)",
+                "Divide the class into groups to discuss the importance of Visual Arts in economic and cultural development"
+              ],
+              "learner_steps": [
+                "Identify local artists and analyze how their work contributes to society"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 4",
+              "activity_title": "Producing Artworks Using Forms of Visual Arts",
+              "page": 10,
+              "method": "Practical and Creative Workshop",
+              "teacher_steps": [
+                "Use real-world examples to make lessons relatable. Encourage learners to bring in items from home that represent Fine Arts, Crafts, or Design",
+                "Encourage creativity by allowing students to experiment with different materials and techniques",
+                "Use multimedia resources (videos, slides, online galleries) to expose learners to diverse art forms",
+                "Facilitate group discussions to help learners appreciate different perspectives on Visual Arts",
+                "Provide constructive feedback during practical sessions to motivate learners"
+              ],
+              "learner_steps": [
+                "Create simple artworks using different materials (painting, sculpture, textile art)",
+                "Produce crafts (beadwork, clay modeling, or fabric painting…)"
+              ]
+            }
+          ],
+          "short_notes": "In this subtopic, learners shall be exposed to Visual Arts and the different categories (Fine Arts, Crafts, Design). This means communicating by creating art that can be seen. Therefore, Visual Art is a form of visual communication. Visual Arts covers categories of art which includes, Visual arts such as painting, drawing, sculpture, photography and print making. Learners should be guided to comprehend Applied Arts which focuses on practical skills.",
+          "vocabulary": [
+            {
+              "term": "Visual Arts",
+              "definition": "Art forms that create works which are primarily visual in nature"
+            },
+            {
+              "term": "Fine Arts",
+              "definition": "Art forms developed primarily for aesthetics rather than utility"
+            },
+            {
+              "term": "Crafts",
+              "definition": "Activities involving skill in making things by hand"
+            },
+            {
+              "term": "Design",
+              "definition": "The art or action of conceiving and planning the form and structure of something"
+            }
+          ],
+          "materials": [
+            "Printed images of various forms of Visual Arts",
+            "Art materials (paints, clay, fabric, paper, beads) for practical activities",
+            "Videos and documentaries showcasing artists and their work",
+            "Reference books and articles on Visual Arts",
+            "Local artefacts and crafts for analysis and discussion"
+          ],
+          "assessment": {
+            "page": 11,
+            "type": "Practical and oral assessments",
+            "description": "Make an assessment to ensure that the learners correctly identify and analyze the different categories of Visual Arts. Prepare the tasks and allocate time for practical and oral assessments during and after the lesson, based on different forms of Visual Arts.",
+            "expected_standard": "Forms of visual Arts identified correctly"
+          }
+        },
+        {
+          "subtopic_id": "1.1.4",
+          "title": "PIONEERS OF ZAMBIAN VISUAL ARTS",
+          "page": 11,
+          "competences": [
+            "Critical thinking",
+            "Analytical thinking",
+            "Collaboration",
+            "Communication"
+          ],
+          "specific_competence": "Identify pioneers of Zambian Visual Arts",
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "activity_title": "Identifying Pioneers of Zambian Visual Arts",
+              "page": 12,
+              "method": "Research",
+              "teacher_steps": [
+                "Provide learners with images of artworks and short artist descriptions and have them match each artist to their work",
+                "Research work and pre-tasks to be given to learners prior to the lessons"
+              ],
+              "learner_steps": [
+                "Research and create short biographies, highlighting Zambian Visual Art Pioneers (Henry Tayali, Gabriel Ellison, Cynthia Zukas, Akwila Simpasa, Godfrey Setti, Shadreck Simukanga, and Martin Abasi Phiri…)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "activity_title": "Critiquing Works of Pioneer Visual Artists",
+              "page": 12,
+              "method": "Artwork Analysis and Discussion",
+              "teacher_steps": [
+                "Provide context by discussing Zambia's Art History and how Visual Arts have developed over time",
+                "Encourage independent research by assigning artists to learners to investigate",
+                "Use multimedia resources such as videos, online galleries and books to provide visual examples of the artists' works",
+                "Promote critical thinking by guiding learners to analyze how historical and social factors influenced pioneer artists",
+                "Facilitate group discussions to compare different artistic styles and perspectives"
+              ],
+              "learner_steps": [
+                "Provide learners with images or descriptions of famous Zambian artworks and guide them through a structured critique, analyzing elements such as technique, theme, and cultural significance",
+                "Discuss how pioneer artists have influenced contemporary Zambian art",
+                "Prepare and present critiques of selected works, focusing on artistic style, message and historical impact"
+              ]
+            }
+          ],
+          "short_notes": "This subtopic will discuss pioneers of the Zambian Visual Arts. Over the past 30 years there has been an increase in the number of Zambian artists. The term 'Zambian' used in this context, includes any artist working and living in Zambia. Some of the prominent artists in Zambia were trained at Evelyn Hone College which was opened just before independence and through its courses has trained a large number of the artists and designers, others furthered their studies in universities abroad. Some of the pioneering artists include: Henry Tayali, Gabriel Ellison, Cynthia Zukas, Akwila Simpasa, Godfrey Setti, Shadreck Simukanga, Martin Abasi Phiri. Leaners shall explore pioneers of Zambian Visual artists and their works.",
+          "vocabulary": [
+            {
+              "term": "Pioneer",
+              "definition": "A person who is among the first to explore or settle a new area or field of activity"
+            },
+            {
+              "term": "Visual Arts Pioneer",
+              "definition": "An artist who was among the first to develop visual arts in a particular region"
+            }
+          ],
+          "materials": [
+            "Images and prints of artworks by Zambian Visual Arts Pioneers",
+            "Books, articles, and online resources on Zambian Visual Arts Pioneers",
+            "Documentaries and interviews featuring Zambian Visual Arts Pioneers",
+            "Museum or gallery visits (physical or virtual)",
+            "Biographical notes on Henry Tayali, Gabriel Ellison, and other Visual Arts Pioneers",
+            "Readily-made art works",
+            "Various paintings",
+            "Online resources (museum, websites or art databases…)"
+          ],
+          "assessment": {
+            "page": 13,
+            "type": "Practical and oral assessments",
+            "description": "Make an assessment to ensure that the learners identify pioneers of Zambian Visual artists (sculptors, painters, graphic designers, potters…) and their works. Prepare tasks and allocate time for practical and oral assessments based on pioneers of Zambian Visual Artists.",
+            "expected_standard": "Pioneers of Zambian Visual Arts identified appropriately"
+          }
+        },
+        {
+          "subtopic_id": "1.1.5",
+          "title": "ELEMENTS OF ART",
+          "page": 14,
+          "competences": [
+            "Critical thinking",
+            "Analytical thinking",
+            "Collaboration",
+            "Communication"
+          ],
+          "specific_competence": "Apply Art Elements in practical activities",
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "activity_title": "Identifying Art Elements",
+              "page": 14,
+              "method": "Discussion and demonstration",
+              "teacher_steps": [
+                "Guide learners to identify, discuss and analyse Art Elements"
+              ],
+              "learner_steps": [
+                "Identify, discuss and analyse Art Elements (Line, shape, space, value, texture, tone and colour)",
+                "Experiment with Art Elements to express and communicate ideas (Using lines to create contour, gesture drawings and calligraphy writing…)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "activity_title": "Analysing the use of shape, form and space",
+              "page": 14,
+              "method": "Discussion and demonstration",
+              "teacher_steps": [
+                "Demonstrate before practice to help learners understand techniques",
+                "Use different art tools to make learning interactive and engaging",
+                "Start with basics: Introduce primary shapes (square, circle, triangle, rectangle) and explore their properties",
+                "Use real-life examples: Point out shapes in everyday objects, architecture, and nature",
+                "Explore positive and negative space: Discuss the relationship between objects and the space around them"
+              ],
+              "learner_steps": [
+                "Explore using basic geometric shapes to create abstract designs of shape, form and space"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3",
+              "activity_title": "Creating Artworks with the use of shape, form and space",
+              "page": 14,
+              "method": "Demonstration and experimenting",
+              "teacher_steps": [
+                "Demonstrate before practice to help learners understand techniques",
+                "Use different art tools to make learning interactive and engaging"
+              ],
+              "learner_steps": [
+                "Make a mixed media art project by combining shape, form and space in a single artwork"
+              ]
+            }
+          ],
+          "short_notes": "In this topic the learners shall be exposed to the significance of Elements of Art. This results in making of illustrations (fabric, advertisement, packaging, books, stationery...) It is therefore important that, Art elements are known to be parts used to make artwork (line, shape, tone, form colour, texture and pattern...).",
+          "vocabulary": [
+            {
+              "term": "Line",
+              "definition": "A mark made by a moving point"
+            },
+            {
+              "term": "Shape",
+              "definition": "A two-dimensional area with defined boundaries"
+            },
+            {
+              "term": "Form",
+              "definition": "A three-dimensional object with volume"
+            },
+            {
+              "term": "Space",
+              "definition": "The area around, between, and within objects"
+            },
+            {
+              "term": "Texture",
+              "definition": "The surface quality of an object"
+            },
+            {
+              "term": "Tone",
+              "definition": "The lightness or darkness of a color"
+            },
+            {
+              "term": "Colour",
+              "definition": "The visual perception of different wavelengths of light"
+            }
+          ],
+          "materials": [
+            "Ready-made art works",
+            "Online resources such as websites or art databases",
+            "Drawing paper, sketchbooks, coloured pencils, paints, and brushes",
+            "Calligraphy pens or markers"
+          ],
+          "assessment": {
+            "page": 15,
+            "type": "Practical and oral assessments",
+            "description": "Provide constructive feedback: Offer feedback that encourages learners to refine their understanding of elements of Art (Line, shape, space, value, texture, tone and colour). Prepare the tasks and allocate time for practical and oral assessments based on elements of art.",
+            "expected_standard": "Art elements in practical activities applied correctly"
+          }
+        },
+        {
+          "subtopic_id": "1.1.6",
+          "title": "PRINCIPLES OF ART",
+          "page": 15,
+          "competences": [
+            "Critical thinking",
+            "Analytical thinking",
+            "Collaboration",
+            "Communication"
+          ],
+          "specific_competence": "Create an Art work showing prominent use of one or more of the Art principles",
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "activity_title": "Defining Art Principles",
+              "page": 16,
+              "method": "Research",
+              "teacher_steps": [
+                "Guide learners to define the Art Principles (balance, proportion, emphasis, movement, pattern, unity, contrast…) and provide examples of each principle in various artworks"
+              ],
+              "learner_steps": [
+                "Collect readily made images (illustrations, photographs, magazine image cut-outs…)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "activity_title": "Discussing the use of Art Principles as applied in Art works",
+              "page": 16,
+              "method": "Discussion and Demonstration",
+              "teacher_steps": [
+                "Provide examples of artworks that effectively use one or more art principles",
+                "Use visual aids such as diagrams, charts, and examples of artworks to help learners understand and remember the art principles",
+                "Encourage learners to experiment and explore when creating their artworks, as this will help them develop their creativity and problem-solving skills",
+                "Encourage learners to interact and engage critically during the analytical stages"
+              ],
+              "learner_steps": [
+                "Analyze and discuss how artists use Art Principles to create composition and the meaning in their artworks",
+                "Create artworks that demonstrate art principles",
+                "Experiment with different materials and techniques to create unique artworks",
+                "Discuss and display their artworks"
+              ]
+            }
+          ],
+          "short_notes": "This sub-topic will discuss Principles of Art which serve as the foundation for creating visually appealing and effective artworks. By understanding and applying these principles, learners will be able to exhibit their creativity and produce innovative artworks that showcase their unique perspective (balance, proportion, rhythm, harmony and space…)",
+          "vocabulary": [
+            {
+              "term": "Balance",
+              "definition": "The distribution of visual weight in an artwork"
+            },
+            {
+              "term": "Proportion",
+              "definition": "The size relationship of parts to the whole and to each other"
+            },
+            {
+              "term": "Emphasis",
+              "definition": "The focal point or area of greatest interest in an artwork"
+            },
+            {
+              "term": "Movement",
+              "definition": "The path the viewer's eye takes through the artwork"
+            },
+            {
+              "term": "Pattern",
+              "definition": "The repetition of elements in a predictable manner"
+            },
+            {
+              "term": "Unity",
+              "definition": "The feeling that all parts of the artwork belong together"
+            },
+            {
+              "term": "Contrast",
+              "definition": "The difference between elements in an artwork"
+            }
+          ],
+          "materials": [
+            "Art textbooks or online resources that provide examples and explanations of the Art Principles",
+            "Art materials and tools (paints, markers, coloured pencils, paper…) that learners can use to create their artworks"
+          ],
+          "assessment": {
+            "page": 17,
+            "type": "Practical and oral assessments",
+            "description": "You should make an assessment to ensure that the learners adequately apply the art principles in practical activities. Prepare the tasks and allocate time for practical and oral assessments based on art principles.",
+            "expected_standard": "Artwork showing prominent use of one or more of the Art principles created appropriately"
+          }
+        },
+        {
+          "subtopic_id": "1.1.7",
+          "title": "BASIC SHAPES",
+          "page": 17,
+          "competences": [
+            "Critical thinking",
+            "Analytical thinking",
+            "Collaboration",
+            "Communication"
+          ],
+          "specific_competence": "Apply basic shapes in drawing",
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "activity_title": "Identifying Basic Shapes",
+              "page": 18,
+              "method": "Discussion",
+              "teacher_steps": [
+                "Show pictures or objects of the basic shapes to learners and ask them to identify each shape"
+              ],
+              "learner_steps": [
+                "Define and explain the basic shapes (cuboid, pyramid, cone, rectangular box…)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "activity_title": "Applying Basic Shapes in Drawing",
+              "page": 18,
+              "method": "Creative Drawing",
+              "teacher_steps": [
+                "Use real-life objects to demonstrate the basic shapes and make it more relatable for learners",
+                "Encourage learners to experiment with different shapes and combinations to develop their critical thinking and creativity"
+              ],
+              "learner_steps": [
+                "Draw simple objects using basic shapes, such as a house (rectangular box), a tree (cylinder), or a car (cuboid)",
+                "Use basic shapes to create their own creative drawings, such as animal, a robot, or a fantasy creature"
+              ]
+            }
+          ],
+          "short_notes": "This sub-topic will discuss Principles of Art which serve as the foundation for creating visually appealing and effective artworks. By understanding and applying these principles, learners will be able to exhibit their creativity and produce innovative artworks that showcase their unique perspective (balance, proportion, rhythm, harmony and space…). Basic shapes form the foundation of drawing and include cuboid, pyramid, cone, rectangular box, and other geometric forms.",
+          "vocabulary": [
+            {
+              "term": "Cuboid",
+              "definition": "A three-dimensional rectangular shape"
+            },
+            {
+              "term": "Pyramid",
+              "definition": "A three-dimensional shape with a polygonal base and triangular sides meeting at a point"
+            },
+            {
+              "term": "Cone",
+              "definition": "A three-dimensional shape with a circular base tapering to a point"
+            },
+            {
+              "term": "Cylinder",
+              "definition": "A three-dimensional shape with two parallel circular bases"
+            }
+          ],
+          "materials": [
+            "Geometric shape blocks or puzzles to help learners visualize and identify the basic shapes",
+            "Drawing paper and pencils or markers for learners to practice drawing and applying basic shapes"
+          ],
+          "assessment": {
+            "page": 19,
+            "type": "Observation, review of drawings, quizzes",
+            "description": "Observation of learners during drawing activities. Review of learners' drawings for accuracy and creativity. Quizzes or tests to assess learners' understanding of basic shapes.",
+            "expected_standard": "Basic shapes applied in drawings correctly"
+          }
+        },
+        {
+          "subtopic_id": "1.1.8",
+          "title": "TYPES OF SHADING",
+          "page": 19,
+          "competences": [
+            "Critical thinking",
+            "Analytical thinking",
+            "Problem solving",
+            "Collaboration"
+          ],
+          "specific_competence": "Apply various shading techniques",
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "activity_title": "Discussing Various Shading Techniques",
+              "page": 19,
+              "method": "Observation and Discussion, Analysis",
+              "teacher_steps": [
+                "Demonstrate each technique on the board",
+                "Explain that hatching and cross-hatching create texture and contrast",
+                "Explain that pointillism is best for subtle shading effects",
+                "Explain that smudging gives smooth transitions between light and dark areas",
+                "Explain that scribbling can create rough textures"
+              ],
+              "learner_steps": [
+                "Observe and discuss different shading techniques (pointillism, hatching, cross-hatching, smudging, scribbling, smashing)",
+                "Analyze real-life objects or famous drawings to identify shading techniques used by artists"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "activity_title": "Applying Tonal Gradation on Drawings",
+              "page": 20,
+              "method": "Demonstration and Discussion",
+              "teacher_steps": [
+                "Explain that the direction of the light source affects shading",
+                "Explain that darker tones represent shadows, while lighter tones represent highlights",
+                "Explain that gradual transitions make drawings look more realistic"
+              ],
+              "learner_steps": [
+                "Create a simple drawing of a GREY scale from WHITE to BLACK using at least any shading techniques of their choice",
+                "Each learner will explain their choice of shading techniques and the effects achieved"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3",
+              "activity_title": "Applying Various Shading Techniques in a Composition",
+              "page": 20,
+              "method": "Practical",
+              "teacher_steps": [
+                "Apply light source principles to the shading exercises",
+                "Explain that different shading techniques can be combined for texture and contrast",
+                "Explain that smudging can create a smooth transition, while hatching can define sharp edges",
+                "Explain that layering cross-hatching increases depth and darkness"
+              ],
+              "learner_steps": [
+                "Practice tonal gradation by shading a sphere or cube from dark to light using different shading techniques"
+              ]
+            }
+          ],
+          "short_notes": "Shading techniques help artists create realistic drawings by showing the effect of light and shadow. Different techniques allow for different textures and moods in artwork. This subtopic will explore various shading techniques and their application in drawings. Shading enhances realism in drawings by adding depth, light, and shadow. There are different shading techniques: Pointillism (stippling) uses dots for shading, Hatching uses parallel lines, Cross-hatching uses overlapping lines for darker tones, Smudging involves blending for smooth transitions, Scribbling uses freehand scribbles for texture, and Mashing involves pressing and smudging for rough textures. Tonal gradation transitions from dark to light. Effective shading depends on light source and material choice.",
+          "vocabulary": [
+            {
+              "term": "Pointillism",
+              "definition": "A shading technique using dots"
+            },
+            {
+              "term": "Hatching",
+              "definition": "A shading technique using parallel lines"
+            },
+            {
+              "term": "Cross-hatching",
+              "definition": "A shading technique using overlapping lines"
+            },
+            {
+              "term": "Smudging",
+              "definition": "A shading technique involving blending for smooth transitions"
+            },
+            {
+              "term": "Scribbling",
+              "definition": "A shading technique using freehand scribbles"
+            },
+            {
+              "term": "Tonal gradation",
+              "definition": "The transition from dark to light tones"
+            }
+          ],
+          "materials": [
+            "Samples of shaded drawings",
+            "Printed or digital images of artworks with shading",
+            "Graphite pencils, charcoal, and erasers",
+            "Visual aids (posters or slides)",
+            "Objects (cubes, spheres…) for light and shadow observation",
+            "Graphite pencils (HB, 2B, 4B, 6B…)",
+            "Blending tools (tissue paper, blending stumps…)"
+          ],
+          "assessment": {
+            "page": 21,
+            "type": "Observation, Practical Work, Oral Questioning",
+            "description": "Observation: Monitor learners' shading application during practical work. Practical Work: Learners produce a shaded artwork using different techniques. Oral Questioning: Ask learners to explain how and why they used specific shading techniques.",
+            "expected_standard": "Apply various shading techniques appropriately to create tonal variations in drawings"
+          }
+        },
+        {
+          "subtopic_id": "1.1.9",
+          "title": "DIFFERENT TEXTURES",
+          "page": 21,
+          "competences": [
+            "Critical thinking",
+            "Analytical thinking",
+            "Problem solving",
+            "Collaboration"
+          ],
+          "specific_competence": "Compose pictures using a variety of textures and values",
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "activity_title": "Defining Art Elements (Texture and Value)",
+              "page": 22,
+              "method": "Discussion",
+              "teacher_steps": [
+                "Show learners' examples of artworks that demonstrate different textures and values, ask them to identify and describe the textures and values used"
+              ],
+              "learner_steps": [
+                "Define and explain the art elements of texture and value and provide examples of each"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "activity_title": "Identifying Different Textures (Actual and Visual Texture)",
+              "page": 22,
+              "method": "Discussion and Demonstration",
+              "teacher_steps": [
+                "Provide learners with various materials that demonstrate actual texture, such as sandpaper, velvet, ask them to identify and describe the textures",
+                "Use a variety of materials and examples to demonstrate different textures and values",
+                "Encourage learners to experiment and explore further when creating their artworks"
+              ],
+              "learner_steps": [
+                "Identify and describe different visual textures",
+                "Create artworks that demonstrate a variety of textures, values and shading using different materials and techniques",
+                "Experiment with different textures and values to create unique and interesting effects"
+              ]
+            }
+          ],
+          "short_notes": "This subtopic exposes the learners to different textures. Texture can be split into various categories (actual, visual, natural, man-made…). These are just a few examples of many different textures that exist. Texture can add depth, interest and emotion to an artwork. The focus in this study will be on texture and value.",
+          "vocabulary": [
+            {
+              "term": "Texture",
+              "definition": "The surface quality or feel of an object"
+            },
+            {
+              "term": "Actual Texture",
+              "definition": "The physical texture you can feel"
+            },
+            {
+              "term": "Visual Texture",
+              "definition": "The illusion of texture created visually"
+            },
+            {
+              "term": "Value",
+              "definition": "The lightness or darkness of a color or tone"
+            }
+          ],
+          "materials": [
+            "Various materials that demonstrate actual texture, such as sandpaper and velvet",
+            "Art supplies, such as paints, markers, and coloured pencils, for learners to create their textures"
+          ],
+          "assessment": {
+            "page": 23,
+            "type": "Observation and review",
+            "description": "Observation of learners during art-making activities. Review of learners' artworks for texture, value, and shading.",
+            "expected_standard": "Pictures composed using a variety of textures and values appropriately"
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "1.2",
+      "topic_title": "HISTORY OF ZAMBIAN ART",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.2.1",
+          "title": "PRE-HISTORIC ROCK ART OF ZAMBIA",
+          "page": 24,
+          "competences": [
+            "Critical thinking",
+            "Environmental Sustainability"
+          ],
+          "specific_competence": "Analyse the Pre-Historic Rock Art of Zambia",
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "activity_title": "Analysing the Pre-historic rock Art of Zambia",
+              "page": 24,
+              "method": "Discussion",
+              "teacher_steps": [
+                "Prepare interactive activities",
+                "Define Rock art, and its significance",
+                "Display images or videos of different art styles, and techniques",
+                "Describe the materials and techniques used to create Rock-art",
+                "Discuss the cultural significance, spiritual, historical importance of rock art"
+              ],
+              "learner_steps": [
+                "Identify the Pre-historic rock Art sites of Zambia"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "activity_title": "Researching on the pre-historic arts of Zambia",
+              "page": 24,
+              "method": "Field trip",
+              "teacher_steps": [
+                "Guide research on materials and tools, themes, styles on Pre-historic arts of Zambian painting"
+              ],
+              "learner_steps": [
+                "Research on materials and tools, themes, styles on Pre-historic arts of Zambian painting"
+              ]
+            }
+          ],
+          "short_notes": "In this topic, explain to the learners the importance of prehistoric rock art as it will help to promote its preservation and promotion. Zambia is home to a rich collection of pre-historic rock art. The Rock paintings depict a range of themes including human figures, animals and abstract designs. Additionally, it has cultural importance as it provides valuable insights into beliefs, practices and cultural patterns of people who created the paintings. Zambia has a number of other rock art sites, which feature geometric and figurative rock art traditions. These rock art sites are not only important cultural and historical treasures but also provide a unique window into the lives and experiences of Zambia's ancient inhabitants. Pre-Historic Rock Art is referred as to the images, symbols and designs created by ancient humans on rocks, caves, wall and other stone surfaces during the Pre-historic period, which spans from the emergence of early humans to the development of written records.",
+          "vocabulary": [
+            {
+              "term": "Pre-historic period",
+              "definition": "The period before written records"
+            },
+            {
+              "term": "Rock-Art",
+              "definition": "Images, symbols and designs created on rock surfaces"
+            },
+            {
+              "term": "Written records",
+              "definition": "Documents or inscriptions that record information"
+            },
+            {
+              "term": "Ancient",
+              "definition": "Belonging to the very distant past"
+            }
+          ],
+          "materials": [
+            "Online resources such as websites or art databases",
+            "Reference books",
+            "Videos"
+          ],
+          "assessment": {
+            "page": 25,
+            "type": "Practical and oral assessments",
+            "description": "Make an assessment to ensure that the learners analyse Pre-Historic Rock Art of Zambia. Prepare the tasks and allocate time for practical and oral assessments based on local Pre-Historic Rock Art of Zambia.",
+            "expected_standard": "Pre-historic Rock Art of Zambia analysed correctly"
+          }
+        },
+        {
+          "subtopic_id": "1.2.2",
+          "title": "TRADITIONAL CRAFTS",
+          "page": 25,
+          "competences": [
+            "Critical thinking",
+            "Environmental Sustainability",
+            "Collaboration"
+          ],
+          "specific_competence": "Identify traditional crafts",
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "activity_title": "Identifying the traditional crafts",
+              "page": 26,
+              "method": "Project work",
+              "teacher_steps": [
+                "Encourage learners to freely explore and experiment with various working media",
+                "Take safety pre-cautionary measures and observations on social, cultural and environmental norms/accessories/working tools"
+              ],
+              "learner_steps": [
+                "Make various traditional crafts (reed mats, stools, mortar and pestle...)"
+              ]
+            }
+          ],
+          "short_notes": "Zambia has a rich cultural heritage and traditional crafts play a significant role in preserving and showcasing this heritage. Some examples of traditional crafts include: Woodcarvings (Makishi masks, wooden figurines, functional and decorative wooden items), Basketry (woven basket, winnowing baskets and ornamental baskets), Textiles (chitenge, batik, embroidery), Ceramics (hand pottery, wheel thrown pottery), Metal work (blacksmithing), Other crafts (leatherwork, stone carvings, weaving). These traditional crafts not only showcase Zambia's rich cultural heritage but also provides a source of income for many local artisans.",
+          "vocabulary": [
+            {
+              "term": "Traditional Crafts",
+              "definition": "Skills and techniques passed down through generations for creating handmade objects"
+            },
+            {
+              "term": "Woodcarvings",
+              "definition": "The art of shaping wood into decorative or functional objects"
+            },
+            {
+              "term": "Basketry",
+              "definition": "The craft of weaving baskets from natural materials"
+            },
+            {
+              "term": "Makishi masks",
+              "definition": "Traditional ceremonial masks from Zambia"
+            }
+          ],
+          "materials": [
+            "Online resources such as websites or art databases",
+            "Reference books",
+            "Videos"
+          ],
+          "assessment": {
+            "page": 26,
+            "type": "Practical and oral assessments",
+            "description": "Make an assessment to ensure that the learners identified and analysed Pre-Historic Rock Art of Zambia. Prepare the tasks and allocate time during the material collection process and also practical/oral assessments based on Pre-Historic Rock Art of Zambia.",
+            "expected_standard": "Traditional crafts identified accordingly"
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "1.3",
+      "topic_title": "INTRODUCTION TO COLOUR",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.3.1",
+          "title": "TYPES OF COLOURS",
+          "page": 27,
+          "competences": [
+            "Communication",
+            "Critical thinking",
+            "Analytical thinking",
+            "Problem solving",
+            "Collaboration"
+          ],
+          "specific_competence": "Experiment colours of the spectrum",
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "activity_title": "Experiment colours of the spectrum",
+              "page": 28,
+              "method": "Demonstration",
+              "teacher_steps": [
+                "Introduce the concept of the visible spectrum and its colours",
+                "Ask learners to draw and label the colors they observed",
+                "Have them write down their observations and any questions they may have"
+              ],
+              "learner_steps": [
+                "Identify the colours and their order"
+              ]
+            }
+          ],
+          "short_notes": "Colour is what is perceived when waves of light strike the retina of the eye. The colour we see on objects is derived from artificial or natural light. Colour plays a vital role in various real-life situations, influencing our emotions, perceptions, and behaviours. Colour plays a vital role in various aspects of our lives, from marketing and art to safety and therapy. Understanding the importance of colour can help us make informed decisions, communicate more effectively, and appreciate the world around us. Colour is a powerful Element of Art that evokes emotion, conveys meaning and adds depth and interest to creations. In this subtopic, the world of colour relationships will be explored, learning about the colour wheel, primary and secondary colours, warm and cool colours and how to mix and match colours to create harmonious and contrasting effects.",
+          "vocabulary": [
+            {
+              "term": "Colour Harmony",
+              "definition": "The relationship between or among groups of colours"
+            },
+            {
+              "term": "Colour",
+              "definition": "What is perceived when waves of light strike retina of the eye"
+            },
+            {
+              "term": "Hue",
+              "definition": "The name of a colour in its purest form"
+            },
+            {
+              "term": "Shade",
+              "definition": "A colour where black has been added"
+            },
+            {
+              "term": "Tint",
+              "definition": "A colour where white has been added"
+            },
+            {
+              "term": "Pigment",
+              "definition": "Matter that gives colour to materials such as paints, dyes, crayons, or inks"
+            }
+          ],
+          "materials": [
+            "Colour wheel diagrams",
+            "Colour spectrum poster",
+            "Colour theory handouts",
+            "Colour workbooks",
+            "Water colours, crayons…"
+          ],
+          "assessment": {
+            "page": 28,
+            "type": "Practical experimentation",
+            "description": "Make an assessment to ensure that the learners experiment with colours of the spectrum, appropriately. Prepare tasks and allocate time for practical experimenting colours of the spectrum on a colour-wheel.",
+            "expected_standard": "Experimenting colours of the spectrum (primary, secondary and tertiary)"
+          }
+        },
+        {
+          "subtopic_id": "1.3.2",
+          "title": "COLOUR SCHEMES",
+          "page": 28,
+          "competences": [
+            "Communication",
+            "Critical thinking",
+            "Analytical thinking",
+            "Problem solving",
+            "Collaboration"
+          ],
+          "specific_competence": "Use colour schemes in painting exercises",
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "activity_title": "Using colour schemes in the painting exercises",
+              "page": 29,
+              "method": "Practical",
+              "teacher_steps": [
+                "Provide learners with the appropriate colours",
+                "A sample of the colour chart/wheel should be provided"
+              ],
+              "learner_steps": [
+                "Create painted images/illustrations that represents a specific colour scheme and atmosphere"
+              ]
+            }
+          ],
+          "short_notes": "These are combinations of colours used to create some beautiful sceneries. There are several types of colour schemes. When white light passes through a triangular-shaped piece of clear glass called a prism it is separated into the colours of the spectrum. Here are the main types of colour schemes: Monochromatic, Complementary, Analogous, Triadic, Warm and Cool.",
+          "vocabulary": [
+            {
+              "term": "Monochromatic",
+              "definition": "A colour scheme using variations of a single colour"
+            },
+            {
+              "term": "Complementary",
+              "definition": "A colour scheme using colours opposite each other on the colour wheel"
+            },
+            {
+              "term": "Analogous",
+              "definition": "A colour scheme using colours adjacent to each other on the colour wheel"
+            },
+            {
+              "term": "Triadic",
+              "definition": "A colour scheme using three colours equally spaced on the colour wheel"
+            }
+          ],
+          "materials": [
+            "Colour wheel diagrams",
+            "Colour schemes example: visual aids showing different colour schemes",
+            "Colour scheme work sheets",
+            "Colour theory workbooks",
+            "Online colour tutorials"
+          ],
+          "assessment": {
+            "page": 29,
+            "type": "Observation, practical work, class discussions",
+            "description": "Make an assessment to ensure that the learners used colour schemes in a painting activity, appropriately. Prepare tasks and allocate time for practical activities on colour schemes. Observe learners during the activity and assess their participation. Review their paintings. Conduct class discussions to assess learner skill acquisition.",
+            "expected_standard": "Colour schemes used in the painting exercises appropriately"
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "1.4",
+      "topic_title": "STUDIO PRACTICE (DRAWING AND PAINTING)",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.4.1",
+          "title": "TOOLS AND MATERIALS",
+          "page": 30,
+          "competences": [
+            "Critical thinking",
+            "Analytical thinking",
+            "Problem Solving",
+            "Environmental Sustainability",
+            "Collaboration"
+          ],
+          "specific_competence": "Use a variety of tools and materials for drawing and painting",
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "activity_title": "Discussing the use of various tools and materials for drawing",
+              "page": 31,
+              "method": "Discussion",
+              "teacher_steps": [
+                "Engage learners in a discussion on the characteristics and uses of each tool and material"
+              ],
+              "learner_steps": [
+                "Identify various working tools used for drawing (charcoal, chalk, pastels, crayons, pencils, pens…) and materials (paper, ink, walls, floors, fabrics…) through visual presentations and physical samples"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "activity_title": "Experimenting with tools and materials",
+              "page": 31,
+              "method": "Group work",
+              "teacher_steps": [
+                "Divide Learners into groups to try out different tools on various materials",
+                "Explain that different papers absorb ink differently; crayons work best on textured surfaces; walls can be used for murals"
+              ],
+              "learner_steps": [
+                "Try out different tools on various materials",
+                "Each group presents their findings, discussing the effects of different tools on different surfaces"
+              ]
+            }
+          ],
+          "short_notes": "This topic introduces learners to the fundamental tools and materials used in drawing and painting. It explores different tools such as charcoal, chalk, pastels, crayons, pencils and pens, as well as various materials like paper, ink, walls, floors, and fabrics. The importance of selecting and using appropriate tools and materials for artistic expression will be highlighted. Understanding the different tools and materials in art is essential for creating effective drawings and paintings. Each tool and material has unique properties that affect the final artwork. Studio practice in Art and Design refers to the practical activities that artists engage in within their studio environment. It encompasses a wide range of activities such as creating art, experimenting with different materials and techniques, conducting research, and exploring conceptual ideas.",
+          "vocabulary": [
+            {
+              "term": "Tools",
+              "definition": "Implements used to create art (Charcoal, chalk, pastels, crayons, pencils, pens…)"
+            },
+            {
+              "term": "Materials",
+              "definition": "Substances on which art is created (Paper, ink, walls, floors, fabrics)"
+            },
+            {
+              "term": "Medium",
+              "definition": "The substance used in creating artwork"
+            },
+            {
+              "term": "Texture",
+              "definition": "The feel or appearance of a surface"
+            },
+            {
+              "term": "Composition",
+              "definition": "The arrangement of visual elements in an artwork"
+            }
+          ],
+          "materials": [
+            "Samples of tools and materials, pictures, demonstrational videos",
+            "Drawing papers, charcoal, pastels, crayons, pencils, ink, various surfaces, paper, fabric, walls"
+          ],
+          "assessment": {
+            "page": 31,
+            "type": "Observation and practical work",
+            "description": "Observation: Checking how learners handle and use materials. Practical Work: Learners create an artwork using different tools and materials.",
+            "expected_standard": "Variety of tools and materials for drawing used accordingly"
+          }
+        },
+        {
+          "subtopic_id": "1.4.2",
+          "title": "TYPES OF DRAWING AND PAINTING",
+          "page": 32,
+          "competences": [
+            "Critical thinking",
+            "Analytical thinking",
+            "Problem Solving",
+            "Collaboration"
+          ],
+          "specific_competence": "Identify types of drawing and painting",
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "activity_title": "Identifying realistic and abstract drawings",
+              "page": 32,
+              "method": "Peer review and Critique",
+              "teacher_steps": [
+                "Explain that realistic art closely resembles real objects, abstract art distorts reality, and non-objective art does not represent specific objects",
+                "Guide learners through the process of sketching, shading, and colouring",
+                "Encourage experimentation with different media and techniques to explore artistic expression"
+              ],
+              "learner_steps": [
+                "Present examples of realistic, abstract, and non-objective art",
+                "Analyze and categorize images based on their characteristics",
+                "Create their own artworks using one of the three styles"
+              ]
+            }
+          ],
+          "short_notes": "Artists use different types of drawing and painting to express their creativity. The three main types under discussion include realistic, abstract, and non-objective art, each serving a unique purpose in communication and artistic representation.",
+          "vocabulary": [
+            {
+              "term": "Realistic Drawing",
+              "definition": "Art that closely resembles real objects"
+            },
+            {
+              "term": "Abstract Drawing",
+              "definition": "Art that distorts or simplifies reality"
+            },
+            {
+              "term": "Non-Objective Art",
+              "definition": "Art that does not represent specific objects"
+            },
+            {
+              "term": "Shading Techniques",
+              "definition": "Methods used to create depth and dimension"
+            }
+          ],
+          "materials": [
+            "Drawing papers, paints, pencils, brushes, pastels"
+          ],
+          "assessment": {
+            "page": 33,
+            "type": "Practical and oral assessments",
+            "description": "Make an assessment to ensure that the learners used the types of drawing/painting identified and applied correctly. Prepare the tasks and allocate time for practical and oral assessments based on types of drawing and painting.",
+            "expected_standard": "Learners should correctly identify and apply different types of drawing and painting"
+          }
+        },
+        {
+          "subtopic_id": "1.4.3",
+          "title": "FORMS OF DRAWING",
+          "page": 33,
+          "competences": [
+            "Critical thinking",
+            "Analytical thinking",
+            "Problem Solving",
+            "Collaboration"
+          ],
+          "specific_competence": "Demonstrate forms of drawing",
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "activity_title": "Demonstrating forms of drawing",
+              "page": 33,
+              "method": "Discussion and Practical",
+              "teacher_steps": [
+                "Introduce sketches, studies, and complete works through visual examples",
+                "Explain that sketches are quick and rough; studies are more detailed and focused on specific aspects; complete works are finished pieces",
+                "Emphasize the importance of planning in art, how sketches guide studies and how studies inform complete works"
+              ],
+              "learner_steps": [
+                "Observe and discuss the characteristics and purpose of each form",
+                "Practice making sketches of simple objects",
+                "Refine their sketches into detailed studies focusing on shading and texture",
+                "Create a complete drawing using elements from their sketches and studies"
+              ]
+            }
+          ],
+          "short_notes": "Drawing takes various forms, each serving a different purpose. The three main forms are sketches, studies, and complete works, which artists use at different stages of their creative process.",
+          "vocabulary": [
+            {
+              "term": "Sketch",
+              "definition": "A quick, rough drawing"
+            },
+            {
+              "term": "Study",
+              "definition": "A detailed drawing focused on specific aspects"
+            },
+            {
+              "term": "Complete Work",
+              "definition": "A finished artwork"
+            }
+          ],
+          "materials": [
+            "Samples of sketches, studies, and complete works, visual aids, art books",
+            "Drawing papers, pencils, charcoal, erasers, reference images"
+          ],
+          "assessment": {
+            "page": 34,
+            "type": "Practical and oral assessments",
+            "description": "Make an assessment to ensure that the learners used the various Forms of Drawing, appropriately. Prepare the tasks and allocate time for practical and oral assessments based on Forms of Drawing.",
+            "expected_standard": "Forms of drawing demonstrated accordingly"
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "1.5",
+      "topic_title": "GRAPHIC DESIGN",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.5.1",
+          "title": "LETTERING",
+          "page": 35,
+          "competences": [
+            "Critical thinking",
+            "Analytical thinking",
+            "Problem Solving",
+            "Collaboration",
+            "Communication"
+          ],
+          "specific_competence": "Design letters",
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "activity_title": "Identifying and defining letters/related terms",
+              "page": 35,
+              "method": "Discussion",
+              "teacher_steps": [
+                "Teacher to paste standardised names to the written word tags",
+                "In the absence of computers, readily made standardised word tags shall be presented"
+              ],
+              "learner_steps": [
+                "Write their own names in any font (upper case, lower case, cursive, Calligraphy…)",
+                "Present various written names (word tags) and paste them on the wall, board or floor"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "activity_title": "Defining Calligraphy",
+              "page": 35,
+              "method": "Discussion and Peer Review",
+              "teacher_steps": [
+                "Provide readily made teaching aids on various styles of Calligraphy",
+                "Participate in a guided class discussion held to explore how calligraphy is different from other typefaces"
+              ],
+              "learner_steps": [
+                "Define and discuss a variety of Calligraphy styles and comment on the aesthetic appeals"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3",
+              "activity_title": "Functions of lettering",
+              "page": 36,
+              "method": "Fieldtrip (Study tour)",
+              "teacher_steps": [
+                "Arrange a variety of pre-arranged text materials (books, newspapers, posters, journals and other literature…) to appreciate the functions of lettering in case of lack of a library",
+                "Organize a local study tour to a nearby area that has a variety of signage so that learners can be exposed to different typefaces (billboards, sign posts, shop writings…)"
+              ],
+              "learner_steps": [
+                "Visit a library to look at different (books, newspapers, posters, journals…) literature to appreciate the functions of lettering"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 4",
+              "activity_title": "Identifying careers relating to lettering works",
+              "page": 36,
+              "method": "Discussion",
+              "teacher_steps": [
+                "Collect various materials relating to lettering works and engage/expose learners in discussion sessions to match the appropriate careers aligned to the named products (Calligrapher-certificate writing…)"
+              ],
+              "learner_steps": [
+                "Match careers (sign writers, graphics designers, calligrapher, illustrator, Stationary designer…) relating to lettering works (packaging, posters, cards, billboards, magazines, newspapers, certificates…)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 5",
+              "activity_title": "Designing letters",
+              "page": 37,
+              "method": "Practical Project",
+              "teacher_steps": [
+                "Learners shall be exposed to standard lettering from A - Z"
+              ],
+              "learner_steps": [
+                "Design letters aesthetically in lower and upper cases in order to explore/experiment by manipulating the designed standardised lettering (Grid Lettering)"
+              ]
+            }
+          ],
+          "short_notes": "The topic will cover Lettering, Poster making and Computer Aided Design (CAD). Graphic design helps learners develop their creative, technical and critical thinking skills; it also enhances opportunities by preparing them for the creative industry in careers to do with advertising, marketing, publishing and digital media. Lettering involves creation of standard (decorative or expressive) letterforms that can be used in Graphic Designs, Typography and Calligraphy. Most visual commercial communications produced incorporate text (lettering) and images (pictures). Modern trends utilize computers as a design tool to produce fascinating designs for different purposes/presentations.",
+          "vocabulary": [
+            {
+              "term": "Posters",
+              "definition": "Large printed notices for display"
+            },
+            {
+              "term": "Calligraphy",
+              "definition": "Decorative handwriting or lettering"
+            },
+            {
+              "term": "Typography",
+              "definition": "The art of arranging type"
+            },
+            {
+              "term": "Composition",
+              "definition": "The arrangement of elements in a design"
+            },
+            {
+              "term": "Computer Aided Design",
+              "definition": "Design created using computer software"
+            },
+            {
+              "term": "Lower case",
+              "definition": "Small letters"
+            },
+            {
+              "term": "Upper case",
+              "definition": "Capital letters"
+            },
+            {
+              "term": "Letter spacing",
+              "definition": "The space between letters"
+            },
+            {
+              "term": "Word spacing",
+              "definition": "The space between words"
+            },
+            {
+              "term": "Serif",
+              "definition": "A small line attached to the end of a stroke in a letter"
+            }
+          ],
+          "materials": [
+            "Drawing boards",
+            "Plain papers",
+            "Compass",
+            "Eraser",
+            "Calligraphy pens",
+            "Pencils",
+            "Pens",
+            "Rulers"
+          ],
+          "assessment": {
+            "page": 37,
+            "type": "Observation and comprehensive project evaluation",
+            "description": "Observe learners as they practice different lettering techniques, such as hand-lettering, calligraphy, or typography. Evaluate a comprehensive lettering project, such as a poster, brochure or signage design, that demonstrate learners understanding of lettering principles and techniques.",
+            "expected_standard": "Letters designed correctly"
+          }
+        }
+      ]
+    }
+  ]
+}

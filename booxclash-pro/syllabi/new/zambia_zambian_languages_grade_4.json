@@ -1,0 +1,509 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "4",
+    "subject": "Zambian Languages",
+    "philosophy": "The Zambian Languages Upper Primary School Syllabus has been developed to facilitate learning that will promote competences in learners from Grade 4 to 6. It has been designed to equip learners with skills to access, criticise, analyse and practically apply knowledge. It provides content which should allow learners to acquire more advanced competences in listening and speaking, reading fluency, vocabulary use, writing and language structure. It also provides topics and subtopics on customs and traditions because Zambian Languages also carry the culture of the Zambian people. Zambian Languages are vehicles through which most Zambians communicate with each other. Therefore, it is important that learners learn Zambian Languages in order to know how to use the language correctly and appropriately as well to appreciate the technical aspects of the language which cannot be acquired outside formal instruction. Teaching and learning Zambian Languages will enable learners to eventually become experts in translation, interpretation, writing, editing and publishing among others. It will also act as a resource for cultural preservation and increase learners' opportunities for further education. The content is packaged to stimulate learners in thinking reflectively, logically, creatively, and critically so as to promote the formation of positive social behaviour. The activities provided are aimed at engaging learners in linguistic practice thereby fostering proficiency.",
+    "competence_learning": "The syllabus is divided into six (6) components: listening and speaking, reading, vocabulary, comprehension, writing and language structure. Segmenting the syllabus into these components provides a convenient way of organising the syllabus. However, at lesson delivery, the teacher should ensure that necessary components are integrated into one lesson. Each of the six components is further divided into topic, sub-topic, specific competence, learning activities and expected standard. Each subtopic has one or more specific competences which learners are expected to acquire. Similarly, each specific competence has one or more suggested activities which learners should engage in. The expected standard provides a criterion upon which the teacher will base his/her judgement of the learners' performance to that particular activity. Teachers are encouraged to scaffold struggling learners so that they can also meet the expected standard. The 2023 Zambia Education Curriculum Framework has outlined twelve competences that learners should attain at the end of Upper Primary in Zambian Languages.",
+    "goals": [
+      "Nurture effective communication both in speech and writing.",
+      "Develop as individuals and eventually contribute to the wellbeing of society and the nation as a whole.",
+      "Become experts in translation, interpretation, writing, editing and publishing among others.",
+      "Act as a resource for cultural preservation and increase learners' opportunities for further education.",
+      "Promote competences in learners to access, criticise, analyse and practically apply knowledge.",
+      "Equip learners with skills to access, criticise, analyse and practically apply knowledge.",
+      "Acquire more advanced competences in listening and speaking, reading fluency, vocabulary use, writing and language structure.",
+      "Understand and appreciate customs and traditions as Zambian Languages carry the culture of the Zambian people.",
+      "Promote the formation of positive social behaviour.",
+      "Foster linguistic proficiency through engaging learners in linguistic practice."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "4.1.1",
+      "topic_title": "STORIES",
+      "page_number": 5,
+      "subtopics": [
+        "Story Telling"
+      ],
+      "specific_outcomes": [
+        "Narrate fiction and non- fiction stories",
+        "Analyse stories",
+        "Analyse plays"
+      ]
+    },
+    {
+      "unit": "4.1.2",
+      "topic_title": "INFORMATION AND EXPLANATIONS",
+      "page_number": 5,
+      "subtopics": [
+        "Directions"
+      ],
+      "specific_outcomes": [
+        "Ask for and provide information on directions"
+      ]
+    },
+    {
+      "unit": "4.1.3",
+      "topic_title": "EMOTIONS",
+      "page_number": 5,
+      "subtopics": [
+        "Expressing Emotions"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to express different emotions"
+      ]
+    },
+    {
+      "unit": "4.1.4",
+      "topic_title": "DRAMA",
+      "page_number": 6,
+      "subtopics": [
+        "Plays",
+        "Dramatising stories"
+      ],
+      "specific_outcomes": [
+        "Dramatise plays",
+        "Act out stories"
+      ]
+    },
+    {
+      "unit": "4.1.5",
+      "topic_title": "DEBATE",
+      "page_number": 6,
+      "subtopics": [
+        "Formal Discussion (Debate)"
+      ],
+      "specific_outcomes": [
+        "Participate in debate"
+      ]
+    },
+    {
+      "unit": "4.1.6",
+      "topic_title": "ORAL REPORTING",
+      "page_number": 6,
+      "subtopics": [
+        "Witnessed Events"
+      ],
+      "specific_outcomes": [
+        "Give oral reports on witnessed events"
+      ]
+    },
+    {
+      "unit": "4.1.7",
+      "topic_title": "CUSTOMS AND TRADITIONS",
+      "page_number": 6,
+      "subtopics": [
+        "Respect",
+        "Traditional Songs"
+      ],
+      "specific_outcomes": [
+        "Demonstrate understanding of cultural norms and values on respect",
+        "Sing traditional songs"
+      ]
+    },
+    {
+      "unit": "4.1.8",
+      "topic_title": "DESCRIPTION",
+      "page_number": 7,
+      "subtopics": [
+        "Places"
+      ],
+      "specific_outcomes": [
+        "Describe places"
+      ]
+    },
+    {
+      "unit": "4.1.9",
+      "topic_title": "POETRY",
+      "page_number": 7,
+      "subtopics": [
+        "Simple Poems",
+        "Simple Praises"
+      ],
+      "specific_outcomes": [
+        "Recite simple poems",
+        "Recite simple praises"
+      ]
+    },
+    {
+      "unit": "4.2.1",
+      "topic_title": "READING FLUENCY",
+      "page_number": 8,
+      "subtopics": [
+        "Oral Reading"
+      ],
+      "specific_outcomes": [
+        "Read texts with fluency"
+      ]
+    },
+    {
+      "unit": "4.2.2",
+      "topic_title": "REFERENCES",
+      "page_number": 8,
+      "subtopics": [
+        "Books"
+      ],
+      "specific_outcomes": [
+        "Extract information from references"
+      ]
+    },
+    {
+      "unit": "4.3.1",
+      "topic_title": "MEANING",
+      "page_number": 9,
+      "subtopics": [
+        "Word Meaning"
+      ],
+      "specific_outcomes": [
+        "Give meanings of words from a given context"
+      ]
+    },
+    {
+      "unit": "4.3.2",
+      "topic_title": "WORD RELATIONSHIPS",
+      "page_number": 9,
+      "subtopics": [
+        "Synonyms",
+        "Antonyms",
+        "Homonyms and Homographs"
+      ],
+      "specific_outcomes": [
+        "Use synonyms",
+        "Use antonyms",
+        "Use homographs and homonyms"
+      ]
+    },
+    {
+      "unit": "4.3.3",
+      "topic_title": "NUMBERS",
+      "page_number": 0,
+      "subtopics": [
+        "Cardinal Numbers"
+      ],
+      "specific_outcomes": [
+        "Count in a Zambian Language"
+      ]
+    },
+    {
+      "unit": "4.3.4",
+      "topic_title": "CALENDAR",
+      "page_number": 10,
+      "subtopics": [
+        "Days of the Week"
+      ],
+      "specific_outcomes": [
+        "Name days of the week"
+      ]
+    },
+    {
+      "unit": "4.3.5",
+      "topic_title": "COLOURS",
+      "page_number": 10,
+      "subtopics": [
+        "Colour Identification"
+      ],
+      "specific_outcomes": [
+        "Identify colours in a Zambian Language"
+      ]
+    },
+    {
+      "unit": "4.4.1",
+      "topic_title": "LISTENING COMPREHENSION",
+      "page_number": 11,
+      "subtopics": [
+        "Oral Comprehension"
+      ],
+      "specific_outcomes": [
+        "Listen to information read out or told aloud"
+      ]
+    },
+    {
+      "unit": "4.4.2",
+      "topic_title": "READING COMPREHENSION",
+      "page_number": 11,
+      "subtopics": [
+        "Intensive Reading",
+        "Extensive Reading"
+      ],
+      "specific_outcomes": [
+        "Read texts with understanding",
+        "Read different types of materials for different purposes"
+      ]
+    },
+    {
+      "unit": "4.5.1",
+      "topic_title": "HANDWRITING",
+      "page_number": 12,
+      "subtopics": [
+        "Cursive Writing"
+      ],
+      "specific_outcomes": [
+        "Write in cursive form"
+      ]
+    },
+    {
+      "unit": "4.5.2",
+      "topic_title": "SPELLING",
+      "page_number": 12,
+      "subtopics": [
+        "Words"
+      ],
+      "specific_outcomes": [
+        "Spell words"
+      ]
+    },
+    {
+      "unit": "4.5.3",
+      "topic_title": "SEQUENCE",
+      "page_number": 12,
+      "subtopics": [
+        "Paragraph"
+      ],
+      "specific_outcomes": [
+        "Arrange sentences in logical order to form a paragraph"
+      ]
+    },
+    {
+      "unit": "4.5.4",
+      "topic_title": "COMPOSITION",
+      "page_number": 12,
+      "subtopics": [
+        "Narrative Writing",
+        "Descriptive writing (Place)",
+        "Report Writing",
+        "Letter writing"
+      ],
+      "specific_outcomes": [
+        "Write narrative compositions",
+        "Write descriptive compositions",
+        "Write simple reports",
+        "Write informal letters"
+      ]
+    },
+    {
+      "unit": "4.5.5",
+      "topic_title": "SUMMARY",
+      "page_number": 13,
+      "subtopics": [
+        "Note Summary"
+      ],
+      "specific_outcomes": [
+        "Summarise given texts"
+      ]
+    },
+    {
+      "unit": "4.5.6",
+      "topic_title": "FUNCTIONAL WRITING",
+      "page_number": 13,
+      "subtopics": [
+        "Notices and Advertisement"
+      ],
+      "specific_outcomes": [
+        "Write simple notices and advertisements"
+      ]
+    },
+    {
+      "unit": "4.5.7",
+      "topic_title": "DICTATION",
+      "page_number": 13,
+      "subtopics": [
+        "Words and Sentences"
+      ],
+      "specific_outcomes": [
+        "Write dictated words and sentences"
+      ]
+    },
+    {
+      "unit": "4.5.8",
+      "topic_title": "TRANSLATION",
+      "page_number": 13,
+      "subtopics": [
+        "Words and Sentences"
+      ],
+      "specific_outcomes": [
+        "Translate words and sentences from English into a Zambian Language"
+      ]
+    },
+    {
+      "unit": "4.5.9",
+      "topic_title": "DOCUMENTS",
+      "page_number": 13,
+      "subtopics": [
+        "Biographic data and tables"
+      ],
+      "specific_outcomes": [
+        "Fill in documents"
+      ]
+    },
+    {
+      "unit": "4.6.1",
+      "topic_title": "TENSES",
+      "page_number": 14,
+      "subtopics": [
+        "Present, Past and Future"
+      ],
+      "specific_outcomes": [
+        "Change sentences from one tense to another"
+      ]
+    },
+    {
+      "unit": "4.6.2",
+      "topic_title": "PUNCTUATION",
+      "page_number": 14,
+      "subtopics": [
+        "Punctuation Marks"
+      ],
+      "specific_outcomes": [
+        "Use punctuation marks"
+      ]
+    },
+    {
+      "unit": "4.6.3",
+      "topic_title": "DIRECT AND INDIRECT SPEECH",
+      "page_number": 14,
+      "subtopics": [
+        "Direct Speech",
+        "Indirect Speech"
+      ],
+      "specific_outcomes": [
+        "Construct sentences in direct speech",
+        "Construct sentences in indirect speech"
+      ]
+    },
+    {
+      "unit": "4.6.4",
+      "topic_title": "LOCATIVES",
+      "page_number": 14,
+      "subtopics": [
+        "Use of Locatives"
+      ],
+      "specific_outcomes": [
+        "Write locatives in sentences"
+      ]
+    },
+    {
+      "unit": "4.6.5",
+      "topic_title": "NOUNS",
+      "page_number": 15,
+      "subtopics": [
+        "Countable and Uncountable Nouns"
+      ],
+      "specific_outcomes": [
+        "Construct sentences using Countable and Uncountable Nouns"
+      ]
+    },
+    {
+      "unit": "4.6.6",
+      "topic_title": "CONCORD",
+      "page_number": 15,
+      "subtopics": [
+        "Subject-Verb Concord"
+      ],
+      "specific_outcomes": [
+        "Use subject-verb concord"
+      ]
+    },
+    {
+      "unit": "4.6.7",
+      "topic_title": "VOWELS",
+      "page_number": 15,
+      "subtopics": [
+        "Short and Long Vowels"
+      ],
+      "specific_outcomes": [
+        "Distinguish meaning of words by vowel length"
+      ]
+    },
+    {
+      "unit": "4.6.8",
+      "topic_title": "CONJUNCTIONS",
+      "page_number": 15,
+      "subtopics": [
+        "Use of Conjunctions"
+      ],
+      "specific_outcomes": [
+        "Use conjunctions in sentences"
+      ]
+    },
+    {
+      "unit": "4.6.9",
+      "topic_title": "ADVERBS",
+      "page_number": 16,
+      "subtopics": [
+        "Adverbs of Place",
+        "Adverbs of Time"
+      ],
+      "specific_outcomes": [
+        "Identify and use adverbs of place",
+        "Identify and use adverbs of time"
+      ]
+    },
+    {
+      "unit": "4.6.10",
+      "topic_title": "PRONOUNS",
+      "page_number": 16,
+      "subtopics": [
+        "Demonstrative Pronouns"
+      ],
+      "specific_outcomes": [
+        "Use demonstrative pronouns"
+      ]
+    },
+    {
+      "unit": "4.6.11",
+      "topic_title": "VERBS",
+      "page_number": 16,
+      "subtopics": [
+        "Verb Identification"
+      ],
+      "specific_outcomes": [
+        "Use verbs"
+      ]
+    },
+    {
+      "unit": "4.6.12",
+      "topic_title": "FIGURES OF SPEECH",
+      "page_number": 16,
+      "subtopics": [
+        "Simile and Metaphor"
+      ],
+      "specific_outcomes": [
+        "Use figures of speech"
+      ]
+    },
+    {
+      "unit": "4.6.13",
+      "topic_title": "PROVERBS",
+      "page_number": 17,
+      "subtopics": [
+        "Proverb Interpretation"
+      ],
+      "specific_outcomes": [
+        "Interpret simple proverbs"
+      ]
+    },
+    {
+      "unit": "4.6.14",
+      "topic_title": "IDIOMS",
+      "page_number": 17,
+      "subtopics": [
+        "Idioms Interpretation"
+      ],
+      "specific_outcomes": [
+        "Interpret simple idioms"
+      ]
+    },
+    {
+      "unit": "4.6.15",
+      "topic_title": "IDEOPHONES",
+      "page_number": 17,
+      "subtopics": [
+        "Identification of Ideophones"
+      ],
+      "specific_outcomes": [
+        "Identify ideophones"
+      ]
+    }
+  ]
+}

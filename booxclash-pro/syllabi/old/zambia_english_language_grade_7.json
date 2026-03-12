@@ -1,0 +1,415 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "7",
+    "subject": "English Language"
+  },
+  "topics": [
+    {
+      "unit": "Structure",
+      "topic_title": "Homographs",
+      "page_number": 45,
+      "subtopics": [
+        "Recognise and use words that are spelt the same but with different meanings"
+      ],
+      "learning_outcomes": [
+        "Understand homographs e.g. Cover a book/cover a distance, beat someone/beat of sound, mean/stingy, mean/imply",
+        "Apply knowledge of homographs",
+        "Develop knowledge and awareness of homographs"
+      ]
+    },
+    {
+      "unit": "Structure",
+      "topic_title": "Synonyms and antonyms",
+      "page_number": 45,
+      "subtopics": [
+        "Write synonyms and antonyms of words"
+      ],
+      "learning_outcomes": [
+        "Know synonyms (huge/enormous)",
+        "Know antonyms (Cheap/expensive)",
+        "Apply knowledge of synonyms and antonyms",
+        "Develop knowledge and awareness of synonyms and antonyms"
+      ]
+    },
+    {
+      "unit": "Structure",
+      "topic_title": "Conjunctions",
+      "page_number": 45,
+      "subtopics": [
+        "Use correct conjunctions to connect parts of a sentence"
+      ],
+      "learning_outcomes": [
+        "Know conjunctions e.g. since, also, but, and",
+        "Apply knowledge of conjunctions",
+        "Develop knowledge and awareness of conjunctions"
+      ]
+    },
+    {
+      "unit": "Structure",
+      "topic_title": "Active and Passive Voice",
+      "page_number": 45,
+      "subtopics": [
+        "Recognise and change Active to passive voice"
+      ],
+      "learning_outcomes": [
+        "Understand active voice e.g. The boy swept the house.",
+        "Understand passive voice e.g. The house was swept by the boy.",
+        "Apply knowledge of active and passive voice",
+        "Develop knowledge and awareness of active and passive voice"
+      ]
+    },
+    {
+      "unit": "Listening and speaking",
+      "topic_title": "Drama",
+      "page_number": 46,
+      "subtopics": [
+        "Act in plays"
+      ],
+      "learning_outcomes": [
+        "Understand acting: Voice projection, stress, articulation",
+        "Apply knowledge of drama",
+        "Develop knowledge and awareness of drama"
+      ]
+    },
+    {
+      "unit": "Listening and speaking",
+      "topic_title": "Messages",
+      "page_number": 46,
+      "subtopics": [
+        "Compose simple message"
+      ],
+      "learning_outcomes": [
+        "Know how to compose a simple message e.g. Kindly tell the teacher that I am not able to come to school because I am sick.",
+        "Apply knowledge of message composition",
+        "Develop knowledge and awareness of message composition"
+      ]
+    },
+    {
+      "unit": "Listening and speaking",
+      "topic_title": "Figures of speech",
+      "page_number": 46,
+      "subtopics": [
+        "Explain riddles, proverbs and idioms",
+        "Use riddles, proverbs and idioms in speech"
+      ],
+      "learning_outcomes": [
+        "Know riddles e.g. I walk on four in the morning, two at midday and three in the evening. What am I?",
+        "Know proverbs e.g. Blood is thicker than water",
+        "Know idioms e.g. Pull up your socks",
+        "Apply knowledge of figures of speech",
+        "Develop knowledge and awareness of figures of speech"
+      ]
+    },
+    {
+      "unit": "Listening and speaking",
+      "topic_title": "Conversation",
+      "page_number": 47,
+      "subtopics": [
+        "Identify and discuss the customs of a particular people"
+      ],
+      "learning_outcomes": [
+        "Know customs e.g. Kuomboka, umutomboko, ukusefya pa Ng'wena",
+        "Use speech indicators such as; First, then, thereafter, finally etc",
+        "Apply knowledge of conversation and customs",
+        "Develop knowledge and awareness of conversation and customs"
+      ]
+    },
+    {
+      "unit": "Listening and speaking",
+      "topic_title": "Debate",
+      "page_number": 47,
+      "subtopics": [
+        "Debate issues of national importance"
+      ],
+      "learning_outcomes": [
+        "Understand debate formalities: Proposing, opposing, raising points of order, opinions, facts, interjections",
+        "Apply knowledge of debate",
+        "Develop knowledge and awareness of debate"
+      ]
+    },
+    {
+      "unit": "Listening and speaking",
+      "topic_title": "Language use in a social setting",
+      "page_number": 47,
+      "subtopics": [
+        "Express personal opinions by stating preferences and intentions"
+      ],
+      "learning_outcomes": [
+        "Understand how to express personal opinions e.g. I like, I prefer, I would like",
+        "Apply knowledge of language use in social settings",
+        "Develop knowledge and awareness of language use in social settings"
+      ]
+    },
+    {
+      "unit": "Listening and speaking",
+      "topic_title": "Polite requests",
+      "page_number": 47,
+      "subtopics": [
+        "Influence other people through polite requests and persuasion"
+      ],
+      "learning_outcomes": [
+        "Understand how to make polite requests e.g. Could we vote for Mushaukwa? Please let me use your bicycle? May I go to the bathroom.",
+        "Apply knowledge of polite requests and persuasion",
+        "Develop knowledge and awareness of polite requests and persuasion"
+      ]
+    },
+    {
+      "unit": "Listening and speaking",
+      "topic_title": "Stories",
+      "page_number": 47,
+      "subtopics": [
+        "Narrate stories about legends and myths"
+      ],
+      "learning_outcomes": [
+        "Know stories of heroes, heroines and myths",
+        "Understand logical arrangement of events, fluency in narration",
+        "Apply knowledge of story narration",
+        "Develop knowledge and awareness of story narration"
+      ]
+    },
+    {
+      "unit": "Reading",
+      "topic_title": "Intensive reading",
+      "page_number": 48,
+      "subtopics": [
+        "Read different types of text with understanding and do follow up activities"
+      ],
+      "learning_outcomes": [
+        "Understand reading and comprehension: Working out meanings of unfamiliar words and phrases",
+        "Understand following sequence of events, retelling detail of texts, recognizing main prepositions, answering facts and inference questions",
+        "Apply knowledge of intensive reading",
+        "Develop knowledge and awareness of intensive reading"
+      ]
+    },
+    {
+      "unit": "Reading",
+      "topic_title": "Reading aloud",
+      "page_number": 48,
+      "subtopics": [
+        "Read lively and expressively with understanding"
+      ],
+      "learning_outcomes": [
+        "Read expressively (i.e. intonation, stress, punctuation marks)",
+        "Apply knowledge of reading aloud",
+        "Develop knowledge and awareness of reading aloud"
+      ]
+    },
+    {
+      "unit": "Reading",
+      "topic_title": "Using References",
+      "page_number": 48,
+      "subtopics": [
+        "Use reference and textbooks effectively"
+      ],
+      "learning_outcomes": [
+        "Use of reference materials e.g. index, table of content, glossary, dictionary",
+        "Apply knowledge of using references",
+        "Develop knowledge and awareness of using references"
+      ]
+    },
+    {
+      "unit": "Reading",
+      "topic_title": "Extensive reading",
+      "page_number": 48,
+      "subtopics": [
+        "Read a variety of materials including those from other subject areas"
+      ],
+      "learning_outcomes": [
+        "Understand silent reading, fast reading but with understanding, inferring information",
+        "Apply knowledge of extensive reading",
+        "Develop knowledge and awareness of extensive reading"
+      ]
+    },
+    {
+      "unit": "Reading",
+      "topic_title": "Interpreting information in Print Resources",
+      "page_number": 49,
+      "subtopics": [
+        "Read and interpret information in charts and graphs"
+      ],
+      "learning_outcomes": [
+        "Understand directly or indirectly stated information",
+        "Interpret Maps, tables, Charts and graphs",
+        "Apply knowledge of interpreting information in print resources",
+        "Develop knowledge and awareness of interpreting information in print resources"
+      ]
+    },
+    {
+      "unit": "Writing",
+      "topic_title": "Letters",
+      "page_number": 49,
+      "subtopics": [
+        "Write formal letters"
+      ],
+      "learning_outcomes": [
+        "Know features of letters e.g. address(es),date,, salutation, reference, introduction, main body, conclusion, farewell or valediction",
+        "Apply knowledge of formal letter writing",
+        "Develop knowledge and awareness of formal letter writing"
+      ]
+    },
+    {
+      "unit": "Writing",
+      "topic_title": "Guided Essays",
+      "page_number": 49,
+      "subtopics": [
+        "Write essays on given topics"
+      ],
+      "learning_outcomes": [
+        "Understand essay layout e.g. title, introduction, body, paragraphing, and conclusion",
+        "Apply knowledge of guided essay writing",
+        "Develop knowledge and awareness of guided essay writing"
+      ]
+    },
+    {
+      "unit": "Writing",
+      "topic_title": "Notices and adverts",
+      "page_number": 49,
+      "subtopics": [
+        "Write notices and advertisements"
+      ],
+      "learning_outcomes": [
+        "Understand persuasive and catchy language (e.g. mouth watering Scones on sale at 50 Ngwee)",
+        "Apply knowledge of writing notices and adverts",
+        "Develop knowledge and awareness of notices and adverts"
+      ]
+    },
+    {
+      "unit": "Writing",
+      "topic_title": "Composing texts from print resources",
+      "page_number": 49,
+      "subtopics": [
+        "Compose texts using information presented in print resources"
+      ],
+      "learning_outcomes": [
+        "Know features of a report (The five WHs – what, where, when, who, why)",
+        "Interpret charts, maps, graphs, tables",
+        "Apply knowledge of composing texts from print resources",
+        "Develop knowledge and awareness of composing texts from print resources"
+      ]
+    },
+    {
+      "unit": "Writing",
+      "topic_title": "Summary",
+      "page_number": 50,
+      "subtopics": [
+        "Summarise stories"
+      ],
+      "learning_outcomes": [
+        "Identify content and functional words, the main points of a story",
+        "Apply knowledge of summarization",
+        "Develop knowledge and awareness of summarization"
+      ]
+    },
+    {
+      "unit": "Writing",
+      "topic_title": "Dictation",
+      "page_number": 50,
+      "subtopics": [
+        "Write from dictation"
+      ],
+      "learning_outcomes": [
+        "Understand correct spelling and punctuation in dictation",
+        "Apply knowledge of dictation",
+        "Develop knowledge and awareness of dictation"
+      ]
+    },
+    {
+      "unit": "Structure",
+      "topic_title": "Nouns",
+      "page_number": 50,
+      "subtopics": [
+        "Identify and use different types of nouns"
+      ],
+      "learning_outcomes": [
+        "Know regular nouns (e.g. Boy, girl)",
+        "Know irregular nouns (e.g. Man, sheep)",
+        "Know countable nouns (e.g. stone, book)",
+        "Know uncountable nouns (e.g. salt, water)",
+        "Know proper nouns (e.g. Peter, Jane)",
+        "Apply knowledge of nouns",
+        "Develop knowledge and awareness of nouns"
+      ]
+    },
+    {
+      "unit": "Structure",
+      "topic_title": "Adjectives",
+      "page_number": 50,
+      "subtopics": [
+        "Identify and use adjectives to compare more than two objects"
+      ],
+      "learning_outcomes": [
+        "Know superlatives – biggest, tallest, heaviest, most intelligent, most handsome",
+        "Apply knowledge of adjectives",
+        "Develop knowledge and awareness of adjectives"
+      ]
+    },
+    {
+      "unit": "Structure",
+      "topic_title": "Adverbs",
+      "page_number": 50,
+      "subtopics": [
+        "Use adverbs to qualify verbs in sentences"
+      ],
+      "learning_outcomes": [
+        "Understand adverbs qualifying verbs e.g. The teacher walked into class quietly. You must finish writing quickly. She ate the scone slowly.",
+        "Apply knowledge of adverbs",
+        "Develop knowledge and awareness of adverbs"
+      ]
+    },
+    {
+      "unit": "Structure",
+      "topic_title": "Active and passive voice",
+      "page_number": 50,
+      "subtopics": [
+        "Use the active and passive voice"
+      ],
+      "learning_outcomes": [
+        "Understand active voice (E.g.: The dog bit Mary).",
+        "Understand passive voice (e.g. Mary was bitten by the dog).",
+        "Apply knowledge of active and passive voice",
+        "Develop knowledge and awareness of active and passive voice"
+      ]
+    },
+    {
+      "unit": "Structure",
+      "topic_title": "Punctuation",
+      "page_number": 51,
+      "subtopics": [
+        "Punctuate different texts"
+      ],
+      "learning_outcomes": [
+        "Know punctuation marks e.g. capital letter, comma, full stop, exclamation mark, colon, semicolon, question mark, speech marks",
+        "Apply knowledge of punctuation",
+        "Develop knowledge and awareness of punctuation"
+      ]
+    },
+    {
+      "unit": "Structure",
+      "topic_title": "Direct and indirect speech",
+      "page_number": 51,
+      "subtopics": [
+        "Use direct and indirect speech"
+      ],
+      "learning_outcomes": [
+        "Understand direct speech (e.g.: John said, \"I will come.\")",
+        "Understand indirect speech (Eg: John said that he would go)",
+        "Apply knowledge of direct and indirect speech",
+        "Develop knowledge and awareness of direct and indirect speech"
+      ]
+    },
+    {
+      "unit": "Structure",
+      "topic_title": "Conjunctions",
+      "page_number": 51,
+      "subtopics": [
+        "Connect sentences using conjunctions"
+      ],
+      "learning_outcomes": [
+        "Know conjunctions e.g. Therefore, Because of, As a result, since...., either...or..., neither... nor.., too...to...., so.... that....",
+        "Apply knowledge of conjunctions",
+        "Develop knowledge and awareness of conjunctions"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "Primary_SBA_Comprehensive_Guidelines": {
+    "Global_Rules": {
+      "Standard_Yearly_Weighting": "10% for Grade 5 + 10% for Grade 6 + 10% for Grade 7 = 30% Total SBA",
+      "Conversion_Formula": "(Obtained Raw Mark / Maximum Possible Raw Mark) * 10",
+      "Rounding_Rule": "All calculated decimal marks must be rounded to the nearest whole number (e.g., 7.5 -> 8, 7.4 -> 7)",
+      "Special_2020_Transition_Formulas": {
+        "2020_G7_Candidates": "(Learner_G7_SBA_Term_1_and_2 / Total_Max) * 30",
+        "2021_G7_Candidates": "((G6_2020_Marks / Total) * 15) + ((G7_2021_Marks / Total) * 15)"
+      }
+    },
+    "Subjects": {
+      "English_Language": {
+        "Final_ECZ_Entry": "Rounded_G5_Mark + Rounded_G6_Mark + Rounded_G7_Mark",
+        "Grade_5": {
+          "Grading_Rules": {
+            "Term_1_2_3_Max_Raw": 60,
+            "Total_Annual_Max_Raw": 180,
+            "Calculation": "(Total_Marks_Obtained / 180) * 10"
+          },
+          "Syllabus_Outcomes": {
+            "listening_and_speaking": { "knowledge": ["5.1.2.1"], "comprehension": ["5.1.8.1", "5.1.10.1", "5.1.11.2"], "synthesis": ["5.1.6.1"] },
+            "reading": { "application": ["5.2.2.1"], "analysis": ["5.2.1.1", "5.2.1.2"] },
+            "writing": { "knowledge": ["5.4.12.1"], "application": ["5.4.1.1", "5.4.2.1", "5.4.3.1", "5.4.4.1", "5.4.5.1", "5.4.6.1", "5.4.7.1", "5.4.8.1", "5.4.9.1", "5.4.10.1", "5.4.11.1"], "analysis": ["5.3.6.1"], "synthesis": ["5.3.2.1", "5.3.5.1"] }
+          }
+        },
+        "Grade_6": {
+          "Grading_Rules": {
+            "Term_1_2_3_Max_Raw": 60,
+            "Total_Annual_Max_Raw": 180,
+            "Calculation": "(Total_Marks_Obtained / 180) * 10"
+          },
+          "Syllabus_Outcomes": {
+            "listening_and_speaking": { "knowledge": ["6.1.1.2", "6.1.7.1"], "comprehension": ["6.1.2.1", "6.1.3.1", "6.1.3.2"], "application": ["6.1.5.1"], "evaluation": ["6.1.8.1"] },
+            "reading": { "comprehension": ["6.2.7"], "application": ["6.2.4.1"], "analysis": ["6.2.1.1", "6.2.5.1"] },
+            "writing": { "application": ["6.3.2.1", "6.3.7.1", "6.4.1.1", "6.4.2.1", "6.4.6.1", "6.4.7.1", "6.4.9.1"], "synthesis": ["6.3.1.1", "6.3.3.1", "6.3.4.1", "6.3.5.1", "6.3.6.1", "6.3.9.1", "6.3.10.1"] }
+          }
+        },
+        "Grade_7": {
+          "Grading_Rules": {
+            "Term_1_2_Max_Raw": 80,
+            "Total_Annual_Max_Raw": 160,
+            "Calculation": "(Total_Marks_Obtained / 160) * 10"
+          },
+          "Syllabus_Outcomes": {
+            "listening_and_speaking": { "comprehension": ["7.1.3.1", "7.1.6.1", "7.1.7.1"] },
+            "reading": { "comprehension": ["7.2.1.1"], "evaluation": ["7.2.5.1"] },
+            "writing": { "comprehension": ["7.3.6.1"], "application": ["7.4.4.1", "7.4.5.1", "7.4.6.1", "7.4.7.1"], "synthesis": ["7.3.1.1", "7.3.2.1", "7.3.4.1"] }
+          }
+        }
+      },
+      "Zambian_Languages": {
+        "General_Rules": {
+          "Annual_Structure": "10 tasks per year @ 10 marks each",
+          "Skill_Weighting_Per_Grade": { "Listening_Speaking": "3 tasks (30 marks total)", "Writing": "5 tasks (50 marks total)", "Reading": "2 tasks (20 marks total)" },
+          "Termly_Average_Formula": "(Term_1_Score + Term_2_Score + Term_3_Score) / 3",
+          "Calculation": "(Total_Obtained_Marks / 100) * 10"
+        },
+        "Grade_5": {
+          "Syllabus_Outcomes": {
+            "listening_and_speaking": { "knowledge": ["5.1.3.1"], "application": ["5.1.2.1", "5.1.7.1", "5.1.14.1"] },
+            "writing": { "synthesis": ["5.3.1.1", "5.3.2.1", "5.3.3.1", "5.3.4.1", "5.3.5.1", "5.3.6.1", "5.3.7.1", "5.3.9.1"] },
+            "reading": { "comprehension": ["5.2.1.1", "5.2.4.1"], "application": ["5.2.3.1"], "analysis": ["5.2.7.1"], "synthesis": ["5.2.2.1"] }
+          }
+        },
+        "Grade_6": {
+          "Syllabus_Outcomes": {
+            "listening_and_speaking": { "comprehension": ["6.1.1.1", "6.1.2.1", "6.1.7.1"], "application": ["6.1.3.1", "6.1.5.1", "6.1.12.1"], "analysis": ["6.1.4.1"] },
+            "writing": { "knowledge": ["6.3.5.1"], "comprehension": ["6.3.4.1", "6.3.10.1"], "application": ["6.3.7.1", "6.3.9.1"], "synthesis": ["6.3.1.1", "6.3.3.1", "6.3.6.1", "6.3.11.1", "6.3.12.1"] },
+            "reading": { "comprehension": ["6.2.1.1", "6.2.2.1", "6.2.4.1"], "application": ["6.2.5.1", "6.2.6.1"] }
+          }
+        },
+        "Grade_7": {
+          "Syllabus_Outcomes": {
+            "listening_and_speaking": { "comprehension": ["7.1.1.1", "7.1.2.1", "7.1.3.1"], "application": ["7.1.4.1", "7.1.6.1", "7.1.7.1"] },
+            "writing": { "knowledge": ["6.3.5.1"], "comprehension": ["6.3.4.1", "6.3.10.1"], "application": ["6.3.7.1", "6.3.9.1"], "synthesis": ["6.3.1.1", "6.3.3.1", "6.3.6.1", "6.3.11.1", "6.3.12.1"] },
+            "reading": { "comprehension": ["7.2.1.1", "7.2.3.1", "7.2.5.1"], "application": ["7.2.2.1"], "analysis": ["7.2.1"] }
+          }
+        }
+      },
+      "Mathematics": {
+        "Final_ECZ_Entry": "G5_Weighted + G6_Weighted + G7_Weighted",
+        "Grade_5": {
+          "Grading_Rules": { "Tasks_Per_Term": 4, "Marks_Per_Task": 20, "Term_Max_Raw": 80, "Total_Annual_Max_Raw": 240, "Calculation": "(Total_Obtained_Marks / 240) * 10" },
+          "Syllabus_Topics": [
+            { "topic": "Numbers and Notation", "outcomes": ["5.1.2", "5.1.3"] },
+            { "topic": "Addition", "outcomes": ["5.2.2"] },
+            { "topic": "Subtraction", "outcomes": ["5.3.2"] },
+            { "topic": "Combined Operations", "outcomes": ["5.4.2"] },
+            { "topic": "Sets", "outcomes": ["5.5.1", "5.5.3"] },
+            { "topic": "Factors and Multiples", "outcomes": ["5.6.2", "5.6.4"] },
+            { "topic": "Fractions", "outcomes": ["5.7.3", "5.7.4"] },
+            { "topic": "Decimals", "outcomes": ["5.8.3", "5.8.5"] },
+            { "topic": "Social and Commercial Arithmetic", "outcomes": ["5.9.1", "5.9.2", "5.9.3"] },
+            { "topic": "Plane Shapes", "outcomes": ["5.10.1", "5.10.3"] },
+            { "topic": "Solid Shapes", "outcomes": ["5.11.2", "5.11.3"] },
+            { "topic": "Measures", "outcomes": ["5.12.3", "5.12.8", "5.12.2", "5.12.7"] },
+            { "topic": "Statistics", "outcomes": ["5.13.2"] },
+            { "topic": "Relations and Mapping", "outcomes": ["5.14.1", "5.14.2"] }
+          ]
+        },
+        "Grade_6": {
+          "Grading_Rules": { "Tasks_Per_Term": 4, "Marks_Per_Task": 20, "Term_Max_Raw": 80, "Total_Annual_Max_Raw": 240, "Calculation": "(Total_Obtained_Marks / 240) * 10" },
+          "Syllabus_Topics": [
+            { "topic": "Index Notation", "outcomes": ["6.1.3"] },
+            { "topic": "Sets", "outcomes": ["6.2.2", "6.2.3"] },
+            { "topic": "Prime factors", "outcomes": ["6.3.2"] },
+            { "topic": "Fractions", "outcomes": ["6.4.2", "6.4.5", "6.4.6"] },
+            { "topic": "Decimals", "outcomes": ["6.5.2", "6.5.4"] },
+            { "topic": "Approximation", "outcomes": ["6.6.3"] },
+            { "topic": "Ratio and Proportion", "outcomes": ["6.7.3", "6.7.4"] },
+            { "topic": "Social and Commercial Arithmetic", "outcomes": ["6.8.3", "6.8.4"] },
+            { "topic": "Statistics", "outcomes": ["6.9.2"] },
+            { "topic": "Linear Equations in one variable", "outcomes": ["6.10.2"] },
+            { "topic": "Plane Shapes", "outcomes": ["6.11.1", "6.11.2"] },
+            { "topic": "Measures", "outcomes": ["6.12.1", "6.12.2", "6.12.4"] }
+          ]
+        },
+        "Grade_7": {
+          "Grading_Rules": { "Tasks_Per_Term": 4, "Marks_Per_Task": 20, "Term_Max_Raw": 80, "Total_Annual_Max_Raw": 160, "Calculation": "(Total_Obtained_Marks / 160) * 10" },
+          "Syllabus_Topics": [
+            { "topic": "Decimals", "outcomes": ["7.2.2", "7.2.3"] },
+            { "topic": "Percentages", "outcomes": ["7.3.4"] },
+            { "topic": "Ratio and Proportion", "outcomes": ["7.4.4"] },
+            { "topic": "Social and Commercial Arithmetic", "outcomes": ["7.5.1", "7.5.2"] },
+            { "topic": "Integers", "outcomes": ["7.6.2", "7.6.3"] },
+            { "topic": "Number bases", "outcomes": ["7.7.5", "7.7.6"] },
+            { "topic": "Number and Sequences", "outcomes": ["7.8.4", "7.8.5"] },
+            { "topic": "Inequations", "outcomes": ["7.9.2"] },
+            { "topic": "Plane shapes", "outcomes": ["7.10.2", "7.10.3"] },
+            { "topic": "Measurements", "outcomes": ["7.11.1", "7.11.2"] },
+            { "topic": "Solid Shapes", "outcomes": ["7.12.2", "7.12.3"] },
+            { "topic": "Statistics", "outcomes": ["7.13.1", "7.13.2", "7.13.3", "7.13.4"] }
+          ]
+        }
+      },
+      "Integrated_Science": {
+        "Component_Specific_Marking": { "Experiments": "Marked out of 10 based on Guide Table 24", "Projects": "Marked out of 10 based on Guide Table 25" },
+        "Grade_5": {
+          "Grading_Rules": { "Term_1_Max_Raw": 100, "Term_2_Max_Raw": 100, "Term_3_Max_Raw": 100, "Total_Annual_Max_Raw": 300, "Calculation": "(Total_Obtained_Marks / 300) * 10" },
+          "Syllabus_Outcomes": {
+            "human_body": { "knowledge": ["5.1.1.1", "5.1.2.1"], "comprehension": ["5.1.1.2", "5.1.2.2"], "application": ["5.1.1.3"] },
+            "health": { "knowledge": ["5.2.2.1", "5.2.3.2", "5.2.7.2"], "comprehension": ["5.2.1.1", "5.2.3.1", "5.2.4.1", "5.2.7.3"], "application": ["5.2.1.2", "5.2.1.3", "5.2.2.3", "5.2.7.4"], "analysis": ["5.2.2.2", "5.2.3.3", "5.2.4.2", "5.2.7.1"], "synthesis": ["5.2.4.3"] },
+            "environment": { "comprehension": ["5.3.1.1", "5.3.1.2", "5.3.2.1"], "application": ["5.3.2.2"], "analysis": ["5.3.2.4"], "evaluation": ["5.3.1.3", "5.3.2.3"] },
+            "plants_and_animals": { "knowledge": ["5.4.1.1"], "comprehension": ["5.4.1.2"], "application": ["5.4.1.4"], "analysis": ["5.4.1.1", "5.4.2.1", "5.4.2.3", "5.4.1.3"], "synthesis": ["5.4.2.2"], "evaluation": ["5.4.2.4"] },
+            "materials_and_energy": { "knowledge": ["5.5.1.1", "5.5.1.2", "5.5.1.3", "5.5.4.1"], "comprehension": ["5.5.1.4", "5.5.2.1", "5.5.2.2", "5.5.3.1", "5.5.5.1"], "application": ["5.5.1.5", "5.5.3.4", "5.5.4.2", "5.5.3.2"], "analysis": ["5.5.3.2", "5.5.3.3", "5.5.4.3", "5.5.5.2"] }
+          }
+        },
+        "Grade_6": {
+          "Grading_Rules": { "Term_1_Max_Raw": 100, "Term_2_Max_Raw": 100, "Term_3_Max_Raw": 100, "Total_Annual_Max_Raw": 300, "Calculation": "(Total_Obtained_Marks / 300) * 10" },
+          "Syllabus_Outcomes": {
+            "human_body": { "comprehension": ["6.1.1.2", "6.1.2.1"], "analysis": ["6.1.1.3", "6.1.2.2", "6.1.3.1", "6.1.3.2"] },
+            "health": { "knowledge": ["6.2.1.1"], "comprehension": ["6.2.1.2", "6.2.1.3", "6.2.1.4"], "application": ["6.2.1.6", "6.2.2.2"], "analysis": ["6.2.1.5", "6.2.3.1"], "evaluation": ["6.2.2.1"] },
+            "environment": { "comprehension": ["6.3.1.2"], "application": ["6.3.1.3"], "analysis": ["6.3.1.1"] },
+            "plants_and_animals": { "comprehension": ["6.4.1.2", "6.4.2.1", "6.4.2.3", "6.4.2.4", "6.4.3.3"], "application": ["6.4.2.2", "6.4.3.2", "6.4.3.4"], "analysis": ["6.4.1.1", "6.4.1.3", "6.4.3.1"] },
+            "materials_and_energy": { "knowledge": ["6.5.1.1", "6.5.2.1", "6.5.4.1"], "comprehension": ["6.5.1.2", "6.5.3.3", "6.5.3.5", "6.5.4.2"], "application": ["6.5.1.3", "6.5.2.2", "6.5.2.3", "6.5.2.4", "6.5.3.1", "6.5.3.2", "6.5.3.4", "6.5.4.3"] }
+          }
+        },
+        "Grade_7": {
+          "Grading_Rules": { "Term_1_Max_Raw": 100, "Term_2_Max_Raw": 100, "Total_Annual_Max_Raw": 200, "Calculation": "(Total_Obtained_Marks / 200) * 10" },
+          "Syllabus_Outcomes": {
+            "human_body": { "knowledge": ["7.1.1.2"], "comprehension": ["7.1.1.1", "7.1.1.3", "7.1.1.4"] },
+            "health": { "knowledge": ["7.2.2.1", "7.2.1.3"], "comprehension": ["7.2.2.2"], "application": ["7.2.1.2", "7.2.2.3"], "analysis": ["7.2.1.1", "7.2.1.4"] },
+            "environment": { "comprehension": ["7.3.2.1", "7.3.2.2", "7.3.2.4"], "application": ["7.3.1.1", "7.3.1.2", "7.3.1.3"], "analysis": ["7.3.2.3"] },
+            "plants_and_animals": { "knowledge": ["7.4.1.1", "7.4.2.2", "7.4.5.2"], "comprehension": ["7.4.1.2", "7.4.2.3", "7.4.4.1", "7.4.4.2", "7.4.5.1"], "application": ["7.4.2.1", "7.4.4.3"], "analysis": ["7.4.3.1", "7.4.5.3"], "synthesis": ["7.4.3.2"] },
+            "materials_and_energy": { "knowledge": ["7.5.1.2", "7.5.3.1", "7.5.4.3", "7.5.4.7", "7.5.6.1", "7.5.6.2"], "comprehension": ["7.5.1.1", "7.5.2.1", "7.5.2.3", "7.5.2.4", "7.5.4.1", "7.5.4.4", "7.5.5.1", "7.5.6.4"], "application": ["7.5.3.2", "7.5.3.3", "7.5.6.5", "7.5.6.6"], "analysis": ["7.5.1.3", "7.5.2.2", "7.5.4.2", "7.5.4.5", "7.5.4.6"], "synthesis": ["7.5.6.3"] }
+          }
+        }
+      },
+      "Creative_and_Technology_Studies_CTS": {
+        "General_Rules": { "Task_Score_Values": { "Written_Work": 10, "Practical_Task": 15, "Project": 20 } },
+        "Grade_5": {
+          "Grading_Rules": { "Component_Max_Raw": 60, "Components": ["Expressive Arts", "Home Economics", "Technology Studies"], "Total_Annual_Max_Raw": 180, "Calculation": "(Total_Obtained_Marks / 180) * 10" },
+          "Syllabus_Outcomes": {
+            "expressive_arts": { "knowledge": ["5.4.1.1"], "comprehension": ["5.1.1.1", "5.11.1.1"], "application": ["5.4.1.3", "5.5.1.1", "5.3.2.2", "5.6.1.1", "5.6.2.1"], "synthesis": ["5.10.3.1", "5.10.7.1"] },
+            "home_economics": { "knowledge": ["5.6.1.2", "5.13.1.1", "5.12.1.1"], "comprehension": ["5.2.1.1"], "application": ["5.3.4.1", "5.15.2.2"], "analysis": ["5.2.1.3"], "synthesis": ["5.8.3.3"] },
+            "technology_studies": { "knowledge": ["5.2.11", "5.5.5.1"], "comprehension": ["5.3.3.1"], "application": ["5.2.1.1"], "analysis": ["5.3.1.1"], "synthesis": ["5.2.2.1", "5.10.1.4"] }
+          }
+        },
+        "Grade_6": {
+          "Grading_Rules": { "Component_Max_Raw": 60, "Components": ["Expressive Arts", "Home Economics", "Technology Studies"], "Total_Annual_Max_Raw": 180, "Calculation": "(Total_Obtained_Marks / 180) * 10" },
+          "Syllabus_Outcomes": {
+            "expressive_arts": { "comprehension": ["6.1.1.1", "6.10.2.1"], "application": ["6.5.3.1", "6.9.1.1", "6.8.2.1", "6.8.3.1"], "analysis": ["6.1.2.2"], "synthesis": ["6.5.2.1", "6.3.4.1", "6.10.1.1"] },
+            "home_economics": { "knowledge": ["6.2.1.1", "6.16.4.1"], "comprehension": ["6.11.1"], "application": ["6.9.2.1", "6.12.1.4"], "analysis": ["6.4.2.3"], "synthesis": ["6.2.4.3"] },
+            "technology_studies": { "knowledge": ["6.1.1.1"], "comprehension": ["6.2.4.2", "6.7.1.1"], "application": ["6.2.2.1"], "analysis": ["6.2.4.3", "6.3.1.1"], "synthesis": ["6.2.4.1", "6.6.1.1"] }
+          }
+        },
+        "Grade_7": {
+          "Grading_Rules": { "Component_Max_Raw": 35, "Components": ["Expressive Arts", "Home Economics", "Technology Studies"], "Total_Annual_Max_Raw": 105, "Calculation": "(Total_Obtained_Marks / 105) * 10" },
+          "Syllabus_Outcomes": {
+            "expressive_arts": { "comprehension": ["7.4.4.1"], "application": ["7.3.1.2", "7.2.1.1", "7.6.2.2", "7.5.1.1"], "analysis": ["7.4.1.1"], "synthesis": ["7.1.3.1"] },
+            "home_economics": { "knowledge": ["7.3.1.2"], "comprehension": ["7.10.1.3", "7.11.1.1"], "analysis": ["7.15.1.1"], "synthesis": ["7.13.1.3"] },
+            "technology_studies": { "comprehension": ["7.5.1.1"], "application": ["7.6.2.1"], "analysis": ["7.2.2.1"], "synthesis": ["7.4.1.1"] }
+          }
+        }
+      },
+      "Social_Studies": {
+        "Grade_5": {
+          "Grading_Rules": { "Total_Tasks": 5, "Total_Annual_Max_Raw": 100, "Calculation": "(Total_Obtained_Marks / 100) * 10" },
+          "Syllabus_Outcomes": {
+            "living_together": { "knowledge": ["5.1.1.1", "5.1.1.2"], "comprehension": ["5.1.1.3", "5.1.1.5"] },
+            "governance": { "comprehension": ["5.2.1.4", "5.2.1.1", "5.2.1.2", "5.2.1.3"] },
+            "learning_about_money": { "comprehension": ["5.5.1.1", "5.5.1.2", "5.5.1.3"] },
+            "entrepreneurship": { "comprehension": ["5.6.1.2", "5.6.1.1"] }
+          }
+        },
+        "Grade_6": {
+          "Grading_Rules": { "Total_Tasks": 8, "Total_Annual_Max_Raw": 100, "Calculation": "(Total_Obtained_Marks / 100) * 10" },
+          "Syllabus_Outcomes": {
+            "living_together": { "knowledge": ["6.1.1.1", "6.1.1.2"], "comprehension": ["6.1.1.3", "6.1.1.5"] },
+            "governance": { "comprehension": ["6.2.2.1"] },
+            "learning_about_money": { "comprehension": ["6.3.1.2"] },
+            "religion": { "comprehension": ["6.4.1.2", "6.4.1.3"] },
+            "weather_and_climate": { "application": ["6.5.1.1"] },
+            "environment": { "comprehension": ["6.6.1.3"] },
+            "transport_and_communication": { "comprehension": ["6.7.1.1"] }
+          }
+        },
+        "Grade_7": {
+          "Grading_Rules": { "Total_Tasks": 5, "Total_Annual_Max_Raw": 100, "Calculation": "(Total_Obtained_Marks / 100) * 10" },
+          "Syllabus_Outcomes": {
+            "governance": { "knowledge": ["7.1.3.1"], "comprehension": ["7.1.1.1", "7.1.1.3", "7.1.1.4", "7.1.1.5", "7.1.1.6", "7.1.2.2", "7.1.4.1"] },
+            "the_world": { "knowledge": ["7.2.1.1", "7.2.2.1"] },
+            "religion": { "comprehension": ["7.4.1.1", "7.4.1.2"] },
+            "learning_about_money": { "knowledge": ["7.5.2.1"], "comprehension": ["7.5.2.2", "7.5.1.1", "7.5.1.2", "7.5.1.4"], "application": ["7.5.1.3"] },
+            "transport_and_communication": { "knowledge": ["7.7.2.1"], "comprehension": ["7.7.1.1"], "application": ["7.7.2.2"] }
+          }
+        }
+      }
+    }
+  }
+}

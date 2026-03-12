@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 3",
+    "subject": "History",
+    "philosophy": "Quality, lifelong education for all which is accessible, inclusive and relevant to individual, national and global needs.",
+    "competence_learning": "This syllabus allows for learners to not only acquire knowledge but also apply the (knowledge) skills, values, and attitudes to solve situations they encounter in everyday life. Further, the syllabus emphasises what learners are expected to do rather than mainly focusing on what they are expected to know. At the beginning of each form level (1, 2, 3 and 4), there are competencies and descriptors to be developed by the learners.",
+    "goals": [
+      "To provide data used to create laws or theories about various aspects of society.",
+      "To promote better citizenship and a strong national identity.",
+      "To enable learners to develop a critical mindset for debating, examining, and interpreting national and global issues in light of past events.",
+      "To equip citizens with well-informed solutions for contemporary world challenges.",
+      "To empower individuals to understand their nation's past and contribute to its future development."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "3.1",
+      "topic_title": "COPPER MINING IN ZAMBIA",
+      "page_number": 41,
+      "subtopics": [
+        "The History of Copper mining in Zambia"
+      ],
+      "specific_outcomes": [
+        "3.1.1.1 Explore Copper mining in Zambia"
+      ]
+    },
+    {
+      "unit": "3.2",
+      "topic_title": "LABOUR MIGRATION",
+      "page_number": 42,
+      "subtopics": [
+        "3.2.1 Labour Migration in Colonial and Post - Colonial Zambia."
+      ],
+      "specific_outcomes": [
+        "3.2.1.1 Assess impact of labour migration in colonial and post-colonial Zambia"
+      ]
+    },
+    {
+      "unit": "3.3",
+      "topic_title": "LIBERATION STRUGGLE IN SOUTHERN AFRICA",
+      "page_number": 43,
+      "subtopics": [
+        "3.3.1 Zambia's role in the liberation struggle of Southern Africa"
+      ],
+      "specific_outcomes": [
+        "3.3.1.1 Evaluate Zambia's role in liberation struggle of Southern Africa"
+      ]
+    },
+    {
+      "unit": "3.4",
+      "topic_title": "THE PAN- AFRICAN MOVEMENT",
+      "page_number": 44,
+      "subtopics": [
+        "3.4.1 The Pan - Africanism"
+      ],
+      "specific_outcomes": [
+        "3.4.1.1 Promote unity in Africa through Pan-Africanism"
+      ]
+    },
+    {
+      "unit": "3.5",
+      "topic_title": "POLITICAL AND SOCIO-ECONOMIC DEVELOPMENTS IN ZAMBIA (1964 TO DATE)",
+      "page_number": 44,
+      "subtopics": [
+        "3.5.1 United National Independence Party's (UNIP) Domestic policy-1964 -1991",
+        "3.5.2 UNIP and the Search for National Unity.",
+        "3.6.1 UNIP and the Lumpa Church",
+        "3.6.2 UNIP and the Insurgency of Adamson Mus hala",
+        "3.6.3 UNIP's reign and attempted military coups.",
+        "3.6.4 UNIP's Foreign policy-1964 -1991.",
+        "3.6.5 Zambia under the Movement for Multi-Party Democracy (MMD): 1991 -2011.",
+        "3.6.6 Zambia under the Patriotic Front (PF): 2011-2021",
+        "3.6.7 Zambia under the United Party for National Development (UPND): since 2021"
+      ],
+      "specific_outcomes": [
+        "3.5.1.1 Examine UNIP's domestic policies (Political and socio-economic)",
+        "3.5.2.1 Promote culture of national unity",
+        "3.6.1.1 Utilise different strategies in responding to challenges",
+        "3.6.2.1 Engage in ways of conflict resolution in society",
+        "3.6.3.1 Promote the culture of ascending to power democratically",
+        "3.6.4.1 Examine UNIP's foreign policies (Political and socio - economic)",
+        "3.6.5.1 Analyse policies of the MMD government",
+        "3.6.6.1 Examine PF government policies",
+        "3.6.7.1 Analyse UPND's policies since 2021"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "12",
+    "subject": "Physics 5124",
+    "philosophy": "The syllabus has been reviewed in line with the Outcome Based Education principles which seek to link education to real life experiences that give learners skills to access, criticize analyze and practically apply knowledge that help them gain life skills.",
+    "competence_learning": "Demonstrate ability to measure current and voltage; Show skills and knowledge to dispose cells and battery; Demonstrate ability to save electricity; Demonstrate ability to cost use of electricity",
+    "goals": [
+      "Demonstrate an understanding about Static electricity",
+      "Develop investigative skills",
+      "Demonstrate an understanding of Current Electricity",
+      "Demonstrate an understanding about electromagnetic induction",
+      "Demonstrate an understanding of basic electronics",
+      "Demonstrate an understanding about atomic physics"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "12.8.1",
+      "topic_title": "Static Electricity",
+      "page_number": 45,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.8.1.1 Demonstrate the existence of static charges",
+        "12.8.1.2 Explain how to detect electric charges.",
+        "12.8.1.3 Describe the properties and uses of static charges",
+        "12.8.1.4 Describe the electric charging and discharging of objects.",
+        "12.8.1.5 Explain the relationship between current and static electricity.",
+        "12.8.1.6 Investigate effects of static charges on the environment."
+      ]
+    },
+    {
+      "unit": "12.9.1",
+      "topic_title": "Electric charge, current, and potential difference.",
+      "page_number": 46,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.9.1.1 Describe the terms associated with electricity",
+        "12.9.1.2 Identify the units of electric charge and current.",
+        "12.9.1.3 Demonstrate how to measure an electric current.",
+        "12.9.1.4 Describe what potential difference is.",
+        "12.9.1.5 Describe what the volt is.",
+        "12.9.1.6 Differentiate between potential difference (PD) and electromotive force (EMF).",
+        "12.9.1.7 Describe the basic concept of EMF.",
+        "12.9.1.8 Demonstrate the measuring of potential difference (PD) and electromotive force (EMF)."
+      ]
+    },
+    {
+      "unit": "12.9.2",
+      "topic_title": "Electric cells.",
+      "page_number": 47,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.9.2.1 Describe the structure of primary and secondary cells.",
+        "12.9.2.2 Demonstrate charging and discharging of the accumulator.",
+        "12.9.2.3 Identify methods of disposal of used cells"
+      ]
+    },
+    {
+      "unit": "12.9.3",
+      "topic_title": "Electrical resistance.",
+      "page_number": 47,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.9.3.1 Explain the meaning of the resistance",
+        "12.9.3.2 Demonstrate how to determine resistance in a simple circuit.",
+        "12.9.3.3 Describe the relationship between current and potential difference in Ohmic and non Ohmic conductors.",
+        "12.9.3.4 Describe what the internal resistance of a cell is.",
+        "12.9.3.5 Calculate the resistance in series and parallel circuits with Ohm's law."
+      ]
+    },
+    {
+      "unit": "12.9.4",
+      "topic_title": "Heating effect of an electric current.",
+      "page_number": 48,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.9.4.1 Demonstrate energy transformations in an electric circuit.",
+        "12.9.4.2 Investigate the heating effect of an electric current.",
+        "12.9.4.3 Demonstrate how to calculate electrical energy.",
+        "12.9.4.4 Describe the relationship of voltage, current and power.",
+        "12.9.4.5 Demonstrate how to calculate the cost of using electrical Energy",
+        "12.9.4.6 Describe the use of switches, fuses, earthing and the three pin-plugs.",
+        "12.9.4.7 Explain the need for earthing metal cases and for double Insulation.",
+        "12.9.4.8 Describe the meaning of three wires found in the cable",
+        "12.9.4.9 Describe the domestic electrical wiring system",
+        "12.9.4.10 Describe ways of conserving electrical energy in homes and industry."
+      ]
+    },
+    {
+      "unit": "12.9.5",
+      "topic_title": "Magnetic effects of electric currents.",
+      "page_number": 50,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.9.5.1 Explain magnetic field patterns of electric currents.",
+        "12.9.5.2 Describe the applications of the magnetic effect of an electric current.",
+        "12.9.5.3 Explain the behaviour of an electric current in a magnetic field.",
+        "12.9.5.4 Describe the application of a current placed in a magnetic field.",
+        "12.9.5.5 Describe the nature of forces between parallel currents.",
+        "12.9.5.6 Describe the effect of magnetic fields on human health and environment."
+      ]
+    },
+    {
+      "unit": "12.10.1",
+      "topic_title": "The phenomenon of electromagnetic induction.",
+      "page_number": 52,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.10.1.1 Investigate the phenomenon of electro-magnetic induction.",
+        "12.10.1.2 Describe the factors affecting magnitude and direction of induced EMF.",
+        "12.10.1.3 State the direction of current produced by an induced EMF."
+      ]
+    },
+    {
+      "unit": "12.10.2",
+      "topic_title": "The simple A.C. and D.C. generators.",
+      "page_number": 52,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.10.2.1 Describe simple A.C. and D.C. generators.",
+        "12.10.2.2 Compare the simple A.A. generator with a simple D.C. generator in terms of structure and its nature.",
+        "12.10.2.3 Describe the action of a diode in rectification.",
+        "12.10.2.4 Explain conversion of an A.C. generator to a D.C. generator.",
+        "12.10.2.5 Contrast the current produced by the D.C. generator with that produced from batteries."
+      ]
+    },
+    {
+      "unit": "12.10.3",
+      "topic_title": "Transformers.",
+      "page_number": 53,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.10.3.1 Demonstrate the principles of mutual induction.",
+        "12.10.3.2 Describe the structure and operation of iron core transformers.",
+        "12.10.3.3 Apply the transformer and power equations to solve numerical problems involving ideal transformers",
+        "12.10.3.4 Calculate the efficiency of a transformer given data.",
+        "12.10.3.5 Explain advantages of high alternating potential difference power transmission.",
+        "12.10.3.6 Describe the implications of underground power transmission compared to overhead lines.",
+        "12.10.3.7 Describe the effects of improper management of transformers"
+      ]
+    },
+    {
+      "unit": "12.11.1",
+      "topic_title": "Thermionic emission and electrons.",
+      "page_number": 55,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.11.1.1 Describe What thermionic emission is",
+        "12.11.1.2 Investigate properties of cathode rays",
+        "12.11.1.3 Distinguish between direction of flow of electrons and flow of conventional current.",
+        "12.11.1.4 Describe applications of electron beams.",
+        "12.11.1.5 Describe basic structure and action of cathode-ray oscilloscope.",
+        "12.11.1.6 Describe the uses of cathode-ray oscilloscope."
+      ]
+    },
+    {
+      "unit": "12.11.2",
+      "topic_title": "Circuit components.",
+      "page_number": 55,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.11.2.1 Identify symbols of basic circuit component.",
+        "12.11.2.2 Determine resistor values using standard colour codes.",
+        "12.11.2.3 Describe action of variable potential divider.",
+        "12.11.2.4 Explain the action and application of thermistor and light dependent resistors.",
+        "12.11.2.5 Investigate the charging and discharging of capacitors.",
+        "12.11.2.6 Describe the role of capacitors in electronic equipments.",
+        "12.11.2.7 Explain how a reed and relay switches work.",
+        "12.11.2.8 Describe application of reed switch and reed relay."
+      ]
+    },
+    {
+      "unit": "12.11.3",
+      "topic_title": "Simple Electronic Systems.",
+      "page_number": 57,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.11.3.1 Describe the action of a bipolar transistor.",
+        "12.11.3.2 State the different types of logic gates.",
+        "12.11.3.3 Demonstrate how to derive the truth tables of logic gates.",
+        "12.11.3.4 Describe the use of bistable and astable circuits."
+      ]
+    },
+    {
+      "unit": "12.12.1",
+      "topic_title": "Nuclear atom",
+      "page_number": 58,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.12.1.1 Describe the structure of the atom.",
+        "12.12.1.2 Describe the composition of the nucleus in terms of protons and neutrons.",
+        "12.12.1.3 Explain mass number and atomic number."
+      ]
+    },
+    {
+      "unit": "12.12.2",
+      "topic_title": "Radioactivity.",
+      "page_number": 58,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.12.2.1 Describe the nature of radioactivity.",
+        "12.12.2.2 Describe the characteristics of the three kinds of radioactive radiations: alpha, beta and gamma.",
+        "12.12.2.3 Describe methods of detecting radioactive emissions.",
+        "12.12.2.4 Explain the origin and effects of background radiations",
+        "12.12.2.5 Describe what radioactive decay is.",
+        "12.12.2.6 Describe what nuclear fusion and fission is.",
+        "12.12.2.7 Demonstrate how to determine half life of a radioactive material.",
+        "12.12.2.8 Explain uses of radioactive substances.",
+        "12.12.2.9 Describe the safety precautions necessary when handling or storing radioactive substances.",
+        "12.12.2.10. Explain the effects of radioactive substances on the environment and health.",
+        "12.12.2.11. Investigate management practices which safeguard the environment from radioactive contamination."
+      ]
+    }
+  ]
+}

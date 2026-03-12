@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 2",
+    "subject": "Information and Communication Technology",
+    "philosophy": "Quality, lifelong education for all which is accessible, inclusive and relevant to individual, national and global needs.",
+    "competence_learning": "The ICT curriculum has been developed to provide learners with a range of skills and knowledge. Recognizing the integral role of technology in modern society, this compulsory subject aims to equip learners to use technology effectively and responsibly. The curriculum is designed to foster critical thinking, creativity and problem-solving skills needed in a technology-driven world.",
+    "goals": [
+      "Equip every learner with essential skills and knowledge in information and communication technologies.",
+      "Foster critical thinking, creativity, and problem-solving skills, ensuring that learners are well-prepared to meet the challenges and opportunities of the digital age.",
+      "Develop competency in productivity tools including word processing, spreadsheets, presentations and publications.",
+      "Build understanding of digital literacy and electronic business tools."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "2.1",
+      "topic_title": "File Management and Productivity Tools",
+      "page_number": 22,
+      "subtopics": [
+        "File Compression and Encryption"
+      ],
+      "specific_outcomes": [
+        "Compress files and folders",
+        "Encrypt files and folders"
+      ]
+    },
+    {
+      "unit": "2.2",
+      "topic_title": "Productivity Tools",
+      "page_number": 22,
+      "subtopics": [
+        "Word Processing",
+        "Spreadsheets",
+        "Presentations",
+        "Publishing"
+      ],
+      "specific_outcomes": [
+        "Create and customize word documents",
+        "Manage data using spreadsheets",
+        "Create presentations",
+        "Design publications"
+      ]
+    },
+    {
+      "unit": "2.3",
+      "topic_title": "Digital Literacy",
+      "page_number": 23,
+      "subtopics": [
+        "Email and Instant Messaging"
+      ],
+      "specific_outcomes": [
+        "Create and manage email accounts"
+      ]
+    },
+    {
+      "unit": "2.4",
+      "topic_title": "ICT in Business",
+      "page_number": 24,
+      "subtopics": [
+        "Electronic Business Tools"
+      ],
+      "specific_outcomes": [
+        "Use electronic business tools"
+      ]
+    }
+  ]
+}

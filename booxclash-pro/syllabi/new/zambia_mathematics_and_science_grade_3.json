@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "3",
+    "subject": "Mathematics and Science",
+    "philosophy": "The Lower Primary Mathematics and Science Syllabus is designed for Grades 1 to 3, focusing on foundational concepts from Early Childhood Education (ECE). Mathematics and Science are two interconnected disciplines that shape our understanding of the world around us. Mathematics provides the language and tools to describe and analyse scientific phenomena, while science provides the context and application for mathematical concepts. It emphasises learners demonstrating competences fostering 21st-century skills like communication, critical thinking, and problem-solving. This syllabus prescribes mathematics and science as a single learning area and teaching of Mathematics and Science should be integrated. The course recognises individual potential and creates a dynamic environment for discovering Mathematics and Science.",
+    "competence_learning": "This syllabus aims to enhance children's innate ability to learn scientific and mathematical concepts through engaging, effective learning experiences. It fosters curiosity through observation, questioning, and experimentation, preparing them for a smooth transition to Upper Primary Education and a solid foundation for STEM education.",
+    "goals": []
+  },
+  "topics": [
+    {
+      "unit": "3.1",
+      "topic_title": "EXPLORING MY WORLD",
+      "page_number": 125,
+      "subtopics": [
+        "3.1.1 Grouping Things",
+        "3.1.2 Things in the Surroundings"
+      ],
+      "specific_outcomes": [
+        "3.1.1.1 Apply relationship between sets",
+        "3.1.2.1 Apply the benefit of natural resources in daily life.",
+        "3.1.1.2 Analyse water cycle process",
+        "3.1.1.3 Express whole numbers in a variety of ways",
+        "3.1.1.4 Classify foods according to their nutrients",
+        "3.1.1.5 Interpret warning signs",
+        "3.1.1.6 Analyse data",
+        "3.1.1.7 Classify plants and animals according to their characteristics",
+        "3.1.1.8 Analyse components of soil.",
+        "3.1.1.9 Practise care for the surroundings"
+      ]
+    },
+    {
+      "unit": "3.2",
+      "topic_title": "UNDERSTANDING MY BODY",
+      "page_number": 128,
+      "subtopics": [
+        "3.2.1 The Human Body"
+      ],
+      "specific_outcomes": [
+        "3.2.1.1 Exhibit care for the sensory organs",
+        "3.2.1.2 Practise care for the human body",
+        "3.2.1.3 Practise Personal hygiene.",
+        "3.2.1.4 Use relations in different life context"
+      ]
+    },
+    {
+      "unit": "3.3",
+      "topic_title": "EXPLORING THE SKY AND SEASONS",
+      "page_number": 130,
+      "subtopics": [
+        "3.3.1 Time, length, mass and capacity",
+        "3.3.2 Weather and Climate Change"
+      ],
+      "specific_outcomes": [
+        "3.3.1.1 Use measures in everyday life",
+        "3.3.2.1 Demonstrate understanding of causes of climate change"
+      ]
+    },
+    {
+      "unit": "3.4",
+      "topic_title": "EXPLORING MATERIALS",
+      "page_number": 131,
+      "subtopics": [
+        "3.4.1 Materials",
+        "3.4.2 Plane and Solid Shapes",
+        "3.4.3 Forces",
+        "3.4.4 Simple Machines"
+      ],
+      "specific_outcomes": [
+        "3.4.1.1 Investigate characteristics of materials.",
+        "3.4.2.1 Construct different types of shapes",
+        "3.4.3.1 Analyse the relationship between forces and movement of objects",
+        "3.4.4.1 Make simple machines"
+      ]
+    },
+    {
+      "unit": "3.5",
+      "topic_title": "EXPLORING MIXITURES",
+      "page_number": 132,
+      "subtopics": [
+        "3.5.1 Mixtures",
+        "3.5.2 Addition, Subtraction, of Things"
+      ],
+      "specific_outcomes": [
+        "3.5.1.1 Create different types of mixtures",
+        "3.5.2.1 Use whole numbers in Addition in different situations",
+        "3.5.2.2 Use whole numbers in subtraction in different life situations.",
+        "3.5.2.3 Use whole numbers in multiplication in different life situations",
+        "3.5.2.4 Use whole numbers in division in different life situations",
+        "3.5.2.5 Use fractions in life situations"
+      ]
+    }
+  ]
+}

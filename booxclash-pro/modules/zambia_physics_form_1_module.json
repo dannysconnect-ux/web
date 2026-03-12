@@ -1,0 +1,1594 @@
+{
+    "subject": "Physics",
+    "grade": "Form 1",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "Introduction To Physics",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Safety rules (Laboratory safety)",
+                    "page": 13,
+                    "competences": [
+                        "Practise laboratory safety rules."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 14,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This activity is designed to help learners practice laboratory safety protocols. There are two sub activities which learners will engage in as they explore how to use the laboratory safety protocols."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.1",
+                            "page": 14,
+                            "hook": "In a laboratory, what protocols would you follow to ensure your safety?",
+                            "teacher_steps": [
+                                "Introduce the activity. For example, by showing a safety protocol simulation. \u201cWe shall look at the fascinating world of laboratory safety tools\u201d \u201cWhy are laboratory safety tools essential?\u201d",
+                                "Divide learners into groups",
+                                "Provide the materials",
+                                "Provide the instructions",
+                                "Ask learners to give reasons for every protocol acted out.",
+                                "Ask learners to explain the importance of adhering to laboratory safety protocols",
+                                "Consolidate the concept of laboratory safety. Ensure that learners can visualise the importance and uses of various laboratory safety tools, are ready to handle and use laboratory safety tools safely and properly, and geared to develop essential skills in laboratory safety and emergency response."
+                            ],
+                            "learner_steps": [
+                                "Identifying the laboratory safety tools",
+                                "Writing laboratory safety protocols (e.g., wearing gloves, using goggles) on slips of paper",
+                                "Taking turns acting out the protocols without speaking",
+                                "Answering questions from the teacher on the activity acted out",
+                                "Discussing the importance of laboratory safety, using examples of potential hazards and consequences of neglecting safety protocols"
+                            ],
+                            "short_notes": "In this activity, learners will role play the use of laboratory safety tools."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.2",
+                            "page": 16,
+                            "hook": "Why is it important to handle laboratory safety equipment?",
+                            "teacher_steps": [
+                                "Introduce learners to emergency procedures, such as fire evacuation procedures, chemical spill response and first aid procedures.",
+                                "Ask learners why it is important to learn to handle laboratory safety equipment",
+                                "Show a safety protocol simulation",
+                                "Utilize safety videos and resources, such as the American Chemical Society's (ACS) Laboratory Safety Video Series",
+                                "Ensure that the laboratory is equipped with necessary safety equipment, such as fire extinguishers, first aid kits, and PPE",
+                                "Show learners how to handle and use laboratory safety equipment correctly",
+                                "Divide learners into groups",
+                                "Mimic emergency situations like spills, fires, or injuries",
+                                "Ask learners to give reasons for every action taken",
+                                "Ask learners to develop or obtain a laboratory safety manual that outlines safety protocols and procedures",
+                                "Consolidate the concept of response to emergencies. Make sure that the learners can explain the importance and uses of various laboratory safety tools, can handle and use laboratory safety tools safely and properly, and have developed essential skills in laboratory safety and emergency response"
+                            ],
+                            "learner_steps": [
+                                "Giving reasons as to why it is important to learn to handle laboratory safety equipment",
+                                "Observing simulations depicting various emergencies and how they are handled",
+                                "Preparing for emergence actions of safety according to groups",
+                                "Practising to respond according to laboratory safety protocols for any of the simulated spills, fires and injuries",
+                                "Responding to teachers\u2019 questions",
+                                "Discussing different types of laboratory safety equipment, their uses, and benefits",
+                                "Using laboratory safety equipment correctly, such as gloves, goggles, and fire extinguishers",
+                                "Developing the skills and confidence to handle laboratory safety equipment correctly and safely"
+                            ],
+                            "short_notes": "In this activity learners will handle and use the laboratory safety equipment. Learners will explore the essential skills of handling laboratory safety equipment. Laboratory safety equipment is crucial in preventing accidents, injuries, and illnesses in the laboratory. Proper handling and use of this equipment are vital to ensuring a safe working environment."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3",
+                            "page": 19,
+                            "hook": "When you inspect your laboratory or your work environment, what are some of the things that are likely to lead to accidents?",
+                            "teacher_steps": [
+                                "Introduce learners to the activity on potential hazards and precautions. e.g. why is identifying potential hazards and taking necessary precautions, a necessary aspect of laboratory safety?",
+                                "Divide learners into groups",
+                                "Provide clear instructions",
+                                "Ask learners in groups to take a tour of the laboratory",
+                                "Encourage them to be critical as they identify the hazards and discuss the precautions",
+                                "Ask learners to explain a hazard that they feel very few members of the class have seen",
+                                "Consolidate the concept of hazards. The learners are expected to understand the importance of identifying potential hazards in a laboratory setting and assess risks and develop precautions to minimize or eliminate hazards"
+                            ],
+                            "learner_steps": [
+                                "Identifying the hazards in the laboratory",
+                                "Explaining the identified hazards",
+                                "Suggesting precautions for every hazard identified.",
+                                "Discussing each hazard",
+                                "Explaining the potential risks and consequences of each hazard"
+                            ],
+                            "short_notes": "In this activity, learners will take a tour of the laboratory where they will be pointing out potential hazards, such as chemicals and reagents, electrical equipment, sharp objects and broken glass ware, and open flames and heat sources. In the process learners will identify potential hazards in a laboratory setting, assess the risks associated with each hazard and develop precautions to minimize or eliminate each hazard."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4",
+                            "page": 24,
+                            "hook": "Have you ever thought of the importance of communicating safety information on a poster?",
+                            "teacher_steps": [
+                                "Introduce the activity",
+                                "Put learners into groups",
+                                "Provide clear instructions",
+                                "Demonstrate safety concepts",
+                                "Assist with design and content",
+                                "Encourage creativity",
+                                "Facilitate group work",
+                                "Provide feedback and guidance",
+                                "Assess poster content",
+                                "Evaluate poster design",
+                                "Provide feedback and suggestions",
+                                "Promote critical thinking by asking thought provoking questions in connection with communicating safety information. e.g. How effective is your poster?",
+                                "Engage in critical thinking and problem-solving. e.g. analyse the importance and relevance of the safety message being created. Identifying the target audience. Solving design challenges like limited space or complexity of the information",
+                                "Engage in self-assessment and reflection. e.g. how effective is the poster? What learning has taken place during the activity? What areas would require improvement?"
+                            ],
+                            "learner_steps": [
+                                "Researching on laboratory safety topics",
+                                "Creating poster content.",
+                                "Selecting visual aids",
+                                "Come up with a design and layout of the poster"
+                            ],
+                            "short_notes": "In this activity learners will design posters which shall convey safety information."
+                        }
+                    ],
+                    "short_notes": "Safety rules are guidelines or regulations designed to prevent accidents, injuries, and harm to people, property, and the environment. Introducing laboratory safety to Form 1 learners is crucial to ensure they understand the importance of safety protocols and develop good habits from the start.",
+                    "vocabulary": [
+                        {
+                            "term": "Laboratory safety",
+                            "definition": "Refers to the practices, procedures and guidelines designed to minimise risks and ensure a safe working environment in the laboratories."
+                        },
+                        {
+                            "term": "Hazards",
+                            "definition": "Hazards are situations, conditions, or objects that have the potential to cause harm, injury, illness, or damage to people, property or the environment."
+                        },
+                        {
+                            "term": "Laboratory rules",
+                            "definition": "Are guidelines, regulations and protocols established to ensure safe, healthy and efficient working environment in the laboratory."
+                        },
+                        {
+                            "term": "Safety protocols",
+                            "definition": "Are systematic procedures and guidelines designed to ensure a safe and healthy environment, prevent accidents and injuries, and minimise risks."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 15,
+                        "questions": [
+                            "Observe learners during laboratory activities to assess their adherence to safety protocols and procedures.",
+                            "Review learners' actions",
+                            "Ask learners open-ended questions to prompt further discussion",
+                            "Ask questions such as: 1. Which laboratory safety tools were easy to act out and why? 2. Which laboratory safety tools were difficulty to act out and why?",
+                            "Ask learners to solve laboratory safety related puzzles to escape within certain time limits",
+                            "Administer a quiz or worksheet to assess learners' understanding of laboratory safety concepts",
+                            "Observation Checklist: 1. Personal Protective Equipment (PPE): Are students wearing lab coats, gloves, goggles, and closed-toe shoes?",
+                            "Observation Checklist: 2. Chemical Handling: Are learners handling chemicals carefully, using tongs or gloves, and disposing of waste properly?",
+                            "Observation Checklist: 3. Equipment Usage: Are learners using laboratory equipment correctly, following manufacturer instructions, and reporting any malfunctions?",
+                            "Observation Checklist: 4. Fire Safety: Are learners aware of fire evacuation procedures, using fire extinguishers correctly, and keeping flammable materials away from heat sources?",
+                            "Observation Checklist: 5. Cleanliness and Organisation: Are learners maintaining a clean and organized workspace, disposing of waste properly, and storing equipment and chemicals correctly?",
+                            "Student Survey: 1. Safety Knowledge: Do learners understand laboratory safety rules and procedures?",
+                            "Student Survey: 2. Safety Attitudes: Do learners perceive laboratory safety as important and take responsibility for their own safety?",
+                            "Student Survey: 3. Safety Behaviors: Do learners report following laboratory safety rules and procedures consistently?",
+                            "Sample questions - Chemical Safety: 1. Chemical Spill: A learner accidentally knocks over a container of sulphuric acid, spilling it on the counter. What should they do? Answer: Immediately alert the teacher, put on gloves and safety goggles, and carefully clean up the spill with a neutralizing agent.",
+                            "Sample questions - Chemical Safety: 2. Chemical Storage: A learner is asked to store a new shipment of chemicals in the laboratory. What should they consider? Answer: They should check the labels for compatibility, store chemicals in their designated areas, and ensure that the storage area is well-ventilated and away from heat sources.",
+                            "Sample questions - Electrical Safety: 1. Electrical Equipment: A learner needs to use a hot plate to heat a solution. What should they check before turning it on? Answer: They should check that the hot plate is in good working condition, that the cord is not damaged, and that the plate is placed on a heat-resistant surface.",
+                            "Sample questions - Electrical Safety: 2. Electrical Shock: A learner notices that a piece of electrical equipment is malfunctioning and sparking. What should they do? Answer: They should immediately turn off the equipment, unplug it, and alert the teacher or laboratory supervisor.",
+                            "Sample questions - Fire Safety: 1. Fire Extinguisher: A small fire breaks out in the laboratory. What should a learner do? Answer: They should alert others, turn off any electrical equipment, and use a fire extinguisher rated for the type of fire (e.g., Class B for flammable liquids).",
+                            "Sample questions - Fire Safety: 2. Flammable Materials: A learner is working with flammable materials, such as ethanol or acetone. What precautions should they take? Answer: They should work in a well-ventilated area, away from heat sources, and use a fume hood or other ventilation system if necessary.",
+                            "Sample questions - Personal Protective Equipment (PPE): 1. Gloves: A learner is handling a chemical that can cause skin irritation. What should they wear? Answer: They should wear gloves made of a material resistant to the chemical, such as nitrile or latex.",
+                            "Sample questions - Personal Protective Equipment (PPE): 2. Goggles: A learner is working with a chemical that can splash or spray. What should they wear? Answer: They should wear goggles or safety glasses with a splash guard to protect their eyes.",
+                            "Sample questions - General Laboratory Safety: 1. Cleanliness: A student notices that the laboratory is cluttered and messy. What should they do? Answer: They should clean up their workspace, dispose of waste properly, and alert the teacher or laboratory supervisor if the mess is hazardous.",
+                            "Sample questions - General Laboratory Safety: 2. Emergency Procedures: A student is unsure of what to do in case of an emergency. What should they do? Answer: They should familiarize themselves with the laboratory's emergency procedures, such as the location of fire extinguishers, first aid kits, and emergency exits.",
+                            "Sample questions - General Laboratory Safety: 3. Safety Rules: Show a learner reading and following laboratory safety rules, such as wearing PPE, not eating or drinking in the laboratory, and not horse playing."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Waste management",
+                    "page": 30,
+                    "competences": [
+                        "Practise waste management principles."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This activity is formulated to help learners identify waste materials. There is one learning activity in which learners will engage in as they identify waste materials."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.1",
+                            "page": 30,
+                            "hook": "What steps would you take in identifying waste materials to ensure a friendly learning environment?",
+                            "teacher_steps": [
+                                "Introduce the activity",
+                                "Divide learners into small groups",
+                                "Provide the instructions",
+                                "Provide learners with various waste samples (e.g., paper, broken glassware, used batteries, chemical containers, \u2026)",
+                                "Provide PPE such as lab coats, gloves, face masks",
+                                "Provide waste labels (e.g., hazardous, non-hazardous, recyclables)",
+                                "Ask leaners to identify, sort and label waste materials into various categories"
+                            ],
+                            "learner_steps": [
+                                "Setting up a waste sorting station",
+                                "Identifying, sorting and labelling the waste materials as hazardous, non-hazardous, recyclable...",
+                                "Presenting findings and explain why you categorized your waste sample in a particular way",
+                                "Writing the steps to follow in identifying waste materials (e.g., labelling, material composition, origin of waste, regulations \u2026)"
+                            ],
+                            "short_notes": "In this activity, learners will identify, sort and label waste materials into their correct categories (e.g., hazardous, non-hazardous, recyclable)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2",
+                            "page": 32,
+                            "hook": "Do you know that there are many categories of waste materials?",
+                            "teacher_steps": [
+                                "Introduction: Classifying waste refers to the process of categorising waste into different types based on its origin, properties and potential risks. Waste is classified by identifying its origin, composition, and properties. Waste classification is important because it helps determine how to dispose of waste and how to manage it.",
+                                "Exploration: Divide learners into small groups",
+                                "Exploration: Provide them with a set of waste materials to classify",
+                                "Exploration: Ensure that learners work collaboratively to classify waste materials into their respective categories",
+                                "Exploration: Provide classification guidelines and resources to help learners make informed decisions.",
+                                "Explanation: Classifying waste materials allows for the safe and effective management of different waste types, minimising environmental pollution, protecting public health, and maximizing resource recovery through recycling. Chemical and physical characteristics determine the criteria for classifying waste because some materials (liquid, gaseous and powder waste) require special treatment by default to avoid the dispersal of waste.",
+                                "Synthesis: Help learners to improve on their newly acquired competence regarding classifying waste materials according to physical state, properties, source and material type.",
+                                "Evaluation and Reflection: Waste classification is a critical component of effective waste management. It involves categorizing waste into different types based on its characteristics, composition, and potential risks. Practicing proper waste classification ensures the safe and efficient management of waste, reducing environmental pollution and health risks."
+                            ],
+                            "learner_steps": [
+                                "Working in groups to classify the provided samples of laboratory waste into designated categories",
+                                "Creating a simulation activity to practice waste classification. e.g., roleplaying myths and misconceptions",
+                                "Creating a poster that discusses classification of waste materials",
+                                "Writing down the steps to follow in identifying waste materials (e.g., labelling, material composition, origin of waste, regulations \u2026)",
+                                "Labeling waste bins for designated waste materials"
+                            ],
+                            "short_notes": "This activity is designed to help learners classify different types of waste materials into their respective categories."
+                        }
+                    ],
+                    "short_notes": "Waste management refers to the activities and actions needed to manage waste from its origin to its final disposal. Practicing waste management is essential for maintaining a clean and healthy working environment in the laboratory, preventing unnecessary accidents, and minimizing the impacts of climate change.",
+                    "vocabulary": [
+                        {
+                            "term": "Waste",
+                            "definition": "Refers to unwanted or unusable materials"
+                        },
+                        {
+                            "term": "Management",
+                            "definition": "Is the process of planning, organising, leading and controlling resources to achieve specific goals and objectives"
+                        },
+                        {
+                            "term": "Waste materials",
+                            "definition": "Refers to materials that are no longer useful or wanted and are discarded after being used"
+                        },
+                        {
+                            "term": "Hazards",
+                            "definition": "Hazards are situations, conditions, or objects that have the potential to cause harm, injury, illness, or damage to people, property or the environment"
+                        },
+                        {
+                            "term": "Non-hazardous",
+                            "definition": "Refers to a situation, condition, or substance that does not pose a significant risk of harm, injury, illness, or death to people, animals, or the environment"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 31,
+                        "questions": [
+                            "Check if learners are correctly and safely conducting the activity",
+                            "Monitor learners\u2019 participation and engagement during the activity",
+                            "Ask learners open-ended questions to prompt further discussion",
+                            "Ask questions such as: 1. Which laboratory waste materials were easy to identify, why? 2. Which laboratory waste materials were difficult to identify, why?",
+                            "Provide feedback to address any gaps",
+                            "Evaluate learners\u2019 ability to work in groups to classify waste materials",
+                            "Evaluate the accuracy of waste classification by assessing their completed posters or presentations.",
+                            "Ask questions such as: 3. How did you and your group come to a consensus on the classification of a particular waste material?",
+                            "Provide feedback on their responses during discussions and presentations"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "Apparatus in Physics",
+                    "page": 34,
+                    "competences": [
+                        "Use apparatus in Physics"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1",
+                            "page": 35,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This activity in physics will help the learners to identify the apparatus used in physics. Learners will be engaged in three learning activities for them to develop the skills on identification of apparatus used in physics, how to use the physics apparatus correctly and the importance of improving apparatus."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.1",
+                            "page": 35,
+                            "hook": "Mention any apparatus which are found in a physics laboratory?",
+                            "teacher_steps": [
+                                "INTRODUCTION: Physics is the study of the natural world around us and it involves using tools and equipment to measure, observe and experiment. In this lesson we will explore, identify the different types of apparatus used in physics and their functions.",
+                                "EXPLORATION: Put leaners in small groups and guide them on how to do scavenger hunt to identify the apparatus in physics. The learners will communicate back to their peers the names and functions of the identified apparatus.",
+                                "EXPLAINATION: Name of some common apparatus and their functions",
+                                "Checks the learners\u2019 books to clear the myths and misconceptions.",
+                                "SYNTHESIS: Recognize and classify the apparatus identified into different categories depending on how they are used. The categories of apparatus are; 1. Measuring devices - stopwatch, ammeter, voltmeter ruler... 2. Electrical components - wire, capacitor, switch, resistor... 3. Mechanical equipment - pulley, lever, gear, spring... 4. Optical instruments - lens, prism, telescope... 5. Thermodynamic apparatus - thermal conductor, thermocouple, insulator... 6. Wave and sound apparatus - oscilloscope, signal generator, sound lever meter... 7. Radiation Detection apparatus \u2013 Geiger counter, radiation spectrometer, scintilator...",
+                                "EVALUTION AND REFLECTION: Discuss on the key points: Scientific name of physics apparatus identified, The functions of the physics apparatus identified, Recognise and classify the physics apparatus identified in different categories",
+                                "SYNTHESIS: Recognizing and classifying the apparatus identified into different categories depending on how they are used.",
+                                "EVALUATION AND REFLECTION: Discussing the key points: Scientific names of physics apparatus identified, The functions of the physics apparatus identified, Recognize and classify the physics apparatus identified into different categories. Wring the answers to the questions given"
+                            ],
+                            "learner_steps": [
+                                "ENGAGEMENT: Paying attention to the instructions about the scavenger hunt on identifying the apparatus used in physics in small groups.",
+                                "EXPLORATION: Playing the scavenger hunt in groups as they identify the apparatus used in physics and their functions.",
+                                "EXPLORATION: Presenting their exploration to identify the apparatus used in physics according to their understanding and clear the misconception if any.",
+                                "EXPLANATION: Writing in their books the table showing the scientific names of the identified apparatus."
+                            ],
+                            "short_notes": "In this activity learners will do scavenger hunt to identify the apparatus used in physics"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2",
+                            "page": 39,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Physics is an experimental science that relies heavily on the use of various apparatus to measure, observe and analyze physical quantities. In this lesson learners will develop skills required to use different apparatus in physics effectively. Learners will explore and develop skills required to use apparatus effectively in the laboratory and in everyday life."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.1",
+                            "page": 39,
+                            "hook": "Why are the desks of the same size and shape?",
+                            "teacher_steps": [
+                                "INTRODUCTION: Physics is the study of the natural world around us and it involves using tools and equipment to measure, observe and experiment. In this lesson, learners will develop skills on how to use the apparatus both in the physics laboratory and in everyday life. A short video showing the correct use of physics apparatus will be played.",
+                                "EXPLORATION: Put learners in small groups and guide them on how to use a worksheet to collect date using the identified apparatus used in physics.",
+                                "EXPLORATION: Go round to check the learners\u2019 involvement in the activity and clear the misconceptions. Prepare a worksheet in order to measure the volume of water and increase in temperature with time.",
+                                "EXPLANATION: A worksheet to be used to deepen the understanding of using apparatus in physics. Ask learners to report their findings.",
+                                "SYNTHESIS: Provide learners with any other physics apparatus to collect data with such as ammeter, voltmeter, cells...",
+                                "EVALUATION AND REFLECTION: Discuss the key points: Correct use of apparatus in physics and develop scientific skills that can be used in everyday life, Correct method of using the apparatus"
+                            ],
+                            "learner_steps": [
+                                "ENGAGEMENT: Paying attention to the short video on the correct use of physics apparatus.",
+                                "EXPLORATION: Performing experiments using a worksheet. Collecting data with correct use of physics apparatus.",
+                                "EXPLORATION: Developing the skills of using apparatus in physics.",
+                                "EXPLANATION: -Reporting back to the peers the data collected. -Correct use of a measuring cylinder on a flat surface in order to have a correct meniscus. -The eye must be at 90o to the measuring cylinder at the meniscus. -The correct units for volume - Read the temperature of the thermometer while it\u2019s still in the water to get the correct readings. -The correct units for time. -Writing in their books the correct use of cylinder and how to read the volume of water with correct units.",
+                                "SYNTHESIS: Collecting data with any other physics apparatus such as ammeter, voltmeter, cells, and different types of rulers",
+                                "EVALUATION AND REFLECTION: Discussing the key points: Correct use of apparatus in physics ensures accuracy and reliable results, it also maintains safety, develop scientific skills that can be used in everyday life. Correct method of using the apparatus with units. With the measuring cylinder always use a flat surface. The reading of the temperature must always be taken with the thermometer still in water. -Wring the answers to the question given questions."
+                            ],
+                            "short_notes": "In this activity learners will use the apparatus that are available in the physics laboratory to collect data using the worksheets. This activity will help the learner develop psychomotor skills and use the physics apparatus effectively in everyday life."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.3",
+                            "page": 42,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Physics is an experimental science that relies on the use of various apparatus to measure, observe and analyse physical quantities. Improvising apparatus in physics refers to the creative and resourceful use of available materials and equipment to design and build apparatus for conducting physics experiments. This activity will help the learners develop problem solving skills, enhance learning experiences and prepare them for real world challenges."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.3.1",
+                            "page": 43,
+                            "hook": "Imagine you are a teacher of physics and has been given to teach physics in a laboratory without a single apparatus. What would you do?",
+                            "teacher_steps": [
+                                "INTRODUCTION: Physics apparatus plays a crucial role in facilitating experiments, demonstrations and investigations in the field of physics. Improvising apparatus in physics involves identifying areas of limitation or efficiency and implementing modification or upgrades.",
+                                "EXPLORATION: Use PhET, open-source Physics or MATLAB to show improvised apparatus in physics",
+                                "Remind the learners on safety protocols and guidelines during the walk into the nearby surrounding to collect the local materials to be used for improvising apparatus in physics",
+                                "Ask learners to come up with physics improvised apparatus",
+                                "EXPLANATION: - Work with the learners from the start for them to come up with a functional improvised apparatus Learners to: - Identify limitations - Research on new technologies - Design details of the improvised apparatus considering safety - Select materials that can be modified to meet the experimental need - Consult from colleagues and experts.",
+                                "SYNTHESIS: - Learners to conduct experiments and gather data to test the improvised apparatus, refining the design as needed - Learners to implement the improvised apparatus in experimental procedures and share with the scientific community",
+                                "EVALUATION AND REFLECTION: Discuss the key points: Five steps to improvise apparatus in physics. 1.Define the problem 2.Research ideas and information from various sources. 3.Select material. 4.Design and build and 5.Test and refine. Benefits of improvising are cost effective, encourages innovation, flexibility, enhanced understanding of scientific principles.",
+                                "EXPLORATION: Using PhET, open- source Physics or MATLAB to view improvising apparatus in physics. While following safety protocols and guidelines during a walk into a nearby surrounding to collect the local materials to be used for improvising apparatus in physics. A project to come up with an improvised physics apparatus.",
+                                "EXPLANATION: - Working with peers from the start for them to come up with a functional improvised apparatus. - Identifying limitations - Researching on new technologies - Designing details of the improvised apparatus considering safety. - Selecting materials that can be modified to meet the experimental need. - Consulting from colleagues and experts.",
+                                "SYNTHESIS: - Conducting experiments and gathering data to test the improvised apparatus, refining the design as needed. - Implementing the improvised apparatus in experimental procedures and sharing with the scientific community.",
+                                "EVALUATION AND REFLECTION: Discussing the key points: Five steps to improvising apparatus in physics. 1. Defining the problem or limitation 2. Researching on ideas and information from various sources. 3. Selecting local material. 4. Design and build 5. Testing and refining. Benefits of improvising are - Cost effective - Encourages innovation - Flexibility - Enhanced understanding of scientific principles."
+                            ],
+                            "learner_steps": [
+                                "ENGAGEMENT: Paying attention to simulations from a software showing improvising apparatus on physics."
+                            ],
+                            "short_notes": "In this activity learners will explore the environment to collect for resources for improvising the apparatus."
+                        }
+                    ],
+                    "short_notes": "Physics is an experimental science that relies on the use of various apparatus to measure, observe and analyze physical quantities. In this topic we will explore the different types of apparatus used in physics, develop skills required to use them effectively and the importance of improvising apparatus.",
+                    "vocabulary": [
+                        {
+                            "term": "Apparatus",
+                            "definition": "Equipment, instrument or device used to conduct experiments in various fields such as engineering"
+                        },
+                        {
+                            "term": "Measure",
+                            "definition": "To determine the size, extent or degree of a substance using a standard instrument"
+                        },
+                        {
+                            "term": "Observe",
+                            "definition": "To watch carefully and gather information using senses"
+                        },
+                        {
+                            "term": "Analyse",
+                            "definition": "To interpret the relationship and meaning of the data collected after measuring"
+                        },
+                        {
+                            "term": "Effectively",
+                            "definition": "Achieving a desired outcome in a successful manner"
+                        },
+                        {
+                            "term": "Scavenger hunt",
+                            "definition": "A fun and interactive activity where participants are given a list of items, clue or challenge to complete within a given time"
+                        },
+                        {
+                            "term": "Experimental",
+                            "definition": "Scientific investigation that involves manipulating one or more variables to test the hypothesis."
+                        },
+                        {
+                            "term": "Physical quantities",
+                            "definition": "Properties of physical objects that can be measured, quantified and expressed using numerical values and units."
+                        },
+                        {
+                            "term": "Improvising",
+                            "definition": "Creative and resourceful use of available materials to design apparatus in physics."
+                        },
+                        {
+                            "term": "Creative",
+                            "definition": "Ability to generate new and original ideas."
+                        },
+                        {
+                            "term": "Resourceful",
+                            "definition": "Ability to find and utilize available resources."
+                        },
+                        {
+                            "term": "Equipment",
+                            "definition": "Tools, devices and apparatus used to perform a specific function."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 38,
+                        "questions": [
+                            "Check their books as they identify the apparatus and their use by filing in a table",
+                            "Provide guidance and clear misconception if any",
+                            "Review learners' discussion as they report back to other groups",
+                            "Ask learners open-ended questions to prompt further discussion",
+                            "SAMPLE QUESTIONS: 1. Give reasons why identification of physics apparatus is important. EXPECTED ANSWERS: -For conducting experiment - For data collection -For analyzing results - For effective communication",
+                            "SAMPLE QUESTIONS: 2. The HOD of expressive arts was in a hurry to mark a running track for inter zone competitions. Which physics instruments can he use to mark the ground in a quickest possible time? Give reasons for your answer. EXPECTED ANSWERS: \u2013 100m tape measure - A protractor for measuring angles",
+                            "Observe the correct use of the apparatus",
+                            "Review learners' findings",
+                            "Assess on the actual outdoor activities how the instruments in physics are being used",
+                            "Ask learners open-ended questions to prompt further discussion",
+                            "SAMPLE QUESTIONS 1. What are the potential consequences of using physics apparatus incorrectly or improperly? POSSIBLE ANSWERS: - Physical harm due to electrical shocks or broken glass - Explosions or fire - Damage to apparatus - Environmental contamination",
+                            "Monitoring learners progress by observing their ability to improvise apparatus and assess their understanding of physics concepts.",
+                            "Assess the learners\u2019 finished and functional improvised apparatus.",
+                            "Ask learners open-ended questions depending on the improvised apparatus to prompt further discussion and promote critical thinking."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4",
+                    "title": "Fundamental Concepts of Physics",
+                    "page": 46,
+                    "competences": [
+                        "Demonstrate curiosity and inquiry when exploring fundamental concepts of physics"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1",
+                            "page": 47,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This activity is designed to help learners explore the importance of Physics. There are three sub activities which learners will engage in as they explore."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.1",
+                            "page": 47,
+                            "hook": "What are the fundamental concepts of physics and their importance to our everyday life?",
+                            "teacher_steps": [
+                                "Introduction: Physics is a branch of science that deals with matter in relation to energy and fundamental laws that govern the behavior of the physical universe. At this level we restrict ourselves to Mechanics, thermodynamics, electromagnetism and wave optics and acoustics.",
+                                "Exploration: Divide learners in small groups and give them a scenario to figure out the physics concepts at play, e.g., for a car running from point A to B, what are the fundamental concepts of physics at play? Provide a running car to conceptualize the fundamentals of physics to deepen learners\u2019 understanding of knowledge/subject matter. Facilitate a discussion of the fundamental concepts on how they are connected e.g., how motion links to energy. Consolidate what the fundamental concepts of physics are in summary form to improve learners\u2019 understanding.",
+                                "Explanation: Provide a running car to conceptualise the fundamentals of physics to deepen learners\u2019 understanding of knowledge/ subject matter.",
+                                "Explanation: Discuss the fundamental concepts on how they are connected e.g., how motion links to energy.",
+                                "Explanation: Consolidate the fundamental concepts of physics in summary form to improve learners\u2019 understanding.",
+                                "Synthesis: Assist learners to connect between motion, forces, and energy to further their understanding of fundamental concepts of physics.",
+                                "Evaluation and reflection: Discuss the following as; Motion is how objects move, including speed, velocity and acceleration. Force is a push or pull on an object Their different forms of energy, for example kinetic energy and potential energy. Heat transfer is transfer of heat energy through conduction, convection, and radiation. Electric Circuit is a complete path followed by a charge. Light and Sound are different types of waves, light is electromagnetic wave whereas sound is a mechanical wave."
+                            ],
+                            "learner_steps": [
+                                "Engagement: Learners divide into small groups and study the scenario discussing basic physics concepts as picked from the scenario.",
+                                "Exploration: Learners discuss the physics concepts that affect our daily life.",
+                                "Explanation: Learners state the motion, sound and thermal changes observed from operating a motor car.",
+                                "Synthesis: Making a product that employs fundamental physics concepts.",
+                                "Evaluation and Reflection: The fundamental concepts of physics are mechanics, thermodynamics, electromagnetism, wave optics and acoustics."
+                            ],
+                            "short_notes": "In this activity, the teacher will introduce learners to the concepts of physics and its importance in everyday life. The learners will discuss fundamental concepts of Physics such as motion, forces, energy, momentum, work, and efficiency."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2",
+                            "page": 51,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This activity is designed to help learners familiarise themselves with different branches of Physics, be able to show the classification of branches of Physics as well as conduct Physics research activities."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2.1",
+                            "page": 51,
+                            "hook": "What are the different branches of physics and how do they relate to our everyday life?",
+                            "teacher_steps": [
+                                "Introduction: There are many branches of physics some of which are mechanics, thermodynamics, electromagnetism, waves optics and acoustics etc. Under mechanics, space and time, motion, forces, energy and momentum and newton\u2019s laws as topics are studied. Thermodynamics looks at temperature and heat, whereas electromagnetism looks at static electricity, electric potential and circuits, as well as magnetism and electromagnetic induction. Besides, wave optics and acoustics deals with wave motion, optics and acoustics.",
+                                "Exploration: Divide learners in small groups to discuss various branches of Physics in order to clear some misconceptions.",
+                                "Explanation: Give a sound but brief description/explanation of the branches of Physics and how they relate to our everyday life.",
+                                "Synthesis: Allowing learners classify some Physics concepts according to the branches.",
+                                "Evaluation and Reflection: The fundamental concepts underlying the branches of Physics are space and time, motion, forces, energy and momentum, Newton\u2019s laws, temperature and heat, static electricity, electric potential and circuits, magnetism and electromagnetic induction, wave motion, optics and sound."
+                            ],
+                            "learner_steps": [
+                                "Engagement: Learners divide into small groups and discuss branches of Physics.",
+                                "Exploration: Learners discuss the branches of Physics and how they affect our everyday life.",
+                                "Explanation: Learners present their understanding of what lies in the branches of Physics.",
+                                "Synthesis: Designing a system that employs concepts of branches of Physics.",
+                                "Evaluation and Reflection: The branches of physics are mechanics, thermodynamics, electromagnetism, wave optics and acoustics."
+                            ],
+                            "short_notes": "In this activity, learners will discuss the branches of Physics."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.3",
+                            "page": 53,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This activity is designed to introduce the scientific methods used in physics, such as observation, experimentation, data analysis, interpretation, scientific reporting, questioning, hypothesis and presentation. The learners will do an experiment to demonstrate scientific methods."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.3.1",
+                            "page": 53,
+                            "hook": "What are scientific methods?",
+                            "teacher_steps": [
+                                "Introduction: There are many various forms of scientific methods though the most important in the study of Physics are as follows: 1. Observation; physicist make observations about the natural world. They use their senses, instruments, and experiments to collect data. 2. Question; based on observations, Physicists ask questions that are specific, testable, and relevant to what they observe. 3. Hypothesis; this is an educated guess that attempts to explain the observation. Hypotheses should be specific, testable, and falsifiable. Hypotheses can be based on existing knowledge, theories, or models. 4. Prediction; based on the hypotheses physicists make predictions about what they expect to happen. These predictions must be specific, measurable and testable. 5. Experimentation: physicists design and conduct experiments to test their hypotheses and predictions. Experiments must be controlled, repeatable, and precise. Data is collected from the experiment. 6. Data Analysis: physicists analyse the data collected during the experiment. Data analysis involves identifying patterns, trends, and correlation. Data analysis is using statistical methods and mathematical modeling. 7. Conclusion: based on the data analysis, physicists draw conclusions about their hypotheses and predictions. The conclusion is based on evidence and data and it can lead to new questions, hypotheses and experiments. 8. Communication: physicists communicate their findings through reports, papers, and presentations. Communication should be clear, concise, and accurate. It leads to peer review, criticism, and reinforcement of ideas.",
+                                "Exploration: Divide learners into small groups to discuss various scientific methods in Physics.",
+                                "Explanation: Give a sound but brief description/explanation of the individual scientific methods in physics and how they relate to our everyday life.",
+                                "Synthesis: Allowing learners to conduct an experiment and apply scientific methods.",
+                                "Evaluation and Reflection: Physics scientific method is a systematic process used to develop and test scientific knowledge through observations, formulating hypotheses, and testing these hypotheses through experimentation and data analysis."
+                            ],
+                            "learner_steps": [
+                                "Using their senses, instruments, and experiments to collect data.",
+                                "Identifying the scientific methods used in our everyday life.",
+                                "Designing an experiment that employs scientific methods in Physics."
+                            ],
+                            "short_notes": "In this activity, learners will design an experiment that requires them to apply the scientific methods in Physics."
+                        }
+                    ],
+                    "short_notes": "This topic covers some concepts of physics categorised into five (5) sections, Mechanics, Properties of Matter, Heat and Temperature, Light and Sound, and Basic Electrical Concepts. This introduces learners to basic concepts of physics such as space and time, motion, forces, energy, density, states of matter, heat, temperature, light, sound, electricity and circuits. These basic concepts provide a solid foundation for further study in physics and help learners develop problem solving skills and critical thinking in everyday life.",
+                    "vocabulary": [
+                        {
+                            "term": "Distance",
+                            "definition": "space between two fixed points"
+                        },
+                        {
+                            "term": "Displacement",
+                            "definition": "distance covered in a specified direction"
+                        },
+                        {
+                            "term": "Speed",
+                            "definition": "rate of change of distance."
+                        },
+                        {
+                            "term": "Velocity",
+                            "definition": "speed in a specified direction or rate of change of displacement."
+                        },
+                        {
+                            "term": "Acceleration",
+                            "definition": "rate of change of velocity."
+                        },
+                        {
+                            "term": "Scalar quantities",
+                            "definition": "quantities with magnitude only."
+                        },
+                        {
+                            "term": "Vector quantities",
+                            "definition": "quantities with both magnitude and direction"
+                        },
+                        {
+                            "term": "Projectile motion",
+                            "definition": "motion under influence of gravity only."
+                        },
+                        {
+                            "term": "Newton\u2019s Laws of Motion",
+                            "definition": "Laws of motion as postulated by Sir Isaac Newton"
+                        },
+                        {
+                            "term": "Normal force",
+                            "definition": "force acting at right angle to the surface"
+                        },
+                        {
+                            "term": "Static friction",
+                            "definition": "friction experienced by a stationary object"
+                        },
+                        {
+                            "term": "kinetic friction",
+                            "definition": "friction experienced by an object in motion"
+                        },
+                        {
+                            "term": "Gravitational Force",
+                            "definition": "weight"
+                        },
+                        {
+                            "term": "Centripetal Force",
+                            "definition": "force towards centre of rotation experienced by an object"
+                        },
+                        {
+                            "term": "Kinetic Energy",
+                            "definition": "energy an object possesses due to motion."
+                        },
+                        {
+                            "term": "Potential Energy",
+                            "definition": "energy an object possesses due to position or orientation."
+                        },
+                        {
+                            "term": "Power",
+                            "definition": "rate at which energy is used."
+                        },
+                        {
+                            "term": "Momentum",
+                            "definition": "product of mass and velocity"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 50,
+                        "questions": [
+                            "Check if learners are correctly conducting the discussion and understand the concepts of physics.",
+                            "Ask questions such as: 1. What are physics concepts? 2. Explain the importance of each fundamental physics concept learners identify.",
+                            "Allow learners to do a presentation from the discussion of branches of Physics to correct the misconceptions that might arise.",
+                            "Review learners\u2019 actions",
+                            "Ask open ended questions to prompt further discussions",
+                            "Ask questions such as: 1. What are physics concepts? 2. How do branches of physics differ from each other?",
+                            "Check if learners are correctly applying the scientific methods to understand the concepts of Physics.",
+                            "Check if learners write the scientific report correctly.",
+                            "Check how learners do the analysis of their experimental results.",
+                            "Review learners\u2019 actions",
+                            "Ask open ended questions to prompt further discussions",
+                            "Ask questions such as: 1. What are scientific methods in Physics?",
+                            "2. Do scientific methods differ for each and every branch of Physics?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.5",
+                    "title": "Applications of Physics in Everyday Life",
+                    "page": 56,
+                    "competences": [
+                        "Apply concepts of Physics to real-world contexts"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1",
+                            "page": 57,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "These activities in physics will help the learner explore the real \u2013 world applications of Physics. Learners will appreciate the relevance of Physics in their everyday lives."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1.1",
+                            "page": 57,
+                            "hook": "Suppose there were no means of any form of transport in the world, what could have happened to mankind?",
+                            "teacher_steps": [
+                                "INTRODUCTION: Physics plays a vital role in many aspects of our daily lives. Understanding its application can enrich our appreciation for the natural world. This is the reason as to why a smart phone can recognize the voice and respond to your command. Plays a talking Tom application to attract the attention of learners.",
+                                "EXPLORATION: - Prepares a research guide for the learners to explore real world application of Physics in Physics based career like: engineering, medical physics, communication, transport... - Visits any site where they can explore the application of Physics in everyday life such as a farm, construction site, mining site, hospitals... - Design a device, in small groups that uses the application of Physics.",
+                                "EXPLANATION: - Physics is used to create strong magnetic fields which are used for MRI scanning, in aerodynamics Physics is used to study the behavior of air and its interaction with vehicles, cars and airplanes to design more efficient and stable vehicles. - Physics is used in the construction of farm machinery, GPS to provide accurate location and mapping, Sensors and monitoring used to monitor moisture and temperature. - Application of Physics at a construction site is seen with mechanics of materials which discusses properties of building material and the instruments being used. - In power plants Physics is used in the conversion of energy to produce electrical energy. - A device that that uses a range of Physics principles which is functional and can be applied in everyday life.",
+                                "SYNTHESIS: More other application of Physics can be discussed under synthesis more especially cross cutting issues on: - Nuclear Physics is used to understand the behavior of atomic nuclei to generate nuclear energy - Physics is used to understand the behavior of light and its interaction with materials for solar energy.",
+                                "EVALUATION AND REFLECTION: Discuss the key points: Application of Physics inspires and educates future generations promoting stem education. Application of Physics plays a vital role in emerging technologies such as quantum computing and renewable energy systems. Application of Physics in everyday life improves quality of life, economic growth, and environmental sustainability."
+                            ],
+                            "learner_steps": [
+                                "ENGAGEMENT: Paying attention as they play with any software gadgets where they will identify the application of Physics in everyday life like a smart phone can recognize the voice and respond to its command.",
+                                "EXPLORATION: - Preparing a research paper to explore real world application of Physics in physics based career like engineering, medical Physics, communication.... - Visiting any site where they can explore the application of Physics in everyday life such as a farm, construction site, mining site ,hospitals... - Designing a device, in small groups that uses the application of Physics.",
+                                "EXPLANATION: - On their research papers learners to discuss the application of Physics in physics related careers like medical field which uses strong magnetic fields in MRI scanning, in aerodynamics Physics is used to study the behavior of air and its interaction with vehicles, cars and airplanes to design more efficient and stable vehicles. - From the visit at the farm is Physics used in the construction of farm machinery, GPS to provide accurate location and mapping, Sensors and monitoring used to monitor moisture and temperature. - Application of Physics at a construction site is seen with mechanics of materials which discusses properties of building material and the instruments being used. - In power plants Physics is used in the conversion of energy to produce electrical energy. - A device that that uses a range of Physics principles which is functional and can be applied in everyday life.",
+                                "SYNTHESIS: - Following the cross cutting issues learner can discuss on how to mitigate climate change challenge such as dependency on hydroelectric power station by analyzing Nuclear physics is uses the behavior of atomic nuclei to generate nuclear energy. Physics also uses behavior of light and its interaction with materials for solar energy.",
+                                "EVALUATION AND REFLECTION: Discussing the key points: Nuclear power: Energy released from splitting of atomic nuclei that is converted to electricity. Solar power: Energy released by converting energy from sunlight into electricity. Demonstration of application of Physics in everyday life improves understanding of Physics concepts, critical thinking and increase learners motivation for future science careers."
+                            ],
+                            "short_notes": "In this activity learners will research on Physics-based careers and present their findings. For example, in engineering, medical Physics, transportation, communication, construction, energy production and consumption, agriculture. Learners will develop collaboration and communication skills as well as preparation for future careers."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 60,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Physics is a practical science that is not complex and not abstract but it plays a vital role in our lives. This learning activity will help the learners explore skills on how to demonstrate the application of Physics in everyday life, develop problem \u2013 solving skills and foster curiosity and interest."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 61,
+                            "hook": "How does the bicycle operations demonstrate the application of Physics in everyday life?",
+                            "teacher_steps": [
+                                "INTRODUCTION: Physics is a practical science that is not complex and not abstract but it plays a vital role in our lives. Demonstrating the application of Physics in everyday life will enhance learner\u2019 understanding of Physics concepts and develop critical thinking. Learner will analyze charging a phone, bicycle motion and relate them to application of Physics in everyday life.",
+                                "EXPLORATION: Put learners in small groups outside the classroom to demonstrate the application of Physics in everyday life by using a bicycle in motion, charging phone, measuring mass and any other equipment available.",
+                                "EXPLANATION: - The bicycle in motion demonstrates the application of physics by using forces applied to a pedal, frictional force and the force of gravity. - The charging phone demonstrates the application of physics by using electrical current which flows through a charger and is converted to usable form - Measuring mass demonstrates the application of physics by using a balance or scale which compares the weight of an object to a known standard in kg or g",
+                                "SYNTHESIS: Identify cross cutting issues in our area and challenge the learners demonstrate the application of Physics to come up with solutions. - Demonstrate application of Physics to solve the problem of climate change and reduce dependency on hydroelectric power. Such as Nuclear power station the uses the nuclear reactions to generate heat which is converted to electricity and solar power plants that uses solar panels to maximizes the heat from the sun and convert it to electrical energy.",
+                                "EVALUATION AND REFLECTION: Discuss the key points: Nuclear power: Energy released from splitting of atomic nuclei that is converted to electricity. Solar power: Energy released by converting energy from sunlight into electricity. Demonstration of application of Physics in everyday life improves understanding of Physics concepts, critical thinking and increase learners motivation for future science careers."
+                            ],
+                            "learner_steps": [
+                                "ENGAGEMENT: Demonstrating the application of Physics in everyday life will enhance learner\u2019 understanding of Physics concepts and develop critical thinking. Learner will analyze charging a phone, bicycle in motion, measuring mass ...and demonstrate how Physics principles are being applied.",
+                                "EXPLORATION: Demonstrating in small outside the classroom, application of Physics in everyday life by using a bicycle in motion, charging phone, measuring mass and any other equipment available.",
+                                "EXPLANATION: - Demonstrating the application of Physics by using forces applied to a pedal, frictional force and the force of gravity for the bicycle to move. - Demonstrating the application of Physics by using electrical current which flows through a charger and is converted to usable form when a phone is charging. - Demonstrates the application of Physics by using a balance or scale which compares the weight of an object to a known standard in kg or g when measuring mass.",
+                                "SYNTHESIS: Identifying cross cutting issues in our area and challenge the learners demonstrate the application of physics to come up with solutions. - Demonstrating application of Physics to solve the problem of climate change and reduce dependency on hydroelectric power. Such as Nuclear power station the uses the nuclear reactions to generate heat which is converted to electricity and solar power plants that uses solar panels to maximizes the heat from the sun and convert it to electrical energy.",
+                                "EVALUATION AND REFLECTION: Discussing the key points: Nuclear power: Energy released from splitting of atomic nuclei that is converted to electricity. Solar power: Energy released by converting energy from sunlight into electricity. Demonstration of application of Physics in everyday life improves understanding of Physics concepts, critical thinking and increase learners motivation for future science careers."
+                            ],
+                            "short_notes": "In this activity learners will demonstrate the application of Physics in everyday life such as charging the phone, measuring mass, riding a bicycle, using the solar panels, car features to protect the passengers..."
+                        }
+                    ],
+                    "short_notes": "Physics plays a vital role in our lives influencing the world around us. In this lesson learners will explore the applications of physics in everyday life and gain a deeper appreciation for the importance of Physics in shaping our world. Learners will be engaged in two learning activities: identifying applications of Physics in everyday life and demonstrating the applications of Physics in everyday life.",
+                    "vocabulary": [
+                        {
+                            "term": "Career",
+                            "definition": "A journey that one takes to achieve their professional goals and aspiration."
+                        },
+                        {
+                            "term": "Research",
+                            "definition": "A Structured process of investigation and inquiry aimed at discovering, interpreting and revising knowledge on a particular topic or problem."
+                        },
+                        {
+                            "term": "Design",
+                            "definition": "A creation of a concept of an idea that aim to solve a problem."
+                        },
+                        {
+                            "term": "Device",
+                            "definition": "A machine or apparatus that perform a specific function often involving conversion of energy."
+                        },
+                        {
+                            "term": "Sustainability",
+                            "definition": "Ability to maintain a system without depleting the natural resources."
+                        },
+                        {
+                            "term": "Public health",
+                            "definition": "A science of and practice of preventing diseases in the society."
+                        },
+                        {
+                            "term": "Climate change",
+                            "definition": "Long term warming of the planet due to increase in temperatures."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 60,
+                        "questions": [
+                            "Assess the learners on their research work on application of Physics in everyday life.",
+                            "Observe their curiosity on application of Physics in everyday life during the visit.",
+                            "Assesses the originality and functionality of the designed device if it applies the concept of physics in everyday life.",
+                            "Ask open ended questions during research, trip and the process of designing a devise that applies physics in everyday life",
+                            "Writing the principles of Physics applied during the demonstrations of how a bicycle and other devices operates in their books.",
+                            "Assess on demonstration of applying Physics in everyday life with different devises.",
+                            "Assess learners on critical thinking by using scientific terms and principles.",
+                            "Check their books on how they analyze the demonstration of application of Physics in everyday life to solve the challenges of climate change and reduce the dependency on hydro power."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "General Physics",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Basic Principles of Scientific Investigations",
+                    "page": 65,
+                    "competences": [
+                        "Apply principles of scientific investigations"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1",
+                            "page": 66,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This activity is designed to help learners explore the basic principles of scientific investigations. There are two sub activities which learners will engage in as they explore."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.1",
+                            "page": 66,
+                            "hook": "How does the distance between magnets affects the magnetic force?",
+                            "teacher_steps": [
+                                "Introduction: Magnetism is a physical phenomenon resulting from the interaction between magnetic fields, which are created by the motion of charged particles, and magnetic materials, which are capable of being magnetized. Magnetic fields also exert forces on other magnets, causing them to attract or repel each other. Magnetic force is the force exerted by a magnetic field on a moving charge, such as an electron, or on another magnet.",
+                                "Exploration: Put learners in small groups",
+                                "Exploration: Provide them with the materials",
+                                "Exploration: Facilitate the learning process by guiding the learners through a process of discovery, rather than simply transmitting knowledge",
+                                "Explanation: The stronger the magnetic field, the greater the magnetic force. The magnetic force will decrease as the distance between magnets increases and vice versa.",
+                                "Synthesis: Help learners integrate and connect new information about magnetism to their existing knowledge, creating a deeper and more meaningful understanding.",
+                                "Evaluation and Reflection: Help learners reflect on their learning, identify areas for improvement, and develop a growth mindset regarding magnetic force."
+                            ],
+                            "learner_steps": [
+                                "Formulating a hypothesis: Make an educated guess about what you expect to happen in your experiment. For example: \"I predict that the magnetic force will decrease as the distance between magnets increases.\"",
+                                "Designing the experiment",
+                                "Conducting the experiment",
+                                "Analysing the data",
+                                "Drawing a conclusion"
+                            ],
+                            "short_notes": "In this activity, learners will design and conduct an experiment on magnetism that involves basic principles of scientific investigations."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.2",
+                            "page": 68,
+                            "hook": "What makes objects move?",
+                            "teacher_steps": [
+                                "Introduction: An essential part of learning physics is to communicate findings from a scientific investigation. Thus, preparation of a laboratory report in the form of a scientific paper is regarded as an important part of learning. A formal laboratory report is utilised either for writing up a given laboratory that you performed or for designing and conducting your own laboratory exercise. Scientific papers are written in a standard format with the following sections; 1. Title Each piece of scientific work should include a concise but descriptive title. While it is important to be short and concise (essentially one sentence) you do not want to be vague or incorrect. 2. Abstract The abstract is usually the last section one writes, and acts as a short paragraph summary of the contents of the entire report. A reader should be able to glean the essentials of what the rest of the report is going to cover, from reading the abstract. 3. Introduction The introduction should provide the background for a reader unfamiliar with the field of the experiment, to jump into it. It should describe the scientific question you are looking to probe in the experiment, and motivate why you (and the reader) should be interested in it. 4. Methodology Students often start with this section as it is straight-forward. In writing a materials and methods section, you need to describe what you did in such a way that a fellow scientist can follow and duplicate your experiment. 5. Results You should present the results of your measurements and analysis here. A clear and concise presentation of the data collected, including any tables, graphs, or charts. 6. Discussion In this section, you should demonstrate your grasp of the experiment by discussing the statistical significance of your measurements. Comment on whether or not your observations differ significantly from your expectations. 7. Conclusion In the conclusion, you quickly summarize for the reader your results, the precision and accuracy of these results relative to expectations, and the possibility of improving your measurements 8. References A list of sources cited in the report, formatted according to a consistent citation style. 9. Appendices Any additional information that supports the report, such as raw data, extra graphs, or photographs.",
+                                "Exploration: Put learners in small groups",
+                                "Exploration: Provide them with the materials",
+                                "Exploration: Facilitate the learning process by guiding the learners how write a scientific report to disseminate scientific ideas by investigating between force and acceleration.",
+                                "Explanation: Newton's Second Law of Motion states that the acceleration of an object is directly proportional to the force applied and inversely proportional to its mass (F = ma). This law is fundamental to understanding how objects move and respond to forces.",
+                                "Synthesis: Help learners integrate and connect new information about the relationship between force and acceleration to their existing knowledge, creating a deeper and more meaningful understanding.",
+                                "Evaluation and Reflection: Help learners reflect on their learning, identify areas for improvement, and develop a growth mindset regarding the relationship between force and acceleration."
+                            ],
+                            "learner_steps": [
+                                "Setting up the trolley on a smooth surface",
+                                "Attaching the spring balance to the trolley",
+                                "Applying a force of 50g to the trolley and measure the acceleration using the stopwatch",
+                                "Repeating step 3 for forces of 100g and 150g",
+                                "Recording the data in a table"
+                            ],
+                            "short_notes": "A scientific report in physics is a written document that presents the results of a scientific investigation or experiment in a clear, concise, and systematic manner. In this activity, learners will write a scientific report to disseminate scientific ideas by investigating the relationship between force and acceleration."
+                        }
+                    ],
+                    "short_notes": "Scientific investigation is a systematic and structured process used to explore and understand a physical phenomenon or problem. This subtopic examines the basic principles that form the foundation of the scientific method in Physics and are essential for conducting experiments, collecting data, and drawing meaningful conclusions.",
+                    "vocabulary": [
+                        {
+                            "term": "Investigate",
+                            "definition": "To conduct a systematic and thorough inquiry into a phenomenon or problem, often involving research, experimentation, and data collection."
+                        },
+                        {
+                            "term": "Collect data",
+                            "definition": "To gather and record information, often in numerical or quantitative form, to help answer a question, test a hypothesis, or understand a phenomenon."
+                        },
+                        {
+                            "term": "Analysing data",
+                            "definition": "Involves examining and interpreting the data collected during an experiment or investigation to extract meaningful information and draw conclusions."
+                        },
+                        {
+                            "term": "Observe",
+                            "definition": "To carefully watch, listen, or otherwise perceive a phenomenon or event, often to gather information, identify patterns, or note changes."
+                        },
+                        {
+                            "term": "Explore",
+                            "definition": "To investigate or examine a phenomenon, system, or process in order to gain a deeper understanding of its properties, behavior, or underlying principles."
+                        },
+                        {
+                            "term": "Hypothesis",
+                            "definition": "An educated guess or tentative explanation for a phenomenon or problem, often based on prior knowledge, research, or observation, and tested through experimentation or further investigation."
+                        },
+                        {
+                            "term": "Examine",
+                            "definition": "To carefully inspect, scrutinize, or analyze something, often to gather more detailed information, identify characteristics, or understand relationships."
+                        },
+                        {
+                            "term": "Conclusion",
+                            "definition": "Summarize findings and determine if hypothesis is supported."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 67,
+                        "questions": [
+                            "Check if learners are correctly designing and conducting an experiment",
+                            "Ask questions such as: 3. What happened to the magnetic force when the distance between the magnets; i. Increased ii. Decreased? 4. What is the conclusion of the activity?",
+                            "Check if learners are correctly conducting the activity and collecting the data accordingly.",
+                            "Ask questions such as: 1. What was the relationship between force and acceleration? 2. What is the conclusion of the activity? 3. Check if the learners can write a scientific report on the relationship between force and acceleration."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Physical Quantities",
+                    "page": 72,
+                    "competences": [
+                        "Classify physical quantities as basic and derived"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2",
+                            "page": 72,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This activity is designed to help learners classify physical quantities as basic and derived. There are six sub activities which learners will engage in as they classify."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.1",
+                            "page": 72,
+                            "hook": "Consider the process of building a house, what basic quantities are involved (e.g. length, mass)?",
+                            "teacher_steps": [
+                                "Introduction: Basic quantities are quantities from which all other quantities are obtained. The SI units used to express the basic quantities are called basic units. The figure below shows an illustration for a basic quantity. Basic quantity For example: is like the brick was the basic building block of a house Derived quantity for example: is the house that was built up from a collection of bricks (basic quantity)",
+                                "Exploration: Put learners in small groups",
+                                "Exploration: Provide them with a set of problem",
+                                "Exploration: Ask groups to work together to solve the problems",
+                                "Exploration: Facilitate the learning process by guiding the learners as they explore and discuss basic quantities and their units.",
+                                "Explanation: They are seven basic quantities and their respective SI units. The table below shows the basic quantities with respective SI units. Basic quantity S.I unit Symbol 1. Length Metre m 2. Mass Kilogram kg 3. Time Second S 4. Thermodynamic temperature Kelvin K 5. Electric Current Ampere A 6. Amount of substance Mole mol 7. Luminous Intensity Candela cd",
+                                "Synthesis: Help learners integrate and connect new information about basic quantities and their unis to their existing knowledge, creating a deeper and more meaningful understanding.",
+                                "Evaluation and Reflection: Help learners to reflect on their learning, identify areas for improvement, and develop a growth mindset regarding basic quantities and their units."
+                            ],
+                            "learner_steps": [
+                                "Discussing and identifying basic quantities and their units",
+                                "Presenting their findings"
+                            ],
+                            "short_notes": "In this activity, learners will discuss in small groups, basic quantities and their units."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.2",
+                            "page": 75,
+                            "hook": "How fast is fast enough? How do derived quantities like speed and acceleration affect our daily lives?",
+                            "teacher_steps": [
+                                "Introduction: Derived quantities are physical quantities which are formed as a result of the combination of other physical quantities. The SI units used to express the derived quantities are referred to as derived units. A derived quantity has an equation which links to other quantities. It enables us to express a derived unit in terms of base-unit equivalent. Example: F = ma; Newton = kg m/s2 P = ; Pascal = Kgm-1s-2",
+                                "Exploration: Put learners in small groups",
+                                "Exploration: Provide the materials",
+                                "Exploration: Ask learners to design a laboratory investigation that involves measuring derived quantities",
+                                "Exploration: Facilitate the learning process by guiding the learners as they design a laboratory investigation that involves measuring derived quantities and their units",
+                                "Exploration: Ask learners to conduct the investigation and record their measurements and units",
+                                "Exploration: Ask learners to analyze and present their findings",
+                                "Explanation: The symbols for derived units are obtained by means of the mathematical signs for multiplication, division, and use of exponents.",
+                                "Synthesis: Help learners integrate and connect new information when designing laboratory investigations involving derived quantities and their units.",
+                                "Evaluation and Reflection: Help learners reflect on their learning, identify areas for improvement, and develop a growth mindset regarding derived quantities and their units."
+                            ],
+                            "learner_steps": [
+                                "Designing a laboratory investigation that involves measuring derived quantities",
+                                "Conducting the investigation and recording their measurements and units",
+                                "Analysing and presenting their findings"
+                            ],
+                            "short_notes": "In this activity, learners will design a laboratory investigation that involves measuring derived quantities and their units."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.3",
+                            "page": 78,
+                            "hook": "Why do we need prefixes?",
+                            "teacher_steps": [
+                                "Introduction: The units often have prefixes, indicating the power(s) of 10 by which a unit may be multiplied (for example, the prefix kilo in kilometer indicates that the unit kilometer is 1000 times larger than the meter). They are attached to an SI unit name or symbol to form what are properly called \"multiples\" and \"sub-multiples\" (i.e., positive or negative powers of 10) of the SI unit.",
+                                "Exploration: Put learners in small groups",
+                                "Exploration: Prepare a set of cards with prefixes (e.g., kilo-, centi-, milli-) and units (e.g., meter, gram, second)",
+                                "Exploration: Ask learners to sort the cards into correct combinations",
+                                "Exploration: Facilitate the learning process by guiding the learners as they play a prefix sorting game to apply their knowledge of prefixes, multiples, and sub-multiples to basic and derived units.",
+                                "Explanation: These prefixes are helpful when referring to very small or very large quantities. Instead of creating a new unit, a prefix is added. For example, when measuring short lengths such as 1/1000th of a meter, we simply write millimeter; milli denotes 1/1000 th. Prefixes simplify the writing of very large and very small quantities.",
+                                "Synthesis: Help learners integrate and connect new information about prefix sorting games, applying their knowledge of prefixes, multiples, and sub-multiples to basic and derived units.",
+                                "Evaluation and Reflection: Help learners reflect on their learning, identify areas for improvement, and develop a growth mindset about applying prefixes, multiples, and submultiples to basic and derived units through the prefix sorting game."
+                            ],
+                            "learner_steps": [
+                                "Sorting cards with prefix and units",
+                                "Sorting the cards into correct combinations"
+                            ],
+                            "short_notes": "In this activity, learners will play a prefix sorting game to apply their knowledge of prefixes, multiples, and sub-multiples to basic and derived units."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.4",
+                            "page": 80,
+                            "hook": "How Many atoms are in a typical grain of sand? Express your answer in scientific notation?",
+                            "teacher_steps": [
+                                "Introduction: Scientific notation is also called standard form. Scientific notation is a method of expressing a number in the form: a x 10n , where 1 \u2264 a < 10 and n is an integer. This is where numbers are expressed in the power of ten.",
+                                "Exploration: Put learners in small groups",
+                                "Exploration: Give each group a copy of the scavenger hunt clues, and ask them to find and solve each clue",
+                                "Exploration: Ask learners to write down the correct answer in scientific notation",
+                                "Exploration: Facilitate the learning process by guiding the learners as they participate in a scientific notation scavenger hunt, finding and recording measurements expressed in scientific notation.",
+                                "Explanation: Scientists frequently deal with very large numbers or small numbers as they carry out their measurements. For example, the speed of light in air is 300 000 000 m/s and the mass of the earth is about 5 972 000 000 000 000 000 000 kg. These figures are inconvenient to write and difficult to read. Therefore, scientific notation is used for writing down very large and very small measurements.",
+                                "Synthesis: Help learners integrate and connect new information as they participate in a scientific notation scavenger hunt, finding and recording measurements expressed in scientific notation.",
+                                "Evaluation and Reflection: Help learners reflect on their learning, identify areas for improvement, and develop a growth mindset regarding finding and recording measurements expressed in scientific notation."
+                            ],
+                            "learner_steps": [
+                                "Finding and solving each clue",
+                                "Writing down at each location the correct answer in scientific notation"
+                            ],
+                            "short_notes": "In this activity, learners will participate in a scientific notation scavenger hunt, finding and recording measurements expressed in scientific notation."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.5",
+                            "page": 82,
+                            "hook": "A car travels 456.7 metres in 23.45 seconds. Calculate the speed of the car and express the answer to the correct number of significant figures?",
+                            "teacher_steps": [
+                                "Introduction: Significant figures are digits or numbers which are regarded to be important in a measurement i.e., they predict the accuracy of a measurement made by a particular instrument. The following rules are considered when writing significant figures: All non-zero digits are significant, All zeros trailing a non-zero digit are not significant, All zeros between non-zero digits are significant, All zeros leading a non-zero digit in a decimal point are not significant, All zeros trailing a non-zero digit and a decimal point are significant",
+                                "Exploration: Put learners in small groups",
+                                "Exploration: Provide learners with real-world case study such as measuring the density of a metal block",
+                                "Exploration: Assign specific roles or tasks to each group member to ensure everyone contributes",
+                                "Exploration: Establish a timeline and check-in points to keep the group on track",
+                                "Exploration: Evaluate individual contributions and the group\u2019s overall performance",
+                                "Explanation: Significant figures are the digits in a measurement that are known to be reliable and accurate. They indicate the precision of a measurement. By following these rules and using significant figures correctly, you can ensure that the measurements and calculations are accurate, precise, and reliable.",
+                                "Synthesis: Help learners integrate and connect new information as they analyse and solve problems using significant figures, based on a real- world case study provided.",
+                                "Evaluation and Reflection: Help learners reflect on their learning, identify areas for improvement, and develop a growth mindset regarding analysing and solving problems using significant, based on a real-world case study provided."
+                            ],
+                            "learner_steps": [
+                                "Determining the number of significant figures in each of the measurements from the case study shown below. Case Study: Measuring the density of a metal block A student measures the mass of a metal block to be 456.78 grams using a balance with a precision of 0.01 grams. The student then measures the length, width, and height of the block to be 10.23cm, 5.12 cm, and 2.56 cm, respectively, using a ruler with a precision of 0.01 cm.",
+                                "Explaining why each measurement has the determined number of significant figures"
+                            ],
+                            "short_notes": "In this activity, learners will analyse and solve problems using significant figures, based on a real- world case study provided."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.6",
+                            "page": 84,
+                            "hook": "A container holds 5000 mL of a liquid. What is the volume in cubic decimeters?",
+                            "teacher_steps": [
+                                "Introduction: Conversion of units in Physics involves changing the units of a physical quantity from one unit to another, while keeping the quantity itself unchanged. This is often necessary when working with different systems of units such as the International System of Units (SI).",
+                                "Exploration: Put learners in small groups",
+                                "Exploration: Choose a scenario from science, engineering, or medicine that requires unit conversions, such as calculating medication dosages or converting energy units",
+                                "Exploration: Outline clearly what learners should learn from the activity, including specific unit conversion skills and real-world applications",
+                                "Exploration: State clearly the unit conversions required to solve the problem, such as converting from milligrams to grams.",
+                                "Exploration: Allow learners to work individually or in groups to complete the unit conversions and solve the problem.",
+                                "Explanation: Conversion is a multi-step process that involves multiplication or division by a numerical factor, selection of the correct number of significant digits, and rounding.",
+                                "Synthesis: Help learners integrate and connect new information as they research and present on real-world applications of unit conversions, such as in science, engineering, or medicine.",
+                                "Evaluation and Reflection: Help learners reflect on their learning, identify areas for improvement, and develop a growth mindset regarding researching and presenting on real-world applications of unit conversions, such as in science, engineering, or medicine"
+                            ],
+                            "learner_steps": [
+                                "Researching and presenting on real-world applications of unit conversions, such as in science (Temperature Control: Converting temperature from Celsius (\u00b0C) to Kelvin (K) to understand the behavior of materials at different temperatures), engineering (Electrical Engineering: Converting units of energy from kilowatt-hours (kWh) to joules (J) to calculate the energy efficiency of electrical systems), or medicine (Medication Dosage: Converting medication dosages from milligrams (mg) to grams (g) or micrograms (\u03bcg) to ensure accurate administration).",
+                                "Working individually or in groups to complete the unit conversions"
+                            ],
+                            "short_notes": "In this activity, learners will research and present on real-world applications of unit conversions, such as in science, engineering, or medicine."
+                        }
+                    ],
+                    "short_notes": "Physics is concerned with measurement of physical quantities and classifying them into groups according to their nature. Physical quantities are measurable features or properties of objects. A physical quantity is one that can be measured and consists of a magnitude. Every physical quantity is expressed using more than one unit. For instance, length is measured in millimeters, centimeters, kilometers, miles... Similarly, mass is measured in milligrams, centigrams, grams, kilograms, tonnes... This subtopic categorises physical quantities into two types: basic and derived, and explores their respective units.",
+                    "vocabulary": [
+                        {
+                            "term": "Measure",
+                            "definition": "To find the value of a physical quantity using a scientific instrument with a standard scale."
+                        },
+                        {
+                            "term": "Magnitude (Size)",
+                            "definition": "Is the numerical value and the unit."
+                        },
+                        {
+                            "term": "SI unit",
+                            "definition": "Is the standardized system of measurement units used universally in Physics and other scientific fields."
+                        },
+                        {
+                            "term": "Prefixes",
+                            "definition": "Are letters or symbols added to the beginning of a unit to indicate a multiple or fraction of that unit."
+                        },
+                        {
+                            "term": "Scavenger hunt",
+                            "definition": "Is a fun and interactive activity where participants are given a list of items or challenges to find or complete within a specific time frame or area."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 75,
+                        "questions": [
+                            "Evaluate learners\u2019 participation and engagement in the discussions about physical quantities and their units",
+                            "Apply understanding of basic quantities to real world scenarios such as building a house, cooking recipe \u2026",
+                            "Ask questions such as: 1. What can you say aboutyour findings? What have you learned? 2. How are you going to present your findings of basic quantities and their units in the most elaborate way?",
+                            "Monitor learners' participation in laboratory investigation",
+                            "Apply understanding of derived quantities to real world scenarios such as building a house, designing a roller coaster\u2026",
+                            "Provide learners with a case study that involves derived quantities and ask them to analyze and present their findings. Provided is the sample of the case study. Case Study: Designing a Fish Pond A local farmer wants to build a fish pond to raise tilapia for food. The farmer needs to design the pond to ensure it's efficient, safe, and productive. Derived Quantities 1. Volume: The farmer needs to calculate the volume of the pond to determine how many fish it can hold. 2. Surface Area: The farmer must consider the surface area of the pond to ensure adequate oxygenation and sunlight penetration. 3. Depth: The farmer needs to determine the optimal depth for the pond to ensure healthy fish growth and easy harvesting. 4. Flow Rate: The farmer must calculate the flow rate of water into and out of the pond to maintain water quality and prevent waste buildup. Questions to Investigate: 1. How does the shape and size of the pond affect its volume, surface area, and depth? 2. What is the optimal flow rate for the pond to maintain healthy water conditions? 3. How can the farmer ensure adequate oxygenation and sunlight penetration in the pond?",
+                            "Walk around the room to observe learners sorting cards and provide verbal feedback",
+                            "Assess learners understanding of relationships between prefixes, multiples, and sub-multiples.",
+                            "Collect the sorted cards and review them to assess learners\u2019 understanding",
+                            "Evaluate learners\u2019 ability to apply prefixes, multiples, and sub-multiples to real-world scenarios",
+                            "Ensure that the scavenger hunt does not pose any safety risks to learners",
+                            "Monitor learners\u2019 progress and encourage team work and collaboration",
+                            "Ask learners to research and present on a real-world application of scientific notation, such as: 1. How scientists use scientific notation to express large or small numbers in their research. 2. How engineers use scientific notation to design and build structures or systems.",
+                            "Ensure learners understand what is expected of them and what they need to accomplish",
+                            "Note areas where pupils are struggling and provide targeted support",
+                            "Pose open-ended questions that encourage pupils to think critically and explore different perspective",
+                            "Create guiding questions to help learners navigate the scenario and focus on the learning objectives",
+                            "Collect learners' work and review it to assess their understanding of unit conversions and real-world applications",
+                            "Provide feedback to learners on their work, highlighting strengths and weaknesses, and offering suggestions for improvement",
+                            "Discuss the scenario and solutions as a class, addressing any common misconceptions or challenges"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "Precision and Accuracy",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Precision and Accuracy",
+                    "page": 87,
+                    "competences": [
+                        "Demonstrate precision and accuracy in measurements."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1",
+                            "page": 88,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This activity is designed to help learners acquire skills knowledge on how to measure length with accuracy and precision using a meter rule, calipers, and micrometer screw gauge."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.1",
+                            "page": 88,
+                            "hook": "have you ever thought of the distance you cover from school to your home? How best can you measure it?",
+                            "teacher_steps": [
+                                "Introduction: Length refers to the distance between two point. In this lesson, learners will use a meter rule and a measuring tape to measure different lengths of different objects which are natural or artificial.",
+                                "Introduce the activity",
+                                "Divide learners into groups",
+                                "Provide the materials",
+                                "Provide the instructions on how to conduct the activity",
+                                "Ask learners to report their findings"
+                            ],
+                            "learner_steps": [
+                                "Learners getting into groups and receiving materials",
+                                "Measuring lengths of different objects accurately within the given period of time and the group that measured correctly wins",
+                                "Reporting the findings."
+                            ],
+                            "short_notes": "In this activity, learners will role play the use of the use of meter rule to measure lengths of different objects with precision and accuracy."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.2",
+                            "page": 89,
+                            "hook": "how can diameters/thicknesses of objects such as thickness of paper diameter of pipes be measured?",
+                            "teacher_steps": [
+                                "Introduction: Some objects are too small such that their length or diameters cannot be measured using a meter rule. Learners will be introduced to new measuring instruments called vernier caliper and micrometer screw gauge.",
+                                "Introduce the activity",
+                                "Divide learners into groups",
+                                "Provide the materials",
+                                "Provide the instructions on how to conduct the activity",
+                                "Ask learners to measure Internal and External Dimensions of different objects, such as a pipe or a hole\u2026. Ensuring precision and accuracy",
+                                "Ask learners to report their findings on how accurately and precisely they determined the diameter.",
+                                "Clarify on the reports given to learners and provide content",
+                                "In a case of vernier caliper and micrometer screw gauge, explain to learners how the readings are taken when measuring length since most of them may be using them for the first time"
+                            ],
+                            "learner_steps": [
+                                "Learners getting into groups and receiving materials",
+                                "Learners working in groups to measure diameters and thickness of different objects as they consider precision and accuracy",
+                                "Reporting the findings."
+                            ],
+                            "short_notes": "In this activity, learners will explore how a vernier calipers can be used to measure internal and external diameter including depths of hollow objects and how a micrometer screw gauge can measure the thickness of thin objects with accuracy and precision."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.3",
+                            "page": 91,
+                            "hook": "how do people use area measurements in everyday life, such as when buying paint?",
+                            "teacher_steps": [
+                                "Introduction: Area is a measure of size of a flat surface, such as square, rectangle, triangle e.t.c. Area mostly applies to two dimensional shapes. It is measured in square meter. In this activity, learners will determine and calculate areas of different shapes.",
+                                "Introduce the activity",
+                                "Divide learners into groups",
+                                "Provide the materials",
+                                "Lead learners to find formulas on how to calculate areas of different regular shapes such as square, rectangle, triangle, trapezium\u2026.",
+                                "Help learners to obtain squares, rectangles, triangles, trapeziums\u2026 shapes and ask them to measure the lengths and widths to calculate the area.",
+                                "Help learners to find irregular shapes and let them do the game in which they divide irregular shaped objects into smaller rectangles or triangles to calculate the total area. The group that finishes first wins.",
+                                "*Real-World Applications*: Ask students to measure and calculate the area of real-world objects, such as a room, a table, or a book",
+                                "Ask learners to report their findings"
+                            ],
+                            "learner_steps": [
+                                "Learners getting into groups and receiving materials",
+                                "Learners working in groups to determine areas of different regular shaped as they consider precision and accuracy",
+                                "Cutting irregular shaped objects into shapes and calculating area (other alternatives in calculating area of irregular shaped objects may be employed here)",
+                                "Reporting the findings."
+                            ],
+                            "short_notes": "In this activity, learners will do role play to determine the area of different objects accurately and precisely. They will also calculate area of different shapes."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.4",
+                            "page": 93,
+                            "hook": "Can you think of a situation where knowing the volume of an object would be more important than knowing its surface area?",
+                            "teacher_steps": [
+                                "Introduction: volume is a fundamental concept in Mathematics and in Physics. It refers to the amount of three-dimensional space occupied by an object or substance. It is measured in cubic meters.",
+                                "Introduce the activity",
+                                "Divide learners into groups",
+                                "Provide the materials",
+                                "Provide formulae for calculating volume of different regular objects",
+                                "Set up stations with various objects such as cubes, spheres, cylinders and have learners measure and calculate their volumes",
+                                "Ask learners to explore how volume is used in cooking and recipes such as measuring ingredients.",
+                                "Ask learners to make objects with specific volumes for a real-world application such as storing liquids...",
+                                "Ask learners to report their findings",
+                                "Clarify on the reports given to learners and provide content"
+                            ],
+                            "learner_steps": [
+                                "Learners getting into groups and receiving materials",
+                                "Learners working in groups to measure and calculate volumes of different objects",
+                                "Making objects with specific volume for storing liquids and/or solids such as sugar, salt\u2026",
+                                "Reporting the findings."
+                            ],
+                            "short_notes": "In this activity, learners will design objects with specific volumes."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.5",
+                            "page": 95,
+                            "hook": "What do you think can be done to find the volume of an object whose sides are not well defined?",
+                            "teacher_steps": [
+                                "Introduce the activity",
+                                "Divide learners into groups",
+                                "Provide the materials and work sheets",
+                                "Have learners measure the volume of an object by displacing water in a container (measuring cylinder).",
+                                "Ask learners to fill containers with sand or rice and have learners estimate and measure the volume.",
+                                "Ask learners to report their findings.",
+                                "Clarify on the reports given to learners and provide necessary content"
+                            ],
+                            "learner_steps": [
+                                "Learners getting into groups and receiving materials",
+                                "Learners working in groups to determine volume of irregular shaped objects by displacement",
+                                "Learners working in groups to estimate the volumes of rice, salt, sugar, sand\u2026",
+                                "Reporting the findings."
+                            ],
+                            "short_notes": "In this activity, learners will determine the volume of irregularly shaped objects."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.6",
+                            "page": 97,
+                            "hook": "Can you think of different situations where knowing the volume of a liquid is important such as in cooking.",
+                            "teacher_steps": [
+                                "Introduce the activity",
+                                "Divide learners into groups",
+                                "Provide the materials and work sheets",
+                                "Have learners measure the volume of liquids provided using a measuring cylinder, burette and pipette",
+                                "Ask learners to report their findings.",
+                                "Clarify on the reports given to learners and provide necessary content"
+                            ],
+                            "learner_steps": [
+                                "Learners getting into groups and receiving materials",
+                                "Learners working in groups to determine volume of liquids using appropriate apparatus given",
+                                "Reporting the findings."
+                            ],
+                            "short_notes": "In this activity, learners will determine the volume of any liquid."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.7",
+                            "page": 98,
+                            "hook": "have you ever helped measure mass or weigh objects such as ingredients for cooking or packages for trucks or car?",
+                            "teacher_steps": [
+                                "Introduction: Mass is a fundamental quantity that describes the amount of matter contained in a substance or object. Mass is a conserved quantity. Which means it can not b created or destroyed.",
+                                "Introduce the activity",
+                                "Divide learners into groups",
+                                "Provide the materials and work sheets",
+                                "Prepare a set of solid objects with different masses/weight and ask students to sort them from lightest to heaviest.",
+                                "Have students compare the mass/weight of different solid objects using a balance or scale.",
+                                "Provide students with various liquids (e.g., water, juice) and have them measure the mass/weight using a balance or scale.",
+                                "Have students transfer a known volume of liquid from one container to another and measure the mass to demonstrate that mass remains constant",
+                                "Conduct an experiment to demonstrate the difference between weight and mass.",
+                                "Investigate how weight is affected by gravity through experiments, such as dropping objects",
+                                "Explore how weight is affected by buoyancy through experiments, such as measuring the weight of objects in water",
+                                "Use a balloon or a syringe to allow learners to demonstrate that gases have mass, even though they are invisible.",
+                                "Have students measure the mass of a gas-filled container (e.g., a balloon) and compare it to the mass of an empty container",
+                                "Ask learners to report their findings.",
+                                "Clarify on the reports given to learners and provide necessary content"
+                            ],
+                            "learner_steps": [
+                                "Learners getting into groups and receiving materials",
+                                "Learners working in groups to sort out masses from lightest to heaviest",
+                                "Learners comparing masses of different solid objects using balance or scale",
+                                "Learners measuring mass of different liquids",
+                                "Learners confirming that mass remains the same",
+                                "Learners working in groups to investigate the differences between mass and weight",
+                                "Investigating how weight is affected by gravity",
+                                "Exploring how weight is affected by buoyancy",
+                                "Learners proving that gases have mass",
+                                "Learners comparing the mass of a gas to that of empty container",
+                                "Reporting the findings."
+                            ],
+                            "short_notes": "In this activity, learners will measure the masses of different substances with accuracy and precision."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.8",
+                            "page": 101,
+                            "hook": "why do ships and pontoons float on water even though they are made up of very heavy metals?",
+                            "teacher_steps": [
+                                "Introduction: density is a physical property that describes the amount of mass per unit volume. It is measured in kilograms per cubic meter. It is a property that helps describe the behavior of materials under different conditions",
+                                "Create a density column using different liquids such as vegetable oil, water, corn syrup and solids such as beads, pebbles e.t.c and let the learners observe the floating and sinking",
+                                "Have students predict whether various objects will sink or float in a container of any liquid",
+                                "Divide students into teams and ask them to design an experiment to measure the density and relative density of a given object (solids, liquids and gases)",
+                                "Utilize online simulations to demonstrate density and relative density concepts, such as PhET Interactive Simulations.",
+                                "Discuss how density is important in shipbuilding, as ships need to be able to float",
+                                "Have students research and calculate the density of different minerals",
+                                "Clarify on the reports given by learners and provide necessary content"
+                            ],
+                            "learner_steps": [
+                                "Learners observing floating and sinking from the density columns",
+                                "Learners predicting whether different objects will float or sink in a given liquid",
+                                "Getting into groups",
+                                "Working in groups to design an experiment to determine density and relative density of given objects",
+                                "Using PhET interactive simulation to demonstrate density and relative density",
+                                "Working in groups to discuss how density is important in shipbuilding and how ships and pontoons float on water",
+                                "Researching and calculating density of different minerals"
+                            ],
+                            "short_notes": "In this activity, learners will determine density of different objects."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.9",
+                            "page": 103,
+                            "hook": "Can you think of different situations where knowing the time is crucial, such as catching a bus or meeting a deadline?",
+                            "teacher_steps": [
+                                "Time is a fundamental concept that governs our experience of the world. It is a measure of duration between events, allowing us to understand the sequence and progression of occurrences.",
+                                "Introduce the activity",
+                                "Divide learners into groups",
+                                "Provide the materials and work sheets",
+                                "Create a set of cards with different times (analog and digital) and have students match them",
+                                "Cut out pictures of daily activities (e.g., waking up, eating breakfast) and have students put them in order from morning to night.",
+                                "Hide clocks or pictures of clocks around the classroom or school, and have students find them and read the time",
+                                "Ask learners to record time of any event such as time taken to move from one point to another using a stop watch or clock",
+                                "Ask learners to convert different units of time",
+                                "Clarify on the reports given to learners and provide necessary content"
+                            ],
+                            "learner_steps": [
+                                "Learners getting into groups and receiving materials",
+                                "Students matching times using cards",
+                                "Students putting daily activities in order",
+                                "Students finding clocks and reading times",
+                                "Recording times of given event",
+                                "Converting units of time to given units",
+                                "Reporting the findings."
+                            ],
+                            "short_notes": "In this activity, learners measure time."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.10",
+                            "page": 104,
+                            "hook": "How do you think the concept of a simple pendulum relate to more complex systems, like a child\u2019s swing or roller coaster?",
+                            "teacher_steps": [
+                                "Introduction: A simple pendulum is a device that consists of a weight, called a bob, attached to the end of a string or rod, called the pendulum arm. The pendulum arm is fixed at the other end, allowing the bob to swing backward and forth.",
+                                "Introduce the activity",
+                                "Divide learners into groups",
+                                "Provide the materials and work sheets",
+                                "Ask students to design and build their own simple pendulum using different materials such as strings, wires, metal rod, natural fiber, stop watch\u2026",
+                                "Have students measure the period of the pendulum",
+                                "Explore how the period of the pendulum changes with different variables such as length, mass angular displacement",
+                                "Have students work in teams to design and build a simple pendulum that meets specific criteria such as maximum period, minimum length\u2026",
+                                "Provide students with problems that involve calculating the period, and frequency, of a simple pendulum",
+                                "Clarify on the reports given to learners and provide necessary content"
+                            ],
+                            "learner_steps": [
+                                "Learners getting into groups and receiving materials",
+                                "Students building their own pendulum using the provided materials",
+                                "Learners to work in groups to determine the period of the pendulum",
+                                "Exploring the factors that affect the period of the pendulum",
+                                "Building pendulums that meet specific criteria (this can be done by using the following equation: T= 2\u03c0\u221aL/g)",
+                                "students solving problems that involve calculating period and frequency of a pendulum",
+                                "Reporting the findings."
+                            ],
+                            "short_notes": "In this activity, learners will assemble a simple pendulum and determine its period and frequency. They will also investigate the factors that affect the period of the pendulum."
+                        }
+                    ],
+                    "short_notes": "Accuracy and Precision are critical factors in the evaluation of measuring equipment. However, both terms are often used synonymously, although they are clearly defined technically. This topic gives you an overview of the two terms and how different quantities such as length, area, mass, volume and density can be measured with accuracy and precision. Accuracy refers to how close a measurement is to its true or expected value while Precision refers to the consistency of two or more measurements namely how close these measurements are to each other. There are 9 learning activities in this topic.",
+                    "vocabulary": [
+                        {
+                            "term": "Length",
+                            "definition": "distance between two points"
+                        },
+                        {
+                            "term": "Area",
+                            "definition": "measure of the size of a two-dimension shape or region"
+                        },
+                        {
+                            "term": "Volume",
+                            "definition": "amount of space occupied an abject"
+                        },
+                        {
+                            "term": "Mass",
+                            "definition": "amount of matter contained in a thing"
+                        },
+                        {
+                            "term": "Density",
+                            "definition": "mass per unit volume"
+                        },
+                        {
+                            "term": "Time",
+                            "definition": "measure of duration between events"
+                        },
+                        {
+                            "term": "Oscillation",
+                            "definition": "repeated back-and-forth motion of an object or system"
+                        },
+                        {
+                            "term": "Period",
+                            "definition": "time taken for a complete oscillation or revolution"
+                        },
+                        {
+                            "term": "Frequency",
+                            "definition": "number of complete oscillations made per second"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 89,
+                        "questions": [
+                            "Check if learners are correctly using the meter rule and measuring tape to measure accurately and precisely",
+                            "Ask learners questions on how they could use a broken mete ruler or measuring tape to measure lengths.",
+                            "Check if learners are correctly using the vernier calipers and micrometer screw gauge as accurately and precisely as possible.",
+                            "Ask learners questions on how they could use a broken meter or measuring tape to measure",
+                            "Check if learners are correctly measuring length, height breadth\u2026 in determination of area.",
+                            "Check if learners are cutting pieces such that they have smooth edges.",
+                            "Check if learners are accurate and precise",
+                            "Check for correct calculations of area",
+                            "Check if learners are correctly taking the measurements of dimensions",
+                            "Check if learners are correctly calculating volumes of the given objects",
+                            "Check that the learners have made correct objects with correct volumes",
+                            "Check at each stage that learners are accurate and precise",
+                            "Check if learners are correctly reading the meniscus of a measuring cylinder",
+                            "Check at each stage that learners are accurate and precise",
+                            "Check if learners are correctly reading the mases to correct units and correct significant figures",
+                            "Check that students make correct subtractions when determining the volume of a liquid and that of a gas",
+                            "Check at each stage that learners are accurate and precise",
+                            "Check if learners understand density",
+                            "Check that learners understand the relationship between density mass volume and density",
+                            "Check that learners are familiar with units of density",
+                            "Check that learners apply density to solve problems",
+                            "Ensure that learners convert density units correctly",
+                            "Check that learners follow correct steps in determining density of solids, liquids and gases",
+                            "Ensure that learner identify and address common misconceptions about density",
+                            "Check that the learners read the time correctly",
+                            "Check that learners convert times at each stage to correct SI units",
+                            "Check that the learners construct the pendulum correctly",
+                            "Ensure that learners determine the period of the pendulum with accuracy and precision",
+                            "Check that the learners show that only length affects the period of the pendulum",
+                            "Check that learners use the pendulum equation to build the pendulum with correct specifications",
+                            "Check that learners are able to calculate period and frequency of a pendulum with precision and accuracy",
+                            "Ask learners to cite as many examples as possible, where the concept of the period of a pendulum is applied."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "Equilibrium",
+                    "page": 107,
+                    "competences": [
+                        "Apply equilibrium concepts to design systems to solve real world problems."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1",
+                            "page": 108,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This activity is designed to help learners apply equilibrium concepts to design systems to solve real-world problems. There are three sub activities which learners will engage in as they apply the concepts."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.1",
+                            "page": 108,
+                            "hook": "Have you ever wondered how to determine the centre of gravity of an irregular object.?",
+                            "teacher_steps": [
+                                "Introduce the activity. For example, Today, we're going to explore the concept of center of mass through a laboratory practical. The center of mass is a fundamental concept in physics that helps us understand how objects behave under different forces.",
+                                "Divide learners into groups",
+                                "Provide the materials",
+                                "Provide the instructions",
+                                "Ask learners to give reasons for every step undertaken.",
+                                "Ask learners to explain the importance of the centre of mass",
+                                "Consolidate the concept of centre of mass. Ensure that learners can visualise the importance and uses of centre of mass"
+                            ],
+                            "learner_steps": [
+                                "Identifying the apparatus and materials required to determine the centre of mass.",
+                                "Carrying out the experiment to locate the centre of mass of an irregular object",
+                                "Working as a group to accomplish the task.",
+                                "Answering questions from the teacher on the activity done.",
+                                "Discussing the significance of determining the centre of mass of an irregular object."
+                            ],
+                            "short_notes": "In this activity, learners will locate the centre of mass of an irregular object using the method of suspension."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.2",
+                            "page": 110,
+                            "hook": "Build a simple seesaw using a ruler and weights. Demonstrate how it can remain stable when weights are evenly distributed",
+                            "teacher_steps": [
+                                "Introduction: Equilibrium is a state where the net force acting on an object is zero, resulting in no change in the object's motion or position. Equilibrium is a condition of an object in which the sum of all forces acting on it is zero e.g. resultant force is zero. Objects which are in equilibrium are; those that are stationary i.e.at rest, and those that are moving with constant velocity. Understanding equilibrium is crucial for designing and building stable structures, such as bridges and buildings. Equilibrium is essential for designing and optimizing mechanical systems, such as engines and gears. Equilibrium concepts are used to solve problems in physics, engineering, and other fields. Types of Equilibrium Stable Equilibrium: An object returns to its original position after being slightly displaced. Unstable Equilibrium: An object moves away from its original position after being slightly displaced. Neutral Equilibrium: An object remains in its new position after being slightly displaced.",
+                                "Exploration: Ensure pupils understand equilibrium concepts, such as stable, unstable, and neutral equilibrium",
+                                "Exploration: Prepare necessary resources",
+                                "Exploration: Create questions to facilitate pupils\u2019 creativity",
+                                "Exploration: Encourage pupils to think critically as they design systems in equilibrium to demonstrate stable, unstable and neutral equilibrium",
+                                "Explanation: Help learners integrate and connect new information as they are creating marble runs to demonstrate stable, unstable, and neutral equilibrium.",
+                                "Synthesis: Help learners integrate and connect new information as they are creating marble runs to demonstrate stable, unstable, and neutral equilibrium.",
+                                "Evaluation and Reflection: Help learners reflect on their learning, identify areas for improvement, and develop a growth mindset regarding creating marble runs to demonstrate stable, unstable, and neutral equilibrium."
+                            ],
+                            "learner_steps": [
+                                "Gather materials",
+                                "Understand equilibrium concepts",
+                                "Sketch a basic design, considering the equilibrium concepts to be demonstrated",
+                                "Create a section with a flat surface or a slight incline, allowing the marble to come to rest in a stable position.",
+                                "Create a section with a steep incline or a curved surface, allowing the marble to roll away from its initial position.",
+                                "Create a section with a flat, horizontal surface, allowing the marble to maintain its position or move with a constant velocity."
+                            ],
+                            "short_notes": "In this activity, learners will be creating marble runs to demonstrate stable, unstable, and neutral equilibrium."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.3",
+                            "page": 113,
+                            "hook": "How do bridge designers ensure that their structures can withstand strong winds, heavy traffic, and other external forces while maintaining equilibrium?",
+                            "teacher_steps": [
+                                "Introduction: Analysing equilibrium in real-world situations helps learners develop a deeper understanding of the concept and its practical applications. Analysing equilibrium in real-world situations involves examining how objects or systems balance and stabilize under various forces and conditions.",
+                                "Exploration: Ensure pupils understand fundamental concepts, such as types of bridges, materials, and structural components.",
+                                "Exploration: Prepare necessary resources",
+                                "Exploration: Create questions to facilitate pupil discussion",
+                                "Exploration: Encourage pupils to think critically about bridge construction and equilibrium.",
+                                "Explanation: Bridges are designed to be at stable equilibrium. A stable equilibrium ensures that the bridge can withstand various loads such as traffic, wind, and earthquakes, without collapsing or experiencing excessive deflections.",
+                                "Synthesis: Help learners integrate and connect new information as they analyse the bridge design how they are constructed to maintain equilibrium under various loads.",
+                                "Evaluation and Reflection: Help learners reflect on their learning, identify areas for improvement, and develop a growth mindset regarding analysing the bridge design how they are constructed to maintain equilibrium under various loads"
+                            ],
+                            "learner_steps": [
+                                "Collecting relevant data on the bridge design, including: a. Dimensions (length, width, height) b. Materials used (type, strength, weight) c. Load capacity (expected traffic, weight limits) d. Environmental factors (wind, water, earthquakes)",
+                                "Determining the forces acting on the bridge, including: Gravity, tension, Compression, friction, external forces\u2026",
+                                "Creating free-body diagrams to visualize the forces acting on the bridge",
+                                "Determining whether the bridge is in equilibrium, considering: a. Stable equilibrium (bridge returns to original position) b. Unstable equilibrium (bridge moves away from original position) c. Neutral equilibrium (bridge remains in new position)",
+                                "Evaluating the stability of the bridge"
+                            ],
+                            "short_notes": "In this activity, learners will be analysing the bridge design how they are constructed to maintain equilibrium under various loads."
+                        }
+                    ],
+                    "short_notes": "Equilibrium refers to a state where the net force acting on an object is zero, resulting in no change in the object's motion or position.",
+                    "vocabulary": [
+                        {
+                            "term": "Static Equilibrium",
+                            "definition": "A state where an object is at rest and the net force acting on it is zero."
+                        },
+                        {
+                            "term": "Dynamic Equilibrium",
+                            "definition": "A state where an object is moving with a constant velocity and the net force acting on it is zero."
+                        },
+                        {
+                            "term": "Net Force",
+                            "definition": "The vector sum of all forces acting on an object."
+                        },
+                        {
+                            "term": "Torque",
+                            "definition": "A measure of the rotational force that causes an object to rotate."
+                        },
+                        {
+                            "term": "Equilibrium Force",
+                            "definition": "A force that acts to restore an object to its equilibrium position."
+                        },
+                        {
+                            "term": "Zero Net Force",
+                            "definition": "The net force acting on an object must be zero for it to be in equilibrium."
+                        },
+                        {
+                            "term": "Zero Net Torque",
+                            "definition": "The net torque acting on an object must be zero for it to be in rotational equilibrium."
+                        },
+                        {
+                            "term": "Stability",
+                            "definition": "The ability of an object to return to its equilibrium position after being disturbed."
+                        },
+                        {
+                            "term": "Metastable Equilibrium",
+                            "definition": "A state where an object is in equilibrium, but any small disturbance will cause it to move to a more stable equilibrium position."
+                        },
+                        {
+                            "term": "Neutral Equilibrium",
+                            "definition": "An object in neutral equilibrium will remain in its new position after being disturbed, without returning to its original position or moving away."
+                        },
+                        {
+                            "term": "Stable equilibrium",
+                            "definition": "An object in stable equilibrium will return to its original position after being disturbed."
+                        },
+                        {
+                            "term": "Unstable equilibrium",
+                            "definition": "An object in unstable equilibrium will move away from its original position after being disturbed."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 109,
+                        "questions": [
+                            "Observe students during laboratory activities to assess their application of appropriate skills. E.g. cutting. Observation, timing, dexterity in handling every apparatus used \u2026",
+                            "Review learners' actions",
+                            "Ask learners open-ended questions to prompt further discussion",
+                            "Ask questions such as: Conceptual Understanding 1. What is the centre of mass, and why is it important in physics? 2. How does the shape of an object affect its centre of mass? 3. What would happen if the object were rotated or flipped? Practical Application 1. How did you use the suspension method to locate the centre of mass? 2. What were some challenges you faced when using the balance method? 3. How did you ensure accuracy in your measurements? Critical Thinking 1. How does the centre of mass relate to the concept of equilibrium? 2. What are some real-world applications of locating the centre of mass? 3. How would you adapt this experiment to find the centre of mass of a more complex object? Problem-Solving 1. If you were given an object with a different shape, how would you modify the experiment? 2. What would you do if you obtained inconsistent results between the suspension and balance methods? 3. How would you use the concept of centre of mass to solve a problem involving a rotating object? Communication and Reflection 1. How did you communicate your results to your partner or group? 2. What did you learn from this experiment, and how can you apply it to future experiments? 3. What would you change or improve if you were to repeat this experiment?",
+                            "Administer a quiz or worksheet to assess students' understanding of how to locate the centre of mass.",
+                            "Check if learners are correctly designing systems in equilibrium to demonstrate stable, unstable and neutral equilibrium",
+                            "Ask questions such as: 1. Release the marble at the starting point and observe its motion through each section. 2. Make adjustments to the marble run as needed to achieve the desired equilibrium characteristics. 3. Continue testing and refining until the marble run demonstrates the desired stable, unstable, and neutral equilibrium characteristics. 4. Observe and record the marble's motion through each section, noting the equilibrium characteristics demonstrated. 5. Summarize the findings, explaining how the marble run demonstrates stable, unstable, and neutral equilibrium.",
+                            "Check if learners are correctly analysing the bridge design.",
+                            "Ask questions such as: 1. What forces act on a bridge? 2. How do bridges maintain equilibrium? 3. What factors affect bridge stability? 4. Design structures that apply equilibrium on their own."
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

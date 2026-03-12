@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "4",
+    "subject": "Mathematics",
+    "philosophy": "Mathematics is a fundamental subject that develops logical reasoning, problem-solving skills, and numerical proficiency essential for everyday life and future learning. The Grade 4–6 mathematics syllabus is designed to build upon the foundational concepts introduced in earlier grades while preparing learners for more advanced mathematical thinking in higher education. At this stage, learners transition from basic arithmetic to more complex mathematical operations, including fractions, decimals, geometry, measurements, and introductory algebra. These concepts are essential for developing critical thinking, reasoning, and analytical skills necessary for real-world problem-solving. The syllabus emphasizes a learner-centered approach, where leaners actively engage in hands-on activities, group work, and investigations to discover mathematical relationships and patterns. Ultimately, this syllabus aims to foster mathematical fluency, conceptual understanding, and logical reasoning, equipping learners with the skills needed for further studies in arithmetic and related disciplines.",
+    "competence_learning": "Mathematics competence is the ability to develop and apply mathematical thinking in order to solve a range of problems in everyday situations. Mathematical competences involve the ability and willingness to use mathematical modes of thought (logical and spatial thinking) and presentation (formulas, models, constructions, graphs, charts). The mathematics competence is developed step-by-step over a period of instruction after learning a set of specific competencies.",
+    "goals": [
+      "To provide a comprehensive overview and understanding of fundamental mathematical concepts.",
+      "To equip learners with competences that can be utilized in life beyond school.",
+      "To provide a solid foundation for Science, Technology, Engineering and Mathematics (STEM) education and smooth transition to Secondary Education.",
+      "To foster mathematical fluency, conceptual understanding, and logical reasoning, equipping learners with skills for further studies."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "4.1",
+      "topic_title": "SETS",
+      "page_number": 5,
+      "subtopics": [
+        "4.1.1 Operations on Sets"
+      ],
+      "specific_outcomes": [
+        "4.1.1.1Apply set operations in everyday life"
+      ]
+    },
+    {
+      "unit": "4.2",
+      "topic_title": "NUMBERS",
+      "page_number": 5,
+      "subtopics": [
+        "4.2.1 Numbers and Notation",
+        "4.2.2 Factors and multiples"
+      ],
+      "specific_outcomes": [
+        "4.2.1.1 Use whole numbers to present ideas in life context",
+        "4.2.2.1. Apply Factors and Multiples in everyday life"
+      ]
+    },
+    {
+      "unit": "4.3",
+      "topic_title": "FRACTIONS",
+      "page_number": 6,
+      "subtopics": [
+        "4.3.1 Common Fractions",
+        "4.3.2. Decimal Fractions"
+      ],
+      "specific_outcomes": [
+        "4.3.1.1Apply the concept of fractions in different contexts",
+        "4.3.2.1 Utilise decimal Fractions in life situations"
+      ]
+    },
+    {
+      "unit": "4.4",
+      "topic_title": "FINANCIAL ARITHMETIC",
+      "page_number": 7,
+      "subtopics": [
+        "4.4.1 Money"
+      ],
+      "specific_outcomes": [
+        "4.4.1.1 Apply financial Literacy in daily context"
+      ]
+    },
+    {
+      "unit": "4.5",
+      "topic_title": "ANGLES",
+      "page_number": 7,
+      "subtopics": [
+        "4.5.1 Types of Angles"
+      ],
+      "specific_outcomes": [
+        "4.5.1.1 Relate angles to different contexts"
+      ]
+    },
+    {
+      "unit": "4.6",
+      "topic_title": "SHAPES",
+      "page_number": 7,
+      "subtopics": [
+        "4.6.1 Plane Shapes",
+        "4.6.2 Solid Shapes"
+      ],
+      "specific_outcomes": [
+        "4.6.1.1 Construct different shapes in the environment",
+        "4.6.2.1 Create solid shapes"
+      ]
+    },
+    {
+      "unit": "4.7",
+      "topic_title": "MEASURES",
+      "page_number": 8,
+      "subtopics": [
+        "4.7.1 Time and Area"
+      ],
+      "specific_outcomes": [
+        "4.7.1.1. Apply the concept of measurement in different life in situations"
+      ]
+    },
+    {
+      "unit": "4.8",
+      "topic_title": "STATISTICS",
+      "page_number": 8,
+      "subtopics": [
+        "4.8.1 Bar graphs and Line graphs"
+      ],
+      "specific_outcomes": [
+        "4.8.1.1 Present data in different forms"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+    "subject": "Icibemba",
+    "grade": "ECE",
+    "term": 2,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "AMATENDO (Greetings)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Ukusalimusha (Greeting People)",
+                    "page": 1,
+                    "competences": [
+                        "Learners should be able to greet people in Icibemba",
+                        "Learners should be able to respond to greetings appropriately",
+                        "Learners should be able to use correct greetings for different times of day"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1.1.1",
+                            "page": 2,
+                            "hook": "Teacher greets learners in Icibemba and encourages them to respond",
+                            "teacher_steps": [
+                                "Greet learners using morning, afternoon and evening greetings in Icibemba",
+                                "Model correct responses to greetings",
+                                "Use pictures/flashcards showing people greeting each other",
+                                "Demonstrate greetings with gestures",
+                                "Guide learners to practice greetings in pairs"
+                            ],
+                            "learner_steps": [
+                                "Listen to the teacher's greetings",
+                                "Respond to greetings as modeled by the teacher",
+                                "Practice greetings with a partner",
+                                "Role-play greeting scenarios",
+                                "Sing greeting songs in Icibemba"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1.1.2",
+                            "page": 3,
+                            "hook": "Show pictures of people meeting and greeting in different situations",
+                            "teacher_steps": [
+                                "Show pictures of people greeting in different contexts",
+                                "Ask learners to identify the type of greeting being used",
+                                "Introduce key greeting vocabulary",
+                                "Model greetings for elders, peers and younger people",
+                                "Facilitate a greeting circle activity"
+                            ],
+                            "learner_steps": [
+                                "Observe pictures and identify greetings",
+                                "Repeat greeting phrases after the teacher",
+                                "Practice greeting elders respectfully",
+                                "Participate in the greeting circle",
+                                "Draw a picture of people greeting"
+                            ]
+                        }
+                    ],
+                    "short_notes": "Amatendo (Greetings) are an important part of Icibemba culture and communication. In Icibemba, greetings vary according to the time of day and the relationship between the people involved. Morning greetings include 'Mwashibukeni' (Good morning - said to one person) and the response is 'Nashibuka' or 'Twashibuka'. Afternoon greetings use 'Mwabombeni' and evening greetings use 'Mwabukeni'. When greeting elders, children are expected to show respect through both words and body language, such as slightly kneeling or clapping hands. Peer greetings may be more informal. Greetings establish social bonds and are a sign of respect in Bemba culture. It is important for ECE learners to learn and practice these greetings as part of their cultural identity and language development.",
+                    "vocabulary": [
+                        {
+                            "term": "Amatendo",
+                            "definition": "Greetings - the act of acknowledging and welcoming another person"
+                        },
+                        {
+                            "term": "Mwashibukeni",
+                            "definition": "Good morning - a greeting used in the morning hours"
+                        },
+                        {
+                            "term": "Nashibuka",
+                            "definition": "I have woken up well - a response to the morning greeting"
+                        },
+                        {
+                            "term": "Mwabombeni",
+                            "definition": "Good afternoon - a greeting used during the afternoon"
+                        },
+                        {
+                            "term": "Mwabukeni",
+                            "definition": "Good evening - a greeting used in the evening"
+                        },
+                        {
+                            "term": "Ukusalimusha",
+                            "definition": "To greet someone - the action of giving a greeting"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 4,
+                        "questions": [
+                            "Can the learner greet using the correct Icibemba greeting for the time of day?",
+                            "Can the learner respond correctly when greeted?",
+                            "Does the learner show respect when greeting elders?",
+                            "Can the learner use at least three different greetings in Icibemba?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "AMAINA (Names)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Ukweba Ishina (Telling Your Name)",
+                    "page": 5,
+                    "competences": [
+                        "Learners should be able to state their own name in Icibemba",
+                        "Learners should be able to ask others their names",
+                        "Learners should be able to introduce themselves and others"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2.1.1",
+                            "page": 6,
+                            "hook": "Teacher introduces himself/herself by name and asks learners who they are",
+                            "teacher_steps": [
+                                "Introduce yourself using 'Ishina lyandi ndi...' (My name is...)",
+                                "Ask individual learners 'Ishina lyobe ndi nani?' (What is your name?)",
+                                "Model the correct response structure",
+                                "Use name cards with each learner's name written",
+                                "Play a name game where learners say their names around the circle"
+                            ],
+                            "learner_steps": [
+                                "Listen as the teacher introduces himself/herself",
+                                "Respond with their own name when asked",
+                                "Practice asking a partner their name",
+                                "Hold up their name card when their name is called",
+                                "Introduce a friend to the class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2.1.2",
+                            "page": 7,
+                            "hook": "Use a puppet or doll and ask learners what the puppet's name should be",
+                            "teacher_steps": [
+                                "Introduce a puppet/doll and give it a Bemba name",
+                                "Model introduction phrases using the puppet",
+                                "Teach the phrase 'Uyu ndi...' (This is...)",
+                                "Facilitate pair introductions",
+                                "Create a class name chart with all learners' names"
+                            ],
+                            "learner_steps": [
+                                "Suggest a name for the puppet",
+                                "Practice introducing the puppet to classmates",
+                                "Introduce their partner to the class in Icibemba",
+                                "Find their name on the class name chart",
+                                "Draw and label a picture of themselves"
+                            ]
+                        }
+                    ],
+                    "short_notes": "In Icibemba culture, names (Amaina) carry great significance. Children are often given names that reflect circumstances of birth, family history, ancestors, or hopes for the child's future. The phrase used to state one's name is 'Ishina lyandi ndi...' meaning 'My name is...'. To ask someone's name, one says 'Ishina lyobe ndi nani?' meaning 'What is your name?' When introducing another person, 'Uyu ndi...' (This is...) is used. At the ECE level, learners are developing their identity and sense of self. Learning to say and recognize their name in Icibemba is a foundational literacy and language skill. It also connects learners to their cultural heritage and helps build confidence in speaking the language.",
+                    "vocabulary": [
+                        {
+                            "term": "Amaina",
+                            "definition": "Names - the words used to identify a person"
+                        },
+                        {
+                            "term": "Ishina",
+                            "definition": "Name - the word used to identify a specific person"
+                        },
+                        {
+                            "term": "Ishina lyandi",
+                            "definition": "My name - used when stating one's own name"
+                        },
+                        {
+                            "term": "Ishina lyobe",
+                            "definition": "Your name - used when referring to another person's name"
+                        },
+                        {
+                            "term": "Ndi nani",
+                            "definition": "Who is - used in asking for a person's identity or name"
+                        },
+                        {
+                            "term": "Uyu",
+                            "definition": "This (person) - used when pointing to or introducing someone nearby"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 8,
+                        "questions": [
+                            "Can the learner state their own name in Icibemba?",
+                            "Can the learner ask a classmate their name using the correct Icibemba phrase?",
+                            "Can the learner introduce another person in Icibemba?",
+                            "Can the learner recognize their written name?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "IMIBELE (Body Parts)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Ukweba Imibele ya Muntu (Naming Body Parts)",
+                    "page": 9,
+                    "competences": [
+                        "Learners should be able to identify and name body parts in Icibemba",
+                        "Learners should be able to point to body parts when named",
+                        "Learners should be able to use body part vocabulary in simple sentences"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3.1.1",
+                            "page": 10,
+                            "hook": "Teacher touches different body parts and asks learners to name them",
+                            "teacher_steps": [
+                                "Point to and name body parts in Icibemba (head - mutwe, eyes - meso, nose - mpumbu, mouth - akanwa, ears - matwi, hands - maasa, legs - malundi)",
+                                "Use a large body chart or doll to point to body parts",
+                                "Sing a body parts song in Icibemba",
+                                "Play 'Simon Says' using Icibemba body part names",
+                                "Ask learners to point to body parts on themselves"
+                            ],
+                            "learner_steps": [
+                                "Listen and repeat the names of body parts",
+                                "Point to body parts when named by the teacher",
+                                "Sing the body parts song",
+                                "Participate in the 'Simon Says' game",
+                                "Label body parts on a drawn outline of a person"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3.1.2",
+                            "page": 11,
+                            "hook": "Play a body parts song and have learners move the body part being named",
+                            "teacher_steps": [
+                                "Review body parts from previous lesson",
+                                "Introduce function of each body part (eyes for seeing, ears for hearing, etc.)",
+                                "Use sentence frames: 'Ndemona na meso yandi' (I see with my eyes)",
+                                "Create a body parts matching activity with pictures and words",
+                                "Guide learners to draw and label body parts"
+                            ],
+                            "learner_steps": [
+                                "Name body parts when pointed to on the chart",
+                                "State the function of a body part in Icibemba",
+                                "Complete the matching activity",
+                                "Draw a person and label at least 4 body parts",
+                                "Play a body parts guessing game with a partner"
+                            ]
+                        }
+                    ],
+                    "short_notes": "Imibele (body parts) is an essential vocabulary topic for ECE learners. Knowing the names of body parts in Icibemba helps learners describe themselves, understand health-related instructions, and communicate about their physical experiences. Key body parts in Icibemba include: mutwe (head), meso (eyes), mpumbu (nose), akanwa (mouth), matwi (ears), maasa (hands), malundi (legs), chibondo (stomach), and umutima (heart). Learning body part vocabulary also supports the development of body awareness, which is important for the holistic development of young children. Teachers should use physical, hands-on activities and songs to make learning body parts engaging and memorable for ECE learners.",
+                    "vocabulary": [
+                        {
+                            "term": "Imibele",
+                            "definition": "Body parts - the different parts that make up the human body"
+                        },
+                        {
+                            "term": "Mutwe",
+                            "definition": "Head - the upper part of the body containing the brain and face"
+                        },
+                        {
+                            "term": "Meso",
+                            "definition": "Eyes - the organs used for seeing"
+                        },
+                        {
+                            "term": "Mpumbu",
+                            "definition": "Nose - the organ used for smelling and breathing"
+                        },
+                        {
+                            "term": "Akanwa",
+                            "definition": "Mouth - the opening used for eating, drinking and speaking"
+                        },
+                        {
+                            "term": "Matwi",
+                            "definition": "Ears - the organs used for hearing"
+                        },
+                        {
+                            "term": "Maasa",
+                            "definition": "Hands - the body parts at the end of the arms used for holding and touching"
+                        },
+                        {
+                            "term": "Malundi",
+                            "definition": "Legs - the body parts used for walking and running"
+                        },
+                        {
+                            "term": "Chibondo",
+                            "definition": "Stomach - the body part used for digesting food"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 12,
+                        "questions": [
+                            "Can the learner correctly name at least 5 body parts in Icibemba?",
+                            "Can the learner point to a body part when the teacher names it in Icibemba?",
+                            "Can the learner state one function of a named body part?",
+                            "Can the learner identify body parts on a picture or drawing?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "INOMBWA NA IFISUBA (Animals and Colours)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Inombwa (Animals)",
+                    "page": 13,
+                    "competences": [
+                        "Learners should be able to name common animals in Icibemba",
+                        "Learners should be able to identify animals by their sounds",
+                        "Learners should be able to categorize animals as domestic or wild"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 4.1.1",
+                            "page": 14,
+                            "hook": "Make animal sounds and ask learners to identify which animal makes that sound",
+                            "teacher_steps": [
+                                "Show pictures or models of common animals",
+                                "Name each animal in Icibemba (imbwa - dog, nkoko - chicken, ng'ombe - cow, fisi - hyena, nkalamu - lion, nsofu - elephant)",
+                                "Make animal sounds and have learners identify the animal",
+                                "Sort animals into domestic and wild categories",
+                                "Tell a short story featuring animals in Icibemba"
+                            ],
+                            "learner_steps": [
+                                "Listen and repeat animal names in Icibemba",
+                                "Match animal pictures to their Icibemba names",
+                                "Make animal sounds when the animal is shown",
+                                "Sort animal pictures into domestic and wild groups",
+                                "Listen to and retell the animal story"
+                            ]
+                        }
+                    ],
+                    "short_notes": "Inombwa (animals) are a familiar and engaging topic for young learners. In Icibemba, common domestic animals include: imbwa (dog), nkoko (chicken), ng'ombe (cow), mbushi (goat), and nkama (cat). Common wild animals include: nkalamu (lion), nsofu (elephant), fisi (hyena), ingwe (leopard), and imfwiti (wolf). Learning animal names in Icibemba connects learners to their natural environment and local culture. Animals feature prominently in Bemba folk tales and proverbs, making this vocabulary particularly culturally relevant. ECE learners can use animal names in songs, stories, and games to reinforce vocabulary.",
+                    "vocabulary": [
+                        {
+                            "term": "Inombwa",
+                            "definition": "Animals - living creatures that are not plants or human beings"
+                        },
+                        {
+                            "term": "Imbwa",
+                            "definition": "Dog - a common domestic animal kept as a pet or for security"
+                        },
+                        {
+                            "term": "Nkoko",
+                            "definition": "Chicken - a common domestic bird kept for eggs and meat"
+                        },
+                        {
+                            "term": "Ng'ombe",
+                            "definition": "Cow - a large domestic animal kept for milk and meat"
+                        },
+                        {
+                            "term": "Nkalamu",
+                            "definition": "Lion - a large wild cat, king of the jungle"
+                        },
+                        {
+                            "term": "Nsofu",
+                            "definition": "Elephant - the largest land animal, found in the wild"
+                        },
+                        {
+                            "term": "Fisi",
+                            "definition": "Hyena - a wild scavenging animal known for its laugh-like call"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 15,
+                        "questions": [
+                            "Can the learner name at least 4 animals in Icibemba?",
+                            "Can the learner identify the sound of a named animal?",
+                            "Can the learner sort animals into domestic and wild categories?",
+                            "Can the learner use animal names in a simple sentence?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.2",
+                    "title": "Ifisuba (Colours)",
+                    "page": 16,
+                    "competences": [
+                        "Learners should be able to name basic colours in Icibemba",
+                        "Learners should be able to identify colours in the classroom environment",
+                        "Learners should be able to describe objects using colour words in Icibemba"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 4.2.1",
+                            "page": 17,
+                            "hook": "Hold up coloured objects and ask learners if they know the colour names in Icibemba",
+                            "teacher_steps": [
+                                "Introduce colour names using coloured cards or objects (fikungu - red, buluu - blue, fyelu - yellow, citete - green, fwii - black, yelu - white)",
+                                "Show objects of each colour and repeat the colour name",
+                                "Play a colour sorting game",
+                                "Teach a colours song in Icibemba",
+                                "Create a colour chart for the classroom wall"
+                            ],
+                            "learner_steps": [
+                                "Repeat colour names after the teacher",
+                                "Point to objects of a named colour in the classroom",
+                                "Sort coloured objects into colour groups",
+                                "Sing the colours song",
+                                "Colour a picture using the correct colours as instructed in Icibemba"
+                            ]
+                        }
+                    ],
+                    "short_notes": "Ifisuba (colours) vocabulary is an important part of early language development. In Icibemba, the basic colour terms include: fikungu (red), buluu (blue), fyelu (yellow), citete (green), fwii (black), and yelu (white). Some colours in Icibemba are loanwords from English due to historical contact. Knowing colour names allows learners to describe the world around them, follow instructions, and engage in creative activities. Colour vocabulary also supports mathematical concepts such as sorting and classification. Teachers should use real objects, coloured materials, and artwork to make colour learning concrete and meaningful for ECE learners.",
+                    "vocabulary": [
+                        {
+                            "term": "Ifisuba",
+                            "definition": "Colours - the visual properties of objects determined by light"
+                        },
+                        {
+                            "term": "Fikungu",
+                            "definition": "Red - the colour of blood and fire"
+                        },
+                        {
+                            "term": "Buluu",
+                            "definition": "Blue - the colour of the sky and water"
+                        },
+                        {
+                            "term": "Fyelu",
+                            "definition": "Yellow - the colour of the sun and bananas"
+                        },
+                        {
+                            "term": "Citete",
+                            "definition": "Green - the colour of grass and leaves"
+                        },
+                        {
+                            "term": "Fwii",
+                            "definition": "Black - the darkest colour, absence of light"
+                        },
+                        {
+                            "term": "Yelu",
+                            "definition": "White - the lightest colour, colour of clouds and milk"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 18,
+                        "questions": [
+                            "Can the learner correctly name at least 4 colours in Icibemba?",
+                            "Can the learner point to an object of a named colour?",
+                            "Can the learner use a colour word to describe an object (e.g. 'ichitabo cha buluu' - blue book)?",
+                            "Can the learner sort objects by colour?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "INSHILA YA KUBOMBA (Work and Occupations)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "5.1",
+                    "title": "Abantu Abakabomba (People Who Work)",
+                    "page": 19,
+                    "competences": [
+                        "Learners should be able to name common occupations in Icibemba",
+                        "Learners should be able to describe what different workers do",
+                        "Learners should be able to express what they want to be when they grow up"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 5.1.1",
+                            "page": 20,
+                            "hook": "Ask learners what their parents do for work and how to say it in Icibemba",
+                            "teacher_steps": [
+                                "Show pictures of people in different occupations",
+                                "Introduce occupation vocabulary in Icibemba (umupolisi - police officer, umusumba - nurse, umudokota - doctor, umubilikimo - teacher, umusenshi - soldier, umuimi - farmer)",
+                                "Describe what each worker does using simple Icibemba sentences",
+                                "Role-play different occupations",
+                                "Ask learners what they want to be when they grow up"
+                            ],
+                            "learner_steps": [
+                                "Identify workers in pictures",
+                                "Repeat occupation names in Icibemba",
+                                "Role-play their chosen occupation",
+                                "Say their desired occupation: 'Nkakala umubilikimo' (I will be a teacher)",
+                                "Draw a picture of themselves in their chosen occupation"
+                            ]
+                        }
+                    ],
+                    "short_notes": "Understanding different occupations (Inshila ya Kubomba) helps ECE learners appreciate the roles different people play in society. Common occupations in Icibemba include: umubilikimo (teacher), umusumba (nurse), umudokota (doctor), umupolisi (police officer), umuimi (farmer), umusenshi (soldier), umupuushi (driver), and umutongi (builder). Discussing occupations helps learners develop vocabulary, build career awareness from an early age, and understand the community they live in. It also provides an opportunity to discuss gender equality by showing that both men and women can do any job. The sentence structure 'Nkakala...' (I will be...) can be used to help learners express their aspirations.",
+                    "vocabulary": [
+                        {
+                            "term": "Inshila ya Kubomba",
+                            "definition": "Occupation/Work - the job or type of work a person does"
+                        },
+                        {
+                            "term": "Umubilikimo",
+                            "definition": "Teacher - a person who teaches and educates others"
+                        },
+                        {
+                            "term": "Umusumba",
+                            "definition": "Nurse - a healthcare worker who cares for sick patients"
+                        },
+                        {
+                            "term": "Umudokota",
+                            "definition": "Doctor - a medical professional who diagnoses and treats illnesses"
+                        },
+                        {
+                            "term": "Umupolisi",
+                            "definition": "Police officer - a person who enforces laws and maintains order"
+                        },
+                        {
+                            "term": "Umuimi",
+                            "definition": "Farmer - a person who grows crops or raises animals for food"
+                        },
+                        {
+                            "term": "Umusenshi",
+                            "definition": "Soldier - a person who serves in the military to protect the country"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 21,
+                        "questions": [
+                            "Can the learner name at least 3 occupations in Icibemba?",
+                            "Can the learner describe what a named worker does?",
+                            "Can the learner say what they want to be when they grow up in Icibemba?",
+                            "Can the learner match a worker to the tool they use (e.g. doctor - stethoscope)?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "6.0",
+            "topic_title": "UKULUNDULA (Telling Stories)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "6.1",
+                    "title": "Inshimi (Folk Tales)",
+                    "page": 22,
+                    "competences": [
+                        "Learners should be able to listen attentively to stories told in Icibemba",
+                        "Learners should be able to retell key events from a story",
+                        "Learners should be able to identify the moral lesson of a story"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 6.1.1",
+                            "page": 23,
+                            "hook": "Begin with the traditional story-opening phrase 'Pali cine cine...' and have learners respond 'Cine cine!'",
+                            "teacher_steps": [
+                                "Use the traditional Bemba story opening 'Pali cine cine...' to signal story time",
+                                "Tell a traditional Bemba folk tale using expressive voice, gestures and props",
+                                "Pause during the story to check comprehension",
+                                "Ask questions about characters, events and morals",
+                                "Encourage learners to retell parts of the story"
+                            ],
+                            "learner_steps": [
+                                "Respond to the story opening phrase",
+                                "Listen attentively to the folk tale",
+                                "Answer comprehension questions about the story",
+                                "Act out parts of the story",
+                                "Retell the story to a partner or the class"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 6.1.2",
+                            "page": 24,
+                            "hook": "Show pictures from a story and ask learners to predict what will happen",
+                            "teacher_steps": [
+                                "Use picture books or hand-drawn pictures to support storytelling",
+                                "Teach story sequence using beginning, middle and end",
+                                "Model story retelling using picture prompts",
+                                "Facilitate group storytelling where each learner adds a sentence",
+                                "Create a class story book"
+                            ],
+                            "learner_steps": [
+                                "Sequence story pictures in the correct order",
+                                "Retell the story using pictures as prompts",
+                                "Add their part to the group story",
+                                "Draw their favourite part of the story",
+                                "Share the moral lesson of the story"
+                            ]
+                        }
+                    ],
+                    "short_notes": "Ukulundula (storytelling) is a central part of Bemba oral tradition and culture. Traditional folk tales (Inshimi) were historically told in the evenings around the fire and served to pass on cultural values, moral lessons, and historical knowledge from generation to generation. The traditional opening 'Pali cine cine...' signals the beginning of a story and learners respond 'Cine cine!' to show they are ready to listen. Common themes in Bemba folk tales include respect for elders, the importance of hard work, consequences of greed or dishonesty, and the cleverness of small animals overcoming large ones. At ECE level, storytelling develops listening comprehension, vocabulary, imagination, and early literacy skills. Teachers should use expressive storytelling techniques including varied voice, gestures, and visual aids to bring stories to life.",
+                    "vocabulary": [
+                        {
+                            "term": "Ukulundula",
+                            "definition": "Storytelling - the art of telling or narrating a story"
+                        },
+                        {
+                            "term": "Inshimi",
+                            "definition": "Folk tales - traditional stories passed down through generations"
+                        },
+                        {
+                            "term": "Pali cine cine",
+                            "definition": "Once upon a time - the traditional opening phrase for a Bemba story"
+                        },
+                        {
+                            "term": "Ubutumwa",
+                            "definition": "Message/Moral - the lesson or meaning conveyed by a story"
+                        },
+                        {
+                            "term": "Ifikolo",
+                            "definition": "Characters - the people or animals that appear in a story"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 25,
+                        "questions": [
+                            "Can the learner listen attentively during story time?",
+                            "Can the learner answer at least 2 questions about a story heard?",
+                            "Can the learner retell the main events of a story using pictures?",
+                            "Can the learner identify the moral lesson of a folk tale?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "7.0",
+            "topic_title": "IFINTU FYA KUSHILIKA (Food and Nutrition)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "7.1",
+                    "title": "Ifya Kulya (Types of Food)",
+                    "page": 26,
+                    "competences": [
+                        "Learners should be able to name common foods in Icibemba",
+                        "Learners should be able to talk about foods they like and dislike",
+                        "Learners should be able to identify healthy and unhealthy foods"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 7.1.1",
+                            "page": 27,
+                            "hook": "Bring in real food items or pictures of food and ask learners to name them in Icibemba",
+                            "teacher_steps": [
+                                "Display pictures or models of common Zambian foods",
+                                "Introduce food names in Icibemba (ubwali - nshima, ifisashi - relish, inama - meat, ifyumbu - sweet potatoes, impwa - tomatoes, bondwe - vegetables)",
+                                "Teach the phrases 'Natemwa...' (I like...) and 'Naukisha...' (I do not like...)",
+                                "Sort foods into healthy and less healthy categories",
+                                "Teach food and nutrition vocabulary through a cooking song"
+                            ],
+                            "learner_steps": [
+                                "Name foods shown in pictures in Icibemba",
+                                "Say which foods they like and dislike using the correct phrases",
+                                "Sort food pictures into healthy and less healthy groups",
+                                "Sing the food song",
+                                "Draw their favourite meal and label the foods in Icibemba"
+                            ]
+                        }
+                    ],
+                    "short_notes": "Food (Ifya Kulya) vocabulary is relevant and meaningful for ECE learners as food is part of their daily lives. Key food items in Icibemba include: ubwali (nshima - the staple food made from maize flour), ifisashi (relish - cooked vegetables or legumes eaten with nshima), inama (meat), amafi (milk), ifyumbu (sweet potatoes), impwa (tomatoes), icibwabwa (pumpkin), bondwe (leafy greens), and ubowa (mushrooms). Learning to talk about food in Icibemba supports vocabulary development, cultural connection, and health education. The concept of balanced meals and nutrition can be introduced at this level using simple language. Foods that are locally available and culturally familiar should be prioritized in teaching to make learning relevant and contextual.",
+                    "vocabulary": [
+                        {
+                            "term": "Ifya Kulya",
+                            "definition": "Food - substances eaten to provide nutrition and energy"
+                        },
+                        {
+                            "term": "Ubwali",
+                            "definition": "Nshima - the staple food of Zambia, made from maize flour"
+                        },
+                        {
+                            "term": "Ifisashi",
+                            "definition": "Relish - cooked vegetables, legumes or meat eaten alongside nshima"
+                        },
+                        {
+                            "term": "Inama",
+                            "definition": "Meat - animal flesh used as food"
+                        },
+                        {
+                            "term": "Amafi",
+                            "definition": "Milk - a nutritious liquid food produced by mammals"
+                        },
+                        {
+                            "term": "Ifyumbu",
+                            "definition": "Sweet potatoes - a sweet root vegetable grown in Zambia"
+                        },
+                        {
+                            "term": "Bondwe",
+                            "definition": "Leafy vegetables/greens - leaves of plants used as food"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 28,
+                        "questions": [
+                            "Can the learner name at least 4 foods in Icibemba?",
+                            "Can the learner say which foods they like and dislike using correct Icibemba phrases?",
+                            "Can the learner sort foods into healthy and less healthy categories?",
+                            "Can the learner name the main Zambian staple food in Icibemba?"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

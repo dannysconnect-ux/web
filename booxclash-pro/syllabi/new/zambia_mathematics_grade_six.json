@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "6",
+    "subject": "Mathematics",
+    "philosophy": "Mathematics is a fundamental subject that develops logical reasoning, problem-solving skills, and numerical proficiency essential for everyday life and future learning. The Grade 4–6 mathematics syllabus is designed to build upon the foundational concepts introduced in earlier grades while preparing learners for more advanced mathematical thinking in higher education. At this stage, learners transition from basic arithmetic to more complex mathematical operations, including fractions, decimals, geometry, measurements, and introductory algebra. These concepts are essential for developing critical thinking, reasoning, and analytical skills necessary for real-world problem-solving. The syllabus emphasizes a learner-centered approach, where leaners actively engage in hands-on activities, group work, and investigations to discover mathematical relationships and patterns. Ultimately, this syllabus aims to foster mathematical fluency, conceptual understanding, and logical reasoning, equipping learners with the skills needed for further studies in arithmetic and related disciplines.",
+    "competence_learning": "Mathematics competence is the ability to develop and apply mathematical thinking in order to solve a range of problems in everyday situations. Mathematical competences involve the ability and willingness to use mathematical modes of thought (logical and spatial thinking) and presentation (formulas, models, constructions, graphs, charts). The mathematics competence is developed step-by step over a period of instruction after learning a set of specific competencies.",
+    "goals": [
+      "Equip learners with foundational mathematical competencies, including critical thinking, problem-solving, and conceptual understanding.",
+      "Foster holistic growth by empowering learners to engage with mathematical concepts, apply them in real-world scenarios, and cultivate a lifelong appreciation for mathematics.",
+      "Develop computational skills, mathematical reasoning, communication, and problem-solving abilities.",
+      "Provide a solid foundation for STEM education and smooth transition to secondary education.",
+      "Inspire mathematical fluency, conceptual understanding, and logical reasoning for further studies."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "6.1",
+      "topic_title": "SETS",
+      "page_number": 18,
+      "subtopics": [
+        "Subsets"
+      ],
+      "specific_outcomes": [
+        "Apply the concept of subsets in life context"
+      ]
+    },
+    {
+      "unit": "6.2",
+      "topic_title": "INDEX NOTATION",
+      "page_number": 18,
+      "subtopics": [
+        "Indices",
+        "Number and Sequence"
+      ],
+      "specific_outcomes": [
+        "Use index notation to solve life situations",
+        "Use squares and cubes to generate sequences"
+      ]
+    },
+    {
+      "unit": "6.3",
+      "topic_title": "FRACTIONS",
+      "page_number": 19,
+      "subtopics": [
+        "Common Fractions and Percentages"
+      ],
+      "specific_outcomes": [
+        "Apply Fractions in different contexts"
+      ]
+    },
+    {
+      "unit": "6.4",
+      "topic_title": "INTEGERS",
+      "page_number": 19,
+      "subtopics": [
+        "Operations on Integers"
+      ],
+      "specific_outcomes": [
+        "Use integers in different contexts"
+      ]
+    },
+    {
+      "unit": "6.5",
+      "topic_title": "ESTIMATION AND APPROXIMATIONS",
+      "page_number": 20,
+      "subtopics": [
+        "Estimation and Approximation"
+      ],
+      "specific_outcomes": [
+        "Apply estimation and approximation in daily life"
+      ]
+    },
+    {
+      "unit": "6.6",
+      "topic_title": "RATIO AND PROPORTION",
+      "page_number": 20,
+      "subtopics": [
+        "Ratio and Direct Proportion",
+        "Indirect proportion"
+      ],
+      "specific_outcomes": [
+        "Use the concept of ratio and proportion in everyday situations"
+      ]
+    },
+    {
+      "unit": "6.7",
+      "topic_title": "EQUATIONS AND INEQUATIONS",
+      "page_number": 21,
+      "subtopics": [
+        "Linear equations and inequations"
+      ],
+      "specific_outcomes": [
+        "Apply linear equations and inequations in life situations"
+      ]
+    },
+    {
+      "unit": "6.8",
+      "topic_title": "FINANCIAL ARITHMETIC",
+      "page_number": 22,
+      "subtopics": [
+        "Money"
+      ],
+      "specific_outcomes": [
+        "Exhibit financial literacy in everyday life"
+      ]
+    },
+    {
+      "unit": "6.9",
+      "topic_title": "MEASURES",
+      "page_number": 22,
+      "subtopics": [
+        "Length, Area and Speed"
+      ],
+      "specific_outcomes": [
+        "Apply measurements in different life contexts"
+      ]
+    },
+    {
+      "unit": "6.10",
+      "topic_title": "STATISTICS",
+      "page_number": 23,
+      "subtopics": [
+        "Measures of Central Tendency"
+      ],
+      "specific_outcomes": [
+        "Analyse data"
+      ]
+    }
+  ]
+}

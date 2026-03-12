@@ -1,0 +1,1330 @@
+{
+    "subject": "Pre-Mathematics and Science",
+    "grade": "Early Childhood Education Level 1",
+    "age_range": "3-4 years",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "Exploring My World",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Grouping Things",
+                    "page": 14,
+                    "competences": [
+                        "Grouping things according to their characteristics"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "In this activity is designed to help learners on how to sort living and non-living things in our environment (surroundings). There are four sub-activities which learners should be engaged in to sorting things in the surroundings."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 16,
+                            "hook": "What things can we see outside the classroom?",
+                            "teacher_steps": [
+                                "Take the learners for a nature walk",
+                                "Ask the learners to identify things they are able to see in the school surroundings",
+                                "Ask learners to sort the objects into living and non-living things in the school surroundings"
+                            ],
+                            "learner_steps": [
+                                "Learners' nature walking in the school surroundings",
+                                "Learners' sorting the objects into living and non-living things as they see them in the school surroundings"
+                            ],
+                            "short_notes": "This activity requires that learners are taken outside the classroom to explore the natural environment. Exploring the natural environment can help the learners differentiate living things."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Review the concepts of living and non-living things",
+                                "Provide learners with modeling clay or play dough",
+                                "Ask learners to mold different models of living and non-living things"
+                            ],
+                            "learner_steps": [
+                                "Learner's molding living and non-living things"
+                            ],
+                            "short_notes": "This activity is about molding animals and plants models. This activity is meant to help learners improve their creativity and analytical thinking about living and non-living things."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3",
+                            "page": 18,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Prepare the picture cards and sorting mats/containers",
+                                "Put learners in small groups",
+                                "Show the learners a picture card and ask, 'Is this a living thing or a non-living thing?'",
+                                "Have learners sort the picture card into the corresponding grouping (Living or Non-Living)",
+                                "Repeat the process with multiple picture cards",
+                                "Ask learners to sketch and colour the picture cards of living and non-livings",
+                                "Observe and record their responses"
+                            ],
+                            "learner_steps": [
+                                "Learners sorting the picture cards into living and non-living things groups",
+                                "Learners sketching and colouring the picture cards of living and non-livings"
+                            ],
+                            "short_notes": "The picture cards will provide learners with objects that they are not able to find in the immediate environment and therefore strengthen learners' ability to sort living and non-living things. This activity can be done in both the natural or artificial environment depending on the appropriateness of space."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Prepare the picture cards or cutouts from magazines, calendars, newspapers and sorting mats/containers of living and non-living things",
+                                "Review the concept of living and non-living things",
+                                "Show the learners a picture card and ask, 'Is this a living thing or a non-living thing?'",
+                                "Put learners' small groups",
+                                "Provide learners with picture cut outs of living and non-living things",
+                                "Have learners sort the picture card into the corresponding grouping (Living or Non-Living)",
+                                "Repeat the process with multiple picture cards",
+                                "Demonstrate collage making techniques to the learners",
+                                "Ask learners to create a collage featuring living and non-living things",
+                                "Ask learners to a tell story by describing their collage and the objects they used"
+                            ],
+                            "learner_steps": [
+                                "Learners making a collage featuring living and non-living things",
+                                "Learners telling stories to describe their collage and the objects they used"
+                            ],
+                            "short_notes": "This activity is about collage making. The collage making help learners become creative, critical thinkers, problem solvers using different images depicting living and non-living things."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This activity is about exploring our environment and learn about counting living and non-living things. In this activity, learners will learn how to count living things, like animals and plants, and non-living things, like cars and chairs. Help learners explore their classroom, school, and community to find examples of living and non-living things. There are three sub-Activities under this activity which should be used to help learners count living and non-living things 1-5 in the environment."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Let learners explore the school environment to observe things around",
+                                "Take learners on a guided walk outside the classroom",
+                                "Ask learners to count objects, such as leaves on a tree, flowers in a garden, Birds in a tree, Cars in a parking lot"
+                            ],
+                            "learner_steps": [
+                                "Learners exploring the school environment to observe things around",
+                                "Learners counting living things 1-5 (e.g. plants, leaves on a tree, flowers in garden, animals, people) they see things from the natural environment",
+                                "Learners counting non-living things 1-5 (buildings, cars in a parking lot, bicycles, motor bikes…) they see things from the natural environment"
+                            ],
+                            "short_notes": "This activity is about counting things outside the classroom. It is designed to help learners to develop counting skills and build their understanding of the concept of living things and non-living things."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Review counting of things 1-5",
+                                "Provide materials such as Plants or fresh leaves, fresh Fruits, Books, Balls, Toys/Dolls, Pencils in groups of five each",
+                                "Display the materials in front of the classroom",
+                                "Let individual learners count the materials in group of five starting with living things by looking at their characteristics",
+                                "Ask learners to repeat the counting materials with a focus on non-living things in groups of five",
+                                "Allow learners to explore the classroom, encouraging them to engage with materials and activities"
+                            ],
+                            "learner_steps": [
+                                "Individual learners taking turns to count the materials provided in groups of five by pointing at different items which are in front of the classroom correctly",
+                                "Learners counting the materials in group of five starting with living things by looking at their characteristics",
+                                "Learners to repeating the counting materials with a focus on non-living things in groups of five",
+                                "Learners to exploring the classroom, encouraging them to engage with materials and activities"
+                            ],
+                            "short_notes": "This activity is allowing learners to relate and discover their classroom environment through hands-on, self-directed learning experiences. This approach encourages learners to use their natural curiosity and senses to learn about their surroundings, develop problem-solving skills, and build confidence."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Prepare a Hide and Seek/Scavenger hunt game with living things (e.g. Plants…) and five non-living things (e.g.Toys…) for learners to find around the classroom or designated area",
+                                "Put the learners into groups",
+                                "Hide five living things (e.g. Plants…) and five non-living things (e.g.Toys…) in the classroom",
+                                "Ask one group of learners to search for hidden living things and the other to search for hidden non-living things",
+                                "Ask learners to count the things as they find them"
+                            ],
+                            "learner_steps": [
+                                "Learners count the things as they find them, ensuring the total is counted up to 5"
+                            ],
+                            "short_notes": "In this activity, you will embark on two exciting counting journeys: Hide and Seek and Counting Scavenger Hunt. These games are designed to help learners develop their counting skills, problem-solving abilities, and critical thinking. They are interactive counting games centered on living and non-living things and provide a fun as they help learners develop numeracy skills while exploring their natural world."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Exploring places where living things are found in the environment will encourage learners to think critically about different living conditions of living things."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1",
+                            "page": 25,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Take learners around the school surroundings",
+                                "Encourage learners to observe places where insects, birds and plants are found"
+                            ],
+                            "learner_steps": [
+                                "Learners locating places where living things are found",
+                                "Learners observing places where insects, birds and fish under in fish"
+                            ],
+                            "short_notes": "The Nature Scavenger Hunt activity involves identifying various plants, animals, textures, and patterns in nature, with the goal of finding and recording as many items as possible. This activity will help learners identify different places where living things are found."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 25,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "In this activity, the focus is the different places where familiar living things are found (habitats). This activity is to be done by matching pictures of living things to their correct places where they are found, such as; Farm, Forest, River, Garden, Home and other places."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1",
+                            "page": 26,
+                            "hook": "Have you ever wondered where animals like birds, fish, and dogs live? Or where plants like flowers, trees, and grass grow?",
+                            "teacher_steps": [
+                                "Take learners on a nature walk around the school surroundings or a nearby park",
+                                "Encourage learners to observe their school surroundings and look for living things and places where they are found (habitats)",
+                                "As you walk, stop at different locations and ask the learners to locate and places where living things are found (e.g., forest, garden, park, pond)",
+                                "Show learners the habitat cards or use a video/simulation where living things are found",
+                                "Ask learners to match the living things they see to their correct habitats"
+                            ],
+                            "learner_steps": [
+                                "Learners' nature walking around the school surroundings or a nearby park",
+                                "Learners observing their school surroundings and look for living things and places where they are found (habitats)",
+                                "Learners locating places where living things are found (e.g., forest, garden, park, pond)"
+                            ],
+                            "short_notes": "In this activity you will guide learners on how to locate correct places where living things are found. By the end of this activity, learners are expected to identify places where living things are found."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2",
+                            "page": 28,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Provide a set of picture cards or objects featuring familiar living things (e.g. dog, birds, fish, tree)",
+                                "Provide a set of picture cards or objects featuring different places where livings are found (e.g. park, bush, river, and farm)",
+                                "Shuffle the cards and lay them out face down"
+                            ],
+                            "learner_steps": [
+                                "Learners taking turns flipping over two cards at a time to find a match (e.g. fish to river….)"
+                            ],
+                            "short_notes": "In this activity you will help learners match pictures of living things to their correct places where living things are found. By the end of this activity, learners are expected to identify and match familiar living things to their correct places where they are found."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 28,
+                            "hook": "Have you ever noticed patterns in the world around you? Like the stripes on a zebra",
+                            "teacher_steps": [
+                                "Take learners outside the classroom",
+                                "Guide learners to collect various natural materials like leaves, twigs, and stones, from the school environment",
+                                "Provide learners with seeds",
+                                "Demonstrate to the learners on how to stick them in their books to come up with different patterns",
+                                "Ask learners create different patterns of leaves, patterns of stones, patterns of seeds and so on in their books (using glue or any other sticking materials)",
+                                "Ask learners to create patterns using natural materials they picked by dipping the leaves in paint and pasting them in their books"
+                            ],
+                            "learner_steps": [
+                                "Learners' collecting various natural materials like leaves, twigs, rocks, and seeds",
+                                "Learners making different patterns of leaves, patterns of stones, patterns of seeds and so on in their books (using glue or any other sticking materials)",
+                                "Learners making patterns using natural materials they picked by dipping the leaves in paint and pasting them in their books"
+                            ],
+                            "short_notes": "This activity is creating patterns using natural materials from the local environment. As a teacher, you can support learners create their own patterns using natural materials, encouraging critical thinking and problem-solving. This activity encourages learners to analyze, identify, and make predictions, allowing them to express themselves creatively and bring their ideas to life."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6",
+                            "page": 30,
+                            "hook": "How long is a……? Let's Get Measuring!",
+                            "teacher_steps": [
+                                "Put the learners into groups",
+                                "Show the learners a variety of objects to be measured in the classroom such as pencils, plastic bottles, books",
+                                "Ask learners to measure the length of different objects, such as a pencils, plastic bottles, books using strings, shoe laces",
+                                "Provide additional support to the learners as they strive to measure various objects such as pencils, plastic bottles"
+                            ],
+                            "learner_steps": [
+                                "Learners measuring the length of different objects, such as pencils, plastic bottles, books using strings, shoe laces"
+                            ],
+                            "short_notes": "This activity is about measuring lengths of different things using non-standard units. Measuring length is an important skill that helps us understand the world around us. This activity looks at how to measure the length of different objects using non-standard units."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7",
+                            "page": 32,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This activity teaches learners to compare lengths using non-standard units and terms like 'longer,' 'shorter,' 'same,' and 'different,' focusing on understanding the relationship between different things through two sub-activities."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7.1",
+                            "page": 32,
+                            "hook": "Can you find things around you that are long and short?",
+                            "teacher_steps": [
+                                "Take learners outside the classroom to pick sticks or grass stems of different lengths",
+                                "Let the learners go back to the classroom",
+                                "Put learners in groups",
+                                "Guide learners to arrange the sticks from long to short in their groups"
+                            ],
+                            "learner_steps": [
+                                "Learners arranging the sticks from long to short in their groups"
+                            ],
+                            "short_notes": "Comparing lengths is an important skill that helps us understand the world around us. In this activity, you will help learners on how to compare the lengths of different things. Learners will use words like Long and Short."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7.2",
+                            "page": 33,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Provide learners with a set of objects such as Pencils, Crayons, Books, Blocks, Toys",
+                                "Ask learners to sort the objects by length (e.g., from shortest to longest)"
+                            ],
+                            "learner_steps": [
+                                "learners sorting the objects by length (e.g., from shortest to longest)"
+                            ],
+                            "short_notes": "This activity is about comparing the lengths of different things. Words like Long or Short will be used to describe lengths of different objects."
+                        }
+                    ],
+                    "short_notes": "Grouping things is putting things together according to their groups, characteristics or features. It can be taught by involving play, songs, craft and outdoor activities to enhance the development of skills such as Collaboration, Communication and Critical thinking.",
+                    "vocabulary": [
+                        {
+                            "term": "Comparison",
+                            "definition": "evaluating and contrasting two or more objects, ideas, or quantities to identify similarities and differences"
+                        },
+                        {
+                            "term": "Counting",
+                            "definition": "is the way of determining the number of items in a set or collection"
+                        },
+                        {
+                            "term": "Habitat",
+                            "definition": "is the natural environment in which a plant or animal lives"
+                        },
+                        {
+                            "term": "Grouping",
+                            "definition": "process of organizing items into categories based on shared characteristics"
+                        },
+                        {
+                            "term": "Length",
+                            "definition": "measure of how long something is from one end to the other"
+                        },
+                        {
+                            "term": "Living things",
+                            "definition": "organisms that exhibit characteristics of life such as growth"
+                        },
+                        {
+                            "term": "Measurement",
+                            "definition": "way of assigning a numerical value to a physical quantity, such as length, weight, or capacity"
+                        },
+                        {
+                            "term": "Non-living things",
+                            "definition": "objects or materials that do not have the characteristics of life"
+                        },
+                        {
+                            "term": "Pattern",
+                            "definition": "repeated sequence or arrangement of objects, colors, shapes, or other elements"
+                        },
+                        {
+                            "term": "Sorting",
+                            "definition": "process of arranging items based on defined criteria"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 34,
+                        "questions": [
+                            "Correctly count numbers 1-10 orally",
+                            "Correctly count living/non-living things up to 5",
+                            "Accurately sorts living and non-living things in the environment",
+                            "Correctly count living and non-living things in the environment (1-5)",
+                            "Demonstrates understanding of places where living things are found",
+                            "Match familiar living things according to the places they are found",
+                            "Create patterns using materials from the local environment",
+                            "Measure lengths of different things using non-standard units",
+                            "Compare lengths of different things"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Numbering Things",
+                    "page": 36,
+                    "competences": [
+                        "Recognise Numbers"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 37,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Counting orally from 1 to 10 means saying the numbers out loud in order without using the written symbols. The following are some of the activities you can use to teach learners on recognising numbers. Choose activities that suit your teaching environment and abilities of your learners."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 37,
+                            "hook": "Hello, let's count!",
+                            "teacher_steps": [
+                                "Gather visual aids such as number cards, counting blocks, or pictures to support the rhyme and help learners connect the numbers to things",
+                                "Select a rhyme that is catchy, easy to follow, and aligns with your learning activity",
+                                "Begin by introducing the counting rhyme and reciting it",
+                                "Encourage learners to join in and recite the rhyme with you",
+                                "Ask learners to recite rhymes of numbers such as 1,2,3,4,5",
+                                "Support learners as they to count orally correctly"
+                            ],
+                            "learner_steps": [
+                                "Recite number rhymes such as 1,2,3,4,5 once I caught a fish alive …"
+                            ],
+                            "short_notes": "Counting rhymes are a fantastic way to engage young learners and help them to count things. You can effectively use counting rhymes to teach young learners count things in a fun and engaging way. This activity is about using a counting rhyme to teach learners to recognise numbers."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2",
+                            "page": 38,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Decide on the counting range you want to focus on, such as 1-10",
+                                "Put the learners in a circle",
+                                "Explain to the learners that they will be using three different actions to count: snapping their fingers, clapping their hands, and stamping their feet",
+                                "Demonstrate each action and relate it to a specific number. For example: Snap (1), Clap (2), Stamp (3)",
+                                "Start counting together, using the designated actions for each number. For example: Snap (1), Clap (2), Stamp (3), Snap (4), Clap (5)….",
+                                "Encourage learners to join in and perform the actions as you count together",
+                                "As learners become more confident, slowly increase the counting range of numbers"
+                            ],
+                            "learner_steps": [
+                                "Learners snap their fingers, clap their hands, and stamp their feet while counting orally"
+                            ],
+                            "short_notes": "By using the Snap, Clap, and Stamp counting method, you can create a fun and engaging learning environment that helps young learners develop essential counting skills."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 39,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Counting living and non-living things is the way of identifying and counting items in the environment that are either alive or not alive. There are two sub-activities which you can use to help learners count living and non-living things."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1",
+                            "page": 39,
+                            "hook": "Can you count the number of fingers on your hand?",
+                            "teacher_steps": [
+                                "Take learners outside the classroom surroundings",
+                                "Ask learners to identify living and non-living things in the school surroundings"
+                            ],
+                            "learner_steps": [
+                                "Learners go outside the classroom mention living and non-living things as they see them in the school surrounding",
+                                "Counting the living things and non-living things 1-5 as they see them in the school surrounding"
+                            ],
+                            "short_notes": "Nature walk with early childhood learners is an opportunity for exploration, learning and connecting to the natural world. It's all about making the environment an exciting, hands-on classroom where learners can observe, ask questions and engage with what they see around them."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2",
+                            "page": 40,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put learners in groups",
+                                "Give out the cut-out pictures pieces of living and non-living things to the groups",
+                                "Ask learners to learners completing the puzzles. identifying and grouping living and non-living things"
+                            ],
+                            "learner_steps": [
+                                "Learners completing the puzzles on a mat or any flat surface",
+                                "Learners counting cut-out pictures pieces of living and non-living things 1-5"
+                            ],
+                            "short_notes": "This activity is about Puzzle making and counting things. This activity is designed to help learners develop problem-solving skills and practice counting numbers 1-5."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 41,
+                            "hook": "Can you show me one finger?",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Identifying numbers 1 - 5 using living and non-living things refers to the ability to recognise and identify these numbers by relating them to things within the environment. There are sub-activities which you can use to help learners identify numbers 1-5."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1",
+                            "page": 41,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Decide on the range of numbers you want to focus on, such as 1-5",
+                                "Draw a large number line on the floor, whiteboard, or chart paper with numbers marked at regular intervals",
+                                "Prepare number cards or printouts of plants/ animals with the numbers in the chosen range 1-5",
+                                "Place a picture of plants/ animals with one item on the first mark, a picture with two items on the second mark, and continue this pattern up to 5",
+                                "Ask learners to hang number cards onto corresponding pictures while singing the song 'number one, number one, where are you?'"
+                            ],
+                            "learner_steps": [
+                                "Learners hang number cards onto corresponding pictures while singing the song 'number one, number one, where are you?'"
+                            ],
+                            "short_notes": "This activity involves the use of number line to identify numbers. Using a number line is a fantastic way to help learners visualise and understand the relationships between numbers. In this case, picture of living things such as plants or animals can be used to identify numbers."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2",
+                            "page": 42,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put learners into groups",
+                                "Place picture cards 1 - 5 in each box",
+                                "Let one learner from each group pick one card and the other learners should identify the number",
+                                "Ask the learners to mould/model numbers of their choice 1 - 5 using available resources (clay, sand, plasticine)"
+                            ],
+                            "learner_steps": [
+                                "Learners picking a card and show it to other group members to identify the number on it",
+                                "Learners moulding numbers of their choice 1 - 5 using available resources (clay, sand, plasticine)"
+                            ],
+                            "short_notes": "The number game activity is important for helping learners to recognise numbers in a fun and engaging way."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 43,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This activity focuses on teaching learners to identify written numbers, which is crucial for future mathematics concepts and counting and communication skills. It involves exploring living and non-living things and creating real-world connections."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1",
+                            "page": 44,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Prepare number cards with written numbers (e.g., 1, 2, 3) and corresponding numerals (e.g., one, two, three)",
+                                "Prepare number tracing worksheets for learners to practice writing numbers",
+                                "Prepare number recognition games, such as matching games or bingo, to reinforce learning",
+                                "Show learners the number cards and introduce the written numbers",
+                                "Ask learners to relate the written numbers to the corresponding numerals",
+                                "Use real-life examples, such as price tags in tuck shops, street signs or phone numbers, to demonstrate the importance of written numbers. Take the learner to a tuck-shop and identify numbers 1-5 in the tuck-shop"
+                            ],
+                            "learner_steps": [
+                                "Learners relating the written numbers to the corresponding numerals using the number cards and written numbers"
+                            ],
+                            "short_notes": "A shopping hunt for learners can be exciting and engaging way to develop skills like problem solving, and Collaboration. It is essentially a fun activity that mimics the process of a shopping trip, but with a focus on exploration and learning."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2",
+                            "page": 45,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Let each learner reach into a shopping bag (without looking) and guess what they are holding before pulling it out. Then, they can name it and say the number written on it",
+                                "Let learners state if the item picked is a living or non-living thing and identify the number written on the bag"
+                            ],
+                            "learner_steps": [
+                                "Learners stating if the item picked is a living or non-living thing and identify the number written on the bag"
+                            ],
+                            "short_notes": "A feely bag is an interactive activity that helps learners develop their sense of touch, fine motor skills, imagination, and problem-solving skills by allowing them to feel objects without looking inside. It encourages them to identify objects by touch."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 46,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Numbers are all around us. We use them to count our Toys, our friends, and even our favorite foods. In this activity, you will help learners name of numbers 1-5 using real-life objects. Teaching learners to name numbers is a important as it helps to build a foundation for future mathematics concepts."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1",
+                            "page": 46,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Introduce the Zoo game by asking what animals learners know?",
+                                "Then explain to the learners that they will be playing a zoo game to learn about numbers",
+                                "Show the learners the number cards and ask if they know the names of the numbers",
+                                "Prepare a pretend zoo, where you will stick/paste number cards using game board/Card board",
+                                "Provide pictures of different zoo animals, such as lions, monkeys, giraffes, and elephants",
+                                "Place the zoo animal pictures on the game board/Card board",
+                                "Ask learners to match the animals to the corresponding number cards",
+                                "As the learners match the animals to the numbers, have them read the numbers aloud",
+                                "Encourage the learners to repeat the numbers several times to reinforce their learning"
+                            ],
+                            "learner_steps": [
+                                "Learners identifying the numbers branded on the different things whilst in the zoo"
+                            ],
+                            "short_notes": "A pretend Zoo is a play-based learning activity where learners can use their imagination to create and manage their own Zoo. It lays a foundation for mathematics skills such as counting, recognising and naming numbers, also enhancing critical thinking and problem solving."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6",
+                            "page": 47,
+                            "hook": "Let's see who can count the greatest number of living and non-living things",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Counting things activities help learners recognize numbers by comparing living and non-living things. They engage learners in building counting concepts and distinguishing living from non-living things, using various activities."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.1",
+                            "page": 47,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Take a short walk with learners around the school",
+                                "Ask learners to count the living things (Animals such as insects, birds…), people, plants, and non-living things (Cars, Motorcycles, Bicycles, Buildings, Stones) they see",
+                                "Ask learners to count a group of 10 living and non-living things"
+                            ],
+                            "learner_steps": [
+                                "Learners counting living things (Animals such as insects, birds…), people, plants, and non-living things (Cars, Motorcycles, Bicycles, Buildings, Stones) they see",
+                                "Learners counting a group of 10 living and non-living things"
+                            ],
+                            "short_notes": "This activity will engage learners in counting living things and non-living things that are found in the both natural and artificial environment and will help them in learning how to count and build on the concept of differentiating living things from non-living things."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.2",
+                            "page": 48,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Provide the following Plants/fresh leaves, Books, crayons, pencils, toys in group of 10",
+                                "Put learners in groups",
+                                "Ask each group at a time to go in front and identify and count living things, put them aside and then count non-living things"
+                            ],
+                            "learner_steps": [
+                                "Learners identifying and separating living things from non-living things and thereafter counting the number of things in each group"
+                            ],
+                            "short_notes": "In this activity learners expected to search and count living things and non-living things found in the classroom environment. They should sort and count a group of 10 living and non-living things."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.3",
+                            "page": 49,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put the learners in groups",
+                                "Hide a set of living things and non-living things (e.g., 1-10 insects, plants, books, pencils, toys, balls) around the classroom or play area",
+                                "Call out a name of the living and non-living thing, and have learners find the corresponding number card",
+                                "Ask one group to find the living things and the other to find the non-living things. The group which finds all the ten things first wins the game",
+                                "To make it more challenging, give clues, such as 'The living thing is hiding behind something blue' or 'The non-living thing is near a desk.'"
+                            ],
+                            "learner_steps": [
+                                "Learners counting the things as they find them until all the 10 have been found and counted"
+                            ],
+                            "short_notes": "Using counting games to teach learners numbers is an entertaining and interesting method to help them develop their numeracy skills. In the early stages of learning, using games to teach learners how to count and distinguish between living and non-living objects is a useful tactic that creates an enjoyable and stimulating learning environment. Additionally, game-based learning helps in the development of problem-solving abilities."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.4",
+                            "page": 50,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Provide a list of things with corresponding numbers (e.g., 10 books, 5 pencils, 3 toys, 3 chairs, 2 desks)",
+                                "Put the learners in groups",
+                                "Give learners the list and have them find and count the things",
+                                "To make it more challenging, add clues to solve before finding the things"
+                            ],
+                            "learner_steps": [
+                                "Learners counting things as they find them until all the things have been found and counted"
+                            ],
+                            "short_notes": "In this activity a game is going to be used teach learners how to be counting between living and non-living things is a useful tactic that makes an enjoyable and interesting learning environment. Additionally, game-based learning helps in the development of problem-solving abilities."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7",
+                            "page": 51,
+                            "hook": "Let's make numbers.",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This activity is about moulding numbers using variety of materials to help learners` understand of numbers. This activity is hands-on, making learning more interactive and engaging. By using materials like clay and playdough, learners can make numbers in different ways, encouraging creativity and problem-solving abilities. There are three sub-activities that you can use to help learners recognise numbers."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7.1",
+                            "page": 51,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Take learners outside for a nature walk and ask them to collect small natural materials like sticks, leaves or stones"
+                            ],
+                            "learner_steps": [
+                                "Learners lay down sticks or arrange small stones on the ground to make numbers"
+                            ],
+                            "short_notes": "Making numbers using a variety of natural materials such as sticks, leaves and small stones can make learners develop a deeper understanding of mathematical concepts of recognising numbers"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7.2",
+                            "page": 52,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Provide learners with moulding clay or play dough",
+                                "Ask learners to mould numbers from 1 – 5 using the provided materials"
+                            ],
+                            "learner_steps": [
+                                "Learners moulding numbers from 1 – 5 using variety of materials provided"
+                            ],
+                            "short_notes": "This activity is about moulding numbers using clay is an engaging and hands-on activity that can help learners to recognise numbers. The activity is designed to help learners` recognise different numbers."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7.3",
+                            "page": 53,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Introduce activity by providing a suitable hook to the learners",
+                                "Give a number to each learner",
+                                "Hide number shapes in sensory bags for learners to find and match with the other ones they have in the other hands"
+                            ],
+                            "learner_steps": [
+                                "Learners finding number shapes in the sensory bags that match the ones they have in their hands"
+                            ],
+                            "short_notes": "A Number Hunt game is a fun and interactive activity designed to help learners develop their numeracy skills, particularly in recognising and identifying numbers. The purpose of the Number Hunt game is for learners to find and identify numbers in their environment."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "8",
+                            "page": 54,
+                            "hook": "Let's write numbers",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This activity is about tracing numbers 1-5 using various materials develop fine motor, and hand-eye coordination. This activity can helps learners recognise the shape of numbers. This activity can be used to help learners recognise numbers,"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "8.1",
+                            "page": 54,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Take the learners outside the classroom. Stick number cards where each learner will see then clearly",
+                                "Let the learners write the numbers (1 - 5) in the air while you observe the way they do it",
+                                "Practice tracing numbers together with the learners",
+                                "Provide feedback and encouragement to learners as they practice tracing numbers in air"
+                            ],
+                            "learner_steps": [
+                                "Learners to write the numbers they see on the wall in the air using their fingers",
+                                "Learners trace numbers 1-5 using the chosen material"
+                            ],
+                            "short_notes": "Writing Numbers in the Air"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "8.2",
+                            "page": 55,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Fill sand in the trays and write the numbers (1-5) on the sand"
+                            ],
+                            "learner_steps": [
+                                "Learners tracing the numbers (1-5) on sand in the tray"
+                            ],
+                            "short_notes": "The activity Sand tray tracing is used to help learners recognise numbers. It typically involves putting sand in a shallow tray and then using a finger to trace shapes, letters, or patterns. The sensory experience of drawing in the sand can be calming, and it's a way learners can engage with their creativity and focus their attention."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "8.3",
+                            "page": 56,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Emboss numbers 1-5 with beads/buttons/bottle tops/any seed on cardboard using glue or any adhesive",
+                                "Ask learners to trace on the numbers made on the cardboard"
+                            ],
+                            "learner_steps": [
+                                "Learners tracing the numbers (1-5) using fingers on top of each number"
+                            ],
+                            "short_notes": "Beads tracing is another great tactile activity where beads (often small, round ones) are arranged in patterns or shapes, and then the person traces around them, either with their fingers or a tool. The beads can be used to form letters, numbers, shapes, or more complex designs, and the process can be calming, creative, and a fun way to practice fine motor skills."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "8.4",
+                            "page": 57,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Provide leaves/stones/seeds, Cardboard or Clay or Sand",
+                                "Print numbers (1-5) on a cardboard or on clay or sand",
+                                "Ask learners to place material (leaves, stones, seeds) on the printed numbers on either the cardboard or clay or sand (ground)",
+                                "Ask learners to repeat the same activity using clay or sand and a stick"
+                            ],
+                            "learner_steps": [
+                                "Learners placing materials (leaves, stones, seeds) on the printed numbers on either the cardboard or ground",
+                                "Learner's tracing numbers using the stick-on clay/sand"
+                            ],
+                            "short_notes": "Nature Number Tracing is a fun method to learn numbers by tracing them using natural tools like fingers and sticks, enhancing fine motor skills, hand-eye coordination, and problem-solving abilities. The activity aims to improve fine motor skills, number recognition and writing, encourage exploration of nature, foster creativity, and improve problem-solving abilities."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "8.5",
+                            "page": 58,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Print out large numbers on pieces of paper",
+                                "Ask the learners to pick pieces of cotton wool (you can use different colours) or write numbers on the ground",
+                                "Let leaners repeat the activity by using water bottles to write the numbers"
+                            ],
+                            "learner_steps": [
+                                "Learners gluing the cotton wool on the numbers to trace them",
+                                "Leaners repeating the activity using water bottles to write the numbers"
+                            ],
+                            "short_notes": "The number tracing activity helps learners to recognise numbers. This activity engages learners through the use of cotton wool in a creative and fun way to help learners recognise numbers."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "9",
+                            "page": 59,
+                            "hook": "How many things are in your bag? Let's put things together!",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Addition is an important skill in everyday life, helping in problem-solving. This activity uses games, puzzles, and real-life examples to teach addition, engaging learners in fun and educational activities related to adding living and non-living things up to the sum of 5. There are three sub-activities you can use to teach learners the concept of addition, how to add single-digit numbers, application of addition to real-life situations, and developing problem-solving and critical thinking skills."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "9.1",
+                            "page": 59,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Display picture cards showing different number of living or non-living things",
+                                "Shuffle the picture cards and place them face down on the game board or mat",
+                                "Shuffle the number cards and addition problem cards, and place them within reach",
+                                "Ask learners to count the number of non-living things and find which picture cards have the number of non-living things that sum to 5",
+                                "Do the similar way on living things"
+                            ],
+                            "learner_steps": [
+                                "Learners pairing picture cards with the number of non-living things that sum to 5. Example model/object with 3 stones and another one with 2 stones. For example, the learner has 2 picture cards of living things (e.g., 3 dogs) and 2 picture cards of things (e.g., 2 dogs), they can combine or 2 picture cards of non-living things (e.g., 2 cars), they can"
+                            ],
+                            "short_notes": "Addition game is a fun way to engage learners in learning to add living and non-living things up to the sum of 5. This game brings both counting and classification together in an exciting way, while helping learners practice addition in a real-world context. The purpose of this activity is helping learners practice addition skills by combining living and non-living things in a fun and interactive way."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "9.2",
+                            "page": 60,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put all the objects both non-living and living things in the sensory bag",
+                                "Ask the learners to pick items from the sensory bag without looking at what they are picking",
+                                "Ask the learners to put together the living things of the same type and those to put together non-living of the same type"
+                            ],
+                            "learner_steps": [
+                                "Learners putting (adding) together the living things (same type) and the non- living things (same type) and count them"
+                            ],
+                            "short_notes": "A sensory bag is a fantastic hands-on activity that encourages learners to explore and differentiate between living and non-living things through touch and play. This sensory bag helps learners to group and add things while providing a physical experience."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "9.3",
+                            "page": 61,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Set up a small area of a farm or zoo",
+                                "Ask learners to use toy animals (living things) displayed e.g. 1 dog with 3 puppies and another dog with 2 puppies",
+                                "Let the learners add all the dogs which are at the farm"
+                            ],
+                            "learner_steps": [
+                                "Learners adding the same types of living things displayed e.g. dogs, cows, pigs and so on"
+                            ],
+                            "short_notes": "Interactive play with living and non-living things fosters social and cognitive development by allowing learners to explore, sort, and learn about living and non-living things."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "10",
+                            "page": 62,
+                            "hook": "Imagine you have 3 toy cars, and you give 1 to your friend. How many cars do you have left? Let's find out through subtraction!",
+                            "teacher_steps": [
+                                "Tell the learners a very short story that involves living and non-living things, for example; Story Title: Chilonga's Farm Adventure - Chilonga had a farm with 5 cows. One day, 1 cow left the farm to go to a nearby field",
+                                "Ask learners the question 'How many cows are left on Chilonga's farm?'",
+                                "Story Title: Thabo's Class Adventure - Thabo has 5 crayons in her lunch box. She gave 2 crayons to her friend, Misozi",
+                                "Ask learners the 'How many crayons are left in the school bag?'",
+                                "Ask learners the question 'How many animals are left on Chilonga's farm?'"
+                            ],
+                            "learner_steps": [
+                                "Learners taking away (subtracting) 1 cow to find out how many animals at the farm"
+                            ],
+                            "short_notes": "Subtraction is a mathematical operation that determines the difference between two numbers, similar to removing something from a group. Teaching learners' subtraction phrases can be engaging through interactive play and hands-on activities. This activity can be done a story about entitled 'Animal adventure'. The animal adventure story for subtracting living and non-living things is a fun and interactive way to engage early childhood learners in subtraction while integrating both living and non-living things."
+                        }
+                    ],
+                    "short_notes": "Numbering is a process of giving a numeral value to things. Numbering things can be taught by incorporating songs, games, puzzles and outdoor exploration. These activities will help learners to discover and identify the fascinating things that make our wonderful world using numerical journey.",
+                    "vocabulary": [
+                        {
+                            "term": "Oral counting",
+                            "definition": "way of verbally counting a sequence of numbers"
+                        },
+                        {
+                            "term": "Counting things",
+                            "definition": "way of counting a set of objects"
+                        },
+                        {
+                            "term": "Number identification",
+                            "definition": "The ability to recognize and identify numbers either orally or visually"
+                        },
+                        {
+                            "term": "Written number recognition",
+                            "definition": "way to know and identify written numbers 1 through 5"
+                        },
+                        {
+                            "term": "Naming numbers",
+                            "definition": "The ability to verbally state the name of a number"
+                        },
+                        {
+                            "term": "Moulding numbers",
+                            "definition": "way of making physical representations of numbers"
+                        },
+                        {
+                            "term": "Addition",
+                            "definition": "way of combining two or more numbers to find their total or sum"
+                        },
+                        {
+                            "term": "Subtraction",
+                            "definition": "way of finding the difference between two numbers"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 64,
+                        "questions": [
+                            "Correctly count numbers 1-10 orally",
+                            "Correctly count living/non-living things up to 5",
+                            "Identify numbers 1-5 using living and non-living things",
+                            "Recognise written numbers 1-5 using living and non-living things",
+                            "Name numbers 1-5 using living and non-living things",
+                            "Correctely counts numbers up to 10 using various living and non-living things",
+                            "Mould numbers 1-5 using different materials",
+                            "Demonstrates understanding of basic number patterns",
+                            "Correctly adds living and non-living things up to the sum of 5",
+                            "Accurately subtracts living and non-living things up to the difference of 4"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "Things in the Surroundings",
+                    "page": 66,
+                    "competences": [
+                        "Recognise money",
+                        "Manage waste"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 67,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This activity encourages learners to learn about coins and small notes up to K5 through playing games, singing songs, and having fun. It helps develop important skills in money management, counting, financial literacy, and problem-solving abilities. Three activities can be chosen based on the teaching environment and learners' abilities, promoting understanding of money and its importance."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 67,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Provide learners with a set of coins and notes up to K5 with a sorting mat or chart",
+                                "Display coins and notes up to K5 show learners one at a time",
+                                "Ask learners to sort the coins by denomination, color, or shape",
+                                "Let individual learners hold a coin or note and say its value, colour, or size orally"
+                            ],
+                            "learner_steps": [
+                                "Learner holding a coin or note while saying its value, colour, or size orally",
+                                "Learners picking out specific coins or notes based on your instructions (e.g., 'Pick the K1 coin' or 'Find the K5 note')"
+                            ],
+                            "short_notes": "This activity encourages learners to collaborate in collecting, sorting, and counting coins and notes, fostering problem-solving, hand-eye coordination, and fine motor skills. It encourages learners to start treasure hunts and helps learn about money management."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2",
+                            "page": 68,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Prepare or create a simple, catchy song about the coins and notes",
+                                "Sing the song multiple times to help learners remember the lyrics and relate them to the coins and notes",
+                                "Show the learners the coins as you sing the song, pointing to the pictures and features mentioned in the lyrics",
+                                "Ask learners questions about the coins, such as 'What is the value of this coin?' or 'What is the picture on this coin?'",
+                                "Make the song interactive by asking learners to join in, clap, or move their bodies to the rhythm"
+                            ],
+                            "learner_steps": [
+                                "Learners singing the song about the coins and notes while recognising the pictures and features the money"
+                            ],
+                            "short_notes": "This activity will use a coin and note song help learners recognise the features and values of different coins in a fun and engaging way. Using songs will help learners remember the different coins and notes through repetition and rhythm."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3",
+                            "page": 70,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Create a play market or shop in the classroom or school surroundings",
+                                "Set up shelves, tables, and displays with various play food, toys, and other items",
+                                "Assign prices to each item using play money (coins and notes up to K5)",
+                                "Introduce the concept of money and its use in buying and selling",
+                                "Show learners the play money (coins and notes) and explain the different denominations",
+                                "Explain how prices are assigned to items in the play market/shop",
+                                "Demonstrate how to buy and sell items using play money",
+                                "Give each learners some coins and notes and assign them a role (e.g., customer, cashier, shopkeeper)"
+                            ],
+                            "learner_steps": [
+                                "Assign learners a role (e.g., customer, cashier, shopkeeper)",
+                                "Allow learners to participate in buying and selling activities, using play money to make purchases",
+                                "As learners participate in buying and selling, ask them to identify the different coins and notes used in transactions",
+                                "Encourage learners to count the money they receive as change or use to make purchases"
+                            ],
+                            "short_notes": "This activity is about using a mimic shop to help learners recognise money. In a Mimic Shop, learners can engage in role-playing activities, using play money and simulated products to practice real-life shopping scenarios, promoting hands-on learning, and building confidence in a safe and supportive environment."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 71,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Creating patterns helps the learners to make predictions because they begin to understand what comes next. The following are activities which can be used to engage learners into creating patterns using coins and small notes. Choose activities which suit your teaching environment and the abilities of your learners."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1",
+                            "page": 71,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Introduce the activity by asking learners what patterns are and explain to learners that patterns are sequences of objects or colors that repeat in a specific order",
+                                "Provide various coins and small notes, as well as a flat surface or table",
+                                "Create a set of pattern blocks using coins and notes,",
+                                "Ask learners to replicate the pattern",
+                                "Ask learners to create a simple pattern using coins and notes, such as 'coin, note, coin, note.'",
+                                "Encourage learners to experiment with different patterns, such as 'coin, coin, note, note' or 'note, coin, note, coin.'",
+                                "Use different denominations of coins and notes up to K5 to create more complex patterns",
+                                "Challenge learners to continue the pattern by adding more coins or notes"
+                            ],
+                            "learner_steps": [
+                                "Learners creating a simple pattern using coins and notes, such as 'coin, note, coin, note.'",
+                                "Learners experimenting with different patterns, such as 'coin, coin, note, note' or 'note, coin, note, coin.'"
+                            ],
+                            "short_notes": "This activity helps learners develop pattern recognition skills. By looking for patterns in the way coins or notes are arranged, they start to understand sequences, which is a fundamental mathematics concept."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2",
+                            "page": 72,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Divide the learners into groups",
+                                "Set up the relay course with 4-5 stations depending on the situation, each with a different pattern card or chart",
+                                "Explain the rules to the learners: Each team member will run to a station and complete a pattern task. The team member will then run back to their team and tag the next team member. The next team member will then run to the next station and complete the pattern task",
+                                "Each team must create a pattern using coins and notes",
+                                "Set up a 'pattern station' with coins and notes scattered across the room. The first learner in each team runs to the station, selects a coin or note, and then runs back to the team to place it in the right spot on their pattern. The next learner continues the pattern. The team that finishes the pattern first, correctly, wins"
+                            ],
+                            "learner_steps": [
+                                "At each station, learner completing a pattern task, such as: Continuing a pattern using coins and notes (e.g., 'coin, note, coin, note'), Creating a new pattern using coins and notes",
+                                "Each team creating a pattern using coins and notes",
+                                "Learners (group) finishing the pattern first, correctly, wins"
+                            ],
+                            "short_notes": "A pattern relay race helps learners identify, create, and complete patterns. The activity is meant to help learners recognise coins and notes using created patterns This sharpens their understanding of sequences and patterns, which are foundational concepts in early mathematics education. There are three activities you can use to support learners recognise money."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3",
+                            "page": 74,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Teach the learners the 'Pattern Train' song to a simple tune",
+                                "Sing the song multiple times to help learners remember the lyrics and associate them with the coins and notes",
+                                "Show the learners the coins and notes as you sing the song, pointing to the corresponding coins and notes",
+                                "As you sing the song, learners will lay down coins and notes in the pattern that corresponds to the song",
+                                "Ask learners questions about the coins and notes, such as 'What is the value of this coin?' or 'What color is the K2 note?'",
+                                "Make the song interactive by asking learners to join in, clap, or move their bodies to the rhythm",
+                                "The song repeats, and as it does, the pattern 'train' grows longer with new items being added"
+                            ],
+                            "learner_steps": [
+                                "Ask learners to sing the song along with you and let them lay down coins and notes in the pattern that corresponds to the song"
+                            ],
+                            "short_notes": "This activity looks different coins and notes we use daily, and help learners to recognise them through a fun song called the Pattern Train Song, which encourages singing, dancing, and learning about money."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 75,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This activity is developed help learners recognise money by sequencing money using notes. It is necessary to understand that sequencing means putting things in order, like from smallest to largest or from largest to smallest. In this activity, you will use notes to practice sequencing. There are three activities that you can use to support learners recognise the money."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1",
+                            "page": 75,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Introduce the concept of storytelling using money sequences",
+                                "Explain that learners will create a story using a sequence of money, such as coins or notes",
+                                "Provide them with a set of coins or notes",
+                                "Model a money sequence storytelling activity",
+                                "Create cards with different money sequences and ask learners to create a story using the sequence"
+                            ],
+                            "learner_steps": [
+                                "Learners creating their own money sequence stories",
+                                "Learners creating stories using a sequence of money"
+                            ],
+                            "short_notes": "Money sequence storytelling encourages learners to think creatively and develop problem-solving skills. This activity helps learners understand the concept of money sequences and how to apply it in real-life situations."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2",
+                            "page": 77,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Introduce the concept of sequencing and money patterns",
+                                "Create a money pattern using play money, such as ' K1, K2, K5, K1, K2, K5'",
+                                "Put the learners in manageable groups",
+                                "Choose an upbeat song that the learners can dance to, such as 'If you're happy and you know it' or any other fun song",
+                                "Sing the song and have learners dance to the rhythm",
+                                "Sing the song while learners arrange money notes in a pattern on the floor (or a table)",
+                                "You can pause the song at intervals and call out a pattern for them to complete (e.g., 'Arrange the money in descending order' or 'Alternate K1, K2, K5'). Whenever the song stops, they have to freeze and show you, their sequence",
+                                "Add a fun twist: Ask them to 'hop' to a new position to change the sequence or 'dance' while rearranging the notes"
+                            ],
+                            "learner_steps": [
+                                "Learners sequencing the money pattern by repeating the dance moves in the correct order",
+                                "Learners arranging money notes in a pattern on the floor (or a table) either in ascending, alternating, or descending order while dancing to the tune and taking other actions as guided"
+                            ],
+                            "short_notes": "The Money Patterns Dance Party is a fun and engaging learning activity that uses play money to teach learners about money patterns, repeating in a specific order, and a twist of dancing through them, thereby helping learners recognise and sequence money patterns."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.3",
+                            "page": 78,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Play a classic game of 'Simon Says' where you instruct the learners to arrange money in different sequences, such as: 'Simon says, place the K1, then K2, then K5 in that order.' 'Simon says, put the K5, K2, K1 in reverse order.'",
+                                "If you give an instruction without saying 'Simon says,' and any learner follows it, they are out for that round"
+                            ],
+                            "learner_steps": [
+                                "Learners arranging money in different sequences following the instruction 'Simon says'"
+                            ],
+                            "short_notes": "This activity is about playing the game 'Money Sequence Simon Says,' which uses money sequences instead of actions. The game encourages learners to think, make quick decisions and engage in problem solving by identifying the correct sequence of money."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 79,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Introduce this activity by asking learners to share examples of times when they may have traded something with someone else",
+                                "Setup a shop corner and a barter corner",
+                                "Play music and have the learners dance around. When the music stops, hold up toy items (like a ball, a book, or a pretend food item). Ask, 'Would you like to buy this item or exchange for something else?' and encourage them to show their choice by moving to a selected area. If they choose to buy, they can walk to a 'shop' corner. If they want to exchange, they can go to the 'barter' corner. After a few rounds, give them more choices to work through. For example, 'Do you want the toy truck or the doll? What will you exchange for the truck?'"
+                            ],
+                            "learner_steps": [
+                                "Learners holding up toys items and making choices on whether to buy or to exchange"
+                            ],
+                            "short_notes": "The activity involves a Choice-Making Dance Game, where players make decisions that influence the story, outcome, or progression of the game, allowing them to influence the narrative through their choices."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 80,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This activity introduces learners to the concept of sorting waste into designated places, laying the foundation for good waste management habits. This activity helps learners to understand the importance of sorting waste into designated places and manage waste."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1",
+                            "page": 80,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Introduce the idea of designated waste disposal areas by asking learners to share examples of designated waste disposal areas they have seen at home and school",
+                                "Take learners in the school surroundings",
+                                "Begin by reviewing the different types of waste and their designated disposal areas",
+                                "Show learners the pictures or real-life examples of waste",
+                                "Ask learners to dispose waste into the correct designated disposal areas",
+                                "Provide guidance and feedback as needed",
+                                "Encourage learners to explain why they sorted the waste into a particular designated area"
+                            ],
+                            "learner_steps": [
+                                "Learners sharing examples of designated waste disposal areas they have seen at home and school surroundings",
+                                "Learners' nature walking in the school surroundings",
+                                "learners viewing real-life examples of waste",
+                                "Learners sorting waste into the correct designated disposal areas",
+                                "Learners explaining why they sorted the waste into a particular designated area"
+                            ],
+                            "short_notes": "The nature walk activity is designed to help investigate waste management in our natural environment. This activity will look at disposing it in designated places."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.2",
+                            "page": 81,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put bright, colorful bins with pictures of the items that should go into them (e.g., paper, plastic, food scraps)",
+                                "Assign a specific color to each type of waste and let the learners know that they can match the item's color to the bin. For example, blue for paper, green for organic waste etc. Take learners outside within the school premises",
+                                "Ask learners to search around the school surrounding for different types of waste. Let learners pick using gloves (plastics) or hooking with sticks",
+                                "Ask learners to put different wastes collected in the correct bins"
+                            ],
+                            "learner_steps": [
+                                "Learners searching around the school surrounding for different types of waste",
+                                "Learners putting waste in correct bins"
+                            ],
+                            "short_notes": "This activity requires suitable for both classroom environment or school surroundings. This will enable learners to dispose waste in the designated places such as correct bins."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6",
+                            "page": 82,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "The activity involves sorting waste into solid, liquid, e-waste, and general waste, raising awareness about environmental impact and encouraging a sustainable lifestyle and a more environmentally friendly approach to waste disposal."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.1",
+                            "page": 83,
+                            "hook": "How do you throw the trash away?",
+                            "teacher_steps": [
+                                "Set up a simulated waste sorting station with different types of waste and well labeled bins",
+                                "Provide four separate bins or boxes, each labeled clearly with one of the waste types (Solid, Liquid, E-waste, General)",
+                                "Place the bins in four different corners. Make the bins colorful",
+                                "Show the children a variety of items (pictures or actual items) that represent each waste type",
+                                "Have learners work sort the waste into the correct bin"
+                            ],
+                            "learner_steps": [
+                                "Learners sorting up waste and decide which bin they belong to",
+                                "Learners racing to see who can sort the waste the fastest"
+                            ],
+                            "short_notes": "This activity can be done inside the classroom environment or outside to explore both environments. This will help learners to differentiate types of waste and place them in correct bins in order to keep the environment clean."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7",
+                            "page": 84,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "This activity is about participating in waste management activities such as reduce, reuse, recycle. This activity will help learners to problem solving skills and strategies for sorting and managing different types of waste."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7.1",
+                            "page": 84,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Take learners on a short nature walk around the school",
+                                "Provide learners small gloves and have them collect litter (safe items only, like paper or plastic)",
+                                "Talk about keeping nature clean and how picking up litter helps animals"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "The Nature Walk & Clean-up activity aims to investigate the effects of waste on the environment. The learners will walk around their school surroundings, observing waste in their natural surroundings. They will also collect trash and recyclables, learning about proper waste disposal and the importance of reducing, reusing, and recycling."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7.2",
+                            "page": 85,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Introduce the activity by asking learners reducing waste is and its importance in waste management",
+                                "Learners sharing ways they can reduce waste in their daily lives, such as using reusable bags, avoiding single-use plastics, and buying in bulk"
+                            ],
+                            "learner_steps": [
+                                "learners conducting a 'Waste Audit' in the classroom or school surroundings, while sorting and grouping waste into different types"
+                            ],
+                            "short_notes": "This activity aims to teach practical tips, games, and activities to reduce waste in daily life, fostering mindfulness and awareness of waste habits."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7.3",
+                            "page": 86,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Introduce the activity by explaining the concept of reusing items and its benefits in reducing waste",
+                                "Ask learners to share examples of items they can reuse, such as using old jars for storage, turning old t-shirts into bags, or using reusable water bottles"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "This activity aims to teach practical tips, games, and activities to reusing waste in daily life, fostering mindfulness and awareness of managing waste."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7.4",
+                            "page": 87,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Introduce the recycling of waste by explaining to the learners the concept of recycling and its importance in waste management",
+                                "Ask learners to share examples of items that can be recycled, such as paper, plastic, glass, and metal. (Discussion)"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "This activity aims to teach practical tips, games, and activities to reduce waste in daily life, fostering mindfulness and awareness of managing waste."
+                        }
+                    ],
+                    "short_notes": "This Sub-Topic Things in the Surroundings is developed to encourage learners to discover their surroundings using simple language and real-life examples. It takes learners on an exciting journey to discover the world around us, from the natural world to our classrooms. The learning activities are developed to help learners discover the interesting things that make up our surroundings, including animals, water, trees, flowers, classroom furniture, and even our homes.",
+                    "vocabulary": [
+                        {
+                            "term": "Coin and Notes identification",
+                            "definition": "recognizing and naming different coins and notes and their values"
+                        },
+                        {
+                            "term": "Counting money",
+                            "definition": "calculating the total value of coins and notes"
+                        },
+                        {
+                            "term": "Pattern making",
+                            "definition": "arranging coins and notes in a specific order or design"
+                        },
+                        {
+                            "term": "Sequencing money",
+                            "definition": "arranging coins and notes in order from smallest to largest value"
+                        },
+                        {
+                            "term": "Bartering system",
+                            "definition": "exchanging goods or services without using money"
+                        },
+                        {
+                            "term": "Waste management",
+                            "definition": "way of handling, storing, and disposing off waste"
+                        },
+                        {
+                            "term": "Waste disposal",
+                            "definition": "act of getting rid of waste in a responsible manner"
+                        },
+                        {
+                            "term": "Sorting waste",
+                            "definition": "separating waste into different groups for proper disposal"
+                        },
+                        {
+                            "term": "Reduce, Reuse, Recycle (3Rs)",
+                            "definition": "a plan for minimising waste by reducing consumption, reusing items, and recycling materials"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 87,
+                        "questions": [
+                            "Can identify 5 different coins",
+                            "Can name the value of each coin",
+                            "Can count money up to K5 accurately",
+                            "Can demonstrate understanding of basic addition concepts",
+                            "Can create a simple pattern using coins and notes",
+                            "Can explain/tell a story about the pattern created",
+                            "Can sequence small notes in order from smallest to largest value",
+                            "Can demonstrate a basic understanding of bartering",
+                            "Can provide an example of a bartering system",
+                            "Can dispose of waste items in the correct bins",
+                            "Can explain the importance of proper waste disposal",
+                            "Can sort waste into different categories (solid, liquid, e-waste, general)",
+                            "Can explain the differences between each group",
+                            "Can participate in waste management activities (Reduce, Reuse, Recycle)",
+                            "Can explain the importance of these activities"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

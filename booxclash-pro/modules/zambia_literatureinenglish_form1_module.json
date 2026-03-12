@@ -1,0 +1,423 @@
+{
+    "subject": "Literature in English",
+    "grade": "Form 1",
+    "term": 2,
+    "topics": [
+        {
+            "topic_id": "1.2.2",
+            "topic_title": "Written Literature",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.2.2.1",
+                    "title": "Forms of Written Literature",
+                    "page": 12,
+                    "competences": [
+                        "Demonstrate understanding of written literature"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 12,
+                            "hook": "What do you understand by literature?",
+                            "teacher_steps": [
+                                "Find out from the learners the meaning of literature",
+                                "Divide the class into small groups and each group to be tasked to discuss the meaning and features of written literature provided to them on pieces of paper",
+                                "Carry out a plenary session to share the different definitions and features of written literature discussed",
+                                "Consolidate the learners' presentations by highlighting key points about written literature"
+                            ],
+                            "learner_steps": [
+                                "Discussing the meaning of literature in groups",
+                                "Discussing features of written literature",
+                                "Presenting group findings in plenary session",
+                                "Taking notes on consolidated points"
+                            ],
+                            "short_notes": "Written literature is defined as any form of literary work that is recorded in written form rather than being passed down orally. It includes texts that are created for various purposes, such as storytelling, entertainment, education, or preserving history. Written literature employs specific diction, figurative language and syntax to convey themes and emotions."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 14,
+                            "hook": "What are the different forms in which literature can be written?",
+                            "teacher_steps": [
+                                "Put learners in small groups and ask them to discuss forms of written literature",
+                                "Each group to look at one form of written literature – prose, poetry or drama",
+                                "Ask group representatives to present their group's findings",
+                                "Conduct a plenary session to discuss what has been presented",
+                                "Consolidate the learners' presentations by explaining the various forms of written literature"
+                            ],
+                            "learner_steps": [
+                                "Discussing forms of written literature in groups",
+                                "Focusing on one form (prose, poetry, or drama)",
+                                "Preparing group presentations",
+                                "Presenting findings to the class",
+                                "Participating in plenary discussions"
+                            ],
+                            "short_notes": "There are several forms of written literature: 1) Prose - written in continuous sentences and paragraphs, divided into fiction and non-fiction. 2) Drama - meant to be performed in front of an audience, consisting of dialogues and actions. 3) Poetry - uses rhythmic and figurative language to express emotions and ideas, written in lines and stanzas."
+                        }
+                    ],
+                    "short_notes": "Written literature is any form of literary work that is recorded in written form rather than being passed down orally. It differs from oral literature in that it is permanent and unchanged, while oral literature relies on memory and can vary with retellings. The main forms of written literature are prose, drama, and poetry, each with unique characteristics and purposes.",
+                    "vocabulary": [
+                        {
+                            "term": "Analyze",
+                            "definition": "To examine something in detail"
+                        },
+                        {
+                            "term": "Artistic",
+                            "definition": "Showing skill or imagination in design, expression or performance"
+                        },
+                        {
+                            "term": "Character",
+                            "definition": "A participant in the action of a story"
+                        },
+                        {
+                            "term": "Climax",
+                            "definition": "The highest point of action or suspense in a story"
+                        },
+                        {
+                            "term": "Conflict",
+                            "definition": "The problem or struggle that the characters encounter which drives the plot forward and creates tension in the story"
+                        },
+                        {
+                            "term": "Plot",
+                            "definition": "A sequence of events in a story"
+                        },
+                        {
+                            "term": "Setting",
+                            "definition": "Time and place when and where the action takes place in a story"
+                        },
+                        {
+                            "term": "Theme",
+                            "definition": "A central idea in a literary work"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 13,
+                        "questions": [
+                            "Put the learners in pairs and ask them to explore various definitions of written literature and distinguish written literature from oral literature",
+                            "Through a written exercise, ask learners to discuss the various forms of written literature"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2.2.2",
+                    "title": "Prose",
+                    "page": 16,
+                    "competences": [
+                        "Demonstrate Understanding of Prose",
+                        "Compose short stories"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 17,
+                            "hook": "What makes a piece of writing prose? Can you identify prose in the materials around you?",
+                            "teacher_steps": [
+                                "Put learners in groups and distribute newspapers and biographies to different groups",
+                                "Task each group to take note of whether the materials are written in continuous sentences",
+                                "Task groups to note whether the passages talk about real people",
+                                "Carry out a plenary session where different salient features will be written on the board",
+                                "Consolidate the learners' presentation by highlighting key points about prose"
+                            ],
+                            "learner_steps": [
+                                "Examining assigned materials (newspapers and biographies)",
+                                "Noting characteristics of the writing style",
+                                "Identifying whether content is about real people",
+                                "Sharing observations in plenary session",
+                                "Taking notes on prose characteristics"
+                            ],
+                            "short_notes": "Prose writing is a form of continuous writing in the form of sentences and paragraphs. Prose can either be fiction or non-fiction. Fiction is based on the author's imagination while non-fiction focuses on real events, people, places and shows a specific period of time. Examples of fiction include novels, short stories and novellas. Examples of non-fiction include newspapers, biographies, true adventure stories, essays and autobiographies."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 18,
+                            "hook": "How do authors organize fictional stories to make them engaging?",
+                            "teacher_steps": [
+                                "Display a flip chart with a short story and initiate a discussion based on its structure and elements",
+                                "Generate questions that will enlist responses about fiction elements",
+                                "Consolidate learners' responses about plot, setting, and character"
+                            ],
+                            "learner_steps": [
+                                "Reading the short story provided",
+                                "Discussing story structure and elements",
+                                "Identifying exposition, rising action, climax, falling action, and resolution",
+                                "Analyzing setting and characters",
+                                "Participating in class discussion"
+                            ],
+                            "short_notes": "Fiction is based on the writer's imagination. Fiction has key elements: Plot (sequence of events centered on conflict with exposition, rising action, climax, falling action, and resolution), Setting (time and place), and Character (major characters are at the center of the story, minor characters play smaller roles)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Plot Discussion",
+                            "page": 20,
+                            "hook": "What makes a story interesting and keeps readers engaged?",
+                            "teacher_steps": [
+                                "Put learners in groups and assign each group to discuss a short story and Plot as one of its elements",
+                                "Provide excerpts of short stories for consideration",
+                                "Ask group representatives to present the findings",
+                                "Conduct a plenary session",
+                                "Consolidate by highlighting plot types and structure"
+                            ],
+                            "learner_steps": [
+                                "Discussing plot in assigned short stories",
+                                "Identifying stages of plot: exposition, rising action, climax, falling action, resolution",
+                                "Distinguishing between simple and complex plots",
+                                "Presenting group findings",
+                                "Completing assessment exercises"
+                            ],
+                            "short_notes": "Plot is the sequence of events on which the story is centered. A simple plot follows the traditional stages from beginning to end. A complex plot does not follow traditional stages and might start from the middle or end."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Character Analysis",
+                            "page": 21,
+                            "hook": "Who are the people in the story and what roles do they play?",
+                            "teacher_steps": [
+                                "Ask learners to explain what a character is in a story",
+                                "Put learners in groups to discuss Character as an element of a short story",
+                                "Provide excerpts of short stories for consideration",
+                                "Ask group representatives to present findings",
+                                "Conduct a plenary session",
+                                "Consolidate by highlighting types of characters"
+                            ],
+                            "learner_steps": [
+                                "Defining character in stories",
+                                "Identifying different types of characters in short stories",
+                                "Distinguishing protagonist from antagonist",
+                                "Identifying round, flat/static, and dynamic characters",
+                                "Presenting findings to the class"
+                            ],
+                            "short_notes": "A Character is a participant in the action of a story. Characters can be people, animals, objects or concepts. Types include: Protagonist (main character), Antagonist (opposes the protagonist), Round character (well-developed with good and bad traits), Flat/Static character (unchanging with limited traits), and Dynamic character (undergoes important personality change)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Theme Identification",
+                            "page": 22,
+                            "hook": "What message or lesson is the author trying to convey?",
+                            "teacher_steps": [
+                                "Introduce the concept of theme and how themes can be deduced in a short story",
+                                "Use the short story 'The Dried-Up River' as an example",
+                                "Put learners in groups to identify and discuss themes in provided short stories",
+                                "Ask group representatives to present findings",
+                                "Conduct a plenary session",
+                                "Consolidate by highlighting common themes"
+                            ],
+                            "learner_steps": [
+                                "Reading 'The Dried-Up River' story",
+                                "Identifying the central theme (Climate Change)",
+                                "Discussing how themes are deduced through character behavior",
+                                "Identifying multiple themes in stories",
+                                "Presenting group findings"
+                            ],
+                            "short_notes": "Theme is the central or main idea in a short story. It is often the reason the author writes the story. The theme can be deduced through character behavior. Many stories are written to make important observations about society. A story can have more than one theme. Common themes include: Good vs Evil, Injustice, Love, Sin, Hate, Death, Growth, Pride, Climate Change."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Conflict Analysis",
+                            "page": 23,
+                            "hook": "What problem or struggle drives the story forward?",
+                            "teacher_steps": [
+                                "Introduce the concept of conflict",
+                                "Refer to 'The Dried-Up River' story for examples",
+                                "Put learners in groups to discuss conflict as an element",
+                                "Provide short story excerpts for analysis",
+                                "Ask group representatives to present findings",
+                                "Conduct plenary session",
+                                "Consolidate by highlighting types of conflict"
+                            ],
+                            "learner_steps": [
+                                "Identifying conflict in stories",
+                                "Distinguishing internal from external conflict",
+                                "Analyzing Character vs Character conflicts",
+                                "Identifying Character vs Nature conflicts",
+                                "Recognizing Character vs Society conflicts",
+                                "Presenting analysis to the class"
+                            ],
+                            "short_notes": "Conflict is the problem or struggle that the character encounters which drives the plot forward and creates tension. Types include: Internal (struggle within oneself), External (struggle with outside force), Character vs Character, Character vs Nature, and Character vs Society."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Setting Identification",
+                            "page": 25,
+                            "hook": "When and where does the story take place?",
+                            "teacher_steps": [
+                                "Based on 'The Dried-Up River', ask learners to identify time and place",
+                                "Provide short stories for learners to identify setting in groups",
+                                "Ask group representatives to present findings",
+                                "Conduct a plenary session",
+                                "Consolidate key points about setting"
+                            ],
+                            "learner_steps": [
+                                "Identifying time when the story takes place",
+                                "Identifying place where the story happens",
+                                "Recognizing stories with multiple settings",
+                                "Presenting findings to the class",
+                                "Completing assessment exercises"
+                            ],
+                            "short_notes": "Setting is the time and place: Place refers to where the story takes place, Time refers to when the story takes place. Some stories have more than one setting."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Point of View",
+                            "page": 25,
+                            "hook": "Who is telling the story and from what perspective?",
+                            "teacher_steps": [
+                                "Based on 'The Dried-Up River', ask learners to identify the point of view",
+                                "Provide short stories for learners to identify point of view in groups",
+                                "Ask group representatives to present findings",
+                                "Conduct a plenary session",
+                                "Consolidate by explaining types of point of view"
+                            ],
+                            "learner_steps": [
+                                "Identifying narrative perspective in stories",
+                                "Distinguishing first person (I, me, we) narration",
+                                "Identifying second person (you, your) narration",
+                                "Recognizing third person (names, him, her) narration",
+                                "Presenting analysis to the class"
+                            ],
+                            "short_notes": "Point of view is the perspective or angle from which the story is told. Types: First Person (I, me, we - character is narrator), Second Person (you, your, yours - narrator talks to reader, not commonly used), Third Person (names of people, him, her - narrator is outside the story)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 28,
+                            "hook": "How do you create an engaging short story?",
+                            "teacher_steps": [
+                                "Lead a discussion on the characteristics of a short story",
+                                "Divide the class into groups and task each group to plan the stages of plot for a given short story",
+                                "Let each group representative present their plan to the class",
+                                "Conduct a class discussion of what each group presented",
+                                "Consolidate by highlighting characteristics and composition process"
+                            ],
+                            "learner_steps": [
+                                "Discussing characteristics of short stories",
+                                "Planning plot stages in groups",
+                                "Creating title, characters, and conflict",
+                                "Developing exposition, rising action, climax, falling action, resolution",
+                                "Identifying theme and point of view",
+                                "Presenting story plans to the class",
+                                "Composing individual short stories"
+                            ],
+                            "short_notes": "Short stories are: Short and can be read in one sitting, Concise with relevant information, Captivating, Built around one character, place and idea. Composition involves planning stages of plot including all elements: exposition, rising action, climax, falling action, resolution, along with characters, conflict, theme, and point of view."
+                        }
+                    ],
+                    "short_notes": "Prose is continuous writing in sentences and paragraphs, either fiction (based on imagination) or non-fiction (based on real events). Key elements of prose fiction include: Plot (sequence of events with exposition, rising action, climax, falling action, resolution), Character (protagonist, antagonist, round, flat, dynamic), Theme (central idea), Conflict (internal/external struggle), Setting (time and place), Point of View (perspective of narration). Short stories are brief fictional narratives centered on one idea with all these elements working together.",
+                    "vocabulary": [
+                        {
+                            "term": "Prose",
+                            "definition": "A form of literature written in continuous sentences and paragraphs"
+                        },
+                        {
+                            "term": "Fiction",
+                            "definition": "A form of prose created from the imagination of the author"
+                        },
+                        {
+                            "term": "Non-Fiction",
+                            "definition": "A form of prose based on real events, facts, and people"
+                        },
+                        {
+                            "term": "Plot",
+                            "definition": "The sequence of events on which the story is centered"
+                        },
+                        {
+                            "term": "Exposition",
+                            "definition": "The part of the plot where setting and characters are introduced"
+                        },
+                        {
+                            "term": "Rising Action",
+                            "definition": "All the events that happen in a story leading to the climax"
+                        },
+                        {
+                            "term": "Climax",
+                            "definition": "The most intense, exciting, or emotionally charged point in a story"
+                        },
+                        {
+                            "term": "Falling Action",
+                            "definition": "Events after the climax"
+                        },
+                        {
+                            "term": "Resolution",
+                            "definition": "The conclusion of the story where the conflict is resolved"
+                        },
+                        {
+                            "term": "Protagonist",
+                            "definition": "The main/major character that is the focus of the story"
+                        },
+                        {
+                            "term": "Antagonist",
+                            "definition": "The character that opposes what the protagonist wants to achieve"
+                        },
+                        {
+                            "term": "Round Character",
+                            "definition": "Well-developed character with both good and bad traits"
+                        },
+                        {
+                            "term": "Flat/Static Character",
+                            "definition": "Unchanging character with limited traits"
+                        },
+                        {
+                            "term": "Dynamic Character",
+                            "definition": "Character who undergoes an important change in personality in the story"
+                        },
+                        {
+                            "term": "Theme",
+                            "definition": "The central or main idea in a short story"
+                        },
+                        {
+                            "term": "Conflict",
+                            "definition": "The problem or struggle that the character encounters which drives the plot forward"
+                        },
+                        {
+                            "term": "Internal Conflict",
+                            "definition": "Struggle within oneself"
+                        },
+                        {
+                            "term": "External Conflict",
+                            "definition": "Struggle with a force outside oneself"
+                        },
+                        {
+                            "term": "Setting",
+                            "definition": "The time and place where the story takes place"
+                        },
+                        {
+                            "term": "Point of View",
+                            "definition": "The perspective or angle from which the story is told"
+                        },
+                        {
+                            "term": "First Person",
+                            "definition": "Narration when the character is the narrator (I, me, we)"
+                        },
+                        {
+                            "term": "Second Person",
+                            "definition": "Narration when narrator talks to the reader (you, your)"
+                        },
+                        {
+                            "term": "Third Person",
+                            "definition": "Narration by someone outside the story (names, him, her)"
+                        },
+                        {
+                            "term": "Short Story",
+                            "definition": "A work of fiction centered on one idea that can be read in one sitting"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 17,
+                        "questions": [
+                            "Pair the learners and let them interview one another and write each other's biographies",
+                            "Avail a short story and ask: Where is the story set? Who is telling the story? How many characters are in the story? Identify the major and minor characters",
+                            "Administer an exercise for learners to identify the elements of Plot in a short story",
+                            "Administer an exercise for learners to identify the types of characters in short stories provided",
+                            "Administer an exercise for learners to deduce themes in a short story",
+                            "Administer an exercise for learners to identify and explain the conflict(s) in a short story",
+                            "Administer an exercise on setting as a concept of a short story",
+                            "Administer an exercise to learners to identify point of view in short stories",
+                            "Give individual work to learners to compose a short story bearing the key features they learnt (refer to suggested list of topics on cross-cutting themes such as: Climate Change, Education for Sustainable Development, Digital Literacy, Collaborative and Inclusive Learning, Entrepreneurship, Anti-Corruption, Global Citizenship, Human Rights, Cultural Diversity, Renewable Energy, Health and Nutrition, Drug and Substance Abuse, Mental Health, Social and Emotional Learning, Financial Education, Special and Inclusive Education)"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

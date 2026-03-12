@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "FORM 1",
+    "subject": "Geography",
+    "philosophy": "The Geography Syllabus for Ordinary Level Secondary School is designed to provide quality education aligned with the Competency-Based Curriculum and 21st-century skills for Form 1-4. It aims to ignite curiosity, relate to everyday experiences, and foster an appreciation for diverse landscapes, cultures, and ecosystems. The syllabus guides the teaching and learning of Geography, interpreting competences from the 2023 Zambia Education Curriculum Framework, and emphasizes a holistic understanding of Earth's physical and human systems, their interconnectedness, map interpretation, and basic research techniques.",
+    "competence_learning": "The purpose of learning Geography is to enable learners to develop knowledge, skills, and values necessary to understand the Earth, its systems, and the relationship between human settlements, natural resources, economic activities, environmental health, and sustainability. It is envisioned that learners acquire essential competences and think reflectively, logically, scientifically, creatively, and critically to promote sustainable development.",
+    "goals": [
+      "Ignite curiosity",
+      "Relate to everyday experiences",
+      "Foster appreciation for diverse landscapes, cultures, and ecosystems that shape the Earth",
+      "Explore the dynamics of the Earth's features, including landforms, climate, and natural resources",
+      "Understand the impact of human activities on the environment",
+      "Develop knowledge, skills, and values necessary to understand the Earth, its systems, and the relationship between human settlements, natural resources, economic activities, and environmental health and sustainability",
+      "Acquire essential competences",
+      "Think reflectively, logically, scientifically, creatively, and critically",
+      "Promote sustainable development"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "1.1",
+      "topic_title": "Geography",
+      "page_number": 14,
+      "subtopics": [
+        "1.1.1. Introduction to Geography"
+      ],
+      "specific_outcomes": [
+        "1.1.1.1. Demonstrate understanding of Geography"
+      ]
+    },
+    {
+      "unit": "1.2",
+      "topic_title": "The Solar System",
+      "page_number": 14,
+      "subtopics": [
+        "1.2.1. The Earth in the Solar System",
+        "1.2.2. Shape and Size of the Earth",
+        "1.2.3. Movements of the Earth",
+        "1.2.4. Earth's Graticule",
+        "1.2.5. The Earth's Atmosphere"
+      ],
+      "specific_outcomes": [
+        "1.2.1.1. Demonstrate understanding of the position of the Earth in the solar system",
+        "1.2.2.1. Use model of the earth to show the Earth's shape and size",
+        "1.2.3.1. Apply knowledge of earth movements in different situations",
+        "1.2.4.1. Use latitudes and longitudes to locate places on the globe",
+        "1.2.4.2. Apply calculations of time and longitude in different situations",
+        "1.2.4.3. Use latitude to calculate distance",
+        "1.2.4.4. Apply calculations of the midday sun in real- life",
+        "1.2.5.1. Protect Earth's atmosphere"
+      ]
+    },
+    {
+      "unit": "1.3",
+      "topic_title": "Weather and Climate",
+      "page_number": 17,
+      "subtopics": [
+        "1.3.1. Weather and Climate",
+        "1.3.2. Climate Change",
+        "1.3.3. Mitigation and Adaptation to Climate Change"
+      ],
+      "specific_outcomes": [
+        "1.3.1.1. Apply knowledge of weather and climate in daily activities",
+        "1.3.2.1. Analyse climate change",
+        "1.3.3.1. Practise mitigation measures to climate change",
+        "1.3.3.2. Adapt lifestyles to local climate risks and disasters"
+      ]
+    },
+    {
+      "unit": "1.4",
+      "topic_title": "Natural Resources",
+      "page_number": 18,
+      "subtopics": [
+        "1.4.1. Natural Resources",
+        "1.4.2. Population and Natural Resources",
+        "1.4.3. Sustainable Management of Natural Resources"
+      ],
+      "specific_outcomes": [
+        "1.4.1.1. Use Renewable and non-Renewable resources responsibly",
+        "1.4.2.1. Analyse the relationship between population and natural resources",
+        "1.4.3.1. Practise sustainable management of natural resources"
+      ]
+    },
+    {
+      "unit": "1.5",
+      "topic_title": "Population",
+      "page_number": 20,
+      "subtopics": [
+        "1.5.1. Population Composition",
+        "1.5.2. Population Distribution in Zambia",
+        "1.5.3. Rapid Population Growth in Zambia",
+        "1.5.4. Migration"
+      ],
+      "specific_outcomes": [
+        "1.5.1.1. Demonstrate understanding of population composition",
+        "1.5.2.1. Analyse population distribution",
+        "1.5.3.1. Address challenges of rapid population",
+        "1.5.4.1. Apply knowledge of migration in aspects of daily life"
+      ]
+    },
+    {
+      "unit": "1.6",
+      "topic_title": "Settlements",
+      "page_number": 22,
+      "subtopics": [
+        "1.6.1. Settlements",
+        "1.6.2. Location of Settlements",
+        "1.6.3. Challenges in Settlements"
+      ],
+      "specific_outcomes": [
+        "1.6.1.1. Promote orderliness in settlements",
+        "1.6.2.1. Make settlement choices",
+        "1.6.3.1. Resolve challenges experienced in settlements"
+      ]
+    },
+    {
+      "unit": "1.7",
+      "topic_title": "Urbanisation",
+      "page_number": 24,
+      "subtopics": [
+        "1.7.1. Urbanisation"
+      ],
+      "specific_outcomes": [
+        "1.7.1.1. Relate urbanisation to daily lives and environment"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 2",
+    "subject": "English Language",
+    "philosophy": "The English Language Syllabus for Ordinary Level (O-Level) Secondary School has been developed to meet the needs of learners in Form 1-4. It is designed to help them develop essential skills in listening, reading, speaking, writing, creating, and reflecting upon increasingly intricate spoken, written, and multimodal texts. The aim is to foster accuracy, fluency, and purpose in communication, aligning with the Competence-Based Curriculum of the 21st Century.",
+    "competence_learning": "The Ordinary Level syllabus encompasses Listening and Speaking, Reading Comprehension, Composition, Structure and Summary of the English Language. Each component includes diverse topics, sub-topics, specific competences, corresponding learning activities and expected standards. Teaching follows the Communicative Language Teaching methodology prioritising both grammar rules and appropriate language use. Time allocation: Listening and Speaking (1 period/week), Reading Comprehension (2 periods/fortnight), Composition (2 periods/fortnight), Structure (1 period/week), Summary (2 periods/fortnight).",
+    "goals": [
+      "Develop learners' ability to communicate effectively and confidently in English language both orally and in writing",
+      "Foster accuracy, fluency, and purpose in communication",
+      "Develop skills in listening, speaking, reading, writing, creating, and reflecting",
+      "Align with the Competence-Based Curriculum of the 21st Century",
+      "Prepare learners for further education, career opportunities, and global citizenship",
+      "Instil knowledge, skills, values, and positive attitudes to enable learners to become productive members of society"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "2.1.1",
+      "topic_title": "INSTRUCTIONS",
+      "page_number": 56,
+      "subtopics": [
+        "2.1.1.1 Giving and Receiving Instructions"
+      ],
+      "specific_outcomes": [
+        "Give and receive instructions"
+      ]
+    },
+    {
+      "unit": "2.1.2",
+      "topic_title": "DIRECTIONS",
+      "page_number": 56,
+      "subtopics": [
+        "2.1.2.1 Giving and Getting Directions"
+      ],
+      "specific_outcomes": [
+        "Give and receive directions"
+      ]
+    },
+    {
+      "unit": "2.1.3",
+      "topic_title": "ANNOUNCEMENTS",
+      "page_number": 57,
+      "subtopics": [
+        "2.1.3.1 Making Announcements"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to make announcements"
+      ]
+    },
+    {
+      "unit": "2.1.4",
+      "topic_title": "EXPRESSING EMOTIONS",
+      "page_number": 57,
+      "subtopics": [
+        "2.1.4.1 Expressing Sympathy"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to express sympathy"
+      ]
+    },
+    {
+      "unit": "2.1.5",
+      "topic_title": "COMPLIMENTS",
+      "page_number": 58,
+      "subtopics": [
+        "2.1.5.1 Complimenting Others"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to compliment others on different achievements and occasions"
+      ]
+    },
+    {
+      "unit": "2.1.6",
+      "topic_title": "GREETINGS",
+      "page_number": 59,
+      "subtopics": [
+        "2.1.6.1 Greeting Different Categories of People"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to greet different categories of people"
+      ]
+    },
+    {
+      "unit": "2.1.7",
+      "topic_title": "PUBLIC SPEAKING",
+      "page_number": 60,
+      "subtopics": [
+        "2.1.7.1 Debate"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to debate"
+      ]
+    },
+    {
+      "unit": "2.1.8",
+      "topic_title": "INVITATIONS",
+      "page_number": 60,
+      "subtopics": [
+        "2.1.8.1 Inviting People"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to Invite people"
+      ]
+    },
+    {
+      "unit": "2.1.9",
+      "topic_title": "CONVERSATIONS",
+      "page_number": 61,
+      "subtopics": [
+        "2.1.9.1 Initiating Conversations",
+        "2.1.9.2 Making an Offer",
+        "2.1.9.3 Making Requests"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to initiate conversations",
+        "Use appropriate language to make an offer",
+        "Use appropriate language to make requests"
+      ]
+    },
+    {
+      "unit": "2.1.10",
+      "topic_title": "CLARIFICATIONS",
+      "page_number": 62,
+      "subtopics": [
+        "2.1.10.1 Seeking Clarification"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to seek clarification"
+      ]
+    },
+    {
+      "unit": "2.1.11",
+      "topic_title": "FIGURATIVE LANGUAGE",
+      "page_number": 62,
+      "subtopics": [
+        "2.1.11.1 Figures of speech"
+      ],
+      "specific_outcomes": [
+        "Use figures of speech in various social contexts"
+      ]
+    },
+    {
+      "unit": "2.2.1",
+      "topic_title": "COMPREHENSION",
+      "page_number": 63,
+      "subtopics": [
+        "2.2.1.1 Listening Comprehension",
+        "2.2.1.2 Reading Passages Efficiently and Doing Follow-up Activities",
+        "2.2.1.3 Read Different Unabridged Materials"
+      ],
+      "specific_outcomes": [
+        "Listen to different oral sources of information and answer questions",
+        "Read passages efficiently",
+        "Read different unabridged materials for enjoyment"
+      ]
+    },
+    {
+      "unit": "2.3.1",
+      "topic_title": "NARRATIVES",
+      "page_number": 65,
+      "subtopics": [
+        "2.3.1.1 Features and Techniques of Narratives"
+      ],
+      "specific_outcomes": [
+        "Write stories"
+      ]
+    },
+    {
+      "unit": "2.3.2",
+      "topic_title": "DESCRIPTIVE WRITING",
+      "page_number": 65,
+      "subtopics": [
+        "2.3.2.1 Describing a Place"
+      ],
+      "specific_outcomes": [
+        "Describe a place"
+      ]
+    },
+    {
+      "unit": "2.3.3",
+      "topic_title": "REPORT WRITING",
+      "page_number": 66,
+      "subtopics": [
+        "2.3.3.1 Introduction to Report Writing"
+      ],
+      "specific_outcomes": [
+        "Write a simple report"
+      ]
+    },
+    {
+      "unit": "2.3.4",
+      "topic_title": "SPEECH WRITING",
+      "page_number": 66,
+      "subtopics": [
+        "2.3.4.1 Speech of Introduction"
+      ],
+      "specific_outcomes": [
+        "Write a speech of introduction"
+      ]
+    },
+    {
+      "unit": "2.3.5",
+      "topic_title": "BIOGRAPHY WRITING",
+      "page_number": 66,
+      "subtopics": [
+        "2.3.5.1 Auto- biography",
+        "2.3.5.2 Biography"
+      ],
+      "specific_outcomes": [
+        "Write an auto- biography",
+        "Write a biography"
+      ]
+    },
+    {
+      "unit": "2.3.6",
+      "topic_title": "EXPOSITORY WRITING",
+      "page_number": 67,
+      "subtopics": [
+        "2.3.6.1 Features of Expository Writing"
+      ],
+      "specific_outcomes": [
+        "Write an expository composition"
+      ]
+    },
+    {
+      "unit": "2.3.7",
+      "topic_title": "PERSUASIVE WRITING",
+      "page_number": 68,
+      "subtopics": [
+        "2.3.7.1 Argumentative Composition",
+        "2.3.7.2 Discursive Composition"
+      ],
+      "specific_outcomes": [
+        "Write an argumentative composition",
+        "Write a discursive composition"
+      ]
+    },
+    {
+      "unit": "2.3.8",
+      "topic_title": "DIARY WRITING",
+      "page_number": 69,
+      "subtopics": [
+        "2.3.8.1 Writing Diary Entries"
+      ],
+      "specific_outcomes": [
+        "Write diary entries"
+      ]
+    },
+    {
+      "unit": "2.3.9",
+      "topic_title": "LETTER WRITING",
+      "page_number": 70,
+      "subtopics": [
+        "2.3.9.1 Semi-Formal Letter"
+      ],
+      "specific_outcomes": [
+        "Write a semi- formal letter"
+      ]
+    },
+    {
+      "unit": "2.4.1",
+      "topic_title": "TENSES",
+      "page_number": 71,
+      "subtopics": [
+        "2.4.1.1 The Future Tense: The Emphantic Form of ‘shall’",
+        "2.4.1.2 The Unreal Past"
+      ],
+      "specific_outcomes": [
+        "Use the emphatic form of the future tense in sentences",
+        "Use the unreal past in sentences"
+      ]
+    },
+    {
+      "unit": "2.4.2",
+      "topic_title": "VERB EXPRESSIONS",
+      "page_number": 71,
+      "subtopics": [
+        "2.4.2.1 Verbs and Expressions Followed by – ‘ing’",
+        "2.4.2.2 Verbs Followed by Object + Infinitive",
+        "2.4.2.3 Verbs followed by the Infinitive (Verb + to + Verb)"
+      ],
+      "specific_outcomes": [
+        "Use verbs and expressions followed by – ing in sentences",
+        "Use verbs followed by object + infinitive in sentences",
+        "Use verbs followed by the Infinitive in sentences"
+      ]
+    },
+    {
+      "unit": "2.4.3",
+      "topic_title": "DETERMINERS",
+      "page_number": 73,
+      "subtopics": [
+        "2.4.3.1 Adjectives of quantity",
+        "2.4.3.2 Possessive Adjectives",
+        "2.4.3.3 Demonstrative Adjectives"
+      ],
+      "specific_outcomes": [
+        "Use adjectives of quantity in sentences",
+        "Use possessive adjectives as determiners in sentences",
+        "Use demonstrative adjectives in sentences"
+      ]
+    },
+    {
+      "unit": "2.4.4",
+      "topic_title": "RELATIVE CLAUSES",
+      "page_number": 74,
+      "subtopics": [
+        "2.4.4.1 Relative Pronouns",
+        "2.4.4.2 Defining and Non-Defining Relative Clauses"
+      ],
+      "specific_outcomes": [
+        "Construct sentences using relative pronouns",
+        "Use defining and non- defining relative clauses in sentences"
+      ]
+    },
+    {
+      "unit": "2.4.5",
+      "topic_title": "COMPARISON",
+      "page_number": 75,
+      "subtopics": [
+        "2.4.5.1 Formation of the Comparative and Superlative",
+        "2.4.5.2 Other Ways of Expressing Comparison",
+        "2.4.5.3 The + Comparative and the + Comparative to express parallel increase"
+      ],
+      "specific_outcomes": [
+        "Use comparatives and superlatives in sentences",
+        "Use alternative ways of expressing comparison",
+        "Use parallel increase to express comparison in sentences"
+      ]
+    },
+    {
+      "unit": "2.4.6",
+      "topic_title": "REASON",
+      "page_number": 78,
+      "subtopics": [
+        "2.4.6.1 ‘Now that’ / ‘Seeing that’ to express Reason",
+        "2.4.6.2 Participial Phrases to Express Reason"
+      ],
+      "specific_outcomes": [
+        "Use other expressions to show reason in sentences",
+        "Use Participial Phrases to express reason in sentences"
+      ]
+    },
+    {
+      "unit": "2.4.7",
+      "topic_title": "TIME",
+      "page_number": 78,
+      "subtopics": [
+        "2.4.7.1 Expressions of Time"
+      ],
+      "specific_outcomes": [
+        "Use expressions of time"
+      ]
+    },
+    {
+      "unit": "2.4.8",
+      "topic_title": "CONTRAST",
+      "page_number": 79,
+      "subtopics": [
+        "2.4.8.1 Expression of Contrast"
+      ],
+      "specific_outcomes": [
+        "Use other expressions to show contrast in sentences"
+      ]
+    },
+    {
+      "unit": "2.4.9",
+      "topic_title": "CONDITION",
+      "page_number": 80,
+      "subtopics": [
+        "2.4.9.1 Other Ways of Expressing Condition"
+      ],
+      "specific_outcomes": [
+        "Use other ways of expressing condition"
+      ]
+    },
+    {
+      "unit": "2.4.10",
+      "topic_title": "QUESTION TAGS",
+      "page_number": 82,
+      "subtopics": [
+        "2.4.10.1 Positive, Negative, and Imperative Question Tags"
+      ],
+      "specific_outcomes": [
+        "Use question tags"
+      ]
+    },
+    {
+      "unit": "2.4.11",
+      "topic_title": "VOICE",
+      "page_number": 83,
+      "subtopics": [
+        "2.4.11.1 Active and Passive Voice"
+      ],
+      "specific_outcomes": [
+        "Use the active and passive voice"
+      ]
+    },
+    {
+      "unit": "2.4.12",
+      "topic_title": "AGREEMENT (CONCORD)",
+      "page_number": 83,
+      "subtopics": [
+        "2.4.12.1 Using Subject- Verb Agreement"
+      ],
+      "specific_outcomes": [
+        "Use subject- verb agreement"
+      ]
+    },
+    {
+      "unit": "2.4.13",
+      "topic_title": "WORD BUILDING (AFFIXATION)",
+      "page_number": 84,
+      "subtopics": [
+        "2.4.13.1 Prefixes and Suffixes"
+      ],
+      "specific_outcomes": [
+        "Use affixation to form new words"
+      ]
+    },
+    {
+      "unit": "2.5.1",
+      "topic_title": "SUMMARY WRITING",
+      "page_number": 85,
+      "subtopics": [
+        "2.5.1.1 Title Summary",
+        "2.5.1.2 Sentence Summary",
+        "2.5.1.3 Paragraph Summary",
+        "2.5.1.4 Tabulation Skills",
+        "2.5.1.5 Abbreviations",
+        "2.5.1.6 Verbal Summaries",
+        "2.5.1.7 Prose Summaries"
+      ],
+      "specific_outcomes": [
+        "Compose titles",
+        "Compose sentence summaries",
+        "Compose paragraph summaries",
+        "Apply tabulation skills to summarise information",
+        "Use Abbreviations to take or make notes",
+        "Summarise information orally",
+        "Write prose summaries"
+      ]
+    }
+  ]
+}

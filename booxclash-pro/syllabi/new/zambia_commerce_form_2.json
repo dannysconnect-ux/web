@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 2",
+    "subject": "Commerce",
+    "philosophy": "The Commerce syllabus emphasises on providing learners with basic knowledge, skills and positive values as participants in the world of business, economics and finance. It covers a wide range of topics including Home and International Trade, Entrepreneurship and Personal Financial Management.",
+    "competence_learning": "The Competence Based Curriculum utilises a learner-centred approach, which entails that the teaching and learning process is learner-centred in nature. The emphasis is on what learners are expected to do rather than what they are expected to know, ensuring that learners develop competences that can contribute to the development of society.",
+    "goals": [
+      "Generate business ideas",
+      "Demonstrate knowledge of conducting business internationally",
+      "Use suitable methods of buying and selling on credit",
+      "Show knowledge on Tax Compliance",
+      "Practise Electronic Commerce",
+      "Demonstrate ways of protecting consumers from exploitative tendencies",
+      "Apply knowledge of personal financial management",
+      "Demonstrate knowledge of avoiding fraud",
+      "Utilise sources of financing businesses"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "2.1",
+      "topic_title": "ENTREPRENEURSHIP",
+      "page_number": 8,
+      "subtopics": [
+        "2.1.1 Business Idea",
+        "2.1.2 Financing Businesses",
+        "2.1.3 Business Ethics",
+        "2.1.4 Fraud",
+        "2.1.5 Wages and Salaries",
+        "2.1.6 Personal Financial Management"
+      ],
+      "specific_outcomes": [
+        "2.1.1.1 Generate business idea",
+        "2.1.1.2 Prepare a business plan",
+        "2.1.2.1 Utilise sources of financing businesses",
+        "2.1.3.1 Practise business ethics",
+        "2.1.4.1 Apply safety measures to prevent fraudulent activities/situations",
+        "2.1.5.1 Show knowledge of calculating Wages and Salaries",
+        "2.1.6.1 Apply knowledge of personal financial management",
+        "2.1.6.2 Practise different methods of saving",
+        "2.1.6.3 Engage in different methods of Investment",
+        "2.1.6.4 Prepare a budget",
+        "2.1.6.5 Practise ways of managing debt",
+        "2.1.6.6 Apply Financial Risk Management Strategies"
+      ]
+    },
+    {
+      "unit": "2.2",
+      "topic_title": "BUYING AND SELLING ON CREDIT",
+      "page_number": 11,
+      "subtopics": [
+        "2.2.1 Methods of buying and selling on credit"
+      ],
+      "specific_outcomes": [
+        "2.2.1.1 Use suitable methods of buying and selling on credit"
+      ]
+    },
+    {
+      "unit": "2.3",
+      "topic_title": "INTERNATIONAL TRADE",
+      "page_number": 12,
+      "subtopics": [
+        "2.3.1 Concept of International Trade"
+      ],
+      "specific_outcomes": [
+        "2.3.1.1 Demonstrate knowledge of conducting business internationally"
+      ]
+    },
+    {
+      "unit": "2.4",
+      "topic_title": "CUSTOMS AND EXCISE AUTHORITY",
+      "page_number": 12,
+      "subtopics": [
+        "2.4.1 Zambia Revenue Authority (ZRA)"
+      ],
+      "specific_outcomes": [
+        "2.4.1.1 Show knowledge on Tax Compliance"
+      ]
+    },
+    {
+      "unit": "2.5",
+      "topic_title": "ONLINE BUSINESS",
+      "page_number": 12,
+      "subtopics": [
+        "2.5.1 Electronic Commerce (E-Commerce)"
+      ],
+      "specific_outcomes": [
+        "2.5.1.1 Practise Electronic Commerce"
+      ]
+    },
+    {
+      "unit": "2.6",
+      "topic_title": "CONSUMER PROTECTION",
+      "page_number": 13,
+      "subtopics": [
+        "2.6.1 Consumer Education and Awareness"
+      ],
+      "specific_outcomes": [
+        "2.6.1.1 Demonstrate ways of protecting consumers from exploitative tendencies"
+      ]
+    }
+  ]
+}

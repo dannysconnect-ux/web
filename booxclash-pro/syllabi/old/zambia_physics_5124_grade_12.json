@@ -1,0 +1,1052 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "12",
+    "subject": "PHYSICS 5124",
+    "philosophy": "The syllabus aims at providing, through well designed studies of experimental and practical science, a worthwhile educational experience for all the pupils taking the course, whether or not they go on to study science beyond secondary School level, thereby, contributing to pupils’ general education by using the impact of known applications of science concepts and principles on society. This is intended to enable pupils acquire adequate understanding and knowledge. The syllabus has been reviewed in line with the Outcome Based Education principles which seek to link education to real life experiences that give learners skills to access, criticize, analyse and practically apply knowledge that help them gain life skills. Effective implementation of Outcome Based Education requires that the following principles be observed: clarity of focus, Reflective designing, setting high expectations for all learners and appropriate opportunities.",
+    "competence_learning": "Demonstrate ability to measure current and voltage, Show skills and knowledge to dispose cells and battery, Demonstrate ability to save electricity, Demonstrate ability to cost use of electricity.",
+    "goals": [
+      "Demonstrate an understanding about Static electricity",
+      "Develop investigative skills",
+      "Demonstrate an understanding of Current Electricity",
+      "Demonstrate an understanding about electromagnetic induction",
+      "Demonstrate an understanding of basic electronics",
+      "Demonstrate an understanding about atomic physics"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "12.8",
+      "topic_title": "STATIC ELECTRICITY",
+      "page_number": 31,
+      "subtopics": [
+        {
+          "subtopic_unit": "12.8.1",
+          "subtopic_title": "Static Electricity",
+          "specific_outcomes": [
+            {
+              "outcome_unit": "12.8.1.1",
+              "outcome_description": "Demonstrate the existence of static charges",
+              "knowledge": [
+                "Existence of static charge: Positive and negative charges"
+              ],
+              "skills": [
+                "Experimenting the existence of charges by rubbing some materials"
+              ],
+              "values": [
+                "Cooperating in group activities"
+              ]
+            },
+            {
+              "outcome_unit": "12.8.1.2",
+              "outcome_description": "Explain how to detect electric charges.",
+              "knowledge": [
+                "Detection of charge: charging by contact, testing the sign of charge using gold - leaf electroscope etc."
+              ],
+              "skills": [
+                "Detecting charge using an electroscope"
+              ],
+              "values": [
+                "Asking questions for more understanding"
+              ]
+            },
+            {
+              "outcome_unit": "12.8.1.3",
+              "outcome_description": "Describe the properties and uses of static charges",
+              "knowledge": [
+                "Properties and uses of static charges: -Properties; like charges repel, unlike charges attract (Law of electrostatics)",
+                "-Uses: dust precipitators, ink jet printers, photocopiers."
+              ],
+              "skills": [
+                "Communicating properties and uses of static charge"
+              ],
+              "values": [
+                "Participating in groups actively",
+                "Applying the safety rules of experiment"
+              ]
+            },
+            {
+              "outcome_unit": "12.8.1.4",
+              "outcome_description": "Describe the electric charging and discharging of objects.",
+              "knowledge": [
+                "Electric charging and discharging of objects by friction and induction"
+              ],
+              "skills": [
+                "Experimenting charging and discharging of objects"
+              ],
+              "values": [
+                "Asking questions for more understanding"
+              ]
+            },
+            {
+              "outcome_unit": "12.8.1.5",
+              "outcome_description": "Explain the relationship between current and static electricity.",
+              "knowledge": [
+                "Relationship between current and static electricity in terms of effects as static electricity producers same effect as current electricity."
+              ],
+              "skills": [
+                "Communicating knowledge on the relationship between current and static electricity"
+              ],
+              "values": [
+                "Participating in groups actively",
+                "Knowing the safe rules of experiment"
+              ]
+            },
+            {
+              "outcome_unit": "12.8.1.6",
+              "outcome_description": "Investigate effects of static charges on the environment.",
+              "page_number": 32,
+              "knowledge": [
+                "Effects of static charges on an environment: e.g. lightning etc"
+              ],
+              "skills": [
+                "Investigating the effects of static charges on the environment e.g. lightning"
+              ],
+              "values": [
+                "Being aware of the effects of charges"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "12.9",
+      "topic_title": "CURRENT ELECTRICITY",
+      "page_number": 32,
+      "subtopics": [
+        {
+          "subtopic_unit": "12.9.1",
+          "subtopic_title": "Electric charge, current, and potential difference.",
+          "specific_outcomes": [
+            {
+              "outcome_unit": "12.9.1.1",
+              "outcome_description": "Describe the terms associated with electricity",
+              "knowledge": [
+                "Scientific Terms: such as Electric charge, potential difference and electric current"
+              ],
+              "skills": [],
+              "values": [
+                "Participating in groups actively"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.1.2",
+              "outcome_description": "Identify the units of electric charge and current.",
+              "knowledge": [
+                "Units of electric charge and current: as Coulomb and ampere(I =Q/t"
+              ],
+              "skills": [
+                "Measuring an electric current using an ammeter."
+              ],
+              "values": [
+                "Cooperating in group work"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.1.3",
+              "outcome_description": "Demonstrate how to measure an electric current.",
+              "knowledge": [
+                "Measure an electric current in the circuit: Ammeter"
+              ],
+              "skills": [
+                "Communicating the SI units for voltage"
+              ],
+              "values": [
+                "Appreciating the use of electrical appliance"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.1.4",
+              "outcome_description": "Describe what potential difference is.",
+              "knowledge": [
+                "Potential difference: as energy required to move a unit charge between two points in a circuit"
+              ],
+              "skills": [
+                "Communicating the concept of the energy dissipated"
+              ],
+              "values": [
+                "Appreciating the safety rules during an experiments"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.1.5",
+              "outcome_description": "Describe what the volt is.",
+              "knowledge": [
+                "Volt: as joules per coulomb"
+              ],
+              "skills": [
+                "Measuring potential difference using a voltmeter"
+              ],
+              "values": []
+            },
+            {
+              "outcome_unit": "12.9.1.6",
+              "outcome_description": "Differentiate between potential difference (PD) and electromotive force (EMF)",
+              "knowledge": [
+                "Difference between PD and EMF in terms of work done per unit of charge in driving charge in a circuit and through a component"
+              ],
+              "skills": [],
+              "values": []
+            },
+            {
+              "outcome_unit": "12.9.1.7",
+              "outcome_description": "Describe the basic concept of EMF.",
+              "page_number": 33,
+              "knowledge": [
+                "The maximum PD of a cell"
+              ],
+              "skills": [
+                "Communicating basic concept of EMF"
+              ],
+              "values": [
+                "Appreciating the safety rules during an experiments"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.1.8",
+              "outcome_description": "Demonstrate the measuring of potential difference (PD) and electromotive force (EMF).",
+              "knowledge": [
+                "Measurement of PD and EMF: Connecting terminals across source of electric current /conductor"
+              ],
+              "skills": [
+                "Experimenting on measurement of PD"
+              ],
+              "values": []
+            }
+          ]
+        },
+        {
+          "subtopic_unit": "12.9.2",
+          "subtopic_title": "Electric cells.",
+          "specific_outcomes": [
+            {
+              "outcome_unit": "12.9.2.1",
+              "outcome_description": "Describe the structure of primary and secondary cells.",
+              "knowledge": [
+                "Structure of primary and secondary cells: Primary cells(dry cell), Secondary (lead acid accumulator)"
+              ],
+              "skills": [
+                "Communicating the structure of cells"
+              ],
+              "values": [
+                "Asking questions for more understanding"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.2.2",
+              "outcome_description": "Demonstrate charging and discharging of the accumulator.",
+              "knowledge": [
+                "How to charge and discharge the accumulator: Charging when current is passed a in opposite direction to current supplies, discharging when in use (acid accumulator)"
+              ],
+              "skills": [
+                "Investigating charging and discharging an acid accumulator"
+              ],
+              "values": [
+                "Cooperating in group activities",
+                "Participating in group activities actively"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.2.3",
+              "outcome_description": "Identify methods of disposal of used cells",
+              "knowledge": [
+                "Appropriate methods of disposing used cells."
+              ],
+              "skills": [
+                "Communicating appropriate methods of disposing off used cells"
+              ],
+              "values": [
+                "Applying the knowledge of disposal of cells in dairy life"
+              ]
+            }
+          ]
+        },
+        {
+          "subtopic_unit": "12.9.3",
+          "subtopic_title": "Electrical resistance.",
+          "page_number": 34,
+          "specific_outcomes": [
+            {
+              "outcome_unit": "12.9.3.1",
+              "outcome_description": "Explain the meaning of resistance",
+              "knowledge": [
+                "Resistance: opposition to the flow of charge"
+              ],
+              "skills": [
+                "Measuring the current and potential difference, using a voltmeter and an ammeter"
+              ],
+              "values": [
+                "Asking questions for more understanding"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.3.2",
+              "outcome_description": "Demonstrate how to determine resistance in a simple circuit.",
+              "knowledge": [
+                "Value of resistance in series and parallel (use formula 1/R = 1/R1 + 1/R2 )"
+              ],
+              "skills": [
+                "Collecting data for an experiment"
+              ],
+              "values": [
+                "Cooperating in group activities"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.3.3",
+              "outcome_description": "Describe the relationship between current and potential difference in Ohmic and non Ohmic conductors.",
+              "knowledge": [
+                "Relationship between current and potential difference: (Graph of p.d. against current for Ohmic and non-Ohmic conductors)"
+              ],
+              "skills": [
+                "Organizing data in tables and their graphs on ohmic and non ohmic conductor",
+                "Formulating the patterns in data"
+              ],
+              "values": [
+                "Participating in group activities actively",
+                "Knowing the safe rules of an experiment"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.3.4",
+              "outcome_description": "Describe what the internal resistance of a cell is.",
+              "knowledge": [
+                "Internal resistance of a cell due to chemicals"
+              ],
+              "skills": [
+                "Communicating internal resistance of a cell"
+              ],
+              "values": [
+                "Cooperating in group activities"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.3.5",
+              "outcome_description": "Calculate the resistance in series and parallel circuits with Ohm’s law.",
+              "knowledge": [
+                "Ohm’s law in series and parallel circuits. ( R = V/I)"
+              ],
+              "skills": [],
+              "values": [
+                "Participating in group activities actively"
+              ]
+            }
+          ]
+        },
+        {
+          "subtopic_unit": "12.9.4",
+          "subtopic_title": "Heating effect of an electric current.",
+          "page_number": 35,
+          "specific_outcomes": [
+            {
+              "outcome_unit": "12.9.4.1",
+              "outcome_description": "Demonstrate energy transformations in an electric circuit.",
+              "knowledge": [
+                "Conversion of energy from electricity to heat."
+              ],
+              "skills": [
+                "Analysing energy changes from one form to the other"
+              ],
+              "values": [
+                "Cooperating in group activities"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.4.2",
+              "outcome_description": "Investigate the heating effect of an electric current.",
+              "knowledge": [
+                "Heating effect of an electric current in heating appliances."
+              ],
+              "skills": [
+                "Investigating the heating effect of an electric current"
+              ],
+              "values": [
+                "Participating in group activities actively"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.4.3",
+              "outcome_description": "Demonstrate how to calculate electrical energy.",
+              "knowledge": [
+                "Calculations of electrical energy: Use of formula (E= VIt, etc.)"
+              ],
+              "skills": [
+                "Calculating electrical energy using E=VIt"
+              ],
+              "values": [
+                "Appreciating the use of electricity at home"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.4.4",
+              "outcome_description": "Describe the relationship of voltage, current and power.",
+              "knowledge": [
+                "The relationship of voltage, current and power: Power=voltage x current(P=VI)"
+              ],
+              "skills": [
+                "Communicating relationship among power, voltage and current"
+              ],
+              "values": [
+                "Applying the safety precautions in the use of electricity"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.4.5",
+              "outcome_description": "Demonstrate how to calculate the cost of using electrical Energy",
+              "knowledge": [
+                "Cost of using electrical energy: use of kWh as a unit of electrical energy"
+              ],
+              "skills": [],
+              "values": [
+                "Appreciating the use of energy saving bulbs"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.4.6",
+              "outcome_description": "Describe the use of switches, fuses, earthing and the three pin-plugs.",
+              "knowledge": [
+                "Electrical components: e.g. switches (on /off power), fuses(Prevent appliances from damage), and the three pin-plugs (connecting appliance)."
+              ],
+              "skills": [],
+              "values": []
+            },
+            {
+              "outcome_unit": "12.9.4.7",
+              "outcome_description": "Explain the need for earthing metal cases and for double Insulation.",
+              "page_number": 36,
+              "knowledge": [
+                "Safety precautions (prevent electric shocks, accidents)"
+              ],
+              "skills": [
+                "Investigating the safety precautions"
+              ],
+              "values": [
+                "Asking questions for more understanding"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.4.8",
+              "outcome_description": "Describe the meaning of three wires found in the cable",
+              "knowledge": [
+                "Three types of Wires: Live (brown), earthling (green and yellow) and neutral(blue)"
+              ],
+              "skills": [
+                "Communicating the colouring of insulator"
+              ],
+              "values": [
+                "Cooperating in group activities"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.4.9",
+              "outcome_description": "Describe the domestic electrical wiring system",
+              "knowledge": [
+                "Household circuits: such as cooker circuit, ring circuit, lighting circuit"
+              ],
+              "skills": [
+                "Investigating the basic wiring system in a house"
+              ],
+              "values": [
+                "Appreciating the use of electricity at home"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.4.10",
+              "outcome_description": "Describe ways of conserving electrical energy in homes and industry.",
+              "knowledge": [
+                "Ways of conserving electrical energy: using energy saving bulbs, switch and save etc."
+              ],
+              "skills": [
+                "Communicating ways of conserving energy"
+              ],
+              "values": [
+                "Applying the safety precautions in the use of electricity"
+              ]
+            }
+          ]
+        },
+        {
+          "subtopic_unit": "12.9.5",
+          "subtopic_title": "Magnetic effects of electric currents.",
+          "page_number": 37,
+          "specific_outcomes": [
+            {
+              "outcome_unit": "12.9.5.1",
+              "outcome_description": "Explain magnetic field patterns of electric currents.",
+              "knowledge": [
+                "Lines of force (Magnetic flux) : patterns of electric currents"
+              ],
+              "skills": [
+                "Experimenting the magnetic field patterns of electric currents"
+              ],
+              "values": [
+                "Asking questions for more understanding"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.5.2",
+              "outcome_description": "Describe the applications of the magnetic effect of an electric current.",
+              "knowledge": [
+                "Applications of electromagnets: electric bells relay switches etc."
+              ],
+              "skills": [
+                "Communicating use of electromagnets"
+              ],
+              "values": [
+                "Cooperating in group activities"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.5.3",
+              "outcome_description": "Explain the behaviour of an electric current in a magnetic field.",
+              "knowledge": [
+                "The behaviour of an electric current in a magnetic field: Displacement of current carrying wire current or electron beam"
+              ],
+              "skills": [
+                "Investigating the displacement of a current carrying wire in a field"
+              ],
+              "values": [
+                "Asking questions for more understanding"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.5.4",
+              "outcome_description": "Describe the application of a current placed in a magnetic field.",
+              "knowledge": [
+                "Applications of current in a magnetic field: e.g. D.C. motors, galvanometers, ammeter etc."
+              ],
+              "skills": [
+                "Inferring the attraction and repulsion of forces between parallel currents"
+              ],
+              "values": [
+                "Cooperating in group activities"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.5.5",
+              "outcome_description": "Describe the nature of forces between parallel currents.",
+              "knowledge": [
+                "Nature of forces: attraction and repulsion of forces between parallel currents."
+              ],
+              "skills": [
+                "Investigating the effects of magnetic fields"
+              ],
+              "values": [
+                "Participating in group activities actively"
+              ]
+            },
+            {
+              "outcome_unit": "12.9.5.6",
+              "outcome_description": "Describe the effect of magnetic fields on human health and environment.",
+              "knowledge": [
+                "Effects of magnetic fields: hearing impairment, radar interference in communication etc"
+              ],
+              "skills": [],
+              "values": [
+                "Applying the effects of magnetic field"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "12.10",
+      "topic_title": "ELECTROMAGNETIC INDUCTION",
+      "page_number": 38,
+      "subtopics": [
+        {
+          "subtopic_unit": "12.10.1",
+          "subtopic_title": "The phenomenon of electromagnetic induction.",
+          "specific_outcomes": [
+            {
+              "outcome_unit": "12.10.1.1",
+              "outcome_description": "Investigate the phenomenon of electro magnetic induction.",
+              "knowledge": [
+                "Electromagnetic induction: (induced EMF / current in a wire moving cutting magnetic flux ) Faraday’s law"
+              ],
+              "skills": [
+                "Experimenting the induction of an EMF/current using a magnet, a coil and ammeter"
+              ],
+              "values": [
+                "Asking questions for more understanding"
+              ]
+            },
+            {
+              "outcome_unit": "12.10.1.2",
+              "outcome_description": "Describe the factors affecting magnitude and direction of induced EMF.",
+              "knowledge": [
+                "Factors affecting magnitude and direction of induced EMF: speed of either magnet or coil, strength of magnet, number of turns of a coil"
+              ],
+              "skills": [
+                "Collecting data",
+                "Organising the data in a table",
+                "Analysing the factors that affect the magnitude of the induced current/EMF"
+              ],
+              "values": [
+                "Cooperating in group activities",
+                "Participating in group activities actively",
+                "Knowing the safe rules of experiment"
+              ]
+            },
+            {
+              "outcome_unit": "12.10.1.3",
+              "outcome_description": "State the direction of current produced by an induced EMF.",
+              "knowledge": [
+                "Direction of induced current: Lenz and Fleming right hand law."
+              ],
+              "skills": [],
+              "values": []
+            }
+          ]
+        },
+        {
+          "subtopic_unit": "12.10.2",
+          "subtopic_title": "The simple A.C. and D.C. generators.",
+          "page_number": 39,
+          "specific_outcomes": [
+            {
+              "outcome_unit": "12.10.2.1",
+              "outcome_description": "Describe simple A.C. and D.C. generators.",
+              "knowledge": [
+                "Generators: simple A.C. generator (an alternator with slip-rings) and simple D.C. dynamo with a commutator"
+              ],
+              "skills": [
+                "Communicating A.C. and D.C. generators"
+              ],
+              "values": [
+                "Cooperating in group activities"
+              ]
+            },
+            {
+              "outcome_unit": "12.10.2.2",
+              "outcome_description": "Compare the simple A.A. generator with a simple D.C. generator in terms of structure and its nature.",
+              "knowledge": [
+                "Structure and its nature of simple A.C and D.C generators"
+              ],
+              "skills": [
+                "Comparing the structure and nature of an A.C. and D.C. generators"
+              ],
+              "values": [
+                "Participating in group activities actively",
+                "Appreciating the use of the generators and batteries"
+              ]
+            },
+            {
+              "outcome_unit": "12.10.2.3",
+              "outcome_description": "Describe the action of a diode in rectification.",
+              "knowledge": [
+                "Action of diodes: change A.C. to D.C. by allowing current to flow in one way"
+              ],
+              "skills": [
+                "Communicating rectification of alternating current using diodes"
+              ],
+              "values": [
+                "Cooperating in group activities"
+              ]
+            },
+            {
+              "outcome_unit": "12.10.2.4",
+              "outcome_description": "Explain conversion of an A.C. generator to a D.C. generator.",
+              "knowledge": [
+                "Conversion of A.C. generator to D.C. generator by use of commutator"
+              ],
+              "skills": [
+                "Comparing the direction of current produced by a D.C. generator to the one produced from batteries"
+              ],
+              "values": [
+                "Participating in group activities actively"
+              ]
+            },
+            {
+              "outcome_unit": "12.10.2.5",
+              "outcome_description": "Contrast the current produced by the D.C. generator with that produced from batteries.",
+              "knowledge": [
+                "The direction of Current from D.C generator(varies) and from batteries(constant)"
+              ],
+              "skills": [],
+              "values": [
+                "Appreciating the use of the generators and batteries"
+              ]
+            }
+          ]
+        },
+        {
+          "subtopic_unit": "12.10.3",
+          "subtopic_title": "Transformers.",
+          "page_number": 40,
+          "specific_outcomes": [
+            {
+              "outcome_unit": "12.10.3.1",
+              "outcome_description": "Demonstrate the principles of mutual induction.",
+              "knowledge": [
+                "Principles of mutual induction: changing current in one coil gives rise to current in the other"
+              ],
+              "skills": [
+                "Designing investigations to verify mutual induction"
+              ],
+              "values": [
+                "Participating in group activities actively"
+              ]
+            },
+            {
+              "outcome_unit": "12.10.3.2",
+              "outcome_description": "Describe the structure and operation of iron core transformers.",
+              "knowledge": [
+                "The structure : primary (in- put) and secondary(output) coils Operation: changing of AC voltages"
+              ],
+              "skills": [
+                "Communicating step up and step down transformers"
+              ],
+              "values": []
+            },
+            {
+              "outcome_unit": "12.10.3.3",
+              "outcome_description": "Apply the transformer and power equations to solve numerical problems involving ideal transformers",
+              "knowledge": [
+                "Equations of transformer and power: using relations Vp = Np / Vs Ns and Vp Ip= Vs Is (ideal transformer)"
+              ],
+              "skills": [
+                "Calculating problems relating to the transformers and power using formulae"
+              ],
+              "values": [
+                "Appreciating of the use transformer"
+              ]
+            },
+            {
+              "outcome_unit": "12.10.3.4",
+              "outcome_description": "Calculate the efficiency of a transformer given data.",
+              "page_number": 41,
+              "knowledge": [
+                "Calculation of efficiency: [Efficiency = (Vs Is)/( Vp Ip) x 100%]"
+              ],
+              "skills": [
+                "Calculating the efficiency of a transformer"
+              ],
+              "values": [
+                "Asking questions for more understanding"
+              ]
+            },
+            {
+              "outcome_unit": "12.10.3.5",
+              "outcome_description": "Explain advantages of high alternating potential difference power transmission.",
+              "knowledge": [
+                "Advantage of high alternating potential difference power transmission: as in reducing power losses in cables."
+              ],
+              "skills": [
+                "Communicating knowledge on the environmental and cost implications of underground power transmission"
+              ],
+              "values": [
+                "Cooperating in group activities"
+              ]
+            },
+            {
+              "outcome_unit": "12.10.3.6",
+              "outcome_description": "Describe the implications of underground power transmission compared to overhead lines.",
+              "knowledge": [
+                "Environmental and cost implications of underground power transmission"
+              ],
+              "skills": [],
+              "values": [
+                "Participating in group activities actively",
+                "Appreciating the use of the formula"
+              ]
+            },
+            {
+              "outcome_unit": "12.10.3.7",
+              "outcome_description": "Describe the effects of improper management of transformers",
+              "knowledge": [
+                "Effects of improper management of Transformers such as overheating, low/high voltage"
+              ],
+              "skills": [],
+              "values": [
+                "Being aware of the environmental and cost implications of underground power transmission"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "12.11",
+      "topic_title": "BASIC ELECTRONICS",
+      "page_number": 42,
+      "subtopics": [
+        {
+          "subtopic_unit": "12.11.1",
+          "subtopic_title": "Thermionic emission and electrons.",
+          "specific_outcomes": [
+            {
+              "outcome_unit": "12.11.1.1",
+              "outcome_description": "Describe What thermionic emission is",
+              "knowledge": [
+                "Thermionic emission: release of electrons from a heated cathode"
+              ],
+              "skills": [
+                "Investigating properties of cathode rays by using a CRO"
+              ],
+              "values": [
+                "Asking questions for more understanding"
+              ]
+            },
+            {
+              "outcome_unit": "12.11.1.2",
+              "outcome_description": "Investigate properties of cathode rays",
+              "knowledge": [
+                "Properties of cathode rays: e.g. Deflected by electric and magnetic fields travel in straight in lines etc."
+              ],
+              "skills": [],
+              "values": [
+                "Cooperating in group activities",
+                "Participating in group activities actively"
+              ]
+            },
+            {
+              "outcome_unit": "12.11.1.3",
+              "outcome_description": "Distinguish between direction of flow of electrons and flow of conventional current.",
+              "knowledge": [
+                "Direction of flow of electrons and conventional current"
+              ],
+              "skills": [
+                "Comparing the direction of flow of electrons to conventional current"
+              ],
+              "values": []
+            },
+            {
+              "outcome_unit": "12.11.1.4",
+              "outcome_description": "Describe applications of electron beams.",
+              "knowledge": [
+                "Application of electron beams in CRO ,TV set, X-ray machines etc"
+              ],
+              "skills": [],
+              "values": []
+            },
+            {
+              "outcome_unit": "12.11.1.5",
+              "outcome_description": "Describe the basic structure and an action of cathode ray oscilloscope.",
+              "page_number": 43,
+              "knowledge": [
+                "Basic structure and action of CRO: electron gun, Control grid, anode Y-plates ,X-plates, fluorescent screen"
+              ],
+              "skills": [
+                "Communicating the devices that make use of electron beams in their operation"
+              ],
+              "values": [
+                "Appreciating the use of the cathode rays in specific devices"
+              ]
+            },
+            {
+              "outcome_unit": "12.11.1.6",
+              "outcome_description": "Describe the uses of cathode-ray oscilloscope.",
+              "knowledge": [
+                "Uses of CRO: e.g. measuring( peak voltage, time, frequency),TV etc"
+              ],
+              "skills": [
+                "Investigating the basic structure of a CRO.",
+                "Measuring quantities using a CRO"
+              ],
+              "values": [
+                "Being aware of the structure of a CRO",
+                "Appreciating the use of a CRO in measuring some quantities",
+                "Asking questions for more understanding",
+                "Cooperating in group activities"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "12.12",
+      "topic_title": "ATOMIC PHYSICS",
+      "page_number": 43,
+      "subtopics": [
+        {
+          "subtopic_unit": "12.12.1",
+          "subtopic_title": "Nuclear atom",
+          "specific_outcomes": [
+            {
+              "outcome_unit": "12.12.1.1",
+              "outcome_description": "Describe the structure of the atom.",
+              "knowledge": [
+                "Atomic structure (nucleus and electrons)"
+              ],
+              "skills": [
+                "Communicating an atomic structure"
+              ],
+              "values": [
+                "Asking questions for more understanding"
+              ]
+            },
+            {
+              "outcome_unit": "12.12.1.2",
+              "outcome_description": "Describe the composition of the nucleus in terms of protons and neutrons.",
+              "knowledge": [
+                "Composition of the nucleus (protons and neutrons)"
+              ],
+              "skills": [
+                "Communicating knowledge on the existence of protons and neutrons in the nucleus of an atom"
+              ],
+              "values": [
+                "Cooperating in group activities"
+              ]
+            },
+            {
+              "outcome_unit": "12.12.1.3",
+              "outcome_description": "Explain mass number and atomic number.",
+              "knowledge": [
+                "Mass number and Atomic number: mass (Nucleon) number, A, and atomic (proton), number, Z."
+              ],
+              "skills": [],
+              "values": []
+            }
+          ]
+        },
+        {
+          "subtopic_unit": "12.12.2",
+          "subtopic_title": "Radioactivity.",
+          "page_number": 44,
+          "specific_outcomes": [
+            {
+              "outcome_unit": "12.12.2.1",
+              "outcome_description": "Describe the nature of radioactivity.",
+              "knowledge": [
+                "Nature of radioactivity (randomness and spontaneity)"
+              ],
+              "skills": [
+                "Investigating the nature of radioactivity"
+              ],
+              "values": [
+                "Asking questions for more understanding"
+              ]
+            },
+            {
+              "outcome_unit": "12.12.2.2",
+              "outcome_description": "Describe the characteristics of the three kinds of radioactive radiations: alpha, beta and gamma.",
+              "knowledge": [
+                "Characteristics of three kinds of radioactive radiations: Alpha (α), Beta (β) and Gamma (γ) radiations in terms of penetration, ionization, deflection, charge, relative mass and nature of particles)"
+              ],
+              "skills": [
+                "Investigating radiation using a G.M counter"
+              ],
+              "values": [
+                "Cooperating in group activities"
+              ]
+            },
+            {
+              "outcome_unit": "12.12.2.3",
+              "outcome_description": "Describe methods of detecting radioactive emissions.",
+              "knowledge": [
+                "Detection of radioactive emissions: by G.M tube, photographic plate, scintillation counter, bubble chamber"
+              ],
+              "skills": [
+                "Understanding the causes and effects of background radiation"
+              ],
+              "values": [
+                "Appreciating the use of a GM counter to detect radiation"
+              ]
+            },
+            {
+              "outcome_unit": "12.12.2.4",
+              "outcome_description": "Explain the origin and effects of background radiations",
+              "knowledge": [
+                "Causes of background radiation (cosmic rays, radioactive elements under rocks.)"
+              ],
+              "skills": [],
+              "values": [
+                "Being aware of the existence of background radiation and its effects"
+              ]
+            },
+            {
+              "outcome_unit": "12.12.2.5",
+              "outcome_description": "Describe what radioactive decay is.",
+              "page_number": 45,
+              "knowledge": [
+                "Radioactive decay as disintegration of nucleus by alpha, beta and gamma emissions."
+              ],
+              "skills": [
+                "Comparing nuclear fission to nuclear fusion"
+              ],
+              "values": [
+                "Awareness of radioactive substances"
+              ]
+            },
+            {
+              "outcome_unit": "12.12.2.6",
+              "outcome_description": "Describe what nuclear fusion and fission is.",
+              "knowledge": [
+                "Nuclear fusion and fission: Nuclear fusion as process of joining very light nuclei together and fission as splitting process of nucleus"
+              ],
+              "skills": [],
+              "values": []
+            },
+            {
+              "outcome_unit": "12.12.2.7",
+              "outcome_description": "Demonstrate how to determine half-life of a radioactive material.",
+              "knowledge": [
+                "Half life of a radioactive material: Time taken for activity to reduce by half of the original substance (Decay curves)"
+              ],
+              "skills": [
+                "Calculating half life of a radioactive material by using decay curves"
+              ],
+              "values": [
+                "Communicating knowledge on safety precautions",
+                "Appreciating the use of decay curves to determine half life"
+              ]
+            },
+            {
+              "outcome_unit": "12.12.2.8",
+              "outcome_description": "Explain uses of radioactive substances.",
+              "knowledge": [
+                "Uses of radioactive substances: e.g. medical, industrial, agricultural uses"
+              ],
+              "skills": [
+                "Communicating the uses of radioactive substances"
+              ],
+              "values": []
+            },
+            {
+              "outcome_unit": "12.12.2.9",
+              "outcome_description": "Describe the safety precautions necessary when handling or storing radioactive substances.",
+              "page_number": 46,
+              "knowledge": [
+                "Use of protective materials: such as gloves, goggles, overalls and lead shields"
+              ],
+              "skills": [
+                "Demonstrating safety precautions when handling dangerous chemicals"
+              ],
+              "values": [
+                "Applying safety precautions when dealing with radioactive substances"
+              ]
+            },
+            {
+              "outcome_unit": "12.12.2.10.",
+              "outcome_description": "Explain the effects of radioactive substances on the environment and health.",
+              "knowledge": [
+                "Effect of radioactive substances: such as radiation pollution and health hazards"
+              ],
+              "skills": [
+                "Investigating management practices which safeguard the environment from radioactive contamination"
+              ],
+              "values": [
+                "Participating in group activities actively"
+              ]
+            },
+            {
+              "outcome_unit": "12.12.2.11.",
+              "outcome_description": "Investigate management practices which safeguard the environment from radioactive contamination.",
+              "knowledge": [
+                "Appropriate management safe guard practices"
+              ],
+              "skills": [],
+              "values": [
+                "Applying safety precautions when dealing with radioactive substances"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

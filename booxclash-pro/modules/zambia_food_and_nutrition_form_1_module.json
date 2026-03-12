@@ -1,0 +1,749 @@
+{
+  "subject": "Food and Nutrition",
+  "grade": "Form 1",
+  "term": 1,
+  "topics": [
+    {
+      "topic_id": "1.1",
+      "topic_title": "Kitchen and Food Laboratory",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.1.1",
+          "title": "Types of Kitchen",
+          "page": 4,
+          "competences": [
+            "Design different types of kitchen"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 4,
+              "hook": "Imagine you are a young chef-in-training, entering the busy kitchen of a renowned restaurant in Kitwe for the very first time. The head chef welcomes you and shows you around, explaining the various types of kitchens and their specific setups: the fast-paced, highly organised commercial kitchen compared to the intimate, comfortable home kitchen.",
+              "teacher_steps": [
+                "Introduce the tools and equipment: Show and explain the different tools and equipment",
+                "Have participants identify and label: Ask participants to identify and label each tool and equipment",
+                "Learners visit traditional and modern kitchen setups",
+                "Learners in groups discuss similarities and differences of different types of kitchen",
+                "Groups create posters, models or slides detailing the similarities and differences of various types of kitchens",
+                "Critique and Analyse work done by the groups"
+              ],
+              "learner_steps": [
+                "Learners visit traditional setup (firewood and charcoal) and modern kitchen (electric or gas)",
+                "Learners compare fuel sources, efficiency, hygiene and present their observations",
+                "Learners create small models of different kitchen types (domestic, traditional and modern) and label key features and discuss their functions",
+                "Learners watch simulations of different types of kitchen",
+                "Learners explore different kitchen layouts and interact with the virtual kitchen appliances"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 6,
+              "hook": "",
+              "teacher_steps": [
+                "Learners in groups to demonstrate the functions of the kitchen (store foods, prepare, cook, serve meals and clear up)",
+                "Learners in groups to role play different key functions of a kitchen",
+                "Critique and analyze work done by the groups"
+              ],
+              "learner_steps": [
+                "Learners to store food according to storage spaces (perishables, semi-perishables and non-perishables)",
+                "Leaners to role play different key kitchen functions (cooking, storage, cleaning, maintenance, safety)",
+                "Learners to clean and store kitchen utensils and equipment",
+                "Learners to watch simulations of different types of kitchen",
+                "Learners to gamify different functions of the kitchen"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 7,
+              "hook": "",
+              "teacher_steps": [
+                "Learners to create different kitchen layouts and deliberate on the characteristics of each layout",
+                "Learners to arrange different kitchen layouts",
+                "Learners to watch simulations of different kitchen layouts",
+                "Learners to virtually design different kitchen layouts"
+              ],
+              "learner_steps": [
+                "Learners to create different kitchen layouts and deliberate on the characteristics of each layout",
+                "Learners to arrange different kitchen layouts",
+                "Learners to watch simulations of different kitchen layouts",
+                "Learners visit different kitchen showrooms, restaurant or home kitchens with various kitchen layouts (identify and list technologies for each)",
+                "Learners to virtually design different kitchen layouts"
+              ]
+            }
+          ],
+          "short_notes": "In this sub-topic, the teacher will focus on an enlightening journey to explore the diverse types of kitchens that exist, each designed to cater to different culinary needs and environments. Whether it is the fast-paced, meticulously organised commercial kitchen, the intimate and versatile home kitchen, or the specialised food laboratory used for scientific experimentation, each type of kitchen offers unique opportunities and challenges. Understanding these kitchen types will not only enhance the learners' culinary skills but also equip them with the knowledge to efficiently navigate and utilise any kitchen setup, ensuring a solid foundation for their future undertakings in food and nutrition. There are various types of kitchens such as residential, commercial, institutional, industrial, outdoor, mobile, galley, open kitchen, modular, traditional and smart kitchens. This topic will focus on the types of kitchen which vary in size, layout and style basing on the preferences and needs. Kitchen environment is designed for food preparation and cooking emphasizing on cleanliness and sanitation. The primary purpose is food preparation, cooking and serving. The focus is on producing high quality, safe and appealing food for consumption. Basic types of kitchen and shapes: Residential kitchens are designed for private homes and apartments. Commercial kitchens are found in restaurants, cafes, hotels and other food service establishments. Institutional kitchens serve hospitals, schools, colleges, universities and other institutions. Industrial kitchens are designed for large-scale food manufacturing and processing. Mobile kitchens are designed for temporary or mobile food service operations such as food trucks, festivals or events. Open kitchens are designed to be part of the living space, with minimal separation between the cooking area and the rest of the room. There are a variety of shapes such as L-shaped, U-shaped, parallel, Island, Galley. Kitchen functions include Food Storage (Refrigerators, pantries, and cabinets are used for storing food), Food Preparation (Counter space and various tools facilitate food preparation), Cooking (Stoves, ovens, and microwaves are used for cooking), Clean-up (Dishwashers and sinks are essential for cleaning up after meals), Dining (Some kitchens incorporate dining areas for casual meals), Social Hub (Increasingly, kitchens function as social gathering spaces), and Multifunctional Space (Depending on the household, kitchens may also accommodate laundry or home office work). Kitchen layout is essential for a functional and efficient space. One-Wall/Galley layouts are space-saving, with one-wall being compact and galley efficient for small kitchens, though both can feel cramped. L-Shaped/U-Shaped kitchens offer versatility and a good work triangle, while U-shaped provides ample space but can feel closed off. Islands offer extra workspace but require a large kitchen; peninsulas provide similar benefits while being connected to a wall. Choosing the right layout depends on the kitchen's size, your lifestyle, the work triangle, traffic flow, and personal preferences. The most common kitchen layouts include one-wall, galley, L-shaped, U-shaped, island, and peninsula.",
+          "vocabulary": [
+            {
+              "term": "Kitchen",
+              "definition": "This is a working space where food is prepared and cooked for individual, family, or commercial consumption"
+            },
+            {
+              "term": "Ergonomics",
+              "definition": "The study of work and its environment in order to achieve maximum efficiency"
+            },
+            {
+              "term": "Work Triangle",
+              "definition": "The lines joining the centre points of the large pieces of equipment"
+            }
+          ],
+          "assessment": {
+            "page": 8,
+            "questions": [
+              {
+                "type": "mcq",
+                "question": "Describe open kitchens?",
+                "options": [
+                  "These are designed to be part of the living space, with minimal separation between the cooking area and the rest of the room",
+                  "These are found in restaurants, cafes, hotels and other food service establishments",
+                  "These serve hospitals, schools, colleges, universities and other institutions",
+                  "Layout that is not fully enclosed by walls, often connecting to other living areas like the dining or living room"
+                ],
+                "answer": "Layout that is not fully enclosed by walls, often connecting to other living areas like the dining or living room"
+              },
+              {
+                "type": "mcq",
+                "question": "Which of the following is the definition of the term 'ergonomics?",
+                "options": [
+                  "A work sequence of food storage > preparation > cooking > serving > clearing up",
+                  "The lines joining the centre points of the large pieces of equipment",
+                  "A sequence of work surface > fridge > work surface > sink > work surface > cooker > work surface is very important",
+                  "The study of work and its environment in order to achieve maximum efficiency"
+                ],
+                "answer": "The study of work and its environment in order to achieve maximum efficiency"
+              },
+              {
+                "type": "open_ended",
+                "question": "A client has a small apartment and wants to maximize the functionality of their limited kitchen space. Propose a kitchen layout and suggest specific appliances and storage solutions that would address their needs, considering both budget and space constraints.",
+                "sample_answer": "For a small apartment kitchen, I'd prioritize multi-functional appliances and storage to maximize limited space and minimize clutter. Utilizing vertical space with shelving and wall organizers expands storage without sacrificing floor or counter space. Adequate lighting, including ambient, task, and accent lights, is essential for functionality and creating a welcoming atmosphere. These features together enhance efficiency, safety, and overall enjoyment of the small kitchen"
+              },
+              {
+                "type": "open_ended",
+                "question": "Analyse points to consider when planning a kitchen.",
+                "sample_answer": "Positioning: - Conveniently located to have good light and open view; Types of kitchen: - A suitable type of kitchen should be chosen; Surfaces: - (walls, floor coverings and work surfaces) and Ventilation: - This is essential to allow steam, odours, grease, stale air and heat to escape from the kitchen to avoid condensation."
+              },
+              {
+                "type": "open_ended",
+                "question": "Give a detailed account on the designing of a kitchen.",
+                "sample_answer": "Layout and flow: - The kitchen should be organised efficiently to promote a good work triangle (sink, cooker, refrigerator). Consider common designs like U-shaped, L-shaped or Galley. Storage: - Maximise space for cabinets, drawers, and so on and so forth. Counter space: - Enough space for food preparation, cooking and socialising is cardinal. Lighting: - Adequate lighting combining different types is important for proper functionality. Safety: - Store sharp objects, hot items or surfaces and hazardous items out of reach of children, cover all naked electric wires"
+              }
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.1.2",
+          "title": "Kitchen Utensils and Equipment",
+          "page": 10,
+          "competences": [
+            "Classify kitchen utensils and equipment"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 11,
+              "hook": "",
+              "teacher_steps": [
+                "Learners to create a list of common utensils (e.g. whisk, tongs, blenders, mixers…)",
+                "Learners in groups to find and identify each utensil in the kitchen",
+                "Learners to match the utensil with its correct name",
+                "Learners to watch simulations on use of different categories of kitchen utensils and equipment",
+                "Learners to operate the equipment safely and correctly in the preparation of simple dishes",
+                "Learners to identify the utensils and equipment used in different cooking videos"
+              ],
+              "learner_steps": [
+                "Learners to create a list of common utensils",
+                "Learners in groups to find and identify each utensil in the kitchen",
+                "Learners to prepare a set of utensil pictures or flashcards",
+                "Learners to match the utensil with its correct name",
+                "Learners in groups to be assigned with a kitchen equipment station",
+                "Learners to operate the equipment safely and correctly to prepare a simple dish",
+                "Learners to create cooking demonstration videos that showcase different utensils and equipment"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 12,
+              "hook": "",
+              "teacher_steps": [
+                "Learners to sort the kitchen utensils and equipment based on their functions",
+                "Learners in groups to demonstrate the functions of the kitchen utensils as well as state the points to consider when purchasing, care and storage of the tools",
+                "Learners to watch videos (on a screen) on different types of kitchen utensils and equipment",
+                "Learners in groups to role play cooking tasks using kitchen utensils and equipment",
+                "Critique and analyze work done by the groups"
+              ],
+              "learner_steps": [
+                "Learners to display the kitchen utensils and equipment and sort them into categories based on their function",
+                "Learners to state the choices to consider when purchasing these tools",
+                "Learners to create a kitchen set up simulation where they will arrange and use kitchen utensils and equipment to understand their care and proper storage",
+                "Learners to role-play cooking tasks using utensils and equipment as well as practice storing utensils properly for hygiene and efficiency",
+                "Learners to use basic kitchen utensils like blender and come up with interesting dishes"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 15,
+              "hook": "",
+              "teacher_steps": [
+                "Conduct a class practical lesson on the correct use of utensils and equipment safely and effectively",
+                "Learners in groups to demonstrate the use of various utensils and equipment during food preparation, cooking and serving of meals in class"
+              ],
+              "learner_steps": [
+                "Learners to clean and sanitize the workspace, utensils, and equipment",
+                "Learners to show how to operate the equipment safely and effectively, including setting temperatures, using controls, and handling hot or sharp parts and demonstrate the use of protective gear, such as oven mitts or aprons, to prevent injuries",
+                "Learners to create a mock kitchen setup with artificial utensils and equipment, such as plastic or wooden replicas",
+                "Learners to utilize video conferencing tools to remotely demonstrate the correct use of utensils and equipment",
+                "Learners to create immersive virtual reality experiences that simulate real-world kitchen environments and utensil usage"
+              ]
+            }
+          ],
+          "short_notes": "The kitchen is a focal point of a home and one of the functions of the kitchen is for storage of food, utensils, pieces of equipment and other related kitchen items. Hence the necessity of the kitchen being spacious to accommodate all sorts of utensils and equipment. There is an enormous range of small and large pieces of equipment available in kitchenware shops. It is important to consider a wide range of points when selecting utensils and equipment. Utensils and equipment must be well made and durable and must not be difficult to clean or too complicated to operate. Utensils and equipment must be the right type and size in accordance with the requirements. Classification of kitchen utensils and equipment: Cutting utensils are used for preparing ingredients, such as chopping, slicing, dicing. Examples include knives, graters, and peelers. Baking utensils are used for preparing and baking foods like cakes, pastries, bread. Examples include baking tins, baking sheets, roasting tins. Cooking utensils are used for cooking and heating food. Examples include saucepans, casseroles, and kettles. Utensils for separating are used for separating solids from liquids, powders from coarsely crushed foods. Examples include colanders, sieve. Measuring tools are for measuring smaller quantities. Examples include measuring cups, spoons, and jars. Cooking equipment is for cooking foods such as ovens, stoves, fryers, grills. Refrigeration equipment is for chilling and freezing foods. Examples include refrigerators, freezers, and ice machines. Food preparation equipment such as food processors, mixers, meat grinders. Choice of utensils and equipment involves selecting the right tools that suit the task, ingredient and cooking method. Material consideration involves considering the material of utensils and equipment (stainless steel, non-stick, glass). Size and capacity means choosing utensils and equipment that are the right size and task. Care of utensils and equipment includes cleaning utensils and equipment after each use to prevent bacterial growth, storing utensils and equipment properly to prevent damage and maintain organization, and regularly checking and maintaining equipment to ensure proper function. Use of utensils and equipment involves safe handling to prevent accidents and injuries, using proper technique when using utensils and equipment (chopping, stirring), and using utensils and equipment efficiently to minimize waste and save time. Safety precautions include handling hot equipment with care by using oven mitt and pot holders when handling hot equipment, preventing slips and falls by cleaning up spills immediately and ensuring the floor is clear of obstacles, and using utensils and equipment correctly by following the manufacturer's instructions and using common sense when using utensils and equipment.",
+          "vocabulary": [
+            {
+              "term": "Kitchen utensils",
+              "definition": "These are small tools and devices used for preparing, cooking, and serving"
+            },
+            {
+              "term": "Kitchen equipment",
+              "definition": "Refers to large machines and appliances used in food preparation, cooking, and storage"
+            },
+            {
+              "term": "Labour-saving devices",
+              "definition": "Refer to tools, equipment, or technology designed to reduce the physical effort, time, and difficulty required to perform various tasks"
+            }
+          ],
+          "assessment": {
+            "page": 16,
+            "questions": [
+              {
+                "type": "mcq",
+                "question": "Which of the following categories BEST describes a grater?",
+                "options": [
+                  "Cutting utensils",
+                  "Mixing utensils",
+                  "Cooking utensils",
+                  "Food preparation utensils"
+                ],
+                "answer": "Food preparation utensils"
+              },
+              {
+                "type": "mcq",
+                "question": "A chef is preparing a pasta dish and needs to drain the cooked pasta. Which of the following utensils is BEST suited for this task?",
+                "options": [
+                  "A saucepan",
+                  "A mixing bowl",
+                  "A colander",
+                  "A frying pan"
+                ],
+                "answer": "A colander"
+              },
+              {
+                "type": "open_ended",
+                "question": "What two versatile baking tools would you recommend for each of these categories below, and how could a beginner use each tool? a) Mixing/Combining Tools b) Measuring Tools",
+                "sample_answer": "Mixing: Tool 1: Large Mixing Bowl: A set of nesting bowls in various sizes is essential. A beginner can use a large bowl for mixing batter, kneading dough, or tossing ingredients like fruit for a pie. Tool 2: Spatula (Rubber or Silicone): A flexible spatula is great for scraping down the sides of bowls, folding ingredients together gently (like when adding air to a batter), and spreading batter evenly in a pan. Measuring: Tool 1: Measuring Cups (Dry): A set of dry measuring cups (usually metal or plastic) is crucial for accurately measuring dry ingredients like flour, sugar, and oats. Beginners should learn the proper 'leveling' technique (scooping and then leveling off with a straight edge)."
+              },
+              {
+                "type": "open_ended",
+                "question": "Talk about a situation you had to use something other than the right tool in the kitchen. What was the problem, what did you use instead, and why did it work?",
+                "sample_answer": "Problem: Needed to roll out dough but didn't have a rolling pin. Substitute: Used a clean wine bottle (or a straight-sided drinking glass). Why it worked: The bottle/glass was cylindrical and smooth, just like a rolling pin, so it could flatten the dough evenly. Problem: Needed to separate egg yolks from whites but didn't have an egg separator. Substitute: Used a clean, empty plastic water bottle. Why it worked: You can gently squeeze the bottle, create a vacuum, and 'suck up' the yolk, leaving the white behind."
+              }
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.1.3",
+          "title": "Improvisation of Kitchen Utensils",
+          "page": 18,
+          "competences": [
+            "Make kitchen utensils"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 19,
+              "hook": "",
+              "teacher_steps": [
+                "Learners to identify missing kitchen utensil and equipment",
+                "Learners in pairs to create the missing utensil and equipment",
+                "Groups to 3D print designs and test their functionality in a real kitchen",
+                "Learners to create online platforms where they can share their improvised kitchen tools ideas, recipes and cooking tips"
+              ],
+              "learner_steps": [
+                "Learners to create and make use of readily available items in place of specialized kitchen tools (Creating a makeshift colander, improving a grater, whisker…)",
+                "Learners to create a makeshift knife: Instead of just using any sharp object, artificial improvisation might involve shaping a piece of metal or stone into a specific knife-like tool",
+                "Learners to Combine tools: Learners to weld a spatula to a whisk to create a hybrid tool for flipping and mixing simultaneously",
+                "Learners to identify a common cooking challenge that could be solved with a specialized utensil",
+                "Learners to use 3D modeling software to design a custom utensil that addresses the problem",
+                "Learners to print their designs and test them in a real or virtual kitchen setting",
+                "Learners to identify a specific kitchen challenge",
+                "Learners to sketch and model their own tool design using 3D modeling software",
+                "Learners to create online platforms where they can share their improvised kitchen tool ideas, recipes, and cooking tips"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 21,
+              "hook": "",
+              "teacher_steps": [
+                "Learners to imagine a camping trip and how they can improvise utensils to prepare a meal",
+                "Learners to improvise several different situations with reference to improvisation of utensils",
+                "Learners to organize and do the out-door cooking challenge game",
+                "Learners to participate in the cultural exchange activity and share examples of improvising kitchen utensils from their cultural backgrounds or family traditions",
+                "Learners to watch simulations on identifying situations that require improvisation of kitchen utensils",
+                "Learners to create a solar oven, make shift oven using available local materials",
+                "Learners to create an online cooking game where they can improvise utensils to complete recipes"
+              ],
+              "learner_steps": [
+                "Learners to imagine they are on a camping trip and don't have access to all the usual kitchen utensils. How would they improvise to prepare a meal?",
+                "Learners to organize an outdoor challenge where learners have to prepare a meal using limited utensils and equipment",
+                "Learners to share examples of improvising kitchen utensils from their cultural backgrounds or family traditions",
+                "Learners to create a solar oven using a cardboard box, aluminum foil, and plastic wrap",
+                "Learners to create a make shift oven using available local materials"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 23,
+              "hook": "",
+              "teacher_steps": [
+                "Learners to highlight a wider range of situations where improvisation of kitchen utensils can be applied",
+                "Learners in small groups to research and present on specific situations requiring improvisation of kitchen utensils",
+                "Learners to create specific kitchen tools",
+                "Learners to demonstrate improvisation of some kitchen utensils and equipment using everyday household items"
+              ],
+              "learner_steps": [
+                "Learners to create specific kitchen tools, such as tongs, a whisk, or a grater, using only locally available materials",
+                "Learners to use basic techniques like carving, weaving, and joining to make kitchen equipment and utensils",
+                "Learners to search their homes for items that could potentially be used for these tasks",
+                "Learners to identify common materials (wood, metal, plastics, ceramics) and understand their basic properties",
+                "Learners to design improvised kitchen tools using available materials"
+              ]
+            }
+          ],
+          "short_notes": "Improvising kitchen utensils refers to the creative and resourceful use of available materials to substitute for traditional utensils. Improvisation can be necessary when traditional utensils are unavailable. Improvising kitchen utensils is beneficial because it promotes resourcefulness, preparedness for emergencies, and sustainability. It is also crucial to keep in mind safety considerations such as cleanliness, food safety, and careful handling. Kitchen improvisation means using what you have instead of specialized tools. It requires resourcefulness, problem-solving, creativity, and adaptability. This practice can save money and reduce kitchen clutter. It encourages creativity and builds cooking confidence. Examples include using a bottle as a rolling pin or a fork as a whisk. Ultimately, it's about being clever and adaptable in the kitchen. Situations requiring improvisation include Limited equipment when kitchen utensils are not available or are in short supply, Emergency situations like power outages, natural disasters, or unexpected events that require quick thinking, Outdoor activities like camping, picnics, or outdoor events where kitchen utensils may not be readily available, Cultural or traditional cooking like preparing traditional dishes that require specialized utensils that may not be available, and Resource constraints like limited financial resources or access to kitchen utensils. Identifying improvisation opportunities involves assessing available resources by evaluating available materials and equipment to determine what can be used as substitutes, thinking creatively by considering alternative uses for available materials and equipment, and problem solving by creating solutions to make use of available resources. Improvisation in the kitchen is the creative adaptation of everyday objects for cooking tasks. It's a skill that involves understanding tool functions and recognizing potential in other items. This practice is useful when conventional kitchen tools are unavailable or impractical. Improvisation highlights the environmental benefits of reusing and repurposing materials. It makes cooking more accessible to individuals with limited resources. Thinking outside the box is key to successful kitchen improvisation.",
+          "vocabulary": [
+            {
+              "term": "Improvisation",
+              "definition": "This is the act of creating or performing something spontaneously without prior planning or preparation"
+            }
+          ],
+          "assessment": {
+            "page": 24,
+            "questions": [
+              {
+                "type": "mcq",
+                "question": "In a kitchen setting, the act of using readily available items in place of specialized tools is best described as:",
+                "options": [
+                  "Resourcefulness",
+                  "Adaptability",
+                  "Improvisation",
+                  "Innovation"
+                ],
+                "answer": "Improvisation"
+              },
+              {
+                "type": "mcq",
+                "question": "Which of the following is the MOST effective and SAFE substitute for opening a can when a can opener is unavailable?",
+                "options": [
+                  "A sturdy spoon or metal spatula",
+                  "A sharp knife",
+                  "A rock or concrete edge",
+                  "Your teeth"
+                ],
+                "answer": "A sturdy spoon or metal spatula"
+              },
+              {
+                "type": "open_ended",
+                "question": "Discuss three distinct advantages of improvising with kitchen tools. Explain why each advantage is important in a kitchen or cooking context.",
+                "sample_answer": "Enhanced Problem-Solving Skills: Improvising forces you to think creatively and analytically about the function of a tool and how to achieve the same result with something else. This strengthens your problem-solving abilities, which are essential for any cook, as recipes don't always go as planned. Resourcefulness and Adaptability: Improvising teaches you to make the most of what you have available. This is particularly valuable when you're missing an ingredient or tool, or when cooking in a limited environment. Reduced Waste and Sustainability: By finding alternative uses for items you already own, you avoid the need to purchase specialized tools that might only be used occasionally."
+              },
+              {
+                "type": "open_ended",
+                "question": "Describe a specific cooking or food preparation task you've performed where you had to use an item not designed for that purpose. Explain what you were trying to achieve, what you used as a substitute, and why that substitution was effective.",
+                "sample_answer": "Mashing Potatoes: I was making mashed potatoes and realized I didn't have a potato masher. My goal was to get the potatoes smooth and creamy. I used a clean, empty wine bottle as a substitute. It worked surprisingly well because the bottle's smooth, flat bottom was able to crush and break up the potatoes. Whisking Eggs: I was making an omelet and needed to whisk the eggs. I didn't have a whisk, so I used a fork. The fork worked because its tines, when moved quickly back and forth, could beat the eggs and incorporate some air."
+              },
+              {
+                "type": "open_ended",
+                "question": "You need to grind whole spices for a recipe but don't have a mortar and pestle. Describe TWO different items you could use as substitutes. For EACH substitute, explain how you would use it and what makes it a suitable (though perhaps not ideal) replacement for a mortar and pestle.",
+                "sample_answer": "Rolling Pin and Flat Surface: I could use a rolling pin and a clean, flat surface, like a cutting board. I would place the spices on the cutting board and then use the rolling pin to crush and grind them by rolling it back and forth over the spices. Food Processor (or Blender): Another option would be a food processor or blender. I would put the spices in the food processor/blender and pulse them until they are ground to the desired consistency."
+              }
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.1.4",
+          "title": "Food Laboratory",
+          "page": 27,
+          "competences": [
+            "Use food Laboratory tools and equipment"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 28,
+              "hook": "",
+              "teacher_steps": [
+                "Introduce the tools and equipment: Show and explain the different tools and equipment",
+                "Have participants identify and label: Ask participants to identify and label each tool and equipment",
+                "Assign tasks: Assign each group a specific task that requires the use of different tools and equipment",
+                "Assess participant understanding: Assess participant understanding through a quiz or class discussion"
+              ],
+              "learner_steps": [
+                "Learners to observe instructors or experienced professionals using food laboratory tools and equipment",
+                "Learners to participate in hands-on activities and experiments with reference to food laboratory tools and equipment",
+                "Learners to follow instructor's guidance and demonstrations using food laboratory tools and equipment",
+                "Learners to explore virtual labs and equipment simulations",
+                "Learners to participate in hands-on training and exercises on using food laboratory tools and equipment",
+                "Learners to read interactive labels and manuals on food laboratory tools and equipment"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 30,
+              "hook": "",
+              "teacher_steps": [
+                "Learners to display the packaged food items and allow learners to check on ingredients, nutrients, correct weights",
+                "Learners to state the roles of food safety, testing and development",
+                "Learners in groups to role play cooking tasks on food testing and quality control",
+                "Use digital scales to verify weight",
+                "Discuss on how technology helps improve food safety and suggest new product ideas as well as suggesting packing improvements",
+                "Critique and analyse work done by the groups"
+              ],
+              "learner_steps": [
+                "Learners to display the packaged food items and allow learners to check on ingredients, nutrients, correct weights",
+                "Learners in groups to use test strips to test acidity, in fruits, juice or milk and conduct a starch test using iodine on food sample",
+                "Learners to role-play tasks in groups on food testing, quality control",
+                "Learners to explore on an online food laboratory simulation to conduct virtual tests",
+                "Learners to conduct physical food tests, analyse quality and propose product improvement",
+                "Learners to watch videos on how scientists test food for safety and quality"
+              ]
+            }
+          ],
+          "short_notes": "This topic focuses on the kitchen and food laboratory, being a controlled environment where food scientists, technicians, and learners conduct various tests and analysis to evaluate the quality, safety, and nutritional content of food. It is a topic that looks at various instruments and facilities which include among others, microscopes, ovens and incubators, ph. meters and thermometers, and chromatography equipment. Nutritional content of food e.g. protein, fat, carbohydrates, vitamins, and minerals are determined. The importance of the food industry is supported through innovations and development, providing accurate nutrition labelling and information to the learners. Food laboratory tools and equipment refers to the various devices, instruments, and machinery used to analyze, test, and prepare food samples in the laboratory setting. These tools help food scientists, technologists, and analysts to ensure the quality, safety and nutritional value of products. Some common examples include: Microscopes for examining food samples at the microscopic level, Spectrophotometers for measuring the absorbance or transmittance of light by food samples, Chromatography equipment (e.g., HPLC, GC) for separating and analyzing food components, PH meters for measuring the acidity or alkalinity of food samples, Texture analyzers for measuring the physical properties of food, Moisture analyzers for measuring the moisture content of food samples, Autoclaves for sterilizing equipment and food samples, Ovens and incubators for heating or incubating food samples at controlled temperatures, Centrifuges for separating food components based on density, and Homogenizers for mixing and blending food samples. These tools and equipment help food laboratories to perform various tests and analyses, such as Microbiological testing (detecting pathogens), Chemical testing (measuring nutrient content, detecting contaminants), Physical testing (measuring texture, moisture content), and Sensory evaluation (taste, smell, appearance). Food testing involves conducting tests to detect nutrients (protein, fats, carbohydrates) and contaminants (pathogens), ensuring food safety by testing for harmful substances like pesticides, and analysing food quality by assessing texture, colour and appearance. Quality control involves monitoring food products for consistence and standardization (texture, appearance), conducting microbial testing to detect harmful bacteria or spoilage, and checking food packaging for integrity and ensuring it meets safety standards. Product development involves developing new products to meet consumer needs, testing product for texture and shelf life, and modifying existing products to improve nutritional value to address dietary trends.",
+          "vocabulary": [
+            {
+              "term": "Food laboratory",
+              "definition": "This is a space where scientific experiments and tests are conducted to analyse and develop food products with an emphasis on research, testing, and quality control"
+            }
+          ],
+          "assessment": {
+            "page": 32,
+            "questions": [
+              {
+                "type": "mcq",
+                "question": "Which of the following BEST describes the primary goal of quality control in food production?",
+                "options": [
+                  "Enhancing the visual appeal of food products",
+                  "Ensuring consistent product quality and safety",
+                  "Minimizing production expenses",
+                  "Maximizing the shelf life of food products"
+                ],
+                "answer": "Ensuring consistent product quality and safety"
+              },
+              {
+                "type": "mcq",
+                "question": "What is the PRIMARY function of food laboratories in the context of quality control?",
+                "options": [
+                  "Developing innovative food products and recipes",
+                  "Conducting scientific analysis of food samples",
+                  "Designing attractive and informative food packaging",
+                  "Creating marketing campaigns for food products"
+                ],
+                "answer": "Conducting scientific analysis of food samples"
+              },
+              {
+                "type": "open_ended",
+                "question": "Imagine a batch of snack food has inconsistent texture – some pieces are too hard, others too soft. Describe the steps you would take, utilizing the principles of quality control, to investigate the CAUSE of this inconsistency and implement a solution to prevent it from recurring.",
+                "sample_answer": "Initial Assessment & Data Collection: I would first examine quality control records from recent batches, specifically focusing on texture measurements, ingredient specifications, and any reported deviations from standard operating procedures. Process Investigation: I would then investigate the entire production process, including ingredient sourcing, mixing/processing, cooking/baking, packaging, and environmental factors. Laboratory Analyses: I would conduct laboratory tests on the collected samples, including texture analysis, moisture content, sensory evaluation, and microbial testing if needed. Root Cause Analysis: Based on the data collected, I would perform a root cause analysis to identify the underlying cause of the texture inconsistency. Solution Implementation & Monitoring: Once the root cause is identified, I would work with the production team to implement corrective actions and closely monitor the production process."
+              },
+              {
+                "type": "open_ended",
+                "question": "A food manufacturer wants to develop a new line of healthy, convenient, high-protein, and low-fat meals targeting health-conscious consumers. Describe the key stages of your product development process for this new food line, emphasizing how you would balance nutritional considerations and sensory appeal throughout the process.",
+                "sample_answer": "Market Research & Concept Development: I would begin with thorough market research to understand the target consumer's needs and preferences. Recipe Formulation & Prototyping: I would formulate initial recipes focusing on high-protein, low-fat ingredients. Nutritional Analysis & Sensory Evaluation: Prototypes would undergo detailed nutritional analysis and rigorous sensory evaluations. Recipe Refinement & Optimization: Based on feedback, I would refine and optimize the recipes. Packaging & Shelf-Life Testing: Appropriate packaging would be selected and shelf-life testing conducted. Pilot Production & Scale-Up: Before full-scale production, a pilot production run would be conducted. Product Launch & Monitoring: After a successful pilot run, the new product line would be launched with post-launch monitoring."
+              }
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.1.5",
+          "title": "Safety",
+          "page": 37,
+          "competences": [
+            "Practice safety precautions"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 37,
+              "hook": "",
+              "teacher_steps": [
+                "Learners to act out different safety scenarios",
+                "Learners to host a safety fair, where they participate in various safety–related activities",
+                "Learners to use a virtual fire extinguisher to put out a virtual fire",
+                "Learners to create videos on different safety topics",
+                "Learners to organize a recycling relay where they collect and sort recyclable materials",
+                "Learners to analyze and discuss the contents of the provided videos on safety"
+              ],
+              "learner_steps": [
+                "Learners in groups to act out different safety scenarios (environmental, pollution, physical, health hand washing)",
+                "Learners to participate in various safety-related activities",
+                "Learners to use a virtual fire extinguisher to put out a virtual fire",
+                "Learners to create videos on different safety topics and share them with the class",
+                "Learners to collect and sort out recyclable materials",
+                "Learners to watch videos on safety and analyze the content"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 40,
+              "hook": "",
+              "teacher_steps": [
+                "Learners in groups to demonstrate how to wear protective clothing correctly",
+                "Learners to demonstrate the proper way to handle, use and store the kitchen tools safely including other safety practices",
+                "Learners to observe a classroom setup and identify potential safety hazards",
+                "Learners to use online interactive simulation to test and improve their food safety knowledge",
+                "Critique and analyse work done by the groups and pairs"
+              ],
+              "learner_steps": [
+                "Learners to display protective clothing and kitchen tools",
+                "Learners in groups to demonstrate how to wear protective clothing correctly",
+                "Learners to demonstrate the proper way to handle, use and store the kitchen tools safely",
+                "Learners to role-play tasks in pairs where one demonstrates unsafe practice",
+                "Learners to engage in a hands-on simulation before cooking",
+                "Learners to identify mistakes or good practice and discuss potential accidents",
+                "Learners to use online interactive simulation to test food safety knowledge"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 42,
+              "hook": "",
+              "teacher_steps": [
+                "Learners explore and recognize examples of different safety symbols on appliances, packaging and other kitchen tools",
+                "Learners set up an obstacle course where they must avoid or respond to various kitchen hazards",
+                "Learners to design new kitchen safety symbols",
+                "Learners to watch videos to show learners' different virtual cooking classes with safety symbols",
+                "Learners work in groups to respond to different kitchen safety scenarios",
+                "Critique and Analyse work done by the groups"
+              ],
+              "learner_steps": [
+                "Learners to explore and recognize examples of different safety symbols",
+                "Learners to set up a relay race where students need to identify and act on different kitchen safety symbols",
+                "Learners to set up an obstacle course where they must avoid or respond to various kitchen hazards",
+                "Learners to design new kitchen safety symbols",
+                "Learners to watch a virtual story or animation of a kitchen accident",
+                "Learners to use Augmented Reality headsets or apps",
+                "Learners to use a flashcard app or website to study kitchen safety symbols"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "4",
+              "page": 45,
+              "hook": "",
+              "teacher_steps": [
+                "Learners to Identify Key Hazards",
+                "Learners to Brainstorm visual ideas",
+                "Learners to write concise and impactful text for their posters",
+                "Learners to design draft versions of their posters",
+                "Learners to show the draft posters to colleagues for feedback",
+                "Learners Print their posters on durable material"
+              ],
+              "learner_steps": [
+                "Learners to design different posters representing ways of safety in the kitchen",
+                "Learners to create a rough sketch of their poster",
+                "Learners to design and make a cartoon image",
+                "Learners to gamify safety practices",
+                "Learners to learn how to prevent accidents and injuries through interactive simulations"
+              ]
+            }
+          ],
+          "short_notes": "This sub-topic introduces learners to safety precautions that prevent accidents and injuries in the kitchen and food laboratory. It helps them know how they can be protected as individuals from food borne illnesses, infections, and other health hazards. Learners will acquire skills on handling of food safely, storing food at correct temperatures, and avoiding cross-contamination which is crucial among other things in their daily lives and future career prospects. Following safety precautions can prevent food poisoning, which can be life-threatening. Accidents such as burns, cuts, and electrical shocks can also be prevented. Allergic reactions which can be severe will be prevented and lives can be saved. By following safety guidelines, individuals can ensure a safe and healthy environment. Environmental safety involves food handling and storage (Food should be handled and stored properly to prevent contamination and spoilage), food waste management (Proper disposal of food waste is important to prevent environmental pollution), and pest control (Methods to control pests in food preparation and storage areas must be known). Physical safety includes kitchen safety (Safe use of kitchen equipment, utensils, and appliances), food preparation safety (safe handling of food during preparation, including proper cutting, chopping, and cooking techniques), and fire safety (prevention and response to kitchen fires). Healthy safety includes personal hygiene (importance of personal hygiene practices, such as hand washing ad proper attire), food borne illnesses (prevention and control of foodborne illnesses, including proper food handling and cooking techniques), and allergens and intolerances (identification and management of common food allergens and intolerances). Wearing protective clothing means always wearing a clean apron to prevent contamination, using a hair net or cap to keep hair from falling into food, wearing shoes to prevent injuries from spills or falling objects, and using gloves when handling raw food to maintain hygiene. Proper tool handling involves holding knives with a firm grip and cutting away from the body, using the correct tool for each task, storing sharp tools safely to prevent accidents, and keeping kitchen tools clean and dry to prevent contamination. Personal hygiene and kitchen cleanliness includes washing hands before and after handling food, keeping finger nails short and clean, cleaning and disinfecting work surfaces before and after use, and disposing of waste properly to avoid contamination. Fire and Electric Safety means turning off stoves and electrical appliances when not in use, using dry hands when handling electrical equipment, and knowing the location of the fire extinguisher and how to use it. Safe Food Handling involves storing food at the right temperature to prevent spoilage, avoiding cross-contamination by using separate cutting boards for raw and cooked foods, and cooking food to the recommended temperature to kill bacteria. Safety symbols and their meanings should be understood and followed.",
+          "vocabulary": [
+            {
+              "term": "Safety",
+              "definition": "Refers to the protection of people, property, and the environment from harm, injury, or damage"
+            }
+          ],
+          "assessment": {
+            "page": 49,
+            "questions": [
+              {
+                "type": "open_ended",
+                "question": "You notice a small grease fire has started on the stovetop while cooking. Describe the steps you would take to safely extinguish the fire.",
+                "sample_answer": "Immediately turn off the burner. Then, attempt to smother the flames using a lid if available, or baking soda if readily accessible. Never use water on a grease fire. If the fire is large or uncontrollable, use the fire extinguisher, aiming at the base of the flames, or evacuate the area and call emergency services."
+              },
+              {
+                "type": "open_ended",
+                "question": "You are preparing a meal that requires using both raw chicken and fresh vegetables. Explain the procedures you would follow to prevent cross-contamination and ensure food safety.",
+                "sample_answer": "Start by thoroughly washing my hands before and after handling raw chicken. Use separate cutting boards and utensils for the chicken and vegetables. The chicken would be prepared first, and all surfaces and utensils that came into contact with it would be washed with hot, soapy water. The vegetables would then be prepared. Ensure the chicken is cooked to the proper internal temperature to eliminate any harmful bacteria."
+              },
+              {
+                "type": "open_ended",
+                "question": "While rushing to complete a recipe, you accidentally cut your finger. Describe the steps you would take to treat the cut and prevent further injury.",
+                "sample_answer": "Immediately stop what you doing and wash the cut thoroughly with soap and water. Apply pressure to the wound using a clean cloth to stop the bleeding. If the bleeding is severe or doesn't stop, seek medical attention. Once the bleeding is controlled, apply a bandage to protect the wound. Finally, reassess my cutting technique to prevent future incidents."
+              }
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.1.6",
+          "title": "First Aid",
+          "page": 51,
+          "competences": [
+            "Apply first aid on common accidents"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 51,
+              "hook": "",
+              "teacher_steps": [
+                "Introduce the topic of kitchen and food lab safety",
+                "Prepare accident scenario cards with different scenarios according to groups",
+                "Demonstrate basic first aid techniques for common accidents",
+                "Discuss the safe use of kitchen and food lab equipment",
+                "Review the common accidents that occur in the kitchen and food lab"
+              ],
+              "learner_steps": [
+                "Learners to be aware of the kitchen or food lab hazards",
+                "Learner to use available resources (first aid kit and fire extinguishers)",
+                "Learners to practice safety protocols",
+                "Learners to enhance decision-making skills in emergency situations",
+                "Learners to use virtual reality simulations",
+                "Learners to use mobile apps to provide access to first aid training"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 54,
+              "hook": "",
+              "teacher_steps": [
+                "Introduce the concept of first aid and the importance of having a first aid box",
+                "Show the students the first aid box and its contents",
+                "Ask each group to identify the items in the first aid box",
+                "Demonstrate the proper use of selected first aid box items",
+                "Review the contents of the first aid box and their uses"
+              ],
+              "learner_steps": [
+                "Learner to practice using the first aid box contents",
+                "Learners to participate in real-life scenarios that require the use of first aid box contents",
+                "Learners to engage in group discussions on the importance of first aid",
+                "Learners to participate in simulated scenarios",
+                "Learners to participate in online simulations",
+                "Learners to participate in interactive video training",
+                "Learners to use virtual reality headsets to practice using first aid box contents"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 56,
+              "hook": "",
+              "teacher_steps": [
+                "Learners to role play different activities in relation to the introduced first aid accidents",
+                "Learners to create a virtual kitchen scenario",
+                "Learners to apply fake wound application",
+                "Learners to use models or dummies to practice first aid techniques",
+                "Learners to create video-based scenarios"
+              ],
+              "learner_steps": [
+                "Learners in groups to select one as a victim and others playing as the first aider",
+                "Learners in groups to role play various first aid scenarios",
+                "Learners to create a virtual kitchen scenario",
+                "Learners to apply fake wound application",
+                "Learners to use models or dummies to practice first aid techniques",
+                "Learners to create video-based scenarios",
+                "Learners to practice responding to emergencies in a virtual environment"
+              ]
+            }
+          ],
+          "short_notes": "First aid is the immediate help or care given to someone who has been injured or is suddenly ill. It is essential for saving lives, reducing the severity of injuries, and promoting recovery. By applying first aid principles such as prompt response, effective care, and risk reduction, learners will be able to respond effectively to common accidents in the kitchen and laboratory, and promote a safe and healthy environment. First aid is the initial care and assistance provided to a person who has been injured or suddenly taken ill. It is the temporary and immediate treatment given to a person until medical help arrives or the person can receive proper medical attention. The main purpose of first aid is to provide immediate care and stabilize the person's condition until medical professionals can take over. First aid is designed to: Preserve life, Prevent further harm or injury, Promote recovery, and Provide comfort and reassurance. Burns/scalds: Cool the burn by running cool tap water over the burn for 10-15 minutes, remove clothing and jewelry gently, apply topical antibiotic ointment to prevent infection, and cover the burn with a non-stick, sterile bandage. Never use ice or ice water to cool a burn. Cuts and lacerations: Stop the bleeding by applying gentle pressure to the cut using a clean cloth or bandage, clean the wound by rinsing with cool or lukewarm water and mild soap, apply antibiotic ointment, and cover the wound with a sterile bandage. Apply pressure to the cut for at least 5 minutes. Fractures and sprains: Stop any activity that may have caused the injury, apply an ice pack wrapped in a cloth to the affected area, immobilize the affected area using a splint or sling, and seek medical attention if the pain persists or worsens. Never attempt to move or straighten a fractured limb. First Aid Box Content includes: Bandages and wound dressings, Gauze pads and rolls, Medical tape, Antiseptic wipes and spray, Antibiotic ointment, Pain relievers, Antihistamines, Burn cream, Eye wash solution, and First aid manual. Role playing is acting out real-life situations to learn how to respond. It helps learners to practice first aid skills in a fun and interactive way, understand first aid procedures for common accidents, encourage practical problem solving and team work, identify causes and prevention of cuts, burns and fractures, demonstrate basic first aid steps for each type of accident, and build confidence in handling emergencies.",
+          "vocabulary": [
+            {
+              "term": "First Aid",
+              "definition": "Refers to the initial care and treatment provided to a person who has been injured or suddenly fallen ill to preserve life, prevent further harm, and promote recovery"
+            }
+          ],
+          "assessment": {
+            "page": 58,
+            "questions": [
+              {
+                "type": "mcq",
+                "question": "Identify the first step in responding to a medical emergency?",
+                "options": [
+                  "Call for medical help",
+                  "Provide care",
+                  "Assess the situation",
+                  "Use personal protective equipment"
+                ],
+                "answer": "Assess the situation"
+              },
+              {
+                "type": "mcq",
+                "question": "Describe the first aid you would give to someone is bleeding heavily?",
+                "options": [
+                  "Apply a tourniquet",
+                  "Apply pressure to the wound",
+                  "Elevate the injured area",
+                  "Apply ice to the wound"
+                ],
+                "answer": "Apply pressure to the wound"
+              },
+              {
+                "type": "mcq",
+                "question": "Explain how to treat a burn?",
+                "options": [
+                  "Apply ice to the burn",
+                  "Apply cool water to the burn",
+                  "Apply antibiotic ointment to the burn",
+                  "Cover the burn with a bandage"
+                ],
+                "answer": "Apply cool water to the burn"
+              },
+              {
+                "type": "short_answer",
+                "question": "Identify steps to follow when responding to a cardiac arrest?",
+                "sample_answer": "Call for medical help, start CPR (30 chest compressions followed by two breaths), and continue until medical help arrives."
+              },
+              {
+                "type": "short_answer",
+                "question": "Demonstrate how to treat a broken bone.",
+                "sample_answer": "Immobilize the injured area with a splint or sling, apply ice to reduce swelling, elevate the injured area above heart level, and seek medical attention."
+              },
+              {
+                "type": "scenario",
+                "question": "A colleague slips and falls in the kitchen, hitting his head on the counter. He is unconscious but breathing. What do you do?",
+                "sample_answer": "Call for medical help, check the airway, breathing, and circulation (ABCs), and provide care until medical help arrives."
+              },
+              {
+                "type": "scenario",
+                "question": "A learner is stung by a bee and is experiencing severe allergic reaction symptoms (hives, difficulty breathing, rapid heartbeat). What do you do?",
+                "sample_answer": "Call for medical help, administer epinephrine (if trained), and provide care until medical help arrives."
+              },
+              {
+                "type": "essay",
+                "question": "Analyse the steps to follow when responding to a medical emergency, including assessing the situation, calling for medical help, and providing care.",
+                "sample_answer": "Student should provide a detailed description of the steps to follow when responding to a medical emergency"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

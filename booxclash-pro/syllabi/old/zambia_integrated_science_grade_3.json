@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "3",
+    "subject": "Integrated Science"
+  },
+  "topics": [
+    {
+      "unit": "UNIT1: The Human Body",
+      "topic_title": "3.1.0 The human body",
+      "page_number": 30,
+      "subtopics": [
+        "3.1.1 Mouth"
+      ],
+      "learning_outcomes": [
+        "3.1.1.1 State the function of the teeth and tongue"
+      ]
+    },
+    {
+      "unit": "UNIT1: The Human Body",
+      "topic_title": "3.1.0 The human body",
+      "page_number": 31,
+      "subtopics": [
+        "3.1.2 Nose"
+      ],
+      "learning_outcomes": [
+        "3.1.2.1 State the function of the nose"
+      ]
+    },
+    {
+      "unit": "UNIT1: The Human Body",
+      "topic_title": "3.1.0 The human body",
+      "page_number": 31,
+      "subtopics": [
+        "3.1.3 Structure of the Body"
+      ],
+      "learning_outcomes": [
+        "3.1.1.1 Demonstrate the movement of arms and legs",
+        "3.1.1.2 Name the major movable joints in the body.",
+        "3.1.1.3 Explain the role played by bones, joints and muscles."
+      ]
+    },
+    {
+      "unit": "UNIT1: The Human Body",
+      "topic_title": "3.1.0 The human body",
+      "page_number": 32,
+      "subtopics": [
+        "3.1.3 Structure of the Body"
+      ],
+      "learning_outcomes": [
+        "3.1.1.4 Explain what happens if a bone gets broken.",
+        "3.1.1.5 Identify the major parts of the human skeleton"
+      ]
+    },
+    {
+      "unit": "UNIT2: Health",
+      "topic_title": "3.2.0 Health",
+      "page_number": 33,
+      "subtopics": [
+        "3.2.1 Food"
+      ],
+      "learning_outcomes": [
+        "3.2.1.1 State the importance of food",
+        "3.2.1.2 Classify foods according to their nutrients.",
+        "3.2.1.3 Demonstrate the composition of a balanced diet for health from available foods."
+      ]
+    },
+    {
+      "unit": "UNIT2: Health",
+      "topic_title": "3.2.0 Health",
+      "page_number": 33,
+      "subtopics": [
+        "3.2.2 Drug Abuse"
+      ],
+      "learning_outcomes": [
+        "3.2.2.1 Identify common drugs in the community.",
+        "3.2.2.2 Explain the effects of taking too much drugs"
+      ]
+    },
+    {
+      "unit": "UNIT2: Health",
+      "topic_title": "3.2.0 Health",
+      "page_number": 33,
+      "subtopics": [
+        "3.2.3 Illnesses and diseases"
+      ],
+      "learning_outcomes": [
+        "3.2.3.1 Identify the common causes of diseases",
+        "3.2.3.2 List common diseases in the community",
+        "3.2.3.3 Distinguish between infectious and non-infectious diseases",
+        "3.2.3.4 Explain different ways of preventing diseases"
+      ]
+    },
+    {
+      "unit": "UNIT3: The Environment",
+      "topic_title": "3.3.0 The Environment",
+      "page_number": 33,
+      "subtopics": [
+        "3.3.1 Soil formation"
+      ],
+      "learning_outcomes": [
+        "3.3.1.1 State what weathering is.",
+        "3.3.1.2 Identify the agents of weathering in soil formation",
+        "3.3.1.3 Demonstrate the formation of soil layers."
+      ]
+    },
+    {
+      "unit": "UNIT4: Plants and Animals",
+      "topic_title": "3.4.0 Plants and Animals",
+      "page_number": 34,
+      "subtopics": [
+        "3.4.1 Plant Classification"
+      ],
+      "learning_outcomes": [
+        "3.4.1.1 Classify plants into flowering and non- flowering."
+      ]
+    },
+    {
+      "unit": "UNIT4: Plants and Animals",
+      "topic_title": "3.4.0 Plants and Animals",
+      "page_number": 34,
+      "subtopics": [
+        "3.4.2 Animal Classification"
+      ],
+      "learning_outcomes": [
+        "3.4.2.1 Classify animals into vertebrates and invertebrates.",
+        "3.4.2.2 Classify vertebrates into their groups."
+      ]
+    },
+    {
+      "unit": "UNIT4: Plants and Animals",
+      "topic_title": "3.4.0 Plants and Animals",
+      "page_number": 34,
+      "subtopics": [
+        "3.4.3 Homes of living things"
+      ],
+      "learning_outcomes": [
+        "3.4.3.1 Identify different places where animals and plants live"
+      ]
+    },
+    {
+      "unit": "UNIT5: Materials and Energy",
+      "topic_title": "3.5.0 Materials and energy",
+      "page_number": 34,
+      "subtopics": [
+        "3.5.1 Three States of matter"
+      ],
+      "learning_outcomes": [
+        "3.5.1.1 Demonstrate the effect of heating and cooling on matter",
+        "3.5.1.2 Demonstrate the process of melting, evaporation and freezing."
+      ]
+    },
+    {
+      "unit": "UNIT5: Materials and Energy",
+      "topic_title": "3.5.0 Materials and energy",
+      "page_number": 35,
+      "subtopics": [
+        "3.5.2 Solutions"
+      ],
+      "learning_outcomes": [
+        "3.5.2.1 Demonstrate the existence of saturated and unsaturated solutions"
+      ]
+    }
+  ]
+}

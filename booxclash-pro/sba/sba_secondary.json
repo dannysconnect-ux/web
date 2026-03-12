@@ -1,0 +1,108 @@
+{
+  "Secondary_SBA_Comprehensive_Guidelines": {
+    "Global_Rules": {
+      "Rounding_Rule": "All fractional/decimal marks must be rounded to the nearest whole number (e.g., 6.5 becomes 7).",
+      "Submission_Deadline": "31st July of the examination year via OMES."
+    },
+    "Subjects": {
+      "Geography": {
+        "Paper_Code": "2218/3 (Field Project)",
+        "Grading_Rules": {
+          "Max_Raw_Marks": 60,
+          "Calculation": "Learner_Raw_Score / 5",
+          "Total_Contribution": "12% (Note: A score of 50/60 translates to 10% toward the certificate)"
+        },
+        "Syllabus_Tasks": {
+          "Grade_10": ["Theoretical aspect of the project", "Formulation of the project proposal (Title, aim, objectives, methodology)"],
+          "Grade_11": ["Data collection", "Data analysis"],
+          "Grade_12": ["Report writing and finalisation"]
+        }
+      },
+      "French": {
+        "Grading_Rules": { "Total_Contribution": "40% (15% G10 + 15% G11 + 10% G12)" },
+        "Grade_10": { "Calculation": "(Obtained_Mark / 300) * 15" },
+        "Grade_11": { "Calculation": "(Obtained_Mark / 360) * 15" },
+        "Grade_12": { "Calculation": "(Obtained_Mark / 180) * 10" },
+        "Syllabus_Tasks": [
+          "Oral: Free Conversation, Reading, Interpretation",
+          "Aural: Listening Comprehension, Translation, Dictation"
+        ]
+      },
+      "Chinese_Language": {
+        "Grading_Rules": { "Total_Contribution": "40% (15% G10 + 15% G11 + 10% G12)" },
+        "Grade_10": { "Calculation": "(Obtained_Mark / 345) * 15" },
+        "Grade_11": { "Calculation": "(Obtained_Mark / 480) * 15" },
+        "Grade_12": { "Calculation": "(Obtained_Mark / 270) * 10" },
+        "Syllabus_Tasks": [
+          "Oral: Repetition, Guided Conversation, Prepared Speech",
+          "Aural: Picture-Sentence Interpretation, Situational Interpretation, Short Listening Comprehension, Long Listening Comprehension"
+        ]
+      },
+      "Agricultural_Science": {
+        "Grading_Rules": {
+          "Total_Contribution": "25% Total",
+          "Grade_10_and_11_Calculation": "(Learner_SBA_Mark / 40) * 10",
+          "Grade_12_Calculation": "(Learner_SBA_Mark / 20) * 5"
+        },
+        "Syllabus_Tasks": {
+          "Practical_Paper_3": ["10 tasks drawn from syllabus topics covered at each level (Grades 10-12)"],
+          "Project_Paper_2_Crops": ["Growth rates", "Germination percentage", "Choice of enterprise", "Land preparation", "Planting", "Management"],
+          "Project_Paper_2_Animals": ["Growth rates (pigs, broilers, rabbits)", "Food conversion ratio", "Choice of enterprise", "Management practices"]
+        }
+      },
+      "Biology": {
+        "Paper_Code": "Paper 3 Practical",
+        "Grading_Rules": {
+          "Total_Contribution": "25% Total",
+          "Grade_10_and_12_Calculation": "(Learner_SBA_Mark / 50) * 8",
+          "Grade_11_Calculation": "(Learner_SBA_Mark / 50) * 9"
+        },
+        "Syllabus_Tasks": {
+          "Grade_10_to_12": ["15 tasks (5 per grade) based on syllabus topics"]
+        }
+      },
+      "Science_Physics_Chemistry": {
+        "Paper_Code": "Paper 3 Practical",
+        "Grading_Rules": {
+          "Total_Contribution": "20% Total",
+          "Grade_10_and_11_Calculation": "(Learner_SBA_Mark / 120) * 8",
+          "Grade_12_Calculation": "(Learner_SBA_Mark / 80) * 4"
+        },
+        "Syllabus_Tasks": {
+          "Grade_10_to_12": [
+            "16 tasks total (Physics components and Chemistry components combined)",
+            "15 tasks (5 per grade) specifically based on Pure Physics/Chemistry topics"
+          ]
+        }
+      },
+      "Computer_Studies": {
+        "Grading_Rules": {
+          "Total_Contribution": "30% Total",
+          "Calculation": "(Learner_Score / Total_Possible) * 30"
+        },
+        "Syllabus_Tasks": {
+          "Grade_10": ["Databases (Microsoft Access)", "Spreadsheet"],
+          "Grade_11": ["Programming (Chosen Language)"],
+          "Grade_12": ["SQL Programming"]
+        }
+      },
+      "Practical_Subjects": {
+        "Grading_Rules": {
+          "Home_Economics_and_Art": "(Learner_SBA_Mark / 100) * 50",
+          "Musical_Arts_Education": "(Learner_SBA_Mark / 30) * 30",
+          "Physical_Education": "(Learner_SBA_Mark / 30) * 30",
+          "Design_and_Technology": "(Learner_SBA_mark / 110) * 100"
+        },
+        "Syllabus_Tasks": {
+          "Home_Management_Senior_G12": ["Laundry", "Entrepreneurship (Project)", "Food and Nutrition and Housecraft"],
+          "Food_and_Nutrition_Senior_G12": ["Beverages and Snacks", "Balanced Meals", "Baking"],
+          "Fashion_and_Fabrics_Senior_G12": ["Garment Designing", "Garment Construction and Crafts", "Cutting and Sewing", "Portfolio"],
+          "Musical_Arts_Education": ["Sight Reading", "Performing"],
+          "Physical_Education": ["Recreational games", "Gymnastics", "Perceptual motor skills", "Fitness", "Sports activities"],
+          "Art_and_Design": ["Still life", "Observation", "Living Person", "Imaginative Composition", "Design on Paper", "Coursework"],
+          "Design_and_Technology": ["Project work based on a provided 'Theme'"]
+        }
+      }
+    }
+  }
+}

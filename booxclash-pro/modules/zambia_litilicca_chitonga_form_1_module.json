@@ -1,0 +1,578 @@
+{
+    "subject": "Litilicca mu Chitonga (Literature in Chitonga)",
+    "grade": "Form 1",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "Matalikilo aa Litilicca (Introduction to Literature)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Kupandulula Litilicca (Defining Literature)",
+                    "page": 12,
+                    "competences": [
+                        "Kupandulula Litilicca (Define Literature)",
+                        "Kundandamika bupanduluzi bwa Litilicca bwiindene-indene (Explore comprehensive definitions of Literature)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.1",
+                            "page": 12,
+                            "hook": "Ino nikwanyina zyakuswiilizya akweebela buumi nibwali buti? (Now, what if there was nothing to listen to and entertain life, what would it be like?)",
+                            "teacher_steps": [
+                                "Sololela basicikolo kundandamika bupanduluzi bwa Litilicca",
+                                "Gwasyilizya basicikolo kubambulula bupanduluzi mbubapa"
+                            ],
+                            "learner_steps": [
+                                "Bandandamike bupanduluzi bwa Litilicca"
+                            ],
+                            "short_notes": "Litilicca yiitwa kuti nzyamumabbuku (Literature is what's in books). Caamba milimo yamizeezo yabantu iibikkidwe mubulembo (It describes people's thoughts expressed in writing). Caamba kuzubulula buumi mumabala akasimpe mabotu (It describes revealing life in beautiful ways). Caamba zyintu zyilembedwe (It describes written things). Ninzila yakubwezelela, kuyobola akupa luzyibo akulikkomaninsya kuzwa kuzyalane lyomwe kuya kuli limbi (It's a way to recall, transmit knowledge and connect generations). Ilajatikizya bulembo buzubulula zyilengwa Leza mbozyiswaangana amaumi aabantu (It includes writing revealing God's creations as they relate to people's lives). Iimimina kutondezya kulimvwa kwabantu muzyooko mobakkala (It helps show people's feelings in their communities). Tacaambi biyo zyintu zyilembedwe zyilikke pele azyeezyo zyaambaulwa amulomo (It doesn't only speak of written things but also those spoken orally)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.2",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Sololela basicikolo kuti basansulule bupanduluzi bomwe-bomwe bwapegwa kweendelanya ambubacimvwa",
+                                "Gwasyilizya basicikolo kubambulula busansuluzi mbubapa bwaLitilicca"
+                            ],
+                            "learner_steps": [
+                                "Basansulule bupanduluzi bwa Litilicca bwapegwa"
+                            ],
+                            "short_notes": "Detailed analysis of each definition component to understand why Literature encompasses both oral and written forms, how it preserves culture, and how it expresses human experience."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.3",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ambila basicikolo kuti bapandulule mumajwi aabombo bayeeya kuti Litilicca ninzi",
+                                "Lulamika bupanduluzi bulubide bupa basicikolo akukulwaizya buluzi"
+                            ],
+                            "learner_steps": [
+                                "Bapandulule mumajwi aabombo bayeeya kuti Litilicca ninzi"
+                            ],
+                            "short_notes": "Litilicca caamba nzila bantu nzyobabelesya kutondezya kulimvwa kwabo kujatikizya zyintu zyicitika mumaumi aabo (Literature describes ways people express their feelings about things happening in their lives and communities)."
+                        }
+                    ],
+                    "short_notes": "Litilicca caamba nzila bantu nzyobabelesya kutondezya kulimvwa kwabo kujatikizya zyintu zyicitika mumaumi aabo mukulemba zyaano, kukanana, kusobana, kwiimba anzila zyimwi biyo.",
+                    "vocabulary": [
+                        {
+                            "term": "Kunsunsaula",
+                            "definition": "Kupandulula cintu cakusindinganya (To explain clearly)"
+                        },
+                        {
+                            "term": "Kusalangunya",
+                            "definition": "Kulanganya cintu cakusininzya kutegwa ucimvwisisisye (To examine carefully)"
+                        },
+                        {
+                            "term": "Kunongaula",
+                            "definition": "Kulanga-langa cintu kusola kujana bubotu nokuba bubi (To evaluate)"
+                        },
+                        {
+                            "term": "Kwabulana",
+                            "definition": "Kuvwiilana kucitika akati kamuntu waambaula abateelezya (Dialogue)"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 15,
+                        "questions": [
+                            "Basicikolo bakayanda ule bupanduluzi bubimbi bwa Litilicca kuŋanda",
+                            "Sicikolo omwe-omwe alembe bupanduluzi bwakwe mwini bomwe bwa Litilicca mubbuku lyamilimo",
+                            "Bayibapemulimo kweendelanya aciiyo"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Kusalangunya bupanduluzi bwiindene-indene bwa Litilicca",
+                    "page": 16,
+                    "competences": [
+                        "Kusalangunya bupanduluzi bwa Litilicca bwaandeene-andeene"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.1",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kopa basicikolo bupanduluzi bwiindene-indene bwa Litilicca akubulanga-langa kuti mbubuli buzulide kabotu",
+                                "Banongaule bomwe-bomwe akujana mapenzi abubotu",
+                                "Gwasyilizya basicikolo ciindi nobanongaula bupanduluzi"
+                            ],
+                            "learner_steps": [
+                                "Batondezye bupanduluzi mbobayeeya kuti mbobubo bweelela ncobeni kweendelanya azyiyiigwa muciiyo"
+                            ],
+                            "short_notes": "Critical analysis of multiple definitions to determine correctness and appropriateness."
+                        }
+                    ],
+                    "short_notes": "Litilicca ilijisi bupanduluzi bwaandeene-andeene kweendelanya abalembi mbobacimvwa ciiyo eeci.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 17,
+                        "questions": [
+                            "Basicikolo basale bupanduluzi bomwe kuliboobu bwayiigwa, bamana balembe twaambo ntobayeeya kuti mbobweelede",
+                            "Basicikolo basale abumwi bupanduluzi mbobayeeya kuti tabuzulide, bamana balembe twaambo ncobayeeyelaboobo"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "Kubamba bupanduluzi bwa Litilicca",
+                    "page": 18,
+                    "competences": [
+                        "Kubamba bupanduluzi bwabo bwa Litilicca"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.1",
+                            "page": 18,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ambila basicikolo kuti babambe bupanduluzi bwabo bwa Litilicca kweendelanya ambubacimvwa ciiyo eeci",
+                                "Gwasyilizya basicikolo kubona kuti mubandi weenda kabotu"
+                            ],
+                            "learner_steps": [
+                                "Basicikolo bamana kulanganya akusalangunya bupanduluzi bwa Litilicca bwiimpene-impene bwapegwa, babambe bupanduluzi bwabo beni kweendelanya ambubacimvwa ciiyo"
+                            ],
+                            "short_notes": "Students construct their own definitions based on critical analysis of various perspectives on Literature."
+                        }
+                    ],
+                    "short_notes": "Ciindi basicikolo nibamana kusalangunya akulanganya bupanduluzi bwaandeene-andeene, balajana luzyibo lujatikizya mizeezo iizwa mubupanduluzi oobu.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 18,
+                        "questions": [
+                            "Babambe bupanduluzi bumbimbi bwa Litilicca",
+                            "Kubupanduluzi mbubabamba, basale lembo bayeeya kuti bulizulide kwiinda bumwi",
+                            "Abalembe twaambo tukkutwa tuzuzikizya kuti bupanduluzi bwabo buleelela ncobeni"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "Misyobo Ya Litilicca (Types/Forms of Literature)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Litilicca yakumulomo (Oral Literature)",
+                    "page": 20,
+                    "competences": [
+                        "Babandike zyijatikizya Litilicca yakumulomo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.1",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ambila basicikolo kucita cimwi cintu (kwiimba, kulabika, kwaana, kusobana, kweema) cijatikizya Litilicca yakumulomo",
+                                "Ambila basicikolo misyobo ya Litilicca eeyi yaambwa moizulilwa",
+                                "Belesya nzila zyimbi zyeendelana amutwe"
+                            ],
+                            "learner_steps": [
+                                "Bacite malailile aabapa bayi babo"
+                            ],
+                            "short_notes": "Litilicca yakumulomo ndibbala lijisi bupanduluzi bunji lyalo lijatikizya kufwumbwa eeco cimwaigwa amulomo. Eeci ncibeela cipati nkaambo cilatondezya zyakali kucitika kaitanaba Litilicca iilembedwe."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.2",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Sololela basicikolo mumubandi wakulanganya kutondezya Litilicca yakumulomo"
+                            ],
+                            "learner_steps": [
+                                "Babandike kweendelanya amalailile aapa mwiiyi"
+                            ],
+                            "short_notes": "Ijwi libandikwa ndiyandisi. Litilicca yakumulomo kanji-kanji ijatikizya kucita cimwi cintu mbuli kwiimba akuzyana, kutondaika akukwabulana abeebelezya. Ilitolelela kucooko acooko ciibamba akwiibelesya."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.3",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Gwasyilizya basicikolo kutondezya misyobo ya Litilicca yakumulomo",
+                                "Tondezya basicikolo tubunga twamisyobo ya Litilicca yakumulomo"
+                            ],
+                            "learner_steps": [
+                                "Babikke misyobo ya Litilicca yakumulomo mutubunga ntubatondezyegwa abayi"
+                            ],
+                            "short_notes": "ZYAANO: Stories explaining origins, praising experts, entertaining and teaching. ZYEEMO: Short poems expressing feelings. TUSIMPI/TWAAMBYO: Proverbs with condensed wisdom. TULABI: Riddles requiring critical thinking. NYIMBO: Songs for various purposes. KWAAMBILILA: Prayers to God."
+                        }
+                    ],
+                    "short_notes": "Litilicca yakumulomo ilacitwa mumajwi kwiinda mukwaambaula, kwiimba, kwaana, kulabika, kweema, kwaambilila, kusobana azyimwi biyo.",
+                    "vocabulary": [
+                        {
+                            "term": "Kwiibilizya",
+                            "definition": "Kunoneenzya kwacintu cicitika"
+                        },
+                        {
+                            "term": "Mituni",
+                            "definition": "Zyibumbwa bamwi nzyobasyoma akupaila"
+                        },
+                        {
+                            "term": "Syaabupampu",
+                            "definition": "Kucizyiba kubeleka mulimo umwi bweelede"
+                        },
+                        {
+                            "term": "Kankobela",
+                            "definition": "Ncibelesyo cakwiimba antela kweema"
+                        },
+                        {
+                            "term": "Zyilengwa Leza",
+                            "definition": "Zyintu zyaka lengwa amulengi (Leza)"
+                        },
+                        {
+                            "term": "Bbumbili",
+                            "definition": "Busena bubambidwe kuti mbwakusobanina"
+                        },
+                        {
+                            "term": "Kuwentuzya",
+                            "definition": "Kutamvwa kabotu muntu ncaamba"
+                        },
+                        {
+                            "term": "Masunko",
+                            "definition": "Kulimvwa kuyanda kucita cibi"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 25,
+                        "questions": [
+                            "Basicikolo babambe kasobano kakwaambilila",
+                            "Basicikolo baimbe, beeme nokuba kwaana",
+                            "Basicikolo bakayobolole twaambyo"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Litilicca iilembedwe (Written Literature)",
+                    "page": 26,
+                    "competences": [
+                        "Kubandika Litilicca iilembedwe"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.1",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ambila basicikolo bapandulule Litilicca iilembedwe ncoyaamba",
+                                "Gwasyilizya basicikolo kululamika bupanduluzi mbubapa"
+                            ],
+                            "learner_steps": [
+                                "Bapandulule Litilicca iilembedwe ncoyaamba"
+                            ],
+                            "short_notes": "Litilicca iilembedwe yaamba luzyibo lusimbidwe lwalo lutondezya buponi bwabantu. Ijatikizya mabbuku, zyaano, zyeemo, milaso, zyisobano azyimwi."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.2",
+                            "page": 27,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Sololela basicikolo mukutondezya Litilicca iilembedwe"
+                            ],
+                            "learner_steps": [
+                                "Batondezye Litilicca iilembedwe munzila yiinda kuli yomwe"
+                            ],
+                            "short_notes": "Litilicca iilembedwe ibelesya bulembo kumwaya akuyobola luzyibo kwiinda mumabbuku, miteende, mafooni azyimwi. Eeci cipa kuti kiikkala kwaciindi cilamfwu akumwaigwa kule."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.3",
+                            "page": 27,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Sololela basicikolo kwaapaula misyobo ya Litilicca iilembedwe",
+                                "Gwasyilizya basicikolo kubona kuti bwaapauzi bwacitwa bweelede"
+                            ],
+                            "learner_steps": [
+                                "Baapaule misyobo ya Litilicca iilembedwe"
+                            ],
+                            "short_notes": "ZYAKULENGELEZYA: Tubbuku (Books), Twaano tufwaafwi (Short stories), Novela (Novels), Zyeemo (Poems), Zyisobano (Dramas). ZYAMASIMPE: Milaso (Prose), Caano cabuponi bwamuntu (Biography), Caano camulembi lwakwe (Autobiography), Caano catunsiya-nsiya (Non-fiction), Malembo aabunsengwe (Creative writing)."
+                        }
+                    ],
+                    "short_notes": "Litilicca iilembedwe yaamba luzyibo lusimbidwe lwalo lutondezya buponi bwabantu. Ijatikizya mabbuku, zyaano, zyeemo, milaso, zyisobano azyimwi.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 29,
+                        "questions": [
+                            "Basicikolo balembe caano cabuumi bwabo",
+                            "Basicikolo batondezye akulemba misyobo ya Litilicca iilembedwe",
+                            "Basicikolo bakavwuntauzye bube bwa Litilicca iilembedwe bwataambwa"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "Lwiindano akukozyanya kuliko akati ka Litilicca yakumulomo ailembedwe",
+                    "page": 30,
+                    "competences": [
+                        "Kukozyanya akwiindanya Litilicca yakumulomo ailembedwe"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3.1",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ambila sicikolo omwe kuti ape kaano, amana umbi abale cilembedwe",
+                                "Ambila basicikolo kuti bape lwiindano luliko kuzwa kukaano kaanwa alimwi acabalwa"
+                            ],
+                            "learner_steps": [
+                                "Basicikolo bape kukozyanya kuliko kuzwa kukaano kaanwa alimwi acabalwa"
+                            ],
+                            "short_notes": "KUKOZYANYA: Both types available to everyone, teach good culture, preserve heritage, unite people, transmit knowledge across generations. They help educate and bring communities together."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3.2",
+                            "page": 31,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Sololela basicikolo kundandamika lwiindano luliko akati ka litilicca yakumulomo ailembedwe"
+                            ],
+                            "learner_steps": [
+                                "Bandandamike lwiindano luliko akati ka Litilicca yakumulomo ailembedwe"
+                            ],
+                            "short_notes": "LWIINDANO: Oral uses voice/mouth while written uses recorded materials. Oral doesn't travel far, written can reach distant places. Oral allows immediate audience feedback, written cannot. Oral can change, written is fixed. Oral can be misheard, written remains constant."
+                        }
+                    ],
+                    "short_notes": "Litilicca ili mumisyobo yobilo; yakumulomo ailembedwe.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 33,
+                        "questions": [
+                            "Basicikolo bakavwuntauzye kukozyanya kumbi kwataambwa kuliko akati ka Litilicca yakumulomo ailembedwe",
+                            "Basicikolo balembe twaambo tutondezya lwiindano luliko akati ka Litilicca yakumulomo ailembedwe",
+                            "Basicikolo bavwuntauzye akulemba bubotu bwa Litilicca yakumulomo ailembedwe"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "Milimo Ya Litilicca (Functions/Roles of Literature)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Milimo ya Litilicca yakumulomo",
+                    "page": 34,
+                    "competences": [
+                        "Kulongolola milimo ya Litilicca yakumulomo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.1",
+                            "page": 35,
+                            "hook": "Sena kwiimba, kweema, kuyabila akubala mabbuku kulakonzya kucinca buumi bwa muntu?",
+                            "teacher_steps": [
+                                "Sololela basicikolo kundandamika milimo ya Litilicca yakumulomo",
+                                "Gwasyilizya kubona kuti mulimo wacitwa bweelede"
+                            ],
+                            "learner_steps": [
+                                "Bandandamike milimo ya Litilicca yakumulomo"
+                            ],
+                            "short_notes": "Functions: Preserving cultural heritage, developing human life, teaching good culture and wisdom, teaching healthy living, helping people think wisely, uniting communities, bringing understanding, finding peace, helping with problems, teaching and preserving daily life."
+                        }
+                    ],
+                    "short_notes": "Litilicca yakumulomo ilagwasya kapati mubuumi bwamuntu oonse munzila zyinji.",
+                    "vocabulary": [
+                        {
+                            "term": "Nceya",
+                            "definition": "Bukandu (Rest/peace)"
+                        },
+                        {
+                            "term": "Buntususu",
+                            "definition": "Nguzu zyikwabilila buponi bwabantu"
+                        },
+                        {
+                            "term": "Bunsengwe",
+                            "definition": "Nkucizyiba kubamba zyintu bweelede"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 38,
+                        "questions": [
+                            "Basicikolo balembe mbobazyibelesya zyiimbo muzyooko mobakkala",
+                            "Basicikolo basansulule milimo imbi ya Litilicca yakumulomo yatasansulwa",
+                            "Basicikolo bazumanikane (debate) kujatikizya mutwe wapegwa azya milimo ya Litilicca yakumulomo"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "Milimo ya Litilicca iilembedwe",
+                    "page": 39,
+                    "competences": [
+                        "Kulongolola milimo ya Litilicca iilembedwe"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.1",
+                            "page": 39,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Sololela basicikolo kundandamika milimo ya Litilicca iilembedwe"
+                            ],
+                            "learner_steps": [
+                                "Bandandamike milimo ya Litilicca iilembedwe"
+                            ],
+                            "short_notes": "Functions: Uniting people across distances, teaching and knowledge transmission, preserving heritage, revealing life and culture, developing language skills, understanding written materials."
+                        }
+                    ],
+                    "short_notes": "Mucibeela eeci, twalanganya milimo ya Litilicca iilembedwe, kundandamika, kusansulula akwiininina busansuluzi bwa Litilicca iilembedwe.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 44,
+                        "questions": [
+                            "Basicikolo bakalembe milimo imbi ya Litilicca iilembedwe yataambwa",
+                            "Balembe milimo ya Litilicca iilembedwe mboigwasya mubuponi bwabantu",
+                            "Bakavwuntauzye Litilicca iilembedwe mboikonzya kugwasya kwaangulula mizeezo kuzwa kukudyaamininwa abamuzwa kule"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "Litilicca Yakumulomo - Advanced (Oral Literature Advanced)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Matalikilo aamilimo ya Litilicca mutunsiya-nsiya",
+                    "page": 45,
+                    "competences": [
+                        "Kubandika milimo ya Litilicca mutunsiya-nsiya"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.1",
+                            "page": 46,
+                            "hook": "Mbubuti zyintu zyicitika muzyooko motukkala mbozyitonkelezya bantu kuti balembe mabbuku, zyaano akwaanza zyeemo nokuba zyiyabilo?",
+                            "teacher_steps": [
+                                "Sololela basicikolo kupa bupanduluzi bwamilimo yatunsiya-nsiya (zyiimbo, twaambyo, zyeemo…)",
+                                "Ambila basicikolo kuti balanganye milimo ya Litilicca mutunsiya-nsiya"
+                            ],
+                            "learner_steps": [
+                                "Baimbe, beeme, baambe twaambyo…"
+                            ],
+                            "short_notes": "NYIMBO: Songs for various purposes - praising, mourning, celebrating, communicating, prayer. TWAAMBYO: Proverbs teaching wisdom and guiding behavior. ZYAANO: Stories preserving culture and teaching lessons. KWEEMA: Poetry expressing feelings and experiences."
+                        }
+                    ],
+                    "short_notes": "Litilicca yakumulomo ijatikizya cibaka cipati naa cibeela camusyobo wa zyaano, nyimbo, zyeemo, twaambyo, tulabi amaambilambali azyimwi zyacaala zyikananwa biya naa kwiimbwa kubelesya jwi lya mulomo.",
+                    "vocabulary": [
+                        {
+                            "term": "Muyuwa",
+                            "definition": "Kagabba kakabikkwa tubwe tusyoonto kabelesyegwa kwiimba"
+                        },
+                        {
+                            "term": "Namalwa",
+                            "definition": "Ncibelesyo cimwi cibelesyegwa kuyabila"
+                        },
+                        {
+                            "term": "Tulumbu",
+                            "definition": "Cibelesyo cimbi cakubelesya ciindi cakwiimba"
+                        },
+                        {
+                            "term": "Tunyonamulaka",
+                            "definition": "Twaambo twakuzuba lulayo"
+                        },
+                        {
+                            "term": "Mangwinini",
+                            "definition": "Kulengelezya zyakusesya calo cipa kukkomana"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 51,
+                        "questions": [
+                            "Basicikolo bajane ciimbo antela caano akutondezya mbociswaangana abuponi bwabantu",
+                            "Basicikolo baanze zyeemo, kufwula zyiimbo akulemba zyaano kuzwa kuzyilengwa",
+                            "Kuzumanikana (Debate): Nyimbo zyamazubaano zyanyonganya bukkale mucisi"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.2",
+                    "title": "Misyobo Ya Litilicca Yakumulomo (Types of Oral Literature)",
+                    "page": 52,
+                    "competences": [
+                        "Kubandika zyijatikizya misyobo ya Litilicca yakumulomo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2.1",
+                            "page": 52,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Sololela basicikolo kutondezya misyobo ya Litilicca yakumulomo",
+                                "Bona kuti bana balemba misyobo yeelede"
+                            ],
+                            "learner_steps": [
+                                "Batondezye misyobo ya Litilicca yakumulomo"
+                            ],
+                            "short_notes": "Types: ZYEEMO (Poems), TUNYONA MULAKA (Tongue twisters), TWAANO (Stories), TUSIMPI (Proverbs), TULABI (Riddles), NYIMBO (Songs), MADINKU (Chants), TUSANKO (Curses), MANGWININI (Satire)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2.2",
+                            "page": 53,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Sololela basicikolo kupandulula misyobo ya Litilicca yakumulomo",
+                                "Lulamika bwiinguzi butali kabotu"
+                            ],
+                            "learner_steps": [
+                                "Bapandulule misyobo ya Litilicca yakumulomo"
+                            ],
+                            "short_notes": "Detailed definitions: ZYEEMO - poems beautifying words in expressive gestures. TUNYONA MULAKA - unclear speech for quick pronunciation practice. TWAANO - stories passed from generation to generation. TUSIMPI - wise words with hidden meaning. TULABI - words needing critical thinking. NYIMBO - songs with arranged melodious words. MADINKU - repetitive words with rhythmic sounds. TUSANKO - words used to curse or express distress. MANGWININI - satirical composition causing reflection."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2.3",
+                            "page": 54,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Sololela basicikolo mukupa mikozyanyo ya misyobo ya Litilicca yakumulomo",
+                                "Gwasyilizya kululamika mikozyanyo yapa basicikolo"
+                            ],
+                            "learner_steps": [
+                                "Basicikolo bape mikozyanyo yamisyobo ya Litilicca yakumulomo"
+                            ],
+                            "short_notes": "Examples provided: TWAANO - Story of Munene Chaatila and wisdom. TUSIMPI - Proverbs like 'Ŋombe ntaanzi njiinywa meenda mabotu'. TUNYONA MULAKA - 'Lyapya payi lyapya payi'. TULABI - Riddles with answers. TUSANKO - Curses and expressions. MANGWININI - Examples of satirical works."
+                        }
+                    ],
+                    "short_notes": "Litilicca yakumulomo ncibeela cazyaano zyaambaulwa naa kwiimbwa. Zyaano zyikananwa zyilagwasya kuselemuna tunsiya-nsiya kuzwa kumusela omwe kusika kumusela uccilila.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 56,
+                        "questions": [
+                            "Basicikolo balembe twaambyo ntobazyi",
+                            "Basicikolo bakalembe aumwi kaimbo akukaimba"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1507 @@
+{
+    "subject": "Luvale",
+    "grade": "Grade 1",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "KWAMBULULA MIJIMBU",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Kwambulula mijimbu.",
+                    "page": 21,
+                    "competences": [
+                        "Kwivwilila ku mijimbu."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.3",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "CHIHEMO"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 21,
+                        "questions": [
+                            "Kwambulula mijimbu.",
+                            "Kwambulula mijimbu yavo.",
+                            "Vaheme viyemo kwesekesa namijimbu."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "kunangakana vivumo",
+                    "page": 12,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 12,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "Kunangakana vivumo",
+                    "page": 25,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 25,
+                        "questions": [
+                            "Vevwilile vasona-vumo mumazu.",
+                            "Valave vasona-vumo mumazu.",
+                            "Vaheme vivumo vyakutunga mazu."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4",
+                    "title": "Kweuluka havivumo.",
+                    "page": 28,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.2",
+                            "page": 28,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Hanyima chipwe hakunangula echi chilongeselo, valongi",
+                                "vatela;",
+                                "Vatombole vivumo vyamakumishilo mumazu."
+                            ],
+                            "short_notes": "Kutombola vivumo vyamakumishilo mumazu"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.3",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "vihemo vyakweuluka vivumo kujima na kushishisa vivumo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.4",
+                            "page": 31,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Mazu Avivumo Vyakulifwana"
+                        }
+                    ],
+                    "short_notes": "Muli echi chihande valongi navalinagula; kutombola vivumo vyatete na vyamakumishilo, nakuhema vihemo vyakushishisa, kufumisa nakwivwilila vivumo Milimo 1; Kutombola vivumo vyatete mumazu. Muunangwilo Mulongeshi Mukunangula valongi kutombola vivumo vyatete mumazu, watela kuvanangula nakuvalumbunwina kanawa jijila jakwoloka. Kavangiza jijila vanale mwishi mukunangula valongi hachinangwilo chino. ü Hanjika mazu (nathu, khaka, mena…) ü Lweza valongi vatombole vivumo vyatete mumazu unahanjika ü Lweza valongi vahanjike mazu akwavo ali navivumo khana ü Mumazavu valongi valipeche kuvuluka vivumo vyatete mumazu navalihanaa",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 28,
+                        "questions": [
+                            "Vatombole vivumo vyathete mumazu.",
+                            "Hanjika mazu (mazo, khemba, likumbi, kheke, khundu)",
+                            "Lweza valongi vatombole vivumo vyamakumishilo mumazu.",
+                            "Lweza valongi vahanjike mazu akwavo ali navivumo khana.",
+                            "Vevwilile mazu mwahanjika mulongeshi.",
+                            "vatombole vivumo vyamakumishilo mumazu.",
+                            "Soneka sona-vumo /ma/ halivaya",
+                            "Fumisako chivumo /m/ nakushishisako chivumo /n/ nakutunga",
+                            "vumo /na/",
+                            "Lweza valongi vatwalilile kushishisa vivumo",
+                            "Vatalijize sona-vumo /ma/ ali halivaya",
+                            "vafumisako chivumo /m/ nakushishisako chivumo /n/",
+                            "vumo /na/",
+                            "vatwalilile kushishisa vivumo vikwavo",
+                            "Soneka lizu (nona) halivaya.",
+                            "Tanga lizu (nona) halivaya .",
+                            "Lweza valongi vavuluke mazu nawakuma naso-navumo /na/.",
+                            "Haka valongi mumazu valipeche kuvuluka mazu ali",
+                            "Lizavu limwe nalihana lizu kuli vakwavo kaha vakwavo",
+                            "Nge vakwavo vanalivuluka lyehi lize lizu kaha vaze vahananga",
+                            "Vatale mulongeshi omu mwasoneka lizu nona halivaya",
+                            "Vatange lizu nona",
+                            "Vavuluke mazu nawakuma nasona-vumo /na/",
+                            "Mumazavu vavuluke mazu akwavo",
+                            "Valipeche mumazu kuvuluka mazu akwavo."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.5",
+                    "title": "VIVUMO",
+                    "page": 18,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 18,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.6",
+                    "title": "Vivumo vyavasona",
+                    "page": 32,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.1",
+                            "page": 33,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Mulongeshi solola kati ya mwangana / a / /A /nakuvumisa",
+                                "Lweza valongi valondezeze kuvumisa chivumo chamwangana",
+                                "Lweza longi hilongi avumise chivumo chamwangana /a / /A/..",
+                                "Lweza valongi vasoneke mwangana /a/ /A / mumikanda"
+                            ],
+                            "learner_steps": [
+                                "Shishika kati ya mwangana / a / /A /",
+                                "Londezeze mwakuvumishila chivumo chamwangana /a / /A/.",
+                                "avumise chivumo chamwangana /a / /A/.",
+                                "Vasoneke mwangana /a/ /A / mumikanda yavo.",
+                                "Hituluka mu chivumo /e / /E /",
+                                "Mulongeshi solola kati ya mwangana / e / /E /nakuchivumisa.",
+                                "Lweza valongi vakulondezeze chivumo chamwangana / e /",
+                                "Lweza longi hilongi avumise chivumo chamwangana / e / /E/.",
+                                "Lweza valongi vasoneke mwangana / e / /E /mumikanda",
+                                "Shishika kati ya mwangana / e / /E/.",
+                                "Londezeze mwakuvumishila chivumo chamwangana / e / /E/ .",
+                                "Longi hilongi avumise chivumo chamwangana / e / /E/ .",
+                                "Vasoneke mwangana / e / /E/ mumikanda yavo.",
+                                "VINOMA: kati chamwangana / e / /E/ ."
+                            ],
+                            "short_notes": "Kuvumisa Vivumo Vyavasona (Mwangana / A, / / A /."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.1",
+                            "page": 34,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Hituluka muvivumo ( a, e )",
+                                "Mulongeshi solola kati ya mwangana / i / / I / nakuchivumisa.",
+                                "Lweza valongi vakulondezeze chivumo chamwangana / i / / I",
+                                "Lweza longi hilongi avumise chivumo chamwangana / i / / I /.",
+                                "Lweza valongi vasoneke mwangana / i / / I / mumikanda yavo."
+                            ],
+                            "learner_steps": [
+                                "Shishika kati ya mwangana / i / / I /.",
+                                "Londezeze mwakuvumishila chivumo chamwangana / i / / I /.",
+                                "Longi hilongi avumise chivumo chamwangana / i / / I /.",
+                                "Vasoneke mwangana / i / / I / mumikanda yavo."
+                            ],
+                            "short_notes": ". Kuvumisa vivumo vyavasona (mwangana / i / / I /."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.4",
+                            "page": 35,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Hituluka muvivumo ( a, e ,I )",
+                                "Mulongeshi solola kati ya mwangana / o/ / O / nakuchivumisa.",
+                                "Lweza valongi vakulondezeze chivumo chamwangana / o / /",
+                                "Lweza longi hilongi avumise chivumo chamwangana / o / / O/.",
+                                "Lweza valongi vasoneke mwangana / o / / O / mumikanda"
+                            ],
+                            "learner_steps": [
+                                "Shishika kati ya mwangana / o / / O /.",
+                                "Londezeze mwakuvumishila chivumo chamwangana / o / / O/",
+                                "Longi hilongi avumise chivumo chamwangana / O / / O /.",
+                                "Vasoneke mwangana / o / / O/ mumikanda yavo."
+                            ],
+                            "short_notes": "Kuvumisa vivumo vyavasona (mwangana / o / / O /."
+                        }
+                    ],
+                    "short_notes": "Omu muchihande valongi navalinangula; kuvumisa vivumo, kutombola vivumo, na kuhandula vivumo. Chalumingu chamuchivali watela kunangula vasona jamyangana umwe hakumbi",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 32,
+                        "questions": [
+                            "Kuvumisa vamwangana javasona."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.7",
+                    "title": "Vivumo vyava sona",
+                    "page": 37,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.1",
+                            "page": 37,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Hituluka navalongi muvamyangana valinangula lyehi.",
+                                "vumisa chivumo /n/",
+                                "lweza valongi vakulondezeze kuvumisa chivumo /n/",
+                                "haka valongi muma zavu vavumise chivumo /n/"
+                            ],
+                            "short_notes": "kuvumisa vivumo."
+                        }
+                    ],
+                    "short_notes": "Omu muchihande valongi navalinangula; kuvumisa vivumo, kutombola vivumo, na kuhanduladununa vivumo.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 37,
+                        "questions": [
+                            "Vavumise Chivumo /n/",
+                            "Solwela valongi chuma chinaputuka na chivumo /k/",
+                            "Hula valongi vachivuluke chize chuma vanamono.",
+                            "Valongi vavumise chivumo chatete mulizu thumba.",
+                            "Solwela Valongi Kati Ya Sona /K/ Nakuchivumisa.",
+                            "Twalililaho Navivumo Vikwavo",
+                            "Valongi vatombole chivumo chatete mulizu thumba.",
+                            "Valongi vavumise kati yasona /k/",
+                            "Vatwalilileho kuvimisa vivumo vikwavo.",
+                            "kuvumise chivumo /k/.",
+                            "Solwela valongi jikati jatutumwa na myangana. Vasona: (n,k,).",
+                            "Lumbunwina valongi vamyangana natutumwa vali hajikati.",
+                            "Lweza valongi vahandunune vamyangana natutumwa vali ha",
+                            "Vatale jikati jatutumwanavamyangana.",
+                            "Vahandunune vamyangana natutumwa vali ha kati.",
+                            "Vahandunune tutumwa namyangana javasona.",
+                            "vumo vangahi vali mumazu;"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.8",
+                    "title": "2 Vasona- vumo",
+                    "page": 40,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "Omu mumuchihande khana valongi navalinangula; kutunga vasona-vumo, kutanga vasona-vumo ha chati, kuhandununa vasona-vumo nakushishisa vasona kumazu.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 40,
+                        "questions": [
+                            "Vatange vasons-vumo.",
+                            "Vatange vasona-vumo ha chati.",
+                            "Vahandunune vasona-vumo.",
+                            "Vashishise vasona-vumo."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.9",
+                    "title": "Mazu",
+                    "page": 44,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.9.3",
+                            "page": 45,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Hanjika mazu (mena, nina, mena…)",
+                                "Lweza valongi vatombole vasona –vumou vali mazu.",
+                                "Lweza valongi vahanjike mazu akwavo ali navasona-vumo"
+                            ],
+                            "learner_steps": [
+                                "Vevwilile vasona-vumo mwahabjika mulongeshi.",
+                                "Vatombole vasona-vumo vali mumazu.",
+                                "Vahanjike mazu akwavo ali navasona-vumo khana."
+                            ],
+                            "short_notes": "Kutombola vasona-vumo mu mazu."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.9.4",
+                            "page": 44,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Vatale jikati jamazu.",
+                                "Vevwilile nakutala omu mulongeshi mwatanga nakusakwilili",
+                                "Vakulondezeze kutanga nakulava vasona-vumo.",
+                                "Valave vasona-vumo vali mumazu."
+                            ],
+                            "short_notes": "Kulava vasona-vumo."
+                        }
+                    ],
+                    "short_notes": "Omu Muli echi chihande khana valongi navalinangula; kununga vasona-vumo vatunge mazu, kujima nakushishisa vasona- vumo, kutombola vasona-vumo vali mumazu, nakulava vasona- vumo. milimo 1; Kununga vasona-vumo na kutunga mazu Vinoma: Jikati javasona-vumo Muunangwilo Mulongeshi: Mukunangula valongi nunga vasona-vumo nakutunga mazu, watela kuvanangula nakuvalumbunwina kanawa jijila jakwoloka. Kavangiza jijila vanale mwishi mukunangula valongi hachinangwilo chino. ü Solwela valongi jikati javasona-vumo (na, ke, ma, ki, no, kha…) ü Nunga vasona-vumo na + ma = nama ü Lweza valongi vanunge vasona-vumo nakutuvatungae mazu. ü Hana jikati javasona-vumo vakulisezaseza mumazavu valongi vatunge mazu.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 44,
+                        "questions": [
+                            "Vanunge vasona-vumo.",
+                            "Vashishise nakufumisa vasona-vumo.",
+                            "Vaheme chihemo chakutunga mazu.",
+                            "vumo, kushishisa nakufumisa vasona-vumo, kutombola",
+                            "vumo mu mazu na kuhema chihemo."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.10",
+                    "title": "Kutanga",
+                    "page": 48,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "Omu Muli echi muCHIHANDE khana valongi navalinangula; kutanga kanawa nakulamuna. Milimo 1; Kutanga vasona-vumo Vinoma; kati javasona vumo /m/ /n/ Muunangwilo Mulongeshi Mukunangula valongi kutangila vasona-vumo helu, watela kuvanangula nakuvalumbunwina kanawa jijila jakwoloka. Kavangiza jijila vanale mwishi mukunangula valongi hachinangwilo chino. ü Solwela valongi kati yavasona-vumo /ma/ /na/ ü Pangila vasona-vumo nakuvalweza vatange. ü Hana jikati javasona-vumo kuli valongi. ü Lweza valongi vatangile helu.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 48,
+                        "questions": [
+                            "mulongeshi hana jikati jamazu jongi hilongi atangile helu."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.11",
+                    "title": "MAZU",
+                    "page": 50,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "Omu muchihande khana valongi navalinangula; kunangakana kutanga mazu amashi. Milimo 1; Kunangakana mazu kuzachisa jingiza. Vinoma; livaya, chati yamikuku Muunangwilo Mulongeshi Mukunangula valongi kunangakana mazu, watela kuvanangula nakuvalumbunwina kanawa jijila jakwoloka. Kavangiza jijila vanale mwishi mukunangula valongi hachinangwilo chino. ü Soneka mukuku wakulinunga halivaya (khakanonamakala) ü Handununa mukuku namifunda yakusendavala kingo (khaka/nona/Makala) ü Soneka miukuku yiukwavo halivaya. ü Lweza valongi vahandunune mukuku kuzachisa mifunda yakusendavala. ü Haka valongi muma zavu vahandunune mikuku ikwavo",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 50,
+                        "questions": [
+                            "Vatunge mazu amashi."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.12",
+                    "title": "Kwivwilila Nakuhanjika",
+                    "page": 32,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 32,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.13",
+                    "title": "Chikhukulwishi chachashi.",
+                    "page": 52,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "Omu muchihande khana valongi navalinangula; kuvuluka chikhukulwishi chachashi mumujimbu. Milimo 1; Kuvuluka chikhukulwishi chachashi mumujimbu vanevu. Vinoma; Mikanda yamijimbu Muunangwilo Mulongeshi Mukunangula valongi kwivwilila nakuhanjika, watela kuvanangula nakuvalumbunwina kanawa jijila jakwoloka. Kavangiza jijila vanale mwishi mukunangula valongi hachinangwilo chino. Mona ngana ngwove uwahise mujimbu wakuvatangila chipwe wakuvalweza. Lweza valongi vevwilile kumuijimbu. Tela valongi mujimbu Hulisa valongi venyike chikhukulwishi chachashi mumujimbu navevwa.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 52,
+                        "questions": [
+                            "Vahane chikukhulwiji mumujimbu."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.14",
+                    "title": "CHALA",
+                    "page": 36,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 36,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.15",
+                    "title": "Kufumbanda vasona",
+                    "page": 54,
+                    "competences": [
+                        "Kusoneka mazu kuzachisa chala"
+                    ],
+                    "instructional_blocks": [],
+                    "short_notes": "Omu muchihande khana valongi navalinangula; kukopolola jishepu, kusoneka mapelenge,kukopolola vasona, kusoneka vasona. Milimo 1; Kukopolola jishepu Vinoma; Chati yajishepu Muunangwilo Mulongeshi Mukunangula valongi kufumba vasona, watela kuvanangula nakuvalumbunwina kanawa jijila jakwoloka. Kavangiza jijila vanale mwishi mukunangula valongi hachinangwilo chino. ü Shimutwila navalongi hajishepu jaku lisezaseza. ü Lweza valongi twamiso yamwaza hakufunda jishepu. ü Lweza valongi mwakufunjila jishepu ü Funjika jishepu jakulihandununa halivaya. ü Lweza valongi mumavu vafunde jishepu jili halivaya",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 54,
+                        "questions": [
+                            "Kusoneka mapelenge",
+                            "Kusoneke vasone"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "KUHULA NAKULUMBUNUNA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Kushimutwila",
+                    "page": 10,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 10,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Mijimbu na kulumbununa",
+                    "page": 59,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.1",
+                            "page": 59,
+                            "hook": "Kuhulisa valongi mujila vechikuhulishilanga",
+                            "teacher_steps": [
+                                "Hanjika mukuku wakuhona kukuma.",
+                                "Lweza valongi vakulondezeze kuhanjika mukuku",
+                                "Lweza valongi vatonde lizu nalikumishisa mukuku.",
+                                "Vevwilile mukuku wakuhona kukuma.",
+                                "valolondezeze kuhanjika mukuku wakuhona kukuma.",
+                                "Vatonde lizu nalikumishisa mukuku."
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "kukumisa mikuku"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.2",
+                            "page": 60,
+                            "hook": "Kuhulisa valongi mujila vechikuhulishilanga",
+                            "teacher_steps": [
+                                "Solwela valongi mivwimbimbi.",
+                                "Tunga mikuku kuzachisa mivwimbimbi.",
+                                "Lweza valongi vatunge mikuku kuzachisa mivwimbi."
+                            ],
+                            "learner_steps": [
+                                "vatale mivwimbimbi.",
+                                "Vahanjike vili hamivwimbimbi.",
+                                "Vatunge mikuku kuzachisa mivwimbimbi."
+                            ],
+                            "short_notes": "kutunga mikuku kuzachisa mivwimbimbi."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.1",
+                            "page": 61,
+                            "hook": "Kuhulisa valongi mujila vechikuhulishilanga",
+                            "teacher_steps": [
+                                "Soneka mikuku yakuhulisa nakumbulwiso halivaya.",
+                                "Tanga chihula na kumbulwiso halivaya.",
+                                "Lweza valongi vakulondezeze kutanga",
+                                "Lweza longi ahulise lijina lyamukwavo natwame nenyi ,",
+                                "Vatale mikuku yakuhulisa na kumbulwiso yacho",
+                                "Vevwilile omu mwatanga mulongeshi.",
+                                "valongi vakulondezeze kutanga",
+                                "longi hilongi ahulise lijina lyamukwavo natwame nenyi"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kuhulisa nakukumbulula vihula."
+                        }
+                    ],
+                    "short_notes": "muli echi chihande khana, mulongehi watela kunangula valongi evi: kuhanjika nakwivwilila, kutanga,",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 59,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "Kunangakana Vivumo",
+                    "page": 14,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 14,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.4",
+                    "title": "Kunangakana vivumo",
+                    "page": 63,
+                    "competences": [
+                        "kutombola nakuvumisa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.1",
+                            "page": 63,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kutombola vasona- vumo mumazu."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.2",
+                            "page": 64,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kuhema vivumo vyakulava vasona –vumo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.3",
+                            "page": 65,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kutunga mazu kuzachisa vasona-vumo."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.4",
+                            "page": 66,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Solwela valongi chati javasona-vumo nakuyisukika",
+                                "Nangula mwakutangila vasona –vumo hachiti (tanga",
+                                "vumo)",
+                                "Sanyika longi hilongi ezenga atange omu unatange.",
+                                "vumo",
+                                "vatale hachati yavasona-vumo nakusukika mulongeshi",
+                                "vevwilile mwakutangila vasona –vumo hachiti",
+                                "Longi hilongi ezenga atange vasona-vumo hachati."
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "kutunga vasona-vumo kuzachisa vasona"
+                        }
+                    ],
+                    "short_notes": "muli echi chihande valongi navalinagula kutombola vasona vumo mumazu, vihemo vyakulava vasona vumo, kutunga mazu kuzachisa vasona –vumo, na vihemo vyakutunga mazu,",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 63,
+                        "questions": [
+                            "kutunga vasona-vumo.",
+                            "Tange vasona-vumo.",
+                            "Kuhandununa nakushishisa vasona-vumo mumazu."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.5",
+                    "title": "Kweuluka havivumo",
+                    "page": 72,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.5.2",
+                            "page": 73,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kutombola vivumo vyamakushilo mumazu."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.5.3",
+                            "page": 74,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kuhema vihemo vyakweuluka vivumo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.5.4",
+                            "page": 75,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kuhema vihemo vyamazu avivumo vyakulifwana."
+                        }
+                    ],
+                    "short_notes": "Muli echi chihande valongi vanalinangula kutombola chivumo chatete mulizu, kutombola chivumo chamakumishilo mulizu, kuhema vivumo vyakufumisa nakushishisa mulizu, chihemo chakushishisa vivumo na mazu avivumo vyakulifwana.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 72,
+                        "questions": [
+                            "Vatombile chivumo chatete mumazu.vimumo",
+                            "Vatombole vivumo vyamakumishilo mumazu.",
+                            "Vafumise nakushishisa"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.6",
+                    "title": "Vivumo",
+                    "page": 20,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 20,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.7",
+                    "title": "Vivumo vyavasona.",
+                    "page": 77,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "omu muchihande khana valongi navalinangula; kuvumisa vivumo vyavasona, kutombola vivumo, na kuhandula vasona.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 77,
+                        "questions": [
+                            "vumo vangahi vali mumazu;"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.8",
+                    "title": "2 Vasona- vumo",
+                    "page": 82,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "Omumuchihande khana valongi navalinangula; kutunga vasona-vumo, kutanga vasona-vumo ha chati, kuhandununa vasona-vumo nakushishisa vasona kumazu.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 82,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.9",
+                    "title": "Mazu",
+                    "page": 84,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "Omu muCHIHANDE khana valongi navalinangula; kununga vasona-vumo vatunge mazu, kujima nakushishisa vasona-vumo, kutombola vasona-vumo vali mumazu, nakulava vasona-vumo.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 84,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.10",
+                    "title": "KUTANGA NAKULAMUNA",
+                    "page": 28,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 28,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.11",
+                    "title": "Kutanga",
+                    "page": 87,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "Muli echi chihande valongi vanalinangula; kutangila mazu helu nakuwavuluka mwakwoloka.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 87,
+                        "questions": [
+                            "Kutangila mazuhelu nakuwavuluka mwamwaza."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.12",
+                    "title": "MAZU",
+                    "page": 32,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 32,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.13",
+                    "title": "Kunangakana mazu.",
+                    "page": 90,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "omu muchihande khana valongi navalinangula; kunangakana kutanga mazu amashi.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 90,
+                        "questions": [
+                            "Vatange mazu amashi. (mama, ou,nona….)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.14",
+                    "title": "Kwivwilila nakuhanjika",
+                    "page": 36,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 36,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.15",
+                    "title": "Chikhukulwishi chachashi.",
+                    "page": 93,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "omumuchihande khana valongi navalinangula; kuvuluka chikhukulwishi chachashi mumujimbu.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 93,
+                        "questions": [
+                            "Vavuluke chikukulwiji mumujimbu."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.16",
+                    "title": "CHALA",
+                    "page": 40,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 40,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.17",
+                    "title": "Kufumba vasona",
+                    "page": 95,
+                    "competences": [
+                        "Kusoneka mazu kuzachisa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.17.3",
+                            "page": 98,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Vatalijize omu mulongeshi mwasoneka sona halivaya.",
+                                "Valondezeze kusoneka sona mupeho na halivaya.",
+                                "Vavali vavali valondezeze kusoneka sona."
+                            ],
+                            "short_notes": "; Kukopolola vasona"
+                        }
+                    ],
+                    "short_notes": "Omu muchihande khana valongi navalinangula; kukopolola jishepu, kusoneka mapelenge.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 95,
+                        "questions": [
+                            "Kukopolola jishepu."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "4 KUHANJIKA NAVAKULWANE",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Kwivwilila na kuhanjika",
+                    "page": 104,
+                    "competences": [
+                        "Kuzachisa mazu anatelamo nge",
+                        "Kutombola na kutunga vasona-"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.1",
+                            "page": 104,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Hulisa valongi vakulweze mazu vachi kuzachisanga nge vali",
+                                "Lweza valongi vashimutwile mazu akuzachisa nge vali"
+                            ],
+                            "learner_steps": [
+                                "Vavuluke mazua vechi kuchisa nge vali nakuhanjika",
+                                "Valongi vashimutwile mazu akuzashi nga vali nakuhangika",
+                                "Valongi vaheme chihemo chakuhanjika navakulwane."
+                            ],
+                            "short_notes": "Kutombola mazu na mikuku yakuzachisa ngevali"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.2",
+                            "page": 105,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Vapwenga mumazavu avali.",
+                                "Vapwenge muvihanda vyachihemo.",
+                                "Vaheme chihemo chakwivwilila na kuhanjika navakulwane."
+                            ],
+                            "short_notes": ". Kuhema chihemo chakwivwilila na kuhanjika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.3",
+                            "page": 106,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Haka valongi mumazavu avali.",
+                                "Hana valongi vihanda vyachihemo.",
+                                "Lumbununa vihanda vya chihemo",
+                                "Lweza valongi vaheme chihemo chakwivwilila na kuhanjika"
+                            ],
+                            "learner_steps": [
+                                "Vapwenga mumazavu avali.",
+                                "Vapwenge muvihanda vyachihemo.",
+                                "Vevwilile vihanda vyachihemo",
+                                "Vaheme chihemo chakwivwilila na kuhanjika namasepa."
+                            ],
+                            "short_notes": "Kuhema chihemo chakwivwilila na kuhanjika kuvakulwane"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.1",
+                            "page": 108,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Hanjika mazu awa, (lupa, sapato, nanu…)",
+                                "Lweza valongi vasakule vasona-vumo mumazu vanvu.",
+                                "Lweza Valongi vaheme Chihemo chavasona-vumo:",
+                                "vumo (pa, sa, to,na).",
+                                "Lweza valongi valave vivumo mulizu (Mulongeshi hanjika mazu",
+                                "vumo hisona-"
+                            ],
+                            "learner_steps": [
+                                "Vevwilile vivumo evi(pa, sa, to, na….)",
+                                "Vasakule vasona-vumo mumazu navevwa.",
+                                "Vaheme Chihemo chavasona-vumo: (mulongeshi hanjika",
+                                "vumo (lupa, sapato,nanu ).",
+                                "vumo hisona-vumo."
+                            ],
+                            "short_notes": "Kutombola vasona-vumo mumazu"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.2",
+                            "page": 109,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Hanjika lizu lili navasona-vumo vavali.",
+                                "Lweza valongi vakulondezeze lizu unahanjika “kawa”.",
+                                "Lweza valongi vasakwilile kwesekesa navasona- vumo vali"
+                            ],
+                            "learner_steps": [
+                                "Vevwilile lizu lili navasona-vumo vavali.",
+                                "Valongi valondezeze lizu mwahanjika mulongechi “kawa”.",
+                                "Valongi vasakwilile kwesekesa navasona- vumo vali mulizu",
+                                "vumo"
+                            ],
+                            "short_notes": "Kuhema chihemo chakulava vasona-vumo (kusakwila)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.3",
+                            "page": 110,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Vuluka vasona-vumo ta/ta",
+                                "Lweza valongi vavuluke mazu kuzachisa vasona-vumo. (ta/",
+                                "Lweza valongi vanunge nakutunga mazu akulihandununa."
+                            ],
+                            "learner_steps": [
+                                "Valongi valondezeze uluka mazu kuzachisa vivumo.",
+                                "Valongi vavuluke mazu kuzachisa vasona-vumo. (ta/ /ta/)",
+                                "Valongi vanunge nakutunga mazu akulihandununa."
+                            ],
+                            "short_notes": "Kutunga mazu."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.4",
+                            "page": 104,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Vavuluka lizu nakuhulisa valongi vahanjike vasona-vumo vali",
+                                "Lweza valongi vakulondezeze kuvumisa vasona-vumo vali",
+                                "Lweza valongi vaheme chihemo chakutunga mazu."
+                            ],
+                            "learner_steps": [
+                                "Vavuluke vasona-vumo vali mulizu sonekeso. ( so,ne,ke,so).",
+                                "Valondezeze kuhanjika vasona-vumo vali mulizu ( so,ne,ke,so)."
+                            ],
+                            "short_notes": "Vihemo vyakutunga mazu."
+                        }
+                    ],
+                    "short_notes": "Omu muchihande khana nachiya nakutala ha kunangakana havivomo, vaso-vumo.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 104,
+                        "questions": [
+                            "cheseko cha",
+                            "Kushimutwila nakuzachisa mazu atela kuzachisa hakuhanjika",
+                            "navakulyane chipwe masepa."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "KWEULUKA Havivumo.",
+                    "page": 112,
+                    "competences": [
+                        "Kutombola nakutunga vivumo (h,"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.1",
+                            "page": 112,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Hanjika mazu. (senga, muthu, litemo…).",
+                                "Lweza valongi muvizavu chipwe umwe naumwe",
+                                "Lweza longi hilongi ahanjike mazu’",
+                                "lweza valongi vavumise chivumo chatete mumazu vanatange"
+                            ],
+                            "learner_steps": [
+                                "Vevwilile mazu. ( senga, muthu, litemo…).",
+                                "Mumazavu chipwe umwe naumwe valondezeze kuhanjika"
+                            ],
+                            "short_notes": "Kutombola nakutunga chivumo."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.2",
+                            "page": 113,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Hanjika mazu. (seke kapeza , litemo…).",
+                                "Lweza valongi muvizavu chipwe umwe naumwe",
+                                "Lweza valongi hilongi ahanjike mazu’",
+                                "Lweza valongi vavumise chivumo chatete mumazu"
+                            ],
+                            "learner_steps": [
+                                "Vevwilile mazu. (seke kapeza, litemo…).",
+                                "Muvizavu chipwe umwe naumwe valondezeze kuhanjika",
+                                "Longi hilongi ahanjike mazu."
+                            ],
+                            "short_notes": "Kutombola nakutunga chivumo chamakumishilo mulizu."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.3",
+                            "page": 114,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lweza valongi vaheme chihemo munwe washina mwilu , na",
+                                "Hanjika mazu mangana valongi vemike mumwe washina helu"
+                            ],
+                            "learner_steps": [
+                                "vaheme chihemo.",
+                                "vavumise vivumo."
+                            ],
+                            "short_notes": "vihemo vyakujima nakushishisa vivumo."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.4",
+                            "page": 115,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Soneka lizu halivaya (lupa… ).",
+                                "Hula valongi vakulweze mazu ali navivumo vyakulifwana.",
+                                "Hula valongi vatombole vivumo vyakulifwana mumazu .",
+                                "Valongi vembenga mwaso wamazu uli navivumo"
+                            ],
+                            "learner_steps": [
+                                "Vavuluke mazu alina vivumo vyakulifwana.",
+                                "Vembenga mwaso."
+                            ],
+                            "short_notes": "Mazu avivumo vyakulifwana."
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 112,
+                        "questions": [
+                            "Vatombile chivumo chatete mumazu.",
+                            "Vatombole vivumo vyamakumishilo mumazu.",
+                            "Vafumise nakushishisa."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.3",
+                    "title": "VIVUMO",
+                    "page": 117,
+                    "competences": [
+                        "Kuvumisa vivumo vyavasona"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.3.2",
+                            "page": 117,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "vavuluke mazu chipwe vyuma vatachikiza vyatwama",
+                                "Soneka mazu halivaya awa ali nachivumo /v/ /V/.",
+                                "Navatombolale mazu ali nachivumo khana,"
+                            ],
+                            "short_notes": "Kutombola vivumo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.3.3",
+                            "page": 118,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lumbika jikati javasona vakulisezeseza.",
+                                "Lweza valongi mumazavu vahandule vasona vakulisezaseza.",
+                                "Lweza valongi vasakule vasona valizu; (Makala)"
+                            ],
+                            "learner_steps": [
+                                "Valongi muvizavu vahandule vasona vakulisezaseza.",
+                                "Longi hilongi ahandule vasona vakulisezaseza.",
+                                "Vatombole vasona vamulizu (Makala)"
+                            ],
+                            "short_notes": "kuhandula vivumo."
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 117,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.4",
+                    "title": "VASONA-VUMO",
+                    "page": 119,
+                    "competences": [
+                        "Kununga vasona na vamyangana"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.4.1",
+                            "page": 120,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Vahituluke muvamyangana javasona.",
+                                "Valondezeze mwakuvumishila chivumo /y /.",
+                                "Vashishike omu mulongeshi ali nakusoneka katumwa /y/ na",
+                                "Vanuge katumwa / y / na mwangana / a /. Ya ye yi",
+                                "Valweze valongi vatange vasona-vumo"
+                            ],
+                            "short_notes": "Tunga vasona-vumo kuzachisa vivumo javasona na"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.4.2",
+                            "page": 121,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Mbata vasona-vumo vamyangana javasona nasona uhake",
+                                "Solwela valongi pongishi yavasona-vumo vamyangana",
+                                "Lweza valongi vahandunune vasona-vumo kuvamyangana",
+                                "Lweza valongi mumazavu vahandunune vasona-vumo",
+                                "Vatale vasona-vumo, vasona navamyangana javasona vali",
+                                "Vahandunune vasona-vumo kuvamyangana javasona",
+                                "Mumazavu vahandunune vasona-vumo kuvamyangana"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kutanga chati yavasona-vumo."
+                        }
+                    ],
+                    "short_notes": "Muli echi chihande valongi vanalinangula; kutunga vasona-vumo, kutanga vasona-vumo ha chati, kuhandununa vasona-vumo nakushishisa vasona kumazu.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 119,
+                        "questions": [
+                            "Vatange vasona-vumo hachati.",
+                            "Vahandunune nakushishi vasona.",
+                            "Vashishise vasona mumazu."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.5",
+                    "title": "Mazu",
+                    "page": 124,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.5.3",
+                            "page": 124,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Hanjika mazu (nathu, lupa, mesa…….)",
+                                "Lweza valongi vatombole vasona –vumou vali mazu.",
+                                "Lweza valongi vahanjike mazu akwavo ali navasona-vumo"
+                            ],
+                            "learner_steps": [
+                                "Vevwilile vasona-vumo mwahabjika mulongeshi.",
+                                "Vatombole vasona-vumo vali mumazu.",
+                                "Vahanjike mazu akwavo ali navasona-vumo khana."
+                            ],
+                            "short_notes": "kutombola vasona-vumo mu mazu."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.5.4",
+                            "page": 127,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Vatale jikati jamazu.",
+                                "Vevwilile nakutala omu mulongeshi mwatanga nakusakwilili",
+                                "Vakulondezeze kutanga nakulava vasona-vumo.",
+                                "Valave vasona-vumo vali mumazu."
+                            ],
+                            "short_notes": "kulava vasona-vumo."
+                        }
+                    ],
+                    "short_notes": "Omu Muli echi muchihande khana valongi navalinangula; kununga vasona-vumo vatunge mazu, kujima",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 124,
+                        "questions": [
+                            "Vanunge vasona-vumo.",
+                            "Vashishise nakufumisa vasona-vumo.",
+                            "Vatombole vasona-vumo.",
+                            "vumo, kushishisa nakufumisa vasona-vumo, kutombola",
+                            "vumo mu mazu na kuhema chihemo."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.6",
+                    "title": "KUTANGA NAKULAMUNA",
+                    "page": 129,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "muli echi chihande valongi vanalinangula; kutangilaa kanawa mazu helu nakuwavuluka mwakwoloka.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 129,
+                        "questions": [
+                            "Vatange nakulamuna.",
+                            "Solwela jikati jamayamazu valongi",
+                            "Valweze mwakutangila nakuvuluka mazu mwakwoloka.",
+                            "Lweza longi hilongi atangile helu nakuvuluka mazu",
+                            "Vatale jikati jyamazu.",
+                            "Vakavangize longeshi mwakutangila mazu mwakwoloka.",
+                            "Llongi hilongi atangile helu mazu nakuwavuluka mwakwoloka.",
+                            "Vatange mazu."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.7",
+                    "title": "MAZU",
+                    "page": 22,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 22,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.8",
+                    "title": "kunangakana mazu.",
+                    "page": 132,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "Omu Muli echi muchihande khana valongi navalinangula; kunangakana kutanga mazu amashi.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 132,
+                        "questions": [
+                            "Vatange mazu amashi."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.9",
+                    "title": "Kwivwilila nakuhanjika",
+                    "page": 134,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "OmuMuli echi muchihande khana valongi vanalinangula; kuvuluka chikhukulwishi chachashi mumujimbu.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 134,
+                        "questions": [
+                            "Valilweza mijimbu nakuvuluka chikhukulwishi chachashi"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.10",
+                    "title": "CHALA",
+                    "page": 28,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 28,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.11",
+                    "title": "Kufumbanda vasona",
+                    "page": 136,
+                    "competences": [
+                        "Kusoneka mazu kuzachisa chala"
+                    ],
+                    "instructional_blocks": [],
+                    "short_notes": "Omu muchihandechihande khana valongi navalinangula; kukopolola jishepu, kusoneka mapelenge,kukopolola vasona, kusoneka vasona.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 136,
+                        "questions": [
+                            "Vakopolole jishepu.",
+                            "Vasoneke mapelemge.",
+                            "Vakopolole vasona."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "KUHANJIKA NA MASEPA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "KWEULUKA HAVIVUMO",
+                    "page": 145,
+                    "competences": [
+                        "kutombola nakuzachisa vasona-"
+                    ],
+                    "instructional_blocks": [],
+                    "short_notes": "Muchihande echi valongi vanalinangula kweuluka muvivumo na vasona-vumo vali mu mazu nakutunga mazu kufuma kuvasona-vumo.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 145,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.2",
+                    "title": "KWEULUKA HA VIVUMO",
+                    "page": 148,
+                    "competences": [
+                        "Tombola nakutunga vasona-vumo."
+                    ],
+                    "instructional_blocks": [],
+                    "short_notes": "Valongi vahituluke mu vyuma vanalinangula ha vivumo vya vyatete mulizu ne vyamakumishilo.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 148,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.3",
+                    "title": "VIVUMO",
+                    "page": 14,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 14,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.4",
+                    "title": "VIVUMO VYAVASONA",
+                    "page": 150,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 150,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.5",
+                    "title": "Vasona-vumo",
+                    "page": 153,
+                    "competences": [
+                        "Kununga tutumwa na vamyangana"
+                    ],
+                    "instructional_blocks": [],
+                    "short_notes": "Muli ech chihande valongi navalinangula mwakufutwila tutumwa na vamyangana nakutunga vasona-vumo. Navatanga nawa chati ya vasona-vumo. Navahandununa nawa vasona-vumo kweseka nomu valifwanyina(wamupi afume).",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 153,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.6",
+                    "title": "MAZU",
+                    "page": 155,
+                    "competences": [
+                        "Kununga vasona-vumo na kutunga mazu."
+                    ],
+                    "instructional_blocks": [],
+                    "short_notes": "Muchihande echi tunatale jila yakutungilamo mazu kufuma ku vasona-vumo.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 155,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.7",
+                    "title": "KUTANGA",
+                    "page": 157,
+                    "competences": [
+                        "Tanga vasona-vumo"
+                    ],
+                    "instructional_blocks": [],
+                    "short_notes": "Muchihande chino valongi navalilongesa hakutanga mazu vasona- vumo na kulamuna.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 157,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.8",
+                    "title": "Mazu",
+                    "page": 24,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 24,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.9",
+                    "title": "KWANUKA MAZU",
+                    "page": 159,
+                    "competences": [
+                        "Kwanuka mazu amashi."
+                    ],
+                    "instructional_blocks": [],
+                    "short_notes": "muchihande chino valongi vanalinangula kwanuka mazu kuzachisa jingiza.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 159,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.10",
+                    "title": "CHIHULA CHAKUJINA",
+                    "page": 161,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "Muli chino chihande valongi navatunga vihula vya kujina kufuma ku mijimbu vanevu chipwe kufunda muvwimbimbi wa mujimbu vanavalweze .",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 161,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.11",
+                    "title": "CHALA",
+                    "page": 30,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 30,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.12",
+                    "title": "KUFUMBANDA VASONA",
+                    "page": 163,
+                    "competences": [
+                        "Kusoneka mazu kuzachisa chala"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.12.1",
+                            "page": 163,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Vvashimutwile namulongeshi hajishepu jakulisezaseza.",
+                                "Vvatwame twamiso yakwolokamwaza",
+                                "Vakwate sonekeso mwakwoloka.",
+                                "Vvatalijize kulimulongeshi omu mwafunda jishepu.",
+                                "Mumazavu vafunde jishepu."
+                            ],
+                            "short_notes": "; Kukopolola jishepu"
+                        }
+                    ],
+                    "short_notes": "Omu muchihande khana valongi valinangula; kuvuluka chikhukulwishi chachashi mumujimbu.kukopolola jishepu, kusoneka mapelenge.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 163,
+                        "questions": []
+                    }
+                }
+            ]
+        }
+    ]
+}

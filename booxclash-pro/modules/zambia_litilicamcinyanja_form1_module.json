@@ -1,0 +1,584 @@
+{
+    "subject": "Litilica M'cinyanja",
+    "grade": "Form 1",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "ZOYAMBILILA M'LITILICA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Matanthauzo A Litilica",
+                    "page": 10,
+                    "competences": [
+                        "Kumasulila matanthauzo ya Litilica"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 10,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ikani aphunzi m'magulu",
+                                "Uzani aphunzi kuti apeleke matanthauzo ya Litilica",
+                                "Uzani aphunzi kuti afotokoze matanthauzo ya Litilica",
+                                "Uzani aphunzi kuti atanthauzile Litilica",
+                                "Uzani atsogoleli amagulu kuti apeleke mayankho m'kalasi",
+                                "Mangilizani mayankho ya aphunzi"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'magulu",
+                                "Apeleke matanthauzo ya Litilica",
+                                "Afotokoze matanthauzo ya Litilica",
+                                "Atsogoleli a magulu apeleke mayankho m'kalasi"
+                            ],
+                            "short_notes": "Mutuwu ufotokoza za matanthauzo yosiyana-siyana ya Litilica. Litilica ndi njila zofalitsilamo makhalidwe ya anthu ndi zomwe atsatila kupyolela mzolembedwa ndi zapakamwa."
+                        }
+                    ],
+                    "short_notes": "Litilica ndi njila zofalitsilamo makhalidwe ya anthu ndi zomwe atsatila kupyolela mzolembedwa ndi zapakamwa. Kulingana ndi Magiya Manda m'buku lake lochedwa 'Companion to Literature', Litilica ndi kuphunzila za luso logwilitsa nchito maganizo ndi kafuku-fuku ka zinthu. Kulingana ndi Meyer, Litilica ndi nchito zolembedwa kupyolela m'zocitika za tsiku ndi tsiku. Kulingana ndi Mtanthauzila mau (Dictionary) wolembedwa ndi Steven Paas, Litilica ndi zolembedwa ndi zowelengedwa.",
+                    "vocabulary": [
+                        {
+                            "term": "Litilica",
+                            "definition": "Njila zofalitsilamo makhalidwe ya anthu ndi zomwe atsatila kupyolela mzolembedwa ndi zapakamwa"
+                        },
+                        {
+                            "term": "Luso",
+                            "definition": "Maluso ogwilitsa nchito maganizo ndi kafuku-fuku ka zinthu"
+                        },
+                        {
+                            "term": "Kafuku-fuku",
+                            "definition": "Kucita kafuku-fuku wofufuza matanthauzo ena"
+                        },
+                        {
+                            "term": "Mtanthauzila mau",
+                            "definition": "Dictionary - buku lotanthauzila mau"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 16,
+                        "questions": [
+                            "Kodi Litilica ndi ciani?",
+                            "Sankha ziganizo ziwili cabe mwa zotsatilazi, zimene zimasulila Litilica: a) Litilica ndi zimene zimafalitsidwa kapena kuphunzitsidwa kumibadwo kudzela m'mau olankhulidwa. b) Litilica ndi zonse zooneka ndi maso. c) Litilica ndi zija zimene zili zolembedwa m'mabuku, m'manyuzipepala, m'majano ndi zina d) Litilica ndi zimene zicitika pakati pa anthu.",
+                            "Peleka tanthauzo lako-lako la Litilica."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Kusanthula Matanthauzo Osiyana-Siyana a Litilica",
+                    "page": 12,
+                    "competences": [
+                        "Aphunzi asanthule matanthauzo ya Litilica yosiyana-siyana"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Uzani aphunzi kucita kafuku-fuku wa matanthauzo ya Litilica",
+                                "Funsani aphunzi kupeleka maganizo apadela pa matanthauzo a Litilica",
+                                "Funsani aphunzi kupeleka maganizo yao pa tanthauzo la Litilica",
+                                "Lumikizani maganizo ya aphunzi"
+                            ],
+                            "learner_steps": [
+                                "Acite kafuku-fuku ka matanthauzo ya Litilica",
+                                "Apeleke matanthauzo ya Litilica yosiyana-siyana kulingana ndi maganizo yao",
+                                "Apeleke matanthauzo ya Litilica ena kulingana ndi kamvetsedwe kake"
+                            ],
+                            "short_notes": "Litilica ili ndi matanthauzo yambili. Pofuna kudziwa bwino-bwino matanthauza ena a Litilica, pafunika kusanthula mofikapo. Litilica ndi nchito zolembedwa kapena zapakamwa zimene zigwilitsidwa nchito pa umoyo wa anthu."
+                        }
+                    ],
+                    "short_notes": "Phunziloli lidzasanthula matanthauzo yosiyana-siyana ya Litilica mofikapo. Kafuku-fuku wa matanthauzo ya Litilica wacitidwa ndipo matanthauzo ya Litilica apadela apelekedwa.",
+                    "vocabulary": [
+                        {
+                            "term": "Kusanthula",
+                            "definition": "Kucita kafuku-fuku mofikapo"
+                        },
+                        {
+                            "term": "Matanthauzo",
+                            "definition": "Kufotokoza tanthauzo la cinthu"
+                        },
+                        {
+                            "term": "Mofikapo",
+                            "definition": "Mwacidule ndi mwakuya"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 16,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "Kupanga Matanthauzo Ya Litilica",
+                    "page": 14,
+                    "competences": [
+                        "Kupanga matanthauzo ya Litilica yao-yao"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3",
+                            "page": 14,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ikani aphunzi m'magulu",
+                                "Uzani aphunzi kuti apeleke matanthauzo ya Litilica yao-yao",
+                                "Uzani atsogoleli a m'magulu kuti apeleke mayankho m'kalasi",
+                                "Uzani aphunzi kuti alungamitse matanthauzo ya Litilica yao-yao",
+                                "Mangulizani mayankho ya aphunzi"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'magulu",
+                                "Apeleke matanthauzo ya Litilica yao-yao",
+                                "Alungamitse matanthauzo ya Litilica yao-yao",
+                                "Atsogoleli a m'magulu apeleke mayankho m'kalasi"
+                            ],
+                            "short_notes": "Pali matanthauzo yambili ya Litilica. Alembi ambili anatanthauzila Litilica mosiyana-siyana. Motelo, ndikotheka aphunzi kupanga matanthauzo yao-yao. Litilica ndi njila yofalitsilamo maganizo ya anthu, makhalidwe ndi miyambo yao. Izi zingakhale zolembedwa kapena zapakamwa."
+                        }
+                    ],
+                    "short_notes": "Matanthauzo yao-yao ya Litilica apelekedwa mokhutilitsa. Ena mwa matanthauzo a Litilica omwe angapelekedwe: Litilica ndi kuphunzila za luso logwilitsa nchito maganizo ndi kafuku-fuku ka zinthu. Litilica ndi nchito zolembedwa kupyolela m'zocitika za tsiku ndi tsiku. Litilica ndi njila yofalitsilamo maganizo ya munthu mu umoyo wake.",
+                    "vocabulary": [
+                        {
+                            "term": "Kupanga",
+                            "definition": "Kucita cinthu catsopano"
+                        },
+                        {
+                            "term": "Kufalitsa",
+                            "definition": "Kufala uthenga kuti anthu ambili amve"
+                        },
+                        {
+                            "term": "Kukhudza",
+                            "definition": "Kucita cinthu pa wina"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 16,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "MITUNDU YA LITILICA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Litilica Ya Zapakamwa",
+                    "page": 17,
+                    "competences": [
+                        "Akambilane za Litilica ya Zapakamwa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ikani aphunzi m'magulu",
+                                "Uzani aphunzi kuti apeleke matanthauzo ya Litilica ya Zapakamwa",
+                                "Uzani aphunzi kuti apeze mitundu ya Litilica ya Zapakamwa",
+                                "Uzani aphunzi kuti aike m'magulu mitundu ya Litilica ya Zapakamwa",
+                                "Uzani aphunzi kuti aonetse zizindikilo za Litilica ya Zapakamwa",
+                                "Uzani aphunzi kuti afotokoze mitundu ya Litilica ya Zapakamwa",
+                                "Uzani atsogoleli a m'magulu kuti apeleke mayankho m'kalasi",
+                                "Mangilizani mayankho a aphunzi"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'magulu",
+                                "Apeleke matanthauzo ya Litilica ya Zapakamwa",
+                                "Apeze mitundu ya Litilica ya Zapakamwa",
+                                "Aike m'magulu mitundu ya Litilica ya Zapakamwa",
+                                "Aonetse zizindikilo za Litilica ya Zapakamwa",
+                                "Afotokoze mitundu ya Litilica ya Zapakamwa",
+                                "Atsogoleli a m'magulu apeleke mayankho m'kalasi"
+                            ],
+                            "short_notes": "Litilica ya Zapakamwa ndi ija imene ifalitsidwa kupyolela mu mau apakamwa. Kulingana ndi Magiya Manda m'buku lake la 'Companion to Literature', Litilica ya Zapakamwa ndi zimene zimafalitsidwa kapena kuphunzitsidwa ku mibadwo kupyolela m'mau olankhulidwa. Litilica ya Zapakamwa imafalitsidwa mnjila zosiyana- siyana monga kupyolela m'nyimbo, masewelo, ndakatulo."
+                        }
+                    ],
+                    "short_notes": "Phunziloli linena za tanthauzo la Litilica ya Zapakamwa. Litilica ya Zapakamwa imafalitsidwa mnjila zosiyana-siyana, kupyolela m'nyimbo, masewelo, ndakatulo, miyambi, mikuluwiko ndi zilapi (ndagi). Tanthauzo la Litilica ya Zapakamwa ndi khalidwe lophunzitsa miyambo kupyolela m'nkhani, miyambi, nyimbo ndi zikhulupililo zamasulidwa.",
+                    "vocabulary": [
+                        {
+                            "term": "Litilica ya Zapakamwa",
+                            "definition": "Zimene zimafalitsidwa kapena kuphunzitsidwa ku mibadwo kupyolela m'mau olankhulidwa"
+                        },
+                        {
+                            "term": "Mau opotoza lilime",
+                            "definition": "Mau ogwilitsidwa nchito polankhula"
+                        },
+                        {
+                            "term": "Ndagi/zilapi",
+                            "definition": "Nthano zomwe zimaimbidwa kapena kufalitsidwa pakamwa"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 24,
+                        "questions": [
+                            "Sankha zitsanzo ziwili zimene zinena za Litilica ya Zapakamwa mwa izi: a) Buku, zilapi ndi miyambi. b) Mbili ya Shaka yokambidwa. c) Mbili yolembedwa ya Idiyamini. d) Zilapi, miyambi ndi nthano.",
+                            "Ndi cifukwa ciani tiphunzila Litilica ya Zapakamwa? Chula zifukwa ziwili cabe.",
+                            "Fotokoza ubwino wa Litilica ya Zapakamwa."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Litilica Ya Zolembedwa",
+                    "page": 19,
+                    "competences": [
+                        "Akambilane za Litilica ya Zolembedwa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ikani aphunzi m'magulu",
+                                "Uzani aphunzi kuti apeleke matanthauzo ya Litilica ya Zolembedwa",
+                                "Uzani aphunzi kuti apeze Litilica ya Zolembedwa",
+                                "Uzani aphunzi kuti apange magulu ya mitundu ya Litilica ya Zolembedwa",
+                                "Uzani aphunzi kuti aonetse zizindikilo za Litilica ya Zolembedwa",
+                                "Uzani atsogoleli amagulu kuti apeleke mayankho m'kalasi",
+                                "Mangilizani mayankho ya aphunzi"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'magulu",
+                                "Apeleke matanthauzo ya Litilica ya Zolembedwa",
+                                "Apeze Litilica ya Zolembedwa",
+                                "Apange magulu ya mitundu ya Litilica ya Zolembedwa",
+                                "Aonetse zizindikilo za Litilica ya Zolembedwa",
+                                "Atsogoleli a magulu apeleke mayankho m'kalasi"
+                            ],
+                            "short_notes": "Litilica ya Zolembedwa ndi ija imene ifalitsidwa kapena kuphunzitsidwa kumibadwo kupyolela mu zolembedwa. Mutuwu ufotokoza za matanthauzo ya Litilica ya Zolembedwa, zigawo zake ndi ziyenelezo zake."
+                        }
+                    ],
+                    "short_notes": "Matanthauzo ya Litilica ya Zolembedwa yafotokozedwa. Zigawo ndi ziyenelezo za Litilica ya Zolembedwa zafotokozedwa mofikapo.",
+                    "vocabulary": [
+                        {
+                            "term": "Litilica ya Zolembedwa",
+                            "definition": "Zimene zimafalitsidwa kapena kuphunzitsidwa kumibadwo kupyolela mu zolembedwa"
+                        },
+                        {
+                            "term": "Zozile moyoko",
+                            "definition": "Nkhani kapena mbili yolembedwa"
+                        },
+                        {
+                            "term": "Tanthauzila mau",
+                            "definition": "Dictionary"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 24,
+                        "questions": [
+                            "Fotokoza ubwino wa Litilica ya Zolembedwa."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "Kusiyana ndi Kufanana kwa Litilica ya Zapakamwa ndi Litilica ya Zolembedwa",
+                    "page": 21,
+                    "competences": [
+                        "Anena kusiyana ndi kufanana kwa Litilica ya Zapakamwa ndi Litilica ya Zolembedwa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Aike aphunzi m'magulu",
+                                "Auze aphunzi kuti apeleke kufanana ndi kusiyana kwa Litilica ya Zapakamwa ndi Litilica ya Zolembedwa",
+                                "Auze atsogoleli a m'magulu kuti apeleke mayankho m'kalasi",
+                                "Amangilize mayankho ya aphunzi"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'magulu",
+                                "Apeleke kufanana ndi kusiyana kwa Litilica ya Zapakamwa ndi Litilica ya Zolembedwa",
+                                "Atsogoleli a m'magulu apeleke mayankho m'kalasi"
+                            ],
+                            "short_notes": "Mutuwu ufotokoza za kusiyana ndi kufanana kwa Litilica ya Zapakamwa ndi Litilica ya Zolembedwa. KUFANANA: Mbali zonse ziwili ziphunzitsa za miyambo. Mbali zonse ziwili zili ndi mkonzi ndi olandila. Mbali zonse ziwili zimasangalatsa. Mbali zonse zigwilitsa nchito mau. KUSIYANA: Litilica ya Zapakamwa ili ndi malile, idalila pa zolankhulidwa, ingasinthe, siidalila ukatswili, ifunika amvetseli. Litilica ya Zolembedwa ilibe malile, idalila pa zolembedwa, siingasinthe, idalila ukatswili, siifunika amvetseli."
+                        }
+                    ],
+                    "short_notes": "Kufanana ndi kusiyana kwa Litilica ya Zapakamwa ndi Litilica ya Zolembedwa kwafotokozedwa mofikapo. Litilica ya Zapakamwa idalila pa zolankhula pamene Litilica ya Zolembedwa idalila pa zolembedwa.",
+                    "vocabulary": [
+                        {
+                            "term": "Kufanana",
+                            "definition": "Zinthu zimene zikhala zofanana"
+                        },
+                        {
+                            "term": "Kusiyana",
+                            "definition": "Zinthu zimene zikhala zosiyana"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 24,
+                        "questions": [
+                            "Nena kusiyana pakati pa Litilica ya Zapakamwa ndi Litilica ya Zolembedwa.",
+                            "Nena kufanana pakati pa Litilica ya Zapakamwa ndi Litilica ya Zolembedwa."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "NCHITO ZA LITILICA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Nchito za Litilica Ya Zapakamwa",
+                    "page": 25,
+                    "competences": [
+                        "Anene nchito za Litilica ya Zapakamwa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1",
+                            "page": 25,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Uzani aphunzi kuti achule nchito za Litilica ya Zapakamwa",
+                                "Uzani aphunzi kuti afotokoze nchito za Litilica ya Zapakamwa",
+                                "Uzani aphunzi kuti alungamitse nchito za Litilica ya Zapakamwa",
+                                "Uzani aphunzi kuti anene momwe tingagwilitsile nchito Litilica ya Zapakamwa m'kugwebana ndi zotikhudza mu umoyo wathu monga ziphuphu, kusintha kwa nyengo, zamalonda ndi zina",
+                                "Mangilizani mayankho ya aphunzi"
+                            ],
+                            "learner_steps": [
+                                "Achule nchito za Litilica ya Zapakamwa",
+                                "Afotokoze nchito za Litilica ya Zapakamwa",
+                                "Alungamitse nchito za Litilica ya Zapakamwa",
+                                "Anene momwe tingagwilitsile nchito Litilica ya Zapakamwa m'kugwebana ndi zotikhuza mu umoyo wathu monga ziphuphu, kusintha kwa nyengo, zamalonda ndi zina"
+                            ],
+                            "short_notes": "Mutuwu ufotokoza za nchito za Litilica ya Zapakamwa. NCHITO: Kusunga miyambo ndi cikhalidwe. Kusangalatsa. Kuphunzila ndi kuphunzitsa. Njila yopezelamo cuma. Kukhala pamodzi ndi kudziwika. Kusula ukatswili pa zocita ndi kulankhula. Tigwilitsa nchito Litilica ya Zapakamwa pogwebana ndi zotikhudza monga zamalonda, mwacitsanzo, pakutsatsa malonda pa mawailesi, pa mkwezamau."
+                        }
+                    ],
+                    "short_notes": "Pali mitundu iwili ya Litilica. Litilica ya Zapakamwa ndi Litilica ya Zolembedwa. Maguluwa ali ndi nchito zosiyana-siyana. Mutuwu wafotokoza nchito za Litilica ya Zapakamwa.",
+                    "vocabulary": [
+                        {
+                            "term": "Nchito",
+                            "definition": "Zinthu zimene tingacite ndi Litilica"
+                        },
+                        {
+                            "term": "Ziphuphu",
+                            "definition": "Zinthu zoyipa zimene zingaticite"
+                        },
+                        {
+                            "term": "Zotikhudza",
+                            "definition": "Zinthu zimene zikhudza umoyo wathu"
+                        },
+                        {
+                            "term": "Nyengo",
+                            "definition": "Kusintha kwa nyengo ya caka"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 29,
+                        "questions": [
+                            "Fotokoza nchito za Litilica ya Zapakamwa ziwili cabe.",
+                            "Fotokoza m'mene tingagwilitsile nchito Litilica pakugwebana ndi zotikhudza monga: a) Ziphuphu. b) Kusintha kwa nyengo. c) Zamalonda."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "Nchito za Litilica Ya Zolembedwa",
+                    "page": 27,
+                    "competences": [
+                        "Anene nchito za Litilica ya Zolembedwa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2",
+                            "page": 27,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Uzani aphunzi kuti achule nchito za Litilica ya Zolembedwa",
+                                "Uzani aphunzi kuti afotokoze nchito za Litilica ya Zolembedwa mofikapo",
+                                "Uzani aphunzi kuti aonetse nchito za Litilica ya Zolembedwa m'kugwebana ndi zotikhuza mu umoyo wathu monga ziphuphu, kusintha kwa nyengo, zamalonda, kugwilitsa nchito mankhwala moipa ndi zina",
+                                "Uzani aphunzi kuti afotokodze nchito za Litilica ya Zolembedwa pocotsa kudalila pa ena ndi kudzetsa kudzidalila m'maganizo",
+                                "Mangilizani mayankho ya aphunzi"
+                            ],
+                            "learner_steps": [
+                                "Achule nchito za Litilica ya Zolembedwa",
+                                "Afotokoze nchito za Litilica ya Zolembedwa",
+                                "Alungamitse nchito za Litilica ya Zolembedwa",
+                                "Aonetse nchito za Litilica ya Zolembedwa m'kugwebana ndi zotikhudza mu umoyo wathu monga ziphuphu, kusintha kwa nyengo, zamalonda, kugwilitsa nchito mankhwala moyipa ndi zina",
+                                "Afotokodze nchito za Litilica ya Zolembedwa pocotsa kudalila pa ena ndi kudzetsa kudzidalila m'maganizo"
+                            ],
+                            "short_notes": "Mutuwu ufotokoza za nchito za Litilica ya Zolembedwa. NCHITO: Kusunga miyambo ndi cikhalidwe. Kusangalatsa. Kuphunzila ndi kuphunzitsa. Njila yopezelamo cuma. Kukhala pamodzi ndi kudziwika. Kusula ukatswili pazocita ndi kulankhula. Tigwilitsa nchito Litilica ya Zolembedwa pakugwebana ndi zotikhudza monga kusintha kwa nyengo, matenda, zamalonda."
+                        }
+                    ],
+                    "short_notes": "Mutuwu wafotokoza nchito za Litilica ya Zolembedwa. Nchito za Litilica ya Zolembedwa pocotsa kudalila pa ena ndi kudzetsa kudzidalila m'maganizo zafotokozedwa mofikapo.",
+                    "vocabulary": [
+                        {
+                            "term": "Nchito",
+                            "definition": "Zinthu zimene tingacite ndi Litilica"
+                        },
+                        {
+                            "term": "Ziphuphu",
+                            "definition": "Zinthu zoyipa zimene zingaticite"
+                        },
+                        {
+                            "term": "Zotikhudza",
+                            "definition": "Zinthu zimene zikhudza umoyo wathu"
+                        },
+                        {
+                            "term": "Nyengo",
+                            "definition": "Kusintha kwa nyengo ya caka"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 29,
+                        "questions": [
+                            "Fotokoza nchito za Litilica ya Zolembedwa ziwili cabe.",
+                            "Kodi ungagwilitsile nchito Litilica motani podzetsa kudzidalila pa iwe wekha?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "LITILICA YA ZAPAKAMWA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Mbili Ya Nchito Za Litilica Kucokela Kumakhalidwe Ndi Miyambo",
+                    "page": 31,
+                    "competences": [
+                        "Ukambilana za Litilica kulingana ndi makhalidwe ndi miyambo ya anthu"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1",
+                            "page": 31,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ikani aphunzi m'magulu",
+                                "Uzani aphunzi kuti aonetse ubale pakati pa nchito za Litilica (nyimbo, miyambi, ndakatulo, nthano) ndi mkhalidwe wathu",
+                                "Uzani aphunzi kuti afufudze njila za miyambo zimene zionetsa nchito za Litilica",
+                                "Uzani aphunzi kuti atanthauzile m'mene zopanga-panga zithandizila nchito za Litilica",
+                                "Uzani aphunzi kuti aonetse ubale pakati pa nchito za Litilica (nyimbo, miyambi, nthano) ndi mkhalidwe wa anthu kupyolela mu ulamulilo, cipembedzo ndi zauzimu, njila zocitilamo zinthu zamakono",
+                                "Uzani atsogoleli amagulu kuti apeleke mayankho m'kalasi",
+                                "Mangilizani mayankho ya aphunzi"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'magulu",
+                                "Aonetse ubale pakati pa nchito za Litilica (nyimbo, miyambi, ndakatulo, nthano) ndi mkhalidwe wathu",
+                                "Afufudze njila za miyambo zimene zionetsa nchito za Litilica",
+                                "Atanthauzile m'mene zopanga-panga zithandizila nchito za Litilica",
+                                "Aonetse ubale pakati pa nchito za Litilica (nyimbo, miyambo, nthano) ndi mkhalidwe wa anthu kupyolela mu ulamulilo, cipembedzo ndi zauzimu, njila zocitilamo zinthu zamakono",
+                                "Atsogoleli amagulu apeleke mayankho m'kalasi"
+                            ],
+                            "short_notes": "Phunziloli linena za zikhulupililo zimene gulu la anthu likhala nazo kusiyana ndi magulu ya anthu ena. Izi zingakhale zolembedwa kapena zapakamwa. Zikhulupililozi zitithandiza kupatula gulu la anthu ku magulu ya anthu ena komanso kuti gululo lidziwike. Ubale umene ulipo pakati pa nchito za Litilica ya Zapakamwa ndi umoyo wathu ndiwakuti nthawi zina ngati mufuna kuphunzitsa, kudzudzula pena kudziwitsa pazocitika za tsiku ndi tsiku timagwilitsa nchito, nchito za Litilica monga nyimbo, miyambi."
+                        }
+                    ],
+                    "short_notes": "M'mutuwu mbili ya nchito za Litilica kucokela kumakhalidwe ndi miyambo izafotokozedwa mofikapo. M'mutuwu, mbili ya nchito za Litilica kucokela kumakhalidwe ndi miyambo yafotokozeledwa mofikapo.",
+                    "vocabulary": [
+                        {
+                            "term": "Zikhulupililo",
+                            "definition": "Zinthu zimene anthu azikhulupilila"
+                        },
+                        {
+                            "term": "Ziphunzitso",
+                            "definition": "Maphunzilo omwe aphunzi aphunzitsidwa"
+                        },
+                        {
+                            "term": "Mbili ya mkhalidwe",
+                            "definition": "Nkhani ya m'mbuyomu ya makhalidwe ya anthu"
+                        },
+                        {
+                            "term": "Miyambo",
+                            "definition": "Zinthu zimene anthu acita m'nthawi zonse"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 35,
+                        "questions": [
+                            "Chula mitundu iwili ya Litilica ya Zapakamwa imene iphunzitsa za khalidwe.",
+                            "Kodi zopanga-panga monga izi zithandizila bwanji pa nchito ya Litilica ya Zapakamwa? a) Ng'oma b) Mtolilo c) Wezulu d) Gitala"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.2",
+                    "title": "Mitundu Ya Litilica Ya Zapakamwa",
+                    "page": 33,
+                    "competences": [
+                        "Kukambilana za mitundu ya Litilica ya Zapakamwa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2",
+                            "page": 33,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Aike aphunzi m'magulu",
+                                "Auze aphunzi kuti apeze mitundu ya Litilica ya Zapakamwa (zilapi, zikhulupililo, nthano, ndakatulo, nyimbo, miyambi)",
+                                "Auze aphunzi kuti atanthauzile mitundu ya Litilica ya Zapakamwa",
+                                "Auze aphunzi kuti apeleke zitsanzo za mitundu ya Litilica ya Zapakamwa",
+                                "Auze atsogoleli amagulu kuti apeleke mayankho ya magulu",
+                                "Amangilidze mayankho ya aphunzi"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'magulu",
+                                "Apeze mitundu ya Litilica ya Zapakamwa (zilapi, zikhulupililo, nthano, ndakatulo, nyimbo, miyambi)",
+                                "Atanthauzile mitundu ya Litilica ya Zapakamwa",
+                                "Apeleke zitsanzo za mitundu ya Litilica ya Zapakamwa",
+                                "Atsogoleli amagulu apeleke mayankho m'kalasi"
+                            ],
+                            "short_notes": "Mutuwu uchula, ufotokoza ndi kupeleka zitsanzo za mitundu ya Litilica ya Zapakamwa. Ina mwa mitundu ya Litilica ya Zapakamwa ndi zilapi, zikhulupililo, nthano, ndakatulo, nyimbo, miyambi."
+                        }
+                    ],
+                    "short_notes": "Mutuwu wachula, wafotokoza ndiponso wapeleka zitsanzo za mitundu ya Litilica ya Zapakamwa.",
+                    "vocabulary": [
+                        {
+                            "term": "Zilapi",
+                            "definition": "Nkhani zimene zimaimbidwa pakamwa"
+                        },
+                        {
+                            "term": "Zikhulupililo",
+                            "definition": "Zinthu zimene anthu azikhulupilila"
+                        },
+                        {
+                            "term": "Ndakatulo",
+                            "definition": "Mawu olembedwa ndi miyeso"
+                        },
+                        {
+                            "term": "Miyambi",
+                            "definition": "Nkhani za m'mbuyomu"
+                        },
+                        {
+                            "term": "Nyimbo",
+                            "definition": "Mau omwe amaimbidwa"
+                        },
+                        {
+                            "term": "Nthano",
+                            "definition": "Nkhani zimene ziphunzitsa"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 35,
+                        "questions": [
+                            "Kodi zikhulupililo zili mgulu liti la Litilica?",
+                            "Chula zikhulupililo ziwili zimene udziwa."
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

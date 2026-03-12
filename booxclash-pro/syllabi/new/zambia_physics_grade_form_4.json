@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 4",
+    "subject": "Physics",
+    "philosophy": "Quality, life long education for all which is accessible, inclusive and relevant to individual, national and global needs",
+    "competence_learning": "The effective teaching methodologies in STEM physics include: Conducting experiments: Demonstrate key principles and encourage curiosity among learners. Collaborative learning: Pair learners to work together, promoting peer-to-peer teaching, discussion, and problem-solving. Conceptual learning: Connect science concepts to everyday life, industry, or current events, making learning relevant and meaningful. Differentiated instructions: Tailor teaching to meet diverse learning styles, abilities, and interests of different learners. Feedback and Reflection: Encourage learners to reflect on their learning, providing constructive feedback to guide improvement. Inquiry-based learning: encourage learners to explore, investigate, and discover Physics concepts through hands-on experiments and activities. Integration of Technology: Use digital tools, simulations, and visualisations to enhance engagement, understanding, and analysis. Problem-based learning: Present real-world problems or case studies, requiring students to apply Physics principles to develop solutions. Project-based learning: Assign open-ended projects, allowing learners to design, conduct, and present research or applications of Physics concepts. By implementing these methodologies, a teacher can create an engaging, inclusive, and effective STEM Physics learning environment. In Physics the following key competences are the fundamental abilities and qualities that will enable individual leaners to: Manage their own learning and knowledge, Interact with others and solve problems, Contribute to society and the economy, Adapt to change and navigate through emerging issues in the environment.",
+    "goals": [
+      "To equip learners with a comprehensive understanding of Physics concepts, fostering a deep appreciation for the role of Physics in everyday life and its applications in various fields.",
+      "To develop a solid foundation in Physics and cultivate critical thinking, analytical skills, and problem-solving skills.",
+      "To link Physics concepts to real-world problems and emerging technologies through the engagement of learners in hands-on, hearts-on and minds-on practical activities and simulations to reinforce theoretical understanding.",
+      "To create a stimulating and supportive learning environment where learners can develop a profound understanding of the subject.",
+      "To prepare learners for further education and careers in Science, Technology, Engineering and Mathematics (STEM), thereby contributing to their overall intellectual and personal growth.",
+      "To inspire learners to explore the fascinating world of Physics and appreciate its significance in shaping the future.",
+      "To develop an understanding of the natural world, fostering critical thinking, problem-solving, and analytical skills.",
+      "To provide a solid foundation for further studies in Physics and related subjects.",
+      "To provide an enriching and supportive educational environment where learners can advance a lifelong interest in the subject.",
+      "To prepare learners not only for academic success, but also for their future roles as informed and responsible citizens in a scientifically advanced society.",
+      "To inspire and empower learners to achieve their full potential, equipping them with the knowledge and skills necessary to navigate and contribute to the world around them.",
+      "To ensure learners develop a deep understanding of physics principles while equipping them with the practical skills and competencies needed for further education and careers in science.",
+      "To incorporate an interdisciplinary approach that integrates Science, Technology, Engineering, and Mathematics (STEM) to develop innovative solutions and critical thinking."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "4.1",
+      "topic_title": "BASIC ELECTRONICS",
+      "page_number": 40,
+      "subtopics": [
+        "Introduction to Basic Electronics"
+      ],
+      "specific_outcomes": [
+        "4.1.1.1 Construct a system that applies the concept of thermionic emission"
+      ]
+    },
+    {
+      "unit": "4.1",
+      "topic_title": "BASIC ELECTRONICS",
+      "page_number": 40,
+      "subtopics": [
+        "Circuit Components"
+      ],
+      "specific_outcomes": [
+        "4.1.2.1 Design an electronic circuit"
+      ]
+    },
+    {
+      "unit": "4.2",
+      "topic_title": "COMMUNICATION SYSTEM",
+      "page_number": 41,
+      "subtopics": [
+        "Communication System"
+      ],
+      "specific_outcomes": [
+        "4.2.1.1 Create a communication system"
+      ]
+    },
+    {
+      "unit": "4.3",
+      "topic_title": "ATOMIC PHYSICS",
+      "page_number": 42,
+      "subtopics": [
+        "Nuclear Atom"
+      ],
+      "specific_outcomes": [
+        "4.3.1.1 Demonstrate understanding of a nuclear atom"
+      ]
+    },
+    {
+      "unit": "4.3",
+      "topic_title": "ATOMIC PHYSICS",
+      "page_number": 43,
+      "subtopics": [
+        "Radioactivity"
+      ],
+      "specific_outcomes": [
+        "4.3.2.1 Demonstrate understanding of the nature, characteristics, detection and application of radiations",
+        "4.3.2.2 Explore the applications of radioactive substances",
+        "4.3.2.3 Analysing innovative solutions for effective nuclear waste management"
+      ]
+    },
+    {
+      "unit": "4.4",
+      "topic_title": "RENEWABLE ENERGY SYSTEM",
+      "page_number": 44,
+      "subtopics": [
+        "Renewable Energy Systems"
+      ],
+      "specific_outcomes": [
+        "4.2.1.1 Explore renewable energy systems"
+      ]
+    }
+  ]
+}

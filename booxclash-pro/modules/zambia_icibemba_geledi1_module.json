@@ -1,0 +1,2345 @@
+{
+    "subject": "Icibemba",
+    "grade": "Geledi 1",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "UKUMFWA ILYASHI",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Ilyashi",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Ukumfwa na Ukushimika Ilyashi",
+                    "page": 0,
+                    "competences": [
+                        "Abasambi bafwile ukumfwa ilyashi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "belengela abasambi ilyashi",
+                                "lanshanya na basambi ifili mulyashi"
+                            ],
+                            "learner_steps": [
+                                "bashimike ilyashi baumfwapo.",
+                                "bapange ilyashi ukufuma pacikope"
+                            ],
+                            "short_notes": "Amepusho yaasukwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "shimikila abasambi ilyashi",
+                                "eba abasambi ukupanga akasela ukufuma mu fipande fyalyashi"
+                            ],
+                            "learner_steps": [
+                                "bapange akasela ukubomfya ifipande fyelyashi"
+                            ],
+                            "short_notes": "Akasela kapangwa mukulungika"
+                        }
+                    ],
+                    "short_notes": "Ili isambililo lilelanda pakushimika ilyashi, ukupanga",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 13,
+                        "questions": [
+                            "Cila musambi apange ilyashi ukufuma pacikope."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "Ukwishiba Ifilembelwe",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "langa abasambi ifyakwikata icitabo",
+                                "bombela pamo nabasambi palwa kwikata icitabo",
+                                "londolwela abasambi ifyakwisula na ukwisala icitabo"
+                            ],
+                            "learner_steps": [
+                                "besule na ukwisala icitabo busaka-busaka"
+                            ],
+                            "short_notes": "Icitabo caisulwa na ukwisalwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 14,
+                            "hook": null,
+                            "teacher_steps": [
+                                "langa abasambi ifyakupilibula amapepala mu citabo"
+                            ],
+                            "learner_steps": [
+                                "bekate icitabo mukulungika",
+                                "bapilibule amapepala busaka-busaka"
+                            ],
+                            "short_notes": "Ukupilibula amapepala Expected: Amapepala mucitabo yapilibulwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "langa abasambi ubukankala bwa sipaini mu citabo",
+                                "bombela pamo na abasambi ukufwaya sipaini mu citabo"
+                            ],
+                            "learner_steps": [
+                                "bekate sipaini yamu citabo"
+                            ],
+                            "short_notes": "Ukwikata sipaini wacitabo Expected: Sipaini yamu citabo yaikatwa bwino-bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "langisha abasambi ifyakwikata icitabo",
+                                "bombeleni pamo na abasambi mu kwikata icitabo"
+                            ],
+                            "learner_steps": [
+                                "bekate icitabo bwino-bwino"
+                            ],
+                            "short_notes": "Ukwikata icitabo mukulungika Expected: Icitabo caikatwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [
+                                "londolwela abasambi ifipande fya citabo (inkupo, umushilwa,",
+                                "lanshanyeni na abasambi pa fipande fya citabo"
+                            ],
+                            "learner_steps": [
+                                "balangishe ifipande fya citabo"
+                            ],
+                            "short_notes": "Ukwishiba ifipande fyacitabo Expected: Ifipande fya citabo fyaishibikwa bwino-bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "londolwela abasambi palwa kwensha amenso ukufuma kukuso ukuya",
+                                "angaleni na abasambi ubwangalo bwakwensha amenso"
+                            ],
+                            "learner_steps": [
+                                "palanya ifinama na ifyakulya filya",
+                                "benshe amenso ukufuma kukuso ukuya kukulyo mu musango uwayana"
+                            ],
+                            "short_notes": "Ukwangala amangalo ya kwensha amenso ukufuma kukuso ukuya kukulyo elyo na ukufuma pamuulu ukuya panshi Expected: Amenso yaenshiwa bwino-bwino ukufuma kukuso ukuya Expected: Amenso yaenshiwa ukufuma kukuso ukuya kukulyo mu"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "langisha abasambi icikope apali ifintu ifyapusana-pusana",
+                                "lanshanyeni na abasambi ifili pa cikope"
+                            ],
+                            "learner_steps": [
+                                "balondolole ifyo ulemona pa cikope"
+                            ],
+                            "short_notes": "Ifyo balemona pafikope fyalondololwa bwino-bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "londolwela abasambi ifyo bafwile ukutantika ifikope mukulungika",
+                                "lanshanyeni na abasambi ifyakutantika ifikope mukulungika"
+                            ],
+                            "learner_steps": [
+                                "batantike ifikope mukulungika"
+                            ],
+                            "short_notes": "Ifikope fyatantikwa mukulungika"
+                        }
+                    ],
+                    "short_notes": "Ili isambililo lilelanda pa kupilibula amapepala, ukwikata Summary: Ili isambililo lilelanda pakubelenga ifikope, ukwilula na",
+                    "vocabulary": [
+                        {
+                            "term": "Icitabo",
+                            "definition": ""
+                        },
+                        {
+                            "term": "ifipande",
+                            "definition": ""
+                        },
+                        {
+                            "term": "sipaini wa citabo",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": 17,
+                        "questions": [
+                            "Kafundisha ukweba abasambi ukubelenga ifikope, ukwilula na"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4",
+                    "title": "Ilyo ukulemba takulatendeka",
+                    "page": 0,
+                    "competences": [
+                        "Ukulangisha imikalile iyayana ilyo ulelemba",
+                        "Ifyakwikata ifilembelo",
+                        "Ukulenga ifintu busaka-busaka"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "londolwela abasambi ifyakwikala",
+                                "langa abasambi ifyakwikala bwino"
+                            ],
+                            "learner_steps": [
+                                "bekale bwino"
+                            ],
+                            "short_notes": "Imikalile iyayana pakulemba yalangwa bwino-bwino"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "londolwela abasambi ifyakwikata ifilembelo",
+                                "bombela pamo na abasambi ukulangisha ifyakwikata ifilembelo"
+                            ],
+                            "learner_steps": [
+                                "bekate icilembelo bwino-bwino"
+                            ],
+                            "short_notes": "Ifilembelo fiikatwe busaka-busaka"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [
+                                "londolwela abasambi ifyakulenga ifintu",
+                                "bombela pamo na abasambi ukulenga ifintu"
+                            ],
+                            "learner_steps": [
+                                "balenge ifintu ifyapusana-pusana"
+                            ],
+                            "short_notes": "Ifintu ifyapusaana-pusaana fyalengwa mu musango"
+                        }
+                    ],
+                    "short_notes": "Ili isambililo lilelanda pakwikala bwino-bwino pali maati Summary: Ili isambililo lilelanda pafyakwikata bwino-bwino Summary: Ili isambililo lilelanda pakulenga ifintu ifyapusana-",
+                    "vocabulary": [
+                        {
+                            "term": "Ukwikala",
+                            "definition": ""
+                        },
+                        {
+                            "term": "ukulemba",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": 18,
+                        "questions": [
+                            "Esha abasambi ukwikala bwino-bwino pali maati na pacipuna",
+                            "Esha cila musambi ukwikata icilembelo busaka-busaka",
+                            "Esha abasambi ukulenga amasheepu"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "UKUSHIMIKA ILYASHI",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Ilyashi",
+                    "page": 0,
+                    "competences": [
+                        "Ukushimika ilyashi mukucenjela.",
+                        "Ukwishiba na ukupanga ifilundwa",
+                        "Ukwishiba na ukubomfya ifiunda",
+                        "Ukubiika ifiunda na imfumu pamo pakupanga ifilundwa",
+                        "Ukubiika ifilundwa pamo pakupanga amashiwi (bomfya vcv,"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Ilyashi lyashimikwa mukukonkwa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [
+                                "shimika ilyashi ku basambi",
+                                "bashimike ilyashi lyabo"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Ilyashi lyabo lyashimikwa mukukonkwa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Akasela kakukonkelesha ifili mulyashi kapangwa mukucenjela"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "landa amashiwi mukwikatisha elyo webe abasambi ukukutikisha pakuti beshibe",
+                                "bombela pamo na abasambi ukulanda ifilundwa ifili mu mashiwi",
+                                "langilila abasambi ifyakutoota ifiunda mumashiwi",
+                                "eba cila musambi ashile pa cilundwa walanda"
+                            ],
+                            "learner_steps": [
+                                "batoote pafilundwa ifi (ba, bo ne na)",
+                                "babe",
+                                "bobe",
+                                "nine",
+                                "nina"
+                            ],
+                            "short_notes": "Ifilundwa fipeelwe mu mashiwi fyaishibikwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "batoote ukulingana na ifilundwa ifili mu mashiwi"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "bapange amashiwi aya"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "leemba ishiwi pacipampa",
+                                "belenga amashiwi na abasambi"
+                            ],
+                            "learner_steps": [
+                                "bacinje na ukufumyapo ifilundwa mu mashiwi ayapeelwe",
+                                "abana fumyako na bikapo bo yatupela………………………………",
+                                "bombela fumyako mbe yashala…………………………………………."
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "bashile pa ciunda icitampiile kwishiwi"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "balande ifiunda ifili pampela ya mashiwi"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "bacinje na ukufuuta ifiunda mu mashiwi",
+                                "kwishiwi cilema fuutako ci yaaba………………………………"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amashiwi pacipampa",
+                                "belenga amashiwi na abasambi"
+                            ],
+                            "learner_steps": [
+                                "balande amashiwi ayomfwika cimo-cine pakulekelesha"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "balande ifiunda ifi."
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "balande ifiunda"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 28,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "bapange ifilundwa"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "belenga ifilundwa pali caati"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "basobololemo ifilundwa basambilile mu mabumba"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 31,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "bacinje iciunda",
+                                "Icilundwa ba fumyapo b biikapo n =……………",
+                                "Icilundwa ne fumyapo n biikapo b =…………….",
+                                "Icilundwa ka fumyapo k biikapo b"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 32,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "bacinje na ukufuuta ifilundwa mu mashiwi",
+                                "Ishiwi nine- fumyako ne bikapo na yatupela ……………",
+                                "Ishiwi anina- fumyapo ni yatupela ………………."
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "baputaule ifilundwa ifili mu mashiwi",
+                                "abana = a -ba -na",
+                                "bani=…………….",
+                                "abanabo=………..",
+                                "abalumendo=…….",
+                                "abakashana=……..",
+                                "kafundisha=……..",
+                                "abasambi=………..",
+                                "ukulima=………",
+                                "ukulanda-landa……"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "bapende ifilundwa ifili mu mashiwi ayapeelwe",
+                                "banina muli ifilundwa …………………..3",
+                                "abeni muli ifilundwa ……………………..",
+                                "abo muli ifilundwa ……………………...",
+                                "amakasa muli ifilundwa…………….",
+                                "ukulima muli ifilundwa……………",
+                                "ukusambilila muli iflundwa …….",
+                                "abantu muli ifilundwa …………..",
+                                "icibokolo muli ifilundwa………",
+                                "amalasha muli ifilundwa……."
+                            ],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "Ili isambililo lilelanda pakushimika ilyashi, ukupanga utusela na",
+                    "vocabulary": [
+                        {
+                            "term": "Ilyashi",
+                            "definition": ""
+                        },
+                        {
+                            "term": "ukushimika",
+                            "definition": ""
+                        },
+                        {
+                            "term": "akasela",
+                            "definition": ""
+                        },
+                        {
+                            "term": "ukupitulukamo",
+                            "definition": ""
+                        }
+                    ],
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Cila musambi apange ilyashi ukufuma pacikope",
+                            "Cila musambi alande amashiwi ayomfwika cimo-cine"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Ukubelenga busaka-busaka",
+                    "page": 35,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "Ukubelenga",
+                    "page": 35,
+                    "competences": [
+                        "Ukubelenga ifilundwa mukwikatisha"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 36,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.4",
+                    "title": "Amashiwi",
+                    "page": 37,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 38,
+                        "questions": [
+                            "Eba abasambi ukusha incende pa mashiwi mu miseela iili"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.5",
+                    "title": "Ukwilula ifili mu lyashi",
+                    "page": 0,
+                    "competences": [
+                        "Ukwilula ifili mulyashi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": "1.Chibesa mwana wamusango shani?.............",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 39,
+                        "questions": [
+                            "Belenga ilyashi elyo ubepushe amepusho"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.6",
+                    "title": "Imilembele",
+                    "page": 0,
+                    "competences": [
+                        "Ukuleemba ifilembo",
+                        "Ukulemba amashiwi mu cilembo cimo-cimo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "balembe amashina yamasheepu"
+                            ],
+                            "short_notes": "Amasheepu yakopololwe mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 40,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Balembe amapatani nga ifi;"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 41,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba icilembo mumwela, panshi na pacipampa",
+                                "bombela pamo na abasambi ukulemba ifilembo mumwela, panshi na pacipampa",
+                                "eba cila musambi alembe icilembo mumwela, panshi na pacipampa"
+                            ],
+                            "learner_steps": [
+                                "pamo na kafundisha balembe ifilembo mumwela, panshi napacipampa",
+                                "bakopolole ifileembo"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "pamo na kafundisha balembe icilembo mumwela, panshi na pacipampa",
+                                "balembe icikalamba F na icilembo icinono f",
+                                "nomba eba abasambi balembe ifilembo (a), (b), (o)"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "pamo nakafundisha balembe amashiwi mu cilembo cimo-cimo",
+                                "bakopolole amashiwi ayali pacipampa mu cilembo cimo-cimo"
+                            ],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "Amasheepu yakopololwe mukulungika",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": [
+                            "Eba abasambi ukukopolola amasheepu, amapatani na ifilembo",
+                            "Esha abasambi ukukopolola amashepu, amapatani na ifilembo."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "UKWIPUSHA NA UKULONDOLOLA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Ukulanshanya",
+                    "page": 44,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "Ukwishiba ilyashi na ukulondolola",
+                    "page": 0,
+                    "competences": [
+                        "Ukubomfya imiseela mukulanshanya"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "balande ifyo balemona pacikope",
+                                "bapwilikishe imiseela ukubomfya icikope",
+                                "bamaayo nabapaapa…………….",
+                                "nifinshi bataata balecita pacikope …………………….."
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 45,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "bapange imiseela ukufuma pacikope"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "eba abasambi bakutikishe kubulondoloshi",
+                                "londolola ifyo amashiwi yatungulula ku bwasuko",
+                                "lanshanya na abasambi peshiwi liletungulula ku bwasuko"
+                            ],
+                            "learner_steps": [
+                                "bapange imiseela ukubomfya amashiwi yapeelwe",
+                                "maayo",
+                                "taata",
+                                "shikulu"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 46,
+                            "hook": null,
+                            "teacher_steps": [
+                                "ipusha abasambi ifyo batemwa na ifyo tabatemwa",
+                                "bebe naiwe ifyo watemwa nefyo tamwatemwa",
+                                "imba ulwimbo na abasambi, “Tulalya tulalya”– batoota"
+                            ],
+                            "learner_steps": [
+                                "bembe ulwimbo; “Tulalya tulalya” – batoota",
+                                "baasuke amepusho ukupitila mu kutoota"
+                            ],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": [
+                            "Cila musambi aasuke amepusho"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.3",
+                    "title": "Ukwishiba Ifiunda",
+                    "page": 0,
+                    "competences": [
+                        "Ukufwaya ifilundwa fya mashiwi elyo na ukufishiba bwino-",
+                        "Ukwishiba na ukulanda ifiunda",
+                        "Ukubiika ifiunda (bakapaso)na imfumu pamo pakupanga",
+                        "Ukubiika ifilundwa pamo pakupanga amashiwi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 47,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "balande ifilundwa ifili mu mashiwi",
+                                "mulaye=",
+                                "capa=",
+                                "pama"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "langilila abasambi ifyo batoota ifilundwa mu mashiwi",
+                                "bombela pamo na abasambi ukutoota ifilundwa mu mashiwi",
+                                "eba abasambi bangale ubwangalo bwa kutoota ukubomfya ifilundwa ifili mu",
+                                "ima= I toota ma toota",
+                                "capa=ca toota pa toota",
+                                "uma=u toota ma toota",
+                                "mayo=ma too yo toota"
+                            ],
+                            "learner_steps": [
+                                "batoote ukulingana na ifilundwa ifili mu mashiwi",
+                                "lima=",
+                                "umutali="
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 48,
+                            "hook": null,
+                            "teacher_steps": [
+                                "londolwela abasambi ifyo bapanga amashiwi ukubomfya ifilundwa",
+                                "panga amashiwi na abasambi ukubomfya ifilundwa",
+                                "eba cila musambi ukupanga amashiwi ukubomfya ifilundwa ifipeelwe"
+                            ],
+                            "learner_steps": [
+                                "bapange amashiwi ukubomfya ifilundwa ifipeelwe:"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "leemba ishiwi pa cipampa",
+                                "belenga ishiwi na abasambi",
+                                "eba abasambi ukucinja na ukufumyapo ifilundwa mu mashiwi yapeelwe"
+                            ],
+                            "learner_steps": [
+                                "babelenge amashiwi.",
+                                "bacinje na ukufumpo ifilundwa mu mashiwi yapeelwe"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amashiwi pa cipampa",
+                                "belenga amashiwi na abasambi",
+                                "eba cila musambi alande iciunda aleumfwa pakutampa kwa ishiwi",
+                                "balande iciunda baleumfwa pakutampa kwa ishiwi"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 50,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amashiwi pa cipampa",
+                                "belenga amashiwi na abasambi",
+                                "balande iciunda baleumfwa pa mpela ya ishiwi"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amashiwi pa cipampa",
+                                "belenga amashiwi na abasambi",
+                                "bacinje na ukufuuta ifiunda mu mashiwi ayapeelwe"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amashiwi pacipampa",
+                                "belenga amashiwi na abasambi",
+                                "eba abasambi ukulanda amashiwi ayomfwika cimo-cine pakulekelesha kwa",
+                                "balande amashiwi ayomfwika cimo-cine pakulekelesha kwa mashiwi"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 52,
+                            "hook": null,
+                            "teacher_steps": [
+                                "langisha abasambi ifiunda ifili mwisambililo",
+                                "bombela pamo nabasambi ukulanda ifiunda fili mwisambililo",
+                                "eba cila musambi alande ifiunda fili pa cipampa",
+                                "balande ifiunda fili pa cipampa"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "balande ifiunda ifili pa cipampa"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 53,
+                            "hook": null,
+                            "teacher_steps": [
+                                "langa abasambi icilembo mulesambililapo P",
+                                "balangishe ifyo cilembwa nefyo cilandwa",
+                                "angaleni ubwangalo bwa mukabokoshi na abasambi",
+                                "biika utupepala utwiingi utukwete ifilembo ifyapusana-pusana",
+                                "eba abasambi balesalamofye icilembo P",
+                                "monse mubefye inambala ya P imo ine",
+                                "abafisha bwangu inambala ipeelwe ninshi bawina ubwangalo"
+                            ],
+                            "learner_steps": [
+                                "bangale ubwangalo bwakusobolola ifiunda mukabokoshi"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 54,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba imfumu pa cipampa",
+                                "pituluka mu mfumu na basambi",
+                                "leemba ifiunda ifili mwisambililo",
+                                "londolwela abasambi ifyo ifilundwa fipangwa ukubomfya ifiunda (kapaso) na",
+                                "baleembe ifilundwa ifili mwisambililo.m+a=ma"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga ifilundwa ukubomfya ifiunda (bakapaaso) na imfumu Expected: "
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 55,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "babelenge ifilundwa ifili pali caati"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lembe ifilundwa pa cipampa",
+                                "babombeleni pamo na abasambi ukubelenga ifilundwa ifili pa cipampa",
+                                "biika ifilundwa ifya lekana-lekana mu kabokoshi",
+                                "eba abasambi ukusobololamo ifilundwa basambilile"
+                            ],
+                            "learner_steps": [
+                                "basobololemo ifilundwa basambilile."
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 56,
+                            "hook": null,
+                            "teacher_steps": [
+                                "langilila abasambi ifyo bacinja ifiunda mu mashiwi",
+                                "eba abasambi beminine muli seeko",
+                                "peela abasambi amakadi apali ifiunda",
+                                "eba abasambi ukwimba ulwimbo kambeba",
+                                "cinja ifiunda ifikwete abasambi",
+                                "ipusha cila musambi ukubelenga ishiwi apanga"
+                            ],
+                            "learner_steps": [
+                                "babelenge ifilundwa bapanga"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba ifilundwa pa cipampa",
+                                "pituluka mu filundwa na abasambi",
+                                "londolola ifyo amashiwi yapangwa ukubomfya ifilundwa",
+                                "pangeni amashiwi na abasambi",
+                                "eba cila musambi ukupanga amashiwi"
+                            ],
+                            "learner_steps": [
+                                "bapange amashiwi"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 58,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba ifilundwa pa cipampa",
+                                "bombela pamo na abasambi ukufuuta na ukucinja ifilundwa mu mashiwi",
+                                "eba cila musambi ukucinja na ukufuuta ifilundwa mu mashiwi"
+                            ],
+                            "learner_steps": [
+                                "bacinje na ukufuuta ifilundwa mu mashiwi"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amashiwi pa cipampa",
+                                "bombela pamo na abasambi ukubelenga amashiwi pa cipampa",
+                                "eba cila musambi abelenge ifilundwa ifyo ushililepo"
+                            ],
+                            "learner_steps": [
+                                "babelenge ifilundwa ifyo kafundisha ashililepo"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amashiwi pa cipampa",
+                                "bombela pamo abasambi ukubelenga amashiwi",
+                                "eba cila musambi alande ifilundwa ifili mwishiwi"
+                            ],
+                            "learner_steps": [
+                                "balande ifilundwa ifili mwishiwi"
+                            ],
+                            "short_notes": "Ifilundwa mu mashiwi fyapendwa mukulungika."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "balande bingo nga cakuti icilundwa kafundisha alanga nacilungama"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 61,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amashiwi pa cipampa",
+                                "bombela pamo na abasambi ukupituluka mu mashiwi",
+                                "eba cila musambi ukubelengapo ishiwi"
+                            ],
+                            "learner_steps": [
+                                "babelenge amashiwi"
+                            ],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "Ukupanga ifilundwa ukubomfya ifiunda (bakapaaso) na imfumu Expected: Ifilundwa mu mashiwi fyapendwa mukulungika.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 60,
+                        "questions": [
+                            "Kafundisha ukweba abasambi ukupanga na ukupenda ifilundwa"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.4",
+                    "title": "Amashiwi",
+                    "page": 62,
+                    "competences": [
+                        "Ukwishiba amashiwi aya anguka"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba imiseela pa cipampa iyakuminkana",
+                                "bombela pamo na abasambi ukubelenga na ukulekanya amashiwi mu miseela",
+                                "eba cila musambi alekanyepo umuseela umo pa cipampa",
+                                "balekanye amashiwi mu miseela",
+                                "bayaamabalipancinga=Bayaama bali pa ncinga",
+                                "mukanunayakumabala=………………………",
+                                "umwananalaala=………………………….."
+                            ],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 63,
+                        "questions": [
+                            "Eba abasambi ukusha incende pakati ka mashiwi mumiseela nga"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.5",
+                    "title": "Ukumfwa na ukwasuka",
+                    "page": 0,
+                    "competences": [
+                        "Ukwilula ifili mu lyashi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": "i.    Bushe finshi Mwenya ateya?............",
+                            "teacher_steps": [
+                                "belengela abasambi akatabo",
+                                "ipusha abasambi amepusho pafyo bomfwile",
+                                "eba cila musambi alandepo pafyo omfwile"
+                            ],
+                            "learner_steps": [
+                                "baasuke amepusho pafyo bomfwile"
+                            ],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.6",
+                    "title": "Imilembele",
+                    "page": 0,
+                    "competences": [
+                        "Ukuleemba ifilembo",
+                        "Ukulemba amashiwi mwilembo lyakulemba cimo-cimo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 65,
+                            "hook": null,
+                            "teacher_steps": [
+                                "langa abasambi ifintu ifili na masheepu ayalekana-lekana",
+                                "eba abasambi ishina lya cila shepu"
+                            ],
+                            "learner_steps": [
+                                "bapalanye ishiwi kuli sheepu"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 66,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amapatani pa cipampa",
+                                "langa abasambi ifyo aya mapatani yalembwa",
+                                "eba cila musambi alembe amapatani mu mwela, panshi na pa cipampa",
+                                "baleembe amapatani"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba icilembo pa cipampa",
+                                "langa abasambi ifyo ico icilembo cilembwa",
+                                "eba cila musambi alembe icilembo mu mwela, panshi na pa cipampa",
+                                "balembe icilembo"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 67,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba icilembo pa cipampa",
+                                "langa abasambi ifyo ico icilembo cilembwa",
+                                "eba cila musambi alembe icilembo mu mwela, panshi na pa cipampa"
+                            ],
+                            "learner_steps": [
+                                "balembe ifilembo (Aa), (Ee), (Ii), (Oo) na (Uu)"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 68,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amashiwi pa cipampa mu cilembo cimo-cimo",
+                                "belenga amashiwi na abasambi",
+                                "langa abasambi ifyo amashiwi yalembwa",
+                                "bakopolole amashiwi ayali pa cipampa"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 69,
+                        "questions": [
+                            "Esha abasambi ukukopolola amasheepu, amapatani na ukulemba",
+                            "Esha abasambi ukukopolola amashiwi mu cilembo cimo-cimo"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "UKULANDA NABAKALAMBA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Ukulanshanya",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.2",
+                    "title": "Ukulanshanya nabakamba",
+                    "page": 0,
+                    "competences": [
+                        "Ukwishiba amashiwi na imiseela iyalinga ukubomfya pa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 70,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "balande amashiwi ayabomfiwa pakulanda na abakalamba"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "ipusha abasambi ukulanda pafyo baishipo pakasela",
+                                "bombela pamo na abasambi ukupanga akasela",
+                                "abasambi bapange akasela mu mabumba"
+                            ],
+                            "learner_steps": [
+                                "panga akasela akalelanda pa buluku kubaana nangu imiti iikola"
+                            ],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": [
+                            "Kafundisha ukwesha abasambi ukulanda amashiwi na imiseela"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.3",
+                    "title": "Ukwishiba Ifiunda",
+                    "page": 0,
+                    "competences": [
+                        "Ukwishiba ifilundwa mu mashiwi na ukufipanga",
+                        "Ukwishiba ukulanda ifiunda mukulungika",
+                        "Ukubiika ifiunda (ba kapaso) na imfumu pamo pakupanga",
+                        "Ukubiika ifilundwa pamo pakupanga amashiwi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 72,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amashiwi pa cipampa",
+                                "bombela pamo na abasambi ukulanda ifilundwa ifili mu mashiwi",
+                                "Eba cila musambi ashile pa filundwa kafundisha alanda"
+                            ],
+                            "learner_steps": [
+                                "Babelenge ifilundwa ifishililwepo mu mashiwi"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "londolwela abasambi ifyo bapenda ifilundwa mu mashiwi",
+                                "bombela pamo na abasambi ukubelenga amashiwi na ukupenda ifilundwa mu",
+                                "eba cila musambi atoote ukulingana na ifilundwa ifili mwishiwi"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "panga amashiwi ukubomfya ifilundwa ifi:"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 74,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 75,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "balande iciunda baleumfwa pakutampa kweshiwi"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "balande iciunda baleumfwa pa mpela ya ishiwi"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amashiwi pacipampa",
+                                "belenga amashiwi na abasambi",
+                                "eba cila musambi ukucinja ifiunda mu mashiwi aya peelwe"
+                            ],
+                            "learner_steps": [
+                                "bacinje ifiunda mu mashiwi"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 77,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "balande amashiwi ayomfwika cimo cine pakulekelesha kwa ishiwi"
+                            ],
+                            "short_notes": "Ifiunda fyasoswa bwino ukubomfya amashiwi ayomfwika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 78,
+                            "hook": null,
+                            "teacher_steps": [
+                                "langa abasambi ifiunda ifili mwisambililo",
+                                "bombela pamo na abasambi ukulanda ifiunda ifili mwisambililo",
+                                "eba cila musambi alande ifiunda ifili pa cipampa",
+                                "balande ifiunda ifili pa cipampa"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Ifiunda ifipeelwe fyalandwa mukulungika"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "balande iciunda icili pali kadi"
+                            ],
+                            "short_notes": "Ifiunda fyalandwa mukulungika."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 79,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba ifiunda pa cipampa",
+                                "bombela pamo na abasambi ukulanda ifiunda ifili pa cipampa",
+                                "eba cila musambi alande iciunda ico wasonta",
+                                "biika ifiunda ifya lekana-lekana mu kabokoshi"
+                            ],
+                            "learner_steps": [
+                                "basobololemo ifiunda basambilile",
+                                "/ng/,/c/,/aa/,/oo/,/ee/,/ii/,/uu/,/y/, /w/"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 80,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba imfumu pa cipampa",
+                                "pituluka mu mfumu na basambi",
+                                "lemba ifiunda ifili mwisambililo",
+                                "londolwela abasambi ifyo ifilundwa fipangwa ukubomfya iciunda (kapaso) na",
+                                "balembe ifilundwa ifili mwisambililo"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Ukupanga ifilundwa ukubomfya ifiunda (bakapaaso) na imfumu Expected: "
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "babelenge ifilundwa ifili pali caati"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba ifilundwa pa cipampa",
+                                "bombela pamo na abasambi ukubelenga ifilundwa ifili pa cipampa",
+                                "biika ifilundwa ifya lekana-lekana mu kabokoshi",
+                                "eba abasambi ukusobololamo ifilundwa basambilile"
+                            ],
+                            "learner_steps": [
+                                "basobololemo ifilundwa basambilile"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 82,
+                            "hook": null,
+                            "teacher_steps": [
+                                "langilila abasambi ifyo bacinja ifiunda mu mashiwi",
+                                "eba abasambi beminine muli seeko",
+                                "peela abasambi amakadi apali ifiunda",
+                                "eba abasambi ukwimba ulwimbo kambeba",
+                                "cinja ifiunda ifikwete abasambi",
+                                "ipusha cila musambi ukubelenga ishiwi apanga"
+                            ],
+                            "learner_steps": [
+                                "babelenge ifilundwa bapanga"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 83,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba ifilundwa pa cipampa",
+                                "pituluka mu filundwa na abasambi",
+                                "langilila abasambi ifyo amashiwi yapangwa ukubomfya ifilundwa",
+                                "pangeni amashiwi na abasambi",
+                                "eba cila musambi ukupanga amashiwi"
+                            ],
+                            "learner_steps": [
+                                "bapange amashiwi"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 84,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba ifilundwa pa cipampa",
+                                "bombela pamo na abasambi ukufuuta na ukucinja ifilundwa mu mashiwi",
+                                "eba cila musambi ukucinja na ukufuuta ifilundwa mu mashiwi"
+                            ],
+                            "learner_steps": [
+                                "bacinje na ukufuuta ifilundwa mu mashiwi",
+                                "i.besa- fumyako be bikapo le yatupela lesa",
+                                "ii.mina- fumyako na bikako ma yatupela……"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amashiwi pa cipampa",
+                                "bombela pamo na abasambi ukubelenga amashiwi pa cipampa",
+                                "eba cila musambi abelenge ifilundwa ifyo ushililepo"
+                            ],
+                            "learner_steps": [
+                                "babelenge ifilundwa ifyo kafundisha ashililepo"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 85,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amashiwi pa cipampa",
+                                "bombela pamo na abasambi ukubelenga amashiwi",
+                                "eba cila musambi alande ifilundwa ifili mwishiwi"
+                            ],
+                            "learner_steps": [
+                                "balande ifilundwa ifili mwishiwi"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 86,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "balande bingo nga cakuti icilundwa kafundisha alanga nacilungama"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 87,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amashiwi pa cipampa",
+                                "bombela pamo na abasambi ukupituluka mu mashiwi",
+                                "eba cila musambi ukubelengapo ishiwi"
+                            ],
+                            "learner_steps": [
+                                "babelenge amashiwi"
+                            ],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "Ifiunda fyasoswa bwino ukubomfya amashiwi ayomfwika Ifiunda ifipeelwe fyalandwa mukulungika",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": [
+                            "Kafundisha ukweba abasambi ukulanda na ukusobolola ifiunda",
+                            "Kafundisha ukweba abasambi ukupanga, ukubelenga caati wa"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.4",
+                    "title": "Amashiwi",
+                    "page": 0,
+                    "competences": [
+                        "Ukwishiba amashiwi aya anguka"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 88,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba imiseela pa cipampa iyakuminkana",
+                                "bombela pamo na abasambi ukubelenga na ukulekanya amashiwi mu miseela",
+                                "eba cila musambi alekanyepo umuseela umo pa cipampa",
+                                "balekanye amashiwi mu miseela",
+                                "Bamaayonabasendainkuni=Bamaayo nabasenda inkuuni",
+                                "Mwapealebelengaicitabomulengaayakusukulu=………………………",
+                                "Umwanaalenwaamenshi=………………………….."
+                            ],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.5",
+                    "title": "Ukumfwa na ukwasuka",
+                    "page": 89,
+                    "competences": [
+                        "Ukwilula ifili mu lyashi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": "iv.   Bushe Bupe abuuka nshita nshi?................",
+                            "teacher_steps": [
+                                "belengela abasambi akatabo",
+                                "ipusha abasambi amepusho pafyo bomfwile",
+                                "eba cila musambi alandepo pafyo omfwile",
+                                "abasambi baasuke amepusho pafyo bomfwile"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.6",
+                    "title": "Imilembele",
+                    "page": 0,
+                    "competences": [
+                        "Ukulemba ifilembo",
+                        "Ukulemba amashiwi mu cilembo cimo-cimo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 91,
+                            "hook": null,
+                            "teacher_steps": [
+                                "langa abasambi ifintu ifili na masheepu ayalekana-lekana",
+                                "(seeko, tilayango, sikweya na lekitango)",
+                                "eba abasambi ishina lya cila sheepu"
+                            ],
+                            "learner_steps": [
+                                "bapalanye ishiwi kuli sheepu"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amapatani pa cipampa",
+                                "langa abasambi ifyo aya ama patani yalembwa",
+                                "eba cila musambi alembe amapatani mu mwela, panshi na pa cipampa",
+                                "baleembe amapatani nga ifi:"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba icilembo pa cipampa",
+                                "langa abasambi ifyo ico icilembo cilembwa",
+                                "eba cila musambi alembe icilembo mu mwela, panshi na pa cipampa",
+                                "balembe icilembo nga ifi:"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 93,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba icilembo pa cipampa",
+                                "langa abasambi ifyo ico icilembo cilembwa",
+                                "eba cila musambi alembe icilembo mu mwela, panshi na pa cipampa"
+                            ],
+                            "learner_steps": [
+                                "balembe ifilembo"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 94,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amashiwi pa cipampa mu cileembo cimo-cimo",
+                                "belenga amashiwi na abasambi",
+                                "langa abasambi ifyo amashiwi yalembwa mu cilembo cimo-cimo",
+                                "bakopolole amashiwi ayali pa cipampa"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.7",
+                    "title": "Ukulanshanya",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.8",
+                    "title": "Ukulanshanya na Ifibusa",
+                    "page": 0,
+                    "competences": [
+                        "Ukubomfya amashiwi ayayana ilyo balelanda na abakalamba",
+                        "Ukwishiba na ukupanga ifilundwa fyamashiwi",
+                        "Ukwishiba na ukubomfya ifiunda",
+                        "Ukubiika ifiunda na imfumu pamo pakupanga ifilundwa",
+                        "Ukubika ifilundwa pamo pakupanga amashiwi. (bomfya vcv,"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": "-mune wafuma kwi?",
+                            "teacher_steps": [
+                                "landapo ishiwi na imiseela iyalinga iibomfiwa pakulanda na ifibusa",
+                                "lanshanya na abasambi pa mashiwi na imiseela iibomfiwa pakulanda",
+                                "eba cila musambi alandepo ishiwi na umuseela uwipi uubomfiwa"
+                            ],
+                            "learner_steps": [
+                                "balande amashiwi na imiseela nga ifi;",
+                                "Ulishaani",
+                                "wabuuka shaani",
+                                "boi",
+                                "alo boi",
+                                "mune wafuma kwi?"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "bapange akasela akalelanda pabulwele bwa kolela"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amashiwi pa cipampa",
+                                "bombela pamo na abasambi ukulanda ifilundwa ifili mu mashiwi",
+                                "eba cila musambi ashile pa cilundwa walanda"
+                            ],
+                            "learner_steps": [
+                                "shila pa filundwa ifi",
+                                "yabi",
+                                "wiba",
+                                "ng’oma"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "batoote ukulingana na ifilundwa ifili mu mashiwi"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "bapange amashiwi aya:"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba ishiwi pa cipampa",
+                                "belenga ishiwi na abasambi"
+                            ],
+                            "learner_steps": [
+                                "bacinje na ukufumyapo ifilundwa mu mashiwi yapeelwe",
+                                "chama fumyako ma bikapo li yatupela………………………………",
+                                "bakemba fumyako ba yashala………………………………………….",
+                                "butuka fumyako ko yashala……………………………",
+                                "kamanga fumyako ko yashala………………………",
+                                "shilunga fumyako shi yashala………………………"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 100,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "bashile pa ciunda icitampiile kwishiwi"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "balande ifiunda ifili pampela ya mashiwi"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 101,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "bacinje na ukufuuta ifiunda mu mashiwi",
+                                "cinja m muli mona ubikepo n ukupanga……………………………",
+                                "kwishiwi kalemba fuutako ka yaaba……………………………………."
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amashiwi pa cipampa",
+                                "belenga amashiwi na abasambi"
+                            ],
+                            "learner_steps": [
+                                "balande amashiwi ayomfwika neciunda cimo cine pakulekelesha"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 103,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "balande ifiunda ifi:"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "bapange ifilundwa"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "belenga ifilundwa pali caati"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "basobololemo ifilundwa basambilile mu mabumba"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 106,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "bacinje iciunda",
+                                "icilundwa wa fumyapo w biikapo l =……………",
+                                "Icilundwa be fumyapo b biikapo j =……………."
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 107,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "bacinje na ukufuuta ifilundwa mu mashiwi",
+                                "Ishiwi lela- fumyako la bikapo ta yatupela ……………",
+                                "Ishiwi Kafunda- fumyapo ka yatupela ………………."
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "baputaule ifilundwa ifili mu mashiwi",
+                                "mashini = ma -shi -ni",
+                                "kacema=……….",
+                                "musa=……….."
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "bapende ifilundwa ifili mu mashiwi yapeelwe",
+                                "ukucindika muli ifilundwa …………………..5",
+                                "kalemba muli ifilundwa ……………………..",
+                                "temwa muli ifilundwa ……………………..."
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "bapituluke mu filundwa ifili pa cipampa",
+                                "bafwale amakadi ya filundwa mu mukoshi",
+                                "babelenge ifilundwa ifili mu mukoshi"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.9",
+                    "title": "Amashiwi",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.10",
+                    "title": "Ukwishiba Amashiwi",
+                    "page": 0,
+                    "competences": [
+                        "Ukwishiba Amashiwi ayaanguka"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": [
+                            "Eba abasambi ukusha incende pakati ka mashiwi mu miseela nga"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.11",
+                    "title": "Ukwilula ifili mu lyashi",
+                    "page": 0,
+                    "competences": [
+                        "Ukwilula ifili mu lyashi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 112,
+                            "hook": "1.Naani atemwa ukubelenga ututabo?.............",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": [
+                            "Belenga ilyashi elyo ubepushe amepusho"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.12",
+                    "title": "Imilembele",
+                    "page": 0,
+                    "competences": [
+                        "Ukulemba ifilembo",
+                        "Ukulemba amashiwi mwilemba ilyakulemba icilembo cimo-"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 113,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 115,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "balembe ifilembo (p), (b), (o)",
+                                "Londolola pa cilembo icikalamba P na icileembo icinoono p"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 116,
+                            "hook": null,
+                            "teacher_steps": [
+                                "lemba amshiwi pa cipampa mu cilembo cimo-cimo",
+                                "belenga amashiwi na basambi",
+                                "langa abasambi ifyo amashiwi yalembwa"
+                            ],
+                            "learner_steps": [
+                                "bakopolole amashiwi pa cipampa"
+                            ],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": [
+                            "Esha abasambi ukukopolola amasheepu, amapatani na ifilembo",
+                            "Esha abasambi ukukopolola amashiwi mu cilembo cimo-cimo"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

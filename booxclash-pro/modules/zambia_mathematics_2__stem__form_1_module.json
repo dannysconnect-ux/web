@@ -1,0 +1,1151 @@
+{
+    "subject": "MATHEMATICS II (STEM)",
+    "grade": "FORM 1",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "REAL NUMBERS",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Types of Numbers",
+                    "page": 16,
+                    "competences": [
+                        "Use the different types of numbers in real life."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 17,
+                            "hook": "Real numbers include various types of numbers such as natural numbers, whole numbers, integers, rational numbers, and irrational numbers. They form the basis for arithmetic and algebraic calculations. Real numbers are commonly used in everyday life, from counting objects to physical quantities, such as distance, velocity and acceleration, in science and engineering. Real numbers are also applied in finance and budgeting, inventory management, time keeping and scheduling, scoring and grading, game scores and points, just to mention but a few. Exploring real numbers is essential for building mathematical foundations, developing problem-solving and critical thinking skills, and fostering curiosity and creativity. You can introduce real numbers through a mix of visual tools, hands-on activities, and real-life examples. Learners can develop a strong and intuitive grasp of this essential mathematical concept. These activities are designed to be hands-on, interactive, and relevant to real-life applications. Problem Posing: Find a number that is: (a) A whole number but not a natural number (b) An integer but not a whole number (c) A real Number that is irrational",
+                            "teacher_steps": [
+                                "Divide learners into groups. Assign each group to explore on the types of numbers.",
+                                "Ask learners if they found some numbers appearing in more than one category of numbers, let them share their findings about these numbers. Ask them where in real life these numbers are found."
+                            ],
+                            "learner_steps": [
+                                "Ask each group to give examples of the types of numbers explored. Let them present numbers in different ways such as diagrammatic presentation to the class."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2",
+                            "page": 17,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 1: Exploring Different Types of Numbers' block, which is introduced by the Problem Posing on page 16.",
+                            "teacher_steps": [
+                                "Put learners into small manageable groups of mixed abilities."
+                            ],
+                            "learner_steps": [
+                                "Ask learners in groups to throw a fair six sided die a number of times (say 10 times). Ask them to write down the number of times odd numbers, even numbers, prime numbers, composite numbers appear on top. Let them make presentations to show their findings of the experiment to the class."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3",
+                            "page": 17,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 1: Exploring Different Types of Numbers' block, which is introduced by the Problem Posing on page 16.",
+                            "teacher_steps": [
+                                "Put learners into small manageable groups of mixed abilities. Come up with worksheets of different magic squares."
+                            ],
+                            "learner_steps": [
+                                "Ask learners in groups to complete the magic square games, whereby they get the same number when they add across each row, add down each column, and add diagonally. The first group to correctly complete the magic squares wins. Below are the two examples of the magic squares."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4",
+                            "page": 18,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 1: Exploring Different Types of Numbers' block, which is introduced by the Problem Posing on page 16.",
+                            "teacher_steps": [
+                                "Provide number cards with different numbers written on them (e.g. 1 \u2013 20, 21 \u2013 40, 41 - 60) to learners in small manageable groups of mixed abilities. Put two empty boxes, one labeled prime numbers and the other composite numbers per group for learners to place their number cards. Alternatively, draw two large circles on the floor for each group labeled as such.",
+                                "Ask them how the two categories of numbers (prime and composite) are related and their use in real life."
+                            ],
+                            "learner_steps": [
+                                "Let learners sort the number cards by placing them in their respective boxes or circles in their small groups."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5",
+                            "page": 19,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 1: Exploring Different Types of Numbers' block, which is introduced by the Problem Posing on page 16.",
+                            "teacher_steps": [
+                                "Put learners into small manageable groups of mixed abilities. Give each group a large number line drawn on a long sheet of paper or on the ground. Each number line should have a range of rational numbers you have provided. Give each group rational numbers written on number cards. The cards should contain both fractions and decimals."
+                            ],
+                            "learner_steps": [
+                                "Ask learners to arrange numbers from least to greatest on the number line. The first group to correctly order all their numbers wins."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1",
+                            "page": 20,
+                            "hook": "Problem Posing: Can the sum of a rational number and an irrational number ever be a rational number? Justify your answer with an example.",
+                            "teacher_steps": [
+                                "Put the learners in pairs and provide them with a list of numbers. Ask them to classify the number as rational or irrational.",
+                                "Let the learners express 3/8 and 12/7 as decimals. Decimals such as 1.7142857... that do not terminate and are called infinite decimals on the other hand decimals which termite such as 0.375 are called finite decimals. Let the learners present recurring decimals correctly."
+                            ],
+                            "learner_steps": [
+                                "Let learners use calculators, phones, tablets, ipads, computers to confirm decimal expansions (e.g. 1/3 = 0.333... is rational; \u03c0 is irrational)."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2",
+                            "page": 21,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 2: Distinguishing Rational and Irrational Numbers' block, which is introduced by the Problem Posing on page 20.",
+                            "teacher_steps": [
+                                "Put learners into small manageable groups of mixed abilities. Provide them with number cards with rational and irrational numbers written on them."
+                            ],
+                            "learner_steps": [
+                                "Have learners sort them in their small groups. The first group to correctly sort the numbers as rational and irrational wins the competition."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1",
+                            "page": 22,
+                            "hook": "Problem Posing: A farmer is planting trees in a square formation, with each tree planted 6 meters apart. If the farmer plants a total of 25 trees, how much area will the trees cover? Use the concept of squares to solve.",
+                            "teacher_steps": [
+                                "Provide learners with a table of numbers.",
+                                "Let learners generate the square numbers (1, 4, 9...) and cube numbers from (1, 8, 27...) so that they understand the square roots and cube roots."
+                            ],
+                            "learner_steps": [
+                                "Ask them to calculate the square roots and cube roots using mental math or any other gadgets (e.g., \u221a16 = 4, \u00b3\u221a27 = 3)."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2",
+                            "page": 23,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 3: Evaluating Squares and Cubes' block, which is introduced by the Problem Posing on page 22.",
+                            "teacher_steps": [
+                                "Put learners into small groups of mixed abilities. Give each group, number cards with whole numbers written on them.",
+                                "All natural numbers can be split using square numbers. You let the learners try them from the number 1. You can also give them the four, fours game. Where they use 4, 4, 4, 4 to get 1, 2, 3 and so on. If you let them go up to 10, the first group to finish wins the game"
+                            ],
+                            "learner_steps": [
+                                "Ask learners to split those whole numbers into square numbers. For example 13 = 9+4, 24=16+4+4, 35=25+9+1."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.4",
+                            "page": 24,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 3: Evaluating Squares and Cubes' block, which is introduced by the Problem Posing on page 22.",
+                            "teacher_steps": [
+                                "Provide learners with a rectangular shape.",
+                                "Ask them how they can find the area of this rectangle, Can it be done as \u221a3 \u00d7 \u221a2 just like 3 x 2 = 6, then \u221a3 x \u221a2 = \u221a6 ask them if we can calculate numbers having \u221a in the same way. Let them check using numbers such as \u221a9 \u00d7 \u221a4. when the conclusion is made let them evaluate more of numbers such as \u221a18 \u00d7 \u221a2, \u221a7 \u00f7 \u221a16"
+                            ],
+                            "learner_steps": [
+                                "Ask them to calculate the area of the rectangle with length \u221a3 cm and width \u221a2 cm"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.3",
+                            "page": 24,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 3: Evaluating Squares and Cubes' block, which is introduced by the Problem Posing on page 22.",
+                            "teacher_steps": [
+                                "Come up with properly cut squared papers and give each learner."
+                            ],
+                            "learner_steps": [
+                                "Ask each learner to make a cubic box using a squared paper. Let them place the formed cubic boxes in the bigger box. Ask them to count the number of formed boxes which fill up the bigger box. Let them relate the number of cubic boxes counted to the volume of the bigger box."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1",
+                            "page": 26,
+                            "hook": "Problem Posing: Here is a sequence,1,4,9,16,25,,_______.What are the next two numbers, and what pattern explains this sequence? Can you create another sequence with different rule?",
+                            "teacher_steps": [
+                                "Put learners in small manageable groups. Ask learners to create a sequence or pattern using square numbers, cube numbers, or rational numbers.",
+                                "When they are done with their presentations let each group draw a table of numbers 1 - 100. Let then identify the 5th multiple of 3, the 9th multiple of 3, the 12th multiple of 3, the 20th multiple of 3, the 24th multiple of 3 and the 100th multiple of 3. the first group to get all answers correct wins."
+                            ],
+                            "learner_steps": [
+                                "Let learners present their patterns to the class. Let the other class members identify the rule in the pattern explaining the logic behind them."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2",
+                            "page": 26,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 4: Creating Number Patterns and Puzzles' block, which is introduced by the Problem Posing on page 26.",
+                            "teacher_steps": [
+                                "Put learners in small manageable groups. Ask learners to create a sequence or pattern using technology such as simulations, spreadsheet, Desmos, GeoGebra."
+                            ],
+                            "learner_steps": [
+                                "Use a spreadsheet or Desmos or GeoGebra to generate number sequences."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.3",
+                            "page": 27,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 4: Creating Number Patterns and Puzzles' block, which is introduced by the Problem Posing on page 26.",
+                            "teacher_steps": [
+                                "Divide learners into small groups. Provide learners with pattern blocks, beads, number cards, or cubes to physically create and extend patterns. Set up hands on stations where learners rotate between different types of pattern puzzles (e.g. colour patterns, numerical sequences and shapes)."
+                            ],
+                            "learner_steps": [
+                                "Arrange the objects in a pattern and challenge peers to identify the rule. Predict the next item in a given pattern using logical reasoning."
+                            ]
+                        }
+                    ],
+                    "short_notes": "Numbers are the building blocks in mathematics and they come in various forms. Understanding the different types of numbers is essential for mathematical operations, problem solving and real world applications. Real numbers encompass all the numbers that can be represented on the number line, including rational and irrational numbers. In other words, real numbers can be defined as the union of both rational and irrational numbers. They can be either positive or negative numbers including zero. They are denoted by the symbol \u201cR\u201d. All the natural numbers, decimals and fractions come under this category. These numbers are called real to distinguish them from imaginary or complex numbers. Rational numbers are numbers that can be expressed as a fraction of two integers, whereas irrational numbers cannot be expressed as a simple fraction (e.g., \u221a2, \u03c0). Additionally, the study of real numbers includes exploring their squares, cubes, and patterns. Real numbers play an essential role in everyday life, including in calculations, measurements, scoring and grading, game scores, points, and scientific analysis. Real numbers are also used to represent monetary values, interest rates, and economic indicators in economics and finance. Exploring real numbers is essential for building a strong foundation in arithmetic, algebra, and number theory. In this topic, the subtopic is types of numbers. Natural numbers, integers, whole numbers, prime numbers, odd numbers, even numbers, composite numbers, squares and square roots, cubes and cube roots; rational and irrational numbers are examples of types of numbers. Make sure the concept of rational and irrational numbers is coming out accordingly. Clearly demonstrate the following numbers and give brief notes on them: Natural number, whole, integers, prime and composite numbers. Squaring a number means multiplying a number by itself or raising a number to the power of two, while cubing means multiplying a number by itself three times or raising a number to the power of three. Understanding square roots and cube roots helps build a strong foundation in Mathematics. They are essential for solving more complex problems involving roots, exponents, and logarithms. Moreover, they enable learners to understand and work with numbers in a more intuitive way, helping them make sense of the world around them. This is essential in geometry, algebra, and practical problem-solving. Ensure the concept of squares and cubes roots is coming out accordingly. Clearly demonstrate how to evaluate a mixture of square and cube roots and give brief notes. Number patterns involve sequences based on specific rules. Identifying and creating patterns enhances problem-solving skills. Make sure the concept of number patterns is coming out accordingly. Clearly demonstrate the difference between rational and irrational numbers (e.g. terminating, recurring) and give brief notes on them.",
+                    "vocabulary": [
+                        {
+                            "term": "Real Numbers",
+                            "definition": "Numbers on the number line."
+                        },
+                        {
+                            "term": "Rational Numbers",
+                            "definition": "Numbers expressible as a ratio of two integers (e.g. 1/2, -3, 4, 0.7)."
+                        },
+                        {
+                            "term": "Irrational Numbers",
+                            "definition": "Numbers that cannot be expressed as simple fractions (e.g. \u221a3, \u03c0)."
+                        },
+                        {
+                            "term": "Square Root",
+                            "definition": "A number which, when multiplied by itself, gives the original number (e.g. \u221a16=4)."
+                        },
+                        {
+                            "term": "Cube Root",
+                            "definition": "A number which, when multiplied by itself three times, gives the original number (e.g., \u00b3\u221a27 = 3)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 29,
+                        "questions": [
+                            "Let the learners investigate how different natural numbers and whole numbers are, from integers.",
+                            "Give learners a research project on how rational and irrational numbers can be applied in real life situation. Use the technological environment for this activity.",
+                            "Give learners exercises on evaluating squares and cube roots. Use materials such as: Progress in Mathematics Learners Book Grade 9 page 1 \u2013 10. Zambia Secondary school syllabus Learners Book 10 Page 229.",
+                            "Give learners a project based assignment to create number patterns using digital tools.",
+                            "Identify different types of numbers.",
+                            "Distinguish between rational and irrational numbers.",
+                            "Calculate square and cube roots.",
+                            "Create and solve number patterns or puzzles.",
+                            "Conduct a quiz with mixed questions on all subtopics.",
+                            "Ask open-ended questions to confirm learners' understanding (e.g., \u201cWhat makes a number irrational?\u201d or \u201cHow can you use square roots in real-life situations?\u201d)."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "SETS",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Introduction to sets",
+                    "page": 32,
+                    "competences": [
+                        "Apply the concept of set-builder notation and set operations in real life."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 33,
+                            "hook": "Problem Posing: A community has different sources of water, including lakes, rivers, and wells. Some of these sources are polluted due to human activities. a) Define a universal set W representing all water sources and subsets C (clean water sources) and P (polluted water sources). b) How would you use set operations to describe water sources that are both clean and polluted? c) How can environmentalists use set theory to address water polluted issues?",
+                            "teacher_steps": [
+                                "Put learners in small manageable groups of different abilities.",
+                                "Let learners relate sets to their daily activities"
+                            ],
+                            "learner_steps": [
+                                "Ask learners think about things or items they encounter in daily life that can be grouped together. Let the learners in their findings discover that the mathematical term used for items or things of common characteristics is called a set. After some time, ask some groups of learners make presentations of their findings. Let the other learners in other groups ask questions as one group makes a presentation."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2",
+                            "page": 34,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning activity 1: Exploring sets in the environment' block, which is introduced by the Problem Posing on page 33.",
+                            "teacher_steps": [
+                                "Put learners into small manageable groups of mixed abilities. Give them number cards to sort out according to type."
+                            ],
+                            "learner_steps": [
+                                "Ask learners to group number cards based on type such prime numbers, composite numbers, rational numbers. They can also play sorting games of numbers using digital gadgets."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1",
+                            "page": 35,
+                            "hook": "Problem Posing: How would the set of stars in the sky be classified and why?",
+                            "teacher_steps": [
+                                "Put learners in small manageable groups of mixed abilities."
+                            ],
+                            "learner_steps": [
+                                "Ask learners to explore different types of sets such as infinite, finite sets and make presentations."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2",
+                            "page": 35,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning activity 2: Exploring types of sets' block, which is introduced by the Problem Posing on page 35.",
+                            "teacher_steps": [
+                                "Show an empty chalk box to the learners after which show them a chalk box with a piece of chalk in it. Put learners in small manageable groups of mixed abilities."
+                            ],
+                            "learner_steps": [
+                                "Let learners discuss real-life scenarios that bring out the concept of an empty and singleton sets in their assigned groups, and present their findings."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3",
+                            "page": 36,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning activity 2: Exploring types of sets' block, which is introduced by the Problem Posing on page 35.",
+                            "teacher_steps": [
+                                "Put learners in small manageable groups. Give them an empty box which has pens or sweets and mealie meal or sand.",
+                                "After counting, ensure that learners understand that a set with countable or listed objects is known as a finite set and the opposite is an infinite set."
+                            ],
+                            "learner_steps": [
+                                "Ask learners to count the objects in the given box."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4",
+                            "page": 36,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning activity 2: Exploring types of sets' block, which is introduced by the Problem Posing on page 35.",
+                            "teacher_steps": [
+                                "Put learners in small manageable groups with mixed abilities."
+                            ],
+                            "learner_steps": [
+                                "Ask each learner in their small groups to list his or her favorite sport (s) in Grade 7. Let them compare their lists in their small groups and write the common favorite sports. Have learners come up with a mathematical term in the context of sets which represents common elements of two or more sets including its symbol.",
+                                "Ask learners to combine all the favorite sports in task (a) into one list. Let them discuss the mathematical term used to describe the set which they have formed including its symbol."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1",
+                            "page": 37,
+                            "hook": "Problem Posing: Let A = {x|x is an integer and 1 \u2264 x \u2264 5}. What are the elements of set A?",
+                            "teacher_steps": [
+                                "Put learners in small manageable groups of mixed abilities.",
+                                "Interpret set builder notation such as, {x|xey} or {x: xey}."
+                            ],
+                            "learner_steps": [
+                                "Ask learners to explore different ways of presenting sets and make presentations."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2",
+                            "page": 38,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 3: Interpreting Set-builder Notation' block, which is introduced by the Problem Posing on page 37.",
+                            "teacher_steps": [
+                                "Download different types of videos on set-builder notation. Put learners in small manageable groups of mixed abilities. Explain to the learners why you want to show the videos and what learners should pay attention to."
+                            ],
+                            "learner_steps": [
+                                "Let learners watch the videos attentively and discuss the different ways of presenting sets. Thereafter, let learners in their respective groups come up with different sets presented in different ways. Let each group present their findings to other class members."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1",
+                            "page": 38,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning activity 4: Presenting Sets in Set-builder Notation' block, which is introduced by the general introduction to this Learning activity on page 38.",
+                            "teacher_steps": [
+                                "Put learners in small manageable groups of mixed abilities. Give learners number cards.",
+                                "Let learners come up with different set-builder notations for natural, whole, prime, integers, even, rational and irrational numbers."
+                            ],
+                            "learner_steps": [
+                                "Ask learners to sort the number cards based on their type. Let the learners express the set of numbers that meet the certain criteria using set builder notation. For example, \u201cthe set of prime numbers\u201d can be written as {x|x is a prime number}."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2",
+                            "page": 39,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning activity 4: Presenting Sets in Set-builder Notation' block, which is introduced by the general introduction to this Learning activity on page 38.",
+                            "teacher_steps": [
+                                "Organize a game or activity that involves learners joining teams or clubs based on specific criteria, such as age or experience."
+                            ],
+                            "learner_steps": [
+                                "Ask learners to describe the set of members of a team or club using set builder notation. For example, \u201cthe set of all members in the soccer club who are over 10 years old\u201d can be written as {x|x is a member of the soccer club and x > 10}."
+                            ]
+                        }
+                    ],
+                    "short_notes": "Sets play a crucial role in various aspects of real life as they provide a fundamental way of organizing and categorizing objects, events or ideas. Thus, exploring sets around us is essential for real life applications. You can introduce the topic sets through a mixture of visual and digital tools, hands-on activities, and real-life examples and scenarios. Doing so will enable learners to develop a strong and intuitive grasp of this essential mathematical concept. The following are some of the learning activities to help learners explore and understand sets. These activities are designed to be engaging, hands-on and relevant to real-life applications. Sets are fundamental in Mathematics and help us classify objects, ideas and concepts in a structured way. Set theory connects with the environment, foster observations, analysis, and reasoning skills among learners. Ensure that the concept of set identification comes out clearly. Give examples of sets from the immediate environment. Through explorations and inquiry based learning, learners will be expected to identify and define different types of sets, and develop critical thinking by analyzing set related problems in diverse scenarios. Ensure that the concept of types of sets comes out clearly. Explain clearly on the following types of sets and give brief notes on them: Empty/null, singleton, finite, infinite, equal, equivalent, complement, intersection and union sets. Set-builder notation is very essential as it helps learners to express sets more precisely and compactly especially when describing large or infinite sets. It also allows for a clear and efficient way to define sets using a rule or condition, rather than just listing elements individually. Doing so fosters logical thinking and deeper understanding of how mathematical structures can be represented and manipulated. For more information on set-builder notation, visit https://study.com/academy/lesson/how-to-write-sets-using-set-builder-notation.html#/lesson. Ensure that the concept of presenting sets using set-builder notation clearly comes out and give brief notes. Set builder notation is one of the ways of representing sets in the most convenient and concise way.",
+                    "vocabulary": [
+                        {
+                            "term": "Cardinality of a set",
+                            "definition": "The number of elements in a set, e.g. n(A)"
+                        },
+                        {
+                            "term": "Complement of a set",
+                            "definition": "The set of all elements in the universal set that are not in a given set, denoted by say A'"
+                        },
+                        {
+                            "term": "Disjoint sets",
+                            "definition": "Sets that have no element in common. For example if sets A and B are disjoint, then A \u2229 B = \u00d8"
+                        },
+                        {
+                            "term": "Element (member)",
+                            "definition": "An individual object or item in a set. For example d is an element of the set {a, b, c, d}"
+                        },
+                        {
+                            "term": "Empty set (null set)",
+                            "definition": "A set without elements, and it is denoted by \u00d8 or {}"
+                        },
+                        {
+                            "term": "Equal sets",
+                            "definition": "These are sets that contain exactly the same elements. For example, if sets P and Q are equal, then every element in set P must be in Q and every element in set Q must be in P. This is denoted as P = Q"
+                        },
+                        {
+                            "term": "Equivalent sets",
+                            "definition": "These are sets that have the same number of elements but the elements maybe different. In other words, sets say A and B are said to be equivalent if the cardinality is the same in both sets. This is denoted as|A| = |B|, but A and B may not contain the same elements"
+                        },
+                        {
+                            "term": "Finite set",
+                            "definition": "This is a set that contains a limited number of elements. In other words, the number of elements in a finite set can be completely counted or listed"
+                        },
+                        {
+                            "term": "Infinite set",
+                            "definition": "This is a set that contains an unlimited or unaccountably large number of elements. In other words, the number of elements in an infinite set cannot be completely counted or listed"
+                        },
+                        {
+                            "term": "Improper subset",
+                            "definition": "A set say R is said to be an improper subset of set S if all elements of set R are in set S, and set R can either be equal to set S or a proper subset of set S. Thus, there is a possibility of R = S, entailing that every set is an improper subset of itself and an empty set is an improper subset of every set. Hence, every set has only two improper subsets except an empty set. An improper subset is denoted as \u2286"
+                        },
+                        {
+                            "term": "Intersection Set",
+                            "definition": "The set of elements common to both sets, denoted by A\u2229B"
+                        },
+                        {
+                            "term": "Proper subset",
+                            "definition": "A set say J is said to be a proper subset of say set K if and only if all elements of J are in K but J \u2260 K. In other words, J has fewer elements than K, denoted as \u2282"
+                        },
+                        {
+                            "term": "Roster Method (also known as tabular method)",
+                            "definition": "This is a way to describe a set by listing all of its elements. Each element is written explicitly within curry brackets. It is usually used when a set is small or when the elements are easily identifiable"
+                        },
+                        {
+                            "term": "Set",
+                            "definition": "This is a collection of well-defined distinct objects or elements which can be anything such as numbers or letters. The elements of a set are often listed inside curry brackets, with a comma separating them"
+                        },
+                        {
+                            "term": "Set -builder Notation",
+                            "definition": "This is a concise way to describe a set by specifying the properties that its members must satisfy. It is typically written in the form {x|property of x} where x represents an element of the set, the vertical bar can read as \u201csuch that\" and the property is a condition that elements of the set must satisfy"
+                        },
+                        {
+                            "term": "Subset",
+                            "definition": "A set where all elements are also in another set. For example {e, f} is a subset of {d, e, f, g}"
+                        },
+                        {
+                            "term": "Union Set",
+                            "definition": "This is the set of elements in either of the sets given without repeating the elements. It is denoted by the symbol \u222a"
+                        },
+                        {
+                            "term": "Universal Set",
+                            "definition": "This is a set containing all possible elements relevant to a particular discussion. It is the \u201cmother\u201d set of all the sets under discussion. It is denoted as \u025b = entirety or U= universal"
+                        },
+                        {
+                            "term": "Venn Diagram",
+                            "definition": "This is a diagram that uses the rectangle to denote the universal set and circles to represent sets and their relationships"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 39,
+                        "questions": [
+                            "Give learners a project based assignment on how sets are used in the daily operations of businesses and companies entities.",
+                            "Give individual exercise to the learners from the Zambia Secondary School Syllabus Mathematics Learners Book 10 (pages 25 to 30).",
+                            "Give exercises on set builder notation from Learners textbooks such as \u201cProgress in Mathematics Learners Book 8 on page 3 or Excel and Advance in Mathematics Learner's Book Grade 8 on pages 2 and 3.\u201d",
+                            "Give project based assessments to evaluate long term understanding and application of set-builder notation. For example, have learners create a project (categorize a collection of objects, survey data or media items) and present their findings, expressing their results using set builder notation."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Operations on Sets",
+                    "page": 39,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1",
+                            "page": 40,
+                            "hook": "Problem Posing: A community organizes a tree planting event where 20 learners' plant fruit trees, 15 learners' plant shade trees and 10 learners plant both fruit and shade trees. a) How many learners participated in at least one type of tree planting? b) How many learners planted only fruit trees? c) How many learners planted only shade trees? d) If the class has 40 learners, how many did not participate in the tree planting?",
+                            "teacher_steps": [
+                                "Put learners in small manageable groups with mixed abilities."
+                            ],
+                            "learner_steps": [
+                                "Ask learners in respective groups list their favorite fruits. Let them compare their lists in their respective groups and write the three common favorite fruits. Have learners come up with a mathematical term in the context of sets which represents common elements of three sets including its symbol.",
+                                "Ask learners to combine all the three favorite fruits from task (a) into one list. Let them discuss the mathematical term used to describe the set which they have formed including its symbol."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.2",
+                            "page": 41,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 5: Performing Single and Combined Operations Involving Intersection, Union and Complement of Sets' block, which is introduced by the Problem Posing on page 40.",
+                            "teacher_steps": [
+                                "Put learners in small manageable groups with mixed abilities as in activity 5.1.",
+                                "For part (ii), the term which should come out is universal set. Then for part (iv), the term that should be complement. For part (vi), the symbol should be A' or A\u1d9c."
+                            ],
+                            "learner_steps": [
+                                "Ask learners in their groups list all their favorite fruits.",
+                                "Let learners describe the set to which their common favorite fruits belong using a mathematical term.",
+                                "Ask learners list the set of fruits described in (ii) above.",
+                                "Let the learners list the set of fruits which are not in the set listed in (iii) above.",
+                                "Ask learners to state the mathematical name given to the set listed in (iv) above.",
+                                "Let learners give a symbol that is used to describe the set."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.3",
+                            "page": 41,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 5: Performing Single and Combined Operations Involving Intersection, Union and Complement of Sets' block, which is introduced by the Problem Posing on page 40.",
+                            "teacher_steps": [
+                                "Put learners in small manageable groups with mixed abilities.",
+                                "Explore further combinations of different sets for learners' examples to deepen their understanding."
+                            ],
+                            "learner_steps": [
+                                "Ask the learners in their respective groups list all the letters of the English alphabet. Let them denote this set as set E.",
+                                "Let learners in their respective groups list the set of vowels in E and denote it as set A.",
+                                "Ask learners in their respective groups to list letters from letter c to letter n from set E. Let them name this set as set B.",
+                                "Let learners in their respective groups list the letters of the word MATHEMATICS. Let learners name this set as set C.",
+                                "Ask learners in their respective groups list the set of letters found in both set A and C.",
+                                "Let learners in their respective groups list the set of letters in set E that are not common to sets A and C.",
+                                "Ask learners in their respective groups to list the set of letters that are not in set A but belong to both set B and C.",
+                                "Let learners in their respective groups list the set of letters that do not belong to set B or set C but belong to set A."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.1",
+                            "page": 43,
+                            "hook": "Problem Posing: In a school sports completion, learners had two favorite sports. 50 learners play football (F), 30 learners play basketball (B) and 15 learners play both football and basketball. I tried to count all the football and basketball players together, and I got 80. But I made a mistake because some learners were counted twice. How many learners actually play at least one sport?",
+                            "teacher_steps": [
+                                "Download different types of videos on Venn diagrams. Put learners in small manageable groups of mixed abilities. Explain to the learners why they should watch the videos and what learners should pay attention to. Give each group a question which they should demonstrate after watching the videos.",
+                                "Give learners questions which bring out the illustration of the concept of Venn diagram."
+                            ],
+                            "learner_steps": [
+                                "Let learners watch the videos attentively and observe how information is illustrated in the Venn diagram. Thereafter, let learners in their respective groups demonstrate how to illustrate given information in the Venn diagram. Let each group present their findings to other class members."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7.1",
+                            "page": 45,
+                            "hook": "Problem Posing: In a group of 50 people, 25 speak English, 20 speak French, and 10 speak both. How many people speak at least one of the two languages?",
+                            "teacher_steps": [
+                                "Put learners into small manageable groups of mixed abilities. Give learners bottle tops or marbles of different colors."
+                            ],
+                            "learner_steps": [
+                                "Ask the learners in their respective groups form sets based on different criteria (for example set A: red bottle tops or marbles, set B: blue bottle tops or marbles and set C: white bottle tops or marbles). Then let learners count how many elements are in each set and present them in set notation form, n(\u0410)."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "8.1",
+                            "page": 46,
+                            "hook": "Problem Posing: In a Venn diagram with three sets A, B, and C, the regions where A overlaps with B, B overlaps with C, and A overlaps with C are all shaded, but the region where all three sets overlap is left unshaded. What does the shaded region represent? Draw the Venn diagram and shade the correct region.",
+                            "teacher_steps": [
+                                "Divide the class into small manageable groups of mixed abilities. Provide learners with questions on sets involving Venn diagrams. Provide learners with questions where they can either use manila paper/flip charts or digital gadgets.",
+                                "Give learners questions up to the combination of three sets."
+                            ],
+                            "learner_steps": [
+                                "Ask the learners to shade specific regions based on set operations (union, intersection or complement)."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "8.2",
+                            "page": 47,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning activity 8: Describing the Shaded Region Using Set Notation and Shading Regions Described by a Set Notation' block, which is introduced by the Problem Posing on page 46.",
+                            "teacher_steps": [
+                                "Divide learners into small groups of mixed abilities. Use an interactive platform where learners can manipulate the shaded regions on a Venn diagram."
+                            ],
+                            "learner_steps": [
+                                "Let learners manipulate the shaded regions on a Venn diagram. Ask learners to write the corresponding set notation. For example, if the union of sets A and B is shaded, then they would write A U B."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "8.3",
+                            "page": 47,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning activity 8: Describing the Shaded Region Using Set Notation and Shading Regions Described by a Set Notation' block, which is introduced by the Problem Posing on page 46.",
+                            "teacher_steps": [
+                                "Provide learners with puzzle cards where one side shows a shaded region of a Venn diagram and the other side shows multiple set notation options."
+                            ],
+                            "learner_steps": [
+                                "Ask learners to match the correct set notation with the shaded region."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "8.4",
+                            "page": 48,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning activity 8: Describing the Shaded Region Using Set Notation and Shading Regions Described by a Set Notation' block, which is introduced by the Problem Posing on page 46.",
+                            "teacher_steps": [
+                                "Divide the learners into small groups of mixed abilities."
+                            ],
+                            "learner_steps": [
+                                "Ask some groups to create a Venn diagram based on specific set operations (such as union, intersection or complement). Then, let the other groups write the set notations that correspond to the shaded region."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "9.1",
+                            "page": 49,
+                            "hook": "Problem Posing: I am a collection of elements, and you can combine me with another collection. When you switch the order of collections, I don't change. If I group them differently, I still stay the same. When I distribute over another operation, the result is the same as doing the operations first, then combining. Who am I?",
+                            "teacher_steps": [
+                                "Divide the class into small manageable groups with mixed abilities.",
+                                "Ensure that all properties of CAD laws are clearly explored."
+                            ],
+                            "learner_steps": [
+                                "Ask the learners in their respective groups' to list whole numbers from 0 to 10 and denote this set as set A.",
+                                "Let learners in their respective groups list the set of natural numbers from 0 to 10 and denote it as set B.",
+                                "Ask learners in their respective groups to list even numbers from 0 to 10 and denote it as set C.",
+                                "Ask learners in their respective groups to find A\u2229B\u2229C and C\u2229B\u2229A. Let them make observations.",
+                                "Let learners in their respective groups to find A\u2229(B\u2229C) and A\u2229(B\u2229C). Let them make observations.",
+                                "Ask learners in their respective groups to find A\u2229(B\u222aC) = (A\u2229B)\u222a(A\u2229C). Let them make observations."
+                            ]
+                        }
+                    ],
+                    "short_notes": "Operations on sets are fundamental tools in Mathematics used to combine, manipulate and compare sets. These operations help in organizing data and solving problems across various fields that include computer science, statistics and everyday life. The main set operations are intersection, union and complement. These operations can be combined and this brings out the concept of combined operations. Understanding these operations is essential for logical reasoning and data analysis. For deeper understanding of operations on sets by the learners, it is encouraged that visual aids, digital platforms and learning activities based on real-life applications are used. In this subtopic, the operations on sets should go up to three sets. Ensure that the concept of operations on sets clearly comes out. Make sure that brief notes on operations on sets are given. The origins of the Venn diagram as a mathematical concept can be traced to the works of John Venn (1834-1923) who was an English Mathematician, Philosopher and Logician. The Venn diagram was designed to illustrate the logical relationships between different sets. The goal of John Venn was to create a simple way of visually representing set theory which was developing as a mathematics area at that particular time. In the Venn diagram, the overlapping circles show the interaction of sets (whether they share common elements, have unique elements or are entirely distinct). The geometrically rectangular shape in the Venn diagram indicates the universal set while the circles represent the subsets of that universal set. Connecting Venn diagram to familiar and everyday situation allows learners to see its usefulness and develop a deeper understanding of how mathematical concepts apply to real life. The use of everyday situations in Venn diagrams promotes higher order thinking. Ensure that the concept of Venn diagram is clearly explained. Brief notes on Venn diagrams should be given. The concept of the number of elements in a set is fundamental in Mathematics and is referred to as the cardinality of the set. The cardinality represents how many distinct elements are in the set. This concept has several practical applications in real life such as in counting, organizing data or objects. For example, the concept of cardinality is of much help in inventory management. To illustrate this, a store owner may want to track the number of distinct items in stock. If the store sells shirts, pants and shoes, the set of items in stock can be represented and the number of elements (cardinality) in the set indicates how many unique types of products are available. Another vital real-life application of the cardinality of sets is classroom attendance. In this case, the number of learners present in a classroom at any given time can be viewed as the cardinality of a set, where each learner represents unique elements. This ultimately helps in tracking attendance or participation in class activities. Make sure that the concept of number of elements in a given set is clearly explained. In Mathematics, shading of regions in a Venn diagram is used to represent sets, conditions and relationships between various quantities or objects. Make sure that the concept of describing the shaded region using set notation and shading regions described by a set notation is clearly explained. The commutative, associative and distributive laws are fundamental properties that describe how operations on sets behave. These laws provide structure and consistency to the operations of union and intersection in set theory much like how the corresponding properties apply to numbers in arithmetic. Further, these laws help in understanding how sets interact with each other and allow for the manipulation and simplification of set expressions in Mathematics and logic. Therefore, for better understanding of these CAD laws by the learners, it is encouraged that real-life scenarios from the immediate environment of the learners are used during lessons. These laws are fundamental in algebra because they enable the manipulation of expressions and equations. They are essential in various aspects of mathematics, including solving equations, factoring and simplifying expressions. Understanding these laws is key to progressing in algebra and higher mathematics. Ensure that the concepts of commutative, associative and distributive laws referred to as CAD laws are clearly explained. Give concise notes on these laws for deeper understanding.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 50,
+                        "questions": [
+                            "Give individual, pair work or group work questions on set operations using learners' textbooks such as \u201cProgress in Mathematics Learners Book 8\" learner activity 2, 3, 4 and 5 in on page 5, 7, 9 and 10 respectively, Exercise 1.2, 1.3, 1.4 and 1.5 in \"Excel and Advance in Mathematics Learner's Book Grade 8\u201d on pages 5, 7, 9 and 13 respectively, exercise 2a in \u201cSecondary School Mathematics: A course for Grades 10-12\" on pages 8&9, activity 2 in \"Progress in Mathematics Learners Book 10\" on page 6. Give Project Based Assessments.",
+                            "Give learners real-world problem solving tasks. For example, present a real-world scenario and ask learners to create a Venn diagram to solve problems. Learners can also be assessed using project based assessments. Give learners exercises from the Zambia Secondary School Mathematics by Finch (pages 10 to 19).",
+                            "Give individual learners real life scenario word problems and then ask learners to find the number of elements in the set. Assess learners through portfolio activities.",
+                            "Give learners projects that bring out the concept of shading regions. Give learners exercises from learners' textbooks such as the Zambia Secondary School Mathematics by Finch (pages 15 - 19).",
+                            "Providing them with incomplete equations or statements that learners should fill in.",
+                            "Carry out a survey to find out your classmates' interests in the three categories of sports hobbies and favourite music. Record the data in a table. Create well defined sets for the three categories and perform set operations. Analysis and present the data to the class."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "INTEGERS",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "The Four Operations on Integers",
+                    "page": 52,
+                    "competences": [
+                        "Apply the four operations on integers in real-life situations."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 53,
+                            "hook": "Problem Posing: I am an integer. My absolute value is 6. I am greater than \u201310 but less than 0. What number am I?",
+                            "teacher_steps": [
+                                "Put the learners in manageable groups of mixed abilities."
+                            ],
+                            "learner_steps": [
+                                "Ask the learners to conduct some research on integers and make presentations to the class. Let the other learners ask questions and choose the best presentation to be winners."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2",
+                            "page": 53,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 1: Exploring Integers' block, which is introduced by the Problem Posing on page 53.",
+                            "teacher_steps": [
+                                "Guide the learners on how people deposit and withdraw money at the bank and put the learners in manageable groups of mixed abilities to act a scenario at the bank. Give each group an amount of money to deposit (K50.00) and allow them also to withdraw (K20.00). Create more situations where their withdrawals equal their deposits which bring the balance to zero. Ask them to explain what zero means. Give more follow-up questions (e.g. What happens when you withdraw more money than you have? Let learners use terms such as positive balance, moving away from zero, going below zero, negative balance, no value, neutral)."
+                            ],
+                            "learner_steps": [
+                                "Let learners discuss how they are going to write in their books the deposits and withdraws. Let them explain the meaning of the transactions made the class."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1",
+                            "page": 55,
+                            "hook": "Problem Posing: In a football league, teams earn 3 points for a win, 0 points for a loss, and 1 point for a draw. Team A has 5 wins, 3 losses, and 2 draws. Team B has 4 wins, 4 losses, and 2 draws. a) Calculate the total points for each team using integers. b) Compare the performance of Team A and Team B. Which team has more points? c) If team A losses 2 more matches and Team B wins 1 more match, what will be their new standings?",
+                            "teacher_steps": [
+                                "Put learners into small manageable groups to come up with the concept of negative numbers and provide them with paper.",
+                                "Give learners more activities that bring out the concept of negative integers in real-life."
+                            ],
+                            "learner_steps": [
+                                "Ask learners to measure the temperature of water (room temperature water, cold water from the fridge and ice cold water). Let them record and interpret their findings. The group leaders should make presentations to the class."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2",
+                            "page": 56,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 2: Comparing situations which depict integers' block, which is introduced by the Problem Posing on page 55.",
+                            "teacher_steps": [
+                                "Divide learners in small manageable groups. Provide each group with a work sheet containing data on 5 to 10 Zambian hills, escapements, mountains and falls.",
+                                "On the data work sheet, put popular sites such as Muchinga escapement, Victoria falls, Lumangwe falls, Chishimba falls and Mafinga hills."
+                            ],
+                            "learner_steps": [
+                                "Let learners identify whether each location is above or below sea level. Let learners research and note elevation of each location. Ask learners to discuss how the elevation might affect the climate, vegetation, and human activities in each location. Ask the groups to present their findings to the class."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1",
+                            "page": 57,
+                            "hook": "Problem Posing: A quiz competition awards +5 points for correct answers and -2 points for incorrect answers. If a learner answers 6 correctly and 3 incorrectly, what is the final score?",
+                            "teacher_steps": [
+                                "Divide learners into small manageable groups. Prepare numbers cards from numbers (-10) up to (+10) and give each group."
+                            ],
+                            "learner_steps": [
+                                "Let the learners shuffle the cards and share equally. Each learner picks two cards and must find the sum (by adding), the learner with the highest sum wins the game. Let the game continue for 5 to 10 rounds and the learner with the highest wins is the champion."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2",
+                            "page": 57,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 3: Adding Integers' block, which is introduced by the Problem Posing on page 57.",
+                            "teacher_steps": [
+                                "Put the learners in small manageable groups. Let them draw larger number lines on the floor/ground so that they can play the game guided by the following steps, Neutral position= Always at zero, Positive sign of the number = move forward, Negative sign of the number = move backward, (+) sign(operation) = face positive direction, (-) sign (operation) = face negative direction.",
+                                "Give learners as many questions as possible on addition of integers. Ensure that the rules of adding integers are fully explored."
+                            ],
+                            "learner_steps": [
+                                "Let learner follow guided steps to pick a work card from the box and play the game. Make sure all the members of the group participate.",
+                                "Add (+2) and (+3): Stand at zero facing in the positive direction. The positive sign of the number means \u2018move forward'. Hence, +2 mean that move 2 steps forward. The operation sign + means face in the positive direction. +3 means move 3 steps forward. The learner has arrived at +5. Therefore, +2 + (+3) = +5.",
+                                "+3 + (-5) =: Stand at zero facing in the positive direction. +3 means move 3 steps forward. The operation signs, + means face in the positive direction. The negative sign of a number means moves backward. Hence -5 means move 5 steps backward. The learner has arrived at -2. Therefore, +3 + (-5) = -2."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1",
+                            "page": 59,
+                            "hook": "Problem Posing: A hiker is at 10 meters above sea level. She descends to -2 meters below sea level. a) What is the total change in her elevation? b) How can subtraction help you solve this problem?",
+                            "teacher_steps": [
+                                "Divide learners into small manageable groups. Prepare numbers cards from numbers (-10) up to (+10) and give each group."
+                            ],
+                            "learner_steps": [
+                                "Let the learners shuffle the cards and share equally. Each learner picks two cards and must find the difference (by subtracting), the learner with the lowest difference wins the game. Let the game continue for 5 to 10 rounds and the learner with the highest wins is the champion."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2",
+                            "page": 59,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning activity 4: Subtracting integers' block, which is introduced by the Problem Posing on page 59.",
+                            "teacher_steps": [
+                                "Put the learners in small manageable groups. Let them draw larger number lines on the floor/ground so that they can play the game guided by the following steps, Neutral position= Always at zero, Positive sign of the number = move forward, Negative sign of the number = move backward, (+) sign(operation) = face positive direction, (-) sign (operation) = face negative direction.",
+                                "Give learners as many questions as possible on subtraction of integers. Ensure that the rules of subtracting integers are fully explored."
+                            ],
+                            "learner_steps": [
+                                "Let learner follow guided steps to pick a work card from the box and play the game. Make sure all the members of the group participate.",
+                                "Subtract (+4) from (+3): Stand at zero facing in the positive direction. The positive sign of the number means \u2018move forward'. Hence, +3 mean that move 3 steps forward. The operation sign means face in the negative direction. +4 means move 4 steps forward. The learner has arrived at -1. Therefore, +3 - (+4) = -1.",
+                                "-3 - (-5) =: Stand at zero facing in the positive direction. -3 means move 3 steps backwards. The operation signs, means face in the negative direction. The negative sign of a number means moves backward. Hence -5 means move 5 steps backward. The learner has arrived at +2. Therefore, +3 + (-5) = +2 = 2"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.3",
+                            "page": 60,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning activity 4: Subtracting integers' block, which is introduced by the Problem Posing on page 59.",
+                            "teacher_steps": [
+                                "Put the learners in small manageable groups. Provide the groups with two dice of different colours (one colour to represent positive number and the other negative numbers)."
+                            ],
+                            "learner_steps": [
+                                "Ask learners in their respective groups to roll the two dice one after the other 5 times. Let them record the result on their score sheets. Ask the learners to subtract the result of the second die from the result of the first die. The group with the highest score after 5 rounds wins the battle."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1",
+                            "page": 62,
+                            "hook": "Problem Posing: A penalty in a game deducts \u20133 points per mistake. After 4 mistakes, what is the total score change? a) What is the result of the multiplication? b) Does the score increase or decrease? Explain why",
+                            "teacher_steps": [
+                                "Put the learners in small manageable groups. Provide the groups with two dice of different colours (one colour to represent positive number and the other negative numbers)."
+                            ],
+                            "learner_steps": [
+                                "Ask learners in their respective groups to roll the two dice one after the other 5 times. Let them record the result on their score sheets. Ask the learners to multiply the results of the dice for each roll for both colours. The group with the highest score after 5 rounds wins the battle.",
+                                "Ask the learners in their respective groups to roll the die of the same colour (positive and negative) twice and record the results on the score sheet (let them do that twice for the same colour). Ask learners to multiply the results of the dice for each roll on the score sheet. The group with the highest score wins the battle."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.2",
+                            "page": 62,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 5 \u2013 Multiplying Integers' block, which is introduced by the Problem Posing on page 62.",
+                            "teacher_steps": [
+                                "Put the learners in small manageable groups. Give learners worksheets having multiplication questions. The jumper always starts at zero on the number line.",
+                                "The jumper always stands at zero facing the positive direction, Positive \u00d7 positive: (e.g. +3\u00d7+4) means the jumper moves three steps forward per round 4 times. Negative \u00d7 positive: (e.g. -2 \u00d7 5) means the jumper moves 2 steps backwards per round 5 times. Negative \u00d7 negative: the jumper realizes that instead of moving backwards, they move forward (e.g. -2\u00d7-3) means the jumper moves 2 steps forward 3 times, the second negative reverses the direction of the first one, hence moving forward."
+                            ],
+                            "learner_steps": [
+                                "Let the learners use the number line to demonstrate the multiplication statements given on the worksheet. Let them record their answers on the worksheet."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.1",
+                            "page": 64,
+                            "hook": "Problem Posing: If a and b are integers, and a/b is not an integer, what can you say about a and b? Justify your answer with an example.",
+                            "teacher_steps": [
+                                "Put learners into small manageable groups of mixed abilities. Give each group a work sheet to solve the given questions on division of integers. The work sheets should contain a pattern of questioning such as, a. Both the dividend and the divisor are positive b. The dividend to be positive and the divisor is negative c. The dividend to be negative and the divisor is positive d. Both the dividend and divisor are negative",
+                                "Give learners more activities that bring out the sign rules and real-life situations."
+                            ],
+                            "learner_steps": [
+                                "Ask the learners to work out the questions from the work sheets and make presentations. Encourage other learners to ask questions. The best presenters are the winners."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7.1",
+                            "page": 65,
+                            "hook": "Problem Posing: Simplify: (\u22122 \u00d7 \u22125) \u2013 (3 \u00d7 -4) = ? a) What is the final answer? b) Why does multiplying two negative numbers give a positive result, and how does that affect subtraction here?",
+                            "teacher_steps": [
+                                "Put the learners in manageable groups of mixed abilities."
+                            ],
+                            "learner_steps": [
+                                "Ask the learners to conduct some research on combined operations of integers and make presentations to the class. Let the other learners ask questions and choose the best presenters become winners."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7.2",
+                            "page": 66,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning activity 7: Applying Combined Operations on Integers' block, which is introduced by the Problem Posing on page 65.",
+                            "teacher_steps": [
+                                "Divide learners into small manageable groups. Distribute a card to each group.",
+                                "Explain the rules of the game to the learners that there are four (4) numbers shown on the card, use \u201c+\u201d, \u201c-\u201c,\u201dx\u201d, \"\"\"Or() to form a numerical expressions equal to 24. The four numbers to be used as directed numbers are 1, 2, 3 and 4. For example, (4+2) + (-3+1) = 0, 4-(-3) x 2 = 1. The group that forms more expressions in the shortest set time to get correct answers will be the winner. The teacher can limit the number of terms for quick discussions."
+                            ],
+                            "learner_steps": [
+                                "The group that forms more expressions in the shortest set time to get correct answers will be the winner."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "8.1",
+                            "page": 67,
+                            "hook": "Problem Posing: Using a calculator or a coding tool like Python to evaluate this expression step by step : (-2+6) \u00d7 (-4) \u00f7 2. Does the calculator follow the correct order of operation? Explain your findings.",
+                            "teacher_steps": [
+                                "Put the learners in small manageable groups. Ask them to practice integer operations using technology such as spreadsheets GeoGebra and Desmos (e.g. A1+ B1, A1*B1, A1/B1; product (A1, B1))."
+                            ],
+                            "learner_steps": [
+                                "Use a spreadsheet, Desmos and GeoGebra to perform integers operations on addition, subtraction, division and multiplication by typing or entering sample integer values into columns A and B. Let them present their findings to the class and explain the logic."
+                            ]
+                        }
+                    ],
+                    "short_notes": "Integers are the fundamental building block of Mathematics, representing whole numbers that are either positive, negative or zero. The word \u201cinteger\u201d originates from the Latin word meaning \u201cwhole\u201d or \u201cuntouched\u201d reflecting their role as complete and indivisible units. This means that integers are numbers that can be written without a fractional part, such as 3, 6, 7, -3 and -8. All decimal numbers like 2/5, 4.75 or \u221a5 are not considered as integers. The set of integers is denoted by a symbol Z (Z) from a Germany word \u201cZahlen\u201d, meaning \u201cnumbers\u201d. This symbol Z (Z) stands for the set of all integers such that, Z (Z) = {..., -3, -2, -1, 0, 1, 2, 3, ...}. Integers play a crucial role in various mathematical operations such as addition, subtraction, multiplication and division. They follow five fundamental properties which are closure, associative, distributive, commutative, and identity. These properties are essential for various algebraic calculations in solving equations and inequalities, arithmetic and number theory. The four operations is the sub-topic of integers. Performing arithmetic operations on integers involves applying specific rules and procedures to obtain accurate results. The four basic operations; addition, subtraction, multiplication and division can be applied to integers to solve mathematical problems and real-world applications. Exploring integers starts with understanding their basic properties and how they interact in different mathematical situations and operations. They are commonly used in everyday life from counting to measuring and keeping track of financial transactions. Integers can be introduced through a mixture of visual tools, hands-on activities and real-life examples that can make learners develop a strong and intuitive grasp of essential mathematical concepts. Here are several engaging activities to help learners explore and understand integers. Ensure that the concept of integers is coming out correctly. Integers are everywhere even though we might not recognize them. In all reality, integers are just numbers, but a way to represent both positive and negative values that affect our daily lives in meaningful ways. Hence, there is need to guide the learners to come up with scenarios that depict the integers around us through the use of real-life situations. Here are some suggested activities; comparing situations which depict integers such as loss and profit in business, low and high temperatures, elevation below and above sea level. Ensure the learners are bringing out situations that depict integers from the environment. Adding integers is a fundamental concept in Mathematics, essential for understanding more complex operations. The process of adding integers involves combining given numbers to find their sum. Make sure the learners bring out the concept of adding integers correctly. Explain clearly on integers and give brief notes. The subtraction of integers is a fundamental mathematical operation that involves finding the difference between two numbers. Make sure the learners bring out the concept of subtracting integers correctly. Mastering multiplication of integers is essential for solving real-life problems such as calculating temperature, financial transactions and mathematical equations. There is need for the learners to understand the rules that govern these operations. Make sure the learners bring out the concept of multiplying integers correctly. Explain clearly on multiplication of integers and give brief notes. In our daily lives, we often share and divide things equally. Division is a process of splitting a number into equal parts. The concept of division will equip learners with the skills of sharing, distributing, comparing and solving problems efficiently. Make sure the learners bring out the concept of dividing integers correctly. Explain clearly on dividing of integers and give brief notes. By now it is understandable that there are various operations that are used on integers in different situations. Learning combined operations on integers builds a strong foundation in Mathematics. It will help learners how to approach problems step by step, deciding which operation to apply first and simplify expressions efficiently using the operations; addition, subtraction, division and multiplication of integers. Ensure the learners bring out the concept of applying combined operations on integers correctly. Explain clearly on combined operations on integers and give brief notes. The use of ICT tools can improve and reinforce learners' understanding with integers. There are various interactive tools that can be such as GeoGebra, IXL Math, Math Blaster-game-based learning and Kahoot. Make sure that ICT tools are explored to cement learners' understanding.",
+                    "vocabulary": [
+                        {
+                            "term": "Integers",
+                            "definition": "These are whole numbers either positive, negative or zero without a fractional part and are denoted as Z"
+                        },
+                        {
+                            "term": "Positive integers",
+                            "definition": "These are integers greater than zero and are denoted as Z\u207a"
+                        },
+                        {
+                            "term": "Negative integers",
+                            "definition": "These are integers less than zero and are denoted as Z\u207b"
+                        },
+                        {
+                            "term": "Zero",
+                            "definition": "This is a unique integer that represents neutrality, balance or starting point. It is neither negative nor positive and it separates positive and negative integers"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 68,
+                        "questions": [
+                            "Let learners investigate how integers are used in real-life.",
+                            "Give learners a research topic on how the elevator operates in relation to integers.",
+                            "Give learners exercises on adding integers using Learners Textbooks such as Progress in Mathematics, Grade 8 (pages 15 - 16), Zambia Basic Education Course Grade 8 (pages 51 - 56) or any other helpful resource.",
+                            "Give learners exercises on subtracting integers using Learners Textbooks such as Progress in Mathematics, Grade 8 (page 16), Zambia Basic Education Course Grade 8 (pages 56 - 61) or any other helpful resource.",
+                            "Give learners exercises on multiplication of integers and ensure they can apply them to real-life.",
+                            "Give learners exercises on division of integers and ensure that they can apply them to real-life. Give learners exercises on division of integers using learners' books such as Progress in Mathematics, Grade 8 (pages 17 - 18), Zambia Basic Education Course, Grade 8 (pages 63 - 65).",
+                            "Give learners exercises on combined operations on integers and ensure they can apply them to real-life. Use learners' books such as Progress in Mathematics, Grade 8 (pages 15 - 16), Zambia Basic Education Course, Grade 8 (pages 65 - 66).",
+                            "Give learners a project-based assignment to create integer activities, scenarios and games using digital tools.",
+                            "Investigative the how integers are applied in businesses."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "ALGEBRA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Algebraic Expressions",
+                    "page": 69,
+                    "competences": [
+                        "Apply algebraic expressions in different life contexts."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 70,
+                            "hook": "Problem posing: A bus was transporting passengers to town for shopping. Along the way, three passengers got off. How many passengers arrived in town?",
+                            "teacher_steps": [
+                                "Divide the class into small manageable groups of mixed abilities.",
+                                "Ensure that learners understand that 'x+5' means 'add 5 to a variable x' or' 5 more than x', 'a +b' means \u2018the sum of a and b' and so on."
+                            ],
+                            "learner_steps": [
+                                "Assign each group with different types of word statements involving addition, subtraction, multiplication and division. Let the learners discuss and write their agreed statements. For example, If each apple costs x kwacha and you buy 3 apples, write an expression for the total cost.",
+                                "Each group discusses their statements and create algebraic expressions. Then, they come together in new groups where each member shares their solutions."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2",
+                            "page": 71,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 1: Constructing algebraic expressions from word statements.' block, which is introduced by the Problem Posing on page 70.",
+                            "teacher_steps": [
+                                "Prepare well in advance enough cards with word problems on them, and their corresponding algebraic expression cards. Put the learners in manageable groups, provide them with the cards so that they can do the matching game.",
+                                "Word statements can also be written in form of symbols, for example, 'the product of a and b' can be written as \u201c ab'. give learners such statements and their matching symbols. Some more examples are a) The sum of p and the square of q b) Three times the product of a and b c) Twice n minus m d) The square of the sum of c and d e) 10 less than c"
+                            ],
+                            "learner_steps": [
+                                "Ask learners to perform the matching game. The group that finishes fast becomes the winner."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3",
+                            "page": 71,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 1: Constructing algebraic expressions from word statements.' block, which is introduced by the Problem Posing on page 70.",
+                            "teacher_steps": [
+                                "Put learners into small groups of varying abilities. Give them the task of gathering data on local pricing or statistics of various goods. Let them create algebraic expressions that model those situations."
+                            ],
+                            "learner_steps": [
+                                "Learners take a field trip and collect data on the pricing or statistics on various goods. Let them create algebraic expressions and make presentations."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1",
+                            "page": 73,
+                            "hook": "Problem Posing: A shop sells x oranges at K2 each. Another shop sells the same number of oranges at K1.50 each but adds a K3 packaging fee. Write algebraic expressions for both shops and determine which is cheaper for x = 5.",
+                            "teacher_steps": [
+                                "Put learners in groups and guide them on how to proceed with the group task. Set boundaries by stating the area which learners can search for the described items.",
+                                "Let learners relate word statements to variables and constants."
+                            ],
+                            "learner_steps": [
+                                "Let learners develop a list of items that they picked and represent them with different variables. Each item should have a corresponding variable and a brief description."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1",
+                            "page": 75,
+                            "hook": "Problem Posing: Given the expression 3y - 5, if y is doubled, what will be the new value of the expression? How does altering the variable y affect the overall expression, and what if instead, we halved y?",
+                            "teacher_steps": [
+                                "Put learners into manageable groups and give the respective groups worksheets which have algebraic expressions such as; Identify the, variables, coefficients and constants in the following expressions"
+                            ],
+                            "learner_steps": [
+                                "Let learners identify the variables and coefficient for the algebraic expressions given."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1",
+                            "page": 77,
+                            "hook": "Problem Posing: Imagine you're helping organize a school fundraiser. You have two types of donation boxes: one for coins and another for notes. The coin box has contributions like 3x Kwacha, 5x Kwacha, and 2y Kwacha, while the note box has 4x Kwacha, 7y Kwacha, and x Kwacha. To make accounting easier, you want to combine like terms for both boxes. Can you identify and group the like terms from both boxes? How would you explain the difference between like and unlike terms to a classmate using this example? After combining like terms, what is the total amount collected in each box?",
+                            "teacher_steps": [
+                                "Put learners in groups of mixed abilities. Let them work out real life scenarios given on worksheets by grouping like terms. Ask the learners why they have sorted out like terms in that order."
+                            ],
+                            "learner_steps": [
+                                "Let learners work out the algebraic expressions by grouping like and unlike terms. For example, you are designing a garden with different types of plants. The number of flower plants is represented by 4a + 3b, and the number of vegetable plants is 2a + 5b + a. a. Can you identify and combine the like terms to find the total number of each type of plant? b. Which terms in the expressions are unlike, and why can't they be combined?"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1",
+                            "page": 78,
+                            "hook": "Problem Posing: A carpenter is designing a rectangular table with a side length of (x + 2) metres and width 7 metres. Write an algebraic expression for the area of the table and simplify it.",
+                            "teacher_steps": [
+                                "Prepare original algebraic expression cards and stick them under their desks, not simplified and the corresponding algebraic expression card, which are simplified stuck on the wall. Learners should be in small manageable groups of mixed abilities. Tell the learners that \u201cYou are treasure hunters in a math adventure! To move from one clue to the next, you need to expand and simplify the algebraic expressions correctly. The first clue is hidden under your desk.\u201d",
+                                "Let learners have expressions such as 3(x+2)+ 2(2x+5) with 7x+16 stuck on the wall together with other solutions for other expression. Observe individual learners in their groups whether they are cooperative and whether they collaborate with their colleagues."
+                            ],
+                            "learner_steps": [
+                                "Learners work in groups to find the expression, expand and simplify it. Let them match the original expressions with their simplified counterparts on the wall. Discuss as a class afterwards."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.2",
+                            "page": 79,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning activity 5: Expanding and Simplifying Algebraic Expressions' block, which is introduced by the Problem Posing on page 78.",
+                            "teacher_steps": [
+                                "Put learners in small manageable groups with mixed abilities and allow them to have access to digital gadgets. Use online tools to practice expanding and simplifying algebraic expressions. Encourage learners to share their strategies or tips that they discover while using the tools."
+                            ],
+                            "learner_steps": [
+                                "Learners use online tools to practice expansion and simplification of algebraic expressions. Learners should share their discoveries as they use the tools and project their presentations."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.1",
+                            "page": 81,
+                            "hook": "Problem Posing: A shopkeeper loves playing number tricks with his customers. One day he tells a customer \u201cI sell baskets of fruits in a magical way. If you buy 4 apples and 6 bananas, then triple the order, you count in different ways but always get the same results. Can you prove my magic?\u201d",
+                            "teacher_steps": [
+                                "Put learners into small manageable groups. Observe the learners in their groups as they carry out the tasks below. During the process, are learners communicating effectively? Are they learning from one another? Are they creative?"
+                            ],
+                            "learner_steps": [
+                                "Ask learners to cut the manila paper into squares or rectangular shapes. Let learners assign variables to the square or rectangular paper cuts e.g. x for length and y for breadth/width. Ask learners to calculate the area of a square or rectangular paper cut. Let them rotate the square or rectangular paper cuts so that x now becomes the width/breadth and y becomes the length. Let them calculate the area again of the square or rectangular paper cut. Ask them to compare and discuss the two results."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.2",
+                            "page": 81,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning activity 6: Applying Commutative, Associative and Distributive (CAD) Laws' block, which is introduced by the Problem Posing on page 81.",
+                            "teacher_steps": [
+                                "Put learners in small manageable groups. Provide learners with term cards/expression cards such as 2x, 3x and 5x."
+                            ],
+                            "learner_steps": [
+                                "Ask learners to arrange the cards in different groupings for addition and multiplication. For Addition: (2x + 3x) + 5x, (3x + 5x) + 2x and (2x + 5x) + 3x. For Multiplication: (2x \u00d7 3x) \u00d7 5x, (3x \u00d7 5x) \u00d7 2x and (2x \u00d7 5x) \u00d7 3x. Ask learners to find answers for the addition and multiplication, and compare the results in each case."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6.3",
+                            "page": 82,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning activity 6: Applying Commutative, Associative and Distributive (CAD) Laws' block, which is introduced by the Problem Posing on page 81.",
+                            "teacher_steps": [
+                                "Put learners in small manageable groups. Give learners a scenario such as your school has decided to make a garden. You need to buy flowers and manure. The cost of one flower is represented by (x+5) kwacha, where x is the cost of plants and K5 is the cost of plastic for putting the plant. The manure costs (y+3) Kwacha per kilogram, where y is the cost of manure and K3 is for packaging. You are tasked with calculating the total cost for 4 flowers and 3 kilograms of manure.",
+                                "Let learners write a short reflection on how understanding the distributive law helped them solve a real-world problem and why it is important in everyday life (e.g., budgeting, shopping, planning events). This activity ensures that learners engage with the distributive law in a meaningful and practical way, developing both mathematical understanding and real-life problem-solving skills."
+                            ],
+                            "learner_steps": [
+                                "Ask learners to formulate the Expression and write an expression for the total cost such as 4(x + 5) + 3(y + 3). Guide them to use the distributive law to expand the expression 4(x + 5) to get 4x + 20 and 3(y + 3) to get 3y + 9. Combine the expanded terms to get the total cost 4x + 20 + 3y + 9, and group the like terms to get 4x + 3y + 29."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7.1",
+                            "page": 83,
+                            "hook": "Problem Posing: Your school is planning a cultural event, and you are part of the organizing committee. You need to buy decorations and snacks. The total cost of decorations and snacks can be represented by the expression: 2x+4xy, where x represents the cost of each decoration, and y represents the number of snack packs per decoration. To simplify budgeting, you need to factorize the expression to understand the cost structure better. Factorise the expression.",
+                            "teacher_steps": [
+                                "Put learners in small manageable groups. Provide them with incorrectly factored expressions on the worksheets."
+                            ],
+                            "learner_steps": [
+                                "Ask the learners to identify the mistakes and correct them."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7.2",
+                            "page": 84,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 7: Factorizing Algebraic Expressions Using Common Factors' block, which is introduced by the Problem Posing on page 83.",
+                            "teacher_steps": [
+                                "Put learners in small manageable groups. Place number cards around the classroom or outdoor area.",
+                                "For numbers you can revise with the learners on how to find the HCF which is useful for factorisation."
+                            ],
+                            "learner_steps": [
+                                "Let each group pick an expression card and search for its common factors among the factor cards placed around. Once the group collects the correct factor, they must write the factorization of their expression."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "8.1",
+                            "page": 85,
+                            "hook": "Problem Posing: Why does repeatedly multiplying an algebraic expression by a fraction or decimal lead to rapid decrease in its value?",
+                            "teacher_steps": [
+                                "Make worksheets for learners to use in groups."
+                            ],
+                            "learner_steps": [
+                                "Work out questions given from the work sheets involving all the four operations on Algebraic expressions such as work out a. 2x \u2013 y + xy \u2013 4(x + 3y) - 5xy, 5ab + a -2(4a \u00f7 a)"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "8.2",
+                            "page": 85,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 8: Applying the Four Operations on Algebraic Expressions.' block, which is introduced by the Problem Posing on page 85.",
+                            "teacher_steps": [
+                                "Put the learners in groups of mixed abilities. Provide them with work sheets to answer questions."
+                            ],
+                            "learner_steps": [
+                                "Lead the learners into applying the four operations on algebraic expressions. Present them with questions on real life situations on the work sheets such as finding the area, perimeter, or financial applications e.g. Find the area of the rectangular garden of length (2x + 3)m and of width ym. Find the concentration if a solution has 2x + 4 moles in a volume of 2x litres. Each glass of lemonade costs x+2x Kwacha to make. You sell 4x glasses. Write an expression for the total cost. Simplify the expression. Your total profit from jewelry sales is 8x\u00b2+16x. You split the profit equally among 4 team members. How much does each person get? The cost of decorations is 3x+5and the cost of food is 2x+8.What is the total cost? If you return decorations worth x+2, what is the new total cost?"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "9.1",
+                            "page": 87,
+                            "hook": "Problem Posing: Imagine you are an event planner tasked with organizing a school concert. The total cost of the event depends on the number of performers (p) and the hours (h) of rehearsal. Renting the venue is a fixed cost of 100. The cost expression is given by: 50p+20h+100. If there are 8 performers and 5 hours of rehearsal, what was the total cost?",
+                            "teacher_steps": [
+                                "Design worksheets for learners with word problems such as (Calculating phone credit balance. Joy has K20 in prepaid phone credit. Each call costs K2 and each text message costs K0.50. If she make x calls and sends y texts, the remaining balance is given by the expression: 20 - 2x + 0.5y",
+                                "Design a worksheet with different questioning techniques."
+                            ],
+                            "learner_steps": [
+                                "Let learners substitute different values of x and y to see how long her of credit lasts."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "9.2",
+                            "page": 87,
+                            "hook": "No explicit hook provided for this activity, but it falls under the 'Learning Activity 9: Evaluating Algebraic Expressions by Substituting Variables with Numbers' block, which is introduced by the Problem Posing on page 87.",
+                            "teacher_steps": [
+                                "Organize a game where learners earn points for correctly Substituting and evaluating expressions. Provide learners with work Cards and let them work out the questions. The group which scores the highest becomes winners."
+                            ],
+                            "learner_steps": [
+                                "The learners to work out the questions on work card."
+                            ]
+                        }
+                    ],
+                    "short_notes": "Algebra is a branch of Mathematics that deals with symbols and the rules for manipulating those symbols. It provides a frame work for formulating equations, solving problems and representing relationships between variables. In this topic, the sub-topic is algebraic expressions. Algebraic expressions are mathematical phrases that include numbers, variables (letters that represent unknown values), and operations (such as addition, subtraction, multiplication, and division). For example, 3x + 5 and 2y\u00b2-4y +7 are algebraic expressions. Understanding algebraic expressions is crucial for higher-level mathematics topics, such as algebra, calculus, and statistics. It also enhances critical thinking and problem solving abilities, helping learners develop logical reasoning skills. Construction of algebraic expressions from word statements can be a rewarding experience for learners as it provides a mix of word problems for learners to translate into expressions. Several engaging activities can be explored to help learners understand algebra. Sound knowledge of the basics such as translation of word statements, building complexities, practice with examples, real-world application, review and reinforcements through quizzes and games would make the lesson more understandable and captivating. Make sure the concept of construction of algebraic expression from word statements is coming out accordingly with consideration of all the four operations. Demonstrate creation of algebraic expressions involving multiplication and division. Relating letters and numbers in algebra is important for several reasons; one of them is that letters (variables) allow us to represent general cases and patterns, making it easier to solve a wide range of problems without specifying particular values. Moreover, using letters encourages abstract reasoning, helping learners and mathematicians think about relationships and structures rather than just specific numbers. Teaching the relationship between letters and numbers in algebra can be made engaging through several practical activities. Some effective strategies are: variable scavenger hunt, Algebra tiles, card games with Algebraic expressions, hands on projects and many more. Let learners formulate word statements and state clearly the variable in the statement and the constant e.g \"Sarah has picked 3 empty bottles, and her friend gives her y more empty bottles. How many empty bottles does Sarah have now?\" Ensure the concept of relating letters (variables) and numbers to word statements is coming out clearly. Coefficients and variables are fundamental concepts used in expressions. Coefficients are numerical factors that multiply a variable. It represents a number of times the variable is counted. Variables are symbols for unknown or changeable values. Teaching variables and coefficients in algebra can be made engaging and practical through hands on activities that help learners understand concepts in a practical way. Explain to learners that variables are the letters that can change value. Coefficients are the numbers in front of the variables, showing how many times the variable is multiplied. If there is no number before a variable, the coefficient is 1. A negative sign in front of a number is part of the coefficient. Make sure that the concept of coefficient as a numerical factor, and variable as a representation of the unknown values in an algebraic expression is understood by learners. Like terms are terms with the same variable raised to the same power, for example 3x and 5x, y\u00b3 and -5y\u00b3. Unlike terms are terms with different variables or different powers of the same variable, for example 2x and 3y, y\u00b3and-5y\u00b2. Teaching like and unlike terms in algebra can be engaging and effective through a variety of practical activities. Make sure the concept of like and unlike terms is understood by learners. The expansion and simplification of algebraic expressions is crucial because it facilitates understanding, enhances problem solving and prepares for advanced concepts among others. Make sure that the concept of expanding and simplifying algebraic expressions is applied in real-life. The commutative, distributive and associative laws are fundamental properties that describe how operations on sets behave. These laws provide structure and consistency to the operations of union and intersection in set theory much like how the corresponding properties apply to numbers in arithmetic. Further, these laws help in understanding how sets interact with each other and allow for the manipulation and simplification of set expressions in Mathematics and logic. Therefore, for better understanding of these CAD laws by the learners, it is encouraged that real-life scenarios from the immediate environment of the learners are used during lessons. These laws are fundamental in algebra because they enable the manipulation of expressions and equations. They are essential in various aspects of mathematics, including solving equations, factoring and simplifying expressions. Understanding these laws is key to progressing in algebra and higher mathematics. Make sure that the concepts of commutative, associative and distributive laws referred to as CAD laws are clearly explained. Give concise notes on these laws for deeper understanding. Factorizing algebraic expressions is a fundamental skill in algebra that involves breaking down complex expressions into simpler, multiplicative components. Factorizing algebraic expressions by common factors is one of the most basic and widely used methods. This method is particularly useful when all terms in an expression share a common factor, which can be factored out to simplify the expression. Make sure the concept of factorizing algebraic expressions by common factors is applied in real-life situation. Applying the four operations (addition, subtraction, multiplication and division) to algebraic expressions can be made practical and engaging through various activities such as building blocks, manipulating real life scenarios, group work, digital tools and budgeting. Make sure the application of the four operations on algebraic expressions comes out correctly. Substitution in algebra is a fundamental concept where variables are replaced with specific values to simplify expressions. This helps learners grasp the concept that letters in algebra stand for numbers and can be replaced accordingly. Make sure the concept of substitution in algebra is coming out clearly. Explain clearly the concept of substitution and give brief notes.",
+                    "vocabulary": [
+                        {
+                            "term": "Variables",
+                            "definition": "Symbols often letters that represent unknown values (e. g. x, y)."
+                        },
+                        {
+                            "term": "Constants",
+                            "definition": "Fixed values (e. g. numbers like 2,-5)"
+                        },
+                        {
+                            "term": "Expressions",
+                            "definition": "Combination of variables and constants (e. g. 3x + 4)"
+                        },
+                        {
+                            "term": "Factoring",
+                            "definition": "Rewriting an expression as a product of its factor"
+                        },
+                        {
+                            "term": "Exponent",
+                            "definition": "Raising a number to a power (e. g.x\u00b2)"
+                        },
+                        {
+                            "term": "Term",
+                            "definition": "A single mathematical expression that can be a number, a variable, or a combination of both multiplied together. Terms are building blocks of algebraic expressions."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 88,
+                        "questions": [
+                            "Ask learners questions that depict real-world application of algebraic expressions. Give exercises from books such as Zambia Secondary School Syllabus book 10 (page 61), and Progress in Mathematics book 8 (page 48 - 49).",
+                            "Ask learners to carry out a research on how variables help in understanding relationships between quantities and their use to everyday life. Give learners exercises from books such as Zambia Basic education course pupils book (page 67 - 68).",
+                            "Ask learners how variables and coefficients help in understanding relationships between quantities and their use to everyday life. Give learners exercises from books such as Zambia basic education course pupils book 8 (page 69).",
+                            "Ask learners to give more real-life examples on like and unlike terms. Give learners exercises from books such as Zambia Basic Education Course Pupils Book 8 (pages 71 - 72).",
+                            "Let learners investigate how expansion and simplification of algebraic expressions can help in understanding relationships between quantities and their use to everyday life. Give exercises such as the ones on pages 72 - 74 of Zambia Basic Education Course Mathematics Pupils Book 8, exercises 1, 2, 3 and 4, Zambia Basic Education Course Mathematics Pupils' Books 9, pages 93 - 97.",
+                            "Give exercises using books such as Progress in Mathematics Learners Book 8 on page 53, Progress in Mathematics Learners Book 10. Page 33 and Zambia Senior Secondary Syllabus Mathematics Grade 10 Pupils Book, page 70",
+                            "Give the learners exercises to practice using materials such as Progress in Mathematics, Grade 8 (pages 57 - 58), Zambia Basic Education Course Grade 8 (pages 102 - 103) or any other helpful resource.",
+                            "Give learners' exercises on evaluating algebraic expression by Substitution. Use books such as Zambia Secondary Basic Education Course (Page 74 - 75), and Progress in Mathematics (Page 54).",
+                            "Identify a problem in your community and suggest how best the problem can be solved by identifying companies who can come on board to help. Use algebraic expression in the situation identified.",
+                            "If a recipe requires (2x + 1) cups of flour and you want to make (x + 3) times the recipe, what would be the total flour needed?",
+                            "If a building requires (4x + 10) bricks for each wall and there are (x + 2) walls, find an expression for the total number of bricks.",
+                            "The car battery sells for (20-x) kwacha and was bought for (5 + x) kwacha. Find the profit when sold.",
+                            "If a car covered a distance of 2x km at a speed of (3x + 5) km/hr, Find the time spent to cover the whole journey.",
+                            "The length of a rectangle is (x + 5) cm, and its breath is 6cm. Write and expression in x for the area of the rectangle.",
+                            "A collection of coins consisted of 3x five ngwee coins (x + 2) fifty ngwee coins and (x - 6) ten ngwee coins. Find in its simplest form an expression for the amount of the collection in ngwee.",
+                            "If a town's population is represented by (1000+ 50x), where x is the number of years. How many people would be there in 15 years' time.",
+                            "The expression 110 + A/2 is used to estimate a person's blood pressure. In this expression A stand for the person's age in years. Estimate the blood pressure for a person who is 15 years old.",
+                            "Write two different expressions that mean the same as 2xy.",
+                            "Evaluate the expression 9(x+y)/3z if x = 1, y = 3 and z = 2",
+                            "Explain in your own language how variables are used.",
+                            "When scientists dilute acid, they always pour the acid into water. Pouring water into acid could produce spattering and burns. These two actions are not commutative. Give two examples from your life of actions that are not commutative."
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "5",
+    "subject": "Mathematics"
+  },
+  "topics": [
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "NUMBERS & NOTATION",
+      "page_number": 33,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Identify Roman numeration system.",
+        "Convert numerals from Arabic to Roman numeration and vice versa.",
+        "Order Roman numerals."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "ADDITION",
+      "page_number": 33,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Add whole numbers using the number line.",
+        "Apply addition using the number line to solve problems in real life situations."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "SUBTRACTION",
+      "page_number": 33,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Subtract whole numbers using a number line.",
+        "Apply subtraction and addition using the number line to solve problems in real life situations."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "COMBINED OPERATIONS",
+      "page_number": 33,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Perform combined operations.",
+        "Apply the commutative, associative and distributive laws to four basic mathematical operations."
+      ]
+    },
+    {
+      "unit": "Algebra",
+      "topic_title": "SETS",
+      "page_number": 34,
+      "subtopics": [],
+      "learning_outcomes": [
+        "List all sub sets of a given set.",
+        "Describe sets of numbers.",
+        "Describe subset in a Venn diagram."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "FACTORS AND MULTIPLES",
+      "page_number": 34,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Identify factors of given numbers.",
+        "Identify the Highest Common Factor (HCF).",
+        "Identify multiples of a given number.",
+        "Identify the Lowest Common Multiple (LCM) by listing."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "FRACTIONS",
+      "page_number": 34,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Identify equivalent fractions by multiplying or dividing the same number with numerator and denominator.",
+        "Express fractions with different denominators to the same denominator.",
+        "Add and subtract proper, improper and mixed fractions with different denominators.",
+        "Apply knowledge of fractions to solve problems in real life situations."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "DECIMALS",
+      "page_number": 35,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Relate common fractions to decimals.",
+        "Describe decimal numbers by their names (up to 2 decimal places).",
+        "Add and subtract decimal numbers.",
+        "Multiply decimal numbers by whole numbers.",
+        "Divide decimal numbers by whole numbers (up to 2 decimal places WITHOUT REMAINDER).",
+        "Apply decimals to solve problems in real life situations."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "SOCIAL AND COMMERCIAL ARITHMETIC",
+      "page_number": 35,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Prepare simple household bills (budgeting).",
+        "Apply simple ready-reckoners",
+        "Read and interpret water and electricity bills."
+      ]
+    },
+    {
+      "unit": "Geometry",
+      "topic_title": "PLANE SHAPES",
+      "page_number": 36,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Identify and draw perpendicular and parallel lines.",
+        "Describe trapezium, rhombus and parallelogram.",
+        "Draw trapezium, rhombus and parallelogram.",
+        "Identify the uses of a pair of compasses.",
+        "Use a pair of compass to draw a circle.",
+        "Identify centre, diameter and radius of a circle."
+      ]
+    },
+    {
+      "unit": "Geometry",
+      "topic_title": "SOLID SHAPES",
+      "page_number": 36,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Identify face, vertex and edges of cuboids and cubes.",
+        "Draw nets of cuboids and cubes.",
+        "Draw/sketch cuboid and cube."
+      ]
+    },
+    {
+      "unit": "Measures",
+      "topic_title": "MEASURES",
+      "page_number": 37,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Find the perimeter of triangle, parallelograms, trapezium, rhombus and composite shapes.",
+        "Derive formula for area of triangle, parallelograms, trapezium and rhombus.",
+        "Calculate areas of triangle, parallelograms, trapezium, rhombus and composite shapes.",
+        "Describe volume",
+        "Use standard units to measure volume (cm³, m³).",
+        "Relate volume to capacity",
+        "Derive the formulae for finding volume.",
+        "Calculate the volume of cubes and cuboids."
+      ]
+    },
+    {
+      "unit": "Statistics",
+      "topic_title": "STATISTICS",
+      "page_number": 37,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Understand stem-leaf plot and on a bar graph.",
+        "Collect and present data on a stem-leaf plot and on a bar graph."
+      ]
+    },
+    {
+      "unit": "Relations",
+      "topic_title": "RELATIONS AND MAPPINGS",
+      "page_number": 37,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Illustrate a one-to-many and many-to-one relations.",
+        "Apply knowledge of relations and mappings in real life situations."
+      ]
+    }
+  ]
+}

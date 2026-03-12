@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "11",
+    "subject": "Mathematics",
+    "philosophy": "",
+    "competence_learning": [
+      "Assimilate necessary mathematical concepts for use in everyday life such as environment and other related disciplines.",
+      "Thank mathematically and accurately in problem solving skills and apply these skills to formulate and solve mathematical and other related problems.",
+      "Develop necessary skills needed to apply mathematical concepts and skills in other disciplines.",
+      "Produce imaginative and creative work from mathematical concepts and ideas.",
+      "Develop abilities and ideas drawn from mathematics to reason logically, communicate mathematically, and learn independently without too much supervision (self-discipline).",
+      "Development positive attitudes towards mathematics and use it in other subjects such as science and technology.",
+      "Apply mathematical tools such as information and communication technology in the learning of other subjects.",
+      "Use mathematics for enjoyment and pleasure.",
+      "Develop understanding of algebra, geometry, measurements and shapes."
+    ],
+    "goals": [
+      "Provide clear mathematical thinking and expression in the learner",
+      "Develop the learners' mathematical knowledge and skills",
+      "Enrich the learners' understanding of mathematical concepts in order to facilitate further study of the discipline",
+      "Build up an appreciation of mathematical concepts so that the learner can apply these for problem solving in everyday life.",
+      "Enable the learner represent, interpret and use data in a variety of forms",
+      "Inculcate a desire to develop different career paths in the learners"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "11.1",
+      "topic_title": "APPROXIMATIONS",
+      "page_number": 17,
+      "subtopics": [
+        "11.11.5 Relative and absolute error"
+      ],
+      "specific_outcomes": [
+        "11.11.5.1 Work with relative and absolute errors"
+      ]
+    },
+    {
+      "unit": "11.2",
+      "topic_title": "SEQUENCES AND SERIES",
+      "page_number": 17,
+      "subtopics": [
+        "11.2.1 Arithmetic progression",
+        "11.2.2 Geometric progression"
+      ],
+      "specific_outcomes": [
+        "11.2.3.1 Identify an arithmetic progression (AP)",
+        "11.2.3.2 Find the nth term of the AP",
+        "11.2.3.3 Find the sum of an AP",
+        "11.2.3.4Find the arithmetic mean",
+        "11.2.4.1 Identify a geometric progression (GP)",
+        "11.2.4.2 Find the nth term of a GP",
+        "11.2.4.3 Find the geometric mean",
+        "11.2.4.4 Find the sum of a geometric progression",
+        "11.2.4.5 Find the sum to infinity of a Geometric progression"
+      ]
+    },
+    {
+      "unit": "11.3",
+      "topic_title": "COORDINATE GEOMETRY",
+      "page_number": 17,
+      "subtopics": [
+        "11.6.1 Length of a straight line between two points",
+        "11.6.2 The mid point",
+        "11.6.3 Gradient",
+        "11.6.4 Equation of a straight line"
+      ],
+      "specific_outcomes": [
+        "11.6.1.1 Calculate the length of a straight line",
+        "11.6.1.2 Calculate the mid-point of two points",
+        "11.6.1.3 Calculate the gradient of a line segment",
+        "11.6.4.1 Find the equation of a straight line"
+      ]
+    },
+    {
+      "unit": "11.4",
+      "topic_title": "RELATIONS AND FUNCTIONS",
+      "page_number": 18,
+      "subtopics": [
+        "11.6.5 Parallel and perpendicular lines",
+        "11.14.9 Inverse functions",
+        "11.4.3 Composite functions",
+        "11.14.11 Application"
+      ],
+      "specific_outcomes": [
+        "11.6.5.1 Find the gradients of parallel and perpendicular lines",
+        "11.6.5.2 Use gradients of parallel and perpendicular lines to find equations",
+        "11.14.9.1 Find inverses of one-to-one functions",
+        "11.4.3.1 Simplify composite functions",
+        "11.14.11.1 Solve problems involving linear functions"
+      ]
+    },
+    {
+      "unit": "11.5",
+      "topic_title": "QUADRATIC FUNCTIONS",
+      "page_number": 18,
+      "subtopics": [
+        "11.5.1 Introduction to Quadratic Functions"
+      ],
+      "specific_outcomes": [
+        "11.5.1.1 Explain the quadratic function and its graph",
+        "11.5.1.2 Sketch the graph of a quadratic function"
+      ]
+    },
+    {
+      "unit": "11.6",
+      "topic_title": "QUADRATIC EQUATIONS",
+      "page_number": 18,
+      "subtopics": [
+        "11.6.2 Introduction to Quadratic equations",
+        "11.6.2 Solutions of quadratic"
+      ],
+      "specific_outcomes": [
+        "11.3.1.2 Explain the meaning of the quadratic equation",
+        "11.3.3.2 Solve quadratic equations by graphical method",
+        "11.6.1.2 Solve quadratic equations using factorisation method"
+      ]
+    },
+    {
+      "unit": "11.6",
+      "topic_title": "QUADRATIC EQUATIONS",
+      "page_number": 19,
+      "subtopics": [
+        "equations"
+      ],
+      "specific_outcomes": [
+        "11.3.2.1 Solve quadratic equations using completing of square method",
+        "11.3.3.1 Solve quadratic equations using quadratic formula method",
+        "11.3.4.1 Apply quadratic equations to solve real life problems"
+      ]
+    },
+    {
+      "unit": "11.7",
+      "topic_title": "VARIATION",
+      "page_number": 19,
+      "subtopics": [
+        "11.7.1 Introduction to variation",
+        "11.7.2 Direct and Inverse Variation",
+        "11.7.3 Joint and Partial Variation",
+        "11.7.4 Graphs",
+        "11.7.5 Applications"
+      ],
+      "specific_outcomes": [
+        "11.15.1.1 Describe variation",
+        "11.15.2.1 Distinguish between direct and inverse variation",
+        "11.15.3.1 Distinguish between joint and partial variation",
+        "11.15.4.1 Draw and Interpret graphs of variation",
+        "11.15.5.1 Solve problems involving variations"
+      ]
+    },
+    {
+      "unit": "11.8",
+      "topic_title": "CIRCLE THEOREMS",
+      "page_number": 19,
+      "subtopics": [
+        "11.7.3 Properties of a circle",
+        "11.7.2 Angle properties"
+      ],
+      "specific_outcomes": [
+        "11.7.3.1 Analyse the parts of a circle",
+        "11.7.2.1 Solve problems using angle properties of a circles",
+        "11.7.6.1 Solve problems involving tangent properties"
+      ]
+    },
+    {
+      "unit": "11.9",
+      "topic_title": "CONSTRUCTION AND LOCI",
+      "page_number": 20,
+      "subtopics": [
+        "11.9.1 Construction",
+        "11.9.2 Locus",
+        "11.9.3 Loci in two dimensions",
+        "11.9.4 Loci in three dimension"
+      ],
+      "specific_outcomes": [
+        "11.9.1.1 Construct line and angle bisectors",
+        "11.9.1.2 Explain the meaning of Locus",
+        "11.9.1.3 Describe locus of point in two and three dimensions",
+        "11.9.1.4 Construct locus of point in two dimensions"
+      ]
+    },
+    {
+      "unit": "11.10",
+      "topic_title": "TRIGONOMETRY",
+      "page_number": 21,
+      "subtopics": [
+        "11.10.1 Introduction to Trigonometry",
+        "11.10.1 Trigonometric ratios",
+        "11.10.4 Sine and Cosine rules",
+        "11.10.5 Area of a triangle"
+      ],
+      "specific_outcomes": [
+        "11.10.1.1 Relate right angled triangle to the three trigonometric ratios",
+        "11.10.1.2 Describe the three trigonometric ratios on a right angled triangle",
+        "11.10.1.3 Calculate sides and angles of a right angled triangle",
+        "11.10.2.1 Work with special angles (60°, 45° and 30°)",
+        "11.10.4.1 Find sides and angles of non right angled triangles",
+        "11.10.5.1 Calculate areas of a non right angled triangle",
+        "11.10.7.1 Determine the signs of the three trigonometric ratios in the quadrants",
+        "11.10.7.2 Draw graphs for sine, cosine and tangent curves",
+        "11.10.7.3 Solve trigonometric equations",
+        "11.10.7.4 Use trigonometry to solve practical problems"
+      ]
+    },
+    {
+      "unit": "11.12",
+      "topic_title": "MENSURATION",
+      "page_number": 22,
+      "subtopics": [
+        "11.12.1 Area",
+        "11.8.2 Volume"
+      ],
+      "specific_outcomes": [
+        "11.12.1.1 Calculate the area of a sector",
+        "11.12.1.2 Calculate surface area of three dimensional figures",
+        "11.8.3.1 Calculate volume of prisms",
+        "11.8.34 Solve problems involving area and volume"
+      ]
+    },
+    {
+      "unit": "11.13",
+      "topic_title": "PROBABILITY",
+      "page_number": 22,
+      "subtopics": [
+        "11.12.3 Laws of probability",
+        "11.12.4 Tree Diagrams and grid"
+      ],
+      "specific_outcomes": [
+        "11.12.3.1 Compute probabilities using the laws of probability",
+        "11.12.4.1 Calculate probabilities using tree diagrams and grids",
+        "11.12.4.2 Calculate probabilities of mutually exclusive events and compound events",
+        "11.12.4.3 Find probabilities of independent events"
+      ]
+    },
+    {
+      "unit": "11.14",
+      "topic_title": "STATISTIC",
+      "page_number": 23,
+      "subtopics": [
+        "independent events",
+        "11.14.2 Cumulative frequency tables",
+        "11.14.3 Measures of dispersion"
+      ],
+      "specific_outcomes": [
+        "11.12.4.5 Apply probability to real life problems",
+        "12.7.2.1 Construct cumulative frequency tables using grouped and ungrouped data",
+        "12.7.2.2 Draw cumulative frequency curves",
+        "12.7.2.3 Draw relative cumulative curves",
+        "12.7.3.2 Calculate the range, inter quartile range, and semi inter quartile range",
+        "12.7.3.3 Calculate the percentiles",
+        "12.7.3.4 Calculate variance and standard deviation for ungrouped and grouped data"
+      ]
+    }
+  ]
+}

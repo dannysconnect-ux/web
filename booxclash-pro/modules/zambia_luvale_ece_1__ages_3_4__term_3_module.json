@@ -1,0 +1,721 @@
+{
+    "subject": "Luvale",
+    "grade": "ECE 1 (Ages 3-4)",
+    "term": 3,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "Vyuma Vyahakhanda (Household Items)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Kulumbununa vyuma vyahakhanda (Identifying household items)",
+                    "page": 13,
+                    "competences": [
+                        "Kulumbununa vyuma vyahakhanda (Identify household items)",
+                        "Vishinganyeka vyakuphezalisa vyuma (Analytical thinking skills)",
+                        "Chivwasano (Communication)",
+                        "Kujiminyina muvishinganyeka (Critical thinking)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.a",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Tanjika vyuma vyamukapete kakutelekela (Display cooking utensils)",
+                                "Lweka valongi vemane mumujingule vatale vyuma khana (Arrange learners in a circle to observe items)",
+                                "Vahule vavitongole majina avyo nomu vyafwana kaha namulimo vyazata (Ask them to name items and their functions)",
+                                "Zundula chuma chimwe chimwe vachivuluke nakuchilumbununa kaha vatongole mulimowacho (Pick each item, let them identify and state its function)",
+                                "Solola mivwimbimbi yamilimo yakulisezaseza yavyuma vyamukapete kakutelekela (Show pictures of different uses of cooking utensils)",
+                                "Lweka valongi vatale hamuvwimbimbi kaha vambate chuma vechikuzachisanga mulimo vanamono hamuvwimbimbi (Let learners look at pictures and pick items they see being used in the pictures)",
+                                "Tanjika jino mivwimbimbi yamilimo yavyuma vyamukapete kakutelekela mumukana kaha lweka valongi vahake vyuma vyechi kuzatanga mulimo khana (Display pictures of activities with cooking utensils and let learners match items to activities)"
+                            ],
+                            "learner_steps": [
+                                "Vemane mumujingulule vatale havyuma (Sit in a circle and observe items)",
+                                "Vatongole majina avyo nomu vyafwana kaha namulimo vyazata (Name items and their uses)",
+                                "Vavuluke nakuvilumbununa vyuma kaha vatongole mulimowacho (Identify and name items and their functions)",
+                                "Vatale hamuvwimbimbi kaha vambate chuma vechikuzachisanga mulimo vanamono hamuvwimbimbi vachisolole kuli vakwavo (Look at pictures, pick items they see and explain to peers)",
+                                "Vapanjike vyuma vyechi kuzatanga milimo ili hamivwimbimbi (Match items to activities shown in pictures)"
+                            ],
+                            "short_notes": "This activity focuses on identifying and naming household cooking items (vyuma vyamukapete kakutelekela) such as ndeho (pot), phoko (grinding stone), chiko (spoon), mbaula (stove), pani (plate), etc. Learners observe real items, learn their names in Luvale, understand their functions, and match them to activities shown in pictures."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.b",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Watele kupwa navyuma vakusonga vyavivulu namivwimbimbi yacho (Have furniture items with pictures)",
+                                "Vilumbike hachisalo hamwe namivwimbimbiyacho (Display them in the classroom with their pictures)",
+                                "Lweka valongi vavipanjike kaha vavivuluke majina avyo (Let learners match and name them)",
+                                "Vahule valumbunune mulimo wachuma hichuma (Ask them to explain the function of each item)"
+                            ],
+                            "learner_steps": [
+                                "Vatale hachisalo vamone vyuma nalumbika mulongeshi vavipanjike kaha vavivuluke majina avyo (Look at items displayed by teacher, match and name them)",
+                                "Valumbunune mulimo wachuma hichuma kuzachisa mazu akwoloka (Explain the function of each item using correct words)"
+                            ],
+                            "short_notes": "This activity focuses on identifying furniture items (vyuma vyakusonga) such as chitwamo (chair), mesa (table), chiko (stool), sofa, etc. Learners observe, name, and explain the functions of different furniture pieces."
+                        }
+                    ],
+                    "short_notes": "This sub-topic introduces learners to household items divided into two categories: cooking/kitchen utensils (vyamukapete kakutelekela) and furniture (vyakusonga). The competence-based approach allows children to develop analytical thinking, communication, and critical thinking skills while learning vocabulary in their mother tongue.",
+                    "vocabulary": [
+                        {
+                            "term": "Ndeho",
+                            "definition": "Pot for cooking"
+                        },
+                        {
+                            "term": "Phoko",
+                            "definition": "Grinding stone for pounding"
+                        },
+                        {
+                            "term": "Chiko",
+                            "definition": "Spoon or stool"
+                        },
+                        {
+                            "term": "Mbaula",
+                            "definition": "Stove/cooking fire"
+                        },
+                        {
+                            "term": "Mbonde",
+                            "definition": "Cooking pot"
+                        },
+                        {
+                            "term": "Pani",
+                            "definition": "Plate"
+                        },
+                        {
+                            "term": "Chitwamo",
+                            "definition": "Chair"
+                        },
+                        {
+                            "term": "Mesa",
+                            "definition": "Table"
+                        },
+                        {
+                            "term": "Sofa",
+                            "definition": "Sofa/couch"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 14,
+                        "questions": [
+                            "Vyuma vyamukapete kakutelekela vavilumbunune kuzachisa mazu akwoloka (Can they identify cooking utensils using correct words?)",
+                            "Vyuma vyakusonga vavilumbunune kuzachisa mazu akwoloka (Can they identify furniture using correct words?)",
+                            "Observe if learners can: Kwimana mumujingulule nakutala havyuma vanalumbika (Sit in a circle and observe displayed items)",
+                            "Kutongola majina avyo nomu vyafwana kaha namulimo vyazata (Name items and their functions)",
+                            "Kutala hamivwimbimbi kaha vambateho vyuma vechikuzachisanga mulimo vanamono hamivwimbimbi vachisolole kuli vakwavo (Look at pictures and pick items being used, explain to peers)",
+                            "Kupanjika vyuma vyechi kuzatanga mulimo uli hamuvwimbimbi (Match items to activities in pictures)"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "Shimbu Kanda Kutanga - Vivumo (Pre-reading - Sounds)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Vasona vumo (Vowel sounds)",
+                    "page": 15,
+                    "competences": [
+                        "Kutongola vasona vumo kufuma mumazu amashi akuhanjika kaha mukanwa (Identify vowel sounds from simple oral words)",
+                        "Kununga vasona vumo nakutunga mazu amashi (Blend vowel sounds to form simple words)",
+                        "Kuhandununa mazu amashi akuhanjika mukanwa kutwala muvasonavumo (Break down simple oral words into vowel sounds)",
+                        "Kutongola chivumo chatete mumazu amashi akuhanjika kaha mukanwa (Identify initial sounds in simple oral words)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.a",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lumbika jikhati jamivwimbimbi yakulisezaseza hachisalo chachikalu mivwimbimbi yamazu amashi (Display picture charts in the classroom showing simple words)",
+                                "Twama navalongi hachisalo kaha vajihemese nakujitala kanawa vamone viliho (Sit with learners in a circle so they can observe and see clearly)",
+                                "Solola khati ili namuvwimbimbi kaha vatongole lizu lyalumbununa uze muvwimbimbi (wato, wanda, tata, tepa) (Show picture cards and ask them to name what they see)",
+                                "Lweza valongi vavuluke vasona vumo valimumazu ali hamivwimbimbi unavahane (Let learners pronounce the vowel sounds in the words from the pictures)",
+                                "Mona ngwove valongi vanakuvumisa vasona vumo oku: Vanakusakwila, Vanakulinga jishindo, Vanakungongola mitondo (Observe how learners produce vowel sounds through: clapping, using instruments, using beads)"
+                            ],
+                            "learner_steps": [
+                                "Vatale hajikhati jamivwimbimbi jakulisezaseza jili hachisalo (Look at picture charts in the classroom)",
+                                "Vatwame hachisalo oku vanakuhemesa jikhati nakujitala kanawa vamone viliho (Sit in a circle to observe and see the charts clearly)",
+                                "Vatale hajikhati jili namivwimbimbi kaha vatongole lizu lyalumbununa uze muvwimbimbi (Look at picture cards and name what they see)",
+                                "Vavumise vasona vumo oku: Vanakusakwila, Vanakulinga jishindo, Vanakungongola mitondo (Produce vowel sounds by: clapping, using instruments, using beads)"
+                            ],
+                            "short_notes": "This activity introduces learners to identifying vowel sounds (vasona vumo) in simple Luvale words. Using picture cards with words like wato (canoe), wanda (sweet potato), tata (father), tepa (mud), learners practice recognizing and pronouncing vowel sounds through multisensory approaches including clapping, instruments, and beads."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.b",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Solola mivwimbimbi (wato, Wanda, tata, tepa) kuli valongi (Show pictures to learners)",
+                                "Vuluka vasonavumo kuli valongi chindendechindende utunge mazu avyuma vili hamivwimbimbi (Pronounce vowel sounds slowly to form words from the pictures)",
+                                "Lweza valongi valondezeze kuvuluka vasonavumo vatunge mazu (Let learners practice pronouncing vowel sounds to form words)",
+                                "Lweza longi hilongi avuluke vasonavumo athachikiza nakutunga lizu (Let each learner pronounce vowel sounds clearly and form words)",
+                                "Vaheme vino vihemo: i. Kusakwila vasonavumo nakutunga mazu ii. Kungongola tumitondo muvasonavumo nakutunga mazu iii. Kulyata jishindo muvasonavumo nakutunga mazu (Do these activities: clap vowel sounds to form words, use beads with vowel sounds to form words, play instruments with vowel sounds to form words)"
+                            ],
+                            "learner_steps": [
+                                "Vatale hamivivwimbimbi (Look at pictures)",
+                                "Valondezeze kuvuluka vasonavumo vatunge mazu (Practice pronouncing vowel sounds to form words)",
+                                "Longi hilongi avuluke vasonavumo athachikiza nakutunga lizu (Each learner pronounces vowel sounds clearly and forms words)",
+                                "Vaheme vino vihemo: i. Kusakwila vasonavumo nakutunga mazu ii. Kungongola tumitondo muvasonavumo nakutunga mazu iii. Kulyata jishindo muvasonavumo nakutunga mazu (Do these activities: clap, use beads, play instruments while forming words)"
+                            ],
+                            "short_notes": "This blending activity (kununga vasona vumo) teaches learners to combine vowel sounds to create words. For example: wa/to = wato, wa/nda = wanda, ta/ta = tata, te/pa = tepa. Learners use multisensory techniques (clapping, beads, instruments) to reinforce the blending process."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.c",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Vuluka mazu amashi kuli valongi (Wato, Wanda, tata, tepa) (Say simple words to learners)",
+                                "Hana chitalilo mwakuhandwina mazu muvasonavumo chindendechindende (Wato=wa/to, Wanda=wa/nda, tata=ta/ta, tepa=te/pa) (Demonstrate how to break down words into vowel sounds slowly)",
+                                "Lweza valongi vakulondezeze (umwe umwe, vavali vavali namumazavu) (Let learners practice individually, in pairs, and in groups)",
+                                "Lweza valongi vaheme vino vihemo: i. Kusakwila mazu nakuwahandununa muvasonavumo ii. Kungongola mazu natumitondo vawahandununa muvasonavumo iii. Kulyata jishindo mumazu nakuwahandununa muvasonavumo (Let learners do these activities: clap words while breaking into vowel sounds, use beads while breaking words, use instruments while breaking words)"
+                            ],
+                            "learner_steps": [
+                                "Valondezeze kuhandununa mazu kuvasonavumo (Practice breaking down words into vowel sounds)",
+                                "Vaheme vino vihemo: i. Kusakwila mazu nakuwahandununa muvasonavumo ii. Kungongola mazu natumitondo vawahandununa muvasonavumo iii. Kulyata jishindo mumazu nakuwahandununa muvasonavumo (Do activities: clap, use beads, use instruments while breaking down words)"
+                            ],
+                            "short_notes": "This segmentation activity (kuhandununa) teaches learners to break down simple oral words into their component vowel sounds. This is the reverse of blending and is crucial for phonemic awareness development."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.d",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Imba mwaso wavamyangana javasona navalongi (a, e, i, o, u vasona jetu) (Sing the vowel song with learners)",
+                                "Hanjika lizu kaha vahule vakulweze chivumo chatete vanevu (wato=/w/, wanda=/w/, tata=/t/, tepa=/t/) (Say words and ask them to identify the initial sound)",
+                                "Solola muvwimbimbi kulivalongi, vahule vatongole lizu chipwe lijina lyauze muvwimbimbi (Show pictures to learners, ask them to identify one word/name from the picture)",
+                                "Vahule vatongole chivumo chatete vanevu mulizu (/w/, /t/) (Ask them to identify the initial sound in the word)",
+                                "Twala vangi haweluka (Take turns)",
+                                "Tanjika mitumwa unalamikaho vivumo vyakulihandununa (Display letters representing the sounds being taught)",
+                                "Solola muvwimbimbi kulivalongi kaha vakhiko vasenga uze mutumwa uli nachivumo chatete chalizu lyauze muvwimbimbi (Show pictures to learners and ask them to find the letter that represents the initial sound of the word in the picture)",
+                                "Mona ngwove longi wosena nahemeko kuli echi chihemo khana (Observe if every learner is participating in this activity)"
+                            ],
+                            "learner_steps": [
+                                "Vembenga mwaso wavamyangana javasona namulongeshi (Sing the vowel song with the teacher)",
+                                "Vavuluke chivumo chatete navevwa mumazu amashi akuhanjika kaha mukanwa (Pronounce the initial sound they hear in simple oral words)",
+                                "Vatale hamuvwimbimbi, vatongole lizu chipwe lijina lyauze muvwimbimbi (Look at pictures, identify one word/name from the picture)",
+                                "Vayenga haweluka (Take turns)",
+                                "Vatale hamuvwimbimbi nakwasa mutumwa uli nachivumo chatete chalizu lyauze muvwimbimbi (Look at pictures and find the letter representing the initial sound of the word in the picture)"
+                            ],
+                            "short_notes": "This activity focuses on initial sound identification (kutongola chivumo chatete). Learners identify the beginning sound in words like wato (/w/), tata (/t/), connecting oral sounds to letter symbols. This is a crucial pre-reading skill."
+                        }
+                    ],
+                    "short_notes": "Vasona vumo (vowel sounds) activities are foundational for literacy development in Luvale. Learners engage in four key phonemic awareness skills: identifying vowel sounds in words, blending sounds to form words, segmenting words into sounds, and identifying initial sounds. The multisensory approach (clapping, beads, instruments) reinforces learning for young children.",
+                    "vocabulary": [
+                        {
+                            "term": "Vasona vumo",
+                            "definition": "Vowel sounds (a, e, i, o, u)"
+                        },
+                        {
+                            "term": "Kutongola",
+                            "definition": "To identify"
+                        },
+                        {
+                            "term": "Kununga",
+                            "definition": "To blend/join together"
+                        },
+                        {
+                            "term": "Kuhandununa",
+                            "definition": "To break down/segment"
+                        },
+                        {
+                            "term": "Chivumo chatete",
+                            "definition": "Initial/first sound"
+                        },
+                        {
+                            "term": "Lizu",
+                            "definition": "Word/name"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 17,
+                        "questions": [
+                            "Kutongola vasona vumo kufuma mumazu amashi akuhanjika kaha mukanwa mukwoloka (Can identify vowel sounds from simple oral words correctly)",
+                            "Kununga vasona vumo nakutunga mazu amashi mukwoloka (Can blend vowel sounds to form simple words correctly)",
+                            "Kuhandununa mazu amashi akuhanjika mukanwa kutwala muvasonavumo mukwoloka (Can segment simple oral words into vowel sounds correctly)",
+                            "Kutongola chivumo chatete mumazu amashi akuhanjika kaha mukanwa mukwoloka (Can identify initial sounds in simple oral words correctly)",
+                            "Observe learners' ability to: Use clapping, beads, or instruments while working with vowel sounds",
+                            "Pronounce sounds clearly and correctly",
+                            "Participate actively in vowel sound activities"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Vivumo vyavasona (Consonant sounds)",
+                    "page": 19,
+                    "competences": [
+                        "Kuvumisa vivumo vyavasona (Produce consonant sounds)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.a",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Solola muvwimbimbi (wato, wanda, tata, tepa) kuli valongi chipwe vyuuma vyekha viili navivumo vyavasona /w/ na /t/ (Show pictures to learners with items that have consonant sounds /w/ and /t/)",
+                                "Hula valongi vavuluke chivumo vanakwivwa hakuputuka chalizu (wato, wanda, tata, tepa) (Ask learners to pronounce the sound they hear at the beginning of the word)",
+                                "Zamikisa ngwove ali nakuputuka nachivumo /w/ na /t/ (Confirm which words start with sounds /w/ and /t/)",
+                                "Lweza valongi vavumise vivumo venevi oku vali na: Vanasavala, Vanafwiki kumeso, Kukina (Let learners produce these sounds while: yawning, making faces, playing)"
+                            ],
+                            "learner_steps": [
+                                "Vatale hamivwimbimbi mwasolola mulongeshi (Look at pictures shown by teacher)",
+                                "Vavuluke chivumo vanakwivwa hakuputuka chalizu wato (Pronounce the sound they hear at the beginning of the word)",
+                                "Vavumise vivumo oku: Vanasavala, Vanafwiki kumeso, Kukina (Produce sounds while: yawning, making faces, playing)"
+                            ],
+                            "short_notes": "This activity introduces learners to consonant sounds (vivumo vyavasona), specifically /w/ and /t/. Using words from previous activities (wato, wanda, tata, tepa), learners practice producing these consonant sounds through playful methods like yawning, making faces, and playing games."
+                        }
+                    ],
+                    "short_notes": "Consonant sound production (vivumo vyavasona) builds on the vowel work, introducing consonants /w/ and /t/. The playful approach (yawning, making faces, games) makes phonics engaging for young learners and helps them articulate sounds correctly.",
+                    "vocabulary": [
+                        {
+                            "term": "Vivumo vyavasona",
+                            "definition": "Consonant sounds"
+                        },
+                        {
+                            "term": "Kuvumisa",
+                            "definition": "To produce/pronounce"
+                        },
+                        {
+                            "term": "/w/",
+                            "definition": "The consonant sound 'w'"
+                        },
+                        {
+                            "term": "/t/",
+                            "definition": "The consonant sound 't'"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 19,
+                        "questions": [
+                            "Vivumo vyavasona kuvivumisa mukwoloka (Can produce consonant sounds correctly)",
+                            "Observe if learners can pronounce /w/ and /t/ sounds clearly",
+                            "Can they differentiate between the two consonant sounds?",
+                            "Do they engage playfully while practicing sounds (yawning, making faces, playing)?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "Kulumbununa mivwimbimbi (Describing pictures)",
+                    "page": 20,
+                    "competences": [
+                        "Kulumbununa mivwimbimbi (Describe pictures)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3.a",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Hituluka mumulimo wanangulanga (Review previous lesson/activity)",
+                                "Twama mumujingulule navalongi (Sit in a circle with learners)",
+                                "Talisa valongi jikhati jamivwimbimbi jakulisezaseza (Show learners different picture cards)",
+                                "Hana valongi jikhati vajimone nakujikwata (Give learners picture cards to look at and touch)",
+                                "Lweza valongi vashimutwile nakulumbununa vili hamivwimbimbi (Let learners be excited and describe what is in the pictures)",
+                                "Longejeka jikhati jamivwimbimbi yakulisezaseza muchola chipwe muchimbokisi (Arrange picture cards in a bowl or box)",
+                                "Nona khati imwe yamuvwimbimbi muchola chipwe muchimbokisi nakuputuka kwaula mujimbu (Pick one picture card from the bowl/box and start telling a story)",
+                                "Lweza longi umwe anonemo khati yamuchivali muchola chipwe muchimbokisi nakununga kumujimbu unaputuka kwaula (Let one learner pick another picture card from the bowl/box and continue the story you started)",
+                                "Lweza valongi umwe naumwe muvanalikavila mumujingulule vambate jikhati muchola chipwe mu mbokisi nakununga kumujimbu (Let each learner take turns around the circle picking picture cards from the bowl/box and continuing the story)",
+                                "Khukulula mujimbu munatungu navalongi (Conclude the story you started with the learners)"
+                            ],
+                            "learner_steps": [
+                                "Vahituluke mumilimo valinangulanga (Review previous activities)",
+                                "Vatwame mumujingulule namulongeshi (Sit in a circle with the teacher)",
+                                "Vashimutwile nakulumbununa vili hamivwimbimbi (Be excited and describe what is in the pictures)",
+                                "Umwe naumwe muvanalikavila mumujingulule vambate jikhati muchola chipwe muchimbokisi nakununga kumujimbu (Each take turns around the circle picking picture cards and continuing the story)"
+                            ],
+                            "short_notes": "This creative storytelling activity (kulumbununa mivwimbimbi) develops oral language skills. Learners sit in a circle, and each picks a picture card from a bowl/box to contribute to a collaborative story. This builds narrative skills, vocabulary, confidence in speaking, and turn-taking."
+                        }
+                    ],
+                    "short_notes": "Picture description and collaborative storytelling help young learners develop oral language proficiency, creativity, and social skills. The circle time format promotes equal participation and builds a sense of community in the classroom.",
+                    "vocabulary": [
+                        {
+                            "term": "Mivwimbimbi",
+                            "definition": "Pictures/images"
+                        },
+                        {
+                            "term": "Kulumbununa",
+                            "definition": "To describe/explain"
+                        },
+                        {
+                            "term": "Mujimbu",
+                            "definition": "Story/narrative"
+                        },
+                        {
+                            "term": "Muchola",
+                            "definition": "In a bowl"
+                        },
+                        {
+                            "term": "Muchimbokisi",
+                            "definition": "In a box"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 20,
+                        "questions": [
+                            "Mivwimbimbi kuyilumbununa mukwoloka (Can describe pictures correctly)",
+                            "Can learners describe what they see in picture cards?",
+                            "Can they contribute meaningfully to the collaborative story?",
+                            "Do they wait for their turn and listen to others?",
+                            "Can they use new vocabulary from previous lessons in their descriptions?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "Kwivwilila nakwivwishisa (Listening and Speaking)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Mijimbu yayashi (Short stories)",
+                    "page": 21,
+                    "competences": [
+                        "Kwivwilila kumijimbu yayashi (Listen to short stories)",
+                        "Kukumbulula vihula hamijimbu (Recall details from stories)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.a",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Tangila valongi mijimbu yakulisezaseza (Tell learners different short stories)",
+                                "Mona ngwove ulinakuhwimina hakutanga mujimbu, okuunakuvahula vihula hamujimbu (Make sure you pause while telling the story to ask questions about the story)",
+                                "Hula valongi vihula vyavivulu kwesekesa namujimbu (Ask learners different questions based on the story)",
+                                "Echa valongi valilweze mijimbu kaha valihule vihula mumazavu amandende (Allow learners to retell stories and ask questions in small groups)"
+                            ],
+                            "learner_steps": [
+                                "Vevwilile kumijimbu yakulisezaseza (Listen to different short stories)",
+                                "Vakumbulule vihula (Recall details)",
+                                "Valilweze mijimbu kaha valihule vihula mumazavu amandende (Retell stories and ask questions in small groups)"
+                            ],
+                            "short_notes": "This listening comprehension activity develops learners' ability to listen attentively to short stories (mijimbu yayashi) and recall important details (vihula). The teacher pauses during storytelling to check comprehension, then learners practice retelling in small groups."
+                        }
+                    ],
+                    "short_notes": "Listening and speaking activities are crucial for language development in ECE. Through storytelling (mijimbu), learners develop listening comprehension, memory recall, and oral expression skills in their mother tongue.",
+                    "vocabulary": [
+                        {
+                            "term": "Mijimbu",
+                            "definition": "Stories"
+                        },
+                        {
+                            "term": "Kwivwilila",
+                            "definition": "To listen"
+                        },
+                        {
+                            "term": "Kukumbulula",
+                            "definition": "To recall/remember"
+                        },
+                        {
+                            "term": "Vihula",
+                            "definition": "Questions/details"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 21,
+                        "questions": [
+                            "Vihula vyavyashi vyakuhanjika kahamukanwa hamujimbu kuvikumbulula mukwoloka (Can recall simple oral questions/details from stories correctly)",
+                            "Can learners listen attentively during storytelling?",
+                            "Can they answer questions about the story?",
+                            "Can they retell the story in their own words?",
+                            "Do they participate in small group story retelling activities?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "Shimbu Kanda Kusoneka - Chala (Pre-writing - Drawing/Tracing)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Kukopolola (Tracing)",
+                    "page": 22,
+                    "competences": [
+                        "Kukopolola jipatani jajashi (Trace simple patterns)",
+                        "Kukopolola jishepu jajashi (Trace simple shapes)",
+                        "Kukopolola vasona (Trace vowel letters)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.a",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Hituluka muchilongeselo wanangulanga (Review previous lesson)",
+                                "Talisa valongi mwakukopolwela jipatani halivaya (Show learners how to trace patterns on the board)",
+                                "Ihula valongi valilongese kukopolola jipatani halivaya (Ask learners to practice tracing patterns on the board)",
+                                "Lweza valongi vakopolole jipatani mumikanda yavo (Let learners trace patterns in their books)",
+                                "Mona ngwove longi hilongi nakopolola jipatani mumukanda wenyi (Observe if each learner can trace patterns in their book)"
+                            ],
+                            "learner_steps": [
+                                "Vahituluke muchilongeselo namulongeshi (Review previous lesson with teacher)",
+                                "Valilongese kukopolola jipatani halivaya (Practice tracing patterns on the board)",
+                                "Vakopolole jipatani mumikanda yavo (Trace patterns in their books)"
+                            ],
+                            "short_notes": "This pre-writing activity focuses on tracing simple patterns (jipatani jajashi). Pattern tracing develops fine motor skills and hand-eye coordination essential for writing. Learners practice first on the board, then in their books."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.b",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Imba mwaso wakuvuluka jishepu (Sing a song about shapes)",
+                                "Talisa valongi mwakukopolwela jishepu halivaya (Show learners how to trace shapes on the board)",
+                                "Ihula valongi valilongese kukopolola jishepu halivaya (Ask learners to practice tracing shapes on the board)",
+                                "Lweza valongi vakopolole jishepu mumikanda yavo (Let learners trace shapes in their books)",
+                                "Mona ngwove longi hilongi nakopolola jishepu mumukanda wenyi (Observe if each learner can trace shapes in their book)"
+                            ],
+                            "learner_steps": [
+                                "Vembenga mwaso namulongeshi (Sing song with teacher)",
+                                "Valilongese kukopolola jishepu jajashi halivaya (Practice tracing simple shapes on the board)",
+                                "Vakopolole jishepujajashi mumikanda yavo (Trace simple shapes in their books)"
+                            ],
+                            "short_notes": "This activity introduces tracing simple shapes (jishepu jajashi) such as circles, triangles, rectangles. Shape tracing is foundational for letter formation and develops spatial awareness."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.c",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Talisa valongi jikhati javasona /w/ na /t/ (Show learners vowel letter cards /w/ and /t/)",
+                                "Lweza valongi vatwame hachisalo mumujingulule (Let learners sit in a circle)",
+                                "Hana valongi vinoma vyakulisezaseza (Give learners different materials)",
+                                "Lweza valongi vasoneke vasona /w/ na /t/ kuzachisa vyuma vyakulisezaseza vyakufwana nge: Mafwo, Malolwa, Vifwiko vyamitumwa, Mitondo, Usekeseke, Meya (Let learners write vowels /w/ and /t/ using different materials like: flour, paint, bottle caps, beads, sand, water)",
+                                "Lweza valongi vakopolole vasona /w/ na /t/ mumikanda yavo (Let learners trace vowels /w/ and /t/ in their books)"
+                            ],
+                            "learner_steps": [
+                                "Vatwame hachisalo mumujingulule (Sit in a circle)",
+                                "Vakopolole vasona /w/ na /t/ kuzachisa vyuma vyakulisezaseza (Trace vowels /w/ and /t/ using different materials)",
+                                "Vakopolole vasona /w/ na /t/ mumikanda yavo (Trace vowels /w/ and /t/ in their books)"
+                            ],
+                            "short_notes": "This activity introduces letter tracing, specifically the consonants /w/ and /t/. Using multisensory materials (flour, paint, bottle caps, beads, sand, water), learners practice letter formation before tracing in books. This multisensory approach reinforces letter recognition and formation."
+                        }
+                    ],
+                    "short_notes": "Pre-writing activities (kukopolola) develop fine motor skills through pattern tracing, shape tracing, and letter tracing. The progression from concrete materials to book tracing follows developmentally appropriate practice for young children.",
+                    "vocabulary": [
+                        {
+                            "term": "Kukopolola",
+                            "definition": "To trace"
+                        },
+                        {
+                            "term": "Jipatani",
+                            "definition": "Patterns"
+                        },
+                        {
+                            "term": "Jishepu",
+                            "definition": "Shapes"
+                        },
+                        {
+                            "term": "Mafwo",
+                            "definition": "Flour"
+                        },
+                        {
+                            "term": "Malolwa",
+                            "definition": "Paint"
+                        },
+                        {
+                            "term": "Usekeseke",
+                            "definition": "Sand"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 24,
+                        "questions": [
+                            "Kukopolola jipatani jajashi mukwoloka (Can trace simple patterns correctly)",
+                            "Kukopolola jishepu jajashi mukwoloka (Can trace simple shapes correctly)",
+                            "Kukopolola vasona mukwoloka (Can trace vowel letters correctly)",
+                            "Observe if learners: Can hold writing/tracing tools correctly",
+                            "Show proper hand-eye coordination",
+                            "Can trace on different surfaces and materials",
+                            "Complete tracing activities in their books"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.2",
+                    "title": "Kukwita ulombo (Coloring)",
+                    "page": 25,
+                    "competences": [
+                        "Kukwita ulombo hajishepu (Color shapes)",
+                        "Kukwita ulombo havyuma vyakutenga (Color pictures of objects)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2.a",
+                            "page": 25,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Imba mwaso navalongi wakuvuluka kukwita ulombo mukachi kaha, haweluka chijila (Sing a song with learners about coloring inside the lines and different ways)",
+                                "Lweza valongi vatwame mumujingulule hachisalo (Let learners sit in a circle)",
+                                "Talisa valongi jitepuleti jajishepu navinoma vyakulisezaseza vyakufwana nge: Tilayango, Sikweya, Seko, Lekitango, Kilayoni, Mapepa (Show learners shape templates and different materials like: triangles, squares, circles, rectangles, crayons, papers)",
+                                "Pangila jitepuleti jajishepu, jikilayoni namapepa kuli longi hilongi (Distribute shape templates, crayons and papers to each learner)",
+                                "Lweza valongi vahake jitepuleti jajishepu hamapepa unavahane (Let learners place shape templates on their papers)",
+                                "Lweza valongi vakwite ulombo hajishepu kuzachisa jitepuleti (Let learners color the shapes using templates)",
+                                "Lweza valongi vakwite ulombo jishepu mumikanda yavo (Let learners color shapes in their books)"
+                            ],
+                            "learner_steps": [
+                                "Vembenga mwaso namulongeshi wakuvuluka kukwita ulombo (Sing song with teacher about coloring)",
+                                "Vatwame mumujingulule hachisalo (Sit in a circle)",
+                                "Vahake jitepuleti jajishepu hamapepa unavahane (Place shape templates on their papers)",
+                                "Vakwite ulombo jishepu kuzachisa jitepuleti (Color shapes using templates)",
+                                "Vakwite ulombo jishepu mumikanda yavo (Color shapes in their books)"
+                            ],
+                            "short_notes": "This coloring activity (kukwita ulombo) develops fine motor control and color recognition. Learners practice coloring shapes (circle, square, triangle, rectangle) using templates first, then in their books. This activity also develops hand-eye coordination and staying within boundaries."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2.b",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Imba mwaso wakuvuluka kukwita ulombo (Sing a song about coloring)",
+                                "Talisa valongi mwakukwichila ulombo havyuma vyakutenga vyakulisezaseza (Show learners how to color pictures of different objects)",
+                                "Ihula valongi valilongese kukwita ulombo havyuma vyakutenga vyakulisezaseza (Ask learners to practice coloring pictures of different objects)",
+                                "Lweza valongi vakwite ulombo havyuma vyakutenga vyakulisezaseza mumikanda yavo (Let learners color pictures of different objects in their books)"
+                            ],
+                            "learner_steps": [
+                                "Vembenga mwaso namulongeshi wakuvuluka kukwita ulombo (Sing song with teacher about coloring)",
+                                "Valilongese kukwita ulombo havyuma vyakutenga vyakulisezaseza (Practice coloring pictures of different objects)",
+                                "Vakwite ulombo havyuma vyakutenga vyakulisezaseza mumikanda yavo (Color pictures of different objects in their books)"
+                            ],
+                            "short_notes": "This activity extends coloring practice to pictures of real objects (vyuma vyakutenga) like animals, people, household items. Coloring meaningful pictures helps learners connect motor skills with vocabulary and real-world objects."
+                        }
+                    ],
+                    "short_notes": "Coloring activities (kukwita ulombo) are essential pre-writing exercises that develop fine motor control, hand strength, and the ability to work within boundaries. Starting with shape templates provides structure before moving to free coloring.",
+                    "vocabulary": [
+                        {
+                            "term": "Kukwita ulombo",
+                            "definition": "To color/paint"
+                        },
+                        {
+                            "term": "Tilayango",
+                            "definition": "Triangle"
+                        },
+                        {
+                            "term": "Sikweya",
+                            "definition": "Square"
+                        },
+                        {
+                            "term": "Seko",
+                            "definition": "Circle"
+                        },
+                        {
+                            "term": "Lekitango",
+                            "definition": "Rectangle"
+                        },
+                        {
+                            "term": "Kilayoni",
+                            "definition": "Crayon"
+                        },
+                        {
+                            "term": "Jitepuleti",
+                            "definition": "Templates"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 26,
+                        "questions": [
+                            "Kukwita ulombo hajishepu mukwoloka (Can color shapes correctly)",
+                            "Kukwita ulombo havyuma vyakutenga mukwoloka (Can color pictures of objects correctly)",
+                            "Observe if learners: Can stay within the lines when coloring",
+                            "Hold crayons/coloring tools with proper grip",
+                            "Show appropriate pressure when coloring",
+                            "Complete coloring activities independently"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.3",
+                    "title": "Kutenga (Drawing)",
+                    "page": 27,
+                    "competences": [
+                        "Kutenga vyuma vyakulisezaseza (Draw different objects)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.3.a",
+                            "page": 27,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lweza valongi volojole minwe (Let learners exercise their fingers)",
+                                "Talisa valongi mambuloko ajishepu vyakulisezaseza (Show learners outline cards of different shapes)",
+                                "Haka valongi mumazavu avathu vatanu mulizavu (Divide learners into groups of five in each group)",
+                                "Lweza valongi mumazavu avo vatenge vyuma vyakulisezaseza kuzachisa mambuloko akuhemesa (Let learners in their groups draw different objects using outline cards as guides)",
+                                "Talisa valongi mwakutengela vyuma vyakulisezaseza halivaya (Show learners how to draw different objects on the board)",
+                                "Valweze jino vavitenge mupeho, hausekeseke, halivaya namumikanda yavo kuzachisa vinoma vyakulisezaseza (Let them practice what they drew in the air, in sand, on the board and in their books using different materials)",
+                                "Lweza valongi vatenge vyuma vyakulisezaseza mumikanda yavo vyakufwana nge: Tunyama, Mitondo, Vathu, Jizuvo, Jishepu (Let learners draw different objects in their books such as: animals, trees, people, fruits, shapes)"
+                            ],
+                            "learner_steps": [
+                                "Volojole minwe (Exercise fingers)",
+                                "Mumazavu avovatunge vyuma vyakulisezaseza kuzachisa mambuloko akuhemesa (In their groups draw different objects using outline cards as guides)",
+                                "Vatenge vyuma mupeho, hausekeseke, halivaya namumikanda yavo kuzachisa vinoma vyakulisezaseza (Draw objects in the air, in sand, on the board and in their books using different materials)"
+                            ],
+                            "short_notes": "Drawing activities (kutenga) represent the culmination of pre-writing skills. Learners progress from finger exercises to drawing with guides (outline cards) to free drawing. The sequence of drawing in air, sand, board, then books follows developmental progression. Drawing objects like animals, trees, people, fruits, and shapes connects motor skills with meaningful content."
+                        }
+                    ],
+                    "short_notes": "Drawing (kutenga) is the most complex pre-writing activity, requiring integration of fine motor control, spatial awareness, and creative expression. The scaffolded approach (finger exercises → guided drawing → free drawing) supports skill development.",
+                    "vocabulary": [
+                        {
+                            "term": "Kutenga",
+                            "definition": "To draw"
+                        },
+                        {
+                            "term": "Mambuloko",
+                            "definition": "Outline cards/guides"
+                        },
+                        {
+                            "term": "Tunyama",
+                            "definition": "Animals"
+                        },
+                        {
+                            "term": "Mitondo",
+                            "definition": "Trees/beads"
+                        },
+                        {
+                            "term": "Vathu",
+                            "definition": "People"
+                        },
+                        {
+                            "term": "Jizuvo",
+                            "definition": "Fruits"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Kutenga vyuma vyakulisezaseza mukwoloka (Can draw different objects correctly)",
+                            "Observe if learners: Can exercise and warm up their fingers before drawing",
+                            "Can use outline cards/guides effectively",
+                            "Show progression from air/sand drawing to book drawing",
+                            "Can draw recognizable shapes and objects",
+                            "Demonstrate creativity in their drawings",
+                            "Complete drawing activities independently"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

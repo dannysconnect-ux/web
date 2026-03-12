@@ -1,0 +1,390 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 4",
+    "subject": "English Language",
+    "philosophy": "Quality, life long education for all which is accessible, inclusive and relevant to individual, national and global needs",
+    "competence_learning": "The teaching of English language will follow the Communicative language teaching methodology. This methodology prioritises both the rules of grammar and the rules governing the appropriate use of language in different contexts. It focuses on all four language skills of listening, speaking, reading and writing. Maximum learner participation through communicative activities is key. The goal of teaching language is to develop communicative competence in learners. Teaching English Language using the Communicative Language Teaching Method should consider all four dimensions namely; grammatical competence, sociolinguistic competence, discourse competence, and strategic competence.",
+    "goals": [
+      "Develop the learners’ communicative competence in English Language",
+      "Develop skills of listening and speaking, reading and writing",
+      "Improve learners’ ability to use English Language accurately and appropriately"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "4.1.1",
+      "topic_title": "DISCUSSION",
+      "page_number": 118,
+      "subtopics": [
+        "Interrupting and Interjecting"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to interrupt or interject discussions"
+      ]
+    },
+    {
+      "unit": "4.1.2",
+      "topic_title": "PUBLIC SPEAKING",
+      "page_number": 118,
+      "subtopics": [
+        "Debate"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to argue and express points"
+      ]
+    },
+    {
+      "unit": "4.1.2",
+      "topic_title": "PUBLIC SPEAKING",
+      "page_number": 119,
+      "subtopics": [
+        "Presentation"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to give talks on different topics"
+      ]
+    },
+    {
+      "unit": "4.1.3",
+      "topic_title": "LANGUAGE IN SOCIAL SETTINGS",
+      "page_number": 119,
+      "subtopics": [
+        "Giving and Receiving Compliments"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to give and receive compliments"
+      ]
+    },
+    {
+      "unit": "4.1.4",
+      "topic_title": "FIGURATIVE LANGUAGE",
+      "page_number": 119,
+      "subtopics": [
+        "Figures of Speech"
+      ],
+      "specific_outcomes": [
+        "Apply figures of speech in different contexts"
+      ]
+    },
+    {
+      "unit": "4.1.5",
+      "topic_title": "STRESS AND RHYTHM",
+      "page_number": 121,
+      "subtopics": [
+        "Using Stress and Rhythm"
+      ],
+      "specific_outcomes": [
+        "Use stress and rhythm in pronunciation to enhance meaning"
+      ]
+    },
+    {
+      "unit": "4.2.1",
+      "topic_title": "COMPREHENSION",
+      "page_number": 122,
+      "subtopics": [
+        "Listening Comprehension"
+      ],
+      "specific_outcomes": [
+        "Use listening skills to make inferences and conclusions"
+      ]
+    },
+    {
+      "unit": "4.2.1",
+      "topic_title": "COMPREHENSION",
+      "page_number": 122,
+      "subtopics": [
+        "Intensive Reading"
+      ],
+      "specific_outcomes": [
+        "Read texts with understanding"
+      ]
+    },
+    {
+      "unit": "4.2.1",
+      "topic_title": "COMPREHENSION",
+      "page_number": 123,
+      "subtopics": [
+        "Efficient Reading"
+      ],
+      "specific_outcomes": [
+        "Read variety of texts efficiently"
+      ]
+    },
+    {
+      "unit": "4.2.1",
+      "topic_title": "COMPREHENSION",
+      "page_number": 123,
+      "subtopics": [
+        "Extensive Reading"
+      ],
+      "specific_outcomes": [
+        "Read a variety of unabridged texts"
+      ]
+    },
+    {
+      "unit": "4.3.1",
+      "topic_title": "NARRATIVES",
+      "page_number": 125,
+      "subtopics": [
+        "Story Writing"
+      ],
+      "specific_outcomes": [
+        "Compose Stories"
+      ]
+    },
+    {
+      "unit": "4.3.2",
+      "topic_title": "DESCRIPTIVE WRITING",
+      "page_number": 125,
+      "subtopics": [
+        "Describing Careers/Professions"
+      ],
+      "specific_outcomes": [
+        "Describe careers or professions"
+      ]
+    },
+    {
+      "unit": "4.3.3",
+      "topic_title": "ARTICLES",
+      "page_number": 126,
+      "subtopics": [
+        "Letter to the Editor"
+      ],
+      "specific_outcomes": [
+        "Write a letter to the editor"
+      ]
+    },
+    {
+      "unit": "4.3.3",
+      "topic_title": "ARTICLES",
+      "page_number": 126,
+      "subtopics": [
+        "Editorial"
+      ],
+      "specific_outcomes": [
+        "Write an editorial"
+      ]
+    },
+    {
+      "unit": "4.3.4",
+      "topic_title": "REPORT WRITING",
+      "page_number": 126,
+      "subtopics": [
+        "Detailed (Major) Reports"
+      ],
+      "specific_outcomes": [
+        "Compose major reports"
+      ]
+    },
+    {
+      "unit": "4.3.5",
+      "topic_title": "SPEECH WRITING",
+      "page_number": 127,
+      "subtopics": [
+        "Vote of thanks"
+      ],
+      "specific_outcomes": [
+        "Compose a Vote of Thanks"
+      ]
+    },
+    {
+      "unit": "4.3.6",
+      "topic_title": "PERSUASIVE WRITING",
+      "page_number": 127,
+      "subtopics": [
+        "Discursive Composition"
+      ],
+      "specific_outcomes": [
+        "Write a discursive composition"
+      ]
+    },
+    {
+      "unit": "4.3.7",
+      "topic_title": "EXPOSITORY WRITING",
+      "page_number": 127,
+      "subtopics": [
+        "Compare and Contrast"
+      ],
+      "specific_outcomes": [
+        "Write expository essays"
+      ]
+    },
+    {
+      "unit": "4.3.8",
+      "topic_title": "LETTER WRITING",
+      "page_number": 128,
+      "subtopics": [
+        "Formal Letters"
+      ],
+      "specific_outcomes": [
+        "Write Formal Letters"
+      ]
+    },
+    {
+      "unit": "4.3.8",
+      "topic_title": "LETTER WRITING",
+      "page_number": 128,
+      "subtopics": [
+        "Memorandum"
+      ],
+      "specific_outcomes": [
+        "Write memoranda (Memo)"
+      ]
+    },
+    {
+      "unit": "4.3.9",
+      "topic_title": "CURRICULUM VITAE",
+      "page_number": 128,
+      "subtopics": [
+        "Curriculum Vitae"
+      ],
+      "specific_outcomes": [
+        "Compile a Curriculum Vitae"
+      ]
+    },
+    {
+      "unit": "4.3.9",
+      "topic_title": "CURRICULUM VITAE",
+      "page_number": 129,
+      "subtopics": [
+        "Resume"
+      ],
+      "specific_outcomes": [
+        "Write a Resume"
+      ]
+    },
+    {
+      "unit": "4.4.1",
+      "topic_title": "ADVERBS",
+      "page_number": 130,
+      "subtopics": [
+        "Adverbs of Degree"
+      ],
+      "specific_outcomes": [
+        "Use adverbs of degree in sentences"
+      ]
+    },
+    {
+      "unit": "4.4.1",
+      "topic_title": "ADVERBS",
+      "page_number": 130,
+      "subtopics": [
+        "Modal Adverbs"
+      ],
+      "specific_outcomes": [
+        "Use modal adverbs in sentences"
+      ]
+    },
+    {
+      "unit": "4.4.1",
+      "topic_title": "ADVERBS",
+      "page_number": 131,
+      "subtopics": [
+        "Inversion in Adverbs"
+      ],
+      "specific_outcomes": [
+        "Use the different types of inversion in adverbs"
+      ]
+    },
+    {
+      "unit": "4.4.2",
+      "topic_title": "PREPOSITIONS",
+      "page_number": 132,
+      "subtopics": [
+        "Prepositions"
+      ],
+      "specific_outcomes": [
+        "Construct sentences using appropriate prepositions"
+      ]
+    },
+    {
+      "unit": "4.4.3",
+      "topic_title": "PHRASAL VERBS",
+      "page_number": 132,
+      "subtopics": [
+        "The form (structure) of Phrasal Verbs"
+      ],
+      "specific_outcomes": [
+        "Construct sentences using phrasal verbs"
+      ]
+    },
+    {
+      "unit": "4.4.4",
+      "topic_title": "SUBJECT-VERB AGREEMENT (CONCORD)",
+      "page_number": 133,
+      "subtopics": [
+        "Agreement with Relative Clauses"
+      ],
+      "specific_outcomes": [
+        "Use subject-verb agreement with relative clauses in sentences"
+      ]
+    },
+    {
+      "unit": "4.4.4",
+      "topic_title": "SUBJECT-VERB AGREEMENT (CONCORD)",
+      "page_number": 134,
+      "subtopics": [
+        "Agreement with Modal Verbs"
+      ],
+      "specific_outcomes": [
+        "Use subject-verb agreement with modal verbs in sentences"
+      ]
+    },
+    {
+      "unit": "4.4.4",
+      "topic_title": "SUBJECT-VERB AGREEMENT (CONCORD)",
+      "page_number": 135,
+      "subtopics": [
+        "Agreement in Inverted Sentences"
+      ],
+      "specific_outcomes": [
+        "Use subject-verb agreement in inverted sentences"
+      ]
+    },
+    {
+      "unit": "4.4.4",
+      "topic_title": "SUBJECT-VERB AGREEMENT (CONCORD)",
+      "page_number": 135,
+      "subtopics": [
+        "Agreement in the Passive Voice"
+      ],
+      "specific_outcomes": [
+        "Use of agreement in the passive voice"
+      ]
+    },
+    {
+      "unit": "4.5.1",
+      "topic_title": "NOTE SUMMARY",
+      "page_number": 137,
+      "subtopics": [
+        "Note Taking"
+      ],
+      "specific_outcomes": [
+        "Identify main ideas from a text"
+      ]
+    },
+    {
+      "unit": "4.5.2",
+      "topic_title": "PROSE SUMMARY",
+      "page_number": 137,
+      "subtopics": [
+        "Writing a Prose Summary"
+      ],
+      "specific_outcomes": [
+        "Write a prose summary"
+      ]
+    },
+    {
+      "unit": "4.5.3",
+      "topic_title": "TABULATION SKILLS",
+      "page_number": 137,
+      "subtopics": [
+        "Tabulating Information"
+      ],
+      "specific_outcomes": [
+        "Apply tabulation skills in categorising information"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "curriculum": "Zambia ECZ Biology Syllabus (Grades 10-12)",
+  "grades": [
+    {
+      "grade": 10,
+      "topics": [
+        {
+          "topic": "10.1 Living Organisms and Life Processes",
+          "subtopics": [
+            "10.1.1 Characteristics of living organisms"
+          ],
+          "practical_and_experimental_content": []
+        },
+        {
+          "topic": "10.2 Cell Structure and Organisation",
+          "subtopics": [
+            "10.2.1 Microscopes",
+            "10.2.2 Cells",
+            "10.2.3 Tissues, Organs and Systems"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate the correct use of a microscope.",
+            "Prepare temporary slides of plant and animal cells for observation under a microscope.",
+            "Examine and identify plant and animal cells under a microscope.",
+            "Calculate the magnification of a specimen."
+          ]
+        },
+        {
+          "topic": "10.3 Enzymes",
+          "subtopics": [
+            "10.3.1 Characteristics of Enzymes"
+          ],
+          "practical_and_experimental_content": [
+            "Investigate the properties of enzymes.",
+            "Investigate the effect of temperature and pH on enzyme action (e.g., using catalase or amylase)."
+          ]
+        },
+        {
+          "topic": "10.4 Nutrients",
+          "subtopics": [
+            "10.4.1 Classes of Nutrients",
+            "10.4.2 Vitamins and Minerals",
+            "10.4.3 Dietary needs",
+            "10.4.4 Plant Nutrients"
+          ],
+          "practical_and_experimental_content": [
+            "Conduct chemical tests for the presence of starch (Iodine test), reducing sugars (Benedict's test), proteins (Biuret test), and lipids (Emulsion/Ethanol test) in food samples."
+          ]
+        },
+        {
+          "topic": "10.5 Nutrition in Plants",
+          "subtopics": [
+            "10.5.1 External and internal structure of a leaf",
+            "10.5.2 Photosynthesis"
+          ],
+          "practical_and_experimental_content": [
+            "Examine the external and internal structure of a dicotyledonous leaf.",
+            "Demonstrate the process of testing a leaf for starch.",
+            "Investigate the necessity of light, carbon dioxide, and chlorophyll for photosynthesis.",
+            "Investigate the production of oxygen during photosynthesis (e.g., using Elodea/water weed)."
+          ]
+        },
+        {
+          "topic": "10.6 Saprophytic Nutrition",
+          "subtopics": [
+            "10.6.1 Rhizopus"
+          ],
+          "practical_and_experimental_content": [
+            "Investigate the growth of Rhizopus (bread mould) under different conditions.",
+            "Examine the structure of Rhizopus under a microscope or hand lens."
+          ]
+        },
+        {
+          "topic": "10.7 Nutrition in Animals",
+          "subtopics": [
+            "10.7.1 Dentition in mammals",
+            "10.7.2 Holozoic nutrition"
+          ],
+          "practical_and_experimental_content": [
+            "Examine and identify the different types of mammalian teeth.",
+            "Investigate the action of amylase on starch."
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 11,
+      "topics": [
+        {
+          "topic": "11.1 Transport in Plants",
+          "subtopics": [
+            "11.1.1 Internal structure of roots and stems",
+            "11.1.2 Absorption of water and uptake of mineral salts",
+            "11.1.3 Transpiration",
+            "11.1.4 Translocation"
+          ],
+          "practical_and_experimental_content": [
+            "Examine the distribution of xylem and phloem in cross-sections of roots and stems.",
+            "Demonstrate the process of osmosis using living tissues (e.g., potato osmoscope).",
+            "Investigate the movement of water through the stem using a coloured dye.",
+            "Investigate the factors that affect the rate of transpiration (using a potometer)."
+          ]
+        },
+        {
+          "topic": "11.2 Transport in Animals",
+          "subtopics": [
+            "11.2.1 Blood",
+            "11.2.2 The Heart",
+            "11.2.3 Blood vessels",
+            "11.2.4 Blood circulation"
+          ],
+          "practical_and_experimental_content": [
+            "Examine prepared slides of blood smears to identify red and white blood cells.",
+            "Examine the structure of a mammalian heart (using a model or specimen dissection).",
+            "Investigate the effect of physical activity on pulse rate."
+          ]
+        },
+        {
+          "topic": "11.3 Excretion",
+          "subtopics": [
+            "11.3.1 Excretion",
+            "11.3.2 The Kidney",
+            "11.3.3 The Lungs",
+            "11.3.4 The human skin"
+          ],
+          "practical_and_experimental_content": [
+            "Examine the macroscopic structure of a mammalian kidney."
+          ]
+        },
+        {
+          "topic": "11.4 Homeostasis",
+          "subtopics": [
+            "11.4.1 Homeostasis"
+          ],
+          "practical_and_experimental_content": []
+        },
+        {
+          "topic": "11.5 The Endocrine System",
+          "subtopics": [
+            "11.5.1 Hormones"
+          ],
+          "practical_and_experimental_content": []
+        },
+        {
+          "topic": "11.6 The Nervous System and Sense Organs",
+          "subtopics": [
+            "11.6.1 The nervous system",
+            "11.6.2 Sense organs"
+          ],
+          "practical_and_experimental_content": [
+            "Investigate simple reflex actions in humans (e.g., knee-jerk reflex, pupil reflex).",
+            "Examine the structure of the mammalian eye (using a model or specimen)."
+          ]
+        },
+        {
+          "topic": "11.7 The Skeleton and Locomotion",
+          "subtopics": [
+            "11.7.1 Skeleton",
+            "11.7.2 Muscles and joints"
+          ],
+          "practical_and_experimental_content": [
+            "Identify the main bones of the mammalian axial and appendicular skeleton.",
+            "Examine the structure of a typical freely movable joint.",
+            "Demonstrate the action of antagonistic muscles in the arm."
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 12,
+      "topics": [
+        {
+          "topic": "12.1 Asexual Reproduction",
+          "subtopics": [
+            "12.1.1 Reproduction",
+            "12.1.2 Vegetative propagation"
+          ],
+          "practical_and_experimental_content": [
+            "Examine and identify different methods of vegetative propagation (e.g., tubers, runners, corms, bulbs)."
+          ]
+        },
+        {
+          "topic": "12.2 Sexual Reproduction in Plants",
+          "subtopics": [
+            "12.2.1 Sexual reproduction in flowering plants",
+            "12.2.2 Fruits and Seeds"
+          ],
+          "practical_and_experimental_content": [
+            "Examine the structural parts of a typical flower.",
+            "Investigate the conditions necessary for seed germination (water, oxygen, suitable temperature).",
+            "Examine the structure of a dicotyledonous seed and a monocotyledonous seed."
+          ]
+        },
+        {
+          "topic": "12.3 Sexual Reproduction in Animals",
+          "subtopics": [
+            "12.3.1 Sexual reproduction in humans"
+          ],
+          "practical_and_experimental_content": []
+        },
+        {
+          "topic": "12.4 Genetics",
+          "subtopics": [
+            "12.4.1 Variation",
+            "12.4.2 Chromosomes and genes",
+            "12.4.3 Cell division",
+            "12.4.4 Monohybrid inheritance"
+          ],
+          "practical_and_experimental_content": [
+            "Investigate continuous and discontinuous variation in a sample population (e.g., measuring heights or observing tongue rolling)."
+          ]
+        },
+        {
+          "topic": "12.5 Classification of Plants and Animals",
+          "subtopics": [
+            "12.5.1 Classification"
+          ],
+          "practical_and_experimental_content": [
+            "Use a simple dichotomous key to identify organisms.",
+            "Examine and identify the main external features of arthropods (insects, arachnids, crustaceans, diplopods, chilopods)."
+          ]
+        },
+        {
+          "topic": "12.6 The Soil",
+          "subtopics": [
+            "12.6.1 Soil Composition"
+          ],
+          "practical_and_experimental_content": [
+            "Investigate the physical composition of different soil samples (sand, loam, clay).",
+            "Conduct experiments to compare the drainage and water retention capacities of different soils.",
+            "Investigate the presence of air and water in a soil sample."
+          ]
+        },
+        {
+          "topic": "12.7 Ecology",
+          "subtopics": [
+            "12.7.1 Biotic and abiotic interactions",
+            "12.7.2 Feeding relationships and energy flow",
+            "12.7.3 Population",
+            "12.7.4 Carbon, Nitrogen, and Water cycles"
+          ],
+          "practical_and_experimental_content": [
+            "Investigate a local ecosystem to identify biotic and abiotic factors.",
+            "Use sampling techniques (e.g., quadrats) to estimate population size of plant species in a habitat."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 4",
+    "subject": "Mathematics I",
+    "philosophy": "This syllabus is committed to providing an enriching and supportive educational environment where learners can develop a lifelong interest for Mathematics. By promoting inquiry, curiosity, and a passion for Mathematics, we aim to prepare learners not only for academic success but also for their future roles as informed and responsible citizens in a scientifically advanced society. We are confident that this Mathematics syllabus will inspire and empower learners to achieve their full potential, equipping them with the knowledge and skills necessary to navigate and contribute to the world around them. This syllabus is designed to ensure learners develop a deep understanding of Mathematical concepts while also acquiring practical skills and competencies needed for further education and careers in Mathematics. The rationale for teaching Ordinary Mathematics lies in the fundamental role that Mathematics plays in shaping the way we understand the world around us.",
+    "competence_learning": "Mathematical competence is the ability to develop and apply mathematical thinking in order to solve a range of problems in everyday situations. Mathematical competences involve the ability and willingness to use Mathematical modes of thought (logical and spatial thinking) and presentation (formulas, models, constructions, graphs, charts). The mathematics competence is developed step-by-step over a period of instruction after learning a set of specific competencies. In mathematics, a specific competence refers to a particular skill, value, or knowledge and attitude that enables learners to perform a specific mathematical task, solve a particular type of problem, or demonstrate understanding of a distinct mathematical concept. This may be achieved after performing several learning activities for a specific instruction.",
+    "goals": [
+      "To provide an enriching and supportive educational environment where learners can develop a lifelong interest for Mathematics.",
+      "To prepare learners for academic success and future roles as informed and responsible citizens in a scientifically advanced society.",
+      "To equip learners with the knowledge and skills necessary to navigate and contribute to the world around them, ensuring a deep understanding of Mathematical concepts and practical competencies for further education and careers.",
+      "To develop essential skills in numeracy, problem-solving, critical thinking, and logical reasoning, enabling application in real-world scenarios.",
+      "To foster cognitive development through abstract thinking, spatial reasoning, pattern recognition, and mathematical creativity, enhancing global competitiveness."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "4.1",
+      "topic_title": "QUADRATIC EQUATIONS AND FUNCTIONS",
+      "page_number": 24,
+      "subtopics": [
+        "4.1.1 Quadratic Equations",
+        "4.1.2 Quadratic Functions"
+      ],
+      "specific_outcomes": [
+        "4.1.1.1 Apply quadratic Equations to model and solve problems",
+        "4.1.2.1 Apply quadratic functions to model and solve problems"
+      ]
+    },
+    {
+      "unit": "4.2.",
+      "topic_title": "LINEAR PROGRAMMING",
+      "page_number": 25,
+      "subtopics": [
+        "4.2.1 Inequations",
+        "4.2.2 Linear Programming"
+      ],
+      "specific_outcomes": [
+        "4.2.1.1 Utilize Inequations in real life situations",
+        "4.2.2.1 Utilize linear programming in real life situations."
+      ]
+    },
+    {
+      "unit": "4.3",
+      "topic_title": "VECTORS",
+      "page_number": 26,
+      "subtopics": [
+        "4.3.1 Vectors in 2 Dimensions"
+      ],
+      "specific_outcomes": [
+        "4.3.1.1 Apply vectors in problem solving"
+      ]
+    },
+    {
+      "unit": "4.4",
+      "topic_title": "TRIGONOMETRY",
+      "page_number": 27,
+      "subtopics": [
+        "4.4.1 Introduction to Trigonometry"
+      ],
+      "specific_outcomes": [
+        "4.4.1.1 Use Trigonometry in problem solving"
+      ]
+    },
+    {
+      "unit": "4.5",
+      "topic_title": "GEOMETRICAL TRANSFORMATIONS",
+      "page_number": 28,
+      "subtopics": [
+        "4.5.1 Isometric Transformations",
+        "4.5.2 Non-Isometric Transformations"
+      ],
+      "specific_outcomes": [
+        "4.5.1.1 Apply Isometric Transformations to problem solving",
+        "4.5.1 Apply Isometric Transformations to problem solving"
+      ]
+    },
+    {
+      "unit": "4.6",
+      "topic_title": "PROBABILITY",
+      "page_number": 31,
+      "subtopics": [
+        "4.6.1 Introduction to Probability"
+      ],
+      "specific_outcomes": [
+        "4.6.1.1 Use the concept of Probability to make informed decisions in various aspects of life"
+      ]
+    }
+  ]
+}

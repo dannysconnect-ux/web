@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 3",
+    "subject": "Biology",
+    "philosophy": "Quality, life long education for all which is accessible, inclusive and relevant to individual, national and global needs",
+    "competence_learning": "The Biology Syllabus is designed for learners pursuing Ordinary Secondary School level in Zambian schools. This is a Competence-Based syllabus which emphasises what the learners are expected to do as opposed to what they are expected to know. Through hands-on activities, learners will generate knowledge and life-long learning skills. The course will provide an engaging and explorative journey designed to spark curiosity, nurture foundational skills, and instill love for learning in the young minds. In this course, there is a recognition that the learners are not empty vessels that have to be loaded with knowledge but come with prerequisites and prior knowledge. Therefore, the methods used in teaching them must take into consideration the fact that they have immense potential to create a dynamic and stimulating environment where they can joyfully discover the wonders of Biology. From the moment they begin to explore and discover the world around them, they engage in processes of observation, questioning, and experimentation. The syllabus aims to harness and tap into these innate abilities to provide a solid foundation for further studies in Biology related education and smooth transition to Advanced level Education.",
+    "goals": [
+      "Instill curiosity to nurture a sense of wonder by encouraging learners to be inquisitive, explore their surroundings, and make connections between the natural world and the biological concepts.",
+      "Build a foundation for biological thinking through interactive activities and play.",
+      "Introduce fundamental biological concepts such as patterns, measurement, sorting, manipulation, ordering and basic experiments. These experiences act as the future."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "3.1",
+      "topic_title": "Concepts and Methods in Biology",
+      "page_number": 35,
+      "subtopics": [
+        "3.1.1 Chemicals of Life",
+        "3.1.2 Food Confirmatory Tests",
+        "3.1.3 Research Proposal"
+      ],
+      "specific_outcomes": [
+        "3.1.1.1 Explore the chemicals of life",
+        "3.1.1.2 Prepare reagents used in investigating the chemicals of life",
+        "3.1.1.2 Carry out confirmatory tests for the presence of chemicals of life in food samples",
+        "3.1.3.1 Formulate a research proposal"
+      ]
+    },
+    {
+      "unit": "3.2",
+      "topic_title": "Principles of Cellular Life",
+      "page_number": 36,
+      "subtopics": [
+        "3.2.1 Movement of substances across the cell",
+        "3.2.2 Energy and Metabolism",
+        "3.2.3 Enzymes and their Actions"
+      ],
+      "specific_outcomes": [
+        "3.2.1.1 Analyse the movement of substances across the cell membrane",
+        "3.2.2.1 Analyse metabolism processes in living cells",
+        "3.2.3.1 Demonstrate understanding of enzymes and their actions"
+      ]
+    },
+    {
+      "unit": "3.3",
+      "topic_title": "Maintenance of the Organism",
+      "page_number": 37,
+      "subtopics": [
+        "3.3.1 Nutrition: Dentition in Mammals",
+        "3.3.2 Holozoic Nutrition",
+        "3.3.3 Transport in Animals",
+        "3.3.4 Gaseous Exchange and Respiration"
+      ],
+      "specific_outcomes": [
+        "3.3.1.1 Analyse dentition in mammals",
+        "3.3.2.1 Analyse holozoic nutrition",
+        "3.3.3.1 Analyse the composition of blood",
+        "3.3.3.2 Explore the functions of blood",
+        "3.3.3.3 Demonstrate understanding of ABO blood groups",
+        "3.3.3.4 Demonstrate understanding of the structure and function of the human heart",
+        "3.3.3.5 Demonstrate understanding of the blood circulatory system",
+        "3.3.3.6 Demonstrate understanding of the lymphatic system",
+        "3.3.4.1 Demonstrate understanding of gaseous exchange and respiration"
+      ]
+    },
+    {
+      "unit": "3.4",
+      "topic_title": "Continuity of Life",
+      "page_number": 43,
+      "subtopics": [
+        "3.4.1 Reproduction in amphibians",
+        "3.4.2 Fertilisation and Development in Human Beings",
+        "3.4.3 Infertility and birth control in humans"
+      ],
+      "specific_outcomes": [
+        "3.4.1.1 Demonstrate understanding of reproduction in frogs",
+        "3.4.2.1 Demonstrate understanding of development in human beings",
+        "3.4.3.1 Explore the causes of infertility in human beings",
+        "3.4.3.2 Evaluate birth control methods in human beings"
+      ]
+    },
+    {
+      "unit": "3.5",
+      "topic_title": "Coordination and Response",
+      "page_number": 46,
+      "subtopics": [
+        "3.5.1 Immunity",
+        "3.5.2 The Endocrine System",
+        "3.5.3 The Nervous System"
+      ],
+      "specific_outcomes": [
+        "3.5.1.1 Relate immunity to disease prevention",
+        "3.5.2.1 Demonstrate understanding of the endocrine system",
+        "3.5.3.1 Demonstrate understanding of the nervous system"
+      ]
+    },
+    {
+      "unit": "3.6",
+      "topic_title": "Ecological Relationships and Evolution",
+      "page_number": 50,
+      "subtopics": [
+        "3.6.1 Nutrient Cycles in the Ecosystem",
+        "3.6.2 Levels of Classification"
+      ],
+      "specific_outcomes": [
+        "3.6.1.1 Explore the cycling of carbon and nitrogen in the biosphere",
+        "3.6.1.2 Explore the water cycle",
+        "3.6.2.1 Classify various types of plants and animals"
+      ]
+    }
+  ]
+}

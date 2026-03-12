@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "12",
+    "subject": "CHEMISTRY 5124",
+    "philosophy": null,
+    "competence_learning": "Demonstrate ability to determine the reactivity series of metals; Demonstrate ability to prepare and test gases; Demonstrate ability to identify organic compounds",
+    "goals": [
+      "Demonstrate an understanding of metals",
+      "Develop investigative skills about some properties and uses of metals.",
+      "Demonstrate an understanding of Non- metals.",
+      "Develop investigative skills about some industrial uses of non-metals Demonstrate an understanding of Organic Chemistry",
+      "Develop investigative skills about organic compounds"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "12.10",
+      "topic_title": "METALS",
+      "page_number": 90,
+      "subtopics": [
+        {
+          "subtopic_unit": "12.10.1",
+          "subtopic_title": "General properties of a metals",
+          "specific_outcomes": [
+            "12.10.1.1 Describe diagrammatic representations of pure metals",
+            "12.10.1.2 Describe the physical properties of metal",
+            "12.10.1.3 Describe the chemical properties of metals"
+          ]
+        },
+        {
+          "subtopic_unit": "12.10.2",
+          "subtopic_title": "Reactivity and Electro Chemical Series",
+          "specific_outcomes": [
+            "12.10.2.1 Describe the reactivity series of metals",
+            "12.10.2.2. Explain the apparent non reactivity of aluminium.",
+            "12.10.2.3 Demonstrate an order of reactivity.",
+            "12.10.2.4 Describe the effects of heat on hydroxides, carbonates, nitrates of metals and ammonium compounds."
+          ]
+        },
+        {
+          "subtopic_unit": "12.10.3",
+          "subtopic_title": "Alloys",
+          "specific_outcomes": [
+            "12.10.3.1 Describe alloys.",
+            "12.10.3.2 Describe diagrammatic representations of alloys.",
+            "12.10.3.3 Explain the advantages of using alloys over pure metals.",
+            "12.10.3.4 Identify common uses of alloys"
+          ]
+        },
+        {
+          "subtopic_unit": "12.10.4",
+          "subtopic_title": "Corrosion",
+          "specific_outcomes": [
+            "12.10.4.1 Describe corrosion",
+            "12.10.4.2 Relate corrosion to the reactivity of metals.",
+            "12.10.4.3 Describe different methods of preventing corrosion."
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "12.11",
+      "topic_title": "NON -METALS",
+      "page_number": 94,
+      "subtopics": [
+        {
+          "subtopic_unit": "12.11.1",
+          "subtopic_title": "General properties of non-metals.",
+          "specific_outcomes": [
+            "12.11.1.1 Describe the physical and chemical properties of non-metals."
+          ]
+        },
+        {
+          "subtopic_unit": "12.11.2",
+          "subtopic_title": "Hydrogen",
+          "specific_outcomes": [
+            "12.11.2.1. Demonstrate the laboratory preparation, collection and test for hydrogen.",
+            "12.11.2.2 Describe the physical and chemical properties of hydrogen",
+            "12.11.2.3 Describe industrial manufacture of hydrogen.",
+            "12.11.2.6 Describe the uses of hydrogen."
+          ]
+        },
+        {
+          "subtopic_unit": "12.11.3",
+          "subtopic_title": "Oxygen",
+          "specific_outcomes": [
+            "12.11.3.1 Demonstrate the laboratory preparation, collection and test for oxygen.",
+            "12.11.3.2 Describe the physical and chemical properties of oxygen.",
+            "12.11.3.3 Describe the industrial manufacture of oxygen.",
+            "12.11.3.4 Describe the uses of oxygen in industry and in natural processes.",
+            "12.11.3.5 Explain the importance of ozone layer and dangers of its depletion.",
+            "12.11.3.6 Demonstrate the chemical test for water.",
+            "12.11.3.7 Describe the importance of water"
+          ]
+        },
+        {
+          "subtopic_unit": "12.11.4",
+          "subtopic_title": "Nitrogen",
+          "specific_outcomes": [
+            "12.11.4.1 Describe industrial manufacture of nitrogen.",
+            "12.11.4.2 Explain the characteristics and importance of Nitrogen as a gas.",
+            "12.11.4.3 Demonstrate the preparation collection and test for ammonia in the laboratory",
+            "12.11.4.4 Describe the manufacture of ammonia.",
+            "12.11.4.5 Describe the physical and chemical properties of ammonia.",
+            "12.11.4.8 Describe the thermal dissociation of ammonium salts.",
+            "12.11.4.9 Describe the uses ammonia",
+            "12.11.4.10 Describe the manufacture of nitric acid",
+            "12.11.4.10 Explain the importance of nitrogenous fertilizers",
+            "12.11.4.11 Describe the effects of nitrogenous fertilizers on the environment"
+          ]
+        },
+        {
+          "subtopic_unit": "12.11.7",
+          "subtopic_title": "Carbon and carbonates",
+          "specific_outcomes": [
+            "12.11.7.1 Describe allotropes",
+            "12.11.7.2 Describe the physical properties of the allotropes of carbon.",
+            "12.11.7.3 Describe the formation and properties of carbon monoxide.",
+            "12.11.7.4 Demonstrate the laboratory preparation, collection and the test for carbon dioxide.",
+            "12.11.7.4 Describe the physical and chemical properties of carbon dioxide.",
+            "12.11.7.5 Describe the uses of carbon dioxide.",
+            "12.11.7.6 Describe the manufacture of lime from limestone.",
+            "12.11.7.7 Describe the uses of lime and slaked lime.",
+            "12.11.7.8 Describe the uses of limestone.",
+            "12.11.7.9 Describe the greenhouse effect"
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "12.12",
+      "topic_title": "ORGANIC CHEMISTRY",
+      "page_number": 102,
+      "subtopics": [
+        {
+          "subtopic_unit": "12.12.1",
+          "subtopic_title": "Saturated and unsaturated Hydrocarbons",
+          "specific_outcomes": [
+            "12.12.1.1 Describe an organic compound.",
+            "12.12.1.2 Describe hydrocarbon",
+            "12.12.1.3 Illustrate and name the structures of the aliphatic alkanes up to five carbon atoms.",
+            "12.12.1.4 Demonstrate the structures of isomers and their names.",
+            "12.12.1.5 Describe fractional distillation of petroleum (crude oil)",
+            "12.12.1.6 Describe the uses of the fractions of crude oil",
+            "12.12.1.7 Describe the chemical properties of alkanes.",
+            "12.12.1.8 Account for the apparent non reactivity of alkanes as compared to other organic compounds.",
+            "12.12.1.9 Illustrate unsaturation in alkenes.",
+            "12.12.1.10 Describe and name the structures of the alkenes up to 5 carbon atoms.",
+            "12.12.1.11 Demonstrate the structures of isomers of alkenes.",
+            "12.12.1.12 Describe the chemical properties of alkenes.",
+            "12.12.1.13 Illustrate the differences and similarities between saturated and unsaturated Hydrocarbons.",
+            "12.12.1.14 Describe the chemical tests for unsaturated hydrocarbons (alkenes)",
+            "12.12.1.15 Describe the uses of alkenes."
+          ]
+        },
+        {
+          "subtopic_unit": "12.12.2",
+          "subtopic_title": "Alcohols (Alkanols)",
+          "specific_outcomes": [
+            "12.12.2.1 Describe the chemical composition of an alcohol.",
+            "12.12.2.2 Describe and name structures of primary alcohols up to five carbon atoms.",
+            "12.12.2.3 Demonstrate isomerism in alcohols",
+            "12.12.2.4 Describe the formation of alcohols.",
+            "12.12.2.5 Describe the chemical properties of alcohols",
+            "12.12.2.6 Describe the uses of alcohols"
+          ]
+        },
+        {
+          "subtopic_unit": "12.12.3",
+          "subtopic_title": "Carboxylic acids (alkanoic acids)",
+          "specific_outcomes": [
+            "12.12.3.1 Describe and name structures of carboxylic acids up to five carbon atoms.",
+            "12.12.3.2 Describe the formation of carboxylic acids",
+            "12.12.3.3 Demonstrate the chemical properties of carboxylic acids.",
+            "12.12.3.4 Describe the uses of carboxylic acids"
+          ]
+        },
+        {
+          "subtopic_unit": "12.12.4",
+          "subtopic_title": "Esters (Alkanoates)",
+          "specific_outcomes": [
+            "12.12.4.1 Describe and name the structures of esters up to five carbon atoms.",
+            "12.12.4.2 Describe the chemical properties of esters",
+            "12.12.4.3 Describe the uses of esters and relate the uses to properties."
+          ]
+        },
+        {
+          "subtopic_unit": "12.12.5",
+          "subtopic_title": "Homologous series",
+          "specific_outcomes": [
+            "12.12.5.1 Describe homologous series",
+            "12.12.5.2 Describe the general characteristics of homologues (members)."
+          ]
+        },
+        {
+          "subtopic_unit": "12.12.6",
+          "subtopic_title": "Macromolecules (Polymers)",
+          "specific_outcomes": [
+            "12.12.6.1 Describe macromolecules (polymers)",
+            "12.12.6.2 Describe synthetic macromolecules.",
+            "12.12.6.3 Describe the formation of polyalkenes.",
+            "12.12.6.4 Classify plastics",
+            "12.12.6.5 Describe the formation of nylon and Terylene.",
+            "12.12.6.6 Differentiate between the structure of Nylon and Terylene.",
+            "12.12.6.7 Describe typical uses of plastics and synthetic fibres.",
+            "12.12.6.8 Describe the biodegradability of synthetic fibres.",
+            "12.12.6.9 Describe natural macromolecules",
+            "12.12.6.10 Describe composition of carbohydrates",
+            "12.12.4.11 Identify linkages in starch, proteins and fats",
+            "12.12.4.12 Relate linkages in synthetic and natural polymers.",
+            "12.12.4.13 Describe hydrolysis of fats (saponification).",
+            "12.12.4.14 Identify the products of the hydrolysis of starch and proteins."
+          ]
+        }
+      ]
+    }
+  ]
+}

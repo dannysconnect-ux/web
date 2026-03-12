@@ -1,0 +1,697 @@
+{
+    "subject": "Agricultural Science",
+    "grade": "Form 1-4",
+    "course_type": "Ordinary Level Secondary Education",
+    "forms": [
+        {
+            "form": "Form 1",
+            "topics": [
+                {
+                    "topic_id": "1.1.0",
+                    "topic_title": "Agriculture in Zambia",
+                    "sub_topics": [
+                        {
+                            "subtopic_id": "1.1.1",
+                            "title": "Importance of Agriculture",
+                            "page": 2,
+                            "competences": [
+                                "Demonstrate understanding of the importance of Agriculture in Zambia"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Classifying Agriculture as an applied science or as a technology",
+                                        "Investigating the value of agriculture (food provision, food security, provision of raw materials, employment, income generation and foreign exchange...)",
+                                        "Collecting data, discussing and writing down the importance of agriculture in Zambia",
+                                        "Evaluating the impact of underdevelopment of agriculture in Zambia",
+                                        "Developing new ideas and innovations on how to improve agriculture in Zambia"
+                                    ],
+                                    "learner_steps": [
+                                        "Participate in classifying agriculture as science or technology",
+                                        "Research and collect data on agricultural value in Zambia",
+                                        "Discuss findings in groups",
+                                        "Analyze impact of agricultural underdevelopment",
+                                        "Present innovative ideas for agricultural improvement"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Agriculture is fundamental to Zambia's economy, providing food security, employment, raw materials for industries, income generation, and foreign exchange earnings. It is both an applied science (using scientific principles) and a technology (practical application of knowledge). Understanding agriculture's importance is crucial for national development.",
+                            "vocabulary": [
+                                {
+                                    "term": "Applied Science",
+                                    "definition": "The use of scientific knowledge for practical purposes, especially in agriculture to improve production"
+                                },
+                                {
+                                    "term": "Food Security",
+                                    "definition": "The state of having reliable access to sufficient quantities of affordable, nutritious food"
+                                },
+                                {
+                                    "term": "Foreign Exchange",
+                                    "definition": "Currency earned through exports of agricultural products to other countries"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 2,
+                                "questions": [
+                                    "Explain how agriculture contributes to Zambia's economy",
+                                    "Distinguish between agriculture as an applied science and as a technology",
+                                    "Evaluate the impact of underdeveloped agriculture on Zambia",
+                                    "Propose three innovative ways to improve agriculture in Zambia"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "1.1.2",
+                            "title": "Agricultural Activities in Zambia",
+                            "page": 2,
+                            "competences": [
+                                "Explore the main agricultural activities in Zambia"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Investigating the main agricultural activities in Zambia: Crop Production (maize, groundnuts, cassava, soya beans, cabbage, citrus, tomatoes, rape...)",
+                                        "Investigating Animal Production activities (cattle, poultry, aquaculture, apiculture, pig production, sheep and goat production, rabbit...)"
+                                    ],
+                                    "learner_steps": [
+                                        "Research main crops grown in Zambia",
+                                        "Identify livestock and animal production systems",
+                                        "Create presentations on agricultural activities",
+                                        "Visit local farms to observe activities"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Zambia's main agricultural activities include crop production (maize, groundnuts, cassava, soya beans, vegetables like cabbage, tomatoes, and fruits like citrus) and animal production (cattle, poultry, fish farming, beekeeping, pigs, sheep, goats, and rabbits). These activities provide food, income, and employment.",
+                            "vocabulary": [
+                                {
+                                    "term": "Crop Production",
+                                    "definition": "The cultivation and harvesting of plants for food, fiber, or other uses"
+                                },
+                                {
+                                    "term": "Animal Production",
+                                    "definition": "The raising and management of livestock for meat, milk, eggs, or other products"
+                                },
+                                {
+                                    "term": "Aquaculture",
+                                    "definition": "The farming of fish and other aquatic organisms"
+                                },
+                                {
+                                    "term": "Apiculture",
+                                    "definition": "The practice of beekeeping for honey and other bee products"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 2,
+                                "questions": [
+                                    "List five main crops grown in Zambia",
+                                    "Describe three types of animal production in Zambia",
+                                    "Explain the importance of diversifying agricultural activities",
+                                    "Compare crop production and animal production activities"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "1.1.3",
+                            "title": "Factors that Influence Agricultural Development in Zambia",
+                            "page": 3,
+                            "competences": [
+                                "Explore factors that influence agricultural development in Zambia"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Investigating factors that influence agricultural development: Environmental factors, social and economic factors, technological factors",
+                                        "Investigating agencies and organisations that support farmers",
+                                        "Illustrating on the map of Zambia: (a) main agro-ecological zones, (b) areas not suitable for dairy farming and ranching, (c) areas not very suitable for growing maize"
+                                    ],
+                                    "learner_steps": [
+                                        "Research environmental, social, and economic factors",
+                                        "Identify agricultural support organizations",
+                                        "Create maps showing agro-ecological zones",
+                                        "Analyze suitability of different regions for specific farming"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Agricultural development in Zambia is influenced by environmental factors (climate, soil, water availability), social and economic factors (markets, infrastructure, capital, labor), and technological factors (machinery, improved seeds, farming techniques). Various agencies support farmers including government ministries, NGOs, and cooperatives.",
+                            "vocabulary": [
+                                {
+                                    "term": "Agro-ecological Zone",
+                                    "definition": "A geographical area with similar climate, soil, and environmental conditions suitable for specific agricultural activities"
+                                },
+                                {
+                                    "term": "Infrastructure",
+                                    "definition": "Basic facilities and systems needed for agriculture, such as roads, markets, and storage facilities"
+                                },
+                                {
+                                    "term": "Technological Factors",
+                                    "definition": "Tools, equipment, and modern techniques that improve agricultural productivity"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 3,
+                                "questions": [
+                                    "Identify and explain three factors that influence agricultural development",
+                                    "Name five organizations that support farmers in Zambia",
+                                    "Draw and label the main agro-ecological zones of Zambia",
+                                    "Explain why some areas are not suitable for dairy farming"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "1.1.4",
+                            "title": "Types of Farmers",
+                            "page": 3,
+                            "competences": [
+                                "Classify the types of farmers"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Categorising farmers based on level of production, mechanisation and capital investment",
+                                        "Distinguishing between subsistence farmers, small scale farmers, and commercial farmers"
+                                    ],
+                                    "learner_steps": [
+                                        "Classify farmers based on production level",
+                                        "Compare different farmer types",
+                                        "Visit farms representing different scales",
+                                        "Analyze characteristics of each farmer type"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Farmers are classified based on production level, mechanization, and capital investment: Subsistence farmers (grow for family consumption with minimal surplus), Small-scale farmers (commercial production on limited land with moderate inputs), and Commercial farmers (large-scale production with high mechanization and capital investment).",
+                            "vocabulary": [
+                                {
+                                    "term": "Subsistence Farming",
+                                    "definition": "Farming mainly for family consumption with little or no surplus for sale"
+                                },
+                                {
+                                    "term": "Small-scale Farming",
+                                    "definition": "Farming on limited land area with moderate inputs and some surplus for market"
+                                },
+                                {
+                                    "term": "Commercial Farming",
+                                    "definition": "Large-scale farming primarily for profit with high mechanization and capital investment"
+                                },
+                                {
+                                    "term": "Mechanisation",
+                                    "definition": "The use of machines and equipment in farming operations"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 3,
+                                "questions": [
+                                    "Define the three main types of farmers",
+                                    "Compare subsistence and commercial farming",
+                                    "Explain the role of mechanization in classifying farmers",
+                                    "Give examples of each type of farmer from your local area"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "topic_id": "1.2.0",
+                    "topic_title": "Soil Science",
+                    "sub_topics": [
+                        {
+                            "subtopic_id": "1.2.1",
+                            "title": "Composition of Soil",
+                            "page": 4,
+                            "competences": [
+                                "Examine the composition of soil"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Describing soil composition",
+                                        "Identifying types of rocks based on their physical characteristics (igneous, sedimentary and metamorphic)",
+                                        "Studying soil and its formation (Weathering - physical, chemical and biological)",
+                                        "Analysing soil composition by means of experiments (air, water, mineral particles, organic matter and living organisms)",
+                                        "Analysing the importance of air, water, mineral particles, organic matter and living organisms in the soil"
+                                    ],
+                                    "learner_steps": [
+                                        "Conduct experiments to examine soil components",
+                                        "Identify rock types in local environment",
+                                        "Study weathering processes",
+                                        "Analyze experimental results on soil composition",
+                                        "Present findings on importance of each component"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Soil is composed of five main components: mineral particles (from weathered rocks), water, air, organic matter (humus from decomposed plant and animal material), and living organisms (bacteria, fungi, earthworms). Soil forms through weathering of rocks - physical (breaking down), chemical (changing composition), and biological (organic action). Each component is essential for soil fertility and plant growth.",
+                            "vocabulary": [
+                                {
+                                    "term": "Weathering",
+                                    "definition": "The breaking down of rocks into smaller particles through physical, chemical, or biological processes"
+                                },
+                                {
+                                    "term": "Igneous Rock",
+                                    "definition": "Rock formed from cooled and solidified magma or lava"
+                                },
+                                {
+                                    "term": "Sedimentary Rock",
+                                    "definition": "Rock formed from compressed layers of sediment"
+                                },
+                                {
+                                    "term": "Metamorphic Rock",
+                                    "definition": "Rock formed from existing rocks changed by heat and pressure"
+                                },
+                                {
+                                    "term": "Organic Matter",
+                                    "definition": "Decomposed plant and animal material in soil, also called humus"
+                                },
+                                {
+                                    "term": "Mineral Particles",
+                                    "definition": "Small pieces of weathered rock in soil (sand, silt, and clay)"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 4,
+                                "questions": [
+                                    "List and explain the five components of soil",
+                                    "Describe the three types of weathering",
+                                    "Conduct an experiment to separate soil components and report findings",
+                                    "Explain the importance of each soil component for plant growth",
+                                    "Identify and classify three types of rocks found in your area"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "1.2.2",
+                            "title": "Properties of Soil",
+                            "page": 4,
+                            "competences": [
+                                "Explore properties of soil"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Investigating the types of soils (sand, clay and silt)",
+                                        "Determining the physical characteristics of each type of soil (texture, structure and colour)",
+                                        "Determining the chemical characteristics of each type of soil (soil reaction: testing soil pH, and carry out appropriate action)",
+                                        "Profiling soils in the local environment to determine the suitability of the sites for agricultural purposes"
+                                    ],
+                                    "learner_steps": [
+                                        "Collect soil samples from different locations",
+                                        "Conduct experiments to determine soil texture",
+                                        "Test soil pH using indicators",
+                                        "Create soil profiles of local sites",
+                                        "Analyze suitability for agriculture"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Soil properties include physical properties (texture - proportion of sand, silt, and clay; structure - arrangement of particles; color - indicating organic matter and minerals) and chemical properties (pH - soil acidity or alkalinity). Soil profiling reveals layers (horizons) and helps determine agricultural suitability. Different soil types have different water-holding capacity, drainage, and nutrient availability.",
+                            "vocabulary": [
+                                {
+                                    "term": "Soil Texture",
+                                    "definition": "The relative proportion of sand, silt, and clay particles in soil"
+                                },
+                                {
+                                    "term": "Soil Structure",
+                                    "definition": "The arrangement and organization of soil particles into aggregates"
+                                },
+                                {
+                                    "term": "Soil pH",
+                                    "definition": "A measure of soil acidity or alkalinity on a scale of 0-14, with 7 being neutral"
+                                },
+                                {
+                                    "term": "Sand",
+                                    "definition": "The largest soil particles, providing good drainage but low water and nutrient retention"
+                                },
+                                {
+                                    "term": "Silt",
+                                    "definition": "Medium-sized soil particles, smooth to touch, moderate water retention"
+                                },
+                                {
+                                    "term": "Clay",
+                                    "definition": "The smallest soil particles, sticky when wet, high water and nutrient retention"
+                                },
+                                {
+                                    "term": "Soil Profile",
+                                    "definition": "A vertical section of soil showing different layers or horizons"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 4,
+                                "questions": [
+                                    "Distinguish between sand, silt, and clay soils",
+                                    "Demonstrate how to test soil pH and interpret results",
+                                    "Create a soil profile diagram of a local site",
+                                    "Explain how soil texture affects water retention",
+                                    "Determine the suitability of different soil types for specific crops"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "1.2.3",
+                            "title": "Soil Fertility",
+                            "page": 5,
+                            "competences": [
+                                "Conserve soil fertility"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Describing soil fertility",
+                                        "Investigating factors that determine soil fertility (pH, aeration, drainage, temperature, nutrients, humus, water holding capacity, soil microorganisms, pests and diseases)",
+                                        "Classifying nutrients into major (N, P, K) and minor (boron, zinc, manganese, copper...)",
+                                        "Distinguishing organic fertilisers from inorganic fertilisers",
+                                        "Categorising inorganic fertilisers based on composition (straight and compound fertilisers)",
+                                        "Maintaining soil fertility (crop rotation, mulching, minimum tillage, cover crops...)",
+                                        "Improving soil fertility (liming, organic and inorganic fertiliser application, improved fallow...)",
+                                        "Making compost manure",
+                                        "Investigating soil erosion and its mitigation to maintain soil fertility"
+                                    ],
+                                    "learner_steps": [
+                                        "Research factors affecting soil fertility",
+                                        "Classify plant nutrients",
+                                        "Prepare compost manure",
+                                        "Practice soil conservation techniques",
+                                        "Conduct experiments on fertilizer types",
+                                        "Observe and document soil erosion",
+                                        "Implement erosion control methods"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Soil fertility is the ability of soil to provide nutrients for plant growth. Major factors include pH, nutrients (major: NPK; minor: boron, zinc, manganese, copper), organic matter, aeration, drainage, and soil organisms. Soil fertility is maintained through crop rotation, mulching, minimum tillage, and cover crops. It is improved through liming, fertilizer application (organic: compost, manure; inorganic: straight or compound fertilizers), and improved fallow. Soil erosion reduces fertility and must be prevented.",
+                            "vocabulary": [
+                                {
+                                    "term": "Soil Fertility",
+                                    "definition": "The ability of soil to provide essential nutrients in adequate amounts for plant growth"
+                                },
+                                {
+                                    "term": "Major Nutrients",
+                                    "definition": "Nitrogen (N), Phosphorus (P), and Potassium (K) - nutrients needed in large quantities by plants"
+                                },
+                                {
+                                    "term": "Minor Nutrients",
+                                    "definition": "Micronutrients like boron, zinc, manganese, copper needed in small quantities"
+                                },
+                                {
+                                    "term": "Organic Fertiliser",
+                                    "definition": "Fertilizer from plant or animal sources, such as compost or manure"
+                                },
+                                {
+                                    "term": "Inorganic Fertiliser",
+                                    "definition": "Manufactured chemical fertilizer containing specific nutrients"
+                                },
+                                {
+                                    "term": "Straight Fertiliser",
+                                    "definition": "Fertilizer containing only one nutrient (e.g., urea for nitrogen)"
+                                },
+                                {
+                                    "term": "Compound Fertiliser",
+                                    "definition": "Fertilizer containing two or more nutrients (e.g., NPK)"
+                                },
+                                {
+                                    "term": "Crop Rotation",
+                                    "definition": "Growing different crops in sequence on the same land to maintain soil fertility"
+                                },
+                                {
+                                    "term": "Mulching",
+                                    "definition": "Covering soil with organic material to conserve moisture and add nutrients"
+                                },
+                                {
+                                    "term": "Liming",
+                                    "definition": "Adding lime to acid soil to raise pH and improve fertility"
+                                },
+                                {
+                                    "term": "Soil Erosion",
+                                    "definition": "The removal of topsoil by wind or water, reducing soil fertility"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 5,
+                                "questions": [
+                                    "Explain factors that determine soil fertility",
+                                    "Distinguish between major and minor nutrients",
+                                    "Compare organic and inorganic fertilizers",
+                                    "Demonstrate how to make compost manure",
+                                    "Describe methods of maintaining and improving soil fertility",
+                                    "Explain how soil erosion affects fertility and propose mitigation measures"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "1.2.4",
+                            "title": "Soil Water",
+                            "page": 6,
+                            "competences": [
+                                "Investigate soil water and retention"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Describing soil water and retention of water",
+                                        "Experimenting on drainage and water holding capacity of different soil types",
+                                        "Demonstrating capillarity of different soil types",
+                                        "Analysing the types of soil moisture and their significance to crop production (hygroscopic, gravitational, capillary water...)",
+                                        "Practising the different methods of irrigation (surface, sub surface, overhead irrigation) and their effects on the environment",
+                                        "Interpreting the significance of the water cycle to agriculture"
+                                    ],
+                                    "learner_steps": [
+                                        "Conduct experiments on water retention",
+                                        "Demonstrate capillary action in soil",
+                                        "Identify types of soil moisture",
+                                        "Practice different irrigation methods",
+                                        "Analyze environmental effects of irrigation",
+                                        "Study and illustrate the water cycle"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Soil water exists in three forms: gravitational water (drains away by gravity), capillary water (held in small pores, available to plants), and hygroscopic water (tightly bound to particles, unavailable to plants). Different soil types have different water-holding capacities - clay holds most water, sand drains quickly. Irrigation methods include surface (flooding), subsurface (underground pipes), and overhead (sprinklers). The water cycle (evaporation, condensation, precipitation) is essential for agriculture.",
+                            "vocabulary": [
+                                {
+                                    "term": "Water Retention",
+                                    "definition": "The ability of soil to hold water against the force of gravity"
+                                },
+                                {
+                                    "term": "Gravitational Water",
+                                    "definition": "Water that drains through soil due to gravity, unavailable to plants"
+                                },
+                                {
+                                    "term": "Capillary Water",
+                                    "definition": "Water held in small pores between soil particles, available to plant roots"
+                                },
+                                {
+                                    "term": "Hygroscopic Water",
+                                    "definition": "Water tightly bound to soil particles, unavailable to plants"
+                                },
+                                {
+                                    "term": "Capillarity",
+                                    "definition": "The upward movement of water through small pores in soil"
+                                },
+                                {
+                                    "term": "Surface Irrigation",
+                                    "definition": "Water application by flooding or furrows on the soil surface"
+                                },
+                                {
+                                    "term": "Subsurface Irrigation",
+                                    "definition": "Water application through underground pipes or drip systems"
+                                },
+                                {
+                                    "term": "Overhead Irrigation",
+                                    "definition": "Water application from above using sprinklers"
+                                },
+                                {
+                                    "term": "Water Cycle",
+                                    "definition": "The continuous movement of water through evaporation, condensation, and precipitation"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 6,
+                                "questions": [
+                                    "Describe the three types of soil moisture and their availability to plants",
+                                    "Compare water-holding capacity of sand, silt, and clay",
+                                    "Demonstrate capillary action in different soil types",
+                                    "Explain three methods of irrigation and their environmental effects",
+                                    "Illustrate and explain the water cycle's significance to agriculture"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "topic_id": "1.3.0",
+                    "topic_title": "Climate-Smart Agriculture",
+                    "sub_topics": [
+                        {
+                            "subtopic_id": "1.3.1",
+                            "title": "Climate-Smart Agriculture",
+                            "page": 6,
+                            "competences": [
+                                "Demonstrate understanding of Climate-Smart Agriculture"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Describing Climate-Smart Agriculture",
+                                        "Investigating the key characteristics of Climate-Smart Agriculture",
+                                        "Identifying factors that affect practicing of Climate-Smart Agriculture in Zambia",
+                                        "Analysing the benefits of Climate-Smart Agriculture in Zambia"
+                                    ],
+                                    "learner_steps": [
+                                        "Research Climate-Smart Agriculture concepts",
+                                        "Identify key characteristics",
+                                        "Analyze factors affecting CSA adoption",
+                                        "Present benefits of CSA",
+                                        "Visit farms practicing CSA"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Climate-Smart Agriculture (CSA) is an approach that helps increase agricultural productivity sustainably, adapts and builds resilience to climate change, and reduces greenhouse gas emissions. Key characteristics include sustainable intensification, climate resilience, and mitigation of climate change impacts. Factors affecting CSA in Zambia include access to information, technology, capital, and government support.",
+                            "vocabulary": [
+                                {
+                                    "term": "Climate-Smart Agriculture",
+                                    "definition": "Farming practices that increase productivity, enhance resilience to climate change, and reduce greenhouse gas emissions"
+                                },
+                                {
+                                    "term": "Sustainable Intensification",
+                                    "definition": "Increasing agricultural productivity while maintaining environmental sustainability"
+                                },
+                                {
+                                    "term": "Climate Resilience",
+                                    "definition": "The ability of agricultural systems to withstand and recover from climate-related shocks"
+                                },
+                                {
+                                    "term": "Greenhouse Gas",
+                                    "definition": "Gases that trap heat in the atmosphere, contributing to climate change"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 6,
+                                "questions": [
+                                    "Define Climate-Smart Agriculture",
+                                    "Explain three key characteristics of CSA",
+                                    "Identify factors affecting CSA adoption in Zambia",
+                                    "Analyze the benefits of CSA for Zambian farmers"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "1.3.2",
+                            "title": "Application of Drones",
+                            "page": 7,
+                            "competences": [
+                                "Use drones to enhance productivity in agriculture"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Describing drones",
+                                        "Identifying types of drones used in agriculture",
+                                        "Evaluating the importance of drones in agriculture",
+                                        "Applying drones in various agricultural purposes"
+                                    ],
+                                    "learner_steps": [
+                                        "Research agricultural drones",
+                                        "Identify drone types and uses",
+                                        "Analyze benefits of drone technology",
+                                        "Observe drone demonstrations",
+                                        "Discuss practical applications"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Drones (Unmanned Aerial Vehicles) are aircraft operated without a human pilot on board, controlled remotely or autonomously. In agriculture, drones are used for crop monitoring, spraying pesticides, mapping fields, assessing crop health, irrigation management, and livestock monitoring. They improve efficiency, reduce labor costs, and provide precise data for decision-making.",
+                            "vocabulary": [
+                                {
+                                    "term": "Drone",
+                                    "definition": "An unmanned aerial vehicle (UAV) used for various agricultural applications"
+                                },
+                                {
+                                    "term": "Crop Monitoring",
+                                    "definition": "Using technology to observe and assess crop health and growth"
+                                },
+                                {
+                                    "term": "Precision Agriculture",
+                                    "definition": "Using technology and data to optimize agricultural practices and inputs"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 7,
+                                "questions": [
+                                    "Define drones and their role in agriculture",
+                                    "Identify three types of agricultural drones",
+                                    "Explain five uses of drones in agriculture",
+                                    "Evaluate the advantages and challenges of using drones in farming"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "1.3.3",
+                            "title": "Climate Change",
+                            "page": 7,
+                            "competences": [
+                                "Show understanding of climate change and its causes"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activities",
+                                    "teacher_steps": [
+                                        "Describing climate change",
+                                        "Distinguishing climate change from climate variability",
+                                        "Analysing the effects of greenhouse gas on the climate",
+                                        "Investigating the main causes of climate change (Volcanic activities, wild fires, burning of fossil fuels, farming...)",
+                                        "Relating the effects of climate change to the development of agriculture in Zambia",
+                                        "Identifying ways of mitigating the effects of climate change on agriculture"
+                                    ],
+                                    "learner_steps": [
+                                        "Research climate change concepts",
+                                        "Distinguish climate change from variability",
+                                        "Study greenhouse gas effects",
+                                        "Investigate climate change causes",
+                                        "Analyze agricultural impacts",
+                                        "Propose mitigation strategies"
+                                    ]
+                                }
+                            ],
+                            "short_notes": "Climate change is long-term alteration in global or regional climate patterns, primarily caused by increased greenhouse gases from human activities. Climate variability refers to short-term fluctuations. Main causes include volcanic activities, wildfires, burning fossil fuels, and agricultural practices. Effects on Zambian agriculture include altered rainfall patterns, droughts, floods, and reduced crop yields. Mitigation includes conservation farming, afforestation, and renewable energy use.",
+                            "vocabulary": [
+                                {
+                                    "term": "Climate Change",
+                                    "definition": "Long-term changes in temperature and weather patterns, mainly caused by human activities"
+                                },
+                                {
+                                    "term": "Climate Variability",
+                                    "definition": "Short-term fluctuations in weather patterns within normal ranges"
+                                },
+                                {
+                                    "term": "Greenhouse Effect",
+                                    "definition": "The trapping of heat in the atmosphere by greenhouse gases"
+                                },
+                                {
+                                    "term": "Fossil Fuels",
+                                    "definition": "Coal, oil, and natural gas formed from ancient organisms, releasing CO2 when burned"
+                                },
+                                {
+                                    "term": "Mitigation",
+                                    "definition": "Actions to reduce or prevent greenhouse gas emissions and climate change impacts"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 7,
+                                "questions": [
+                                    "Define climate change and distinguish it from climate variability",
+                                    "Explain how greenhouse gases affect climate",
+                                    "Identify and describe four main causes of climate change",
+                                    "Analyze the effects of climate change on Zambian agriculture",
+                                    "Propose five ways to mitigate climate change effects on agriculture"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
