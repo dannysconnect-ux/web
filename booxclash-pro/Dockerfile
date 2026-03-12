@@ -12,4 +12,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Cloud Run defaults to port 8080, so we tell uvicorn to listen there
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8080"]
+CMD exec uvicorn main:app --host 0.0.0.0 --port ${PORT:-8080}
