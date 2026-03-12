@@ -1,0 +1,96 @@
+/* 1. FONT & TAILWIND IMPORTS */
+@import "tailwindcss";
+
+/* 2. BASE STYLES */
+body {
+  /*
+   * The 'Orbitron' font is set for the gamified theme, with 'Poppins' as a fallback.
+   * You can switch them if 'Poppins' should be the default.
+  */
+  font-family: 'Orbitron', 'Poppins', sans-serif;
+  @apply bg-gradient-to-r from-blue-950 via-purple-950 to-pink-950 min-h-screen text-black;
+}
+
+button {
+  @apply cursor-pointer;
+}
+
+/* 3. KEYFRAME ANIMATIONS */
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-4px); }
+  75% { transform: translateX(4px); }
+}
+
+@keyframes pulse-glow {
+  0%, 100% {
+    box-shadow: 0 0 8px theme('colors.cyan.500'), 0 0 12px theme('colors.cyan.400'), inset 0 0 6px theme('colors.cyan.600');
+    border-color: theme('colors.cyan.300');
+  }
+  50% {
+    box-shadow: 0 0 16px theme('colors.cyan.400'), 0 0 24px theme('colors.cyan.300'), inset 0 0 8px theme('colors.cyan.500');
+    border-color: theme('colors.cyan.200');
+  }
+}
+
+/* 4. CUSTOM UTILITY CLASSES */
+.animate-shake {
+  animation: shake 0.3s ease-in-out;
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 3s infinite ease-in-out;
+}
+
+.text-glow {
+  text-shadow: 0 0 5px theme('colors.purple.300'), 0 0 10px theme('colors.purple.400');
+}
+
+.icon-glow {
+  filter: drop-shadow(0 0 6px theme('colors.purple.400'));
+}
+
+@keyframes pop-effect {
+  0% {
+    transform: scale(0);
+    opacity: 0;
+  }
+  50% {
+    transform: scale(1.5);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(2);
+    opacity: 0;
+  }
+}
+
+.animate-pop {
+  animation: pop-effect 0.3s ease-out;
+}
+
+/* src/index.css */
+
+/*
+  For Webkit-based browsers (Chrome, Safari, Edge, Opera)
+  We are creating a new utility class to style our scrollbar.
+*/
+.scrollbar-custom::-webkit-scrollbar {
+  width: 12px;  /* Width of the vertical scrollbar */
+  height: 12px; /* Height of the horizontal scrollbar */
+}
+
+.scrollbar-custom::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background: linear-gradient(135deg, #ff7a18, #7b2ff7, #3a86ff); /* Color of the tracking area - matches your background! */
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb {
+  background-color: #ff7a18;   /* A slightly lighter brown for the handle */
+  border-radius: 10px;        /* Rounded corners for the handle */
+  border: 0.5px solid #ffffff;  /* Creates padding around the handle to match the track */
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb:hover {
+  background-color: #ff00dd; /* A lighter, golden-brown on hover for interactivity */
+}

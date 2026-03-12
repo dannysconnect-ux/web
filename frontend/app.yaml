@@ -1,0 +1,37 @@
+# app.yaml for the frontend service
+runtime: nodejs20
+
+env_variables:
+  # Public URL of your Cloud Run backend
+  VITE_API_BASE_URL: https://backend-162267981396.us-central1.run.app
+
+handlers:
+  # Serve sitemap.xml directly
+  - url: /sitemap.xml
+    static_files: dist/sitemap.xml
+    upload: dist/sitemap.xml
+
+  # Serve robots.txt if available
+  - url: /robots.txt
+    static_files: dist/robots.txt
+    upload: dist/robots.txt
+
+  # Serve sounds (mp3, wav, ogg)
+  - url: /(.*\.(mp3|wav|ogg))$
+    static_files: dist/\1
+    upload: dist/(.*)
+
+  # Serve 3D models (glb, gltf)
+  - url: /(.*\.(glb|gltf))$
+    static_files: dist/\1
+    upload: dist/(.*)
+
+  # Serve images, scripts, styles, manifests, etc.
+  - url: /(.*\.(js|css|png|jpg|jpeg|webp|gif|svg|ico|json|webmanifest|xml))$
+    static_files: dist/\1
+    upload: dist/(.*)
+
+  # Fallback to index.html for SPA routes
+  - url: /.*
+    static_files: dist/index.html
+    upload: dist/index.html
