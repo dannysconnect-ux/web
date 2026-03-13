@@ -4,8 +4,11 @@ import { doc, collection, query, where, getDocs, onSnapshot, getDoc } from 'fire
 import { onAuthStateChanged, signOut } from 'firebase/auth'; 
 import { useNavigate } from 'react-router-dom';
 
-const API_BASE_URL = import.meta.env?.VITE_API_BASE || 
-  (window.location.hostname === 'localhost' ? 'http://localhost:8000' : 'https://booxclash-pro.onrender.com');
+const API_BASE =
+  import.meta.env?.VITE_API_BASE ||
+  (window.location.hostname === 'localhost'
+    ? 'http://localhost:8000'
+    : 'https://web-938159032176.us-central1.run.app');
 
 const getCurriculumType = (grade: string): 'new' | 'old' => {
     if (!grade) return 'new';
@@ -257,7 +260,7 @@ export const useTeacherDashboard = () => {
 
             // Setup endpoints and payloads based on toolType
             if (toolType === 'weekly') {
-                endpoint = `${API_BASE_URL}${apiPrefix}/generate-weekly-plan`;
+                endpoint = `${API_BASE}${apiPrefix}/generate-weekly-plan`;
                 payload = {
                     ...payload,
                     weekNumber: parseInt(String(formData.weekNumber || '1')),
@@ -269,7 +272,7 @@ export const useTeacherDashboard = () => {
                 };
             } 
             else if (toolType === 'lesson') {
-                endpoint = `${API_BASE_URL}${apiPrefix}/generate-lesson-plan`;
+                endpoint = `${API_BASE}${apiPrefix}/generate-lesson-plan`;
                 payload = {
                     ...payload,
                     teacherName: teacherName, 
@@ -286,7 +289,7 @@ export const useTeacherDashboard = () => {
                 };
             } 
             else if (toolType === 'scheme') {
-                endpoint = `${API_BASE_URL}${apiPrefix}/generate-scheme`;
+                endpoint = `${API_BASE}${apiPrefix}/generate-scheme`;
                 payload = {
                     ...payload,
                     weeks: parseInt(String(formData.weeks || '13')),
@@ -294,7 +297,7 @@ export const useTeacherDashboard = () => {
                 };
             } 
             else if (toolType === 'record') {
-                endpoint = `${API_BASE_URL}/api/v1/new/generate-record-of-work`;
+                endpoint = `${API_BASE}${apiPrefix}/generate-record-of-work`;
                 payload = {
                     ...payload,
                     teacherName: teacherName,
@@ -308,7 +311,7 @@ export const useTeacherDashboard = () => {
                 };
             }
             else if (toolType === 'exam') {
-                endpoint = `${API_BASE_URL}/api/exams/generate`; 
+                endpoint = `${API_BASE}/api/exams/generate`; 
                 
                 const topicsArray = formData.topics || [formData.topic, formData.subtopic].filter(Boolean);
                 const defaultBlueprint = { mcq: 10, one_word: 5, essay: 2 };
@@ -321,7 +324,7 @@ export const useTeacherDashboard = () => {
             }
             // 🆕 CATCH-UP PAYLOAD
             else if (toolType === 'catchup') {
-                endpoint = `${API_BASE_URL}/api/v1/catchup/generate-catchup-plan`; 
+                endpoint = `${API_BASE}/api/v1/catchup/generate-catchup-plan`; 
                 payload = {
                     ...payload,
                     teacherName: teacherName,

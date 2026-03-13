@@ -22,7 +22,7 @@ const API_BASE =
   import.meta.env?.VITE_API_BASE ||
   (window.location.hostname === 'localhost'
     ? 'http://localhost:8000'
-    : 'https://booxclash-pro.onrender.com');
+    : 'https://web-938159032176.us-central1.run.app');
 
 const BRAND_PRIMARY: [number, number, number] = [79, 70, 229]; 
 const BRAND_ACCENT = 'bg-indigo-600 hover:bg-indigo-700';

@@ -9,7 +9,11 @@ import { pdf } from '@react-pdf/renderer';
 import { ReceiptDocument } from '../Receipt';
 import { School } from '../AdminDashboard';
 
-const API_BASE_URL = import.meta.env?.VITE_API_BASE || (window.location.hostname === 'localhost' ? 'http://127.0.0.1:8000' : 'https://booxclash-pro.onrender.com');
+const API_BASE =
+  import.meta.env?.VITE_API_BASE ||
+  (window.location.hostname === 'localhost'
+    ? 'http://localhost:8000'
+    : 'https://web-938159032176.us-central1.run.app');
 
 export default function SchoolsTab({ schools, loading, refreshSchools, getHeaders }: any) {
   const [expandedSchoolId, setExpandedSchoolId] = useState<string | null>(null);
@@ -19,7 +23,7 @@ export default function SchoolsTab({ schools, loading, refreshSchools, getHeader
   const fetchSchoolTeachers = async () => {
     const headers = await getHeaders();
     try {
-        const res = await fetch(`${API_BASE_URL}/api/v1/admin/teachers`, { headers });
+        const res = await fetch(`${API_BASE}/api/v1/admin/teachers`, { headers });
         if (res.ok) setSchoolTeachers((await res.json()).data || []);
     } catch (e) { console.error(e); }
   };
@@ -36,7 +40,7 @@ export default function SchoolsTab({ schools, loading, refreshSchools, getHeader
     setProcessingId(school.id);
     try {
       const headers = await getHeaders();
-      const res = await fetch(`${API_BASE_URL}/api/v1/admin/schools/topup`, { 
+      const res = await fetch(`${API_BASE}/api/v1/admin/schools/topup`, { 
           method: "POST", 
           headers, 
           body: JSON.stringify({ 
@@ -84,7 +88,7 @@ export default function SchoolsTab({ schools, loading, refreshSchools, getHeader
   const handleSchoolTopUp = async (schoolId: string, amount: number, credits: number) => {
     if (!confirm(`Confirm Top-up K${amount}?`)) return;
     const headers = await getHeaders();
-    await fetch(`${API_BASE_URL}/api/v1/admin/schools/topup`, { 
+    await fetch(`${API_BASE}/api/v1/admin/schools/topup`, { 
         method: "POST", headers, body: JSON.stringify({ school_id: schoolId, amount_paid: amount, credits_to_add: credits }) 
     });
     alert("Success!"); refreshSchools();

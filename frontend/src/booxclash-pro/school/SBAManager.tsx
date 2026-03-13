@@ -35,11 +35,11 @@ interface SBAManagerProps {
   schoolId?: string | null;
 }
 
-const API_BASE_URL =
+const API_BASE =
   import.meta.env?.VITE_API_BASE ||
   (window.location.hostname === 'localhost'
-    ? 'http://127.0.0.1:8000'
-    : 'https://booxclash-pro.onrender.com');
+    ? 'http://localhost:8000'
+    : 'https://web-938159032176.us-central1.run.app');
 
 const AVAILABLE_GRADES = [
   'Grade 1', 'Grade 2', 'Grade 3', 'Grade 4', 'Grade 5', 'Grade 6',
@@ -125,7 +125,7 @@ export default function AdminClassManager({ schoolId }: SBAManagerProps) {
 
         if (isPrimary) {
           // If Primary: Fetch from the primary config JSON
-          const res = await fetch(`${API_BASE_URL}/api/sba/config/primary`);
+          const res = await fetch(`${API_BASE}/api/sba/config/primary`);
           if (res.ok) {
             const data = await res.json();
             const primarySubjects = data?.Primary_SBA_Comprehensive_Guidelines?.Subjects || {};
@@ -141,7 +141,7 @@ export default function AdminClassManager({ schoolId }: SBAManagerProps) {
           }
         } else {
           // 🆕 If Secondary (Grade 8+): Pass the grade to our new smart backend route!
-          const res = await fetch(`${API_BASE_URL}/api/sba/subjects/${encodeURIComponent(newClassGrade)}`);
+          const res = await fetch(`${API_BASE}/api/sba/subjects/${encodeURIComponent(newClassGrade)}`);
           if (res.ok) {
             const data = await res.json();
             setAutoPopulatedSubjects(data.subjects || []);
@@ -178,7 +178,7 @@ export default function AdminClassManager({ schoolId }: SBAManagerProps) {
       const formData = new FormData();
       formData.append('file', selectedFile);
 
-      const response = await fetch(`${API_BASE_URL}/api/sba/extract-roster`, {
+      const response = await fetch(`${API_BASE}/api/sba/extract-roster`, {
         method: 'POST',
         body: formData, 
       });

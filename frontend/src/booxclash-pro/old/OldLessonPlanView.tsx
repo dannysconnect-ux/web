@@ -14,7 +14,11 @@ import { collection, addDoc, serverTimestamp } from 'firebase/firestore';
 // ✅ IMPORT DEFAULT COAT OF ARMS
 const COAT_OF_ARMS_URL = "/Coat_of_arms_of_Zambia.svg"; 
 
-const API_BASE_URL = import.meta.env?.VITE_API_BASE || (window.location.hostname === 'localhost' ? 'http://localhost:8000' : 'https://booxclash-pro.onrender.com');
+const API_BASE =
+  import.meta.env?.VITE_API_BASE ||
+  (window.location.hostname === 'localhost'
+    ? 'http://localhost:8000'
+    : 'https://web-938159032176.us-central1.run.app');
 
 // =====================================================================
 // ⚡️ DYNAMIC COLUMNS SETUP
@@ -186,7 +190,7 @@ export default function LessonPlanView() {
   const handleGenerateNotes = async () => {
     setGeneratingNotes(true);
     try {
-        const endpoint = `${API_BASE_URL}/api/v1/new/generate-lesson-notes`;
+        const endpoint = `${API_BASE}/api/v1/new/generate-lesson-notes`;
         const response = await axios.post(endpoint, {
             grade: meta.grade,
             subject: meta.subject,
@@ -217,7 +221,7 @@ export default function LessonPlanView() {
       const token = await user.getIdToken();
       const schoolId = localStorage.getItem('schoolId') || "";
 
-      fetch(`${API_BASE_URL}/api/v1/old/capture-teacher-edits`, {
+      fetch(`${API_BASE}/api/v1/old/capture-teacher-edits`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json', 'Authorization': `Bearer ${token}`,

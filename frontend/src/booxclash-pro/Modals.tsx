@@ -32,7 +32,11 @@ interface SchoolProfile {
 const PHASING_OUT_GRADES = ["10", "11", "12", "Grade 10", "Grade 11", "Grade 12", "Form 3", "Form 4", "Form 5"];
 const SYLLABUS_BROWSING_GRADES = ["Form 1", "Form 2", "Form 3", "Form 4", "Form 5", "Grade 10", "Grade 11", "Grade 12"];
 
-const API_BASE = import.meta.env?.VITE_API_BASE || (window.location.hostname === 'localhost' ? 'http://localhost:8000' : 'https://booxclash-pro.onrender.com');
+const API_BASE =
+  import.meta.env?.VITE_API_BASE ||
+  (window.location.hostname === 'localhost'
+    ? 'http://localhost:8000'
+    : 'https://web-938159032176.us-central1.run.app');
 
 export default function GenerationModal({ isOpen, type, onClose, onGenerate }: GenerationModalProps) {
   

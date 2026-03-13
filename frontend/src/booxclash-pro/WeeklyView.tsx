@@ -17,7 +17,7 @@ const API_BASE =
   import.meta.env?.VITE_API_BASE ||
   (window.location.hostname === 'localhost'
     ? 'http://localhost:8000'
-    : 'https://booxclash-pro.onrender.com');
+    : 'https://web-938159032176.us-central1.run.app');
 
 const COLORS = {
   primary: 'bg-slate-900 hover:bg-slate-800',

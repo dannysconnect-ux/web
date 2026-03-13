@@ -12,11 +12,11 @@ import { SchoolData } from './schema';
 /* ---------------------------------------
    ENV-AWARE BACKEND URL (Kept for Logo Upload)
 ---------------------------------------- */
-const API_BASE_URL =
+const API_BASE =
   import.meta.env?.VITE_API_BASE ||
   (window.location.hostname === 'localhost'
-    ? 'http://127.0.0.1:8000'
-    : 'https://booxclash-pro.onrender.com');
+    ? 'http://localhost:8000'
+    : 'https://web-938159032176.us-central1.run.app');
 
 interface FileState {
   logo: File | null;
@@ -92,7 +92,7 @@ export default function SchoolSettings({ schoolId }: Props) {
     formData.append("file", file);
 
     try {
-        const response = await fetch(`${API_BASE_URL}/api/upload`, {
+        const response = await fetch(`${API_BASE}/api/upload`, {
             method: 'POST',
             body: formData,
         });

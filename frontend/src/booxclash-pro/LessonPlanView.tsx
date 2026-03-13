@@ -15,7 +15,11 @@ import ManageColumnsModal from './lessonplanviews/ManageColumnsModal';
 import CreditModal from './CreditWarningModal'; 
 
 export const COAT_OF_ARMS_URL = "/Coat_of_arms_of_Zambia.svg"; 
-const API_BASE_URL = import.meta.env?.VITE_API_BASE || (window.location.hostname === 'localhost' ? 'http://localhost:8000' : 'https://booxclash-pro.onrender.com');
+const API_BASE =
+  import.meta.env?.VITE_API_BASE ||
+  (window.location.hostname === 'localhost'
+    ? 'http://localhost:8000'
+    : 'https://web-938159032176.us-central1.run.app');
 
 export interface TableColumn {
   key: string;
@@ -103,7 +107,7 @@ export default function LessonPlanView() {
   const confirmGenerateDiagram = async () => {
     setGeneratingDiagram(true);
     try {
-      const response = await axios.post(`${API_BASE_URL}/api/v1/new/generate-diagram`, {
+      const response = await axios.post(`${API_BASE}/api/v1/new/generate-diagram`, {
         prompt: diagramPrompt,
         uid: auth.currentUser?.uid
       });
@@ -130,7 +134,7 @@ export default function LessonPlanView() {
     if (!evaluationFeedback.trim()) return;
     setEvaluating(true);
     try {
-      const response = await axios.post(`${API_BASE_URL}/api/v1/new/evaluate-lesson`, {
+      const response = await axios.post(`${API_BASE}/api/v1/new/evaluate-lesson`, {
         grade: meta.grade,
         subject: meta.subject,
         topic: planData.topic,
@@ -173,7 +177,7 @@ export default function LessonPlanView() {
   const handleGenerateRemedial = async () => {
     setGeneratingRemedial(true);
     try {
-      const response = await axios.post(`${API_BASE_URL}/api/v1/new/generate-lesson-plan`, {
+      const response = await axios.post(`${API_BASE}/api/v1/new/generate-lesson-plan`, {
         uid: auth.currentUser?.uid,
         grade: meta.grade,
         subject: meta.subject,
@@ -251,7 +255,7 @@ export default function LessonPlanView() {
   const handleGenerateNotes = async () => {
     setGeneratingNotes(true);
     try {
-        const endpoint = `${API_BASE_URL}/api/v1/new/generate-lesson-notes`;
+        const endpoint = `${API_BASE}/api/v1/new/generate-lesson-notes`;
         const response = await axios.post(endpoint, {
             grade: meta.grade,
             subject: meta.subject,
@@ -281,7 +285,7 @@ export default function LessonPlanView() {
       const token = await user.getIdToken();
       const schoolId = localStorage.getItem('schoolId') || "";
 
-      fetch(`${API_BASE_URL}/api/v1/new/capture-teacher-edits`, {
+      fetch(`${API_BASE}/api/v1/new/capture-teacher-edits`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json', 'Authorization': `Bearer ${token}`,

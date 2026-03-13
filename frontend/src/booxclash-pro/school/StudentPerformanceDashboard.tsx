@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import {
   Users,
   BookOpen,
@@ -6,10 +6,7 @@ import {
   Loader2,
   Printer,
   ChevronRight,
-  UserCircle,
-  FileText,
-  AlertCircle
-} from 'lucide-react';
+  FileText} from 'lucide-react';
 
 import { db } from '../firebase';
 import { collection, query, where, getDocs, onSnapshot } from 'firebase/firestore';
@@ -43,11 +40,11 @@ interface StudentRecord {
   obtainedScore: number | null;
 }
 
-const API_BASE_URL =
+const API_BASE =
   import.meta.env?.VITE_API_BASE ||
   (window.location.hostname === 'localhost'
-    ? 'http://127.0.0.1:8000'
-    : 'https://booxclash-pro.onrender.com');
+    ? 'http://localhost:8000'
+    : 'https://web-938159032176.us-central1.run.app');
 
 export default function StudentPerformanceDashboard(props: any) {
   const location = useLocation();
@@ -64,7 +61,7 @@ export default function StudentPerformanceDashboard(props: any) {
   const [studentRecords, setStudentRecords] = useState<StudentRecord[]>([]);
   const [sbaConfigs, setSbaConfigs] = useState<{ primary: any, secondary: any }>({ primary: null, secondary: null });
   
-  const [loading, setLoading] = useState(true);
+  const [, setLoading] = useState(true);
   const [loadingRecords, setLoadingRecords] = useState(false);
 
   // 1. FETCH CONFIGS
@@ -72,8 +69,8 @@ export default function StudentPerformanceDashboard(props: any) {
     const loadConfigs = async () => {
       try {
         const [primaryRes, secondaryRes] = await Promise.all([
-          fetch(`${API_BASE_URL}/api/sba/config/primary`).catch(() => null),
-          fetch(`${API_BASE_URL}/api/sba/config/secondary`).catch(() => null)
+          fetch(`${API_BASE}/api/sba/config/primary`).catch(() => null),
+          fetch(`${API_BASE}/api/sba/config/secondary`).catch(() => null)
         ]);
         let primary = null, secondary = null;
         if (primaryRes && primaryRes.ok) primary = await primaryRes.json();

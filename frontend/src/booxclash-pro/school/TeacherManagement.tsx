@@ -29,11 +29,11 @@ import { TeacherData } from './schema';
 /* ---------------------------------------
    ENV-AWARE BACKEND URL
 ---------------------------------------- */
-const API_BASE_URL =
+const API_BASE =
   import.meta.env?.VITE_API_BASE ||
   (window.location.hostname === 'localhost'
-    ? 'http://127.0.0.1:8000'
-    : 'https://booxclash-pro.onrender.com');
+    ? 'http://localhost:8000'
+    : 'https://web-938159032176.us-central1.run.app');
 
 interface TeacherManagerProps {
   schoolId: string;
@@ -155,7 +155,7 @@ export default function TeacherManagement({
     setAvailableSubjects([]);
 
     try {
-      const response = await fetch(`${API_BASE_URL}/api/v1/get-subjects/${encodeURIComponent(grade)}`);
+      const response = await fetch(`${API_BASE}/api/v1/get-subjects/${encodeURIComponent(grade)}`);
       if (!response.ok) throw new Error(`Server error`);
       const data = await response.json();
       if (Array.isArray(data.subjects) && data.subjects.length > 0) setAvailableSubjects(data.subjects);

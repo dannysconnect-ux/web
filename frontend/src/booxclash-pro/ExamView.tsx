@@ -5,7 +5,11 @@ import jsPDF from 'jspdf';
 import axios from 'axios';
 import { auth } from './firebase'; 
 
-const API_BASE_URL = import.meta.env?.VITE_API_BASE || (window.location.hostname === 'localhost' ? 'http://localhost:8000' : 'https://booxclash-pro.onrender.com');
+const API_BASE =
+  import.meta.env?.VITE_API_BASE ||
+  (window.location.hostname === 'localhost'
+    ? 'http://localhost:8000'
+    : 'https://web-938159032176.us-central1.run.app');
 const COAT_OF_ARMS_URL = "/Coat_of_arms_of_Zambia.svg"; 
 
 // Updated state to track 'url' or 'base64' (from Imagen)
@@ -58,7 +62,7 @@ export default function ExamView() {
   const handleGenerateImage = async (questionId: string, prompt: string) => {
     setLoadingImages(prev => ({ ...prev, [questionId]: true }));
     try {
-        const res = await axios.post(`${API_BASE_URL}/api/exams/generate-diagram`, {
+        const res = await axios.post(`${API_BASE}/api/exams/generate-diagram`, {
             prompt: prompt,
             uid: auth.currentUser?.uid
         });

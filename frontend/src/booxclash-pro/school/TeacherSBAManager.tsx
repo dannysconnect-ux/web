@@ -11,12 +11,10 @@ import {
   Play,
   AlertCircle,
   Target,
-  BrainCircuit,
   ListChecks,
   Calendar,
   Check,
   Send,
-  Save,
   Printer,
   LineChart 
 } from 'lucide-react';
@@ -44,11 +42,11 @@ interface TeacherSBAManagerProps {
   schoolId?: string | null; 
 }
 
-const API_BASE_URL =
+const API_BASE =
   import.meta.env?.VITE_API_BASE ||
   (window.location.hostname === 'localhost'
-    ? 'http://127.0.0.1:8000'
-    : 'https://booxclash-pro.onrender.com');
+    ? 'http://localhost:8000'
+    : 'https://web-938159032176.us-central1.run.app');
 
 export default function TeacherSBAManager({ teacherId, schoolId }: TeacherSBAManagerProps) {
   const location = useLocation();
@@ -162,7 +160,7 @@ export default function TeacherSBAManager({ teacherId, schoolId }: TeacherSBAMan
       
       try {
         // Hit the new backend endpoint
-        const response = await fetch(`${API_BASE_URL}/api/sba/syllabus/${encodeURIComponent(selectedSubject)}`);
+        const response = await fetch(`${API_BASE}/api/sba/syllabus/${encodeURIComponent(selectedSubject)}`);
         
         if (response.ok) {
           const data = await response.json();
@@ -235,7 +233,7 @@ export default function TeacherSBAManager({ teacherId, schoolId }: TeacherSBAMan
     setAssignedRecords([]); 
 
     try {
-      const response = await fetch(`${API_BASE_URL}/api/sba/generate`, {
+      const response = await fetch(`${API_BASE}/api/sba/generate`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({

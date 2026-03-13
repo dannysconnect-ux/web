@@ -10,8 +10,11 @@ import AnalyticsTab from './admin/AnalyticsTab';
 import UsersTab from './admin/UsersTab';
 import SchoolsTab from './admin/SchoolsTab';
 
-const API_BASE_URL = import.meta.env?.VITE_API_BASE || 
-  (window.location.hostname === 'localhost' ? 'http://127.0.0.1:8000' : 'https://booxclash-pro.onrender.com');
+const API_BASE =
+  import.meta.env?.VITE_API_BASE ||
+  (window.location.hostname === 'localhost'
+    ? 'http://localhost:8000'
+    : 'https://web-938159032176.us-central1.run.app');
 
 // Export types so our child components can use them
 export interface IndividualUser {
@@ -71,7 +74,7 @@ export default function AdminDashboard() {
     const headers = await getHeaders();
     if (!headers) return; 
     try {
-        const res = await fetch(`${API_BASE_URL}/api/v1/admin/stats`, { headers });
+        const res = await fetch(`${API_BASE}/api/v1/admin/stats`, { headers });
         if (res.ok) {
             setStats(await res.json());
         } else {
@@ -90,7 +93,7 @@ export default function AdminDashboard() {
         return;
     }
     try {
-        const res = await fetch(`${API_BASE_URL}/api/v1/admin/schools`, { headers });
+        const res = await fetch(`${API_BASE}/api/v1/admin/schools`, { headers });
         if (res.ok) {
             const json = await res.json();
             setSchools(json.data || []); 

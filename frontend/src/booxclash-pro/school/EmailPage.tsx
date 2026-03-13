@@ -6,11 +6,11 @@ import {
 import { useNavigate } from 'react-router-dom';
 import { auth } from '../firebase';
 
-const API_BASE_URL =
+const API_BASE =
   import.meta.env?.VITE_API_BASE ||
   (window.location.hostname === 'localhost'
-    ? 'http://127.0.0.1:8000'
-    : 'https://booxclash-pro.onrender.com');
+    ? 'http://localhost:8000'
+    : 'https://web-938159032176.us-central1.run.app');
 
 interface UserData {
   uid: string;
@@ -52,7 +52,7 @@ export default function EmailPage() {
     const headers = await getHeaders();
     if (!headers) return;
     try {
-        const res = await fetch(`${API_BASE_URL}/api/v1/admin/users`, { headers });
+        const res = await fetch(`${API_BASE}/api/v1/admin/users`, { headers });
         if (res.ok) {
             const data = await res.json();
             setUsers(data);
@@ -101,7 +101,7 @@ export default function EmailPage() {
     if (!headers) return;
 
     try {
-        const res = await fetch(`${API_BASE_URL}/api/v1/admin/campaign/start`, {
+        const res = await fetch(`${API_BASE}/api/v1/admin/campaign/start`, {
             method: "POST", headers,
             body: JSON.stringify({
                 target_uids: selectedUsers,

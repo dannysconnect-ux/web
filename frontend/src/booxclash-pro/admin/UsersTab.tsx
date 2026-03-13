@@ -9,7 +9,11 @@ import { pdf } from '@react-pdf/renderer';
 import { ReceiptDocument } from '../Receipt';
 import { IndividualUser } from '../AdminDashboard';
 
-const API_BASE_URL = import.meta.env?.VITE_API_BASE || (window.location.hostname === 'localhost' ? 'http://127.0.0.1:8000' : 'https://booxclash-pro.onrender.com');
+const API_BASE =
+  import.meta.env?.VITE_API_BASE ||
+  (window.location.hostname === 'localhost'
+    ? 'http://localhost:8000'
+    : 'https://web-938159032176.us-central1.run.app');
 
 // Helper to safely format Firestore Timestamps into readable strings
 const safeFormatDate = (dateObj: any) => {
@@ -89,7 +93,7 @@ export default function UsersTab({ users, loading, refreshUsers, getHeaders }: a
     if (!confirm(`Confirm Top-up for ${targetUser?.name || 'User'}?`)) return;
     const headers = await getHeaders();
     try {
-        const res = await fetch(`${API_BASE_URL}/api/v1/admin/users/topup`, { method: "POST", headers, body: JSON.stringify({ target_uid: uid, amount_paid: amount }) });
+        const res = await fetch(`${API_BASE}/api/v1/admin/users/topup`, { method: "POST", headers, body: JSON.stringify({ target_uid: uid, amount_paid: amount }) });
         const data = await res.json();
         await updateDoc(doc(db, "users", uid), { last_payment_amount: amount, last_payment_date: new Date().toISOString() });
         
@@ -107,7 +111,7 @@ export default function UsersTab({ users, loading, refreshUsers, getHeaders }: a
   const deleteUser = async (uid: string) => {
     if(!confirm("Delete user?")) return;
     const headers = await getHeaders();
-    await fetch(`${API_BASE_URL}/api/v1/admin/users/${uid}`, { method: "DELETE", headers });
+    await fetch(`${API_BASE}/api/v1/admin/users/${uid}`, { method: "DELETE", headers });
     refreshUsers();
   };
 
@@ -116,7 +120,7 @@ export default function UsersTab({ users, loading, refreshUsers, getHeaders }: a
     const headers = await getHeaders();
     const map: any = { 'scheme': 'generated_schemes', 'weekly': 'generated_weekly_plans', 'lesson': 'generated_lesson_plans' };
     try {
-        await fetch(`${API_BASE_URL}/api/v1/admin/content/delete`, { method: "DELETE", headers, body: JSON.stringify({ doc_id: docId, collection_name: map[type] }) });
+        await fetch(`${API_BASE}/api/v1/admin/content/delete`, { method: "DELETE", headers, body: JSON.stringify({ doc_id: docId, collection_name: map[type] }) });
         setUserContent(prev => {
             const key = type === 'scheme' ? 'schemes' : type === 'weekly' ? 'weekly' : 'lessons';
             return { ...prev, [key]: prev[key].filter((d: any) => d.id !== docId) };
