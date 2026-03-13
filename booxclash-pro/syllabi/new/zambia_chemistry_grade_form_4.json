@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 4",
+    "subject": "Chemistry",
+    "philosophy": "The Chemistry Syllabus for Forms 1 to 4 is designed to equip learners with a comprehensive understanding of chemistry concepts, fostering a deep appreciation for the role of chemistry in everyday life and its applications in various fields. This syllabus aims to develop students' analytical thinking, problem-solving skills, and practical laboratory techniques through a structured and progressive learning approach. Chemistry, as a central science, bridges the gap between physical and biological sciences, providing insights into the composition, structure, properties, and changes of matter. This syllabus emphasises the importance of a hands-on, inquiry-based learning experience, encouraging learners to explore, experiment, and engage in scientific reasoning. This Chemistry Syllabus aims to create a stimulating and supportive learning environment where learners can develop a profound understanding of chemistry. By fostering curiosity, critical thinking, and practical skills, the syllabus prepares learners for further education and careers in science and technology, contributing to their overall intellectual and personal growth. It is hoped that the Chemistry Syllabus will inspire learners to explore the fascinating world of Chemistry and appreciate its significance in shaping the future.",
+    "competence_learning": "The Ordinary Level (O Level) Chemistry Syllabus is committed to providing an enriching and supportive educational environment where learners can develop a lifelong interest in chemistry. By promoting inquiry, curiosity, and a passion for science, we aim to prepare learners not only for academic success but also for their future roles as informed and responsible citizens in a scientifically advanced society. We are confident that this chemistry syllabus will inspire and empower learners to achieve their full potential, equipping them with the knowledge and skills necessary to navigate and contribute to the world around them. This syllabus is designed to ensure learners develop a deep understanding of chemical principles while also acquiring practical skills and competencies needed for further education and careers in science.",
+    "goals": [
+      "Equip learners with a comprehensive understanding of chemistry concepts.",
+      "Foster a deep appreciation for the role of chemistry in everyday life and its applications.",
+      "Develop students' analytical thinking, problem-solving skills, and practical laboratory techniques.",
+      "Prepare learners for academic success and future roles as informed and responsible citizens in a scientifically advanced society.",
+      "Equip learners with the knowledge and skills necessary to navigate and contribute to the world around them.",
+      "Ensure learners develop a deep understanding of chemical principles.",
+      "Enable learners to acquire practical skills and competencies needed for further education and careers in science.",
+      "Inspire learners to explore the fascinating world of Chemistry and appreciate its significance in shaping the future."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "4.1",
+      "topic_title": "METALLURGY",
+      "page_number": 32,
+      "subtopics": [
+        "4.1.1 Mineral Ores",
+        "4.1.2 Extraction of Metals",
+        "4.1.3 Uses of Metals",
+        "4.1.4 Alloys",
+        "4.1.5 Corrosion and its Prevention"
+      ],
+      "specific_outcomes": [
+        "4.1.1.1 Demonstrat understanding of metallurgy",
+        "4.1.1.2 Identify different mineral ores in the local environment",
+        "4.1.2.1 Demonstrate understanding of metal extraction",
+        "4.1.3.1 Analyse the uses of metals in everyday life",
+        "4.1.3.2 Analyse the impact of toxic metals on ecosystems and human health",
+        "4.1.4.1 Design an alloy for a specific application",
+        "4.1.5.1 Prevent corrosion of metals"
+      ]
+    },
+    {
+      "unit": "4.2",
+      "topic_title": "NON-METALS",
+      "page_number": 35,
+      "subtopics": [
+        "4.2.1 General Properties of Non-Metals",
+        "4.2.2 Hydrogen",
+        "4.2.3 Oxygen",
+        "4.2.4 Nitrogen",
+        "4.2.5 Chlorine",
+        "4.2.6 Sulphur",
+        "4.2.7 Carbon",
+        "4.2.8 Silicon"
+      ],
+      "specific_outcomes": [
+        "4.2.1.1 Investigate the physical and chemical properties of non-metals",
+        "4.2.2.1 Prepare hydrogen gas",
+        "4.2.2.2 Investigate the industrial manufacture of hydrogen",
+        "4.2.2.3 Analyse the uses of hydrogen gas",
+        "4.2.3.1 Prepare oxygen gas",
+        "4.2.3.2 Investigate the industrial manufacture of oxygen",
+        "4.2.3.3 Investigate the properties and uses of oxygen gas.",
+        "4.2.3.4 Practise sustainable ways of protecting the ozone layer",
+        "4.2.4.1 Prepare ammonia gas in the laboratory",
+        "4.2.4.2 Investigate the industrial manufacture of nitrogen and its related products",
+        "4.2.4.3 Analyse the uses of nitrogen",
+        "4.2.5.1 Prepare chlorine gas and its associated products",
+        "4.2.6.1 Prepare sulphur dioxide",
+        "4.2.7.1 Explore the nature and uses of carbon and its products",
+        "4.2.7.2 Prepare carbon dioxide",
+        "4.2.7.3 Explore the manufacturing of limestone",
+        "4.2.8.1 Investigate the nature and uses of silicon and its products"
+      ]
+    },
+    {
+      "unit": "4.3",
+      "topic_title": "ORGANIC CHEMISTRY",
+      "page_number": 45,
+      "subtopics": [
+        "4.3.1 Introduction to Organic Chemistry",
+        "4.3.2 Saturated and Unsaturated Hydrocarbons (Non-Cyclic)",
+        "4.3.3 Carboxylic Acids and Alcohols",
+        "4.3.3 Alkyl Alkanoates (Esters)",
+        "4.3.4 Macromolecules (Polymers)"
+      ],
+      "specific_outcomes": [
+        "4.3.1.1 Demonstrate understanding of organic chemistry.",
+        "4.3.2.1 Evaluate the nature and uses of saturated and unsaturated hydrocarbons",
+        "4.3.3.1 Demonstrate understanding of carboxylic acids",
+        "4.3.3.2 Explore the preparation of alcohols",
+        "4.3.3.1 Demonstrate understanding of Esters",
+        "4.3.3.2 Prepare Esters (Alkyl Alkanoates) for different uses",
+        "4.3.4.1 Demonstrate understanding of macromolecules",
+        "4.3.4.2 Make plastics, soaps and glycerine"
+      ]
+    },
+    {
+      "unit": "4.4",
+      "topic_title": "ENVIRONMENTAL CHEMISTRY",
+      "page_number": 52,
+      "subtopics": [
+        "4.4.1 Chemistry and the Environment",
+        "4.4.2 Pollution and Remediation",
+        "4.4.3 Role of Chemistry in Sustainable Agriculture",
+        "4.4.4 Climate Change",
+        "4.4.5 Water Management"
+      ],
+      "specific_outcomes": [
+        "4.4.1.1 Analyse the role of chemistry in sustaining the environment.",
+        "4.4.2.1 Investigate pollution control and mitigation.",
+        "4.4.3.1 Investigate the role of chemistry in sustainable agriculture",
+        "4.4.4.1 Demonstrate understanding of climate change",
+        "4.4.4.2 Investigate causes and effects of climate change",
+        "4.4.5.1 Demonstrate understanding of water management"
+      ]
+    }
+  ]
+}

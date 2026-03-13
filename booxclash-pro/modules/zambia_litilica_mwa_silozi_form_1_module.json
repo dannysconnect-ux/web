@@ -1,0 +1,687 @@
+{
+    "subject": "Litilica mwa Silozi (Literature in Silozi)",
+    "grade": "Form 1",
+    "term": 3,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "LIKANDE – LIKA ZEBUPA LIKANDE LA KUBULELA KA MULOMO (STORY - ELEMENTS OF A STORY - ORAL)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "TUTO/ MAYEMO A LIKANDE (THEME)",
+                    "page": 15,
+                    "competences": [
+                        "Bazibahaze tuto/ mayemo a likande la kubulela ka mulomo."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.1",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abeleke ni bana ba sikolo mwa ngambolo ya kutoloka ni kufa taluso ya linzwi la theme (Mulelo wa likande, Butokwa bwa likande, Mayemo a likande, Tuto ye mwa likande)",
+                                "Alaele bana ba sikolo kutosa manzwi a butokwa abupa toloko ni taluso ya linzwi la theme",
+                                "Alaele bana sikolo kutohomanya litoloko zefilwe ka kufa taluso yelukela",
+                                "Alaele bana ba sikolo kutatuba taluso ya linzwi la theme",
+                                "Akenye bana ba sikolo mwa ngambolo ya mihato yelukela kuungiwa hakutosiwa tuto/ mayemo a likande",
+                                "Aetelele bana ba sikolo mwa ngambolo ya kutalusa butokwa bwa mihato yeamilwe"
+                            ],
+                            "learner_steps": [
+                                "Baange kabelo mwa ngambolo ya kutoloka ni kufa taluso ya linzwi la theme",
+                                "Batose manzwi a butokwa abupa toloko ni taluso ya linzwi la theme",
+                                "Batomahanye litoloko zefilwe ka kufa taluso yelukela",
+                                "Batatube taluso ya linzwi la theme",
+                                "Baikambote mihato yelukela kuungiwa hakutosiwa tuto/mayemo a likande",
+                                "Bataluse butokwa bwa mihato yeamilwe"
+                            ],
+                            "short_notes": "Tuto/mayemo a likande kilona lilulu fokuyemi mutomo wa mulelo wa litaba zeo mufitisi alakaza kuikabela ni bateelezi. Steps for identifying theme: Kuteeleza ka kutwisiso ka kuzamaelela, Kutosa mikwa ni lipuwo, Kuzwelapili ni kucinca kwa miinelo ya babapali, Tahiso ya mayemo a likande, Litaba zetusa kuzwisezapili maikuto a muñoli, Kunyalanisa miutwisisezo."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.2",
+                            "page": 17,
+                            "hook": "Ki litaba lifi zebonisa mulelo wa muñoli mwa likande?",
+                            "teacher_steps": [
+                                "Akenye bana ba sikolo mwa ngambolo ya kualunguta zelukela kutokomelwa akutosiwa tuto/mayemo mwa likande (Sizo, Simuluho ya mukandeki, Kuketahana kwa lipuwo ni mikwa, Mulelo ni muhupulo wa mukandeki, Liñusa, takazo, maikuto, Bateelezi, Mufuta, Puwo, Moliitatamela litaba mwa likande)",
+                                "Afe mwanaa sikolo kubalela babañwi likande (Toho ya likande: Sitongwani ushelana ni kulu. Buka: Muyunda, Charles. (1991). Utwa Muhaesu. KKF: Lusaka, likepe 98)",
+                                "Abuze bana ba sikolo lipuzo zebatusa kutosa theme mwa likande lelifilwe",
+                                "Afe bana ba sikolo musebezi wa kutosa theme mwa likande lisili"
+                            ],
+                            "learner_steps": [
+                                "Kualunguta zelukela kutokomelwa akutosiwa tuto/mayemo mwa makande",
+                                "Bateeleze likande lelibalwa ka tokomelo",
+                                "Baalabe lipuzo zebatusa kutosa theme mwa likande lelifilwe",
+                                "Batose theme mwa likande lisili"
+                            ],
+                            "short_notes": "In this activity, learners identify the theme in a given oral story. Questions to guide theme identification include: What events show the author's purpose? What is the importance of the story? What lesson is found in the story? What is your own interpretation and understanding?"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.3",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Aetelele bana ba sikolo mwa ngambolo ya kuikupuza taluso ni toloko ya linzwi la tuto/ mayemo a likande",
+                                "Akenye bana ba sikolo mwa ngambolo ya kunyakisisa butokwa bwa kutosa theme mwa likande (Kucuula butokwa bwa litaba ze mwa likande, Kutibisa kutwisiso, Kususueza ya kuutwelana butuku ni kuitekula, Kutahisa ni kutumisa miezezo ya mikwa ya sizo)",
+                                "Afe bana ba sikolo musebezi wa kubala makande a shutana-shutana",
+                                "Alaele bana ba sikolo kutalusa theme mwa makande abalilwe"
+                            ],
+                            "learner_steps": [
+                                "Baikupuze taluso ni toloko ya linzwi la tuto/mayemo a likande",
+                                "Banyakisise butokwa bwa kutosa theme mwa likande",
+                                "Babale makande a shutana-shutana",
+                                "Bataluse theme mwa makande abalilwe"
+                            ],
+                            "short_notes": "This activity focuses on explaining the theme in a given oral story. The importance of identifying theme includes: understanding the significance of events in the story, deepening comprehension, promoting mutual understanding and self-development, and promoting cultural practices."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.4",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abeleke ni bana ba sikolo kutosa mitomo ya likalulo za likande",
+                                "Alaele bana ba sikolo kualunguta mokunyakisisezwa toloko ya theme",
+                                "Alaele bana ba sikolo kufitisa litoloko za theme zenyakisisizwe"
+                            ],
+                            "learner_steps": [
+                                "Batose mitomo ya likalulo za likande",
+                                "Baalungute mokunyakisisezwa toloko ya theme",
+                                "Bafitise litoloko za theme zenyakisisizwe"
+                            ],
+                            "short_notes": "Interpreting the theme in an oral story. Elements to analyze include: characters, plot, setting, point of view, symbolism used, language, cultural aspects, purpose and significance, comparisons with current/past knowledge, different perspectives, and emotions."
+                        }
+                    ],
+                    "short_notes": "Tuto/mayemo a likande kilona lilulu fokuyemi mutomo wa mulelo wa litaba zeo mufitisi alakaza kuikabela ni bateelezi. Kakunyakisisa miinelo ye, mutu utala maikuto mi utukufazwa kunahana kataata ni kufumana mayemo bakeñisa zeamilwe. Key terms: Moliitatamela litaba zeinzi mwa likande (plot), Babapali (characters), Sibaka / nako ya litaba (setting), Tuto/Mayemo (theme), Muutwisisezo/ mubonelo (point of view), Form / style (mukwa / muñolelo).",
+                    "vocabulary": [
+                        {
+                            "term": "Theme (Tuto/Mayemo)",
+                            "definition": "Lilulu fokuyemi mutomo wa mulelo wa litaba zeo mufitisi alakaza kuikabela ni bateelezi"
+                        },
+                        {
+                            "term": "Plot (Moliitatamela litaba)",
+                            "definition": "Mukoloko wa likezahalo mwa likande"
+                        },
+                        {
+                            "term": "Characters (Babapali)",
+                            "definition": "Batu mwa likande"
+                        },
+                        {
+                            "term": "Setting (Sibaka / nako)",
+                            "definition": "Sibaka ni nako ya likezahalo mwa likande"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 22,
+                        "questions": [
+                            "Kutalusa mihato ya kutosa tuto/mayemo a likande la kubulela ka mulomo",
+                            "Kutosa tuto/mayemo mwa likande lelifilwe",
+                            "Kutalusa tuso/mayemo mwa likande lelifilwe",
+                            "Kutoloka tuso/mayemo mwa likande la kubulela ka mulomo"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "KONFULIKITI (CONFLICT)",
+                    "page": 23,
+                    "competences": [
+                        "Batatube conflict mwa likande."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.1",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Akenye bana ba sikolo mwa ngambolo ya kutoloka linzwi la conflict",
+                                "Alaele bana ba sikolo kualunguta linzwi la conflict – bakona kuitusisa makepe a Intaneti kapa encyclopedia",
+                                "Abeleke ni bana ba sikolo kuikambota linzwi la conflict ni buitusisi bwalona mwa likande",
+                                "Akenye bana ba sikolo mwa ngambolo ya kubupa taluso ni toloko ya linzwi la conflict",
+                                "Alaele bana ba sikolo kubatisisa taluso ya linzwi la conflict mwa likande",
+                                "Abeleke ni bana ba sikolo kutatuba litaluso zebafumani",
+                                "Alaele bana ba sikolo kufa taluso yabona ya kuikupulela"
+                            ],
+                            "learner_steps": [
+                                "Baange kabelo mwa ngambolo ya kutoloka linwzi la conflict",
+                                "Babatisise taluso ni toloko ya linzwi la conflict - bakona kuitusisa makepe a Intaneti, dictionary kapa encyclopedia",
+                                "Baikambote linzwi la conflict ni buitusisi bwalona mwa likande",
+                                "Baange kabelo mwa ngambolo yakubupa linzwi la conflict kakuitusisa litaluso za manzwi apanga linzwi lewo",
+                                "Babatisise taluso ya linzwi la conflict mwa likande",
+                                "Batatube litaluso zebafumani",
+                                "Bafe litaluso za bona zakuikupulela"
+                            ],
+                            "short_notes": "Conflict ki pulelo yeitusiswa mwa litilica, yebonisa kusatalala/ kusalumelelana kokuli mwahalaa lika zepeli zeitwanisa. Types: (i) Internal conflict - moo mutu/ mubapali azungubazwa ki milelo kapa tumelo yahae ka sibili. (ii) External conflict - moo mutu/ mubapali azungubazwa ki lika ze kwande."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.2",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Akenye bana ba sikolo mwa ngambolo ya kuikupuza toloko ya conflict",
+                                "Alaele bana ba sikolo kutalusa conflict (Internal conflict, External conflict)",
+                                "Afitise likande la Bupilo bwa Kamunjoto",
+                                "Abeleke ni bana ba sikolo kufumana conflict mwa likande lelifilwe"
+                            ],
+                            "learner_steps": [
+                                "Baange kabelo mwa ngambolo ya kuikupuza toloko ya conflict",
+                                "Bataluse conflict",
+                                "Bateeleze likande lelifitiswa ka tokomelo",
+                                "Bafumane conflict mwa likande lelifilwe ka kualaba lipuzo zetatama"
+                            ],
+                            "short_notes": "Explaining the implication of conflict in a story. Questions to guide: Who are the main characters? Who is the most important character? What causes the story to progress? Is there conflict visible? Is it internal or external conflict?"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.3",
+                            "page": 29,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Akenye bana ba sikolo mwa ngambolo ya mobakakona kuzibela conflict mwa likande",
+                                "Alaele bana ba sikolo kutomahanya mikwa ya kutosa conflict mwa likande",
+                                "Aabele bana ba sikolo libuka za makande abonisa conflict, zecwale ka Kayama Simangulungwa, Kamuyongole, Mutolalibona…",
+                                "Alaele bana ba sikolo kutosa conflict mwa makande afilwe",
+                                "Abeleke ni bana ba sikolo kualunguta li conflict zetosizwe"
+                            ],
+                            "learner_steps": [
+                                "Baikambote mobakakona kuzibela conflict mwa likande",
+                                "Batomahanye mikwa ya kutosa conflict mwa likande",
+                                "Babale libuka za makande abonisa conflict",
+                                "Batose conflict mwa makande afilwe",
+                                "Baalungute li conflict zetosizwe"
+                            ],
+                            "short_notes": "Identifying conflict in a given story. Methods include: Look for character struggles (internal/external), Identify opposing forces, Analyze character motivations, Examine plot twists and turns, Look for dialogue and action, Analyze the character's emotional journey."
+                        }
+                    ],
+                    "short_notes": "Conflict ki pulelo yeitusiswa mwa litilica, yebonisa kusatalala/ kusalumelelana kokuli mwahalaa lika zepeli zeitwanisa. Mukwa wo utusa kufa nyungano yakuli likande lizwelepili ibe taluso yeipatile ipatululwa ka kumonyeha buikatazo kapa bupalelwi bwa babapali.",
+                    "vocabulary": [
+                        {
+                            "term": "Internal conflict",
+                            "definition": "Moo mutu/ mubapali azungubazwa ki milelo kapa tumelo yahae ka sibili"
+                        },
+                        {
+                            "term": "External conflict",
+                            "definition": "Moo mutu/ mubapali azungubazwa ki lika ze kwande, zeo hasakoni kuitamulela kuzona mi zamupalelwisa kuzwelapili"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 31,
+                        "questions": [
+                            "Kufa taluso ni toloko ya linzwi la conflict",
+                            "Kutalusa tahiso ya conflict mwa likande",
+                            "Kutosa conflict mwa likande"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "PINA (SONG)",
+                    "page": 32,
+                    "competences": [
+                        "Banyakisise pina ye zamaelela ni likande."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.1",
+                            "page": 32,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alaele bana ba sikolo kufitisa mifuta ya lipina zebaziba (Za banana, Za mishengu, Za misebezi, Za silumeli)",
+                                "Aetelele bana ba sikolo kufa mitala ya lipina",
+                                "Akenye bana ba sikolo mwa ngambolo ya misebezi ni butokwa bwa lipina",
+                                "Abeleke ni bana ba sikolo kutalusa misebezi ni butokwa bwa lipina mwa makande"
+                            ],
+                            "learner_steps": [
+                                "Bafitise mifuta ya lipina zebaziba",
+                                "Bafe mitala ya lipina",
+                                "Baikambote misebezi ni butokwa bwa lipina",
+                                "Bataluse misebezi ni butokwa bwa lipina mwa makande"
+                            ],
+                            "short_notes": "Pina ki toko ya makutela kaufi kapa likande lelinani milumo ya mishonjo ye shutana-shutana. Functions of songs: Kuomba-omba, Kuluta, Kukuzisa banana, Kubonisa / kufitisa maikuto, Kutiisa tamahano, Kufa maata, Kueleza, Kukutaza, Kulumbeka. Importance in stories: Kubupa maikuto a tamahano ni buñwi, Kuhapa bateelezi, Kuanyiseza mulelo ni mutomo wa liñusa, Kuhupuza ka bunolo, Kufa sikuka sa mukwa wa likande, Kuekeza kwa bunde bwa likande."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.2",
+                            "page": 35,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Akenye bana ba sikolo mwa ngambolo ya kuikupuza misebezi ni butokwa bwa lipina mwa makande",
+                                "Akandekele bana ba sikolo likande (litangu) la Musibuzana lelizamaelela ni pina",
+                                "Abuze bana ba sikolo lipuzo kuamana ni litangu lelizamaelela ni pina lelifilwe",
+                                "Alaele bana ba sikolo kukandeka makande azamaelela ni lipina"
+                            ],
+                            "learner_steps": [
+                                "Baikupuze misebezi ni butokwa bwa lipina mwa makande",
+                                "Bateelezeka tokomelo kwa likande (litangu) la Musibuzana lelizamaelela ni pina",
+                                "Baalabe lipuzo kuamana ni litangu lelizamaelela ni pina lelifilwe",
+                                "Bakandeke makande azamaelela ni lipina"
+                            ],
+                            "short_notes": "Relating the message in the song to a given story. Aspects to analyze: Puwo (language), Taluso ya pina (meaning of song), Liñusa/tuto (message/theme), Misebezi ni butokwa bwa pina (functions and importance), Tamahano yemwahalaa likande ni pina (connection between story and song)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.3",
+                            "page": 37,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Akenye bana ba sikolo mwa ngambolo ya kuikupuza mifuta ya lipina",
+                                "Alaele bana ba sikolo kualunguta mihato ya butokwa mwa kuunga kabelo mwa kuopela",
+                                "Alaele bana ba sikolo kuunga kabelo mwa kuopela lipina zeshutana-shutana"
+                            ],
+                            "learner_steps": [
+                                "Baikupuze mifuta ya lipina",
+                                "Baalungute mihato ya butokwa mwa kuunga kabelo mwa kuopela",
+                                "Baange kabelo mwa kuopela lipina zeshutana-shutana"
+                            ],
+                            "short_notes": "Participating in singing. Important steps: Kuba mwa kezo (being in position), Kutamahana ni mutabelezi (coordinating with conductor), Kutunafaza muinelo wa manzwi a makalelo a pina (following the melody), Buñwi mwa kuopela ni mwa kuitusisa lipangaliko za milumo (unity in singing and using instruments)."
+                        }
+                    ],
+                    "short_notes": "Pina ki toko ya makutela kaufi kapa likande lelinani milumo ya mishonjo ye shutana-shutana. This sub-topic covers songs related to stories, explaining the importance of singing during storytelling, relating song messages to stories, and participating in singing.",
+                    "vocabulary": [
+                        {
+                            "term": "Pina",
+                            "definition": "Toko ya makutela kaufi kapa likande lelinani milumo ya mishonjo ye shutana-shutana"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 39,
+                        "questions": [
+                            "Kuambola butokwa bwa kuopela mwa makande",
+                            "Kutamahanya liñusa lelimwa pina kwa likande lelifilwe",
+                            "Kuunga kabelo mwa kuopela"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4",
+                    "title": "SIMBOLIZIMU (SYMBOLISM)",
+                    "page": 40,
+                    "competences": [
+                        "Batoloke symbolism mwa likande."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.1",
+                            "page": 41,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abeleke ni bana ba sikolo kubatisisa litoloko za symbolism mwa litilica",
+                                "Alaele bana ba sikolo kufa litoloko za symbolism mwa litilica ka kuitusisa dictionary, encyclopedia ni makepe a intaneti",
+                                "Akenye bana ba sikolo mwa ngambolo ya kualunguta ni kunyakisisa toloko ya symbolism mwa litilica"
+                            ],
+                            "learner_steps": [
+                                "Babatisise litoloko za symbolism mwa litilica",
+                                "Bafe litoloko za symbolism mwa litilica",
+                                "Baalungute ni kunyakisisa litoloko za symbolism"
+                            ],
+                            "short_notes": "Symbolism mwa litilica ki mukwa wa kuitusisa batu, miinelo, lipulelo/manzwi, lika kapa libaka kuyemela lika. Symbolism iitusisa lisupo. Sisupo ni sisupo sinani butokwa bwasona. Taluso ya lisupo iitingile ka muitusisezo wazona mwa likande."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.2",
+                            "page": 42,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Akenye bana ba sikolo mwa ngambolo ya kubatisisa mifuta ya lisupo",
+                                "Afe mwanaa sikolo kubala likande lelifumaneha mwa buka ya Munukayumbwa, kauhanyo ya 'Lifu ya Mushimbei'",
+                                "Abeleke ni bana ba sikolo kutosa mifuta ya lisupo ze mwa likande lelifilwe",
+                                "Afe bana ba sikolo musebezi wa kutalusa toloko ya lisupo ze mwa likande lelifilwe"
+                            ],
+                            "learner_steps": [
+                                "Babatisise mifuta ya lisupo",
+                                "Bateeleze likande lelibalwa ka tokomelo",
+                                "Batose mifuta ya lisupo ze mwa likande lelifilwe",
+                                "Bataluse litoloko za lisupo ze mwa likande lelifilwe"
+                            ],
+                            "short_notes": "Identifying symbols in a given story. Types of symbols: Lika (Object symbols), Batu (Person symbols), Manzwi/lipulelelo (Words symbols), Muinelo (Situation symbols), Libaka (Location symbols), Mibala (Color symbols), Sibaka ni nako (Setting symbols), Lifolofolo (Animal symbols), Minahano (Abstract symbols)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.3",
+                            "page": 45,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ahupuze bana ba sikolo mifuta ya lisupo zebaitutile",
+                                "Alaele bana ba sikolo kubala makande a shutana-shutana afumaneha mwa libuka zecwale ka; Kamuyongole, Kayama Simangulungwa, Mutolalibona…",
+                                "Abeleke ni bana ba sikolo kutalusa misebezi/butokwa bwa lisupo mwa likande"
+                            ],
+                            "learner_steps": [
+                                "Baikupuze mifuta ya lisupo zebaitutile",
+                                "Babale makande a shutana-shutana afumaneha mwa libuka",
+                                "Bataluse misebezi/ butokwa bwa lisupo mwa likande"
+                            ],
+                            "short_notes": "Discussing identified symbols in a given story. Functions/importance of symbols: Lisupo lipata taluso toota ya litaba, Lisupo lifa toloko ya babapali, Lisupo liekeza kwa butungi ni butuna bwa likande, Lisupo liekeza kubupa maswaniso mwa minahano, Lisupo likona kususueza kunahanisisa, Lisupo likona kubonisa ni kunyalanisa lituto/mayemo, Lisupo zekuta-kutela likona kubupa zwelopili."
+                        }
+                    ],
+                    "short_notes": "Symbolism mwa litilica ki mukwa wa kuitusisa lika, mibala, kapa lika zenwi kuyemela mutu, muinelo, linzwi, munahano kapa lika. This sub-topic covers defining symbolism in literature, identifying symbols in given stories, and discussing identified symbols.",
+                    "vocabulary": [
+                        {
+                            "term": "Symbolism",
+                            "definition": "Mukwa wa kuitusisa batu, miinelo, lipulelo/manzwi, lika kapa libaka kuyemela lika"
+                        },
+                        {
+                            "term": "Sisupo",
+                            "definition": "Symbol - lika leo liitusiswa kuyemela sika sesinzi"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 48,
+                        "questions": [
+                            "Kutoloka symbolism mwa litilica",
+                            "Kutosa lisupo mwa likande lelifilwe",
+                            "Kuambola lisupo zetosizwe mwa likande lelifilwe"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.5",
+                    "title": "MUKANDEKELO (POINT OF VIEW)",
+                    "page": 49,
+                    "competences": [
+                        "Bafumane point of view ya likande."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5.1",
+                            "page": 50,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Afe bana ba sikolo musebezi wa kubatisisa toloko ya point of view (Baitusise libuka za litilica zeshutana-shutana ni makepe a intaneti)",
+                                "Bafe likalabo zabona mwa Sikuwa kutalusa point of view",
+                                "Batoloke likalabo zabona ka Silozi",
+                                "Abeleke ni bana ba sikolo kualunguta litoloko zabona ni kuhatiseza zelukile",
+                                "Aabele bana ba sikolo libuka za litilica zeshutana-shutana",
+                                "Alaele bana ba sikolo kufumana likande lelili mwa buka ni buka molikandekezwi",
+                                "Alaele bana ba sikolo kufitisa lipatisiso za bona kuamana ni point of view yeitusisizwe mwa buka ni buka",
+                                "Abeye bana ba sikolo mwa tukwata mi bakandeke makande ni kutosa mukwa waitusisize muamboli mwateñi"
+                            ],
+                            "learner_steps": [
+                                "Babatisise toloko ya point of view mwa libuka za litilica zeshutana-shutana ni makepe a intaneti",
+                                "Bafitise likalabo zabona mwa Sikuwa",
+                                "Batoloke likalabo zabona ka Silozi",
+                                "Baalungute likalabo zefilwe ni kuhatiseza zelukile",
+                                "Babate mwa libuka kufumana mukwa wo likande ni likande likandekilwe kaona",
+                                "Bafitise lipatisiso zabona kuamana ni point of view yeitusisizwe mwa buka ni buka",
+                                "Babeleke mwa tukwata kukandeka makande ni kutosa mukwa waitusisize muamboli mwateñi (point of view)"
+                            ],
+                            "short_notes": "Point of view ki mukwa woo muñoli alakaza kubonisa ya kandeka likande. Mukwa waitusisize muñoli mwa likande (point of view) ki mukwa wo muñoli aitusisa kubonisa yakandeka likande lahae. Ikona kuba yena muñoli haiba uambola za bupilo bwahae, mubapali mwa likande kapa mane yasiyo mwateñi."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5.2",
+                            "page": 53,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Akenye bana ba sikolo mwa ngambolo ya kunyakisisa first person point of view",
+                                "Alaele bana ba sikolo kubatisisa taluso ya first person point of view mwa libuka ni makepe a intaneti",
+                                "Alaele bana ba sikolo kufitisa likalabo zabona za mwa Sikuwa",
+                                "Alaele bana ba sikolo kutoloka likalabo zabona ka Silozi",
+                                "Abeleke ni bana ba sikolo kualunguta likalabo zeo ni kulumelelana fa litaluso zelukile",
+                                "Afe bana ba sikolo libuka zeshutana-shutana mi babate makande añozwi aitusisa first person point of view",
+                                "Abeleke ni bana ba sikolo kuhatiseza lipatisiso zabona"
+                            ],
+                            "learner_steps": [
+                                "Baikambote ka kunyakisisa first person point of view",
+                                "Babatisise taluso ya first person point of view mwa libuka litilica ni makepe a intaneti",
+                                "Bafitise likalabo zabona za mwa Sikuwa",
+                                "Batoloke likalabo zabona ka Silozi",
+                                "Baalungute likalabo zeo ni kulumelelana fa litaluso zelukile",
+                                "Babate makande añozwi aitusisa first person point of view mwa libuka za litilica zeshutana-shutana",
+                                "Bahatiseze lipatisiso zabona"
+                            ],
+                            "short_notes": "First person point of view ki mukwa waitusisa muñoli kufitisa likande kakuba yomumuñwi wa babapali babainzi mwa likande. Uses pronouns like 'ni', 'na', 'luna' (I, me, we). The main character is often the narrator. Second person point of view uses pronouns like 'u', 'wena', 'mina' (you). Often used in instructions, advice, and warnings."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5.3",
+                            "page": 60,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Akenye bana ba sikolo mwa ngambolo ya kuikupuza mifuta ya point of view",
+                                "Alaele bana ba sikolo kubata makande",
+                                "Alaele bana ba sikolo kufitisa makande abafumani",
+                                "Abeleke ni bana ba sikolo kufumana point of view yeitusisizwe mwa likande ni likande lelifitiswa"
+                            ],
+                            "learner_steps": [
+                                "Baikupuze mifuta ya point of view",
+                                "Babate makande",
+                                "Bafitise makande abafumani",
+                                "Bafumane point of view yeitusisizwe mwa likande ni likande lelifitiswa"
+                            ],
+                            "short_notes": "Establishing the point of view of a given story. Learners review types of point of view, read various stories, present their findings, and determine which point of view is used in each story."
+                        }
+                    ],
+                    "short_notes": "Point of view ki mukwa woo muñoli alakaza kubonisa ya kandeka likande. Point of view iinzi mwa likalulo zetaalu. This sub-topic covers defining point of view in literature, discussing first and second person point of view, and establishing the point of view in given stories.",
+                    "vocabulary": [
+                        {
+                            "term": "Point of view (Mukandekelo)",
+                            "definition": "Mukwa woo muñoli alakaza kubonisa ya kandeka likande"
+                        },
+                        {
+                            "term": "First person point of view",
+                            "definition": "Mukwa waitusisa muñoli kufitisa likande kakuba yomumuñwi wa babapali babainzi mwa likande"
+                        },
+                        {
+                            "term": "Second person point of view",
+                            "definition": "Mukwa wo muñoli afitisa likande kakubonisa mubali kuba yena yomutuna yanga kabelo mwa likande"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 62,
+                        "questions": [
+                            "Kutoloka mukwa waitusisize muñoli kukandeka likande mwa litilica",
+                            "Kuikambota first and second person point of view mwa likande",
+                            "Kufumana point of view ya likande lelifilwe"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.6",
+                    "title": "MUTOMAHENYEZO WA LIKALULO ZEBUPA LIKANDE (NARRATION TECHNIQUE)",
+                    "page": 63,
+                    "competences": [
+                        "Baikambote li narration technique zemwa likande."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.1",
+                            "page": 64,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Akenye bana ba sikolo mwa ngambolo ya kubatisisa taluso ya linear technique mwa likande",
+                                "Alaele bana ba sikolo kufa toloko ya linear technique mwa sikuwa",
+                                "Alaele bana ba sikolo kufa litaluso zefumanwi mwa silozi",
+                                "Abeleke ni bana ba sikolo kualunguta ni kuhatiseza likalabo zefilwe",
+                                "Afe bana ba sikolo musebezi wa kutosa linear narration technique mwa libuka zeshutana-shutana",
+                                "Abeleke ni bana ba sikolo kuhatiseza lipatisiso zabona"
+                            ],
+                            "learner_steps": [
+                                "Babatisise taluso ya linear technique mwa likande",
+                                "Bafe toloko ya linear technique mwa sikuwa",
+                                "Bafe litaluso zefumanwi mwa silozi",
+                                "Baalungute ni kuhatiseza likalabo zefilwe",
+                                "Batose linear narration technique mwa libuka zeshutana-shutana",
+                                "Bahatiseze lipatisiso zabona"
+                            ],
+                            "short_notes": "Narration technique ki mikwa yeo muñoli aitusisa kufa butungi bwa taluso kaseo alika kufitisa. Linear narrative style - Mukandeki ufitisa likande kamukwa wa kukolohanya litaba kukala ku yamakalelo kuisa ku yamafelelezo. Descriptive narrative uses vivid description to create visual images. Viewpoint refers to the voice the story is written in (first, second, or third person)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.2",
+                            "page": 70,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Akenye bana ba sikolo mwa ngambolo ya kuikupuza ma narration technique",
+                                "Afe bana ba sikolo mapampili ana ni makande amakutela kaufi",
+                                "Alaele bana ba sikolo kuikambota ni kutalusa narration technique yefumaneha mwa likande ni likande"
+                            ],
+                            "learner_steps": [
+                                "Baikupuze li narration technique",
+                                "Babale mapampili ana ni makande amakutela kaufi",
+                                "Baikambote ni kutalusa narration technique yefumaneha mwa likande ni likande"
+                            ],
+                            "short_notes": "Explaining the narration technique in a given story. Learners review narration techniques, read short stories and pamphlets, and discuss and explain the narration techniques found in each story."
+                        }
+                    ],
+                    "short_notes": "Narration technique ki mikwa yeo muñoli aitusisa kufa butungi bwa taluso kaseo alika kufitisa. This sub-topic covers identifying narration techniques (linear, descriptive, viewpoint) and explaining narration techniques in given stories.",
+                    "vocabulary": [
+                        {
+                            "term": "Linear narrative style",
+                            "definition": "Mukandeki ufitisa likande kamukwa wa kukolohanya litaba kukala ku yamakalelo kuisa ku yamafelelezo"
+                        },
+                        {
+                            "term": "Descriptive narrative style",
+                            "definition": "Uses vivid description to help create a visual image for readers"
+                        },
+                        {
+                            "term": "Viewpoint",
+                            "definition": "Refers to the voice the story is written in (first person, second person or third person point of view)"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 72,
+                        "questions": [
+                            "Kutosa ma narration technique a likande",
+                            "Kutalusa narration technique mwa likande"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.7",
+                    "title": "ZEFUMANEHA MWA LIKANDE LAKUIKUPULELA (ELEMENTS OF A STORY IN A COMPOSED STORY)",
+                    "page": 73,
+                    "competences": [
+                        "Babupe likande lelinani lika zefumaneha mwa likande (Compose a story with elements of a story in it)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.1",
+                            "page": 74,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abeleke ni bana ba sikolo kuikupuza likalulo za likande (characterisation, plot, setting, theme, conflict…)",
+                                "Alaele yomuñwi wa bana ba sikolo kubala likande lelizwelela mwa buka ya Kubala ka Kutwisiso (P.M. Silumesii - likepe la 1)",
+                                "Afe bana ba sikolo musebezi wa kubupa makande",
+                                "Alaele bana ba sikolo kufitisa musebezi wabona"
+                            ],
+                            "learner_steps": [
+                                "Baikupuze likalulo za likande",
+                                "Babale likande lelizwelela mwa buka ya Kubala ka Kutwisiso",
+                                "Babupe makande",
+                                "Bafitise musebezi"
+                            ],
+                            "short_notes": "Composing a story. Learners review elements of a story, read a sample story, compose their own stories, and present their work."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.2",
+                            "page": 75,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ahupule kuli bana ba sikolo sebaitutile kale lika zefumaneha mwa likande",
+                                "Akenye bana ba sikolo mwa ngambolo yakuikupuza likande lenelibupilwe",
+                                "Alaele bana ba sikolo kuitusisa likalulo zefumaneha mwa likande kaswanelo",
+                                "Afe bana ba sikolo musebezi wa kubupa makande anani likalulo kaufela za likande"
+                            ],
+                            "learner_steps": [
+                                "Baikupuze likande lenelibupilwe",
+                                "Baitusise likalulo zefumaneha mwa likande kaswanelo",
+                                "Babupe makande anani likalulo kaufela za likande (characterisation, plot, setting, theme, conflict...)"
+                            ],
+                            "short_notes": "Making use of elements of a story in the composed story. Learners review their composed stories, ensure proper use of story elements, and compose stories containing all elements (characterisation, plot, setting, theme, conflict...)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.3",
+                            "page": 76,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Akenye bana ba sikolo mwa ngambolo yakuikupuza likande lenelibupilwe",
+                                "Abeleke ni bana ba sikolo kubatisisa lika zelukela kulatelelwa hakukandekiwa likande",
+                                "Alaele bana ba sikolo kukandeka likande lelibupilwe kakuitusisa lika zelukela kulatelelwa hakukandekiwa likande",
+                                "Afe bana ba sikolo musebezi wa kukandeka makande abupilwe"
+                            ],
+                            "learner_steps": [
+                                "Bakuikupuze likande lenelibupilwe",
+                                "Babatisise lika zelukela kulatelelwa hakukandekiwa likande (Follow clear structure, Ensure the audience can relate, Feature likable characters, Appeal to audience's emotions)",
+                                "Bakandeke likande lelibupilwe kakuitusisa lika zelukela kulatelelwa",
+                                "Bakandeke makande abupilwe"
+                            ],
+                            "short_notes": "Narrating the composed story. Learners review their composed stories, study elements to follow when narrating, and narrate their composed stories following proper storytelling techniques."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.4",
+                            "page": 78,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Akenye bana ba sikolo mwa ngambolo ya kuikupuza likalulo zefumaneha mwa likande",
+                                "Abeleke ni bana ba sikolo kutalusa likalulo zefumaneha mwa likande",
+                                "Alaele bana ba sikolo kualunguta makande akandekilwe ki sikwata ni sikwata kufumana likalulo zefumaneha mwa likande"
+                            ],
+                            "learner_steps": [
+                                "Baikupuze likalulo zefumaneha mwa likande (Characterisation, Plot, Setting, Theme, Conflict, Song, Symbolism, Point of view, Narration technique)",
+                                "Bataluse likalulo zefumaneha mwa likande",
+                                "Baalungute makande akandekilwe ki sikwata ni sikwata kufumana likalulo zefumaneha mwa likande"
+                            ],
+                            "short_notes": "Explaining the elements of a story contained in the composed story. Learners review story elements, explain these elements, and analyze stories presented by different groups to identify the elements used."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.5",
+                            "page": 79,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Akenye bana ba sikolo mwa ngambolo ya kuikupuza likande lelibupilwe",
+                                "Abeleke ni bana ba sikolo kubatisisa zelukela kulatelelwa hakubapalwa likande",
+                                "Alaele bana ba sikolo kubapala likande lelibupilwe",
+                                "Abeleke ni bana ba sikolo kunyakisisa lipapali zebapalwa kubona kuli baitusisize likalulo zefumaneha mwa likande kaswanelo"
+                            ],
+                            "learner_steps": [
+                                "Baikupuze likande lelibupilwe",
+                                "Babatisise zelukela kulatelelwa hakubapalwa likande (Scenario, Roles, Clear instruction, Time allocation)",
+                                "Babapale likande lelibupilwe",
+                                "Banyakisise lipapali zebapalwa kubona kuli baitusisize likalulo zefumaneha mwa likande kaswanelo"
+                            ],
+                            "short_notes": "Role-playing a composed story. Learners review their composed stories, study elements to follow in role-play (scenario, roles, clear instructions, time allocation), perform role-plays, and analyze the performances to ensure proper use of story elements."
+                        }
+                    ],
+                    "short_notes": "Likande ki tahiso ya litaba zaniti kapa zakuikupulela, zeamana ni miinelo, likezahalo za batu mane cwalo ni libaka zefitiswa ka mulelo wa kuitabisa ni kuituta. This sub-topic covers composing stories with story elements, narrating composed stories, explaining elements in composed stories, and role-playing composed stories.",
+                    "vocabulary": [
+                        {
+                            "term": "Characterisation",
+                            "definition": "Kubupa toloko ya babapali mwa likande"
+                        },
+                        {
+                            "term": "Plot",
+                            "definition": "Moliitatamela litaba mwa likande"
+                        },
+                        {
+                            "term": "Setting",
+                            "definition": "Sibaka / nako ya likezahalo"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 82,
+                        "questions": [
+                            "Kubupa likande",
+                            "Kuitusisa likalulo za likande mwa likande lelibupilwe",
+                            "Kukandeka likande lelibupilwe",
+                            "Kutalusa lika zefumaneha mwa likande lelibupilwe",
+                            "Kubapala likande lelibupilwe"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

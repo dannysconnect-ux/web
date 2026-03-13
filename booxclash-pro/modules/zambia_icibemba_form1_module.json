@@ -1,0 +1,1532 @@
+{
+    "subject": "Icibemba",
+    "grade": "Form 1",
+    "term": 3,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "Ifisumino na Intambi Shacaalo (National Values and Heritage)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Ukumfwa na Ukulanda - Ukushimika Ilyashi (Listening and Speaking - Reporting a Story)",
+                    "page": 1,
+                    "competences": [
+                        "Ukubomfya amashiwi ayayaana pakushimika ilyashi illipeelwe pamulandu 'Ukukobekela Namasambililo'",
+                        "Ukulondolola ifyo ifisumino na intambi shacaalo shingabacingilila mumicitile",
+                        "Ukubomfya Icibemba icasuminishiwa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 1,
+                            "hook": "Ukulanshanya palyashi pakati kakokwa Mulenga nabanankwe",
+                            "teacher_steps": [
+                                "Biika abasambi mumabumba",
+                                "Eba abasambi babelenge umulandu uuli pali Mulenga nabanankwe",
+                                "Balanshanye umulandu uuli pali Mulenga nabanankwe"
+                            ],
+                            "learner_steps": [
+                                "Babiikwa mumabumba",
+                                "Babelenga umulandu upeelwe",
+                                "Balanshanya pamutwe upeelwe"
+                            ],
+                            "short_notes": "Learners discuss the story about Mulenga and his friends regarding the topic 'Ukukobekela Namasambililo' (Peer Pressure and Schooling). The story explores themes of peer pressure among school youth."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 2,
+                            "hook": "Ukulondolola ifyalanshanishiwa palyashi pakati ka kwa Mulenga nabanankwe",
+                            "teacher_steps": [
+                                "Eba abeminishi muli cila ibumba ukulondolola ifyalanshinishiwa palyashi ukulingana na umutwe"
+                            ],
+                            "learner_steps": [
+                                "Abeminishi muli cilabumba balondolola ifyalanshaninishwa palyashi ukulingana na umutwe"
+                            ],
+                            "short_notes": "Group representatives present summaries of what was discussed in the story."
+                        }
+                    ],
+                    "short_notes": "This sub-topic focuses on listening and speaking skills through the story 'Ukukobekela Namasambililo' (Peer Pressure and Schooling). Learners explore the theme of peer pressure among youth, national values, and heritage using appropriate vocabulary.",
+                    "vocabulary": [
+                        {"term": "mumpuka", "definition": "friends (close friends/peers)"},
+                        {"term": "fipoka-poka", "definition": "close friends, inseparable companions"},
+                        {"term": "ukukobekela", "definition": "peer pressure, influence from peers"},
+                        {"term": "yakubuko", "definition": "things related to going home/native activities"},
+                        {"term": "amakunda", "definition": "longing, desire, yearning"},
+                        {"term": "asaminefye", "definition": "just for nothing, without reason"},
+                        {"term": "yaleemusabukila", "definition": "were making his mouth water"}
+                    ],
+                    "assessment": {
+                        "page": 16,
+                        "questions": [
+                            "Umutwe walyashi walanshanishiwa bwino (The theme of the story was discussed correctly)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Ukubelenga - Amashiwi (Reading - Vocabulary/Words)",
+                    "page": 2,
+                    "competences": [
+                        "Bomfya amashiwi ukulingana na fomu (Use words according to their forms/parts of speech)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 2,
+                            "hook": "Ukulanshanya pabupilibulo bwamashiwi yasalilwe mulyashi 'Ukukobekela Namasambililo'",
+                            "teacher_steps": [
+                                "Biika abasambi mumabumba",
+                                "Eba abasambi Ukulanshanya pabupilibulo bwamashiwi yasalilwe mulyashi"
+                            ],
+                            "learner_steps": [
+                                "Babiikwa mumabumba",
+                                "Balanshanye pabupilibulo bwamashiwi yasaalilwe mulyashi"
+                            ],
+                            "short_notes": "Learners discuss the meanings of selected vocabulary words from the listening and speaking story."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 2,
+                            "hook": "Ukulondolola ubupilibulo bwamashiwi",
+                            "teacher_steps": [
+                                "Biika abasambi mumabumba",
+                                "Eba abasambi balondolole ubupilibulo bwamashiwi kubasambi banabo"
+                            ],
+                            "learner_steps": [
+                                "Babiikwa mumabumba",
+                                "Balondolole ubupilibulo bwamashiwi kubasambi banabo"
+                            ],
+                            "short_notes": "Learners present word meanings to each other."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 3,
+                            "hook": "Ukubomfya amashiwi yasalilwe mumiseela",
+                            "teacher_steps": [
+                                "Eba cilamusambi abomfye amashiwi yasalilwe mumiseela"
+                            ],
+                            "learner_steps": [
+                                "Cilamusambi abomfya amashiwi yasalilwe mumiseela"
+                            ],
+                            "short_notes": "Individual learners use selected vocabulary words in sentences."
+                        }
+                    ],
+                    "short_notes": "This sub-topic covers reading comprehension with focus on vocabulary. Learners read and understand passages about national values and heritage, using varied vocabulary in appropriate contexts.",
+                    "vocabulary": [
+                        {"term": "ifisumino", "definition": "values, principles that guide conduct"},
+                        {"term": "intambi", "definition": "heritage, traditions passed down through generations"},
+                        {"term": "kampashi", "definition": "compass, guide"},
+                        {"term": "intunga", "definition": "direction, destination"},
+                        {"term": "bashingwana", "definition": "challenges, problems"},
+                        {"term": "ukukangana", "definition": "disagreement, conflict"},
+                        {"term": "ukulungana", "definition": "agreement, togetherness"},
+                        {"term": "Social Media", "definition": "platforms used for online communication and sharing"},
+                        {"term": "Anti Gender Policy", "definition": "policy aimed at preventing gender-based discrimination"},
+                        {"term": "Cyber Security Law", "definition": "law governing safe and responsible use of the internet"}
+                    ],
+                    "assessment": {
+                        "page": 5,
+                        "questions": [
+                            "Mumashiwi yobe kuti walondolola shani amashiwi yakuti 'National Value'?",
+                            "Ukusunga ifipe fyacintu-bwingi ifili nga ifibombelo fya ZESCO, ama desiki yesukulu fiilangililo fyafintu icaalo casuminamo. Bufi/Cishinka.",
+                            "Mukutontonkanya koobe busumanshi bwaba mufisumino fyacaalo ubukumine ku masambililo?",
+                            "Kalemba atiila, 'Uwaikete fibili afwile ku Meenshi', londolola ifintu fibili ifyo aleelandapo ifyo abalumendo baleetontonkanyapo.",
+                            "Lishiwi nshi limbi mumulandu ililepilibula cimo cine na 'ukupanika'?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "Ukubelenga Mukwikatisha (Fluency Reading)",
+                    "page": 6,
+                    "competences": [
+                        "Belenga imilandu iyalekana lekana ukwabula ukutamantika iyakulinga fomu 1"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 6,
+                            "hook": "Ukubelenga umulandu mukwikatisha ukwabula ukutamantama",
+                            "teacher_steps": [
+                                "Eba cilamusambi abelenge umulandu mukwikatisha ukwabula ukutamantama"
+                            ],
+                            "learner_steps": [
+                                "Cilamusambi abelenge umulandu mukwikatisha ukwabula ukutamantama"
+                            ],
+                            "short_notes": "Learners practice reading texts fluently without hesitation."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 7,
+                            "hook": "Ukwasuka ameepusho mukulandafye",
+                            "teacher_steps": [
+                                "Peela cila musambi icipande cakubelenga mukwikatisha",
+                                "Eba cilamusambi abelenge umulandu mukwikatisha ukwabula ukutamantama",
+                                "Ipusha abasambi ameepusho mukulandafye"
+                            ],
+                            "learner_steps": [
+                                "Cilamusambi apeelwa icipande cakubelenga",
+                                "Cilamusambi abelenge umulandu mukwikatisha ukwabula ukutamantama",
+                                "Cilamusambi aasuke ameepusho mukulandafye"
+                            ],
+                            "short_notes": "Learners answer oral comprehension questions after silent reading."
+                        }
+                    ],
+                    "short_notes": "Good reading habits include: reading fluently without hesitation (mukwikatisha), not reading too fast, reading at an appropriate pace, pronouncing words clearly, showing appropriate facial expressions, and showing intonation at pauses and questions.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 7,
+                        "questions": [
+                            "Ameepusho yamukulandafye yaasukwa bwino (Oral comprehension questions answered correctly)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4",
+                    "title": "Ukulemba - Ukuleemba Ilyashi Lyakulondolola Umuntu (Writing - Descriptive Writing of a Person)",
+                    "page": 7,
+                    "competences": [
+                        "Ukuleemba umulandu uulelodolola abantu"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 8,
+                            "hook": "Ukulanshanya pamilembele na ifipoope fyakukonka pakuleemba ilyashi lyakulondolola umuntu nangu icintu",
+                            "teacher_steps": [
+                                "Biika abasambi mumabumba",
+                                "Eba abasambi balanshanye pamilembele nefifwaikwa mukuleemba ilyashi lyakulondolola"
+                            ],
+                            "learner_steps": [
+                                "Babiikwa mumabumba",
+                                "Balanshanye pamilembele nefifwaikwa mukuleemba ilyashi lyakulondolola umuntu nangu icintu"
+                            ],
+                            "short_notes": "Learners discuss the features and requirements of writing a descriptive composition about a person or thing."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 9,
+                            "hook": "Ukuleemba ilyashi lyakulondolola umuntu",
+                            "teacher_steps": [
+                                "Eba cilamusambi ukulemba ilyashi lyakulondolola umuntu"
+                            ],
+                            "learner_steps": [
+                                "Baleembe ilyashi lyakulondolola umuntu"
+                            ],
+                            "short_notes": "Learners write a descriptive composition about a person based on a given prompt."
+                        }
+                    ],
+                    "short_notes": "Descriptive writing of a person should include: Introduction (name, gender, age, origin, duration of acquaintance, occupation, religious affiliation); Physical appearance (height, build, hairstyle, smile); Occupation and education; Character traits (likes, dress style, food, hobbies); and Conclusion (writer's personal views). Use vivid adjectives and verbs to bring the person to life for the reader.",
+                    "vocabulary": [
+                        {"term": "Intendekelo", "definition": "Introduction paragraph of a composition"},
+                        {"term": "Imibeele", "definition": "Character traits, personal attributes"},
+                        {"term": "Insondwelelo", "definition": "Conclusion of a composition"},
+                        {"term": "batungi weshina", "definition": "adjectives used to describe nouns"},
+                        {"term": "batungi wakacita", "definition": "adverbs used to describe actions"}
+                    ],
+                    "assessment": {
+                        "page": 9,
+                        "questions": [
+                            "Ilyashi lyakulondolola umuntu lyalembwa bwino (Descriptive composition of a person written correctly)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.5",
+                    "title": "Ukusoobolola Icibemba - Ukubomfya Inundwa (Grammar - Using Prefixes and Suffixes)",
+                    "page": 9,
+                    "competences": [
+                        "Bomfya inundwa shakukutampa na kumpela yeshiwi pakupanga amashiwi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 10,
+                            "hook": "Ukulondolola ubupilibulo na imibomfeshe yanundwa",
+                            "teacher_steps": [
+                                "Londolwela abasambi ubupilibulo na imibomfeshe yanundwa"
+                            ],
+                            "learner_steps": [
+                                "Balondolole ubupilibulo na imibomfeshe yanundwa"
+                            ],
+                            "short_notes": "Teacher explains prefixes and suffixes, learners identify and discuss their uses."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 10,
+                            "hook": "Ukulumbula imisango iyalekana-lekana iyanundwa",
+                            "teacher_steps": [
+                                "Biika abasambi mumabumba",
+                                "Eba abasambi balanshanye imisango yalekana-lekana iyanundwa",
+                                "Eba umwiminishi alondolole ifilanshanishiwe"
+                            ],
+                            "learner_steps": [
+                                "Babiikwa mumabumba",
+                                "Balanshanye imisango yalekana-lekana iyanundwa",
+                                "Umwiminishi alondolole ifilanshanishiwe"
+                            ],
+                            "short_notes": "Learners identify and classify different types of prefixes and suffixes."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 11,
+                            "hook": "Ukubiika inundwa mumisango yashiko",
+                            "teacher_steps": [
+                                "Eba abasambi babiike inundwa shalekana-lekana mumisango yashiko"
+                            ],
+                            "learner_steps": [
+                                "Babiike inundwa shalekana-lekana mumisango yashiko"
+                            ],
+                            "short_notes": "Learners place prefixes and suffixes into their correct patterns/categories."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 11,
+                            "hook": "Ukupanga amashiwi ukubomfya inundwa ishalekana-lekana",
+                            "teacher_steps": [
+                                "Eba cilamusambi apange amashiwi ukubomfya inundwa shalekana-lekana"
+                            ],
+                            "learner_steps": [
+                                "Cilamusambi apange amashiwi ukubomfya inundwa shalekana-lekana"
+                            ],
+                            "short_notes": "Individual learners form words using various prefixes and suffixes."
+                        }
+                    ],
+                    "short_notes": "Inundwa (Morpheme/Affix): A word part added to a root word that changes or adds meaning. Types: Inundwa shapakutampa kweshiwi (Prefixes) - e.g., aba-kashana, umu-ntu, ici-puna, ifi-puna, ili-ni. Inundwa shakumpela yeshiwi (Suffixes) - e.g., uku-sos-a, uku-nw-a, uku-memeng-a, uku-beleng-a. Note: Proper nouns (names of people and places) and uncountable nouns do not take prefixes.",
+                    "vocabulary": [
+                        {"term": "Inundwa", "definition": "A word part (morpheme/affix) added to a root word that changes or extends its meaning"},
+                        {"term": "Inundwa shapakutampa kweshiwi", "definition": "Prefixes - word parts added to the beginning of a root word"},
+                        {"term": "Inundwa shakumpela yeshiwi", "definition": "Suffixes - word parts added to the end of a root word"},
+                        {"term": "Banauni", "definition": "Nouns - naming words in Icibemba grammar"}
+                    ],
+                    "assessment": {
+                        "page": 16,
+                        "questions": [
+                            "Biika inundwa mumisango yashiko - Inundwa sha pakutampa kweshiwi elyo ne nundwa sha ku mpela yeshiwi",
+                            "Panga amashiwi ukubomfya inundwa ishalekana-lekana: Inundwa: umu, aba, a, meenshi, ng'anda, ici, aka, muti, bi, ifi, fi"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.6",
+                    "title": "Amashiwi Yakwata Ubupilibulo Bwafisama - Insoselo (Figurative Language - Idioms/Proverbs)",
+                    "page": 11,
+                    "competences": [
+                        "Ukubomfya insoselo (Use proverbs/idioms appropriately)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 12,
+                            "hook": "Ukulanshanya pabupilibulo bwansoselo nefyo shibomfiwa",
+                            "teacher_steps": [
+                                "Biika abasambi mumabumba",
+                                "Eba abasambi ukulanshanya pabupilibulo bwansoselo nefyo shibomfiwa",
+                                "Umwiminishi alondolole ifilanshanishiwe"
+                            ],
+                            "learner_steps": [
+                                "Babiikwa mumabumba",
+                                "Balanshanye pabupilibulo bwansoselo nefyo shibomfiwa",
+                                "Umwiminishi alondolole ifilanshanishiwe"
+                            ],
+                            "short_notes": "Learners discuss the meanings and uses of proverbs such as: Bunamulya pungunyu, Ukufwila ulwisha, Ukufwa icanyongolo, Ukufwika amala yambushi mumukoshi, Katyetye mwenda mwalimwa, Namwelepete isembe lyamukuba."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 12,
+                            "hook": "Ukubiika insoselo mumabumba ukulingana neefyo shibomfiwa",
+                            "teacher_steps": [
+                                "Biika abasambi mumabumba",
+                                "Eba abasambi babiike insoselo mumabumba ukulingana neefyo shibomfiwa"
+                            ],
+                            "learner_steps": [
+                                "Babiikwa mumabumba",
+                                "Babiike insoselo mumabumba ukulingana neefyo shibomfiwa"
+                            ],
+                            "short_notes": "Learners classify proverbs into categories: Ukuiletelela (Self-reliance), Ubonaushi (Laziness), Ulufyengo (Deceit), Ubunang'ani (Greediness), Ubusuma bwa kwipusha (Wisdom of asking)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 13,
+                            "hook": "Ukusoobolola insoselo ukulingana nenshita shingabomba",
+                            "teacher_steps": [
+                                "Eba cila musambi ukusobolola insoselo ukulingana nenshita shingabomba"
+                            ],
+                            "learner_steps": [
+                                "Cilamusambi asoobolole insosele ukulingana nenshita shingabomba"
+                            ],
+                            "short_notes": "Learners match proverbs to appropriate situations/contexts."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 14,
+                            "hook": "Ukufwaya insoselo shingabomfiwa ukulingana nenshita",
+                            "teacher_steps": [
+                                "Biika abasambi mumabumba",
+                                "Eba abasambi bafwaye insoselo shingabofiwa ukulingana nenshita"
+                            ],
+                            "learner_steps": [
+                                "Babiikwa mumabumba",
+                                "Bafwaye insoselo ukulingana nenshita shipeelwe peesamba"
+                            ],
+                            "short_notes": "Learners find appropriate proverbs for given situations."
+                        }
+                    ],
+                    "short_notes": "Insoselo (Proverbs/Idioms) are expressions with figurative meaning that differ from the literal meaning of the words used. Key differences between insoselo and amapinda (idioms): Insoselo consist of a single complete sentence; they have a figurative/deep meaning (ubupilibulo bwayanguka ukumfwa); they are written as one complete sentence. Amapinda have two parts (ukutampa - beginning, and ukupwishishisha - ending); they can have both literal and deep meaning.",
+                    "vocabulary": [
+                        {"term": "Insoselo", "definition": "Proverb/idiom - a figurative expression that carries deeper meaning beyond its literal words"},
+                        {"term": "Amapinda", "definition": "Idioms with two parts (a setup and completion), usually expressing deeper cultural meaning"},
+                        {"term": "Ubupilibulo bwafisama", "definition": "Figurative meaning - meaning that is not literal but symbolic or cultural"}
+                    ],
+                    "assessment": {
+                        "page": 17,
+                        "questions": [
+                            "Leemba ificitiika umo tubomfya ishi nsoselo: i. Kabuusha takolelwe bowa, ii. Uwakanwa takutula, iii. Ukupaapa kalama, iv. Ukuilapwila umulilo pamakasa, v. Amalibu yakuilombela, vi. Ukukulikila imbushi pamimena"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.7",
+                    "title": "Ukwalula Ululimi (Translation)",
+                    "page": 14,
+                    "competences": [
+                        "Ukubomfya inshila ishalekana-lekana pakupilibula umulandu ukufuma mucingeleshi ukutwala mucibemba elyo na ukumya mucibemba ukutwala mucingeleshi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 15,
+                            "hook": "Ukwalula imiseela ili peesamba ukufuma mu Cingeleshi ukutwala mu Cibemba",
+                            "teacher_steps": [
+                                "Eba abasambi baalule imiseela ili peesamba ukufuma mu Cingeleshi ukutwala mu Cibemba"
+                            ],
+                            "learner_steps": [
+                                "Cila musambi aalule imiseela ipeele ukutwala mu Cibemba ukubomfya inshila shimo-shimo isho basambilila"
+                            ],
+                            "short_notes": "Learners translate sentences from English to Icibemba using various translation techniques."
+                        }
+                    ],
+                    "short_notes": "Translation techniques used in Icibemba: (a) Generalization (ukupilibula ukubomfya ishiwi ilyaishibikwa kubengi) - using a widely known word when there is no direct equivalent. (b) Description (ukulundulula/ukulondolola amashiwi) - describing the concept rather than translating directly. Other techniques include: literal translation, borrowing (ukwashima), and transliteration.",
+                    "vocabulary": [
+                        {"term": "Generalization", "definition": "Translation by using a broadly known equivalent word (e.g., Basketball = Umupila wakuminwe)"},
+                        {"term": "Description", "definition": "Translation by describing the item or concept (e.g., cardigan = icakufwala campepo)"},
+                        {"term": "Borrowing", "definition": "Adopting the word from another language directly (e.g., Computer = Kompyuta)"},
+                        {"term": "Literal translation", "definition": "Word-for-word translation keeping original meaning"}
+                    ],
+                    "assessment": {
+                        "page": 17,
+                        "questions": [
+                            "Alula imiseela ili pesamba, uitwale mucibemba. Ubomfye inshila shimo-shimo isho wasambilila: a. When I visited Chanda this morning she complained of severe headache, b. Chanda was appointed head girl at our school, however, she preferred just being an ordinary pupil, c. Making clay vessels was Bwalya's favorite project in school, d. Clay vessels must be handled with care because they can easily break",
+                            "Alula ii miseela ili peesamba uitwaile mucisungu: i. Pamaliketi ileelo pali ifisabo ifyalekana-lekana, ii. Bana maliketi baleshitisha amapeela, imyembe, ifitanga-menshi na ifibimbi"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "Ifishinka na Ifyakwelenganya (Facts and Opinions)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Ukumfwa na Ukulanda - Ifishinka na Ifyakwelenganya (Listening and Speaking - Facts and Opinions)",
+                    "page": 18,
+                    "competences": [
+                        "Ukupusanya ifishinka na ifyakwelenga mulyashi lyakulanshanya"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 18,
+                            "hook": "Ukupusanya ifishinka na ifyakwelenganya",
+                            "teacher_steps": [
+                                "Eba abasambi babili ukuipeelesha ukusendamo ulubali mukulanshanya",
+                                "Eba abasambi babelenge ilyashi lyakulanshanya ilili peesamba",
+                                "Eba abasambi bapusanye ifishinka na ifyakwelenganya"
+                            ],
+                            "learner_steps": [
+                                "Abasambi babelenge ilyashi umuli ifishinka na ifyakwelenganya"
+                            ],
+                            "short_notes": "Learners read a dialogue between Mulenga and Katongo discussing whether women can be traditional leaders (bashilika). They identify facts and opinions expressed in the conversation."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 19,
+                            "hook": "Ukulondolola ifishinka na ifyakwelenganya",
+                            "teacher_steps": [
+                                "Eba abasambi balondolole ifishinka na ifyakwelenganya"
+                            ],
+                            "learner_steps": [
+                                "Balondolola ifishinka na ifyakwelenganya"
+                            ],
+                            "short_notes": "Learners present and classify facts versus opinions from the dialogue. Example: Fact - Namaayo kuti aaba umushilika; Opinion - tekuti abe umushilika."
+                        }
+                    ],
+                    "short_notes": "Facts (ifishinka) are statements that can be verified as true or false. Opinions (ifyakwelenganya) are personal views or beliefs. In the dialogue about women becoming traditional leaders, learners practice distinguishing between factual statements and personal opinions, and practice respectful communication including proper turn-taking in conversation.",
+                    "vocabulary": [
+                        {"term": "ifikansa", "definition": "opportunities, chances"},
+                        {"term": "imbuto", "definition": "seeds, offspring (used figuratively for children/results)"},
+                        {"term": "imono", "definition": "tears"},
+                        {"term": "mwifwesa", "definition": "from experience, from the river/source of knowledge"},
+                        {"term": "mucuulu", "definition": "from an anthill (figurative for accumulated knowledge)"},
+                        {"term": "ukusombola", "definition": "to learn from, to borrow knowledge"}
+                    ],
+                    "assessment": {
+                        "page": 32,
+                        "questions": [
+                            "Ilyashi lyabelengwa bwino ilyapafishinka na ifyakwelenganya (Story read correctly with facts and opinions identified)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Ukubelenga na Ukumfwikisha - Ubusuma Bwamasambililo (Reading Comprehension - The Value of Education)",
+                    "page": 22,
+                    "competences": [
+                        "Ukubelenga imilandu yamu fomu 1"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 22,
+                            "hook": "Ukubelenga umulandu",
+                            "teacher_steps": [
+                                "Eba cila musambi ukubelenga umulandu"
+                            ],
+                            "learner_steps": [
+                                "Cila musambi abelenge ilyashi lyamu fomu 1 bwino"
+                            ],
+                            "short_notes": "Learners read the passage about the value of education - discussing how both traditional schools (insaka for men, icibwanse for women) and modern schools offer various forms of knowledge."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 23,
+                            "hook": "Ukwasuka ameepusho ayalekana-lekana bwino",
+                            "teacher_steps": [
+                                "Eba cila musambi asuke ameepusho ayalekana-lekana bwino"
+                            ],
+                            "learner_steps": [
+                                "Cila musambi asuke ameepusho ayalekana-lekana bwino"
+                            ],
+                            "short_notes": "Learners answer comprehension questions about the passage."
+                        }
+                    ],
+                    "short_notes": "The passage 'Ubusuma Bwamasambililo' (The Value of Education) discusses both traditional and modern education systems in Zambia. Traditional education happened in insaka (for boys) and icibwanse (for girls) where skills like farming, craftsmanship, cooking, and cultural values were taught. Modern education continues this tradition and adds formal subjects. Education leads to national development, employment, and improved quality of life.",
+                    "vocabulary": [
+                        {"term": "insaka", "definition": "Traditional meeting place/school for men and boys"},
+                        {"term": "icibwanse", "definition": "Traditional gathering place/school for women and girls"},
+                        {"term": "cipelelo", "definition": "Attendance, presence"},
+                        {"term": "ubuyantanshi", "definition": "Progress, development, advancement"}
+                    ],
+                    "assessment": {
+                        "page": 32,
+                        "questions": [
+                            "Mulandunshi uukankala uo icipandwa cakwambavilelandapo?",
+                            "Amashiwi yakutila ukupenda intanda kwandwa yalola mukuti: A. Kuti waikatwa, B. Teti tukumemo ukulondolola fyonse, C. Tukaiteka no kusambilila, D. Tukasansamuka",
+                            "Londolola ubupusano bwaba pansaka elyo na ifibwanse.",
+                            "Londolola imilandu ibili ilumbwilwe mu mulandu ico ukusambilila kwawamina.",
+                            "Cinshi cingalenga ukuti icaalo naco citumpuluke ngacakuti abantu baciko nabasambilila?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "Ukusupawila Umulandu (Writing a Summary)",
+                    "page": 25,
+                    "competences": [
+                        "Ukusupawila imilandu iipi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 25,
+                            "hook": "Ukulanshanya pafikomo fyakwipifishamo umulandu mucipande",
+                            "teacher_steps": [
+                                "Biika abasambi mumabuumba",
+                                "Balanshanye pafikomo fyakwipifishamo umulandu mucipande",
+                                "Umwiminishi alondolole ifikomo filanshanishiwe"
+                            ],
+                            "learner_steps": [
+                                "Babiikwa mumabumba",
+                                "Balanshanye pafikomo fyakwipifishamo umulandu mucipande",
+                                "Umwiminishi alondolole ifikomo fifumine mumulandu"
+                            ],
+                            "short_notes": "Learners discuss the main points/key ideas from a passage and how to express them in a summary."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 26,
+                            "hook": "Ukufumya na ukuleemba ifikomo ifikankaala ukufuma mumulandu upeelwe",
+                            "teacher_steps": [
+                                "Eba cila musambi afumye ifikomo ifikankaala mumulandu upeelwe"
+                            ],
+                            "learner_steps": [
+                                "Cila musambi afumye ifikomo ifikankaala mumulandu upeelwe"
+                            ],
+                            "short_notes": "Learners identify and extract key ideas from a given passage."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 26,
+                            "hook": "Ukuleemba bwino umulandu upeelwe mucipande cimo",
+                            "teacher_steps": [
+                                "Eba cila musambi aleembe umulandu bwino mu cipande cimo"
+                            ],
+                            "learner_steps": [
+                                "Cila musambi aleembe umulandu mucipande cimo"
+                            ],
+                            "short_notes": "Learners write the summary of the given passage in one paragraph."
+                        }
+                    ],
+                    "short_notes": "Summary writing guidelines: Read and understand the passage; Write in short but complete sentences forming one paragraph; Identify key ideas clearly; Write only what is essential; Use clear and understandable language; Do not repeat the same ideas; Do not write only opinions without facts; Use synonyms where appropriate to avoid direct copying.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 32,
+                        "questions": [
+                            "Umulandu upeelwe wasupawilwa bwino mucipande cimo (The given passage was summarized correctly in one paragraph)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.4",
+                    "title": "Ukusobolola Icibemba - Ilandile na Landilwa (Grammar - Direct and Indirect Speech)",
+                    "page": 27,
+                    "competences": [
+                        "Ukubomfya ilandile (Use direct speech correctly)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 27,
+                            "hook": "Ukulanshanya pa bupilibulo na imibomfeshe ya ilandile",
+                            "teacher_steps": [
+                                "Biika abasambi mumabumba",
+                                "Eba abasambi balanshanye ubupilibulo na imibomfeshe ya ilandile",
+                                "Eba umwiminishi wa ibumba ukulondolola"
+                            ],
+                            "learner_steps": [
+                                "Babiikwa mumabumba",
+                                "Balanshanye ubupilibulo imibomfeshe ya ilandile",
+                                "Umwiminishi alondolole"
+                            ],
+                            "short_notes": "Learners discuss the uses and features of direct speech (ilandile) using examples."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 28,
+                            "hook": "Ukufwaya imiseela ya ilandile mumilandu ipeelwe",
+                            "teacher_steps": [
+                                "Biika abasambi mumabumba",
+                                "Eba abasambi babelenge na ukufwaya imiseela ya ilandile mumilandu ipeelwe"
+                            ],
+                            "learner_steps": [
+                                "Babiikwa mumabumba",
+                                "Bafwaye imiseela ya ilandile mumilandu"
+                            ],
+                            "short_notes": "Learners find sentences in direct speech from given passages."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 28,
+                            "hook": "Ukubiika amatoni mumiseela ya ilandile",
+                            "teacher_steps": [
+                                "Eba abasambi babiike amatoni mumiseela ya ilandile iili peesamba"
+                            ],
+                            "learner_steps": [
+                                "Babiike amatoni mu miseela ya ilandile"
+                            ],
+                            "short_notes": "Learners add correct punctuation marks to direct speech sentences."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 29,
+                            "hook": "Ukupanga bwino imiseela ya ilandile",
+                            "teacher_steps": [
+                                "Eba cila musambi apanga na ukuleemba imiseela ya ilandile"
+                            ],
+                            "learner_steps": [
+                                "Cila musambi apange na ukuleemba imiseela ya ilandile"
+                            ],
+                            "short_notes": "Learners compose their own sentences in direct speech."
+                        }
+                    ],
+                    "short_notes": "Ilandile (Direct Speech): Used to report exactly what someone said. It has two parts: Kalanda (the speaker reference) and ifilandilwe (the words spoken). Direct speech uses first-person pronouns like 'ine, ifwe'. It uses punctuation: inverted commas to open and close the quote, a comma before the quote, a capital letter after opening inverted commas, and a full stop before closing inverted commas. It is used in present tense.",
+                    "vocabulary": [
+                        {"term": "Ilandile", "definition": "Direct speech - reporting exactly what someone said, using quotation marks"},
+                        {"term": "Landilwa", "definition": "Indirect speech - reporting what someone said without quoting them directly"},
+                        {"term": "Amatoni", "definition": "Punctuation marks used in writing"},
+                        {"term": "Kalanda", "definition": "The speaker/narrator reference in direct speech construction"}
+                    ],
+                    "assessment": {
+                        "page": 32,
+                        "questions": [
+                            "Leemba bwino imiseela ipeelwe muli ilandile: 1. banakulu basosa ati baayakwifwe mukutapa ameenshi, 2. kwena nakutalala saana efyailishanya abaana, 3. loleleeni twalaya mukulima nga kabalika efyasosa baMulilo, 4. Katongo atiila ati ndeesamba, 5. Mulindwa aatile Sampa alitemwa ukulya cungamu"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.5",
+                    "title": "Amashiwi Yakwata Ubupilibulo Bwafisama - Amapinda (Figurative Language - Proverb Completions)",
+                    "page": 29,
+                    "competences": [
+                        "Ukubomfya amapinda (Use proverbs with two parts appropriately)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 29,
+                            "hook": "Ukulanshanya ubupilibulo na imibomfeshe ya amapinda",
+                            "teacher_steps": [
+                                "Biika basambi mumabumba",
+                                "Eba abasambi balanshanye ubupilibulo na imibomfeshe ya amapinda"
+                            ],
+                            "learner_steps": [
+                                "Babiikwa mumabumba",
+                                "Balanshanye ubupilibulo na imibomfeshe yamapinda"
+                            ],
+                            "short_notes": "Learners discuss the meaning and uses of amapinda (proverbs/idioms with two parts)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 30,
+                            "hook": "Ukubiika amapinda mumabumba ukukonka na ifyo yabomba",
+                            "teacher_steps": [
+                                "Biika abasambi mumabumba",
+                                "Eba abasambi babiike amapinda mumabumba ukukonka na ifyo yabomba"
+                            ],
+                            "learner_steps": [
+                                "Babiikwa mumabumba",
+                                "Babiike amapinda mumabumba"
+                            ],
+                            "short_notes": "Learners classify proverbs according to their functions/uses."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 30,
+                            "hook": "Ukufwaya na ukuleemba amapinda ayalungatene na ifilecitika",
+                            "teacher_steps": [
+                                "Eba cila musambi afwaye amapinda ayalungatene na ifilecitika"
+                            ],
+                            "learner_steps": [
+                                "Cila musambi afwaye amapinda ayalungatene na ifilecitika"
+                            ],
+                            "short_notes": "Learners find appropriate proverbs that match given situations."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 31,
+                            "hook": "Ukufwaya na ukuleemba ifilecitika umwingabomfiwa bwino amapinda",
+                            "teacher_steps": [
+                                "Eba abasambi bafwaye na ukuleemba ifilecitika umwingabomfiwa amapinda"
+                            ],
+                            "learner_steps": [
+                                "Bafwaye na ukuleemba ifilecitika umwingabomfiwa amapinda yafwailwe"
+                            ],
+                            "short_notes": "Learners identify situations where given proverbs would be appropriately used."
+                        }
+                    ],
+                    "short_notes": "Amapinda (Proverbs/Idioms with Two Parts) have two structural parts: ukutampa (beginning/setup) and ukupwishishisha (completion/response). They are used to: convey cultural wisdom, teach moral lessons, resolve disputes, preserve African traditions, entertain through songs and stories, and demonstrate inherited intelligence. Examples: Ukupoka icinsenda ku nkoko (taking a chick from a hen) - about difficulty; cinci wababili, tecinci uli weka (it concerns two, not one alone).",
+                    "vocabulary": [
+                        {"term": "Amapinda", "definition": "Two-part proverbs/idioms used to convey wisdom and cultural values in Icibemba"},
+                        {"term": "Ukutampa", "definition": "The first/opening part of a two-part proverb"},
+                        {"term": "Ukupwishishisha", "definition": "The completion/second part of a two-part proverb"}
+                    ],
+                    "assessment": {
+                        "page": 33,
+                        "questions": [
+                            "Pwishishisha amapinda yapeelwe: 1. Uwenda mumushitu, ……, 2. Uwakakaana ukwela, ……, 3. Akacila kambushi, ……, 4. Imiti ipalamene, ……, 5. Umuto walupwa tawitika, ……"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "Ukulanda Kucintubwingi (Public Speaking)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Ukumfwa na Ukulanda - Ukulanda Kucintubwingi (Public Speaking)",
+                    "page": 35,
+                    "competences": [
+                        "Ukulanda ilyashi kwi bumba pamutwe upeelwe"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 35,
+                            "hook": "Ukufwaya ifyebo fyakulanda mulyashi pamutwe upeelwe",
+                            "teacher_steps": [
+                                "Eba abasambi balanshanye mumabumba ubukankaala bwa kulanda kucintubwingi",
+                                "Eba abasambi basale kalemba webumba",
+                                "Eba bakalemba ukufuma mumabumba bemenine kuntanshi na ukulondolola ifyo balanshenye"
+                            ],
+                            "learner_steps": [
+                                "Babiikwa mumabumba",
+                                "Balanshanye ubukankala bwakulanda kucintubwingi",
+                                "Basale kalemba webumba",
+                                "Bakalemba mumabumba beminine kuntanshi na ukulondolola ifyo balanshenye"
+                            ],
+                            "short_notes": "Learners brainstorm key points for a speech on an assigned topic, discussing the importance and value of public speaking."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 36,
+                            "hook": "Ukulanda ilyashi kwibumba pamutwe upeelwe",
+                            "teacher_steps": [
+                                "Lemba pacipampa amafunde yakukonka pakulanda kucintu bwingi",
+                                "Eba abasambi balembe pafyo ayaamafunde yenga bafwa ukulanda bwino kucintubwingi",
+                                "Eba abasambi basale uwakulanda ilyashi pali bamineti basaano"
+                            ],
+                            "learner_steps": [
+                                "Bomfwe amafunde yakukonka pakulanda kucintubwingi",
+                                "Balembe ifyo amafunde yenga baafwa ukulanda bwino mumabumba",
+                                "Abasambi basale uwakulanda ilyashi pebumba, becila pali bamineti basaano"
+                            ],
+                            "short_notes": "Learners prepare and deliver a 5-minute group speech on an assigned topic following public speaking guidelines."
+                        }
+                    ],
+                    "short_notes": "Public speaking (ukulanda kucintubwingi) guidelines: Know your audience; Know your topic well; Make your audience follow along (ask questions, use examples); Speak clearly and confidently; Rehearse your points; Discuss how to find content for the speech; Deliver the speech within a time limit (5 minutes). Key skills: preparation, organization of ideas, confidence, clarity, and audience engagement.",
+                    "vocabulary": [
+                        {"term": "Icintu-bwingi", "definition": "A large group/audience; public speaking context"},
+                        {"term": "Ukulanda ilyashi", "definition": "Giving a speech/presentation"},
+                        {"term": "Ukoolomoka", "definition": "Being embarrassed, shy, or feeling ashamed"},
+                        {"term": "Impango", "definition": "Bride price (cultural practice discussed in reading passage)"},
+                        {"term": "Umwata", "definition": "A certain type of cultural practice/bride price token"}
+                    ],
+                    "assessment": {
+                        "page": 53,
+                        "questions": [
+                            "Ifyebo fyakubomfya mulyashi pamutwe upeelwe fya fwaiwa bwino bwino (Key points for the speech on assigned topic found correctly)",
+                            "Ukulanda ilyashi kwibumba pamutwe uupelwe bwino (Group speech delivered correctly on the assigned topic)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "Ukubelenga na Ukumfwikisha - Ukucindika Imitundu Imbi (Reading - Respecting Other Ethnic Groups)",
+                    "page": 37,
+                    "competences": [
+                        "Ukubelenga imilandu iyapusana-pusana iilingile ba Form 1"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 39,
+                            "hook": "Ukubelenga ilyashi",
+                            "teacher_steps": [
+                                "Peela abasambi icitabo umuli ilyashi lyakubelenga",
+                                "Sonta abasambi bamo-bamo abalabelenga ilyashi mukwikatisha",
+                                "Eba abasambi babelenge umulandu cila umo na umo mumutalalila"
+                            ],
+                            "learner_steps": [
+                                "Bapoke ifitabo kuli kafundisha",
+                                "Bamo babelenge umulandu mukwikatisha",
+                                "Baibelengele umulandu cila umo na umo mumutalalila"
+                            ],
+                            "short_notes": "Learners read the speech 'Ukulanda pa Kuilama' (Speaking about Self-Discipline) and answer comprehension questions."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 41,
+                            "hook": "Ukwasuka ameepusho ayalekana-lekana",
+                            "teacher_steps": [
+                                "Eba abasambi baasuke ameepusho yapeelwe",
+                                "Eba abasambi balete ifitabo mukucongesha",
+                                "Pituluka pamo na abasambi mumaasuko yameepusho yacipeelwa"
+                            ],
+                            "learner_steps": [
+                                "Baasuke ameepusho yapeelwe",
+                                "Batwaale ifitabo kuli kafundisha",
+                                "Bapituluke pamo nakafundisha mumaasuko"
+                            ],
+                            "short_notes": "Learners answer comprehension questions about the speech on self-discipline."
+                        }
+                    ],
+                    "short_notes": "The reading passage 'Ukulanda pa Kuilama' discusses self-discipline. Self-discipline (ukuilama) involves: resisting what is wrong, making good decisions, not settling for comfort, and pursuing goals even through challenges. Key strategies: setting achievable goals, establishing a routine, avoiding distractions, seeking support from trusted people, and viewing challenges as opportunities. Additionally, the topic 'Ukucindika Imitundu Imbi' discusses how Zambia's diversity of languages and cultures is a strength, and how each ethnic group has its own foods, customs, and practices that should be respected.",
+                    "vocabulary": [
+                        {"term": "Ukuilama", "definition": "Self-discipline - the ability to control one's behavior and resist temptation"},
+                        {"term": "ukupumfyanya", "definition": "To act on impulse, to rush into things without thinking"},
+                        {"term": "intampulo", "definition": "Strategies, steps, methods to achieve a goal"},
+                        {"term": "Ukuiikala", "definition": "Cultural practices, way of life"},
+                        {"term": "Imitundu", "definition": "Ethnic groups, tribes, clans"}
+                    ],
+                    "assessment": {
+                        "page": 53,
+                        "questions": [
+                            "Cinshi ili lyashi lileelandapo? a) Ubucindami bwa isukulu, b) Ifyakucimfya amafya mubuumi, c) Umulimo ukuilama kwakwata mubuumi, d) Ubunonshi bwakubombela pamo",
+                            "Ukulingana na ilyashi, cinshi cipusanya abo abakwanisha mumikalile yabo nabalya abatontonkanyafye ukuti bakakwanisha?",
+                            "Bunonshinshi bumo ubulumbwilwe mulyashi ubwakuilama?",
+                            "Ninshilanshi imo igalenga wafilwa ukuilama? a) Ukusuminafye fyonse, b) Ukutantika inshita yafyo uli na ukubomba, c) Ukukanakwata amafya ayali yonse, d) Ukwimika ubuyo",
+                            "Cinshi cinga bomba nga ubulalo bwakukufumya apo uli pali ndakai na ukukwabushisha kwishilya kunshiku shileeisa?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.3",
+                    "title": "Ukulemba Ilyashi Lyakulondolola Inama (Descriptive Writing - Describing an Animal)",
+                    "page": 43,
+                    "competences": [
+                        "Ilyashi lyakulondolola inama (Write a composition describing an animal)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 44,
+                            "hook": "Ukulanshanya ifyo imilembele yabulondoloshi yakwata",
+                            "teacher_steps": [
+                                "Biika abasambi mumabumba balanshanye ifisangwa mumilembele yabulondoloshi",
+                                "Eba abasambi basale kalemba uulepeela ubulondoloshi kuntanshi"
+                            ],
+                            "learner_steps": [
+                                "Babe mumabumba na ukusala kalemba",
+                                "Balanshanye ifisangwa mumilembele yabulondoloshi"
+                            ],
+                            "short_notes": "Learners discuss the features of descriptive writing."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 45,
+                            "hook": "Ukulemba ubulondoloshi bwa finama",
+                            "teacher_steps": [
+                                "Lanshanyeni ifileekabilwa ukusanshiwamo mukulemba ubulondoloshi bwafinama",
+                                "Eba abasambi balembe ilyashi lya kulondolola inama ukulingana na ilipusho lipeelwe"
+                            ],
+                            "learner_steps": [
+                                "Balanshanye na bakafundisha ifileekabilwa pakulemba ubulondoloshi bwafinama",
+                                "Balembe mufitabo umo-umo ilyashi lyakulondolola inama ukulingana na ilipusho bapeelwe"
+                            ],
+                            "short_notes": "Learners write a descriptive composition about an animal following descriptive writing conventions."
+                        }
+                    ],
+                    "short_notes": "Descriptive writing (ubulondoloshi) uses the senses (sight, smell, touch, sound) to paint a vivid picture. Techniques: Use vivid adjectives (batungi-weshina) and adverbs (batungi-wakacita); show rather than tell (e.g., don't just say 'alitiina' - describe trembling hands and pounding heart); create a picture in the reader's mind so they feel they are there. Use proverbs and figurative language to enrich descriptions.",
+                    "vocabulary": [
+                        {"term": "Ubulondoloshi", "definition": "Description - writing that uses sensory details to paint a picture"},
+                        {"term": "Umweo", "definition": "Life, vitality - giving life to a description"},
+                        {"term": "Tungi-wakacita", "definition": "Adverbs - words that describe how actions are performed"},
+                        {"term": "Tungi-weshina", "definition": "Adjectives - words that describe nouns"},
+                        {"term": "Ukusonda", "definition": "To touch/feel - tactile sense used in descriptive writing"}
+                    ],
+                    "assessment": {
+                        "page": 53,
+                        "questions": [
+                            "Kafundisha apeele abasambi ukulemba ubulondoshi bwa finama ifyo baishiba."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.4",
+                    "title": "Ukusobolola Icibemba - Landilwa (Grammar - Indirect Speech)",
+                    "page": 45,
+                    "competences": [
+                        "Ukupanga imiseela muli landilwa (Construct sentences in indirect speech)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 46,
+                            "hook": "Ukufwaya imiseela muli landilwa",
+                            "teacher_steps": [
+                                "Lemba imiseela pa cipampa",
+                                "Biika abasambi mumabumba na ukubeeba balembe imiseela ili pacipampa elyo basale iili muli landilwa",
+                                "Eba bakalemba wamabumba beminine kuntanshi na ukupeela imiseela ili muli landilwa"
+                            ],
+                            "learner_steps": [
+                                "Babe mumabumba na ukusala bakaleemba",
+                                "Bakopolole imiseela ili pa cipampa",
+                                "Bakalemba wamabumba beminine kuntanshi na ukupeela imiseela ili muli Landilwa"
+                            ],
+                            "short_notes": "Learners identify and extract indirect speech sentences from given examples."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 47,
+                            "hook": "Ukubika amatoni ayalingile mumiseela ili muli landilwa",
+                            "teacher_steps": [
+                                "Eba abasambi balembe imiseela ine muli Landilwa na ukubomfya amatoni ayalinga"
+                            ],
+                            "learner_steps": [
+                                "Balembe imiseela ine muli Landilwa ukubomfya amatoni ayalinga"
+                            ],
+                            "short_notes": "Learners use correct punctuation in indirect speech."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 47,
+                            "hook": "Ukupanga imiseela muli Landilwa",
+                            "teacher_steps": [
+                                "Eba abasambi balembe imiseela isaano muli Landilwa"
+                            ],
+                            "learner_steps": [
+                                "Balembe imiseela isaano muli Landilwa"
+                            ],
+                            "short_notes": "Learners write five original sentences in indirect speech."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 47,
+                            "hook": "Twaleeni imiseela ili muli Landilwa muli Ilandile kabili twaleeni imiseela ili muli Ilandile muli Landilwa",
+                            "teacher_steps": [
+                                "Eba abasambi balembe imiseela itatu muli Landilwa elyo baitwale muli Ilandile",
+                                "Eba abasambi balembe imiseela ibili muli Ilandile elyo baitwale muli Landilwa"
+                            ],
+                            "learner_steps": [
+                                "Balembe imiseela itatu muli Landilwa elyo baitwale muli Ilandile",
+                                "Balembe imiseela ibili muli Ilandile elyo baitwale muli Landilwa"
+                            ],
+                            "short_notes": "Learners convert between direct and indirect speech."
+                        }
+                    ],
+                    "short_notes": "Landilwa (Indirect Speech): Used to report what someone said without quoting directly; no inverted commas used; pronoun changes occur (na → a, wa → a); verb tense changes to show the speech occurred in the past. Example: Ilandile: Besa atile, 'Naalitemwa ukulya imyembe.' → Landilwa: Besa atiile aalitemwa ukulya imyembe.",
+                    "vocabulary": [
+                        {"term": "Landilwa", "definition": "Indirect speech - reporting what someone said without using their exact words or quotation marks"},
+                        {"term": "Ilandile", "definition": "Direct speech - quoting someone's exact words using inverted commas"}
+                    ],
+                    "assessment": {
+                        "page": 53,
+                        "questions": [
+                            "Kafundisha apeele abasambi imiseela muli landilwa batwale muli ilandile."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "Ukupaashanya (Debating)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Ukumfwa na Ukulanda - Ukupaashanya (Listening and Speaking - Debating)",
+                    "page": 54,
+                    "competences": [
+                        "Bapaashanye pamutwe uuli onse uwingapeelwa (Debate on any given topic)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 54,
+                            "hook": "Ukupaashanya pa milandu iibalingile iyakuma ubwikashi bwa bantu",
+                            "teacher_steps": [
+                                "Ipusha abasambi ubupilibulo bweshiwi 'ukupaashanya'",
+                                "Ipusha abasambi balondolole intampulo shikonkwa pakupaashanya",
+                                "Lundapo ubulondoloshi pamulandu wakupaashanya",
+                                "Biika abasambi mumabumba babe basaano-basaano",
+                                "Peela abasambi imitwe yakupaashanyapo",
+                                "Peela abasambi akashita kakuya mukufwailisha ifishinka",
+                                "Eba amabumba yalekaana na ukusumina kumitwe yalekana-lekana bapeelwe akashita kakupaashanya kuntanshi"
+                            ],
+                            "learner_steps": [
+                                "Balondolole ubupilibulo bweshiwi 'ukupaashanya'",
+                                "Balondolole intampulo shikonkwa pakupaashnaya",
+                                "Babe basaano-basaano mumabumba",
+                                "Balembe mufitabo imitwe yakulanshanyapo",
+                                "Bafwailishe ifishinka pamitwe ipeelwe iyakupaashanyapo",
+                                "Mumabumba ayalekaana na ukusumina batapaashanye pamitwe bapeelwe"
+                            ],
+                            "short_notes": "Learners prepare and conduct a formal debate on topics related to social issues. One team argues for the motion, the other argues against. Teams research their arguments and take turns presenting."
+                        }
+                    ],
+                    "short_notes": "Ukupaashanya (Debate): A formal discussion where two sides argue for or against a motion. Key features: There is a topic/motion (umutwe); one side argues for (ukusuminisha), the other argues against (ukukaanya); each side must present evidence and logical arguments. Debate procedures include: opening statements, rebuttals, and closing arguments.",
+                    "vocabulary": [
+                        {"term": "Ukupaashanya", "definition": "Debating - a formal structured argument on a given topic with two opposing sides"},
+                        {"term": "Ukusuminisha", "definition": "Proposing/arguing for a motion"},
+                        {"term": "Ubunkolanya", "definition": "Opposition - arguing against a motion"},
+                        {"term": "Umutwe", "definition": "The debate topic/motion"}
+                    ],
+                    "assessment": {
+                        "page": 74,
+                        "questions": [
+                            "imilandu iibalingile iyakuma ku bwikashi bwabantu yapaashanishipo bwino (Social issues debated correctly)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.2",
+                    "title": "Ukubelenga na Ukumfwikisha - HIV na AIDS (Reading Comprehension - HIV and AIDS)",
+                    "page": 55,
+                    "competences": [
+                        "Ukubelenga imilandu iilingile ba Fomu 1 iyapusana-pusana"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 57,
+                            "hook": "Ukubelenga ilyashi lyaumulandu wa Mwansa na HIV na AIDS",
+                            "teacher_steps": [
+                                "Peela abasambi ifitabo umuli ilyashi lyakubelenga",
+                                "Sonta abasambi bamo-bamo abalabelenga ilyashi mukwikatisha",
+                                "Eba abasambi babelenge umulandu cila umo na umo mumutima",
+                                "Afwilisha abasambi mumibelengele isuma"
+                            ],
+                            "learner_steps": [
+                                "Bapoke ifitabo kuli kafundisha",
+                                "Bamo babelenge umulandu mukwikatisha",
+                                "Baibelengele umulandu cila umo na umo mu mutima"
+                            ],
+                            "short_notes": "Learners read about Mwansa's journey of learning about HIV/AIDS and how she became an advocate for health awareness in her community."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 59,
+                            "hook": "Ukwasuka ameepusho ayalekana-lekana",
+                            "teacher_steps": [
+                                "Eba abasambi baasuke ameepusho yakusalapo mukulondolafye pakanwa",
+                                "Eba abasambi balondolole eco bapeelela ubo bwasuko",
+                                "Eba abasambi balembe ameepusho ayashele mufitabo fyabo"
+                            ],
+                            "learner_steps": [
+                                "Baasuke ameepusho yakusalapo mukulondololafye pakanwa",
+                                "Balondolole eco bapeelela ubo ubwasuko",
+                                "Batwaale ifitabo kuli kafundisha mukucongesha"
+                            ],
+                            "short_notes": "Learners answer varied comprehension questions about the HIV/AIDS passage."
+                        }
+                    ],
+                    "short_notes": "The passage about HIV/AIDS covers: HIV (akashishi ka HIV) weakens the immune system; HIV can be transmitted through unprotected intercourse, sharing needles, and mother-to-child transmission during breastfeeding; People with HIV can live long healthy lives if they know their status early and take medication; Stigma prevents people from getting tested; The importance of advocating for HIV awareness and testing in communities.",
+                    "vocabulary": [
+                        {"term": "Ukwiluka", "definition": "Being afraid, fear"},
+                        {"term": "HIV/AIDS", "definition": "Human Immunodeficiency Virus/Acquired Immunodeficiency Syndrome - a disease that weakens the immune system"},
+                        {"term": "Ukutotosha", "definition": "To mock, stigmatize, or discriminate against someone"},
+                        {"term": "Ukukabila", "definition": "To encourage, motivate, advocate"}
+                    ],
+                    "assessment": {
+                        "page": 74,
+                        "questions": [
+                            "Bushe bukankala shi ubulimi bwakwata mu caalo?",
+                            "Mulandu nshi amataba yaabeela icilimwa icacindama mu Zambia?",
+                            "Elenganya mu caalo mwapona icilala, bushe ubuteeko kuti bwayafwilisha shani abalimi ukubomfya ubutantiko ya FISP?",
+                            "Lemba amaafya yabili ayalumbwilwe mu mulandu ayo abalimi banoono bashingwana nayo.",
+                            "Bushe ubulimi bwa fisabo fimbi ukucila pamataba, bukankalanshi bwakwata mukulundulula ubukumu bwa caalo?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.3",
+                    "title": "Ukulemba Ilyashi Lyakupaashanya (Writing an Argumentative Essay)",
+                    "page": 63,
+                    "competences": [
+                        "Ukulemba ilyashi lyakupaashanya"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 64,
+                            "hook": "Ukulanshanya pamilembele na ifikomo fisangwa mulyashi lyakupaashanya",
+                            "teacher_steps": [
+                                "Lemba ilipusho pa cipampa",
+                                "Eba abasambi ukukopolola ilipusho mufitabo fyabo",
+                                "Biika abasambi mumabumba",
+                                "Eba abasambi mumabumba yabo basale bakalemba",
+                                "Eba abasambi balanshanye palipusho lipeelwe",
+                                "Lundapo pabulondoloshi bupeelwe"
+                            ],
+                            "learner_steps": [
+                                "Bakopolole ilipusho mufitabo fyabo",
+                                "Babe mumabumba",
+                                "Basale kalemba pali cilaibumba",
+                                "Bapeele ubulondoloshi pafyo bacilanshanya",
+                                "Balembe mufitabo fyabo ubulondoloshi ubupeelwe"
+                            ],
+                            "short_notes": "Learners discuss and identify features and structure of an argumentative essay."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 65,
+                            "hook": "ukulemba ilyashi lyakupaashanya",
+                            "teacher_steps": [
+                                "Lemba ilipusho pacipampa",
+                                "Eba basambi bakopolole ilipusho lili pacipampa mufitabo fyabo",
+                                "Londolola ifilekabilwa abasambi ukukonka mulipusho",
+                                "Conga ifitabo fyabasambi"
+                            ],
+                            "learner_steps": [
+                                "Bakopolole ilipusho mufitabo fyabo",
+                                "Baasuke nga cakuti nabomfwikisha ifilekabilwa ukukonkwa mulipusho",
+                                "Batwale ifitabo fyabo mukucongesha"
+                            ],
+                            "short_notes": "Learners write a complete argumentative essay on an assigned topic."
+                        }
+                    ],
+                    "short_notes": "Argumentative essay (ilyashi lyakupaashanya) structure: 1. Ukutendeka (Introduction) - state the topic briefly, show your side, give a preview of key points. 2. Ilyashi mukushika (Body - 3 or 4 paragraphs) - each point has its own paragraph; provide supporting evidence; explain how evidence supports your argument. 3. Ukusondwelela (Conclusion) - briefly restate your position; summarize key arguments; give your final recommendation or call to action. Use persuasive language and respectful tone. Use connectives: eico, kanshi, lubali lumbi, nangu cibe ifyo, mukulundapo.",
+                    "vocabulary": [
+                        {"term": "Ukupaashanya", "definition": "Debate/argumentation"},
+                        {"term": "Ukusonsomba", "definition": "To convince/persuade the audience"},
+                        {"term": "Ukusondwelela", "definition": "Conclusion of an essay or speech"}
+                    ],
+                    "assessment": {
+                        "page": 74,
+                        "questions": [
+                            "Peela abasambi ukulemba ilyashi ili pakupaashanya (Write an argumentative essay)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.4",
+                    "title": "Ukusobolola Icibemba - Amashiwi Yalanga Ukucitika na Ukucitwa (Grammar - Active and Passive Voice)",
+                    "page": 65,
+                    "competences": [
+                        "ukubomfya amashiwi yalanga ukucitika na ukucitwa kwa fintu (Use active and passive voice)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 66,
+                            "hook": "Ukulondolola ubupilibulo na umulimo wamashiwi yalanga ukucitika kwacintu na ukucitwa kwa cintu",
+                            "teacher_steps": [
+                                "Eba abasambi umo umo balelondolola pakanwa ubupilibulo na umulimo ubomba amashiwi yalanga ukucitika na ukucitwa kwa cintu",
+                                "Lundapo pabulondoloshi abasambi balepeela pakuti bomfwikishe",
+                                "Eba abasambi beepushe ameepusho apo bashumfwikishe"
+                            ],
+                            "learner_steps": [
+                                "Balondolole umo-umo pakanwa ubupilibulo na umulimo wamashiwi yalanga ukucitika na ukucitwa kwafintu",
+                                "Baleelemba mufitabo fyabo ubulondoloshi baleumfwa kuli kafundisha",
+                                "Beepushe ameepusho apo tabomfwikishe"
+                            ],
+                            "short_notes": "Teacher explains active and passive voice; learners discuss and note the differences."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 67,
+                            "hook": "Ukupusanya amashiwi yalanga ukucitika kwa fintu elyo na amashiwi yalanga ukucitwa kwafintu",
+                            "teacher_steps": [
+                                "Biika abasambi mumabumba",
+                                "Eba abasambi ukuti, cilaibumba balanshanye pabupusano bwaba pamashiwi yalanga ukucitika kwa fintu elyo na ukucitwa kwafintu"
+                            ],
+                            "learner_steps": [
+                                "Babe mumabumba",
+                                "Balanshanye pabupusano bwaba pamashiwi yalanga ukucitika kwa fintu elyo na ukucitwa kwafintu"
+                            ],
+                            "short_notes": "Learners compare and contrast active and passive voice."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 68,
+                            "hook": "Ukusanga amashiwi yalanga ifyo icintu cilecitika elyo na amashiwi yalanga ifyo icintu cicitilwe",
+                            "teacher_steps": [
+                                "Peela abasambi ilyashi umuli amashiwi yalanga ifyo ifintu filecitika elyo na ayalanga ifyo ifintu filecitwa",
+                                "Eba cila musambi ukufwaya amashiwi ukufuma mulyashi"
+                            ],
+                            "learner_steps": [
+                                "Bapoke ifitabo ifikwete ilyashi lilekabilwa ukubelenga",
+                                "Babelenge ilyashi umuli amashiwi yalekabilwa ukusanga",
+                                "Batantike bwino mu fitabo fyabo amashiwi ayalekabilwa"
+                            ],
+                            "short_notes": "Learners identify and classify active and passive voice words in a given passage."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 68,
+                            "hook": "Ukupanga imiseela ukubomfya amashiwi yalanga ukucitika kwacintu elyo na ayalanga ifyo icintu cicitilwe",
+                            "teacher_steps": [
+                                "Eba abasambi balembe mufitabo fyabo imiseela isaano iyalaba mumashiwi yalanga ukucitika kwacintu elyo na ayalanga ifyo icintu cilecitwa"
+                            ],
+                            "learner_steps": [
+                                "Balembe imiseela isaano isaano mufitabo fyamo ukubomfya amashiwi ayalanga ukucitika kwafintu elyo na ayalanga ifyo icintu cicitilwe"
+                            ],
+                            "short_notes": "Learners write sentences in both active and passive voice."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 69,
+                            "hook": "ukucinja imiseela ukufuma mumashiwi yalanga ukucitika kwafintu ukutwala mumashiwi yalanga ifyo icintu cicitilwe",
+                            "teacher_steps": [
+                                "Lemba umuseela wafyakucita pacipampa",
+                                "Londolwela bwino abasambi pafilekabilwa ukubombelwapo",
+                                "Eba abasambi nomba bacinje mufitabo fyabo imiseela iilekabilwa ukucinja"
+                            ],
+                            "learner_steps": [
+                                "Bakopolole mufitabo fyabo ilipusho",
+                                "Balondolole pakanwa ifilekabilwa ukucita mulipusho",
+                                "Bacinje imiseela ipeelwe ukulingana na ilipusho"
+                            ],
+                            "short_notes": "Learners convert sentences from active to passive voice and vice versa."
+                        }
+                    ],
+                    "short_notes": "Active Voice (Amashiwi yalanga ukucitika kwafintu): The subject performs the action. Example: Mutale aletema icimuti (Mutale is cutting a tree). Passive Voice (Amashiwi yalanga ukucitwa kwafintu): The action is performed on the subject. Example: Icimuti ciletemwa na Mutale (The tree is being cut by Mutale). In Icibemba, passive verbs are formed by adding 'wa/ilwa/ulwa' to the verb root. Active voice examples: lemba, leeta, fuluka; Passive voice: lembwa, letwa, fulukwa.",
+                    "vocabulary": [
+                        {"term": "Amashiwi yalanga ukucitika kwafintu", "definition": "Active voice - verbs showing the subject performing the action (e.g., lemba, leeta, seka)"},
+                        {"term": "Amashiwi yalanga ukucitwa kwafintu", "definition": "Passive voice - verbs showing action done to the subject (e.g., lembwa, letwa, sekwa)"}
+                    ],
+                    "assessment": {
+                        "page": 74,
+                        "questions": [
+                            "Eba abasambi bacinje imiseela ili peesamba ukufuma mumashiwi yalanga ukucitika kwacintu, ukutwala mumashiwi yalanga ifyo icintu cacitwa: 1. Ba Mulilo balekokota amafupa yankoko, 2. Mukonde aaleta isaka lyabunga, 3. Kangwa aapanta umupila, 4. Chisala aalefunda abasambi, 5. Mweshi aalecapa ifyakufwala"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "Inyimbo (Songs)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "5.1",
+                    "title": "Ukumfwa na Ukulanda - Inyimbo Shapali Ndakai (Contemporary Music)",
+                    "page": 75,
+                    "competences": [
+                        "Balondolole ubukankala bwa nyimbo shacikaaya pamofye na ishapali ndakai (Explain the importance of traditional and contemporary songs)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 76,
+                            "hook": "Ukulanshanya na ukulondolola ubukankala bwa nyimbo shapali ndakai",
+                            "teacher_steps": [
+                                "Biika abasambi mumabumba",
+                                "Eba abasambi balanshanye ubukankala bwa nyimbo shapali ndaki",
+                                "Eba abasambi basale kaleemba webumba",
+                                "Eba bakaleemba ukufuma mumabumba bemenine kuntanshi na ukulondolola ifyo balanshenye"
+                            ],
+                            "learner_steps": [
+                                "Babe mumabumba",
+                                "Balanshanye ubukankala bwanyimbo",
+                                "Basale kaleemba webumba",
+                                "Bakalemba mumabumba beminine kuntanshi na ukulondolola ifyo balanshenye"
+                            ],
+                            "short_notes": "Learners discuss and present the importance of contemporary songs."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 76,
+                            "hook": "Ukupelulula amafundisho yali mu nyimbo shapali ndaki",
+                            "teacher_steps": [
+                                "Tambisha abasambi ubunkolanya panyimbo shapali ndakai nangu ukubofwiisha icilimba",
+                                "Eba abasambi balembe amafunde yali munyimbo bomfwile na ubunkolanya batambile",
+                                "Conga ifitabo fyabasambi",
+                                "Eba abasambi balande amaasuko baacilemba mufitabo"
+                            ],
+                            "learner_steps": [
+                                "Batambe/bomfwe inyimbo shapali ndakai",
+                                "Balembe amafunde yali munyimbo batambile/bomfwile",
+                                "Batwale ifitabo kuli kafundisha mukucongesha",
+                                "Balondolole na ukulanshanya pakanwa pamo na kafundisha"
+                            ],
+                            "short_notes": "Learners listen to or sing contemporary songs, identify and discuss the moral lessons contained in them."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 76,
+                            "hook": "Ukwimba inyimbo shapali ndakai",
+                            "teacher_steps": [
+                                "Biika abasambi mumabumba",
+                                "Suminisha abasambi bafume panse na ukupituluka munyimbo shapali ndakai",
+                                "Eba abasambi bembe inyimbo shapali ndakai mumabumba",
+                                "Eba abasambi balondolole ifunde lili mulwimbo baimba"
+                            ],
+                            "learner_steps": [
+                                "Babe mumabumba",
+                                "Bapituluke munyimbo shapali ndakai",
+                                "Bembe inyimbo shapali ndakai",
+                                "Balondolole ifunde mulwimbo baimba"
+                            ],
+                            "short_notes": "Learners perform contemporary songs in groups and identify the moral lessons."
+                        }
+                    ],
+                    "short_notes": "Contemporary Zambian music (inyimbo shapali ndakai) is modern music enjoyed today. It mixes traditional Zambian sounds with new styles like hip hop, R&B, and Afrobeat. Popular artists include Yo Maps, Macky 2, and Slapdee. Many sing in local languages like Icibemba and Nyanja. Some artists also sing gospel music. With phones and the internet, Zambian music is now heard worldwide. Music serves important social functions: entertainment, cultural preservation, education, and economic opportunity.",
+                    "vocabulary": [
+                        {"term": "Inyimbo shandakai", "definition": "Contemporary/modern songs of today"},
+                        {"term": "Inyimbo shacikaaya", "definition": "Traditional/old songs from the past"},
+                        {"term": "Ubukumu", "definition": "Income, earnings, economic benefit"},
+                        {"term": "Imikowa", "definition": "Cultural practices, traditions of various ethnic groups"},
+                        {"term": "Ndakai", "definition": "Today, the present time, contemporary"}
+                    ],
+                    "assessment": {
+                        "page": 93,
+                        "questions": [
+                            "Lumbula ubukankala bwaba mukwimba inyimbo shapali ndakai.",
+                            "Cinshi caalengele abakashana ukwaluka amatontonkanyo yabo palwakwimba?",
+                            "Fisambililonshi abakashana balumbwilwe mumulandu baalesambilila?",
+                            "Londolola amashiwi yali peesamba ukulingana na ifyo yabomfeshiwe mumulandu: (i) Ifyamabwenge, (ii) Ukusowesha, (iii) Ukusongwa"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "5.2",
+                    "title": "Ukulemba Ilyashi Lyakulondolola Umuntu/Icintu (Descriptive Writing - Describing a Person/Thing)",
+                    "page": 83,
+                    "competences": [
+                        "Ukulemba ilyashi lyakulondolola umuntu/icintu (Descriptive Writing)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 84,
+                            "hook": "Ukulanshanya pafikomo ifikankala ifyakukonka pakulemba ilyashi lyakulondolola umuntu",
+                            "teacher_steps": [
+                                "Biika abasambi mumabumba balanshanye ifyo ilyashi lyakulondolola umuntu lilembwa",
+                                "Eba abasambi basale kaleemba uulepeela ubulondoloshi kuntanshi",
+                                "Eba bakaleemba wamabumba beese kuntashi na ukulondolola ifyo bacilanshanya",
+                                "Lundapo pabulondoloshai abasambi bapeele"
+                            ],
+                            "learner_steps": [
+                                "Babe mumabumba na ukusala kalemba",
+                                "Balanshanye ifisangwa mulyashi lyakulondolola umuntu",
+                                "Baakalemba baye kuntanshi na ukulondolola ifyo bacilanshanya"
+                            ],
+                            "short_notes": "Learners discuss and identify key features of descriptive writing about a person."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 85,
+                            "hook": "Ukuleemba ilyashi lyakulondolola umuntu",
+                            "teacher_steps": [
+                                "Eba abasambi baleembe ilyashi umo balalondolola umuntu",
+                                "Eba abasambi baleete ifitabo mukucongesha"
+                            ],
+                            "learner_steps": [
+                                "Baleembe ilyashi ukulingana na ilipusho lipeelwe",
+                                "Batwaale ifitabo mukucongesha"
+                            ],
+                            "short_notes": "Learners write their own descriptive composition about a person."
+                        }
+                    ],
+                    "short_notes": "A descriptive composition of a person/thing (ilyashi lyakulondolola umuntu nangu icintu) presents vivid description to bring the subject to life for the reader. Key features: Use vivid adjectives and adverbs; Focus only on what is important, not everything; Use comparisons to help describe; Read model descriptions to learn from other writers; Pay attention to appearance, character, behavior, and activities. Use appropriate punctuation. The composition must have: introduction, body, and conclusion.",
+                    "vocabulary": [
+                        {"term": "Impomfu", "definition": "Vivid/colorful descriptive language that creates a clear picture"},
+                        {"term": "Ilyashi lyakulondolola umuntu/icintu", "definition": "Descriptive composition about a person or thing"}
+                    ],
+                    "assessment": {
+                        "page": 92,
+                        "questions": [
+                            "Ukulemba ilyashi lyakulondolola umuntu bwino (Write a descriptive composition about a person correctly)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "5.3",
+                    "title": "Ukusobolola Icibemba - Ifiunda (Grammar - Interjections)",
+                    "page": 85,
+                    "competences": [
+                        "Ukubombfya imisango yafiunda iyapusana-pusana mumiseela (Use different types of interjections in sentences)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 86,
+                            "hook": "Ukulondolola ubupilibulo bwa fiunda",
+                            "teacher_steps": [
+                                "Biika abasambi mumabumba",
+                                "Lemba ilipusho pacipampa ililekabila abasambi ukulondolola ubupilibulo bwafiunda",
+                                "Eba abasambi basale kalemba pali cila ibumba",
+                                "Eba abasambi balanshanye ubupilibulo bwafiunda"
+                            ],
+                            "learner_steps": [
+                                "Babe mumabumba",
+                                "Bakopolole ilipusho lili pacipampa",
+                                "Basale kalemba wa ibumba",
+                                "Balanshanye ubupilibulo bwamashiwi ya fiunda"
+                            ],
+                            "short_notes": "Learners discuss the meaning and uses of interjections (ifiunda)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 87,
+                            "hook": "Ukufwaya ifiunda ukulingana na ilangi elyo na imibeele",
+                            "teacher_steps": [
+                                "Lemba ilipusho pacipampa ililekabila abasambi ukupeela amashiwi yafiunda ayalanda pamalangi elyo na ayalanda pamibeele"
+                            ],
+                            "learner_steps": [
+                                "Bakopolole ameepusho yali pacipampa mufitabo fyabo",
+                                "Batwale ifitabo fyabo mukucongesha"
+                            ],
+                            "short_notes": "Learners find interjections related to colors and properties/qualities."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 87,
+                            "hook": "ukupanga imiseela ukubomfya imisango ya fiunda iyapusana-pusana",
+                            "teacher_steps": [
+                                "Lemba ifiunda fyamashiwi pacipampa ifyalekana-lekana",
+                                "Eba abasambi balembe imiseela isaano-isano ukubomfya ifiunda ifili pacipampa"
+                            ],
+                            "learner_steps": [
+                                "Bakopolole ilipusho mufitabo fyabo",
+                                "Balembe imiseela isaano mufitabo fyabo"
+                            ],
+                            "short_notes": "Learners compose sentences using given interjections."
+                        }
+                    ],
+                    "short_notes": "Ifiunda (Interjections): Word parts (morphemes) added to verbs or adjectives that intensify their meaning. In Icibemba, interjections are suffixes from verb or adjective roots. They express sensory qualities (color, texture, sound, etc.). Example: icela cakashika cee! (A very white shell!). Interjections are written with an exclamation mark [!]. Categories: colors (Ukufiita - blackness, Ukukashika - whiteness, Ukubuuta - brownness) and properties (Ukukosa - hardness, Ukuuma - heaviness, Ukulula - lightness, Ukununka - smell, Ukwiminina - straightness).",
+                    "vocabulary": [
+                        {"term": "Ifiunda", "definition": "Interjections - word parts expressing sensory qualities, written with exclamation mark"},
+                        {"term": "Ukufiita", "definition": "Blackness/darkness (color interjection)"},
+                        {"term": "Ukukashika", "definition": "Whiteness/brightness (color interjection)"},
+                        {"term": "Ukubuuta", "definition": "Brownish color (color interjection)"},
+                        {"term": "Ukukosa", "definition": "Hardness (property interjection)"}
+                    ],
+                    "assessment": {
+                        "page": 92,
+                        "questions": [
+                            "Panga ifiunda ukufuma kuli ayamashiwi yabomfeshiwe mumiseela: a. Bacimuma ulupi lwalila na, b. Inkoko naibola inunkile na, c. Acifubula isaka lyamataba na, d. Inkuba ibyatile bushiku bonse yacilati na, e. Baciposa ilibwe mumenshi lyalila na",
+                            "Lemba ubupilibulo bwa ishi insoselo shili peesamba: a. Umulandu muume, b. Ukuninika iciwa pacishiki, c. Ukuleta ulwisula mushi, d. Ukupaapa kalama, e. Ukushala impondo, f. Ukwendela ulwisha, g. Ukusonkomona ishimu kulupako, h. Ukuilapwila umulilo pamakasa"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

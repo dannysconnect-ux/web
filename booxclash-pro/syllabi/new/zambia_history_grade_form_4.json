@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 4",
+    "subject": "History",
+    "philosophy": "The History curriculum views history as a scientific study of humanity's accomplishments and failures, and the evolution of society across political, economic, social, cultural, artistic, and religious dimensions. It aims to mirror the evolution of Zambian society from pre-colonial times to the present, addressing contemporary social, economic, and political challenges. It incorporates global themes to broaden learners' knowledge, integrates cross-cutting issues like HIV/AIDS, Life Skills, Gender, Human Rights, Reproductive Health, Good Governance, Environmental Education, Water and Sanitation for holistic development, and fosters entrepreneurship skills. The syllabus also promotes tourism by highlighting national heritage sites and their commercial potential. Ultimately, it is designed to cultivate competent scholars who can interpret the past, present, and future on a global scale.",
+    "competence_learning": "The syllabus is competence-based, focusing on applied skills and knowledge necessary for learners to successfully perform in professional, educational, and other life contexts. It allows learners to acquire knowledge and apply skills, values, and attitudes to solve everyday situations, emphasizing what learners are expected to do rather than primarily what they are expected to know. At the beginning of each form level (1, 2, 3 and 4), there are competencies and descriptors to be developed by the learners.",
+    "goals": [
+      "To understand the evolution of Zambian society from pre-colonial times to date.",
+      "To address contemporary social, economic, and political challenges through historical context.",
+      "To broaden learners' knowledge through a selection of global themes.",
+      "To ensure holistic development of learners by integrating cross-cutting issues such as HIV/AIDS, Life Skills, Gender, Human Rights, and Environmental Education.",
+      "To foster the development of entrepreneurship skills.",
+      "To promote tourism by highlighting national heritage sites and their commercial potential.",
+      "To produce scholars capable of interpreting the past, present, and future on a global scale.",
+      "To develop a critical mindset for debating, examining, and interpreting national and global issues.",
+      "To equip individuals with the tools to contribute meaningfully to national development."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "4.1",
+      "topic_title": "THE FIRST WORLD WAR (1914 -1919)",
+      "page_number": 53,
+      "subtopics": [
+        "4.1.1 Causes of the First World War"
+      ],
+      "specific_outcomes": [
+        "4.1.1.1 Analyse events leading to the First World War"
+      ]
+    },
+    {
+      "unit": "4.2",
+      "topic_title": "ATTEMPTS AT WORLD PEACE: 1919 ΤΟ 1939",
+      "page_number": 54,
+      "subtopics": [
+        "4.2.1 The Paris Peace Conference (1919)",
+        "4.2.2 The League of Nations."
+      ],
+      "specific_outcomes": [
+        "4.2.1.1 Promote peaceful methods of conflict resolution",
+        "4.2.2.1 Assess the work of the League of Nations"
+      ]
+    },
+    {
+      "unit": "4.3",
+      "topic_title": "THE SECOND WORLD WAR (1939 ΤΟ 1945)",
+      "page_number": 55,
+      "subtopics": [
+        "4.3.1 Causes of the Second World War",
+        "4.3.2 Zambia and World Wars",
+        "4.3.3 Capitalist versus Communist World (Cold War)"
+      ],
+      "specific_outcomes": [
+        "4.3.1.1 Analyse events leading to the Second World War",
+        "4.3.2.1 Evaluate Zambia's role in World Wars",
+        "4.3.3.1 Examine ideologies of Capitalism and Communism since 1945"
+      ]
+    },
+    {
+      "unit": "4.4",
+      "topic_title": "FURTHER ATTEMPTS AT WORLD PEACE",
+      "page_number": 58,
+      "subtopics": [
+        "4.4.1 The United Nations (UN) since 1945",
+        "4.4.2 The African Union (AU)"
+      ],
+      "specific_outcomes": [
+        "4.4.1.1 Assess the work of the UN since 1945",
+        "4.4.2.1 Demonstrate understanding the role of African unity"
+      ]
+    },
+    {
+      "unit": "4.5",
+      "topic_title": "ZAMBIA AND ITS INTERNATIONAL COOPORATING PARTNERS (1964 TO PRESENT TIME)",
+      "page_number": 59,
+      "subtopics": [
+        "4.5.1 Zambia and its international partners"
+      ],
+      "specific_outcomes": [
+        "4.5.1.1 Appreciate bilateral relations between Zambia and its international partners"
+      ]
+    },
+    {
+      "unit": "4.6",
+      "topic_title": "CONTEMPORARY ISSUES",
+      "page_number": 60,
+      "subtopics": [
+        "4.6.1 Pandemics and Epidemics",
+        "4.6.2 Communicable and non communicable diseases",
+        "4.6.3 National Values and Principles",
+        "4.6.6 Street vending in Zambia",
+        "4.6.7 Emerging social vices in Zambia",
+        "4.6.8 Terrorism",
+        "4.6.9 The 1994 Rwandan Genocide",
+        "4.6.10 The Middle East Crises",
+        "4.6.11 DR Congo regional conflict"
+      ],
+      "specific_outcomes": [
+        "4.6.1.1 Participate in awareness campaign on the prevention of pandemics and epidemics",
+        "4.6.2.1 Engage in awareness campaigns on the prevention of communicable and non-communicable diseases",
+        "4.6.3.1 Promote culture of respect",
+        "4.6.6.1 Assess impact of street vending.",
+        "4.6.7.1 Promote good morals",
+        "4.6.8.1 Recognise ways of promoting a culture of peace in society",
+        "4.6.9.1 Assess the impact of Rwandan Genocide",
+        "4.6.10.1 Analyse conflicts in the Middle East since 1948",
+        "4.6.11.1 Demonstrate understanding of Congo DR conflicts"
+      ]
+    }
+  ]
+}

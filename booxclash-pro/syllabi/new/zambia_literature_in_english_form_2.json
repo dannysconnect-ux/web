@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 2",
+    "subject": "Literature in English",
+    "philosophy": "This syllabus is designed to guide the teaching and learning of Literature in English at the Ordinary Level, from Form 1 to 4. It develops critical thinking, analytical abilities, self-awareness, and deep appreciation for Literature. By engaging in a wide range of literary works, learners acquire important skills such as interpretation, empathy, and communication, as well as attitudes that promote open-mindedness.",
+    "competence_learning": "The syllabus employs a competence-based approach which emphasises hands-on activities. Learners are involved in the creation of various literary works, showcasing their understanding and mastery of literary concepts and techniques. They acquire both theoretical knowledge and practical skills, enabling them to analyse and produce Literature with confidence. Suggested methodologies include teacher exposition, class discussions, group work, simulation, dramatisation, project-based learning and multimedia integration. At Form 2, text study and deeper genre analysis are introduced.",
+    "goals": [
+      "Introduce learners to Zambian Literature and its development.",
+      "Develop understanding of genres: Prose, Drama, and Poetry.",
+      "Foster critical analysis of literary elements in fiction and non-fiction.",
+      "Develop skills to compose and perform literary works.",
+      "Nurture appreciation of both Zambian and global literary contexts."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "2.1.1",
+      "topic_title": "INTRODUCTION TO ZAMBIAN LITERATURE",
+      "page_number": 11,
+      "subtopics": [
+        "2.1.1.1 Development of Zambian Literature",
+        "2.1.1.2 Themes in Zambian Literature",
+        "2.1.1.3 Zambian Authors"
+      ],
+      "specific_outcomes": [
+        "2.1.1.1.1 Explore the Development of Zambian Literature",
+        "2.1.1.1.2 Show understanding of different Zambian Oral Traditions",
+        "2.1.1.1.3 Analyse Zambian Oral Traditions",
+        "2.1.1.2.1 Apply Themes from Zambian Literature in real life situations",
+        "2.1.1.3.1 Explore Prominent Zambian Authors, playwrights and poets"
+      ]
+    },
+    {
+      "unit": "2.2.1",
+      "topic_title": "PROSE",
+      "page_number": 13,
+      "subtopics": [
+        "2.2.1.1 Fiction and Non-Fiction",
+        "2.2.1.2 Elements of Prose"
+      ],
+      "specific_outcomes": [
+        "2.2.1.1.1 Demonstrate understanding of Fiction and Non-Fiction",
+        "2.2.1.1.2 Draw inferences from read texts",
+        "2.2.1.1.3 Compose Fiction and Non-fiction Stories",
+        "2.2.1.2.1 Demonstrate understanding of Elements of Prose",
+        "2.2.1.2.2 Create own Settings",
+        "2.2.1.2.3 Compose own Plots",
+        "2.2.1.2.4 Demonstrate understanding of Character",
+        "2.2.1.2.5 Interpret themes from different texts",
+        "2.2.1.2.6 Analyse text for point of view",
+        "2.2.1.2.7 Analyse prose",
+        "2.2.1.2.8 Compose prose stories"
+      ]
+    },
+    {
+      "unit": "2.2.2",
+      "topic_title": "DRAMA",
+      "page_number": 15,
+      "subtopics": [
+        "2.2.2.1 Types of Drama",
+        "2.2.2.2 Elements of Drama",
+        "2.2.2.3 Analysis of Drama"
+      ],
+      "specific_outcomes": [
+        "2.2.2.1.1 Demonstrate understanding of different types of drama",
+        "2.2.2.2.1 Demonstrate understanding of elements of drama",
+        "2.2.2.2.2 Analyse plot in drama",
+        "2.2.2.2.3 Demonstrate understanding of character",
+        "2.2.2.2.4 Analyse characters in a play",
+        "2.2.2.2.5 Analyse theme",
+        "2.2.2.2.6 Demonstrate understanding of dialogue",
+        "2.2.2.2.7 Demonstrate understanding of setting",
+        "2.2.2.2.8 Demonstrate understanding of act",
+        "2.2.2.2.9 Demonstrate understanding of scene",
+        "2.2.2.2.10 Demonstrate understanding of staging",
+        "2.2.2.3.1 Analyse Drama",
+        "2.2.2.3.2 Dramatise Plays"
+      ]
+    },
+    {
+      "unit": "2.2.3",
+      "topic_title": "POETRY",
+      "page_number": 18,
+      "subtopics": [
+        "2.2.3.1 Types of poetry",
+        "2.2.3.2 Elements of poetry"
+      ],
+      "specific_outcomes": [
+        "2.2.3.1.1 Demonstrate understanding of poetry",
+        "2.2.3.2.1 Demonstrate understanding of elements of poetry",
+        "2.2.3.2.2 Analyse imagery in poetry",
+        "2.2.3.2.3 Use metaphors in different linguistic contexts",
+        "2.2.3.2.4 Interpret themes in poetry",
+        "2.2.3.2.5 Write own stanzas",
+        "2.2.3.2.6 Write own verses",
+        "2.2.3.2.7 Recite Poems",
+        "2.2.3.2.8 Analyse Poems",
+        "2.2.3.2.9 Compose poems"
+      ]
+    }
+  ]
+}

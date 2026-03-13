@@ -1,0 +1,465 @@
+{
+    "subject": "Adapted Mathematics and Science",
+    "grade": "Grade 1",
+    "term": 2,
+    "topics": [
+        {
+            "topic_id": "5",
+            "topic_title": "Addition",
+            "introduction": "This topic will look at demonstrating understanding of addition of whole numbers. Adding single digit numbers up to 9 using addition as an increase, as putting together and as comparison. Adding numbers using composition and decomposition of numbers (number bonds), Adding single digit numbers with a sum up to 18 (with carrying using the concept of ten as a unit), Adding whole numbers with sums up to 100 without carrying, completing addition of number sentences, using addition to carry out activities involving money and other quantities.",
+            "general_competences": [
+                "Critical thinking",
+                "Problem solving",
+                "Financial literacy"
+            ],
+            "key_terms": [
+                {
+                    "term": "Addition",
+                    "definition": "this is a fundamental operation that combines two or more numbers together to get a total or a sum."
+                },
+                {
+                    "term": "Digit",
+                    "definition": "a digit is a single symbol or character used to represent a value in a numerical system e.g. 1,2,3,4,5………….."
+                },
+                {
+                    "term": "Composition",
+                    "definition": "this refers to the process of combining two or more functions, relations, or operation to form a new number e.g., 2 plus 3 equals 5."
+                },
+                {
+                    "term": "Decomposition",
+                    "definition": "this is the breaking down of a complex problem, object, or system into smaller, or manageable parts or components."
+                },
+                {
+                    "term": "Number bond",
+                    "definition": "this is a simple math concept that represents the relationship between three numbers, where two numbers are added together to equal a third number. For example, 2 plus 3 equals 5 (The bond number is 2,3 and 5)"
+                }
+            ],
+            "sub_topics": [
+                {
+                    "subtopic_id": "5.1",
+                    "title": "Addition",
+                    "page": 19,
+                    "introduction": "This sub-topic focuses on demonstrating an understanding of addition of whole numbers.",
+                    "competences": [
+                        "Demonstrate understanding of addition of whole numbers"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ask learners to count from 1-9 individually",
+                                "Guide learners to practically add numbers using counters e.g. 1 plus 1 equal to 2, 1 plus 2 is equal to 3 and 2 plus 2 is equal to 4 etc."
+                            ],
+                            "learner_steps": [
+                                "Count from 1-9 individually",
+                                "Practically add numbers using counters"
+                            ],
+                            "short_notes": "Demonstrating understanding of addition of whole numbers by adding single digit numbers up to 9 using addition as an increase, as putting together and as comparison."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ask learners to add more complex numbers. For example, 2 plus 2 is equal to 4, then 3 plus 4 is equal to 8, and 4 plus 5 is equal to 9.",
+                                "Demonstrate addition of numbers more than 2. For example, 3 plus 2 plus 1.",
+                                "Ask learners to solve the problem (1 plus 4 plus 2)"
+                            ],
+                            "learner_steps": [
+                                "Add more complex numbers",
+                                "Add more than 2 numbers together",
+                                "Solve addition problems"
+                            ],
+                            "short_notes": "Adding numbers using composition and decomposition of numbers (number bonds)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain to the learners the concept of recarrying. E.g., 9 plus 7 is equal to 16. Note: the act of carrying over a number to the next place value when adding two numbers together, where the sum in the ones is greater than 9",
+                                "Demonstrate on how to add numbers by recarrying",
+                                "Ask individual learners to demonstrate addition of recarrying (6 plus 7, 9 plus 5…….).",
+                                "Put learners in pairs and assign them to solve the given problems by recarrying."
+                            ],
+                            "learner_steps": [
+                                "Learn the concept of recarrying",
+                                "Observe demonstration of addition with recarrying",
+                                "Demonstrate addition with recarrying",
+                                "Solve problems by recarrying in pairs"
+                            ],
+                            "short_notes": "Adding single digit numbers with a sum up to 18 (with carrying using the concept of ten as a unit)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 4",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain to the learners the concept that does not involve recarrying. E.g. 43 plus 24 in vertical arrangement.",
+                                "Demonstrate on how to add numbers without recarrying",
+                                "Ask individual learners to demonstrate addition without recarrying (22 plus 23, 31 plus 15…….).",
+                                "Put learners in pairs and assign them to solve the given problems without recarrying."
+                            ],
+                            "learner_steps": [
+                                "Learn addition without recarrying",
+                                "Observe demonstration",
+                                "Demonstrate addition without recarrying",
+                                "Solve problems without recarrying in pairs"
+                            ],
+                            "short_notes": "Adding whole numbers with sums up to 100 without carrying."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 5",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Demonstrate addition to complete the addition of number sentences.",
+                                "Ask individual learners to complete a given a number sentence by adding the numbers correctly.",
+                                "Put the learners into groups of fives and then assign them to work out given tasks in their respective groups.",
+                                "Ask learners from each respective groups to the front to present and the teacher to consolidate"
+                            ],
+                            "learner_steps": [
+                                "Complete number sentences by addition",
+                                "Work in groups to complete addition tasks",
+                                "Present group work"
+                            ],
+                            "short_notes": "Completing addition of number sentences."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 6",
+                            "page": 22,
+                            "hook": "What do we use to buy jiggies, sweets or biscuits?",
+                            "teacher_steps": [
+                                "Assess the learners' knowledge about money through a question (what do we use to buy jiggies, sweets or biscuits?)",
+                                "Display different notes and coins of money on the table for the learners to identify and relate the value of different denominations of money to their buying power. E.g., K2 can buy a packet of jiggies, whereas K1 can buy a sweet.",
+                                "Ask learners to demonstrate addition involving money through a role play",
+                                "Assign learners to individually add money using number sentences. For example; K10 + K5= K15."
+                            ],
+                            "learner_steps": [
+                                "Answer questions about money",
+                                "Identify notes and coins",
+                                "Relate money values to buying power",
+                                "Demonstrate addition involving money through role play",
+                                "Add money using number sentences"
+                            ],
+                            "short_notes": "Using addition to carry out activities involving money and other quantities."
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 22,
+                        "type": "audio-visual",
+                        "questions": [
+                            "Teacher to use an audio-visual aid depicting the selling and buying of goods to assess the learners' awareness and knowledge of money and its value."
+                        ]
+                    },
+                    "summary": "This topic looked at demonstrating understanding of addition of whole numbers, adding single digit numbers up to 9 using addition as an increase, as putting together and as comparison, adding numbers using composition and decomposition of numbers (number bonds), adding single digit numbers with a sum up to 18 (with carrying using the concept of ten as a unit), adding whole numbers with sums up to 100 without carrying. It also looked on the aspect of completing addition of number sentences, using addition to carry out activities involving money and other quantities"
+                }
+            ]
+        },
+        {
+            "topic_id": "6",
+            "topic_title": "The Environment",
+            "introduction": "This topic focuses on exploring natural resources, comparing features of the environment, demonstrating an awareness of risks associated with household chemicals, developing care for the environment, developing awareness of weather occurrence, demonstrating awareness effects of climate change.",
+            "general_competences": [
+                "Critical Thinking",
+                "Creativity and innovation",
+                "Environmental sustainability"
+            ],
+            "key_terms": [
+                {
+                    "term": "Environment",
+                    "definition": "the immediate surrounding or condition where people or animals live or operate. This may include; family, friends, natural resources and the built environment"
+                },
+                {
+                    "term": "Weather",
+                    "definition": "the condition of the day at a particular time and place"
+                },
+                {
+                    "term": "Climate change",
+                    "definition": "a long-term warming of the planet resulting in increase in average temperature caused by negative human activities."
+                },
+                {
+                    "term": "Chemicals",
+                    "definition": "any substance that can cause harm to a human being if not properly used"
+                },
+                {
+                    "term": "Features",
+                    "definition": "these are characteristics or components that define the product or a system."
+                }
+            ],
+            "sub_topics": [
+                {
+                    "subtopic_id": "6.1",
+                    "title": "Natural Resources",
+                    "page": 23,
+                    "introduction": "This sub-topic looks at exploring natural resources such as rivers, lakes, plants, animals, ant-hills, mountains and soil.",
+                    "competences": [
+                        "Explore natural resources"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Main Activity",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain to the learners what natural resources are.",
+                                "Take the learners outside to identify natural resources observed in the immediate environment.",
+                                "Display visual/tactile teaching and learning aids for the learners to observe.",
+                                "Ask learners to relate what was observed in the teaching and learning aids to what is found in their environment."
+                            ],
+                            "learner_steps": [
+                                "Learn what natural resources are",
+                                "Identify natural resources in the immediate environment",
+                                "Observe visual/tactile teaching aids",
+                                "Relate observations to their environment"
+                            ],
+                            "short_notes": "Exploring natural resources such as rivers, lakes, plants, animals, ant-hills, mountains and soil."
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 24,
+                        "type": "observation",
+                        "questions": []
+                    },
+                    "summary": null
+                },
+                {
+                    "subtopic_id": "6.2",
+                    "title": "Natural and Man-made Environment",
+                    "page": 24,
+                    "introduction": "This sub-topic focuses on comparing features of the environment. Natural environment refers to some resources that are not man-made such as trees, rivers, sources that are not man-made.",
+                    "competences": [
+                        "Compare features of the environment"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 1",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain to the learners what an urban environment is. Characteristics: Paved or tared roads, Piped water, Modern buildings, Modern markets, Motorized transport, Electricity",
+                                "Explain sub-urban: a semi-developed environment lying between urban and rural. Characteristics: Graded/gravel roads, Piped water, Wells, Modern/traditional buildings",
+                                "Explain rural: areas far from major towns. Characteristics: Traditional buildings, Well, stream and river source of water, Ungraded roads, Traditional modes of transport, Traditional lighting systems",
+                                "Explain natural environment: environment that has its natural habitant. Characteristics: Forest, Natural water bodies, World animals, No roads, No buildings",
+                                "Divide learners into groups to discuss, compare and contrast urban, suburban, rural, and natural environments."
+                            ],
+                            "learner_steps": [
+                                "Learn about urban, suburban, rural, and natural environments",
+                                "Discuss characteristics of each environment type",
+                                "Compare and contrast different environments in groups"
+                            ],
+                            "short_notes": "Comparing features such as urban, suburban, rural, or natural environments."
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 25,
+                        "type": "group discussion",
+                        "questions": []
+                    },
+                    "summary": null
+                },
+                {
+                    "subtopic_id": "6.3",
+                    "title": "Household Chemicals",
+                    "page": 26,
+                    "introduction": "Household chemicals are chemicals found in a home. These may either be useful.",
+                    "competences": [
+                        "Demonstrate an awareness of risks associated with household chemicals"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 1",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain what household chemicals are.",
+                                "Display some household chemicals found in the home on the table for the learners to observe, name and tell their uses.",
+                                "Consolidate the answers given by the learners"
+                            ],
+                            "learner_steps": [
+                                "Learn about household chemicals",
+                                "Observe household chemicals",
+                                "Name household chemicals and their uses"
+                            ],
+                            "short_notes": "Demonstrating an awareness of risks associated with chemicals such as household chemicals: cleaning detergents, insect killers, medicines, perfume, garden and farm chemicals: fertilizer, pesticides, insect killers."
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 26,
+                        "type": "observation",
+                        "questions": []
+                    },
+                    "summary": null
+                },
+                {
+                    "subtopic_id": "6.4",
+                    "title": "Care for Environment",
+                    "page": 26,
+                    "introduction": "This sub–topic will focus on equipping learners with skills, knowledge and attitude to develop the environment by picking litter and disposing off waste correctly.",
+                    "competences": [
+                        "Develop care for the environment"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 1",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain to the learners what litter is.",
+                                "Identify litter in the environment with learners",
+                                "Explain to the learners on the different ways of disposing litter such as throwing in the bin or in the rubbish pit or burning so as to keep the environment clean."
+                            ],
+                            "learner_steps": [
+                                "Learn what litter is",
+                                "Identify litter in the environment",
+                                "Learn different ways of disposing litter correctly"
+                            ],
+                            "short_notes": "Developing care for the environment by picking litter, disposing of waste correctly"
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 27,
+                        "type": "presentation",
+                        "questions": [
+                            "Teacher to ask learners to make a presentation on the importance of caring for the environment"
+                        ]
+                    },
+                    "summary": null
+                },
+                {
+                    "subtopic_id": "6.5",
+                    "title": "Weather and Climate Change",
+                    "page": 27,
+                    "introduction": "This sub-topic focuses on developing an awareness of weather and climatic occurrences and the effects of climate change.",
+                    "competences": [
+                        "Develop awareness of weather occurrence",
+                        "Demonstrate awareness effects of climate change"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 1",
+                            "page": 27,
+                            "hook": "What causes coldness, hotness and wetness?",
+                            "teacher_steps": [
+                                "Ask learners what causes coldness, hotness and wetness.",
+                                "Explain to the learners the weather occurrences such as cold, hot and wet when they take place within the particular time of the day.",
+                                "Demonstrate the importance of weather occurrences to learners."
+                            ],
+                            "learner_steps": [
+                                "Discuss what causes weather conditions",
+                                "Learn about weather occurrences (cold, hot, wet)",
+                                "Understand the importance of weather occurrences"
+                            ],
+                            "short_notes": "Developing awareness of weather occurrence such as cold, hot and wet."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 2",
+                            "page": 27,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain the meaning of climate change. For example, when weather occurrences take place for a longer period, it becomes climate.",
+                                "Explain to learners the causes of climate change such as; excessive cutting down of trees without replacing the planting, poor method of farming, burning fuels",
+                                "Discuss with learners the effects of climate change such as; floods, drought, shortage of food and heat waves.",
+                                "Guide the discussion and consolidate on the effects of climate change."
+                            ],
+                            "learner_steps": [
+                                "Learn about climate change",
+                                "Learn causes of climate change",
+                                "Discuss effects of climate change",
+                                "Understand floods, drought, food shortage, and heat waves"
+                            ],
+                            "short_notes": "Demonstrating awareness of effects of climate change such as: heat waves; floods…"
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 27,
+                        "type": "presentation",
+                        "questions": [
+                            "Teacher to ask learners to make a presentation on the importance of caring for the environment"
+                        ]
+                    },
+                    "summary": "This topic focused on exploring natural resources, comparing features of the environment, demonstrating an awareness of risks associated with household chemicals, developing care for the environment, developing awareness of weather occurrences, demonstrating awareness of the effects of climate change. This topic will help the learners to acquire knowledge and skills to develop critical thinking, creativity and innovation as well as environmental sustainability."
+                }
+            ]
+        },
+        {
+            "topic_id": "7",
+            "topic_title": "Subtraction",
+            "introduction": "This topic will focus on demonstrating understanding of subtraction of whole numbers by: subtracting single digit whole numbers in intervals of 1 to 6, 1 to 9 using concrete and semi concrete objects and transit to abstract by using the subtraction symbol (take away, finding the difference, finding missing parts or finding less), carrying out activities involving zero to show that: 'when zero is subtracted from a number the result is that number, when a number is subtracted from itself the result is zero'. Subtracting double digit numbers up to 18 using the unit of 10. Subtracting whole numbers in 10s up to 100, relating subtraction to addition such as 6 – 2 = 4 or 4 + 2= 6, Completing subtraction of number sentences and using subtraction to carry out shopping activities involving money.",
+            "general_competences": [
+                "Critical thinking",
+                "Problem solving",
+                "Financial literacy"
+            ],
+            "key_terms": [
+                {
+                    "term": "Subtraction",
+                    "definition": "taking away"
+                },
+                {
+                    "term": "Interval",
+                    "definition": "the space of time between two numbers"
+                },
+                {
+                    "term": "Digit",
+                    "definition": "a digit is a single symbol or character used to represent a value in a numerical system e.g. 1,2,3,4,5………….."
+                },
+                {
+                    "term": "Number",
+                    "definition": "How many of something in a set."
+                },
+                {
+                    "term": "Whole number",
+                    "definition": "numbers starting from zero. E.g., 0,1,2,3,4,5…………"
+                },
+                {
+                    "term": "Concrete object",
+                    "definition": "objects that are felt and seen"
+                },
+                {
+                    "term": "Abstract",
+                    "definition": "something that cannot be felt and be seen"
+                }
+            ],
+            "sub_topics": [
+                {
+                    "subtopic_id": "7.1",
+                    "title": "Subtraction",
+                    "page": 28,
+                    "introduction": "This sub-topic will focus on demonstrating an understanding of subtraction of whole numbers.",
+                    "competences": [
+                        "Demonstrate an understanding of subtraction of whole numbers"
+                    ],
+                    "instructional_blocks": [],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 31,
+                        "type": "exercise",
+                        "questions": []
+                    },
+                    "summary": null
+                }
+            ]
+        }
+    ]
+}

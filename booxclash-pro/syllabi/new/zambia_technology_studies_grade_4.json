@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "4",
+    "subject": "Technology Studies",
+    "philosophy": "The Technology Studies syllabus is a combination of Design and Technology (D&T), Information and Communications Technology (ICT) and cross cutting issues. This syllabus gives a detailed account of the intended learning in Technology Studies at upper primary school level (Grades 4 to 6). Learning about Technology involves applying knowledge of how to work more efficiently using tools, materials and processes to excel within the world of work. The learning area will seek to equip individual learners with innovative, entrepreneurial, collaboration, communication and problem-solving skills that enable them to adapt to emerging technologies and their impact on society. Through consistent learning and practise of concepts outlined in the syllabus, the learners will be able to improve their desired competences. Further, learning Technology Studies enables learners to demonstrate their creativity while exploring technological processes of investigation, exhibition of product ideas, making choices about designs or materials and using appropriate hand tools and equipment in product realisation.",
+    "competence_learning": "The Competence-based Curriculum prioritises the application of skills and abilities, focusing on what leaners can do, rather than solely on the knowledge they acquire. Therefore, in order for learners to attain the needed competences, the teacher should endeavor to utilise a variety of teaching/learning approaches which promote attainment of the needed competences. In this regard, the starting point for teaching and learning is to recognize that learners come to school with a wealth of knowledge and experience gained from families, communities and interactions with the environment. Thus, learning in school must build on the learner's prior experience. This is best achieved when learners are actively involved in the learning process through hands-on activities. To accommodate this, the teacher must determine the needs of the learners and shape the learning experiences accordingly. Therefore, teaching methods must be varied but flexible within well-structured sequences of lessons and should include among others: i. Interactive ii. Inquiry methods (Question and Answer) iii. Problem-Solving Methods",
+    "goals": [
+      "Provide a practical national curriculum for Zambian primary school learners aligned with the Competence-based Curriculum and 21st Century Skills.",
+      "Impart the knowledge, skills, values and positive attitudes that are aimed at enabling children to live and grow into productive and useful members of their communities and society.",
+      "Facilitate holistic development of children's creativity, initiative, problem solving, physical, mental, emotional skills among others.",
+      "Cultivate a mind-set, skills, values and positive attitudes for sustainability, incorporating cross cutting issues and themes such as Entrepreneurship, Climate Change and Financial Education."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "4.1",
+      "topic_title": "Introduction To Technology Studies",
+      "page_number": 4,
+      "subtopics": [
+        "4.1.1 Career Prospects in Technology Studies"
+      ],
+      "specific_outcomes": [
+        "4.1.1.1 Explore career prospects in Technology Studies"
+      ]
+    },
+    {
+      "unit": "4.2",
+      "topic_title": "Safety",
+      "page_number": 4,
+      "subtopics": [
+        "4.2.1 Personal Safety"
+      ],
+      "specific_outcomes": [
+        "4.2.1.1 Apply safety precautions in a work environment"
+      ]
+    },
+    {
+      "unit": "4.3",
+      "topic_title": "Word Processing",
+      "page_number": 4,
+      "subtopics": [
+        "4.3.1 Introduction to Word Processing"
+      ],
+      "specific_outcomes": [
+        "4.3.1.1 Create a word document"
+      ]
+    },
+    {
+      "unit": "4.4",
+      "topic_title": "Tools And Equipment",
+      "page_number": 5,
+      "subtopics": [
+        "4.4.1 Work Bench",
+        "4.4.2 Classification and Use of Tools and Equipment"
+      ],
+      "specific_outcomes": [
+        "4.4.1.1 Use parts of a work bench",
+        "4.4.2.1 Use tools and equipment to make products"
+      ]
+    },
+    {
+      "unit": "4.5",
+      "topic_title": "Materials",
+      "page_number": 16,
+      "subtopics": [
+        "4.5.1 Joining of Materials",
+        "4.5.2 Finishing Materials"
+      ],
+      "specific_outcomes": [
+        "4.5.1.1 Join materials",
+        "4.5.2.1 Apply finishes to materials"
+      ]
+    },
+    {
+      "unit": "4.6",
+      "topic_title": "Presentation",
+      "page_number": 6,
+      "subtopics": [
+        "4.6.1 Basics of Presentations"
+      ],
+      "specific_outcomes": [
+        "4.6.1.1 Create presentations"
+      ]
+    },
+    {
+      "unit": "4.7",
+      "topic_title": "Energy",
+      "page_number": 6,
+      "subtopics": [
+        "4.7.1 Electricity"
+      ],
+      "specific_outcomes": [
+        "4.7.1.1 Make electrical Circuits"
+      ]
+    },
+    {
+      "unit": "4.8",
+      "topic_title": "Spread Sheet",
+      "page_number": 7,
+      "subtopics": [
+        "4.8.1 Basics of Spreadsheet"
+      ],
+      "specific_outcomes": [
+        "4.8.1.1 Use spreadsheet applications"
+      ]
+    },
+    {
+      "unit": "4.9",
+      "topic_title": "Graphic Communication",
+      "page_number": 8,
+      "subtopics": [
+        "4.9.1 Lettering",
+        "4.9.2 Types of Lines",
+        "4.9.3 Angles",
+        "4.9.4 Triangles",
+        "4.9.5 Quadrilaterals",
+        "4.9.6 Circles",
+        "4.9.7 Graphic Software"
+      ],
+      "specific_outcomes": [
+        "4.9.1.1 Print letters and numbers",
+        "4.9.2.1 Draw lines used in construction",
+        "4.9.3.1 Construct angles",
+        "4.9.4.1 Construct triangles from given data",
+        "4.9.5.1 Construct quadrilaterals",
+        "4.9.6.1 Construct circles",
+        "4.9.7.1 Use graphic software in product design"
+      ]
+    },
+    {
+      "unit": "4.10",
+      "topic_title": "Technology",
+      "page_number": 9,
+      "subtopics": [
+        "4.10.1 Technological Innovations"
+      ],
+      "specific_outcomes": [
+        "4.10.1.1 Explore technological Innovations"
+      ]
+    },
+    {
+      "unit": "4.11",
+      "topic_title": "Coding",
+      "page_number": 9,
+      "subtopics": [
+        "4.11.1 Block- Based Coding"
+      ],
+      "specific_outcomes": [
+        "4.11.1.1 Use Block-based coding Platforms"
+      ]
+    },
+    {
+      "unit": "4.12",
+      "topic_title": "Structures",
+      "page_number": 10,
+      "subtopics": [
+        "4.12.1 Types of Structures"
+      ],
+      "specific_outcomes": [
+        "4.12.1.1 Classify Structures"
+      ]
+    },
+    {
+      "unit": "4.13",
+      "topic_title": "Internet",
+      "page_number": 10,
+      "subtopics": [
+        "4.13.1 Internet"
+      ],
+      "specific_outcomes": [
+        "4.13.1.1 Use the Internet"
+      ]
+    },
+    {
+      "unit": "4.14",
+      "topic_title": "Entrepreneurship",
+      "page_number": 11,
+      "subtopics": [
+        "4.14.1 Business Idea"
+      ],
+      "specific_outcomes": [
+        "4.14.1.1 Develop a business idea"
+      ]
+    }
+  ]
+}

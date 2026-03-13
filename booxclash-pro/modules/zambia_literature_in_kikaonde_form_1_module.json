@@ -1,0 +1,794 @@
+{
+    "subject": "Literature in Kikaonde (Litilicha mu Kikaonde)",
+    "grade": "Form 1",
+    "term": 3,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "JISHIMIKILA - BIKOTA BYA JISHIMIKILA (ORAL) - Elements of Oral Story",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "KISHINA (Theme)",
+                    "page": 17,
+                    "competences": [
+                        "Kusabaula kishina mu jishimikila ja mukanwa (Recognizing the theme(s) of an oral story)",
+                        "Kuyuka ne kufunda tuyukwe twa ndondolwelo (Learn and understand narrative elements)",
+                        "Kulondolola mashinda mo twapusena-pusana (Identify various techniques)",
+                        "Kwi tulondololo bulongo (Proper analysis)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.1",
+                            "page": 18,
+                            "hook": "Aneba baana bonse tangai jishimikila jo na nembe pa kipabi (Ask all children to read a story and write on paper)",
+                            "teacher_steps": [
+                                "Kambizha bafunda bashimikizhepo jishimikila jimo jo bayuka (Ask learners to tell a story they know)",
+                                "Kambizha bafunda basobololamo ba nkaizhi bajimo (Ask learners to identify characters in it)",
+                                "Buula bafunda balondolola lubaji lujimo nkaizhi yense ye batongola (Tell learners to analyze the role each character plays)",
+                                "Kambizha bafunda besambe pa yense nkaizhi (Ask learners to discuss each character)"
+                            ],
+                            "learner_steps": [
+                                "Bashimikizhepo jishimikila jimo jo bayuka (Tell a story they know)",
+                                "Basobololamo ba nkaizhi bajimo (Identify characters in it)",
+                                "Balondolola lubaji loajimo nkaizhi yense ye batongola (Analyze the role each character plays)",
+                                "Besambe pa yense nkaizhi uji mu jishimikila (Discuss each character in the story)"
+                            ],
+                            "short_notes": "Kulondolola bya kulondela pa kusololwa ne ndondolwelo ya kishina mu jishimikila ja mu kanwa - Identifying steps to follow in analyzing and understanding theme in oral stories"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.2",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Pana kiñambañamba muji jishimikila ja ambiwa jimo (Provide teaching material with a narrated story)",
+                                "Kambizha bafunda bTeleka kujino jishimikila (Ask learners to listen to this story)",
+                                "Ipuzha bafunda balondolola biji mu jishimikila (Ask learners to analyze what is in the story)",
+                                "Solola pamo na bafunda kishina kupichila mu kutongola bankaizhi ne malwañano ajimo (Analyze together with learners the theme through identifying characters and conflicts)"
+                            ],
+                            "learner_steps": [
+                                "Batambule kiñambañamba muji jishimikila ja ambiwa jimo (Receive teaching material with a narrated story)",
+                                "BTeleka kujino jishimikila (Listen to this story)",
+                                "Balondolola biji mu jishimikila (Analyze what is in the story)",
+                                "Basolola pamo na mufunjishi kishina kupichila mu kutongola bankaizhi ne malwañano ajimo (Analyze together with teacher the theme through identifying characters and conflicts)"
+                            ],
+                            "short_notes": "Kusolola kishina mu jishimikila ja pa kanwa - Analyzing theme in oral stories through character identification and conflict analysis"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.3",
+                            "page": 20,
+                            "hook": "Story of Bokwe and Mpuku - Kano ka jishimikila kepi ka bena kwamba pe bokwe ukwata ka puku kacheche...",
+                            "teacher_steps": [
+                                "Ana jino jishimikila ja bukwe ne Mpuku (Tell the story of Bokwe and Mpuku)",
+                                "Kambizha bafunda basobololamo bankaizhi, tanda-bimye ne lwayo mujishimikila (Ask learners to identify characters, setting and plot in the story)",
+                                "Ipuzha lukatazho lwanjinga pakachi ka bankaizhi (Ask about the relationship between characters)",
+                                "Ipuzha mashinda mwapwijile malwañano (Ask about techniques used for conflict)"
+                            ],
+                            "learner_steps": [
+                                "Balondele ne kutanga ka jishimikila ja bukwe ne Mpuku (Listen to and read the story of Bokwe and Mpuku)",
+                                "Basobololamo bankaizhi, tanda-bimye ne lwayo mujishimikila (Identify characters, setting and plot in the story)",
+                                "Balondolola lukatazho lwanjinga pakachi ka bankaizhi (Analyze the relationship between characters)",
+                                "Bakumbule pa mashinda mwapwijile malwañano (Remember the techniques used for conflict)"
+                            ],
+                            "short_notes": "Story: Bokwe caught a small antelope (puku). Mpuku begged to be released and promised to help Bokwe one day. Bokwe laughed but released him. Later, Bokwe died in a forest and Mpuku came and saved him by digging through the anthill where he died. This story teaches about kindness and reciprocity."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.4",
+                            "page": 21,
+                            "hook": "Mwanyike wapana kajo ku mwenyi uji na nzala (A child gives food to a hungry stranger)",
+                            "teacher_steps": [
+                                "Pana kano ka mpezho ka jishimikila (Provide short story excerpts)",
+                                "Kambizha bafunda bakebe tubishina pa tu mpezho twatu mashimikila (Ask learners to examine themes in these story excerpts)",
+                                "Kambizha bafunda kwisambapo pa mikumbu (Ask learners to discuss their answers)"
+                            ],
+                            "learner_steps": [
+                                "Batambule tu mpezho (Receive the excerpts)",
+                                "Bakebe tubishina pa tu mpezho twatu mashimikila (Examine themes in the story excerpts)",
+                                "Besambepo pa mikumbu yonse (Discuss all their answers)"
+                            ],
+                            "short_notes": "Themes identified: (i) Good character/kindness, (ii) Building heart for future, (iii) Having strength in entering with power"
+                        }
+                    ],
+                    "short_notes": "Kishina (Theme) is the main subject or message in a story. In oral literature, themes are identified through character analysis, conflict examination, and plot development. Common themes include kindness, reciprocity, wisdom, courage, and community values. Stories are used to teach moral lessons and preserve cultural values.",
+                    "vocabulary": [
+                        {
+                            "term": "Kishina",
+                            "definition": "Theme - main subject or central message of a story"
+                        },
+                        {
+                            "term": "Jishimikila",
+                            "definition": "Story/narrative"
+                        },
+                        {
+                            "term": "Nkaizhi",
+                            "definition": "Character"
+                        },
+                        {
+                            "term": "Malwañano",
+                            "definition": "Conflict"
+                        },
+                        {
+                            "term": "Tanda-bimye",
+                            "definition": "Setting - time and place"
+                        },
+                        {
+                            "term": "Lukoola",
+                            "definition": "Plot"
+                        },
+                        {
+                            "term": "Ndondolwelo",
+                            "definition": "Analysis/examination"
+                        },
+                        {
+                            "term": "Nshimikilo",
+                            "definition": "Narration"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 22,
+                        "questions": [
+                            "Londololapo bikabewa mu kulondola pa kusala kishina kiji kyonse (Outline things to consider in identifying any theme)",
+                            "Nembapo kishina kimo panyumu ya kuteleka ku jishimikila ja pa kanwa (Write one theme after listening to an oral story)",
+                            "Londolola jishimikila ja pakanwa ja panyiwa ne kishina kijimo (Analyze a given oral story with its theme)",
+                            "Lumbulula bishina mu jishimikila ja mukanwa panyuma jiji jonse (Explain themes in oral stories after listening to them all)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "MALWAÑANO (Conflict)",
+                    "page": 23,
+                    "competences": [
+                        "Kulumbulula kyambo malwañano (Define the term conflict)",
+                        "Kulondolola biishila mu malwañano (Identify elements in conflict)",
+                        "Kusabaula malwañano mu jishimikila jo wapewa (Recognize conflict in a given story)",
+                        "Kupesa-pesa malwañano mu jishimikila (Analyze conflict in stories)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.1",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kambizha bafunda kwikala mu tu bipanyi (Ask learners to sit in small groups)",
+                                "Kambizha bafunda kwisamba pa mwatala malwañano (Ask learners to discuss the meaning of conflict)",
+                                "Buula bafunda kulondolola byo besamba mu tu bipanyi (Tell learners to analyze what they discussed in small groups)",
+                                "Olola mikumbu ya panyiwa (Facilitate giving of answers)"
+                            ],
+                            "learner_steps": [
+                                "Bekale mu tu bipanyi (Sit in small groups)",
+                                "Besambe pa mwatala malwañano (Discuss the meaning of conflict)",
+                                "Balondolola byo besamba mu tu bipanyi (Analyze what they discussed in small groups)",
+                                "Bolola mikumbu (Give their answers)"
+                            ],
+                            "short_notes": "Malwañano ke lukatazho luji pakachi ka mbaji ibiji ya jishimikila - Conflict is the struggle between two forces in a story. Types include: (a) Malwañano a mukachi - Internal conflict within a character's mind/heart; (b) Malwañano a pangye - External conflict between characters and others (people, nature, society)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.2",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kambizha bafunda kwikala babiji-babiji (Ask learners to sit in pairs)",
+                                "Buula bafunda besambe pa biishila mu malwañano amu mashimikila (Tell learners to discuss elements in conflict in stories)",
+                                "Kambizha bafunda kulondolola byo besamba (Ask learners to analyze what they discussed)",
+                                "Olola mikumbu ya panyiwa (Facilitate giving of answers)"
+                            ],
+                            "learner_steps": [
+                                "Bekale babiji-babiji (Sit in pairs)",
+                                "Besambe pa biishila mu malwañano (Discuss elements in conflict)",
+                                "Balondolola byo besamba (Analyze what they discussed)",
+                                "Bolola mikumbu yabo (Give their answers)"
+                            ],
+                            "short_notes": "Elements of conflict include: (1) Kitwala lukola palutwe - Initiates the plot; (2) Bilengela bankaizhi ku ilako palutwe - Pushes characters to act; (3) Bilengela kushala na lusako lwa kutemwa jishimikila - Creates desire to continue reading; (4) Bisolola mutwe wa jishimikila - Reveals the theme; (5) Ileta lupimpu ku mpelo - Brings change at the end"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.3",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abanya bafunda mu tu bipungu tuche tuche (Divide learners into small groups)",
+                                "Nengezha ne kupana jishimikila ja kutanga bafunda (Prepare and give a story for learners to read)",
+                                "Kambizha bafunda kusabaula malwañano kupichila mu kwisamba (Ask learners to identify conflict through discussion)",
+                                "Buula bafunda kupana mikumbu yabo (Tell learners to give their answers)",
+                                "Olola mikumbu yafuma ku bafunda (Facilitate answers from learners)"
+                            ],
+                            "learner_steps": [
+                                "Bekale mu tu bipanyi (Sit in small groups)",
+                                "Batange jishimikila (Read the story)",
+                                "Basabaule malwañano aji mujishimikila jo batanga (Identify conflict in the story they read)",
+                                "Bapane mikumbu (Give their answers)",
+                                "Bolola mikumbu yabo (Present their answers)"
+                            ],
+                            "short_notes": "Steps to identify conflict: (1) Yuka ne kutala pa nkaizhi mukata - Know and look at main character; (2) Determine what the story is about and what will happen; (3) Identify the problem/struggle the character faces; (4) Identify who or what opposes the character; (5) Determine character relationships, motivations, and changes. Example story: Yoba struggles with bullies at school (external conflict) and internal doubt about standing up to them."
+                        }
+                    ],
+                    "short_notes": "Malwañano (Conflict) is the central struggle in a story. It drives the plot, reveals character, and communicates theme. Internal conflict occurs within a character's mind/heart. External conflict involves struggles with other people, nature, or society. Conflict creates tension, engages readers, and leads to resolution.",
+                    "vocabulary": [
+                        {
+                            "term": "Malwañano",
+                            "definition": "Conflict - struggle between opposing forces"
+                        },
+                        {
+                            "term": "Malwañano a mukachi",
+                            "definition": "Internal conflict - struggle within character's mind/heart"
+                        },
+                        {
+                            "term": "Malwañano a pangye",
+                            "definition": "External conflict - struggle with outside forces"
+                        },
+                        {
+                            "term": "Lukatazho",
+                            "definition": "Problem/struggle"
+                        },
+                        {
+                            "term": "Nkaizhi mukata",
+                            "definition": "Main character/protagonist"
+                        },
+                        {
+                            "term": "Ndenguluzhi",
+                            "definition": "Antagonist"
+                        },
+                        {
+                            "term": "Lukoola",
+                            "definition": "Plot"
+                        },
+                        {
+                            "term": "Mpelo",
+                            "definition": "Resolution/ending"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Neemba mashinda a waminamo malwañano mu jishimikila (Write techniques that make conflict effective in stories)",
+                            "Malwañano akwasha nkaizhi ku pimpula nangwa kufunjilako bintu nyi nangwa ine? londolola (How does conflict help characters learn or understand things? Explain)",
+                            "Lufunjisho ka lo watanamo obewa nobe ufunda mwaila uno mutwe wa malwañano (What lesson did you get or learn in this topic of conflict?)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "NYIMBO (Songs)",
+                    "page": 28,
+                    "competences": [
+                        "Kusantaula lwimbo walamata ku jishimikila (Select a song related to a story)",
+                        "Kwisamba buneme buji mu kwimba kulondela jishimikila (Discuss importance in singing following a story)",
+                        "Kulumbulula byambo biji mu lwimbo kwesakanya na jishimikila ja panyiwa (Explain words in a song relating to a given story)",
+                        "Kwivwangamo mu kwimba (Participate in singing)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.1",
+                            "page": 28,
+                            "hook": "Wajima mebele, wajima ne ntamba x2, mu kyalo mu ponena ne kabola (Song: You cultivated vegetables, you cultivated cassava, in the village you starved with cabbage)",
+                            "teacher_steps": [
+                                "Abanya bafunda mu bipungu biche-biche (Divide learners into small groups)",
+                                "Kambizha bafunda kusala lwimbo ne kwikwasha kunemba uno lwimbo (Ask learners to select a song and help write this song)",
+                                "Isambe na bafunda buneme buji mu kwimba kulondela na jishimikila (Discuss with learners the importance in singing following a story)"
+                            ],
+                            "learner_steps": [
+                                "Bekale mutubipanyi tuche-tuche (Sit in small groups)",
+                                "Bekwashe kunemba lwimbo ye balanguluka (Be able to write a song they know)",
+                                "Besambe buneme buji mu kwimba kulondela na jishimikila (Discuss importance in singing following a story)"
+                            ],
+                            "short_notes": "Songs in storytelling serve multiple purposes: (a) Bring people together and create unity; (b) Contain teachings/lessons; (c) Bring joy to people; (d) Remind people of past events; (e) Help people understand what is happening; (f) Help remember important things from the past that continue to matter today. The example song teaches that one should cultivate various crops, not just one type, to avoid starvation."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.2",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kambizha bafunda kwimbapo lwimbo wa kishakulu (Ask learners to sing a traditional song)",
+                                "Buula bafunda kuteleka bulongo byambo bijimo mu lwimbo (Tell learners to listen carefully to words in the song)",
+                                "Lumbulwila byambo biji mu uno lwimbo bulongo (Explain words in this song well)",
+                                "Kambizha bafunda ku pashañanya byambo biji mu lwimbo na jishimikila japanyiwa (Ask learners to relate words in the song with a given story)"
+                            ],
+                            "learner_steps": [
+                                "Bembepo lwimbo wa kishakulu (Sing a traditional song)",
+                                "BTeleka bulongo byambo bijimo mu lwimbo (Listen carefully to words in the song)",
+                                "Lumbulwila byambo bijimo mu lwimbo (Understand words in the song)",
+                                "Bapashañanye byambo biji mu lwimbo na biji jishimikila (Relate words in the song with the story)"
+                            ],
+                            "short_notes": "Understanding vocabulary in songs helps connect them to stories and their meanings. Songs use figurative language, metaphors, and symbolic meanings that relate to story themes."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.3",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Nengezha biñambañamba byapusana-pusana bya kwingijisha pa kwimba nyimbo (Prepare various teaching materials for singing songs)",
+                                "Kambizha bafunda kwimba lwimbo ne kuteleka ku byambo bijimo (Ask learners to sing a song and listen to words in it)",
+                                "Ipuzha bafunda kulumbulula byambo biji mu uno lwimbo (Ask learners to explain words in this song)"
+                            ],
+                            "learner_steps": [
+                                "Batambule biñambañamba bya nengezha mufunjishi (Receive teaching materials from teacher)",
+                                "Bembe lwimbo ne kuteleka bulongo byambo bijimo (Sing a song and listen carefully to words in it)",
+                                "Lumbulwila byambo biji mu uno lwimbo ye baimba (Explain words in the song they sing)"
+                            ],
+                            "short_notes": "Active participation in singing helps learners: understand song meanings, connect songs to stories, appreciate cultural heritage, and develop performance skills. Songs are integral to oral storytelling traditions."
+                        }
+                    ],
+                    "short_notes": "Nyimbo (Songs) are an important element in oral storytelling. They serve to: unite people, teach lessons, bring joy, remind of historical events, help understanding, and preserve cultural memory. Songs in stories often contain key themes, enhance emotional impact, and make stories memorable. Traditional songs use figurative language and cultural references.",
+                    "vocabulary": [
+                        {
+                            "term": "Lwimbo",
+                            "definition": "Song"
+                        },
+                        {
+                            "term": "Nyimbo",
+                            "definition": "Songs (plural)"
+                        },
+                        {
+                            "term": "Kisho",
+                            "definition": "Culture/tradition"
+                        },
+                        {
+                            "term": "Kipembwe",
+                            "definition": "Ceremony/celebration"
+                        },
+                        {
+                            "term": "Kabola",
+                            "definition": "Cabbage"
+                        },
+                        {
+                            "term": "Lufunjisho",
+                            "definition": "Teaching/lesson"
+                        },
+                        {
+                            "term": "Lusangajiko",
+                            "definition": "Joy/happiness"
+                        },
+                        {
+                            "term": "Kishakulu",
+                            "definition": "Traditional/ancestral"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 32,
+                        "questions": [
+                            "Lumbulula buneme bwa kwingijisha nyimbo mu bishimi (Explain the importance of using songs in stories)",
+                            "Lumbulula lufunjisho lujimo mu jishimikila jo wapaana (Explain the teaching in the story you were given)",
+                            "Nemba kishimi kiji na lwiimbo kyo akamba mu lufunjisho (Write a story with a song that conveys a teaching)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4",
+                    "title": "LUNTUNWA (Symbolism)",
+                    "page": 32,
+                    "competences": [
+                        "Kulumbulula kyambo kya kintunwa (Define the term symbolism)",
+                        "Londolola bintunwa byo bingila mu jishimikila ja panyiwa (Identify symbols in a given story)",
+                        "Kuyuka luntunwa mu mashimikila apanyiwa (Understand symbolism in given stories)",
+                        "Kwisamba pa luntunwa lwa sobololwa mu jishimikila ja panyiwa (Discuss symbolism identified in a given story)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.1",
+                            "page": 33,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Toola kipikichala po anemba jishimikila muji bintunwa ape bafunda batange mu bipanyi (Choose a picture showing a story with symbols for learners to read in groups)",
+                                "Kambizha basobololamo bintunwa bijimo (Ask them to identify symbols in it)",
+                                "Ntangi ye basala bamu kambizhe kujibumba inge bapwisha kwisamba ne ku sobololalamo bipelu bya mwesha bintunwa (Select one group leader to ask how they managed to discuss and identify symbolic meanings)",
+                                "Panyuma ya kupana mikumbu yaabo ne kwiitanchika bulongo pa bbodi, ba nembe mikumbu yaabo mu mabuuku abo (After giving their answers and writing clearly on board, they should write answers in their books)"
+                            ],
+                            "learner_steps": [
+                                "Kutoola kikopwa/kipikichala kyo bebapa ku mufunjishi (Receive picture/illustration given by teacher)",
+                                "Bengile mwingilo wa ku sobololamo bintunwa byo bamona mu kikopwa (Enter into identifying symbols they see in the picture)",
+                                "Ntangi wa jibumba aye kulutwe na kunemba pa bbodi mikumbu ya taana jibumba (Group leader comes forward and writes group's answers on board)",
+                                "Banembe mu mabuuku abo (Write in their books)"
+                            ],
+                            "short_notes": "Kintunwa ke kyambo kimwesha kusombolola byubilo bya muntu nangwa kintu kupichila mu ñambilo nangwa mu byubilo - Symbolism is using objects to represent deeper meanings or ideas. Examples: Nkunda wi menako mutende (Lion represents bravery), muchima kwimenako butemwe (heart represents courage), jikumbi jifiita byo jimenako lufu (dark clouds represent death)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.2",
+                            "page": 34,
+                            "hook": "Pa muzhi pa ba Kyondoka (At the Kyondoka family's village)",
+                            "teacher_steps": [
+                                "Nemba ka kibaba muji luntunwa (Write a short paragraph with symbolism)",
+                                "Kambizhe bafunda ku sobololamo ngesakenyo iji mu ka kibaba ka kuuba amba luntunwa (Ask learners to identify the meaning in this paragraph to understand symbolism)",
+                                "Mutu bipanyi batanchike bino bipelu byo bafumya mu ka kibaba (In groups they should list these meanings they get from the paragraph)",
+                                "Kambizha munembeshi aye kulutwe na kunemba pa bbodi mikumbu ya taana kila kipanyi (Ask a writer to come forward and write answers for each group on board)"
+                            ],
+                            "learner_steps": [
+                                "Bekale mu tubipanyi batange kibaba kyo be bnengezhazha ku mufunjishi (Sit in small groups and read the paragraph given by teacher)",
+                                "Besambe pa kibaba kyo batanga (Discuss the paragraph they read)",
+                                "Basobololamo ngesakenyo ya'kintunwa' yo bataana mu jishimikila (Identify the meaning of 'symbolism' they find in the story)",
+                                "Munembeshi wa kipanyi a nembe mikumbu yaabo pa bbodi (Group writer writes their answers on board)"
+                            ],
+                            "short_notes": "Story symbols explained: Mikupa ya mipundu = Bad character; Kya bukonde baanshika kya kwanshika = Big buttocks; Meeso noobe ñondo = Bright eyes; Ba muchima = Courageous; Nkanga wafwainwa kabwe = Hard-headed; Kunema ku maboko = Generosity; Kupela ku maboko = Theft; Michima yawama = Courage; Muchima wa jibwe = Cruelty; Mikoko ya byela = Weakness"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.3",
+                            "page": 36,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kambizha bafunda baye mu bipanyi ba kesambe pa luntunwa lo basobolwele mu kibaba kyo be bapele (Ask learners to go into groups to discuss symbolism they identified in the paragraph given)",
+                                "Kambizhe babwele bonse pamo mu lufunjisho (Ask them to return all together in class)",
+                                "Bunke bunke bemike maboko mu lufunjisho bambe pa luntunwa (One by one raise hands in class to talk about symbolism)",
+                                "Amba pa byo batana byo bilumbulula (Talk about what they found that explains)"
+                            ],
+                            "learner_steps": [
+                                "Mu bipanyi besambe pa bipelu bya mwesha luntunwa byo bebisobolola mu kibaba (In groups discuss symbolic meanings they identified in the paragraph)",
+                                "Babwele mu lufunjisho (Return to the whole class)",
+                                "Bemike maboko bambe pa luntunwa lo baji kumona mu kibaba (Raise hands to talk about symbolism they see in the paragraph)",
+                                "Balumbulule luntunwa (Explain the symbolism)"
+                            ],
+                            "short_notes": "Common symbols: Nkunda = bravery/leadership; Muchima = courage; Bulombo bufita = death; Kyeya = wisdom/knowledge; Meema = life; Kichi = life/survival; Kipupulwa = change; Mulolo = hope; Kipungulu = knowledge/wisdom; Juuba = strength/life; Bokwe = strength/speed/agility"
+                        }
+                    ],
+                    "short_notes": "Luntunwa (Symbolism) is using objects, characters, or events to represent abstract ideas or deeper meanings beyond their literal sense. Symbols are culturally specific and help convey complex ideas simply. Common symbols in Kikaonde oral literature include animals (lion=bravery, rabbit=cleverness), body parts (heart=courage), natural elements (sun=life, darkness=death), and objects (fire=transformation).",
+                    "vocabulary": [
+                        {
+                            "term": "Luntunwa",
+                            "definition": "Symbolism - using objects to represent deeper meanings"
+                        },
+                        {
+                            "term": "Kintunwa",
+                            "definition": "Symbol"
+                        },
+                        {
+                            "term": "Nkunda",
+                            "definition": "Lion (symbol of bravery)"
+                        },
+                        {
+                            "term": "Muchima",
+                            "definition": "Heart (symbol of courage)"
+                        },
+                        {
+                            "term": "Bulombo",
+                            "definition": "Darkness (symbol of death)"
+                        },
+                        {
+                            "term": "Kyeya",
+                            "definition": "Light (symbol of wisdom)"
+                        },
+                        {
+                            "term": "Meema",
+                            "definition": "Water (symbol of life)"
+                        },
+                        {
+                            "term": "Bokwe",
+                            "definition": "Rabbit (symbol of cleverness)"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 37,
+                        "questions": [
+                            "Lumbululai kyambo kya luntunwa (Define the term symbolism)",
+                            "Tanchikai byambo nangwa bintu bilumbulula luntunwa (List words or things that show symbolism)",
+                            "Give examples: kichi (fire), kipupulwa (butterfly), mulolo (hope), kipungulu (wisdom), juuba (sun), bokwe (rabbit)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.5",
+                    "title": "NTWAMINO (Point of View/Narration)",
+                    "page": 37,
+                    "competences": [
+                        "Kulumbulula ntwamino (Define point of view)",
+                        "Pingula kishina kya ntwamino (Understand the concept of point of view)",
+                        "Kwisamba pa ntwamino itanshi, ntwamino ya bubiji ne ntwamino ya busatu (Discuss first person, second person, and third person point of view)",
+                        "Kuyuka bya kulenga ntwamino (Understand how to create point of view)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5.1",
+                            "page": 38,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kambizha bafunda kwingijila mu bipanyi (Ask learners to enter into groups)",
+                                "Buula umo mu bafunda ashimikile ka jishimikila kepi (Tell one learner to tell a short story)",
+                                "Epuzha bafunda besambe pa kano ka jishimikila (Ask learners to discuss this short story)",
+                                "Kambizha bafunda kulumbulula mwatala kyambo kya ntwamino (Ask learners to define the term point of view)",
+                                "Olola ndumbulwilo ya kyambo kya ntwamino panyuma ya bulumbuluzhi kufuma ku bafunda (Facilitate definition of point of view after explanation from learners)"
+                            ],
+                            "learner_steps": [
+                                "Bengijile mu bipanyi (Enter into groups)",
+                                "Umo ashimikile ka jishimikila kepi (One tells a short story)",
+                                "Besambe pa kano ka jishimikila (Discuss this short story)",
+                                "Lumbulwila kyambo kya ntwamino (Define the term point of view)",
+                                "BTeleka ku bulumbuluzhi bwa kyambo kya ntwamino kufuma ku mufunjishi (Listen to explanation of point of view from teacher)"
+                            ],
+                            "short_notes": "Ntwamino ke buyuke bwalamata ku ubena kushimikila jishimikila ne bishinka byoayuka awa ubeena kushimikila jishimikila - Point of view is the perspective from which a story is told and what the narrator knows. Types: Ntwamino itanshi (first person), ntwamino ya bubiji (second person), ntwamino ya busatu (third person)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5.2",
+                            "page": 39,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kambizha bafunda kwingijila mu bipanyi (Ask learners to enter groups)",
+                                "Buula umo mu bafunda ashimikile ka jishimikila kepi (Tell one learner to tell a short story)",
+                                "Ipuzha bafunda besambe pa kano ka jishimikila (Ask learners to discuss this short story)",
+                                "Kambizha bafunda besambe pa ntwamino itanshi, ya bubiji ne ya busatu (Ask learners to discuss first, second, and third person point of view)"
+                            ],
+                            "learner_steps": [
+                                "Bengijile mu bipanyi (Enter groups)",
+                                "Umo ashimikile ka jishimikila kepi (One tells a short story)",
+                                "Besambe pa ka jishimikila (Discuss the short story)",
+                                "Besambe pa ntwamino itanshi, ya bubiji ne ya busatu (Discuss first, second, and third person POV)"
+                            ],
+                            "short_notes": "Types of point of view: (a) Ntwamino itanshi (First person) - uses amiwa, atweba (I, we); narrator is a character in story; doesn't know everything about other characters. (b) Ntwamino ya bubiji (Second person) - uses obewa, anweba, abe, awe (you). (c) Ntwamino ya busatu (Third person) - uses awa, aba, aye (he, she, they); narrator is one of the characters; knows everything about other characters. Includes omniscient (knows all) and limited (knows one character's thoughts)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5.3",
+                            "page": 40,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kambizha bafunda bengile babiji-babiji (Ask learners to sit in pairs)",
+                                "Kambizha bafunda besambe pa bya kulenga ntwamino (Ask learners to discuss how to create point of view)",
+                                "Olola mikumbu ya bafunda (Facilitate learners' answers)"
+                            ],
+                            "learner_steps": [
+                                "Bengile babiji-babiji (Sit in pairs)",
+                                "Besambe pa bya kulenga ntwamino (Discuss how to create point of view)",
+                                "Banembe mikumbu yaolola mufunjishi (Write answers facilitated by teacher)"
+                            ],
+                            "short_notes": "Creating point of view: (1) First choose which POV is needed for the story being told; (2) Don't switch from the POV you chose; (3) Let the narration reveal the thoughts and words of the narrator. Kulenga ntwamino kyalumbulula buyukanyike bwa ubena kushimikila jishimikila ne ndonda yoalondela."
+                        }
+                    ],
+                    "short_notes": "Ntwamino (Point of View) is the perspective from which a story is narrated. It determines what information the narrator knows and can share. First person uses 'I/we' and is limited to narrator's knowledge. Second person uses 'you' (rare in stories). Third person uses 'he/she/they' and can be omniscient (all-knowing) or limited. The choice of POV affects reader engagement, intimacy, and information flow.",
+                    "vocabulary": [
+                        {
+                            "term": "Ntwamino",
+                            "definition": "Point of view - perspective of narration"
+                        },
+                        {
+                            "term": "Ntwamino itanshi",
+                            "definition": "First person point of view (I, we)"
+                        },
+                        {
+                            "term": "Ntwamino ya bubiji",
+                            "definition": "Second person point of view (you)"
+                        },
+                        {
+                            "term": "Ntwamino ya busatu",
+                            "definition": "Third person point of view (he, she, they)"
+                        },
+                        {
+                            "term": "Ushimikizha",
+                            "definition": "Narrator"
+                        },
+                        {
+                            "term": "Omniscient",
+                            "definition": "All-knowing narrator"
+                        },
+                        {
+                            "term": "Kulenga",
+                            "definition": "To create/establish"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 41,
+                        "questions": [
+                            "Nemba jishimikila pa mapuso owashinkilwepo. Londela mikambizho yowapewa pa kunemba: -Ingijisha ntwamino itanshi -jishimikila jobe ji nembewe pakachi ka byambo 200-250 (Write a story on a given topic. Follow instructions given for writing: Use first person point of view, story should be written in 200-250 words)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.6",
+                    "title": "MASHINDA AKWINGIJISHA PA KUSHIMIKIZHA (Narration Techniques)",
+                    "page": 42,
+                    "competences": [
+                        "Bafunda besambe pa mashinda aku shimikizhizhamo mashimikila (Learners discuss techniques for narrating stories)",
+                        "Basobolola mashinda aku shimikizhizhamo (Identify narration techniques)",
+                        "Balondolola mwatala ano mashinda (Analyze these techniques)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.1",
+                            "page": 43,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kambizha bafunda kwikala babiji-babiji (Ask learners to sit in pairs)",
+                                "Buula-bafunda kwisamba pa mashinda aku shimikizhizhamo mashimikila (Tell learners to discuss techniques for narrating stories)",
+                                "Kambizha bafunda kutongaula ano mashinda (Ask learners to list these techniques)",
+                                "Leka bafunda belembe mashinda oba tongola (Let learners write the techniques they listed)"
+                            ],
+                            "learner_steps": [
+                                "Bekale babiji babiji (Sit in pairs)",
+                                "Batanwe babiji-babiji ne kwisamba pa mashinda akwingijisha pa kushimikizha jishishimikila (Sit in pairs and discuss techniques for narrating stories)",
+                                "Batongaule mashinda obesambapo (List the techniques they discussed)",
+                                "Banembe ano mashinda (Write these techniques)"
+                            ],
+                            "short_notes": "Narration techniques include: (i) Nshimikizhizho ya ndonda (Linear narration) - follows chronological order from beginning to end; (ii) Nshimikizhizho ya kulumbulula (Descriptive narration) - focuses on detailed description of characters and things; (iii) Nshimikizhizho ya paimena mweno (Point of view narration) - includes first person, second person, third person, omniscient, and limited perspectives"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.2",
+                            "page": 44,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ipuzha bafunda kutongola mashinda akwingijisha pa kushimikizha jishimikila (Ask learners to list techniques for narrating stories)",
+                                "Ikajika bafunda mu bipanyi (Divide learners into groups)",
+                                "Kambizha bafunda kwisamba ne kulondolola mashinda akwingijisha (Ask learners to discuss and analyze techniques used)",
+                                "Kambizha bafunda kupana mikumbu yabo (Ask learners to give their answers)",
+                                "Olola mikumbu yapana bafunda (Facilitate answers from learners)"
+                            ],
+                            "learner_steps": [
+                                "Batongole mashinda akwingijisha pakushimikizha (List techniques for narrating)",
+                                "Bekale mu bipanyi ne kwisamba (Sit in groups and discuss)",
+                                "Besambe pa mashinda akwingijisha (Discuss the techniques)",
+                                "Bapane mikumbu kupichila mu kulondolola (Give answers through analysis)"
+                            ],
+                            "short_notes": "Examples to identify narration technique: (1) 'Nanyemene lubilo mu mfishi...' = First person; (2) 'Waikizhe kyefu...' = Second person; (3) 'Kaimana wakenkentele...' = Limited third person; (4) 'Kaimana wa lubijilemo...' = Omniscient"
+                        }
+                    ],
+                    "short_notes": "Mashinda akwingijisha pa kushimikizha (Narration Techniques) are methods used to tell stories effectively. They help narrators/writers organize their storytelling, create appropriate perspectives, and engage audiences. Key techniques: Linear narration (chronological), Descriptive narration (detailed descriptions), Point of view narration (first/second/third person perspectives). Choice of technique affects how information is revealed and how audiences engage with the story.",
+                    "vocabulary": [
+                        {
+                            "term": "Mashinda",
+                            "definition": "Techniques/methods"
+                        },
+                        {
+                            "term": "Kushimikizha",
+                            "definition": "To narrate/tell a story"
+                        },
+                        {
+                            "term": "Nshimikizhizho ya ndonda",
+                            "definition": "Linear narration"
+                        },
+                        {
+                            "term": "Nshimikizhizho ya kulumbulula",
+                            "definition": "Descriptive narration"
+                        },
+                        {
+                            "term": "Nshimikizhizho ya paimena mweno",
+                            "definition": "Point of view narration"
+                        },
+                        {
+                            "term": "Omniscient",
+                            "definition": "All-knowing narrator"
+                        },
+                        {
+                            "term": "Nshimikizhizho ya kupelelwa",
+                            "definition": "Limited narration"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 45,
+                        "questions": [
+                            "Tanga bino bipelu ne kunemba jishinda ja nshimikizhizho jaingijishiwa (Read these excerpts and write which narration technique is used)",
+                            "Examples provided with answers: (1) First person narration, (2) Second person narration, (3) Limited narration, (4) Omniscient"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.7",
+                    "title": "BIKOTA BYA JISHIMIKILA MU JISHIMIKLA JA SOMBEWA (Elements of Story in Written Literature)",
+                    "page": 46,
+                    "competences": [
+                        "Kusomba jishimikila jiji na bikota mukachi ka ajo (Read a story with elements within it)",
+                        "Kwingijisha bikota bya jishimikila mu mashimikila a sombwa (Use story elements in written stories)",
+                        "Kushimikizha jishimikila ja sombwa (Narrate a written story)",
+                        "Kulondolola bikota bya jishimikila biji mu mashimikila a sombwa (Identify story elements in written stories)",
+                        "Busombolozhi mu jishimikila ja sombwa (Role play in written stories)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.1",
+                            "page": 46,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Buula bafunda kwikala mu bipanyi (Tell learners to sit in groups)",
+                                "Kambizha bafunda basombe ne kunemba mashimikila (Ask learners to read and write stories)",
+                                "Kambizha munembeshi wa kipanyi kuya na kutanga jishimikila ku bakwabo (Ask group writer to go and read story to others)",
+                                "Imbila bafunda kwisamba pa mashimikila o banemba (Lead learners to discuss stories they wrote)",
+                                "Olola mashimikila o banemba (Facilitate the stories they wrote)"
+                            ],
+                            "learner_steps": [
+                                "Bekale mu bipanyi (Sit in groups)",
+                                "Basombe ne kunemba mashimikila (Read and write stories)",
+                                "Batange jishimikila ku bakwabo kupichila mu munembeshi (Read story to others through the writer)",
+                                "Besambe pa mashimikila o banemba (Discuss stories they wrote)",
+                                "Bolola mashimikila o banemba (Present the stories they wrote)"
+                            ],
+                            "short_notes": "Reading stories helps learners understand story structure and elements. Written stories contain the same elements as oral stories but are preserved in permanent form."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.2",
+                            "page": 47,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Buula bafunda kwisamba pa bikota bya jishimikila (Tell learners to discuss story elements)",
+                                "Kambizha bafunda kusolola misambo yabo (Ask learners to analyze their discussions)",
+                                "Olola mikumbu ya bafunda (Facilitate learners' answers)"
+                            ],
+                            "learner_steps": [
+                                "Besambe pa bikota bya jishimikila (Discuss story elements)",
+                                "Basolola misambo yabo (Analyze their discussions)",
+                                "Bolola mikumbu yabo (Present their answers)"
+                            ],
+                            "short_notes": "Story elements (Bikota bya jishimikila): (1) Bankaizhi (Characters) - people/animals/things in story; includes main character and antagonist; (2) Kabeta (Setting) - time and place where story happens; (3) Lukola (Plot) - sequence of events: beginning, development, climax, falling action, ending; (4) Malwañano (Conflict) - struggle in character's mind or with outside forces; drives plot forward; (5) Kishina (Theme) - main message/teaching; (6) Mweno (Point of view) - perspective from which story is told; (7) Nshimikilo (Narration) - method narrator uses to tell story"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.3",
+                            "page": 49,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abanya bafunda mu bipungu ne kwibabula amba basombe jishimikila (Divide learners into groups and tell them to read a story)",
+                                "Ipuzha bafunda kulondolola kyambo kya busombolozhi (Ask learners to analyze the term role play)",
+                                "Buula bafunda kuuba busombolozhi na jishimikila joba somba (Tell learners to do role play with the story they read)",
+                                "Olola bafunda mu busombolozhi bwabo (Facilitate learners in their role play)"
+                            ],
+                            "learner_steps": [
+                                "Kulondolola kyambo kya busombolozhi (Analyze the term role play)",
+                                "Mu bipungu kusoma jishimikila (In groups read a story)",
+                                "Kuuba busombolozhi na jishimikila ja sombwa (Do role play with the written story)"
+                            ],
+                            "short_notes": "Example story 'Jatwa': A man lived in a village. One day he went to the forest to hunt animals. He felt very happy but when he returned home he told his children that when going to the forest one must be careful about how the home is. Something bad happened and he couldn't find his way back to the village. His wife laughed a lot seeing he returned without success. This story teaches about being careful and not being overconfident."
+                        }
+                    ],
+                    "short_notes": "Written stories contain the same elements as oral stories: characters, setting, plot, conflict, theme, point of view, and narration. Understanding these elements helps readers analyze stories deeply and writers create effective stories. Role play helps bring written stories to life and demonstrates understanding of character, dialogue, and plot.",
+                    "vocabulary": [
+                        {
+                            "term": "Bikota",
+                            "definition": "Elements/components"
+                        },
+                        {
+                            "term": "Bankaizhi",
+                            "definition": "Characters"
+                        },
+                        {
+                            "term": "Kabeta",
+                            "definition": "Setting - time and place"
+                        },
+                        {
+                            "term": "Lukola",
+                            "definition": "Plot - sequence of events"
+                        },
+                        {
+                            "term": "Malwañano",
+                            "definition": "Conflict"
+                        },
+                        {
+                            "term": "Kishina",
+                            "definition": "Theme"
+                        },
+                        {
+                            "term": "Mweno",
+                            "definition": "Point of view/perspective"
+                        },
+                        {
+                            "term": "Nshimikilo",
+                            "definition": "Narration"
+                        },
+                        {
+                            "term": "Busombolozhi",
+                            "definition": "Role play/dramatization"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 52,
+                        "questions": [
+                            "Somba jishimikila ne kusolola bikota bijimo (Read a story and identify elements in it)",
+                            "Sombolola jishimikila jo wasomba (Role play the story you read)",
+                            "Identify: characters, setting, plot, conflict, theme in given stories"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

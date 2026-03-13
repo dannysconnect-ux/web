@@ -1,0 +1,290 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "5",
+    "subject": "Home Economics",
+    "philosophy": "Home Economics is an interdisciplinary field of study which endeavors to equip students with knowledge, practical and social skills, attitudes that are essential for success in a global society. The program seeks to equip learners with life skills that will help the recipient to cope with changes in a technological, socio-economical, and multi-cultural society. Home Economics incorporates the components of Food and Nutrition, Home Management, Health Education, Needlework, and Crafts. New concepts of Hospitality, Gender, Human Rights, Pollution, Entrepreneurship, and HIV and AIDS have been included. Learners engage in problem solving situations which require the application of knowledge and the use of practical skills. These situations take into account such factors as basic needs, lifestyles, financial resources, health, environment, and their effects on the individual, family, and society. Home Economics inculcates positive attitudes towards cost effectiveness in the utilization of local and indigenous resources. It also looks closely at the use of other resources. The program teaches learners to be self-reliant, business minded and health conscious. These challenges promote the well-being of the individual, family and the society. This is due to the fact that Home Economics concepts are mainly introduced and taught within the concept of the home, the school, and the local environment therefore, making it easier for learners to easily and immediately apply whatever knowledge and skills at school in various phenomenon in their near environment.",
+    "competence_learning": "The approach to teaching and learning is the learner-centered. Therefore, in order to develop learners with understanding, skills and values that can contribute to the development of society, the starting point for teaching and learning is to recognize that learners come to the school with a wealth of knowledge and social experience gained from the family, community and through interaction with the environment. Thus, learning in school must build on the learner's prior knowledge and experience. This is best achieved when learners are actively involved in the learning process through participation, contribution, and production. Each learner has individual needs, pace of learning, experiences in life and abilities. Thus, accommodate this teacher must be able to sense the needs of the learners, the nature of the learning to be done, and how to shape the learning experiences accordingly. Therefore, teaching methods must be varied but flexible within well-structured sequences of lessons and should include among others: Pair and Group work, Individual Work, Field trip Method, Project Method, Discussion Method, Guest Speaker, Demonstration Method, Team Teaching. The teacher should have reasons for deciding to choose a particular teaching method and must therefore employ strategies and techniques to make the lesson interesting. The syllabus outlines the learning outcomes and the teacher must decide, learning outcomes to be achieved, i.e. when it is best to let learners discover or explore information for themselves; when they need directed learning; when they need reinforcement or enrichment learning; when there is a particular progression of skills or information that needs to be followed; and when the learners can be allowed to find their way through a topic. In this way, outcomes can be attained in a spiral manner considering that in any lesson, different outcomes can be covered through knowledge, skills, and values. The objective is to ensure that learners are able to apply the knowledge gained in real life situations.",
+    "goals": [
+      "Preparing the pupils for self-survival, self-reliable and life in general.",
+      "Assisting the pupil to develop positive attitudes within the family, relatives, and the community and towards other ethnic groups.",
+      "Helping the pupils acquire and develop practical skills and knowledge.",
+      "Promoting knowledge and positive attitudes towards the importance of Home Economics as a discipline and its role in life."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "5.1",
+      "topic_title": "MEASURING AND WEIGHING",
+      "page_number": 12,
+      "subtopics": [
+        "5.1.1 Handy measures",
+        "5.1.2 Measuring and weighing ingredients"
+      ],
+      "specific_outcomes": [
+        "5.1.1.1 Describe handy measures",
+        "5.1.1.2 Convert hand measures to metric measurements",
+        "5.1.1.3 Explain the importance of measuring and weighing",
+        "5.1.1.4 Identify measuring and weighing equipment.",
+        "5.1.1.5 Measure and weigh ingredients"
+      ]
+    },
+    {
+      "unit": "5.2",
+      "topic_title": "FOOD AND NUTRITION",
+      "page_number": 12,
+      "subtopics": [
+        "5.2.1 Food nutrients",
+        "5.2.2.Food groups"
+      ],
+      "specific_outcomes": [
+        "5.2.1.1 Describe the food nutrients contained in foods.",
+        "5.2.1.2 Identify food groups and foods under each group",
+        "5.2.1.3 Make charts of food groups and food pyramid"
+      ]
+    },
+    {
+      "unit": "5.2",
+      "topic_title": "FOOD AND NUTRITION",
+      "page_number": 13,
+      "subtopics": [
+        "5.2.2 Table Manners"
+      ],
+      "specific_outcomes": [
+        "5.2.4.1 Explain what table manners are",
+        "5.2.4.2 Practice table Manners."
+      ]
+    },
+    {
+      "unit": "5.3",
+      "topic_title": "COOKING METHODS",
+      "page_number": 13,
+      "subtopics": [
+        "5.3.2. Food preparation",
+        "5.3.3. Methods of Cooking",
+        "5.3.4. Boiling and Roasting"
+      ],
+      "specific_outcomes": [
+        "5.3.2.1 Explain food Preparation",
+        "5.3.2.2 Identify suitable foods eaten raw",
+        "5.3.2.3.Prepare raw vegetables and fruits",
+        "5.3.3.1 Explain importance importance of cooking food",
+        "5.3.3.2 Identify cooking methods",
+        "5.3.4.1 Prepare dishes using boiling and roasting methods of cooking"
+      ]
+    },
+    {
+      "unit": "5.4",
+      "topic_title": "MEAL AND FLOUR MIXTURES",
+      "page_number": 13,
+      "subtopics": [
+        "5.4.1 Sources Meal and Flour mixtures"
+      ],
+      "specific_outcomes": [
+        "5.4.1.1 Identify sources meal and flour",
+        "5.4.1.2 Prepare flour mixtures using air"
+      ]
+    },
+    {
+      "unit": "5.5",
+      "topic_title": "HOSPITALITY",
+      "page_number": 13,
+      "subtopics": [
+        "5.5.1 Non-verbal communication in Hospitality business"
+      ],
+      "specific_outcomes": [
+        "5.5.1.1 Identify non-verbal and written communication used to welcome and receive people in different situations"
+      ]
+    },
+    {
+      "unit": "5.6",
+      "topic_title": "THE KITCHEN",
+      "page_number": 14,
+      "subtopics": [
+        "5.6.1 Types of kitchens",
+        "5.6.2 Kitchen utensils",
+        "5.6.3 Basic kitchen equipment"
+      ],
+      "specific_outcomes": [
+        "5.6.1.1 Describe types of Kitchens .",
+        "5.6.1.2 Identify different kitchen utensils",
+        "5.6.3.3 Identify basic kitchen equipment",
+        "5.6.3.4 Demonstrate the use kitchen utensils"
+      ]
+    },
+    {
+      "unit": "5.7",
+      "topic_title": "HOME",
+      "page_number": 14,
+      "subtopics": [
+        "5.7.1 Household cleaning equipment and materials"
+      ],
+      "specific_outcomes": [
+        "5.7.1.1 Identify cleaning equipment and materials",
+        "5.7.1.2 Use different household cleaning equipment and materials",
+        "5.7.1.3 Clean different household ware",
+        "5.7.1.4 Describe the order of washing up"
+      ]
+    },
+    {
+      "unit": "5.7",
+      "topic_title": "HOME MANAGEMENT",
+      "page_number": 15,
+      "subtopics": [
+        "5.7.2 Care of a Home."
+      ],
+      "specific_outcomes": [
+        "5.7.2.1. Describe the different ways of removing dust and dirt",
+        "5.7.2.1 Remove dust and dirt"
+      ]
+    },
+    {
+      "unit": "5.8",
+      "topic_title": "LAUNDRY",
+      "page_number": 15,
+      "subtopics": [
+        "5.8.1 Laundry equipment and materials",
+        "5.8.2 Laundry symbols",
+        "5.8.3 Laundry methods"
+      ],
+      "specific_outcomes": [
+        "5.8.1.1 Explain what laundry is",
+        "5.8.1.2 Explain the reasons for washing clothes",
+        "5.8.1.3 Identify various laundry equipment",
+        "5.8.1.4 Identify laundry materials",
+        "5.8.2.1 Interpret laundry Symbols",
+        "5.8.3.1 Describe the laundry methods",
+        "5.8.3.2 Use laundry Equipment and materials.",
+        "5.8.3.3 Launder small articles"
+      ]
+    },
+    {
+      "unit": "5.9",
+      "topic_title": "HUMAN DEVELOPMENT",
+      "page_number": 16,
+      "subtopics": [
+        "5.9.1 Uniqueness of the body",
+        "5.9.2 Grooming and self-respect"
+      ],
+      "specific_outcomes": [
+        "5.9.1.1 Identify body uniqueness in different individuals.",
+        "5.9.2.1 Explain good grooming and self-respect",
+        "5.9.2.2 Demonstrate good grooming and self-respect."
+      ]
+    },
+    {
+      "unit": "5.10",
+      "topic_title": "HYGIENE",
+      "page_number": 16,
+      "subtopics": [
+        "5.10.1 The body"
+      ],
+      "specific_outcomes": [
+        "5.10.1.1 Identify different parts of the body",
+        "5.10.1.2 Clean various body parts"
+      ]
+    },
+    {
+      "unit": "5.11",
+      "topic_title": "HEALTH EDUCATION",
+      "page_number": 16,
+      "subtopics": [
+        "5.11.1 Ventilation"
+      ],
+      "specific_outcomes": [
+        "5.11.1.1 Identify methods of ventilation",
+        "5.11.1.2 Describe the dangers of poor ventilation",
+        "5.11.1.3 Explain effective ways of having good ventilation"
+      ]
+    },
+    {
+      "unit": "5.12",
+      "topic_title": "WATER AND SANITATION",
+      "page_number": 17,
+      "subtopics": [
+        "5.12.1 Water",
+        "5.12.2 Sanitation"
+      ],
+      "specific_outcomes": [
+        "5.12.1.1 Identify types of water",
+        "5.12.1.2 Describe uses of Water in the home",
+        "5.12.1.3 Describe the methods water purification",
+        "5.12.1.4 Purify water",
+        "5.12.1.5 Store water appropriately",
+        "5.12.2.1 Explain the importance of good sanitation",
+        "5.12.2.2 Dispose of different waste",
+        "5.12.2.3 Describe the process of cleaning a kitchen bin",
+        "5.12.2.4 Clean a kitchen bin"
+      ]
+    },
+    {
+      "unit": "5.13",
+      "topic_title": "SAFETY IN THE HOME",
+      "page_number": 18,
+      "subtopics": [
+        "5.13.1 Prevention of accidents in the home"
+      ],
+      "specific_outcomes": [
+        "5.13.1.1 Identify the causes of common accidents in the home",
+        "5.13.1.2 Describe safety rules",
+        "5.13.1.3 Demonstrate safety rules in the home.",
+        "5.13.1.4 Store household items that can cause accidents away from children"
+      ]
+    },
+    {
+      "unit": "5.14",
+      "topic_title": "NEEDLEWORK",
+      "page_number": 19,
+      "subtopics": [
+        "5.14.1 Tools"
+      ],
+      "specific_outcomes": [
+        "5.12.1.1 Identify needlework tools",
+        "5.12.1.2 Use needlework tools correctly",
+        "5.12.1.3 Make a measuring card according to specification"
+      ]
+    },
+    {
+      "unit": "5.15",
+      "topic_title": "PROCESSES",
+      "page_number": 19,
+      "subtopics": [
+        "5.15.1 Stitches"
+      ],
+      "specific_outcomes": [
+        "5.15.1.1 Describe groups of stitches",
+        "5.15.1.2 Make samples of different stitches",
+        "5.15.1.3 Apply the permanent, neatening and decorative stitches on different articles appropriately."
+      ]
+    },
+    {
+      "unit": "5.15",
+      "topic_title": "PROCESSES",
+      "page_number": 20,
+      "subtopics": [
+        "5.15.2 Seams"
+      ],
+      "specific_outcomes": [
+        "5.15.2.1 Identify classes of seams",
+        "5.15.2.2 Describe the factors affecting choice of seams on a garment",
+        "5.15.2.3 Explain rules for working out seams",
+        "5.15.2.4 Sew samples of different seams"
+      ]
+    },
+    {
+      "unit": "5.16",
+      "topic_title": "CRAFT WORK",
+      "page_number": 20,
+      "subtopics": [
+        "5.16.1 Plaiting",
+        "5.16.2 Toy making"
+      ],
+      "specific_outcomes": [
+        "5.16.1.1 Identify tools used for sewing together plaited pieces",
+        "5.16.1.2 Plait table mats.",
+        "5.16.2.1 Identify different materials used to make toys",
+        "5.16.2.2 Make toys using various materials"
+      ]
+    }
+  ]
+}

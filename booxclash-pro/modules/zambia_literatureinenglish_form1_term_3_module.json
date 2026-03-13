@@ -1,0 +1,308 @@
+{
+    "subject": "Literature in English",
+    "grade": "Form 1",
+    "term": 3,
+    "topics": [
+        {
+            "topic_id": "1.2.2",
+            "topic_title": "Written Literature",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.2.2.3",
+                    "title": "Drama",
+                    "page": 12,
+                    "competences": [
+                        "Demonstrate understanding of drama",
+                        "Perform Plays"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Introduce drama and its elements to the learners and how drama can be performed as provided in the excerpt 'The Price of a Shortcut'",
+                                "Lead a class discussion on drama and its elements",
+                                "Consolidate the activity by highlighting key elements: Drama is a genre of literature intended to be performed by actors in front of an audience"
+                            ],
+                            "learner_steps": [
+                                "Participate in class discussion on drama and its elements",
+                                "Identify elements of drama including plot, characters, dialogue, conflict, theme, setting, staging, stage directions, symbolism, and irony",
+                                "Analyze the script 'The Price of a Shortcut' for dramatic elements"
+                            ],
+                            "short_notes": "Drama is a genre of literature that is intended to be performed by actors in front of an audience. It can also be experienced through reading scripts. Key elements include: Plot (sequence of events), Characters/Actors (performers), Dialogue (conversations between characters), Conflict (problem driving the plot), Theme (central idea), Setting (time, place, social context), Staging (set design), Stage Directions (instructions for performance), Symbolism (objects/actions representing deeper meaning), and Irony (statements opposite of actual meaning)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Assign topics to learners on which they can write scripts to be acted in the next lesson",
+                                "Let the learners present the scripts that they wrote as assigned in the previous lesson",
+                                "Allow the groups to perform their plays",
+                                "Conduct a plenary session",
+                                "Consolidate the activity by highlighting performance skills: costume, voice projection, body movement, facial expression, gestures, props, staging, stage directions, and turn-taking"
+                            ],
+                            "learner_steps": [
+                                "Write scripts on assigned topics (cross-cutting themes: gender, climate change, corruption, governance)",
+                                "Present and perform plays in groups",
+                                "Practice costume wearing and character portrayal",
+                                "Apply voice projection for clarity and audibility",
+                                "Use body movement including posture, gestures, facial expressions, and gait",
+                                "Handle props appropriately",
+                                "Follow stage directions",
+                                "Practice turn-taking in dialogue"
+                            ],
+                            "short_notes": "Performing plays requires specific skills: Costume (clothing and accessories to portray characters), Voice projection (clarity and audibility), Body movement (deliberate physical expression including posture, gestures, facial expression, gait), Facial expression (showing emotions and reactions), Gestures (body movements to communicate meaning and emotions), Properties/Props (objects actors handle on stage), Staging (set design presentation), Stage Directions (playwright's performance instructions), Turn-taking (conversational rhythm in dialogue)."
+                        }
+                    ],
+                    "short_notes": "Drama is a genre of literature involving serious emotional or thought-provoking narrative presented before an audience. It includes scripts meant for performance and contains essential elements like plot, character, dialogue, setting, conflict, staging, theme, symbolism, and irony. Performance requires skills in costume, voice projection, body movement, facial expression, gestures, use of props, following stage directions, and turn-taking.",
+                    "vocabulary": [
+                        {
+                            "term": "Script",
+                            "definition": "A piece of writing meant to be performed"
+                        },
+                        {
+                            "term": "Analyse",
+                            "definition": "To examine something in detail"
+                        },
+                        {
+                            "term": "Genre",
+                            "definition": "A type of artistic work that shares common characteristics"
+                        },
+                        {
+                            "term": "Theme",
+                            "definition": "A central idea in a literary work"
+                        },
+                        {
+                            "term": "Audience",
+                            "definition": "A group of people before whom drama is performed"
+                        },
+                        {
+                            "term": "Emotions",
+                            "definition": "Strong feelings evoked in people as they watch or listen to drama"
+                        },
+                        {
+                            "term": "Plot",
+                            "definition": "The sequence of events in a play"
+                        },
+                        {
+                            "term": "Characters (Actors)",
+                            "definition": "Performers of actions in a play"
+                        },
+                        {
+                            "term": "Dialogue",
+                            "definition": "Conversations between two characters"
+                        },
+                        {
+                            "term": "Conflict",
+                            "definition": "The problem or struggle that the character encounters which drives the plot and creates tension"
+                        },
+                        {
+                            "term": "Setting",
+                            "definition": "The time, place and social context in which the drama takes place"
+                        },
+                        {
+                            "term": "Staging",
+                            "definition": "How the play is presented on stage (set design)"
+                        },
+                        {
+                            "term": "Stage Directions",
+                            "definition": "Instructions given by the playwright for the performance describing how actors should move, speak or interact"
+                        },
+                        {
+                            "term": "Symbolism",
+                            "definition": "Objects, actions or characters that represent deeper meaning"
+                        },
+                        {
+                            "term": "Irony",
+                            "definition": "Statements that are directly opposite of what is actually meant"
+                        },
+                        {
+                            "term": "Costume",
+                            "definition": "Clothing and accessories worn by actors to portray characters in a play"
+                        },
+                        {
+                            "term": "Voice projection",
+                            "definition": "Clarity and audibility of the actor's voice"
+                        },
+                        {
+                            "term": "Body movement",
+                            "definition": "Deliberate use of an actor's physical self to convey meaning, feelings and emotions including posture, gestures, facial expression and gait"
+                        },
+                        {
+                            "term": "Facial expression",
+                            "definition": "Use of the face to show emotions, thoughts and reactions of a character"
+                        },
+                        {
+                            "term": "Gestures",
+                            "definition": "Small movements used with any part of the body to communicate meaning, feelings or actions to an audience"
+                        },
+                        {
+                            "term": "Properties (Props)",
+                            "definition": "Objects that actors handle or use on stage"
+                        },
+                        {
+                            "term": "Turn-taking",
+                            "definition": "The way actors in a conversation take turns speaking, listening and responding"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 15,
+                        "questions": [
+                            "Assign topics to learners on which they can write scripts to be acted in the next lesson",
+                            "Assign learners specific roles that they will act out in a play on any cross-cutting themes"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2.2.4",
+                    "title": "Poetry",
+                    "page": 17,
+                    "competences": [
+                        "Demonstrate understanding of Poetry",
+                        "Perform Poems"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Introduce poetry and its elements to the learners and how poems can be performed and reviewed as provided in the excerpt 'Zambia is Getting Warmer'",
+                                "Ask learners to state emotions and ideas on which poems can be based (guide learners on thematic areas of poetry)",
+                                "Lead a class discussion on what a poem is and its elements",
+                                "Consolidate the activity by highlighting: Poetry is a form of literature that uses rhythmic and figurative language to express emotions and ideas"
+                            ],
+                            "learner_steps": [
+                                "Read and analyze the poem 'Zambia is Getting Warmer'",
+                                "State emotions and ideas on which poems can be based",
+                                "Participate in class discussion on poetry and its elements",
+                                "Identify structural elements: form, stanza, line, verse, rhythm, rhyme",
+                                "Identify poetic devices: mood, imagery, language, tone, alliteration, assonance, consonance, onomatopoeia"
+                            ],
+                            "short_notes": "Poetry is a form of literature that uses rhythmic and figurative language to express emotions and ideas. A poem is a literary work that expresses emotions and ideas. Poems are usually Didactic (intended to teach a lesson) or Aesthetic (appreciation of beauty). Structural elements include: Form (structure of the poem), Stanza (division of two or more lines), Line (unit of writing), Verse (collection of lines with metrical rhythm), Rhythm (pattern of stressed/unstressed syllables), Rhyme (repetition of similar sounds). Poetic devices include: Mood, Imagery (descriptive language appealing to senses), Language (poet's word choice including figurative language), Tone (poet's attitude), Alliteration (repetition of initial consonant sounds), Assonance (repetition of vowel sounds), Consonance (repetition of consonant sounds), Onomatopoeia (words that imitate sounds). Narrative poetry includes plot, setting, characters and characterization."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1d",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Play a poem for the learners to listen to",
+                                "Lead a discussion on how to perform poems on different cross-cutting issues (drug abuse, climate change, corruption, human rights, teenage pregnancies)",
+                                "Put learners in groups, ask them to perform poems on different cross-cutting issues given in the previous activity",
+                                "Lead a discussion on reviewing performed poems (Content and meaning, poetic devices and techniques, structure and organisation)",
+                                "Consolidate the activity by highlighting key aspects of how poems are performed and reviewed"
+                            ],
+                            "learner_steps": [
+                                "Listen to performed poems",
+                                "Discuss how to perform poems on cross-cutting issues",
+                                "Perform poems in groups on topics like drug abuse, climate change, corruption, human rights, teenage pregnancies",
+                                "Apply vocal delivery techniques",
+                                "Use gestures and body language",
+                                "Emphasize poetic devices: imagery, repetition, alliteration, assonance, figurative language",
+                                "Review performed poems for content, meaning, poetic devices, and structure"
+                            ],
+                            "short_notes": "Performing poetry involves bringing a poem to life through vocal expression, movement, and engagement with an audience. Performance focuses on content, meaning, poetic devices and structural organization. Content and Meaning: Often reflects personal experiences, cultural identity, historical themes, or contemporary social issues. Poetic Devices in performance include: Imagery (vivid descriptions engaging senses), Repetition (reinforces key messages and creates rhythm), Alliteration and Assonance (enhance musicality), Figurative Language (adds depth to meaning). Performance poetry involves delivering poetry aloud with emphasis on vocal delivery, gestures and body language to create a dynamic and engaging experience. It combines poetry, storytelling and performance as artistic expression."
+                        }
+                    ],
+                    "short_notes": "Poetry is a genre of literature used to express ideas and emotions. It is a form of literature that uses rhythmic and figurative language. Poems can be Didactic (teaching) or Aesthetic (beauty appreciation). Key structural elements include form, stanza, line, verse, rhythm, and rhyme. Poetic devices include mood, imagery, language, tone, alliteration, assonance, consonance, and onomatopoeia. Performance poetry emphasizes vocal delivery, gestures, body language, and engagement with audience, combining poetry, storytelling and performance.",
+                    "vocabulary": [
+                        {
+                            "term": "Poetry",
+                            "definition": "A form of literature that uses rhythmic and figurative language to express emotions and ideas"
+                        },
+                        {
+                            "term": "Poem",
+                            "definition": "A literary work that expresses emotions and ideas"
+                        },
+                        {
+                            "term": "Didactic",
+                            "definition": "A literary work that intends to deliver a lesson"
+                        },
+                        {
+                            "term": "Aesthetic",
+                            "definition": "An appreciation of beauty of literary works"
+                        },
+                        {
+                            "term": "Form",
+                            "definition": "The structure of the poem"
+                        },
+                        {
+                            "term": "Stanza",
+                            "definition": "A division of a poem consisting of two or more lines arranged together as a unit"
+                        },
+                        {
+                            "term": "Line",
+                            "definition": "A unit of writing into which a poem or play is divided"
+                        },
+                        {
+                            "term": "Verse",
+                            "definition": "A collection of lines with a metrical rhythm in a poem"
+                        },
+                        {
+                            "term": "Rhythm",
+                            "definition": "The pattern of stressed and unstressed syllables in lines of poetry; it creates a musical quality"
+                        },
+                        {
+                            "term": "Rhyme",
+                            "definition": "The repetition of similar sounds in two or more words"
+                        },
+                        {
+                            "term": "Mood",
+                            "definition": "The disposition of mind and feelings that characterize a poem or part of it"
+                        },
+                        {
+                            "term": "Imagery",
+                            "definition": "Descriptive language that appeals to the senses"
+                        },
+                        {
+                            "term": "Language",
+                            "definition": "The poet's word choice including figurative language"
+                        },
+                        {
+                            "term": "Tone",
+                            "definition": "The poet's attitude towards the subject or audience"
+                        },
+                        {
+                            "term": "Alliteration",
+                            "definition": "Repetition of initial consonant sounds"
+                        },
+                        {
+                            "term": "Assonance",
+                            "definition": "Repetition of vowel sound"
+                        },
+                        {
+                            "term": "Consonance",
+                            "definition": "Repetition of consonant sounds within or at the end of words"
+                        },
+                        {
+                            "term": "Onomatopoeia",
+                            "definition": "Words that imitate sounds"
+                        },
+                        {
+                            "term": "Vocal delivery",
+                            "definition": "The manner of speaking or presenting poetry aloud"
+                        },
+                        {
+                            "term": "Performance poetry",
+                            "definition": "Delivering poetry aloud with emphasis on vocal delivery, gestures and body language to create a dynamic and engaging experience"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 18,
+                        "questions": [
+                            "Provide a poem and ask learners to identify the elements of poetry in that poem",
+                            "Homework: Assign poems to learners to be performed in the next lesson",
+                            "In groups, assign learners to perform at least one poem"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

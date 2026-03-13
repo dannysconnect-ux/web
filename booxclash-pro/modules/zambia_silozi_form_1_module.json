@@ -1,0 +1,943 @@
+{
+  "subject": "Silozi",
+  "grade": "Form 1",
+  "term": 3,
+  "topics": [
+    {
+      "topic_id": "1.0",
+      "topic_title": "MIINELO NI MITOMO YA NAHA (NATIONAL VALUES)",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.1",
+          "title": "Ngambolo - Kuikambota",
+          "page": 8,
+          "competences": [
+            "Baitusise lipulelo zelukile ni zeswanela kuikambota litaba za namungelele (miinelo ni mitomo ya naha)"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 9,
+              "hook": "Kuikambota taba yefilwe yeama litaba za namungelele (miinelo ni mitomo wa naha)",
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya kutaluhanya kuli kanti litaba za namungelele kiñi",
+                "Alaele bana ba sikolo kueza lipatisiso zekatungunyuna kuli kanti litaba za namungelele kiñi, ni mitala ya litaba za namungelele mwa naha",
+                "Abonise bana ba sikolo kobakona kufumana likalabo za taba yeamboliwa; libuka za mifuta, makepe a intaneti, mitende, kuikambota ni bo caaziba ba milonganyana",
+                "Abeleke ni bana ba sikolo kubupa sikuka ka kuitusisa kwa kubata likalabo",
+                "Abeleke ni bana ba sikolo kubupa sikuka sa kuikambota zefutuka mwa lipatisiso ka kutomahanya litaba hande",
+                "Aikambote ni bana ba sikolo kuama mayemo amande akuikambota litaba ni babanwi"
+              ],
+              "learner_steps": [
+                "Babupe sikuka sa kuezisa lipatisiso fa taba yebafilwe; litaba za namungelele (miinelo ni mitomo ya naha) ki sikamañi?",
+                "Babatisise kuli litaba za namungelele (miinelo ni mitomo ya naha) ki sikamañi?",
+                "Baikambote lipatisiso zabona ka kuluka; kuitusisa mayemo amande mutu aambola ni babañwi",
+                "Bafitise lipatisiso zabona zelukile kuama taba ya 'litaba za namungelele?' mwa ngambolo ni bana ba sikolo babañwi",
+                "Bateleeze kubabañwi ni kufa babañwi likute fa maikuto abona",
+                "Basikululane fa taba yeambolwa ka kuitusisa bupaki bobutiile bobuzwa mwa lipatisiso isiñi litaba za kutwi"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 13,
+              "hook": "Kufitisa litaba zefutuka mwa lipatisiso zeama taba yefilwe",
+              "teacher_steps": [
+                "Alaele bana ba sikolo kueza lipatisiso zekatungunyuna kuli kanti litaba za namungelelele (miinelo ni mitomo ya naha) ki sikamañi, musebezi wa litaba za namungelel fiufi",
+                "Abeleke ni bana ba sikolo kubupa sikuka sa kuitusisa kwa kubata likalabo",
+                "Abeleke ni bana ba sikolo kubupa sikuka sa kufitisa zefutuka mwa lipatisiso ka kutomahanya litaba hande",
+                "Ataluseze bana ba sikolo kufitisa lipatisiso za butokwa bwa manzwi abulezwi mwa likwata zabona"
+              ],
+              "learner_steps": [
+                "Babupe sikuka sa kuitusisa kueza lipatisiso",
+                "Baeze lipatisiso zetoloka kuli litaba za namungelele ki sikamani",
+                "Babupe sikuka sa kuitusisa kufitisa lipatisiso",
+                "Bafitise lipatisiso zabona ka swanelo"
+              ]
+            }
+          ],
+          "short_notes": "Litaba za namungelele ki matata a zieza mwa mikwa yemiñata mi litokwa mikwa yemiñata kufeza butata bo. Ki matata atiswa ni kuekezwa kilika zeñata mi kubutokwa kuswalisana ni licaziba ze shutana kubufeza. Litaba za namungelele likona kuba mwa likalulo zepeli. Yapili ki lika zetiswa ki likezo zaluna batu, yabubeli ki lika zetiswa ki miinelo ya lifasi. Bumaswe bwa litaba za namungelele: Litaba za namungelele kaufela kunani palo yasicaba belikona kuzieza. Lilukela kuba nibo caziba babakona kueleza kusileleza batu. Haiba lusalateleli likelezo, lukapalelwa kusileleza litaba ze. Kubutokwa kualula litaba za namungelele ilikuli silelezo ieziwe kufita kalafo.",
+          "vocabulary": [
+            {
+              "term": "Butu",
+              "definition": "Quality of being good/goodness"
+            },
+            {
+              "term": "Likuta",
+              "definition": "Respect"
+            },
+            {
+              "term": "Kamuhelo",
+              "definition": "Hospitality/welcoming"
+            },
+            {
+              "term": "Kusebeza katata",
+              "definition": "Hard work"
+            },
+            {
+              "term": "Buisepi",
+              "definition": "Honesty"
+            },
+            {
+              "term": "Buikoneli",
+              "definition": "Self-reliance"
+            },
+            {
+              "term": "Swalisano",
+              "definition": "Unity/cooperation"
+            }
+          ],
+          "assessment": {
+            "page": 14,
+            "questions": [
+              "Kubupa sikuka sa kuezisa lipatisiso fa taba yefilwe",
+              "Kueza lipatisiso fa taba yefilwe",
+              "Kubupa sikuka sa kufitisa zefutuka mwa lipatisiso",
+              "kufitisa zefutuka mwa lipatisiso ka kuluka ni kaitusisa lipulelo zende (maketiyamba)",
+              "Kutoloka kuli mulyani ni sikamañi, mifuta ya litaba za namungelele ni mitala ya litaba zeo"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.2",
+          "title": "Manzwi (Vocabulary) - Taluso ya manzwi",
+          "page": 15,
+          "competences": [
+            "Baitusise manzwi azamaelela ni sitopa sabona"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 15,
+              "hook": "Kuikambota taluso ya manzwi aketilwe",
+              "teacher_steps": [
+                "Alukise lipulelo zeama litaba za miinelo ni mitomo ya naha",
+                "Akenye bana ba sikolo mwa ngambolo ya kukona kufumana manzwi aama miinelo ni mitomo ya naha",
+                "Abeleke ni bana ba sikolo kukolohanya manzwi ao kuya ka lipulelo zefilwe"
+              ],
+              "learner_steps": [
+                "Bakene mwa ngambolo ya kukona kufumana manzwi aama miinelo ni mitomo ya naha amwa lipulelo zefa caati",
+                "Bakolohanye manzwi aama miinelo ni mitomo ya naha kuya ka lipulelo zefilwe"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 17,
+              "hook": "Kufitisa litaluso za manzwi",
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya kukona kuikambota mukwa mwa kufitiseza litaluso za manzwi",
+                "Abeleke ni bana ba sikolo kubupa sikuka sa kufitisa likalabo zabona kubabañwi"
+              ],
+              "learner_steps": [
+                "Bakene mwa ngambolo yakukona kuikambota mukwa mwa kufitiseza litaluso za manzwi",
+                "Babupe sikuka sa kufitisa likalabo zabona kubabañwi",
+                "Bafitise litaluso za manzwi aketilwe ku babañwi"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 18,
+              "hook": "Kuitusisa manzwi aketilwe mwa lipulelo",
+              "teacher_steps": [
+                "Akete manzwi kuaitutilwe kuli bana ba sikolo baitusise ona mwa lipulelo za bona zakuikupulela kubonisa hande kuli baziba litaluso zaona"
+              ],
+              "learner_steps": [
+                "Baitusise manzwi aketilwe mwa lipulelo za bona zakuikupulela kubonisa hande kuli baziba litaluso zaona"
+              ]
+            }
+          ],
+          "short_notes": "Manzwi aama miinelo ni mitomo ya naha: Butu, likuta, kamuhelo, kusebeza katata, buisepi, buikoneli, swalisano, sizo, pukelezo ya lika, mutendasilya, tamaiso, sizo, likute, likeleke, tukuluho. Litaluso za manzwi liswanela kuikambotwa ka kuluka kuli bana ba sikolo bakone kuitusisa manzwi ao mwa lipulelo za bona.",
+          "vocabulary": [
+            {
+              "term": "Butu",
+              "definition": "Goodness"
+            },
+            {
+              "term": "Likuta",
+              "definition": "Respect"
+            },
+            {
+              "term": "Kamuhelo",
+              "definition": "Hospitality"
+            },
+            {
+              "term": "Kusebeza katata",
+              "definition": "Hard work"
+            },
+            {
+              "term": "Buisepi",
+              "definition": "Honesty"
+            },
+            {
+              "term": "Buikoneli",
+              "definition": "Self-reliance"
+            },
+            {
+              "term": "Swalisano",
+              "definition": "Unity/cooperation"
+            }
+          ],
+          "assessment": {
+            "page": 18,
+            "questions": [
+              "Kukena mwa ngambolo yakukona kuikambota mukwa mwa kufitiseza litaluso za manzwi",
+              "Kubupa sikuka sa kufitisa likalabo zabona kubabañwi",
+              "Kufitisa litaluso za manzwi aketilwe kubabañwi"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.3",
+          "title": "Kubala Kabutungi - Kubala ka kutwisiso",
+          "page": 19,
+          "competences": [
+            "Babale litaba zeshutana zezamaelela ni sitopa sabona ka kutwisiso"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 19,
+              "hook": "Kubala litaba",
+              "teacher_steps": [
+                "Akete taba yezamaelela ni sitopa sa bana ba sikolo. Taba ibe ye safiteleli likepe lililiñwi mi yambole za miinelo ni mitomo ya naha",
+                "Abulelele bana ba sikolo mulelo wa kubala",
+                "Akenye bana ba sikolo mwa ngambolo ya kuikambota za miinelo ni mitomo ya naha",
+                "Abeleke ni bana ba sikolo kukona kufumana mikwa ya kubala",
+                "Aalule bana ba sikolo mwa tukwata twa banana babane (4) mi afe bana ba sikolo taba yeama miinelo ni mitomo ya naha kuli babale inge baitusisa mikwa ya kubala",
+                "Atuse bana ba sikolo mwa tukwata abanze babala",
+                "Akenye bana ba sikolo mwa kalulo ya kubala taba mwa butungi"
+              ],
+              "learner_steps": [
+                "Bakene mwa ngambolo ya kuikambota za miinelo ni mitomo ya naha ya naha",
+                "Babeleke ni muluti kukona kufumana mikwa ya kubala",
+                "Baine mwa tukwata twa banana babane (4) mi babale taba yefilwe inge baitusisa mikwa ya kubala",
+                "Babale taba mwa butungi"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 21,
+              "hook": "Kualaba lipuzo zeshutana",
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya likuka moliwela lipuzo",
+                "Abeleke ni bana ba sikolo kunyakisisa ni kufumana sikuka moiwela puzo ni puzo",
+                "Abulelele bana ba sikolo kualaba lipuzo zekwatasaa taba yebalilwe"
+              ],
+              "learner_steps": [
+                "Bakene mwa ngambolo ya kukona kuikambota likuka moliwela lipuzo",
+                "Babeleke ni muluti kunyakisisa ni kufumana sikuka moiwela puzo ni puzo",
+                "Baalabe lipuzo zekwatasaa taba yebalilwe zeshutana"
+              ]
+            }
+          ],
+          "short_notes": "Mulelo wa kubala uiputezi: Kutibisa muhupulo, Kubala ka Kutwisiso, Kunyakisisa. Mikwa ya kubala: Skimming (kubala kabubebe kubata muhupulo), Scanning (kubala kapili kakubata mihupulo ya butokwa), Kubala ka butungi. Likuka moliwela lipuzo: Knowledge - kuiputezi lipuzo zekona kuhupuleha, Comprehension/interpretation - lipuzo zekona kuutwisiseha ni kubulelwa ka mukwa omuñwi, Application - lipuzo zeama kuitusisa zibo mwa miinelo kapa mikwa yemiñwi, Analysis - lipuzo zetokwa kunyakisisa kuli kufumanwe niti ya taba, Synthesis - lipuzo zetokwa kukona kubeya mihupulo yeshutana hamoho, Evaluation - lipuzo zeama kufa kuatula zeutwile kapa zebalilwe.",
+          "vocabulary": [
+            {
+              "term": "Skimming",
+              "definition": "Reading quickly to get the main idea"
+            },
+            {
+              "term": "Scanning",
+              "definition": "Reading to find specific information"
+            },
+            {
+              "term": "Kunyakisisa",
+              "definition": "To analyze/examine closely"
+            }
+          ],
+          "assessment": {
+            "page": 22,
+            "questions": [
+              "Kukena mwa ngambolo ya kuikambota za miinelo ni mitomo ya naha",
+              "Kubeleka ni muluti kukona kufumana mikwa ya kubala",
+              "Kuina mwa tukwata twa banana babane (4) ni kubala taba yefilwe inge baitusisa mikwa ya kubala",
+              "Kubala taba mwa butungi"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.4",
+          "title": "Kuñola Taba - Kuñola taba yetalusa sika (Descriptive Writing)",
+          "page": 34,
+          "competences": [
+            "Bañole taba yetalusa (batu)"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 34,
+              "hook": "Kuikambota lika zesupa taba yetalusa sika ni pupo ya yona",
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya kukona kuikambota kuli taba yetalusa sika ki taba yecwañi",
+                "Akenye bana ba sikolo mwa ngambolo ya kukona kuikambota pupo ya taba yetalusa sika ni lika zesupa taba yecwalo"
+              ],
+              "learner_steps": [
+                "Bakene mwa ngambolo ya kukona kuikambota kuli taba yetalusa sika ki taba yecwani",
+                "Bakene mwa ngambolo ya kukona kuikambota pupo ya taba yetalusa sika ni lika zesupa taba yecwalo"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 36,
+              "hook": "Kuñola taba yetalusa sika (batu)",
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya kukona kuikambota sikuka sa lika zelukela kuñoliwa hakutaluswa batu",
+                "Alaele bana ba sikolo kuñola taba yetalusa (batu)"
+              ],
+              "learner_steps": [
+                "Bakene mwa ngambolo ya kukona kuikambota sikuka sa zelukela kuñoliwa hakutalusiwa (butu)",
+                "Bañole taba yetalusa batu"
+              ]
+            }
+          ],
+          "short_notes": "Taba yetalusa sika ki mufuta wa taba yefa ponahalo ya sika seo sitalusiwa. Pupo ya taba yetalusa sika iswana sina ya libata zeñwi. Taba yetalusa inani: Makalelo (mo kuzibahazwa sika seo sitalusiwa), Mubili wa taba (mo sika seo sitalusiwa siñoliwa ka butungi. Mubili wa taba uswanela kuba ni likalulo-nyana), Mafelelezo a taba. Lika zesupa taba yetalusa sika: Kubateñi kwa tulokandina (adjectives) ni manzwi ataleleza fa manzwi a likezo (adverbs), Kubateñi kwa lipulelo zezinga. Sikuka sa zelukelwa kuñoliwa hakutaluswa batu: Ponahalo kapa siyemo sa mutu ya talusiwa (physical appearance), Muinelo wa mutu ya talusiwa (personality/character), Butokwa bwa mutu ya talusiwa ku muñoli kapa batu babañwi (effects), Nto yeikemezi yeama mutu yatalusiwa (memorable interaction).",
+          "vocabulary": [
+            {
+              "term": "Tulokandina",
+              "definition": "Adjectives"
+            },
+            {
+              "term": "Ponahalo",
+              "definition": "Physical appearance"
+            },
+            {
+              "term": "Muinelo",
+              "definition": "Character/personality"
+            }
+          ],
+          "assessment": {
+            "page": 37,
+            "questions": [
+              "Kukena mwa ngambolo ya kukona kuikambota sikuka sa zelukela kuñoliwa hakutalusiwa batu",
+              "Kuñola taba yetalusa batu"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.5",
+          "title": "Pupo ya puwo - Kubupa Manzwi (Word Building) - Kushangela manzwi (Affixation)",
+          "page": 38,
+          "competences": [
+            "Baitusise zeshangelwa kwa makalelo, fahali ni kwa mafelelezo a masina kubupa manzwi"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 38,
+              "hook": "Kufa taluso ni musebezi wa zeshangelwa kwa masina",
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya kukona kufa taluso ya zeshangelwa kwa masina ni musebezi wa teñi"
+              ],
+              "learner_steps": [
+                "Bakene mwa ngambolo ya kukona kufa taluso ya kushangela manzwi ni musebezi wa teñi"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 39,
+              "hook": "Kutosa mifuta yeshutana ya zeshangelwa kwa masina",
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya kutosa mifuta yeshutana ya zeshangelwa kwa masina"
+              ],
+              "learner_steps": [
+                "Bakene mwa ngambolo ya kutosa mifuta yeshutana ya zeshangelwa kwa masina"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 40,
+              "hook": "Kualula zeshangelwa kwa masina kuya ka mifuta yazona",
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya kufa mitala ya miinelo ya butokwa ya naha (National values)",
+                "Alaele bana ba sikolo kutosa mabizo mwa mitala ya miinelo ya butokwa ya naha yeo baikambotite",
+                "Akenye bana ba sikolo mwa ngambolo ya kutosa manzwi a likezo fokuzwa mabizo afumanwi mwa miinelo ya butokwa ya naha",
+                "Alaele baba ba sikolo kubapanya mabizo ni manzwi a likezo kuli bafumane kalulo yesacinci mwahalaa manzwi ao",
+                "Akenye bana ba sikolo mwa ngambolo ya kualula zeshangelwa kwa masina kuya ka mifuta ya zona"
+              ],
+              "learner_steps": [
+                "Bakene mwa ngambolo ya kufa mitala ya miinelo ya butokwa ya naha (National values)",
+                "Batose mabizo mwa mitala ya miinelo ya butokwa mwa naha yeo baikambotite",
+                "Bakene mwa ngambolo ya kutosa manzwi a likezo fokuzwa mabizo afumanwi mwa miinelo ya butokwa ya naha",
+                "Babapanye mabizo ni manzwi a likezo kuli bafumane kalulo yesacinci mwahalaa manzwi ao",
+                "Bakene mwa ngambolo ya kualula zeshangelwa kwa masina kuya ka mifuta yazona"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "4",
+              "page": 44,
+              "hook": "Kubupa manzwi ka kuitusisa zeshangelwa kwa masina",
+              "teacher_steps": [
+                "Alaele bana ba sikolo kutoza zeshangelwa kwa masina kuya ka mabizo ni manzwi a likezo ebaikambotite",
+                "Alaele bana ba sikolo kuitusisa zeshangelwa kwa masina kubupa manzwi"
+              ],
+              "learner_steps": [
+                "Batose zeshangelwa kwa masina",
+                "Baitusise zeshangelwa kwa masina kubupa manzwi"
+              ]
+            }
+          ],
+          "short_notes": "Kushangela manzwi ki mukwa wa kuekeza zeshangelwa kwa masina a manzwi. Musebezi wa kushangela ki kubupa manzwi amanca, kucinca taluso kapa musebezi wa manzwi. Mifuta ya zeshangelwa: Zeshangelwa ka makalelo (prefix) - mutu (mu+tu), batu (ba+tu); Zeshangelwa kwa mafelelezo (suffix) - Kunatiwa (ku-nat-iwa); Zeshangelwa fahali (infix).",
+          "vocabulary": [
+            {
+              "term": "Zeshangelwa kwa makalelo",
+              "definition": "Prefix"
+            },
+            {
+              "term": "Zeshangelwa kwa mafelelezo",
+              "definition": "Suffix"
+            },
+            {
+              "term": "Zeshangelwa fahali",
+              "definition": "Infix"
+            },
+            {
+              "term": "Kalulo yesacinci",
+              "definition": "Root/stem"
+            }
+          ],
+          "assessment": {
+            "page": 45,
+            "questions": [
+              "Kutosa zeshangelwa kwa masina",
+              "Kuitusisa zeshangelwa kwa masina kubupa manzwi"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.6",
+          "title": "Lipulelo zezinga",
+          "page": 46,
+          "competences": [
+            "Balukela kuitusisa lipulelo zezinga"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 46,
+              "hook": "Kuikambota taluso ni musebezi wa lipulelo zezinga",
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya kukona kufa taluso ya lipulelo zezinga, ni kuikambota tuso ya zona"
+              ],
+              "learner_steps": [
+                "Bakene mwa ngambolo ya kukona kufa taluso ya lipulelo zezinga, ni kuikambota tuso yazona"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 47,
+              "hook": "Kutaluhanya lipulelo zezinga kuya ka misebezi yazona",
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya kukona kutaluhanya lipulelo zezinga kuya ka misebezi yazona"
+              ],
+              "learner_steps": [
+                "Bakene mwa ngambolo ya kukona kutaluhanya lipulelo zezinga kuya ka misebezi yazona"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 48,
+              "hook": "Kutosa lipulelo zezinga zeswanela kuitusiswa mwa miinelo yemiñwi",
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya kukona kutosa miinela mo lipulelo zezinga likona kuitusisezwa",
+                "Abeleke ni bana ba sikolo kutosa lipulelo zezinga zezamaelela ni miinelo yefilwe"
+              ],
+              "learner_steps": [
+                "Bakene mwa ngambolo ya kukona kutosa miinela mo lipulelo zezinga likona kuitusisezwa",
+                "Babeleke ni muluti kutosa lipulelo zezinga zezamaelela ni miinelo yefilwe"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "4",
+              "page": 49,
+              "hook": "Kutosa miinelo yeswanela mo lipulelo zezinga likona kuitusisezwa",
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya kufa mitala ya lipulelo zezinga",
+                "Abeleke ni bana ba sikolo kufumana miinelo yeswanela mo mitala ya lipulelo zezinga zefilwe likona kuitusisezwa"
+              ],
+              "learner_steps": [
+                "Bakene mwa ngambolo ya kufa mitala ya lipulelo zezinga",
+                "Babeleke ni muluti kufumana miinelo yeswanela mo mitala ya lipulelo zezinga yefilwe ikona kuitusisezwa"
+              ]
+            }
+          ],
+          "short_notes": "Pulelo yezinga ki kuitusisa puwo kamukwa wakufa taluso yeiputezi mwa manzwi a pulelo. Tuso ya lipulelo zezinga: lifa butali ni kunahana, libukeleza miinelo yemiñwi ya sizo. Misebezi ya lipulelo zezinga: Zefa likelezo (kelezo ki mulyani), Zetisa kubelela hamoho (kopano ki maata, muñwana ulimuñwi haukoni kutuba nda), Zefa mokufumanwa zibo (yomuhulu ki sinkwana sa kwai).",
+          "vocabulary": [
+            {
+              "term": "Lipulelo zezinga",
+              "definition": "Figurative language/expressions"
+            },
+            {
+              "term": "Kelezo",
+              "definition": "Advice/guidance"
+            },
+            {
+              "term": "Kopano ki maata",
+              "definition": "Unity is strength"
+            }
+          ],
+          "assessment": {
+            "page": 50,
+            "questions": [
+              "Kukena mwa ngambolo ya kufa mitala ya lipulelo zezinga",
+              "Kubeleka ni muluti kufumana miinelo yeswanela mo mitala ya lipulelo zezinga yefilwe ikona kuitusisezwa"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.7",
+          "title": "Kutoloka (Translation) - Linzila za Kutoloka",
+          "page": 51,
+          "competences": [
+            "Kuitusisa linzila za kutoloka za mifuta-futa kutoloka taba kuzusa mwa puwo ya Sikuwa kuisa kuya Silozi kapa puwo yeñwi ni kufetula cwalo"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 51,
+              "hook": "Kutoloka taba kuzwisa mwa puwo ya Sikuwa kuisa mwa puwo ya Silozi ni kufetula kakuitusisa linzila za kutoloka za mifuta-futa",
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya kukona kutosa ni kutalusa linzila za mifuta-futa zeitusiswa hakutolokiwa",
+                "Abeleke ni bana ba sikolo kufa mutala kamoo linzila za kutoloka liitusisezwa",
+                "Afe bana ba sikolo lipulelo zeingilwe mwa likande lelili mwa puwo ya Sikuwa kuli balitoloke ka puwo ya Silozi"
+              ],
+              "learner_steps": [
+                "Bakene mwa ngambolo ya kukona kutosa ni kutalusa linzila za mifuta-futa zeitusiswa hakutolokiwa",
+                "Babeleke ni muluti kufa mutala kamoo linzila za kutoloka liitusisezwa",
+                "Batoloke lipulelo zengilwe mwa likande zeli mwa puwo ya Sikuwa kuliisa mwa puwo ya Silozi ni kufetula cwalo"
+              ]
+            }
+          ],
+          "short_notes": "Linzila za kutoloka za mifuta-futa: Kutoloka linzwi ka linzwi (Taha kwanu iba come here - literal translation), Cinceho (Ki musihali sha iba Good afternoon, sir/madam - adaption), Kuyolisa (Unani pilu yende iba she has a heart of gold - substitution), Kuzwisa (Nashitukile iba She woke up early - reduction), Kukalima (misiteli iba mister - borrowing), Kuitusisa linzwi kamoliinezi mwa puwo yeñwi (kii iba key - loaning), Taluso ya sika (Mueteleli wa naha ki taluso ya president - description).",
+          "vocabulary": [
+            {
+              "term": "Kutoloka linzwi ka linzwi",
+              "definition": "Literal translation"
+            },
+            {
+              "term": "Cinceho",
+              "definition": "Adaptation"
+            },
+            {
+              "term": "Kuyolisa",
+              "definition": "Substitution"
+            },
+            {
+              "term": "Kuzwisa",
+              "definition": "Reduction"
+            },
+            {
+              "term": "Kukalima",
+              "definition": "Borrowing"
+            }
+          ],
+          "assessment": {
+            "page": 53,
+            "questions": [
+              "Kukena mwa ngambolo ya kukona kutosa ni kutalusa linzila za mifuta-futa zeitusiswa hakutolokiwa",
+              "Kubeleka ni muluti kufa mutala kamoo linzila za kutoloka za mifuta-futa liitusisezwa",
+              "Kutoloka lipulelo zengilwe mwa likande zeli mwa puwo ya Sikuwa kuliisa mwa puwo ya Silozi ni kufetula cwalo"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "2.0",
+      "topic_title": "ZANITI NI MAIKUTO (FACTS AND OPINIONS)",
+      "sub_topics": [
+        {
+          "subtopic_id": "2.1",
+          "title": "Ngambolo - Zaniti ni Maikuto",
+          "page": 54,
+          "competences": [
+            "Bataluhanye litaba zaniti kuza maikuto a mutu mwa lingambolo, manzwi abulezwi kapa mwa mikopano"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 55,
+              "hook": "Kutaluhanya litaba zaniti kuza maikuto",
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya kutaluhanya kuli kanti litaba zaniti ni maikuto ki likamañi",
+                "Abonise bana ba sikolo kobakona kufumana likalabo za litaba zeamboliwa; libuka za mifuta, makepe a intaneti, mitende",
+                "Abeleke ni bana ba sikolo kubupa sikuka sa kuitusisa kwa kubata likalabo",
+                "Atuse bana ba sikolo kueza lipatisiso zekatungunyuna kuli kanti litaba zaniti ni maikuto a mutu ki likamañi",
+                "Abeleke ni bana ba sikolo kubupa sikuka sa kuikambota zefutuka mwa lipatisiso ka kutomahanya litaba hande",
+                "Aikambote ni bana ba sikolo kuama mayemo amande akuikambota litaba ni babañwi"
+              ],
+              "learner_steps": [
+                "Bakene mwa ngambolo ni muluti ya kutaluhanya kuli kanti litaba zaniti ni maikuto ki likamañi",
+                "Babeleke ni muluti kubupa sikuka sa kuitusisa kwa kubata likalabo",
+                "Katuso ya mulutu baeze lipatisiso zekatungunyuna kuli kanti litaba zaniti ni maikuto ki likamañi",
+                "Babeleke ni muluti kubupa sikuka sa kuikambota zefutuka mwa lipatisiso ka kutomahanya litaba hande",
+                "Baikambote ni muluti kuama mayemo amande akuikambota litaba ni babañwi"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 58,
+              "hook": "Kufitisa lipatisiso za litaba zaniti ni maikuto",
+              "teacher_steps": [
+                "Alaele bana ba sikolo kufitisa lipatisiso zabona zelukile kuama taba ya kuli kanti litaba zaniti ni maikuto ki likamañi",
+                "Alaele bana ba sikolo kuteeleza kubabañwi ni kufa babañwi likute fa maikuto abona",
+                "Akupe bana ba sikolo kusikululana fa taba yeambolwa ka kuitusisa bupaki bobutiile bobuzwa mwa lipatisiso isiñi litaba za kutwi"
+              ],
+              "learner_steps": [
+                "Bafitise lipatisiso zabona zelukile kuama taba ya kuli kanti litaba zaniti ni maikuto ki likamañi",
+                "Bateeleze kubabañwi ni kufa babañwi likute fa maikuto abona",
+                "Basikululane fa taba yeambolwa ka kuitusisa bupaki bobutiile bobuzwa mwa lipatisiso isiñi litaba za kutwi"
+              ]
+            }
+          ],
+          "short_notes": "Litaba zaniti, kamita, ki litaba zeezahalile-lika zebonwi ni kuezwa ki batu. Lika zena ni bupaki. Lika zaniti halikonwi kucinciwa, lina ni kuina onacwalo ni niti yazona. Mutala: Lifasi lipotoloha lizazi. Zambia ifumani tukuluho ka Yenda, 1964. Ze ki litaba zaniti zenana bupaki hande-nde mi likona kufitiswa kabunolo. Maikuto ki mihupulo ya mutu fa taba/sika, ikona kuba yaniti kapa yesi yaniti, ikona kuba yelumelelana ni taba kapa yehanyeza. Mutu ni mutu ukona kuba ni maikuti/mihupulo yeshuta-shutana fa taba iliñwi; maikuto/mihupulo ikonwa kucinciwa nako ifi kapa ifi kono litaba zaniti kamita halicinciwi. Mitala: Mutu ashwa uya kwa halimu. Batu kaufela mwa Zambia balimanga mbonyi. Litaba ze ki mihupulo feela, alina hande bupaki.",
+          "vocabulary": [
+            {
+              "term": "Litaba zaniti",
+              "definition": "Facts - things that actually happened with evidence"
+            },
+            {
+              "term": "Maikuto",
+              "definition": "Opinions - personal thoughts that may or may not be true"
+            },
+            {
+              "term": "Bupaki",
+              "definition": "Evidence/proof"
+            },
+            {
+              "term": "Muhupulo",
+              "definition": "Thought/idea"
+            }
+          ],
+          "assessment": {
+            "page": 59,
+            "questions": [
+              "Kufitisa lipatisiso zabona zelukile kuama taba ya kuli kanti litaba za niti ni maikuto ki likamañi",
+              "Kuteeleza kubabañwi ni kufa babañwi likute fa maikuto abona",
+              "Kusikululana fa taba yeambolwa ka kuitusisa bupaki bobutiile bobuzwa mwa lipatisiso isiñi litaba za kutwi"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "2.2",
+          "title": "Manzwi - Taluso ya manzwi",
+          "page": 60,
+          "competences": [
+            "Baitusise manzwi azamaelela ni sitopa sabona"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 60,
+              "hook": "Kuikambota taluso ya manzwi aketilwe",
+              "teacher_steps": [
+                "Alukise lipulelo zeama litaba zaniti ni maikuto",
+                "Akenye bana ba sikolo mwa ngambolo ya kukona kufumana manzwi aama litaba zaniti ni za maikuto a mutu feela",
+                "Abeleke ni bana ba sikolo kukolohanya manzwi aama litaba zaniti ni maikuto a mutu kuya ka lipulelo zefilwe"
+              ],
+              "learner_steps": [
+                "Bakene mwa ngambolo ni muluti ya kukona kufumana manzwi aama litaba zaniti ni za maikuto a mutu feela mwa lipulelo zefa caati",
+                "Babeke ni muluti kukolohanya manzwi aama litaba zaniti ni maikuto a mutu kuya ka lipulelo zefilwe"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 63,
+              "hook": "Kufitisa litaluso za manzwi",
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya kukona kuikambota mukwa mwa kufitiseza litaluso za manzwi",
+                "Abeleke ni bana ba sikolo kubupa sikuka sa kufitisa likalabo zabona kubabañwi"
+              ],
+              "learner_steps": [
+                "Bakene mwa ngambolo ni muluti yakukona kuikambota mukwa mwa kufitiseza litaluso za manzwi",
+                "Babeleke ni muluti kubupa sikuka sa kufitisa likalabo zabona kubabañwi",
+                "Bafitise litaluso za manzwi aketilwe kubabañwi"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 64,
+              "hook": "Kuitusisa manzwi aketilwe mwa lipulelo",
+              "teacher_steps": [
+                "Akete manzwi kuaitutilwe kuli bana ba sikolo baitusise ona mwa lipulelo za bona zakuikupulela kubonisa hande kuli baziba litaluso zaona"
+              ],
+              "learner_steps": [
+                "Baitusise manzwi aketilwe mwa lipulelo za bona zakuikupulela kubonisa hande kuli baziba litaluso zaona"
+              ]
+            }
+          ],
+          "short_notes": "Manzwi aama litaba zaniti ni maikuto: Niti, bupaki (manzwi afumaneha mwa lipulelo zepeli zapili aama litaba zaniti), Muhupulo, muaikuto (manzwi ali mwa lipulelo zepeli za mafelelezo ona aama maikuto a batu).",
+          "vocabulary": [
+            {
+              "term": "Niti",
+              "definition": "Truth/fact"
+            },
+            {
+              "term": "Bupaki",
+              "definition": "Evidence"
+            },
+            {
+              "term": "Muhupulo",
+              "definition": "Thought/idea"
+            },
+            {
+              "term": "Maikuto",
+              "definition": "Opinions"
+            }
+          ],
+          "assessment": {
+            "page": 65,
+            "questions": [
+              "Kukena mwa ngambolo ni muluti ya kukona kufumana manzwi aama litaba zaniti ni maikuto mwa lipulelo zefa caati",
+              "Kubeleka ni muluti kukolohanya manzwi aama litaba zaniti ni maikuto kuya ka lipulelo zefilwe",
+              "Kukena mwa ngambolo yakukona kuikambota litaluso za manzwi aketilwe kuya ka mwaitusiselizwe mwa lipulelo zefa caati"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "3.0",
+      "topic_title": "KUBULELA KWA SICABA (PUBLIC SPEAKING)",
+      "sub_topics": [
+        {
+          "subtopic_id": "3.1",
+          "title": "Ngambolo - Kubulela Kwa Batu",
+          "page": 88,
+          "competences": [
+            "Kufitisa ngambolo kwa sicaba fa taba yelukisizwe"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 89,
+              "hook": "Kubata manzwi alukelwa kubulelwa kwa sicaba",
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo yeama kubata litaba zelukelwa kuambolelwa sicaba",
+                "Atuse bana ba sikolo kukona kuba ni zibo ya kuli kubulela kwa sicaba kiñi",
+                "Abeleke ni bana ba sikolo kubupa sikuka sa kufitisa manzwi abulezwi kwa sicaba",
+                "Alaele bana ba sikolo kulemuha linzila za mokubatelwa manzwi abulezwi kwa sicaba mwa likwata zabona"
+              ],
+              "learner_steps": [
+                "Bakene mwa ngambolo yeama kubata litaba zelukelwa kuambolwa kwa sicaba",
+                "Ba tusiwe ki muluti kukona kuba ni zibo ya kuli kubulela kwa sicaba kiñi",
+                "Balemuhe linzila za mokubatelwa manzwi abulezwi kwa sicaba mwa likwata zabona"
+              ]
+            }
+          ],
+          "short_notes": "Kubulela kwa sicaba ki kezo kapa mukwa wa kufitisa manzwi abulezwi kwa batu. Butokwa bwa kufitisa manzwi abulezwi kwa sicaba: Kuzibisa batu zeezahala, Kususueza kueza lika, Kutabisa batu kamukwa omuñwi, Kuhapeleza batu kutwisisa zebulelwa. Mokulukisezwa litaba zelukelwa kuambolelwa sicaba: Kuziba hande sicaba sesitaha kwa ngambolo, Kuipakanya ka zibo ya kucuuka mwa kuambola kwa sicaba, Kunahanisisa mikwa ya kufitisa ngambolo kwa sicaba, Kuitukisa ngambolo isikakala kale, Kusa tula pilu, Kuñola zelukelwa kuambola kanako, Kuba ni niti mwa lika mutu habulela kwa batu, Kuambola ka lilato kwa sicaba.",
+          "vocabulary": [
+            {
+              "term": "Lyambombola",
+              "definition": "Public speaking"
+            },
+            {
+              "term": "Kulooleka",
+              "definition": "To speak clearly"
+            },
+            {
+              "term": "Ngambolo",
+              "definition": "Speech/talk"
+            },
+            {
+              "term": "Bunangu",
+              "definition": "Confidence"
+            }
+          ],
+          "assessment": {
+            "page": 92,
+            "questions": [
+              "Kukena mwa ngambolo yeama kubata litaba zelukelwa kuambolwa kwa sicaba",
+              "Kukona kuba ni zibo ya kuli kubulela kwa sicaba kiñi",
+              "Kulemuha linzila za mokubatelwa manzwi abulezwi kwa sicaba mwa likwata zabona"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "4.0",
+      "topic_title": "KUBUISANA (DEBATE)",
+      "sub_topics": [
+        {
+          "subtopic_id": "4.1",
+          "title": "Ngambolo - Kubuisana/Puisano",
+          "page": 132,
+          "competences": [
+            "Baswanela kubuisana fa taba kaufela yeka kona kufiwa kuama kubuisana"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 133,
+              "hook": "Kubuisana fa litaba ze bunolo za kucinca kwa myaha, Buitusisi bwa milyani mafosisa ni liswanelo za batu",
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo yeama kubuisana",
+                "Aalule bana ba sikolo mwa likwata zepeli",
+                "Afe bana ba sikolo mitende ni fa liintaneti ili moo baka batisisa ni kufumana litaba zeamana ni kuitusisa milyani mafosa",
+                "Atolokele bana ba sikolo milao yelatelelwa hababuisana mane ni manzwi aswanela kuitusiswa",
+                "Alaele bana ba sikolo kueza lipatisiso fa litaba zefilwe zecwale ka kuitusisa milyani mafosisa, liswanelo za batu kapa licincheho za myaha",
+                "Abonise bana ba sikolo koo bakakona kufumana likalabo zekayemela buniti bwa maikuto abona ka sikwata ni sikwata",
+                "Abeleke ni bana ba sikolo kubupa sikuka sa kuitusisa kubata likalabo",
+                "Aikambote ni bana ba sikolo kuamana ni mayemo amande akubuisana litaba mwahali a likwata zepeli"
+              ],
+              "learner_steps": [
+                "Bakene mwa ngambolo ni muluti yeama kubuisana",
+                "Bakene mwa likwata zepeli",
+                "Babatisise ni kufumana litaba zeamana ni kuitusisa milyani mafosisa",
+                "Ba amuhele milao yeswanela kulatelelwa hakubuisanwa",
+                "Baeze lipatisiso fa litaba zefilwe ili za buitusisi bwa milyani mafosisa",
+                "Baamuhele lineku koo baka fumana likalabo kakuya ka taelo ya muluti",
+                "Babeleke ni muluti kubupa sikuka sa kuitusisa kubata likalabo",
+                "Baikambote ni muluti kuamana ni mayemo amande akubuisana"
+              ]
+            }
+          ],
+          "short_notes": "Puisano - ngambolo yeli mwahali a batu bababeli kapa babafitelela ili kakufa maikuto ashutana fa taba yefilwe. Puisano - inani mulelo; Kulumela, Kuyahisa, Kuhanyeza, Butokwa bwa Puisano, Sikuka sa katulo, Kupalelwa, muatulelo, nyangela. Milao yeswanela kulatelelwa hakubuisanwa: Kuketa taba yekabuisanwa kakulumela kapa kuhanyeza, Sikwata ni sikwata sibe ni mueteleli wasona, Sikwata ni sikwata silukuluhile kuhanyeza maikuto afilwe ki sikwata sesiñwi haiba hautwahali hande, Sikwata ni sikwata sifilwe nako yakufitisa maikuto asona.",
+          "vocabulary": [
+            {
+              "term": "Puisano",
+              "definition": "Debate"
+            },
+            {
+              "term": "Mulelo",
+              "definition": "Resolution/motion"
+            },
+            {
+              "term": "Kulumela",
+              "definition": "To affirm/agree"
+            },
+            {
+              "term": "Kuhanyeza",
+              "definition": "To oppose/disagree"
+            },
+            {
+              "term": "Kuyahisa",
+              "definition": "To support/be constructive"
+            },
+            {
+              "term": "Bupaki",
+              "definition": "Evidence"
+            },
+            {
+              "term": "Buniti",
+              "definition": "Truth/accuracy"
+            }
+          ],
+          "assessment": {
+            "page": 135,
+            "questions": [
+              "Kuba mwa ngambolo ya kubuisana",
+              "Kubatisisa ni kufumana likalabo za kuitusisa milyani ka mafosisa",
+              "Kuamuhela milao yeswanela kulatelelwa hakubuisanwa",
+              "Kubeleka ni muluti kubupa sikuka sa kuitusisa kubata likalabo",
+              "Kuambola ni muluti kuama mayemo amande akubuisana"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "5.0",
+      "topic_title": "LIPINA (SONGS)",
+      "sub_topics": [
+        {
+          "subtopic_id": "5.1",
+          "title": "Lipina zesi za sizo",
+          "page": 191,
+          "competences": [
+            "Kutalusa butokwa bwa lipina za sizo ni zesi za sizo"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 192,
+              "hook": "Kuikambota kaze baziba za butokwa bwa lipina",
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo yeama lipina",
+                "Aalule bana ba sikolo mwa likwata zepeli",
+                "Sikwata sa pili siambole za butokwa bwa lipina za sizo",
+                "Sikwata sa bubeli siikambote za butokwa bwa lipina zesi za sizo",
+                "Sikwata ni sikwata sifiwe pina yesikaikambota",
+                "Ataluseze bana ba sikolo kuli baikambote za butokwa ze fumaneha mwa lipina",
+                "Aaluseze bana ba sikolo kuketa mueteleli yaka etelela ngambolo yabona",
+                "Afe bana ba sikolo nako ya kuikambota",
+                "Afe bana ba sikolo kolo ya kufitisa zefutuka mwa lingambolo zabona",
+                "Alaele bana ba sikolo kueza lipatisiso zeka tungunyuna butokwa bwa lipina zesi za sizo",
+                "Abonise bana ba sikolo kobakona kufumana likalabo za bona",
+                "Abeleke ni bana ba sikolo kubupa sikuka sakuitusisa kubata likalabo",
+                "Aikabele ni bana ba sikolo kubupa sikuka sa kuikambota",
+                "Aikambote ni bana ba sikolo kuamana ni mayemo amande atalusa butokwa bwa lipina"
+              ],
+              "learner_steps": [
+                "Baikambota za butokwa bwa lipina",
+                "Bafe taluso ya lipina za sizo",
+                "Bazibe kuli pina kisikamani",
+                "Babupe sikuka sakuitusisa kueza lipatisiso fa taba yefilwe, butokwa bwa lipina",
+                "Babuhisane lipatisiso za bona kakuluka",
+                "Bafitise lipatisiso za bona ze lukile kuamana ni lipina",
+                "Basikululane fa taba yeambolwa kakuitusisa bupaki bobutiile"
+              ]
+            }
+          ],
+          "short_notes": "Pina ki mufuta wa taba yeñozwi kapa yesikañolwa. Pina ki taba ye opelwa yenani lika ze swana sina linoto, manzwi, milumo ye minde ili ye swalani hande. Lipina likonwa kuopelwa ki muopeli ya limuñwi kapa mane baopeli babañata. Baopeli ba zona baitusisa lika zeñata kuli lipina liutwahale hande. Lipina liinzi mwa mifuta yemiñata: Lipina za malilo, za mikiti, za mushengu, za lindwa, za misebezi, za kulumba Mulumu, batu kapa lika za butokwa. Butokwa bwa lipina: Litisa tabo mwa bupilo bwaluna, Litisa batu kukopana hamoho, Lipina za sizo litisa kuli luhupule simuluho yaluna, Lipina za sizo litisa batu kusalibala mishobo yaluna, Lipina litisa kuli batu babaliopela babe ni bufumu.",
+          "vocabulary": [
+            {
+              "term": "Pina",
+              "definition": "Song"
+            },
+            {
+              "term": "Sizo",
+              "definition": "Culture/tradition"
+            },
+            {
+              "term": "Mashitanguti",
+              "definition": "Proverbs"
+            },
+            {
+              "term": "Mulupa",
+              "definition": "Melody"
+            },
+            {
+              "term": "Silimba",
+              "definition": "Rhythm"
+            }
+          ],
+          "assessment": {
+            "page": 195,
+            "questions": [
+              "Kubupa sikuka za kuezisa lipatisiso fa taba yefilwe",
+              "Kueza lipatisiso fa taba yefilwe",
+              "Kubupa sikuka sa kufitisa zefutuka mwa lipatisiso",
+              "Kubuhisana zefutuka mwa lipatisiso",
+              "Kutalusa butokwa bwa lipina"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

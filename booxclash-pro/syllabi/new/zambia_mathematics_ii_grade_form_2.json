@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 2",
+    "subject": "Mathematics II",
+    "philosophy": "The Mathematics II Syllabus for Form 1 to 4 is designed to equip learners with a comprehensive understanding of Mathematics concepts, fostering a deep appreciation for the role of Mathematics in everyday life and its applications in various fields. This syllabus aims to develop learners' analytical thinking, problem-solving skills, creativity and innovative thinking through a structured and progressive learning approach. Mathematics is central, bridges the gap between physical and biological sciences, providing insights into the composition, structure, properties and changes of matter. This syllabus emphasizes the importance of a hands-on, inquiry-based learning experience, encouraging learners to explore, practice and engage in scientific reasoning.",
+    "competence_learning": "The syllabus is competence-based, focusing on applied skills and knowledge necessary for learners to successfully perform in professional, educational, and other life contexts. It allows learners to acquire knowledge and apply skills, values, and attitudes to solve everyday situations, emphasizing what learners are expected to do rather than primarily what they are expected to know. Key competences include: Analytical Thinking, Collaboration, Communication, Critical Thinking, Entrepreneurship, Problem Solving, Financial Literacy, Digital Literacy, and Emotional Intelligence.",
+    "goals": [
+      "To equip learners with a comprehensive understanding of Mathematics concepts.",
+      "To foster a deep appreciation for the role of Mathematics in everyday life and its applications in various fields.",
+      "To develop learners' analytical thinking, problem-solving skills, creativity and innovative thinking.",
+      "To emphasize a hands-on, inquiry-based learning experience.",
+      "To create a stimulating and supportive learning environment.",
+      "To prepare learners for further education and careers in science and technology.",
+      "To inspire learners to explore the fascinating world of Mathematics."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "2.1",
+      "topic_title": "INDEX NOTATION",
+      "page_number": 14,
+      "subtopics": [
+        "2.1.1 Indices"
+      ],
+      "specific_outcomes": [
+        "2.1.1.1 Apply concepts of indices in real life context"
+      ]
+    },
+    {
+      "unit": "2.2",
+      "topic_title": "NUMBER BASES",
+      "page_number": 15,
+      "subtopics": [
+        "2.2.1 Conversions and Arithmetic in Different Bases"
+      ],
+      "specific_outcomes": [
+        "2.2.1.1 Use number bases in different context"
+      ]
+    },
+    {
+      "unit": "2.3",
+      "topic_title": "EQUATIONS AND INEQUALITIES",
+      "page_number": 16,
+      "subtopics": [
+        "2.3.1 Linear Equations and Inequalities"
+      ],
+      "specific_outcomes": [
+        "2.3.1.1 Apply linear equations and inequalities in daily context"
+      ]
+    },
+    {
+      "unit": "2.4",
+      "topic_title": "ALGEBRA",
+      "page_number": 17,
+      "subtopics": [
+        "2.4.1 Basic Processes",
+        "2.4.2 Remainder and Factor Theorem"
+      ],
+      "specific_outcomes": [
+        "2.4.1.1 Apply basic processes of algebra in different contexts",
+        "2.4.2.1 Use the remainder and factor theorems in different contexts"
+      ]
+    },
+    {
+      "unit": "2.5",
+      "topic_title": "MATRICES",
+      "page_number": 18,
+      "subtopics": [
+        "2.5.1 Matrix Operations"
+      ],
+      "specific_outcomes": [
+        "2.5.1.1 Use matrix operations in day to day activities"
+      ]
+    },
+    {
+      "unit": "2.6",
+      "topic_title": "VARIATION",
+      "page_number": 19,
+      "subtopics": [
+        "2.6.1 Types of Variation"
+      ],
+      "specific_outcomes": [
+        "2.6.1.1 Apply the concept of variation in daily contexts"
+      ]
+    },
+    {
+      "unit": "2.7",
+      "topic_title": "MENSURATION",
+      "page_number": 20,
+      "subtopics": [
+        "2.7.1 Three Dimensional Shapes"
+      ],
+      "specific_outcomes": [
+        "2.7.1.1 Use the concept of three dimensional shapes in everyday life"
+      ]
+    },
+    {
+      "unit": "2.8",
+      "topic_title": "SYMMETRY",
+      "page_number": 21,
+      "subtopics": [
+        "2.8.1 Symmetry of plane and solid shapes"
+      ],
+      "specific_outcomes": [
+        "2.8.1.1 Use the concepts of symmetry in real life situations"
+      ]
+    },
+    {
+      "unit": "2.9",
+      "topic_title": "PROBABILITY",
+      "page_number": 22,
+      "subtopics": [
+        "2.9.1 Introduction to Probability"
+      ],
+      "specific_outcomes": [
+        "2.9.1.1 Apply concepts of probability in real life contexts"
+      ]
+    }
+  ]
+}

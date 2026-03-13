@@ -1,0 +1,836 @@
+{
+    "subject": "Literature in English",
+    "grade": "Form 1",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.1.1",
+            "topic_title": "Literature",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1.1.1",
+                    "title": "The Meaning of Literature",
+                    "page": 12,
+                    "competences": [
+                        "Use different definitions to derive the meaning of Literature"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put learners in groups and assign each group to discuss the meanings provided (teacher to come up with meanings of literature on flip charts)",
+                                "Plenary: Carry-out a plenary session where meanings of Literature will be presented",
+                                "Consolidate on the learners' presentations and highlight the definitions suggested"
+                            ],
+                            "learner_steps": [
+                                "Discuss the meanings provided in groups",
+                                "Present meanings of Literature during plenary session",
+                                "Give responses about what poetry is"
+                            ],
+                            "short_notes": "Literature is defined as the study of society through oral and written works of art/pieces of writing that are valued as works of art. Literature is a study of what goes on in society using written and unwritten works of art. Literature is the written works, especially those that have artistic value and should stand the taste of time. Literature is written or unwritten works that reflect what revolves around us. Writings in prose, poetry and drama expressing ideas on different themes."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Display a flip chart with the key differences between Literature in English as a subject and English Language as a subject in terms of purpose, content, approaches and outcomes",
+                                "Refer to the table, lead a discussion to distinguish Literature in English as a subject from English Language as a subject",
+                                "Consolidate key differences on the distinction between Literature in English as a subject and English Language as a subject"
+                            ],
+                            "learner_steps": [
+                                "Participate in discussion on key differences between Literature in English and English Language",
+                                "Identify differences in terms of purpose, content, approaches and outcomes",
+                                "Give answers to the posed questions highlighting the differences"
+                            ],
+                            "short_notes": "Literature in English focuses on analyzing and appreciating written and oral artistic works while English Language emphasizes mastery of the language for communication and academic purposes. Key Differences: Purpose - Literature develops appreciation for literary works and critical thinking vs English Language develops proficiency in reading, writing, speaking and listening. Content - Literature includes genres, literary criticism and stylistic devices vs English Language covers listening, speaking, comprehension, composition, structures and summary. Approaches - Literature uses literary analysis, thematic discussions, dramatic performances and personal interpretations vs English Language uses drills, exercises and oral communication activities. Outcomes - Literature enhances creativity, critical thinking, cultural awareness, didactic and aesthetic appreciation vs English Language improves fluency, accuracy and effectiveness in communication."
+                        }
+                    ],
+                    "short_notes": "Literature is the study of society through oral and written works of art that are valued and should stand the taste of time. It reflects what revolves around us through writings in prose, poetry and drama expressing ideas on different themes. Literature in English as a subject focuses on analyzing and appreciating artistic works, while English Language emphasizes language mastery for communication.",
+                    "vocabulary": [
+                        {
+                            "term": "Analyse",
+                            "definition": "To examine something in detail"
+                        },
+                        {
+                            "term": "Artistic",
+                            "definition": "Showing skill or imagination in design, expression or performance"
+                        },
+                        {
+                            "term": "Literary",
+                            "definition": "Anything related to literatures which involve written and unwritten works considered to have artistic or intellectual value"
+                        },
+                        {
+                            "term": "Genre",
+                            "definition": "Type of artistic work that shares common characteristics"
+                        },
+                        {
+                            "term": "Theme",
+                            "definition": "A central idea in a literary work"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 12,
+                        "questions": [
+                            "Ask learners to explore other definitions of Literature. This activity to be done individually with learners understanding that they would share with their peers in the next activity",
+                            "Administer a quiz on the differences between Literature in English as a subject and English Language as a subject"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.1.1.2",
+                    "title": "Functions of Literature",
+                    "page": 14,
+                    "competences": [
+                        "Relate the functions of Literature to real life situations"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 14,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put learners in groups and assign each group to discuss the different functions of Literature provided (teacher to come up with different functions of literature on flip charts)",
+                                "Plenary: Carry-out a plenary session where functions of Literature will be presented",
+                                "Consolidate the learners' presentations and highlight the functions suggested"
+                            ],
+                            "learner_steps": [
+                                "Discuss the different functions of Literature in groups",
+                                "Present functions of Literature during plenary session",
+                                "Participate in discussion on functions of literature"
+                            ],
+                            "short_notes": "Functions of Literature include: For entertainment/recreation - literature can provide people with entertainment and pleasure. For education - literature can teach people about history, culture and the world. It can also help people develop their moral code and sense of self. For national integration - literature unites people as they learn and appreciate other people's culture. For transmission and preservation of culture - literature preserves cultural heritage by documenting traditions, histories, and languages. It provides a means for future generations to understand their roots and the evaluation of their societies. For economic empowerment - literature helps to improve people's economic status through activities such as plays, poetry reciting and script writing. For sharpening artistic and verbal skills - literature helps to improve one's language abilities both orally and written work."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put learners in groups and assign each group to discuss the importance of Literature provided (teacher to come up with ways of determining the importance of literature on flip charts)",
+                                "Plenary: Carry-out a plenary session where functions of Literature will be presented",
+                                "Consolidate on the learners' presentations and highlight the importance suggested"
+                            ],
+                            "learner_steps": [
+                                "Discuss the importance of Literature in groups",
+                                "Present findings during plenary session",
+                                "Participate in debate on the importance of literature"
+                            ],
+                            "short_notes": "The importance of literature: Fosters empathy - Reading literature helps to understand other people's emotions. Enriches personal life - Literature helps people to develop holistically. Helps gain valuable insights into human experience."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1c",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put learners in pairs and assign them to discuss the relationship between the importance of Literature and the learners' personal and societal contexts provided",
+                                "Plenary: Carry-out a plenary session where relating the importance of Literature to the learners' personal and societal contexts will be presented",
+                                "Consolidate the learners' presentations and highlight the relationship between the importance of Literature and the learners' personal and societal contexts suggested"
+                            ],
+                            "learner_steps": [
+                                "Discuss in pairs the relationship between importance of Literature and personal/societal contexts",
+                                "Present findings during plenary session",
+                                "Relate literature's importance to own experiences"
+                            ],
+                            "short_notes": "Relating importance of Literature to personal and societal contexts: Gaining new insights - literature helps people to gain new knowledge and deeper understanding of issues in society. Perspectives - Exposure to different narratives and viewpoints sharpens analytical skills and creativity. Understanding other cultures - It introduces learners to different traditions, histories, and social norms, fostering respect and understanding. Moral reforms - Many literary works address issues such as injustice, inequality, oppression, inspiring activism and reform. Behavioral change - Literature helps people to change thought patterns towards socially acceptable behaviors. Self-introspection - Reading stories, poems, and essays allow learners to relate to characters, emotions, and experiences, helping them better understand their own identity and emotions. Attainment of careers such as: law, acting, script writing and journalism."
+                        }
+                    ],
+                    "short_notes": "Literature plays crucial roles in shaping personal growth and societal awareness. Functions include: entertainment, education, national integration, cultural preservation, economic empowerment, and sharpening artistic and verbal skills. Literature fosters empathy, enriches personal life, provides insights into human experience, promotes understanding of other cultures, inspires moral reforms and behavioral change, enables self-introspection, and opens career opportunities in law, acting, script writing and journalism.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 14,
+                        "questions": [
+                            "Administer an end of activity exercise on the functions of literature",
+                            "Conduct a debate on the importance of literature",
+                            "Administer a class test on the functions and importance of Literature"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.2.1",
+            "topic_title": "Oral Literature",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.2.1.1",
+                    "title": "Forms of Oral Literature",
+                    "page": 18,
+                    "competences": [
+                        "Use forms of oral literature in different linguistic contexts"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 18,
+                            "hook": "Chinua Achebe once said, 'a lizard without a tail cannot climb an iroko tree.' Why do you think Achebe said those words?",
+                            "teacher_steps": [
+                                "Lead a discussion on the meaning of Oral Literature",
+                                "Divide the class into groups and task each group to come up with a narrative story of their own",
+                                "Let each group representative present to the class their story orally",
+                                "Conduct a class discussion of what each group presented based on an oral story",
+                                "Consolidate the activity by modelling an oral story characterized by the key features to the class"
+                            ],
+                            "learner_steps": [
+                                "Participate in discussion on Oral Literature",
+                                "Work in groups to create narrative stories",
+                                "Present stories orally to the class",
+                                "Discuss features of oral stories presented",
+                                "Identify key features: plot, setting, point of view, characters"
+                            ],
+                            "short_notes": "Oral literature refers to a body of works that are passed down through generations by word of mouth, rather than written texts. It includes myths, folktales, legends, songs, proverbs, and epic, which often reflect the cultural, social, and historical aspects of a particular community. In the context of Zambia, Oral Literature comprises Oral Prose in its various forms, Oral Poetry in all its forms, and what are called fixed forms of oral literature like the riddle and the proverb. An Oral Story must have the following features: plot (sequence of events), setting (time and place), point of view (first person, second person, and third person narration), characters (people, animals or even non-human objects)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Introduce a lesson on the distinction of forms of Oral Literature (Folktales – old traditional stories, Praises – exaltations, Idioms – expressions with specific meaning, Proverbs – wise sayings, and Riddles – statements that offer puzzles to be solved)",
+                                "In pairs, task learners to distinguish the different forms of oral literature",
+                                "Conduct a class discussion on the different forms of oral literature",
+                                "Consolidate the activity by highlighting the different forms of oral literature and their differences"
+                            ],
+                            "learner_steps": [
+                                "Work in pairs to distinguish different forms of oral literature",
+                                "Participate in class discussion on forms of oral literature",
+                                "Identify characteristics of folktales, praises, idioms, proverbs, and riddles"
+                            ],
+                            "short_notes": "Forms of oral literature: Folktale - a story that is passed down through generations, and typically involving common people, animals or supernatural elements. This story serves to impart cultural values and traditions. Praises - spoken or sung expressions that show admiration, respect for individuals, deities or communities. These expressions can change according to the context in which they are delivered. Idioms - expressions or phrases that have a hidden meaning, which is different from the dictionary (literal) meaning of the individual words. These words or phrases are understood according to the culture in which they are used. Proverbs - short, traditional sayings that convey wisdom or advice. They serve as lessons or reflections on life. Riddles - a form of verbal puzzles, often used to engage in playful or serious exchanges. It poses a problem for the audience to solve with answers typically revealing some hidden or deeper truth."
+                        }
+                    ],
+                    "short_notes": "Oral literature is transmitted by word of mouth from one generation to the next. It includes myths, folktales, legends, songs, proverbs, and epics reflecting cultural, social, and historical aspects of communities. Forms include: folktales (traditional stories with cultural values), praises (expressions of admiration), idioms (phrases with hidden meanings), proverbs (wise sayings), and riddles (verbal puzzles). These are rich cultural heritage passed down orally through generations.",
+                    "vocabulary": [
+                        {
+                            "term": "Folktale",
+                            "definition": "Story passed down through generations, often orally"
+                        },
+                        {
+                            "term": "Praises",
+                            "definition": "Artistic work meant to give admiration or exaltation"
+                        },
+                        {
+                            "term": "Puzzle",
+                            "definition": "A game/toy/problem designed to test creativity"
+                        },
+                        {
+                            "term": "Song",
+                            "definition": "Music that can be used in story telling"
+                        },
+                        {
+                            "term": "Idioms",
+                            "definition": "Phrases with hidden meaning"
+                        },
+                        {
+                            "term": "Proverbs",
+                            "definition": "Wise sayings"
+                        },
+                        {
+                            "term": "Riddles",
+                            "definition": "Form of verbal puzzles"
+                        },
+                        {
+                            "term": "Riddler",
+                            "definition": "The person asking riddles"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 18,
+                        "questions": [
+                            "Put learners in pairs to come up with an oral story from their cultural setting or background bearing the key features they learnt in the learning activity",
+                            "Administer a quiz on the distinction of the forms of oral literature"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2.1.2",
+                    "title": "Folktales",
+                    "page": 22,
+                    "competences": [
+                        "Demonstrate understanding of folktales",
+                        "Retell/Tell folktales",
+                        "Analyze folktales",
+                        "Act out folktales"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 22,
+                            "hook": "Have you ever been told a story by your grandmother or grandfather?",
+                            "teacher_steps": [
+                                "Initiate a discussion based on various folktales",
+                                "Put learners in groups and give them reference material that contains different types of folktales",
+                                "Each group should be given a type of folktale to discuss",
+                                "Group representatives to present to the class the task they were assigned",
+                                "Consolidate the discussion on folktales and types of folktales by considering the suggested types"
+                            ],
+                            "learner_steps": [
+                                "Participate in discussion on various folktales",
+                                "Work in groups to discuss different types of folktales",
+                                "Present group findings to the class",
+                                "Identify and distinguish fairy tales, fables, trickster tales, animal tales, legends, myths, and magic tales"
+                            ],
+                            "short_notes": "Types of folktales: Fairy tales - stories that often feature magic, happy endings and moral lessons. Fables - short fictitious stories in which animal characters act like humans. A fable teaches a moral lesson about humans. Trickster - stories about characters that use cunning to outwit others and get away what they want. Usually, the small animals like Kalulu get to outwit big animals like the Lion. Animal tales - feature animals as main characters, often with human-like qualities. Legend - is a fragment of a community's history often with exaggerations or supernatural elements. It usually has a measure of truth in it and maybe based on a person who was regarded as a hero/heroine. Myths - an oral narrative or oral poem that explains how something came into being. Many myths explain such phenomena of life, death and natural phenomena. The characters in a myth are usually gods or some other supernatural beings. Magic tales - include supernatural elements, magic and imaginary creatures."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lead a discussion on the functions of folktales",
+                                "Put learners in groups and distribute given samples of folktales that should help them recognize the functions of the given folktales",
+                                "Group secretaries present what their groups discussed",
+                                "Engage the learners in a quick class discussion",
+                                "Task the learners with a question that will require them to document some folktales after enquiring from their parents and guardians (This is in preparation for the next lesson in which they have to tell folktales)",
+                                "Consolidate the activity by highlighting the suggested functions of folktales"
+                            ],
+                            "learner_steps": [
+                                "Participate in discussion on functions of folktales",
+                                "Work in groups to recognize functions in sample folktales",
+                                "Present group findings",
+                                "Document folktales from parents and guardians for next lesson"
+                            ],
+                            "short_notes": "Folktales play the functions of: entertainment, education, moral guidance, cultural preservation, inspire imagination and creativity."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1c",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Give a platform to the learners to make a presentation on a collection of folktales they were tasked with in the previous activity",
+                                "Learners give feedback on each folktale presented",
+                                "Initiate a quick discussion after each narration, for example: (a) what type of a folktale is this? (b) What is its function?"
+                            ],
+                            "learner_steps": [
+                                "Present collected folktales to the class",
+                                "Give feedback on folktales presented by peers",
+                                "Participate in discussions identifying type and function of each folktale",
+                                "Tell folktales maintaining originality without exaggerations"
+                            ],
+                            "short_notes": "Key points of telling a folktale should include: Maintain originality, Avoid exaggerations or understating."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1d",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Display teaching aids (one at a time) on which different folktales are written",
+                                "Assign learners to read each folktale aloud",
+                                "After the reading, conduct a plenary session in terms of themes, moral lessons, characters, setting, plot, structure",
+                                "Define the terms: theme, character, setting, plot and structure",
+                                "Discuss suggested themes"
+                            ],
+                            "learner_steps": [
+                                "Read folktales aloud",
+                                "Participate in plenary discussions on themes, moral lessons, characters, setting, plot, structure",
+                                "Analyze folktales identifying these elements",
+                                "Complete individual work revealing characteristics of given folktales"
+                            ],
+                            "short_notes": "In analysing folktales, consider: Setting, Plot, Characters, Themes, Moral lessons, Structure. Themes include: Good vs Evil - The struggle between good and evil teaches moral lessons and promotes good behavior. Nature and the Environment - This brings out the importance of living in harmony with the natural world. Love and Relationships - Help to reinforce social bonds and values. Transformation and Growth - Frequently feature characters undergoing transformation often symbolizing personal growth and self-empowerment."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1e",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Allow each group to act out the assigned folktale",
+                                "Plenary sessions should follow after the acting",
+                                "Consolidate the acting by emphasizing the guidelines provided in the previous activity"
+                            ],
+                            "learner_steps": [
+                                "Act out folktales in groups",
+                                "Apply staging techniques",
+                                "Use appropriate costume",
+                                "Demonstrate voice projection",
+                                "Show facial expressions"
+                            ],
+                            "short_notes": "To act out a folktale, consider: Staging, Costume, Voice projection, Facial expressions. Types of folktales that can be acted include: Fairytales, Fables, Trickster, Legends, Myths, Animal and Magic tales."
+                        }
+                    ],
+                    "short_notes": "Folktales are stories passed down through generations orally, serving to impart cultural values and traditions. Types include: fairy tales (magic, happy endings), fables (animal characters teaching morals), trickster tales (cunning characters), animal tales, legends (historical fragments with exaggerations), myths (explaining origins), and magic tales (supernatural elements). Functions: entertainment, education, moral guidance, cultural preservation, inspiring imagination. Analysis considers: setting, plot, characters, themes, moral lessons, and structure. Performance requires: staging, costume, voice projection, and facial expressions.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 22,
+                        "questions": [
+                            "Ask learners to give a summary of some of the folktales that have been discussed (Learners are expected to indicate what type it is by writing individually)",
+                            "Give learners an exercise to distinguish various types of folktales",
+                            "Give an end of topic exercise on the functions of folktales",
+                            "Evaluate the ability of learners to tell folktales confidently in relation to plot, setting, character etc.",
+                            "Give Individual work on a given folktale where the learners are required to reveal its characteristics (Themes, Moral lessons, Characters, Setting, Plot, Structure)",
+                            "In groups, give learners a specific folktale that they will act out in the following activity. Give guidelines to the learners on how to act out folktales such as: Staging, Costume, Voice projection, Facial expression",
+                            "Grade the learners according to the acting guidelines"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2.1.3",
+                    "title": "Riddles",
+                    "page": 27,
+                    "competences": [
+                        "Relate riddles to real life situations"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 27,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Divide the class into small groups and each group to be tasked to discuss riddles and write the answers on the papers provided",
+                                "Riddle-relay activity - Learners in those small groups to rotate to each riddle station where they have to discuss the type of riddle before moving on to the next one",
+                                "Hold a plenary session discussing the various types of riddles encountered after the riddle relay",
+                                "Consolidate the learners' presentations and highlight the definitions and types of riddles as suggested"
+                            ],
+                            "learner_steps": [
+                                "Work in small groups to discuss riddles and write answers",
+                                "Participate in riddle-relay activity rotating through stations",
+                                "Discuss types of riddles at each station",
+                                "Present findings during plenary session",
+                                "Identify enigma, conundrum, story riddles, logical riddles, and brain teasers"
+                            ],
+                            "short_notes": "Riddles definitions: A riddle is a statement or question that presents a puzzle, often requiring creative thinking to arrive at an unexpected answer. A riddle is a phrase or statement that presents a problem to be solved. Riddles are a mirror of language, culture and art of particular societies. Types of riddles: Enigma - employs the use of allegorical or metaphorical devices. Example: I run, yet I have no legs. What am I? Answer: A river. Conundrum - involves questions that often play on words or puns, leading to humorous or clever answers. Example: What has a face but cannot smile? Answer: A clock. Story riddles - presents riddles in a story form where a scenario or narrative is given that leads to a question. Logical riddles - challenge the participants to use reasoning and deduction to arrive at the answer as they often involve situations that need careful analysis. Brain teasers - are puzzles that require imaginative thinking and problem-solving skills as they often involve wordplay or clever twists in logic. Example: What has many keys but cannot open a single lock? Answer: A Piano."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 29,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Stick a sheet of paper on the wall with a riddle circled",
+                                "Provide one example of the functions of riddles as a branch. Example: for entertainment",
+                                "Ask learners to fill in the map using the other functions of riddles provided to them on word cards, branching out from the central idea",
+                                "Using this visual representation, the whole class to discuss the functions of riddles in detail",
+                                "Consolidate the discussion by highlighting the functions of riddles as suggested"
+                            ],
+                            "learner_steps": [
+                                "Participate in creating mind map of riddle functions",
+                                "Fill in functions using word cards",
+                                "Discuss functions of riddles in detail",
+                                "Solve riddles and relate solutions to real life situations"
+                            ],
+                            "short_notes": "Functions of riddles: Used for entertainment and socialization. Enhance critical thinking. Enhance language development. Develop problem solving and retention skills. Boost memory. Promote creativity and imagination. Teach logic. Transmit indigenous knowledge and culture."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1c",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain that for a riddle to be solved there is need to have a Riddler and someone to respond",
+                                "Demonstrate to the learners how asking and responding to riddles is done",
+                                "Display a list of riddles with varying difficulty levels",
+                                "Divide learners in teams to solve riddles before passing them to the other team (This can be timed for added excitement)",
+                                "Consolidate the discussion by highlighting how asking and responding to riddles is done"
+                            ],
+                            "learner_steps": [
+                                "Observe demonstration of riddle asking and responding",
+                                "Work in teams to solve riddles",
+                                "Take turns asking riddles to other teams",
+                                "Participate in riddle-competition with time limits"
+                            ],
+                            "short_notes": "Riddles are often phrased as metaphorical statements rather than direct questions. A Riddler presents the riddle to a group, often in social or ceremonial settings like storytelling tours or community gatherings. Participants compete to solve it, with answers expected to be concise. Some riddles use tonal patterns, rhythmic repetition, or idiophones (sound-based words) to hint at answers. A riddle is a problem to be solved. It requires: A Riddler who is the person asking the riddle, and a Participant who is a respondent to a riddle. Riddles are not just games but they: Reflect real-life situations and cultural values, Are useful in educational settings to develop critical thinking and problem-solving skills, Enhance a sense of belonging among learners."
+                        }
+                    ],
+                    "short_notes": "Riddles are statements or questions presenting puzzles requiring creative thinking to arrive at unexpected answers. They are mirrors of language, culture and art of societies. Types include: enigma (metaphorical), conundrum (wordplay/puns), story riddles (narrative form), logical riddles (reasoning required), and brain teasers (imaginative thinking). Functions: entertainment, socialization, enhancing critical thinking, language development, problem-solving skills, memory boost, creativity, teaching logic, transmitting indigenous knowledge. Solving requires a Riddler and participant, often in social/ceremonial settings.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Administer a quiz on the definition and types of riddles",
+                            "Give learners riddles to solve and relate solutions to real life situations",
+                            "Conduct a riddle-competition where learners in two teams take turns to ask each other riddles while you record the scores on the board to determine the winner (This should be timed to make it more interesting)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2.1.4",
+                    "title": "Proverbs",
+                    "page": 33,
+                    "competences": [
+                        "Demonstrate understanding of proverbs"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 33,
+                            "hook": "How do proverbs lead to wise actions?",
+                            "teacher_steps": [
+                                "Define proverbs",
+                                "Lead a discussion on the different types of proverbs",
+                                "Ask learners in groups to discuss the following types of proverbs (religious, humorous, ethical, cooperation, hospitality)",
+                                "Conduct a plenary session on the discussion",
+                                "Consolidate the activity by highlighting different types of proverbs as suggested"
+                            ],
+                            "learner_steps": [
+                                "Participate in discussion on definition of proverbs",
+                                "Work in groups to discuss different types of proverbs",
+                                "Present findings during plenary session",
+                                "Identify religious, humorous, cooperation, hospitality, and traditional proverbs"
+                            ],
+                            "short_notes": "A proverb is a short statement or saying that expresses a basic truth. Types of proverbs: Religious - Sayings from the Bible that express general truths about living a godly life. Example: Proverbs 1:7 'The fear of the Lord is the beginning of knowledge; fools despise wisdom and instruction'. Humorous - Proverbs that deliver wisdom with a healthy dose of humor. Example: Do not count your chicks before they are hatched. Do not start making plans for something until it is a reality. Cooperation - Emphasize the importance of working together and the strength that comes from it. Example: If you want to go fast, go alone. If you want to go far, go together. Hospitality - The door is always open to a friend. Welcoming and treating newcomers with kindness, as if they were already familiar friends. Traditional proverbs - Example: Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime. A proverb that means teaching someone how to do something is more beneficial than just giving them the answer."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 34,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lead a discussion on functions of proverbs provided",
+                                "In pairs, learners are asked to give an example of a proverb that can: entertain, teach wisdom, advise, console",
+                                "Consolidate the activity by highlighting the functions of proverbs the learners have been exposed to"
+                            ],
+                            "learner_steps": [
+                                "Participate in discussion on functions of proverbs",
+                                "Work in pairs to provide examples of proverbs for each function",
+                                "Write proverbs and their meanings",
+                                "State functions of proverbs in relation to real life situations",
+                                "Ask parents/guardians for proverbs from heritage for next activity"
+                            ],
+                            "short_notes": "Functions of proverbs: Entertainment - Two heads are better than one: This proverb means that two people can do a better job together than one person doing it alone. Teach wisdom - A good man hates lies; wicked men lie constantly and come to shame. Meaning: good people dislike lies and deception, while bad people are often dishonest and face consequences. Offer advice - Better late than never. Meaning: It is better to be present than to never go to a place or decide on something that you think has a good result. Console - Do not cry over spilled milk: This proverb means that people should not get upset over mistakes. Inspire - Actions speak louder than words. Meaning: what you do must be more than what you say. Sharpen thinking - As a man thinks, so he is. Meaning: we need to guard our hearts because intentions come from our hearts."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1c",
+                            "page": 35,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ask Learners to write down at least two proverbs and their meanings from their heritage that they got from their parents/guardians",
+                                "Using the learners' proverbs, lead a discussion highlighting the interpretation of the proverbs",
+                                "Consolidate the activity by discussing the interpretation of proverbs provided by the learners"
+                            ],
+                            "learner_steps": [
+                                "Write down proverbs from heritage collected from parents/guardians",
+                                "Participate in discussion on interpretation of proverbs",
+                                "Identify characteristics of proverbs",
+                                "Interpret proverbs and write meanings"
+                            ],
+                            "short_notes": "Interpretation of proverbs requires understanding characteristics: Short, simple and yet say a lot. Easy to remember. Timeless. Use of metaphorical and/or figurative Language. Filled with knowledge (wisdom). Often passed down through generations. Reflect the cultural beliefs of the society or tradition from which they originate. Examples of meanings: Slow but sure wins the race means consistent effort leads to success. A rolling stone gathers no moss means people who always move with no roots in place avoid responsibility. Better slow than sorry means it is better to be cautious than to suffer afterwards. Charity begins at home means love your family first before you love others."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1d",
+                            "page": 36,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put learners into groups and instruct them to pick a proverb of their choice for role play",
+                                "Tell groups to demonstrate through a role play their chosen proverbs",
+                                "Lead a discussion where learners classify the context in which the chosen proverbs have been used",
+                                "Consolidate the activity by highlighting the use of proverbs in different contexts"
+                            ],
+                            "learner_steps": [
+                                "Work in groups to select proverb for role play",
+                                "Demonstrate chosen proverbs through role play",
+                                "Classify contexts in which proverbs are used",
+                                "Write short stories using variety of proverbs in different contexts",
+                                "Perform dialogues using proverbs in different contexts",
+                                "Engage in debates based on given proverbs"
+                            ],
+                            "short_notes": "Proverbs can be used in different contexts that imitate real life. Proverbs are used to: teach moral lessons, explain complex issues in simple statements, express attitudes like sympathy, regret and warning, transmit culture, social morality and ideas, provide insight into a people's way of life, strengthen a society's tradition. Examples: Do not Put All Your Eggs in One Basket means not investing everything in one thing to avoid losing everything at once. Practice Makes Perfect means repeatedly doing something helps improve your skills or abilities. Beggars Cannot Be Choosers means when someone is in need, they should be grateful for whatever they receive, even if it is not exactly what they wanted. He Who Laughs Last, Laughs Best means the person who succeeds or has the final say in a situation enjoys the most satisfaction or victory."
+                        }
+                    ],
+                    "short_notes": "Proverbs are short statements or sayings expressing basic truths. Types include: religious (biblical truths), humorous (wisdom with humor), cooperation (importance of working together), hospitality (welcoming others), and traditional (teaching beneficial lessons). Functions: entertainment, teaching wisdom, offering advice, consoling, inspiring, and sharpening thinking. Characteristics: short and simple yet meaningful, easy to remember, timeless, use metaphorical/figurative language, filled with wisdom, passed through generations, reflect cultural beliefs. Used in contexts to: teach morals, explain complex issues, express attitudes, transmit culture and ideas, provide insights, strengthen traditions.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 33,
+                        "questions": [
+                            "Administer a quiz on the types of proverbs the learners have been exposed to",
+                            "Tell learners to write proverbs and their meanings",
+                            "Learners should state the functions of proverbs they wrote in relation to real life situations",
+                            "Tell learners to ask their parents/guardians to give them at least two of the proverbs and their meanings from their heritage to be used in the next activity",
+                            "Give learners proverbs to interpret, and write meanings",
+                            "Tell learners to write a short story using a variety of proverbs of choice in different contexts",
+                            "Ask learners to perform a dialogue using a variety of proverbs in different contexts",
+                            "Engage learners in a debate based on a given proverb"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2.1.5",
+                    "title": "Songs",
+                    "page": 38,
+                    "competences": [
+                        "Demonstrate understanding of songs",
+                        "Analyse songs",
+                        "Perform songs",
+                        "Compose songs"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 38,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lead a discussion on functions of songs",
+                                "In pairs, learners give examples of songs that can: express feelings and emotions, entertain, inform, pass messages",
+                                "Consolidate the activity by highlighting the functions of songs learners have been exposed to"
+                            ],
+                            "learner_steps": [
+                                "Participate in discussion on functions of songs",
+                                "Work in pairs to give examples of songs for different functions",
+                                "Complete exercise writing functions of given songs"
+                            ],
+                            "short_notes": "Songs perform the functions of: passing messages, expressing feelings and emotions, socializing, educating, informing, unifying, inculcating morals, entertaining."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 39,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lead a discussion on the classification of songs",
+                                "Put learners in groups, ask them to give examples of songs that can be used in: marriage, love, work, praise, politics, occupation, lullaby, worship and funerals",
+                                "Consolidate the activity by highlighting how songs are classified according to purpose"
+                            ],
+                            "learner_steps": [
+                                "Participate in discussion on classification of songs",
+                                "Work in groups to give examples of songs for different purposes",
+                                "Identify and classify songs for homework"
+                            ],
+                            "short_notes": "Songs are classified according to purpose: marriage, love, work, praise, politics, occupation, lullaby, worship, funerals."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1c",
+                            "page": 39,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Expose learners to a known song and allow them to sing it",
+                                "Lead a discussion on the analysis of the song (meaning, language, message, structure, stylistic features, occasion)",
+                                "Put learners in groups; ask them to provide a song and its analysis",
+                                "Consolidate the activity by highlighting what should be considered when analysing a song"
+                            ],
+                            "learner_steps": [
+                                "Sing known song",
+                                "Participate in discussion on song analysis",
+                                "Work in groups to provide and analyze a song",
+                                "Analyze given song skillfully considering: meaning, language, message, structure, stylistic features, occasion, rhythm"
+                            ],
+                            "short_notes": "To analyse a song skillfully, consider: meaning, language, message, structure, stylistic features, occasion, rhythm."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1d",
+                            "page": 40,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Play a song for the learners to listen to",
+                                "Lead a discussion on the classification of the played songs (modern, religious, traditional)",
+                                "Put learners in groups; ask them to perform different songs (modern, religious, traditional)",
+                                "Lead a discussion to review performed songs",
+                                "Consolidate the activity by highlighting how songs are performed"
+                            ],
+                            "learner_steps": [
+                                "Listen to played songs",
+                                "Participate in discussion on song classification",
+                                "Perform different types of songs in groups",
+                                "Review performed songs considering: vocal performance, instrumentation, stage presence, pacing, song interpretation"
+                            ],
+                            "short_notes": "When reviewing a performed song consider: Vocal performance - Tone and pitch, emotional expression and technique. Instrumentation and arrangement (if necessary) - Musicianship. Stage presence and performance energy. Pacing and timing. Song interpretation and style."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1e",
+                            "page": 41,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lead a class discussion and guide learners on how to compose songs",
+                                "In pairs/groups assign learners to compose, present and review the composed songs",
+                                "Consolidate the activity by highlighting on how to compose songs"
+                            ],
+                            "learner_steps": [
+                                "Participate in discussion on composing songs",
+                                "Work in pairs/groups to compose songs",
+                                "Present and review composed songs",
+                                "Follow steps: find inspiration, choose structure, create melody, write lyrics, choose chords/harmony, add rhythm, experiment and refine, finalize and perform"
+                            ],
+                            "short_notes": "When composing a song consider the following steps: Find inspiration, Choose a song structure, Create a melody, Write lyrics, Choose chords and harmony, Add rhythm and groove, Experiment and refine, Finalise and perform."
+                        }
+                    ],
+                    "short_notes": "Songs are means to communicate ideas, emotions and provide social commentary. Functions: passing messages, expressing feelings/emotions, socializing, educating, informing, unifying, inculcating morals, entertaining. Classification by purpose: marriage, love, work, praise, politics, occupation, lullaby, worship, funerals. Analysis considers: meaning, language, message, structure, stylistic features, occasion, rhythm. Performance reviewed by: vocal performance, instrumentation, stage presence, pacing, interpretation. Composition steps: find inspiration, choose structure, create melody, write lyrics, choose chords/harmony, add rhythm, experiment/refine, finalize and perform.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 38,
+                        "questions": [
+                            "Give learners an exercise that will require them to write functions of some given songs",
+                            "Give homework to learners which will require them to identify and classify songs",
+                            "Administer a class exercise by giving learners a song that has to be analysed skillfully",
+                            "In groups, assign learners to perform at least one type of a song (modern, religious, traditional)",
+                            "In pairs/groups task the learners to compose Songs and present them to the class"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2.1.6",
+                    "title": "Praises",
+                    "page": 42,
+                    "competences": [
+                        "Demonstrate Understanding of Praises",
+                        "Recite Praises",
+                        "Analyse Praises",
+                        "Compose Praises"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 42,
+                            "hook": "How did you feel when you were praised?",
+                            "teacher_steps": [
+                                "Ask learners to state the important figures in their lives and society that deserve to be praised (teacher to guide learners on figures that deserve praises as they bring out examples)",
+                                "Initiate a discussion on what praises are and their types (from society, Bible or songs)",
+                                "Consolidate the activity by highlighting what praises are and their different types"
+                            ],
+                            "learner_steps": [
+                                "State important figures deserving praises",
+                                "Participate in discussion on praises and their types",
+                                "Interview parents/guardians on praises",
+                                "Present interview findings to class"
+                            ],
+                            "short_notes": "A praise is an expression of admiration, approval or gratitude dedicated to a person or thing. Types of Praises: Praises about parents and elderly people - These are praises in admiration, respect and appreciation of the significance of parents and or elderly people in the lives of the younger generations. Praises about self - These praises bring out the good attributes of oneself and how others can either learn from or simply appreciate the virtues. Praises about deities - These praises focus on the supernatural existence of deities and, how man exists under their mercies. Praises about chiefs - Chiefs as custodians of traditional leadership ought to be praised for their different roles and attributes. Praises about heroes/heroines - A hero/heroine is a central character on whom the praise is based. Example: Samukonga Muzala is a Zambian hero in athletics while Barbara Banda is a heroine in women football. Praises about politicians - Politicians are political leaders and command a lot of power. For example, the President, ministers, members of parliament, councillors, etcetera. Therefore, the politicians as custodian of political leadership ought to be praised for their different roles and attributes."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 44,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Give a short praise as a guide for learners on how to recite",
+                                "Put learners in groups to practice reciting a praise (about parents and elderly people, self, God, chiefs, heroes and politicians)",
+                                "Groups to make presentations through their representatives",
+                                "Consolidate the activity by highlighting how praises are recited"
+                            ],
+                            "learner_steps": [
+                                "Observe teacher's demonstration of reciting praise",
+                                "Practice reciting praises in groups",
+                                "Present recitations through group representatives",
+                                "Recite given praises in pairs considering: language use, voice projection, tone and accuracy, gestures, audience"
+                            ],
+                            "short_notes": "When reciting Praises, one needs to consider: language usage, voice projection, tone and accuracy, gestures employed, audience."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1c",
+                            "page": 45,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Guide learners on what to focus on when analysing praises",
+                                "Lead a class discussion on the analysis of praises (Teacher to use the samples provided)",
+                                "Consolidate the activity by highlighting what to focus on when analysing praises"
+                            ],
+                            "learner_steps": [
+                                "Participate in discussion on analyzing praises",
+                                "Study sample praises: 'Grey Hair' and 'The Insane Sane'",
+                                "Analyze given praises and make presentations",
+                                "Focus on: message, meaning, context"
+                            ],
+                            "short_notes": "What to focus on when analysing praises include: Message, Meaning, Context. Sample praises provided: 'Grey Hair' (an extract from Quills of Desire Revision and Study Guides) - about respecting age, wisdom and experience of elderly people. 'The Insane Sane' (an extract from A Student's Peer in Poetry Analysis) - about perspectives on sanity and freedom in modern society."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1d",
+                            "page": 47,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lead a class discussion and guide learners on how to compose praises",
+                                "In pairs/groups assign learners to compose, present and review the composed praises",
+                                "Consolidate the activity by highlighting how to compose praises"
+                            ],
+                            "learner_steps": [
+                                "Participate in discussion on composing praises",
+                                "Work in pairs/groups to compose praises",
+                                "Present and review composed praises",
+                                "Follow steps: select theme, include related words, structure, use literary devices, add images, link ideas, get extraordinary, use well-chosen words, read aloud"
+                            ],
+                            "short_notes": "In composing a praise, you may use some of the following steps: Select a theme - What do you want to communicate to the listener or audience, what is the general message? Include words related to your theme - These will help you to set the tone and mood when rightly used. Needed Structure - This will guide you on how much of words, lines and stanzas or format you will need to communicate your message. Use literary devices - Create similes, metaphors, and symbolism etcetera in line with the praise's theme. These are the ingredients of a good praise and communicate more meaning effectively than long lines or sentences. Add images - These will help the listener to visualize the situation and create a long-lasting impression and memory of the praise. Neatly link ideas - Link the ideas and polish the language used. Get extra ordinary - This can be achieved by avoiding unnecessary clichés but choosing appealing words and creating lines that makes the praise almost real to the listener. Well-chosen words - These words can be carefully added to enrich the language used in the praise. End by reading it aloud in preparation for reciting."
+                        }
+                    ],
+                    "short_notes": "Praises are expressions of admiration, approval or gratitude for persons or things. Types include: praises about parents/elderly people (appreciation of significance), self (good attributes), deities (supernatural existence), chiefs (traditional leadership roles), heroes/heroines (central admirable characters), and politicians (political leadership). Reciting requires: language usage, voice projection, tone and accuracy, gestures, audience awareness. Analysis focuses on: message, meaning, context. Composition steps: select theme, include related words, structure, use literary devices, add images, link ideas, get extraordinary, use well-chosen words, read aloud for preparation.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 42,
+                        "questions": [
+                            "Ask learners to interview their parents/guardians on praises",
+                            "Learners to present the interview findings to the class",
+                            "In pairs, give learners some praises to recite",
+                            "Ask learners to analyse the two praises given and make presentations",
+                            "In pairs/groups task the learners to compose praises and present them to the class"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2.1.7",
+                    "title": "Idioms",
+                    "page": 50,
+                    "competences": [
+                        "Demonstrate knowledge of idioms",
+                        "Use idioms in different linguistic contexts"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 50,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put learners in groups and assign each group to discuss different idioms and their meanings (Provide some idioms for the learners to consider in their discussion)",
+                                "Ask group representatives to present the findings of their groups",
+                                "Plenary session",
+                                "Consolidate the activity by highlighting the idioms that were provided to the learners"
+                            ],
+                            "learner_steps": [
+                                "Work in groups to discuss different idioms and their meanings",
+                                "Present group findings",
+                                "Participate in plenary session",
+                                "Match idioms to corresponding meanings in tabular exercise",
+                                "Write down five different idioms with explanations for homework"
+                            ],
+                            "short_notes": "Idioms are phrases or expressions whose meanings are not directly derived from the literal meanings of the individual words they contain. They often have cultural or contextual significance, making them unique to specific languages or regions. Examples: 'spill the beans' means to reveal a secret, even though it does not literally involve beans. 'Break the ice' means to initiate a conversation in a social setting to ease tension or awkwardness. 'Hit the nail on the head' means to describe something accurately or to be exactly right. 'Piece of cake' means something that is very easy to do. 'Bite the bullet' means to endure a painful or difficult situation with courage. 'Burn the midnight oil' means to work late into the night. 'Under the weather' means feeling sick or unwell. 'When pigs fly' means something that will never happen. 'Cost an arm and a leg' means very expensive. 'Let the cat out of the bag' means to accidentally reveal a secret."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 51,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put learners in groups and instruct them to pick an idiom of their choice for dialogue",
+                                "Lead a discussion where learners classify the contexts in which the chosen idioms have been used",
+                                "Consolidate the activity by highlighting the use of idioms in different contexts"
+                            ],
+                            "learner_steps": [
+                                "Work in groups to select idiom for dialogue",
+                                "Create dialogues using chosen idioms",
+                                "Classify contexts in which idioms are used",
+                                "Write down idioms in different linguistic contexts"
+                            ],
+                            "short_notes": "Idioms serve various purposes and their use can vary across linguistic and cultural contexts: Cultural expression - Idioms often reflect cultural beliefs, values, and traditions. They are a way to express ideas unique to a culture. Example: 'Break the ice' which means to initiate conversation or to start a conversation. Enhancing communication - Idioms make communication clear, expressive, and engaging. Example: 'Bite the bullet' that is to face a difficult situation bravely (courageously). Building identity - Idioms help create a sense of belonging among speakers of a language or dialect. Example: 'Find your roots' encourages one to know their ancestry and cultural background. Humour and creativity - Idioms add humour or creativity to language, making it more relatable and enjoyable. Example: 'When pigs fly' that is to describe something impossible."
+                        }
+                    ],
+                    "short_notes": "Idioms are phrases or expressions whose meanings cannot be understood from individual words alone. They have cultural or contextual significance unique to specific languages or regions. Examples include: 'spill the beans' (reveal secret), 'break the ice' (initiate conversation), 'piece of cake' (very easy), 'bite the bullet' (endure difficulty courageously), 'cost an arm and a leg' (very expensive). Idioms serve purposes: cultural expression (reflecting beliefs, values, traditions), enhancing communication (making it expressive and engaging), building identity (creating belonging among speakers), and adding humour/creativity. Mastering idioms enhances language proficiency and cultural understanding.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 50,
+                        "questions": [
+                            "Administer an exercise in tabular form for learners to match the given idioms to their corresponding meanings",
+                            "Give homework to learners to write down five (5) different idioms (the idioms should be explained)",
+                            "Assign learners to write down idioms in different linguistic contexts"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

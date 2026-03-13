@@ -1,0 +1,572 @@
+{
+    "subject": "Kikaonde",
+    "grade": "Form 1",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "Kwingijisha Bizhima Kutama",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Bintu bitulamata (Kwingijisha bizhima kutama)",
+                    "page": 1,
+                    "competences": [
+                        "Kwingijisha mulaka wafikilamo bulongo pa kwisamba pa bintu bitulamata (Kwingijisha bizhima kutama)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 1,
+                            "hook": "Juuba jimo mwanyike umo waimene kuya ku kusuulu Byo afikile mu sukulu wataine bakwabo balama tumabotolo twamwekelenga nobe twa Mojo mu maboko. Pakumona oa mabotolo wakomokele ne kulomba bakwabo kumupapo. Bamubujile amba kechi basa kumupela apo ine, kana ku kibanza kwafyamika bulongo.",
+                            "teacher_steps": [
+                                "Buule bafunda kwisamba pa kwingijisha bizhima kutama",
+                                "Pane mitwe ya kwisambapo yaamba pa kwingijisha bizhima kutama",
+                                "Bike bafunda mu bipanyi pakuuba amba besambe"
+                            ],
+                            "learner_steps": [
+                                "Sambilamo pa kwingijisha bizhima kutama",
+                                "Tabukilamo mitwe yakwisamba",
+                                "Bikamo mu bipanyi pakuuba besambe"
+                            ],
+                            "short_notes": "Mu kino kibese kya Kuteleka ne Kwamba, bafunda basakuyuka butame ne buyuke bwa kwingijisha bizhima."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "B",
+                            "page": 3,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Apane mwingilo ku bafunda wa kwingijisha byambo bimo byasalwa mu bipelu"
+                            ],
+                            "learner_steps": [
+                                "Balondele bulongo mabulañano akibaaba kufuma mu mabuuku mo basakutana byambo",
+                                "Balumbulule bulongo byambo bimo byasalwa kufuma mu kibaba",
+                                "Bafunda bapane ndumbulwilo ya kulumbulula ku bakwabo",
+                                "Bobe mwingilo wa kwingijisha byambo bimo byasalwa mu bipelu",
+                                "Bengijishe byambo byasalwa mu bipelu",
+                                "Balenge bipelu na byambo byafikilamo bulongo"
+                            ],
+                            "short_notes": "Bafunda bapane mikumbu ya byambo byo balumbulula ne kwingijisha byambo byasalwa mu bipelu."
+                        }
+                    ],
+                    "short_notes": "Bizhima ni bintu byo busuntu bulolomo butuba muya mu mubili. Bizhima bino bipotekamo mu mubili ukumo ukukwata. Kabiji bimwi bizhima kechi byamona mu menso ne, ine bulanguluka ne masumba akululaka mu byenji byapusana-pusana.",
+                    "vocabulary": [
+                        {
+                            "term": "Bizhima",
+                            "definition": "Bintu byo busuntu bulolomo butuba muya mu mubili"
+                        },
+                        {
+                            "term": "Kusulwisha",
+                            "definition": "Kufwayila bintu bikele pa kuya bya bulongo"
+                        },
+                        {
+                            "term": "Kipizha",
+                            "definition": "Kyubilo kya kuuba bintu bifuma byo bena kufwayila"
+                        },
+                        {
+                            "term": "Twishi twakafukula",
+                            "definition": "Tulongolo tucheche tubula kumweka twa mu mashi"
+                        },
+                        {
+                            "term": "Maluwo",
+                            "definition": "Masongola"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 9,
+                        "questions": [
+                            "Samba pa bintu bipoteka bizhima",
+                            "Talika byambo byakwingijisha bizhima",
+                            "Sambilamo pa nshila ya kwisambilamo bizhima",
+                            "Mu ñanyi mashinda kwingijisha bizhima kutama mo kuletela makatazho?",
+                            "Mashinda ka owalanguluka akonsha kukwasha kushinjilamo kwingijisha bizhima kutama?",
+                            "Bañanyi bo walanguluka bengijisha bingi bizhima kutama mu kino kyalo kya Zambia?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Kutanga Nchikameno",
+                    "page": 5,
+                    "competences": [
+                        "Bafunda batange ne kumvwisha bulongo bibaaba muji bya mu mabuuku byapusana-pusana"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 5,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Bafunda batange bibaaba muji bya mu mabuuku byapusana-pusana",
+                                "Bibaba nabiji mashimikila, bishimi, nsansawilo, nsapawilo, yimbo ya kumuzhi ne bikwabotu",
+                                "Mufunjishi apane mepuzho ku bafunda"
+                            ],
+                            "learner_steps": [
+                                "Batange bulongo kibaaba kyo batanga",
+                                "Bakumbule bulongo mepuzho apusana-pusana pa kibaaba",
+                                "Bepipishe kibaaba kyatangiwa",
+                                "Kwisamba ndumbulwilo ya byambo"
+                            ],
+                            "short_notes": "Makatazho onse atendekele panyuma ya myaka ibiji yapitapo, po natendekejile kwingijisha bizhima. Kwajinga ne mwanamukazhi umo wapwishishe myaka makumi abiji ne itanu mukaleya na mambo kwitwezha mu busulu bwa kusulwisha bizhima."
+                        }
+                    ],
+                    "short_notes": "Kutanga bibaaba bikwasha bafunda kumvwisha ne kwipisha bibaba byakutangiwa.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 6,
+                        "questions": [
+                            "Busulu ka bwitwezhezhemo mwanamulume uji mu jishimikila?",
+                            "Mu milanguluko yobe, uno mutwe ubena kwamba pa ka?",
+                            "Ñanyi kintu kyalengejile mwanamukazhi umo kumutaya pa kazhima?",
+                            "Kintu ka kimo kyafumine mu kwingijisha bizhima kutama kwa mwanamukazhi umo?",
+                            "Kumvwa bakazhi amba 'kechi nakonsheshe kwibakwasha ine.' Mwayila jishimikila, ino ñambilo yatala muka?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "Kunemba - Nembelo ya Nsombelo",
+                    "page": 7,
+                    "competences": [
+                        "Kunemba mutanchi wa bintu bikala mu nembelo ya nsombelo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "C",
+                            "page": 7,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Mufunjishi abuule bafunda kuuba amba babena kufunda pa nembelo ya nsombelo",
+                                "Ebabuule byafwainwa kunembwa nsombelo ne bintu byafwainwa kunembwamo",
+                                "Bafunda banembe bulongo nsombelo"
+                            ],
+                            "learner_steps": [
+                                "Kwisamba nembelo ya nsombelo ne bintu byafwainwa kwibikiwamo",
+                                "Besambe ne kutongola bintu byafwainwa kwikala mu nembelo ya nsombelo (nobe mutwe, ntendekelo, bikomo biji mu byepelo ne Mepuzho)",
+                                "Banembepo nsombelo imo pa mitwe yapanyiwa"
+                            ],
+                            "short_notes": "Bafunda banembe nsombelo pa: 1. Mo kyawamina ne kutamina kwingijisha bizhima kutama, 2. Bantu bonse bafwainwa kwibaswisha kwingijisha bizhima kutama, 3. Muvyala obe umo ye bakashile na mambo a kwingijisha bizhima kutama."
+                        }
+                    ],
+                    "short_notes": "Nembelo ya nsombelo yaimena na mutwe, ntendekelo, bikomo biji mu byepelo ne mepuzho.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 7,
+                        "questions": [
+                            "Nemba nsombelo pa mo kyawamina ne kutamina kwingijisha bizhima kutama",
+                            "Bantu bonse bafwainwa kwibaswisha kwingijisha bizhima kutama. Pachika",
+                            "Nemba jishimikila pa muvyala obe umo ye bakashile na mambo a kwingijisha bizhima kutama"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4",
+                    "title": "Mulakazhilo - Bibese bya ñambo",
+                    "page": 7,
+                    "competences": [
+                        "Kusobolola byambo mwayila mitundu ya byambo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "D",
+                            "page": 7,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Mufunjishi abuule bafunda bya kusobolola byambo mwayila mitundu yabo",
+                                "Ebatangijile mu kulumbulula mitundu ya byambo"
+                            ],
+                            "learner_steps": [
+                                "Kusobolola mitundu ya byambo (bintu, tusuñami, byubilo, ndumbululo, tulumbuluzhi, tununganunga, tutangijilo, ngitabulwilo)",
+                                "Besambe pa mitundu ya byambo na bimwesho",
+                                "Basobolole byambo kwesakana na mwayila mitundu yabyo",
+                                "Bengijishe bibese bya ñambo bimo mu kulenga bipelu"
+                            ],
+                            "short_notes": "Mitundu ya byambo: 1. Bintu - byambo byaimenako mazhina, 2. Tusuñami - byambo byo twingijisha mu kifulo kya bintu, 3. Byubilo - bimwesha byubilo byubiwa, 4. Ndumbululo - byambo bitukwasha kulumbulula kyubilo, 5. Tulumbuluzhi - byambo byo twingijisha pa kulumbulula kintu, 6. Tununganunga - byambo byo twingijisha kunungakanya milanguluko, 7. Tutangijilo - byambo bitangijila mazhina a bifulo, 8. Ngitabulwilo - byambo byo bingijishiwa pa kuubazhimuka."
+                        }
+                    ],
+                    "short_notes": "Byambo byabanyiwa mu bibese byapusana-pusana mwayila maana yabyo ne nshila yakwingijisha.",
+                    "vocabulary": [
+                        {
+                            "term": "Bintu",
+                            "definition": "Byambo byaimenako mazhina a bintu biji nobe kajo, nyama, muntu, mpunzha, mukola, kyalo"
+                        },
+                        {
+                            "term": "Tusuñami",
+                            "definition": "Byambo byo twingijisha mu kifulo kya bintu"
+                        },
+                        {
+                            "term": "Byubilo",
+                            "definition": "Bimwesha byubilo byubiwa"
+                        },
+                        {
+                            "term": "Ndumbululo",
+                            "definition": "Byambo bitukwasha kulumbulula kyubilo, tulumbuluzhi ne ndumbululo ikwabo"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 8,
+                        "questions": [
+                            "Sobolola mitundu ya byambo",
+                            "Pana bimwesho bya bibese bya byambo",
+                            "Ingijisha bibese bya ñambo mu kulenga bipelu"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.5",
+                    "title": "Ntuntulwilo - Kulumbula byambo bingijishiwa mu kutuntulula",
+                    "page": 8,
+                    "competences": [
+                        "Kulumbulula byambo bingijishiwa mu kutuntulula"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "E",
+                            "page": 8,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Isambai pa ndumbulwilo ne buneme buji mu kutuntulula",
+                                "Bafunda besambe pa byambo byanema bingijishiwa pa kutuntulula"
+                            ],
+                            "learner_steps": [
+                                "Isambai bulongo pa ndumbulwilo ne buneme buji mu kutuntulula",
+                                "Besambe bulongo pa byambo byanema bingijishiwa pa kutuntulula",
+                                "Bapusanye byambo bingijishiwa pa kutuntulula"
+                            ],
+                            "short_notes": "Byambo bingijishiwa pa kutuntulula: Ntuntulwilo yakunemba, ntuntulwilo ya kwamba, mulaka mufuma byambo bintululwa, mulaka ye mwatuntulwilamo, ntuntulwilo ya byambo kufuma mu mulaka umo kutwala mu milaka yavula."
+                        }
+                    ],
+                    "short_notes": "Ntuntulwilo yaimena na byambo byapusana-pusana bingijishiwa mu kutuntulula milaka.",
+                    "vocabulary": [
+                        {
+                            "term": "Ntuntulwilo ya byambo byanembwa (translation)",
+                            "definition": "Ntuntulwilo ya byambo, bipelu nangwa bibaaba kufuma mu mulaka umo ne kutwala mu mulaka mukwabo kupichila mu kunemba"
+                        },
+                        {
+                            "term": "Ntuntulwilo ya byambo pa kanwa (interpretation)",
+                            "definition": "Ntuntulwilo ya byambo, bipelu nangwa bibaaba kufuma mu mulaka umo ne kutwala mu mulaka mukwabo kupichila mu kwamba"
+                        },
+                        {
+                            "term": "Mulaka mufuma byambo bintululwa (source language)",
+                            "definition": "Ke mulaka mwine mwafuma byambo, bipelu nangwa kibaaba kyatuntululwa"
+                        },
+                        {
+                            "term": "Mulaka ye mwatuntulwilamo (target language)",
+                            "definition": "Mulaka mo mwatuntulwila byambo, bipelu, ne bibaba kufuma mu mulaka mukwabo"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 9,
+                        "questions": [
+                            "Lumbulula byambo bingijishiwa mu kutuntulula",
+                            "Pusanya ntuntulwilo yakunemba ne ntuntulwilo ya kwamba",
+                            "Pana bimwesho bya ntuntulwilo"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "Baanabalume ne Baanabakazhi",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Lubesha lwa bonsetu",
+                    "page": 10,
+                    "competences": [
+                        "Kwingijisha lubesha lwa bantu mu myaka yikalenga"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1",
+                            "page": 10,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Buule bafunda pa lubesha lwa bantu",
+                                "Sambilamo pa lupimpu lwa lubesha mu myaka yikalenga",
+                                "Peezhe bafunda kutangapo byambo bya lubesha"
+                            ],
+                            "learner_steps": [
+                                "Sambilamo pa lubesha lwa bantu",
+                                "Tabukilamo lupimpu lwa lubesha",
+                                "Tangapo byambo bya lubesha"
+                            ],
+                            "short_notes": "Lubesha ni lupimpu lwa kyalo ukulaumuna mu butame kabiji ne kwengesha bulongo mu bubeyele bwabene."
+                        }
+                    ],
+                    "short_notes": "Mu kino kishina bafunda basakukonsha kwingijisha lubesha lwa bantu mu myaka yikalenga ne kupimizha amba lubesha ni kimwesho kimo kya butame bwa kyalo.",
+                    "vocabulary": [
+                        {
+                            "term": "Lubesha",
+                            "definition": "Lupimpu lwa kyalo ukulaumuna mu butame kabiji ne kwengesha bulongo mu bubeyele bwabene"
+                        },
+                        {
+                            "term": "Mwanabalume",
+                            "definition": "Mwana wa mulume"
+                        },
+                        {
+                            "term": "Mwanabakazhi",
+                            "definition": "Mwana wa mukazhi"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 29,
+                        "questions": [
+                            "Talika byambo bya lubesha",
+                            "Samba pa nshila yakwingijisha lubesha bulongo",
+                            "Peezhamo pa buyuke bwa lubesha mu kyalo"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "Luusa lwa panyiwa ku Bantu",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Luusa lwa bantu",
+                    "page": 30,
+                    "competences": [
+                        "Kwingijisha luusa lwa panyiwa ku bantu"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Buule bafunda pa luusa lwa panyiwa ku bantu",
+                                "Sambilamo pa buyuke bwa luusa",
+                                "Peezhe bafunda kutanga byambo bya luusa"
+                            ],
+                            "learner_steps": [
+                                "Sambilamo pa luusa lwa bantu",
+                                "Tabukilamo buyuke bwa luusa",
+                                "Tangapo byambo bya luusa"
+                            ],
+                            "short_notes": "Luusa ni lubesha lwa kyalo ne lutobolo lwa bantu."
+                        }
+                    ],
+                    "short_notes": "Mu kino kishina bafunda basakuyuka buyuke bwa luusa lwa panyiwa ku bantu ne nshila yakwingijisha luusa bulongo mu kyalo.",
+                    "vocabulary": [
+                        {
+                            "term": "Luusa",
+                            "definition": "Lubesha lwa kyalo ne lutobolo lwa bantu"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 47,
+                        "questions": [
+                            "Samba pa buyuke bwa luusa",
+                            "Talika nshila yakwingijisha luusa",
+                            "Peezhamo pa luusa mu kyalo"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "Buneme bwa Bisho",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Buneme bwa bisho",
+                    "page": 48,
+                    "competences": [
+                        "Kwingijisha buneme bwa bisho"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1",
+                            "page": 48,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Buule bafunda pa buneme bwa bisho",
+                                "Sambilamo pa nshila ya kwingijisha buneme",
+                                "Peezhe bafunda kutanga byambo bya buneme"
+                            ],
+                            "learner_steps": [
+                                "Sambilamo pa buneme bwa bisho",
+                                "Tabukilamo nshila ya buneme",
+                                "Tangapo byambo bya buneme"
+                            ],
+                            "short_notes": "Buneme ni nshila ya kulongolola bisho ne kupesapesha bintu."
+                        }
+                    ],
+                    "short_notes": "Mu kino kishina bafunda basakuyuka buneme bwa bisho ne nshila ya kwingijisha buneme bulongo.",
+                    "vocabulary": [
+                        {
+                            "term": "Buneme",
+                            "definition": "Nshila ya kulongolola bisho ne kupesapesha bintu"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 65,
+                        "questions": [
+                            "Samba pa buneme bwa bisho",
+                            "Talika nshila ya buneme",
+                            "Peezhamo pa buyuke bwa buneme"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "Mazhikakanwa",
+            "sub_topics": [
+                {
+                    "subtopic_id": "5.1",
+                    "title": "Mazhikakanwa",
+                    "page": 66,
+                    "competences": [
+                        "Kwingijisha mazhikakanwa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1",
+                            "page": 66,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Buule bafunda pa mazhikakanwa",
+                                "Sambilamo pa nshila ya mazhikakanwa",
+                                "Peezhe bafunda kutanga mazhikakanwa"
+                            ],
+                            "learner_steps": [
+                                "Sambilamo pa mazhikakanwa",
+                                "Tabukilamo nshila ya mazhikakanwa",
+                                "Tangapo mazhikakanwa"
+                            ],
+                            "short_notes": "Mazhikakanwa ni byambo byakwingijisha mu kulongolola bintu."
+                        }
+                    ],
+                    "short_notes": "Mu kino kishina bafunda basakuyuka mazhikakanwa ne nshila yakwingijisha mazhikakanwa mu kulongolola.",
+                    "vocabulary": [
+                        {
+                            "term": "Mazhikakanwa",
+                            "definition": "Byambo byakwingijisha mu kulongolola bintu"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 81,
+                        "questions": [
+                            "Samba pa mazhikakanwa",
+                            "Talika nshila ya mazhikakanwa",
+                            "Tangapo mazhikakanwa"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "6.0",
+            "topic_title": "Mashimikila",
+            "sub_topics": [
+                {
+                    "subtopic_id": "6.1",
+                    "title": "Mashimikila",
+                    "page": 82,
+                    "competences": [
+                        "Kwingijisha mashimikila"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.1",
+                            "page": 82,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Buule bafunda pa mashimikila",
+                                "Sambilamo pa nshila ya mashimikila",
+                                "Peezhe bafunda kutanga mashimikila"
+                            ],
+                            "learner_steps": [
+                                "Sambilamo pa mashimikila",
+                                "Tabukilamo nshila ya mashimikila",
+                                "Tangapo mashimikila"
+                            ],
+                            "short_notes": "Mashimikila ni byambo byakwingijisha mu kwishimikila."
+                        }
+                    ],
+                    "short_notes": "Mu kino kishina bafunda basakuyuka mashimikila ne nshila yakwingijisha mashimikila bulongo.",
+                    "vocabulary": [
+                        {
+                            "term": "Mashimikila",
+                            "definition": "Byambo byakwingijisha mu kwishimikila"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 95,
+                        "questions": [
+                            "Samba pa mashimikila",
+                            "Talika nshila ya mashimikila",
+                            "Tangapo mashimikila"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "7.0",
+            "topic_title": "Lupimpu lwa Lubesha",
+            "sub_topics": [
+                {
+                    "subtopic_id": "7.1",
+                    "title": "Lupimpu lwa lubesha",
+                    "page": 96,
+                    "competences": [
+                        "Kwingijisha lupimpu lwa lubesha"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "7.1",
+                            "page": 96,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Buule bafunda pa lupimpu lwa lubesha",
+                                "Sambilamo pa nshila ya lupimpu",
+                                "Peezhe bafunda kutanga lupimpu lwa lubesha"
+                            ],
+                            "learner_steps": [
+                                "Sambilamo pa lupimpu lwa lubesha",
+                                "Tabukilamo nshila ya lupimpu",
+                                "Tangapo lupimpu lwa lubesha"
+                            ],
+                            "short_notes": "Lupimpu lwa lubesha ni nshila ya kwingijisha lubesha mu kyalo."
+                        }
+                    ],
+                    "short_notes": "Mu kino kishina bafunda basakuyuka lupimpu lwa lubesha ne nshila yakwingijisha lupimpu bulongo.",
+                    "vocabulary": [
+                        {
+                            "term": "Lupimpu",
+                            "definition": "Nshila ya kwingijisha bintu mu kyalo"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 123,
+                        "questions": [
+                            "Samba pa lupimpu lwa lubesha",
+                            "Talika nshila ya lupimpu",
+                            "Peezhamo pa lupimpu mu kyalo"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

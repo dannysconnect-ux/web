@@ -1,0 +1,1186 @@
+{
+    "subject": "Litilica mu Cibemba",
+    "grade": "Form 1",
+    "term": 3,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "Akashimi (Ifibombelo Babomfya Pakupanga Akashimi Kakulanda)",
+            "description": "Muli uyu mutwe abasambi balaishiba ifikomo ifikalamba ifisangwa mumalyashi ayalekana-lekana ukulingana na ifyo yashimikwe. Kabili balaishiba ukulondolo intampulo shakukonka pakwishiba umutwe uupelwe mu ilyashi lyakulandafye.",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Umutwe wa isambililo",
+                    "page": 1,
+                    "competences": [
+                        "Abasambi balaishiba imitwe iikankala iili mu ilyashi lyakulandafye"
+                    ],
+                    "learning_outcomes": [
+                        "Ukulondolola intampulo shakukonka pakwishiba imitwe iikankala nangula ifikomo fipeelwe mu ilyashi lyakulandafye",
+                        "Bafwaye imitwe iikankala iili mu lyashi yakulandafye",
+                        "Balondolole imitwe iili mu ilyashi lyakulandafye nangula mumulandu uupeelwe",
+                        "Bapeele ubupilibulo buli muli iiyi mitwe"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 1",
+                            "page": 2,
+                            "description": "Abasambi bafwile ukulondolola intampulo shakukonka pa kufwaya ifikomo ifikankala ifipeelwe mu ilyashi nangu ifili mukati ka ilyashi lyakulandafye",
+                            "teacher_steps": [
+                                "Eba abasambi bapeele intampulo shakukonka pakufwaya imitwe iikankala iili mu ilyashi lyakulandafye",
+                                "Ukumfwikisha ilyo baleshimika ilyashi. Ulingile waumfwikisha wabikako amano kufyo balelanda",
+                                "Ukufwailisha imilandu ilepinkana mulyashi baleshimika",
+                                "Ukufwaya ubwafya buli mu ilyashi baleshimiika ubulengele ukuti pabe ukupinkana",
+                                "Bafwaye ubwafya nga bufumine mukati kamushi nangu bwakwisafye atemwa fyonse fiibili",
+                                "Ukufwailisha imilandu mukati ka ilyashi iilebwekela-bwekelapo nangula iilelandwapo libililibili",
+                                "Ukumona ngacakutila bakalanda wa ilyashi baleyaluka nangula bakonkenyepofye ukwiminina ukutungilila ulubali lwabo atemwa iyoo",
+                                "Ukulengulula intendekelo ya ilyashi na incende baleshimikilako",
+                                "Ukufwailisha umulandu uo bakalanda wa ilyashi balefwaya ukuti icintubwingi cumfwe",
+                                "Ukufwailisha isambililo ilikalamba ilyo umulandu ulelandapo ilyo bakalanda balefwaya ukuti lingasabankanishiwa ku bantu",
+                                "Ukwakanya ilyashi mufikomo ifyo bakalanda balondolwele mulyashi"
+                            ],
+                            "learner_steps": [
+                                "Balondolole intampulo shakukonka pa kufwaya ifikomo ifikankala ifipeelwe mu ilyashi nangu ifili mukati ka ilyashi lyakulandafye"
+                            ],
+                            "expected_outcomes": [
+                                "Intampulo shakukonka pa kufwaya ifikomo ifikankala ifipeelwe mu ilyashi nangu ifili mukati ka ilyashi lyakulandafye shalondololwa umupwilapo"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 2",
+                            "page": 3,
+                            "description": "Abasambi bafwaye imitwe mu ilyashi ilipelwe",
+                            "teacher_steps": [
+                                "Eba abasambi bafwaye imitwe mu ilyashi ilipeelwe"
+                            ],
+                            "learner_steps": [
+                                "Abasambi bapeele imitwe iikalamba iili mukashimi"
+                            ],
+                            "example_text": "Patile akantu, kaikele nga ifi. Abantu balikele mumushi uukalamba nganshi. Ishina lyamushi uyu lyali ni Kolosa mu caalo camfumu ba Nondo. Muli uyu mushi na imishi iimbi iya ushingulwike mwaliponene insala yacipesha amano...",
+                            "key_themes": [
+                                "Insala",
+                                "Icilala",
+                                "Ukuya ku ng'anga",
+                                "Ukupepa Lesa",
+                                "Ukuloboka kwa mfula panuma yamapepo",
+                                "Ulupupo",
+                                "Ukubuka",
+                                "Lesa na Ing'anga"
+                            ],
+                            "expected_outcomes": [
+                                "Imitwe iikalamba iili mukashimi yapelwa bwino-bwino"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 3",
+                            "page": 5,
+                            "description": "Abasambi balondolole imitwe iikalamba iili mukashimi",
+                            "teacher_steps": [
+                                "Eba abasambi balondolole imitwe iikalamba iili mukashimi"
+                            ],
+                            "learner_steps": [
+                                "Abasambi bapeele imitwe iikalamba iili mukashimi"
+                            ],
+                            "examples": [
+                                {
+                                    "theme": "Insala",
+                                    "description": "Mu lushimi muli insala pamulandu wa cilala imfula tayalokele"
+                                },
+                                {
+                                    "theme": "Icilala",
+                                    "description": "Imfula ukukana loka pamyaka ibili"
+                                },
+                                {
+                                    "theme": "Ukuya kung'anga",
+                                    "description": "Uyu mutwe uuli pali umo ulelanda pafyo abantu baile ku ng'anga ilyo baponenwe na icilala"
+                                },
+                                {
+                                    "theme": "Ukwita icilye",
+                                    "description": "Uyu mutwe ulelanga icilye caitilwe pafyo bengapwisha ubwafya bwa cilala"
+                                },
+                                {
+                                    "theme": "Ukupepa Lesa",
+                                    "description": "Uyu mutwe nao ulelanga ifyo Lesa ayaswike amapepo na ukulosha imfula"
+                                },
+                                {
+                                    "theme": "Ulupupo",
+                                    "description": "Ukutwala ifyabupe ku mipashi pakuti imipashi yafikolwe yasuke na ukupeela abantu ico balefwaya; imfula"
+                                }
+                            ],
+                            "expected_outcomes": [
+                                "Imitwe ili mu lushimi ya londololwa ukufikapo"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 4",
+                            "page": 6,
+                            "description": "Abasambi bapeele ubupilibulo bwa mitwe ili mu lushimi",
+                            "teacher_steps": [
+                                "Eba abasambi bapeele ubupilibulo bwa mitwe ili mu lushimi"
+                            ],
+                            "learner_steps": [
+                                "Balondolole imitwe ili mu lushimi"
+                            ],
+                            "detailed_explanations": [
+                                {
+                                    "theme": "Insala",
+                                    "explanation": "mutwe umo uuli mu kashimi pantu natumfwa uko ulushimi lwalanda pa nsala yaponene mu mushi mwa Kolosa. Na iyi insala yaponeene pa mulandu wakuti imfula tayalokele"
+                                },
+                                {
+                                    "theme": "Icilala",
+                                    "explanation": "Imfula ukukana loka pamyaka ibili, akashimi nakabili nakakwata umutwe ulelanda pa cilala pantu kulaba limo ilyo imfula ikaana ukuloka"
+                                },
+                                {
+                                    "theme": "Ukuya kung'anga",
+                                    "explanation": "Uyu nao umutwe uuli pali umo ulelanda pafyo abantu baya ku ng'anga ilyo lyonse baponenwa na ubwafya"
+                                },
+                                {
+                                    "theme": "Ukwita icilye",
+                                    "explanation": "Uyu mutwe uletulanga ukuti pakati kabantu nga paisa ubwafya ubuli bonse, kulaba ukulongona na ukwesha ukulashanya ifyo bengapwisha ubo ubwafya"
+                                },
+                                {
+                                    "theme": "Ukupepa Lesa",
+                                    "explanation": "uyu mutwe nao uli mu lushimi. Twaumfwa umulandu wa kwipusha Lesa pamulandu wa bwafya abantu bakwete"
+                                },
+                                {
+                                    "theme": "Ulupupo",
+                                    "explanation": "Ukutwala ifyabupe ku mipashi pakuti imipashi yafikolwe yasuke na ukupeela abantu ico balefwaya"
+                                }
+                            ],
+                            "expected_outcomes": [
+                                "Imitwe ili mu lushimi ya londololwa ukufikapo"
+                            ]
+                        }
+                    ],
+                    "short_notes": "Ili isambililo lyakomaila na ukulanda pafisangwa mu lyashi lyakulandafye. Mulyashi yakulandafye mulasangwa ifikomo ifya pusana-pusana ifyo bakalanda naba komfwa bafwile baishiba umofilolele na isambililo fingapeela ku bantu. Teapo peka iyoo abasambi nabeshiba ukuti cilalyashi yakulandafye lyalikwata intampulo isho bafwile baishiba nangu bakonka pakufwaya imitwe iili mu lyashi lyakulandafye.",
+                    "vocabulary": [
+                        {
+                            "term": "Umutwe",
+                            "definition": "Ifikomo ifikankala ifisangwa mulyashi"
+                        },
+                        {
+                            "term": "Ilyashi lyakulandafye",
+                            "definition": "Oral literature - Litilica iyakulandafye"
+                        },
+                        {
+                            "term": "Intampulo",
+                            "definition": "Icilengele nangula umulandu wakuti cintu cipangwe"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 7,
+                        "questions": [
+                            "Londolola intampulo shakukonka pakwishiba imitwe iikalamba iipeelwe mu lushimi",
+                            "Peela imitwe iikankala iili mulyashi lyakulandafye",
+                            "Londolola imitwe iikankala iili mulyashi lyakulandafye",
+                            "Peela ubupilibulo buli mufikomo ifili mu lyashi lyakulandafye ilya kuipangilafye abeene",
+                            "Peela ulushimi nangula ilyashi elyo ufunyemo ifikomo ifikalamba ifyalasangwa mulyashi lyobe"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Ukupinkana",
+                    "page": 8,
+                    "competences": [
+                        "Abasambi balekabilwa ukubebeta ukupinkana kwa mu nshimi atemwa mu milumbe"
+                    ],
+                    "learning_outcomes": [
+                        "Ukupela ubupilibulo bwa kupinkana kwa munshimi atemwa mumilumbe",
+                        "Ukulondolola ifitumbuka mu kupinkana kwa mu nshimi na mu milumbe",
+                        "Ukulumbula ukupinkana kusangwa mu nshimi atemwa mu milumbe ipeelwe"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 1",
+                            "page": 9,
+                            "description": "Abasambi bafwile ukupela ubupilibulo bwa kupinkana kwa munshimi atemwa mumulumbe",
+                            "teacher_steps": [
+                                "Londolwela abasambi ubupilibulo bwa kupinkana pakati ka fintu fibili ifisangwa mu nshimi atemwa mumilumbe"
+                            ],
+                            "learner_steps": [
+                                "Balondolole intampulo shakukonka pa kufwaya ifikomo ifikankala ifipeelwe mu ilyashi nangu ifili mukati ka ilyashi lyakulandafye"
+                            ],
+                            "examples": [
+                                {
+                                    "type": "Ukupinkana mukati ka itontonkanyo lya muntu",
+                                    "text": "Janet cayamubipila nganshi pakufuma incito pa yadi pa Mr. Thorncroft no kuyaikala mu kompaundi ka maini...",
+                                    "explanation": "Ili lyaashi lyalanga ukupinkana pakati ka itontonkanyo lya kuupwa elyo na itontonkanyo lyakukaana upwa pakuti enga konkanyapo ukuba iule"
+                                },
+                                {
+                                    "type": "Ukupinkana pakati ka muntu na umubiye",
+                                    "text": "Cilya apetuka mu musebo, umwanakashi amwiminika...",
+                                    "explanation": "Ili lyaashi lyalanga ukupinkana pakati ka bantu babili abakwete itontonkanyo ilya pusana pamulandu wabufumfuntungu"
+                                },
+                                {
+                                    "type": "Ukupinkana pakati ka muntu na ifilengwa na Lesa",
+                                    "text": "Ulwa pa Mwela lwaisa, lwaisa no kukomena fitemene...",
+                                    "explanation": "Ili lyaashi lilelanga ukukansana pakati ka muntu na ifilengwa na Lesa"
+                                }
+                            ],
+                            "expected_outcomes": [
+                                "Ubupilibulo bwa kupinkana ukusangwa mu nshimi na mumilumbe kwalondololwa ukufikapo"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 2",
+                            "page": 11,
+                            "description": "Abasambi balondolole ifitumbuka mu kupinkana kusangwa mu nshimi atemwa mu milumbe",
+                            "teacher_steps": [
+                                "Eba abasambi balondolole ifitumbuka mukupinkana kusangwa mu nshimi atemwa mu milumbe"
+                            ],
+                            "learner_steps": [
+                                "Balondolole ifitumbuka mu kupinkana kusangwa mu nshimi atemwa mu milumbe"
+                            ],
+                            "key_points": [
+                                "Ukupinkana kulenga abalebelenga atemwa abaleumfwa ulushimi atemwa umulumbe ukwishiba ifyo kalemba alefwaya ukuti beshibe atemwa basambilile ukufuma mulyaashi",
+                                "Ukupinkana ekulenga ukuti ilyaashi likondekane pakuti na umulandu uube uwalondoloka",
+                                "Ukupinkana ekulenga ukuti abalebelenga bakwate amaka yakusala pa ciweme na icibipile, pa bubi na ubusuma, pa cacine na icabufi"
+                            ],
+                            "expected_outcomes": [
+                                "Ifitumbuka mu kupinkana ukusangwa mu nshimi atemwa mu milumbe fya londololwa ukufikapo"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 3",
+                            "page": 11,
+                            "description": "Abasambi balumbule ukupinkana kusangilwe mu lushimi atemwa mu mulumbe upeelwe",
+                            "teacher_steps": [
+                                "Eba abasambi ukulumbula ukupinkana kwalasangwa mu lushimi atemwa mu mulumbe upeelwe"
+                            ],
+                            "learner_steps": [
+                                "Abasambi balumbule ukupinkana kuli mu nshimi atemwa mu mulumbe upeelwe"
+                            ],
+                            "example_text": "Umuntu na Iciwa - Umuntunse atemene ubukula ubukalamba saana, abyelemo ne fisabo fyonse...",
+                            "conflict_types": [
+                                "Ukupinkana pakati ka muntu na icilengwa na Lesa",
+                                "Ukupinkana pakati ka muntu na umuntu mubiye"
+                            ],
+                            "expected_outcomes": [
+                                "Ukupinkana kuli mu nshimi atemwa mu mulumbe upeelwe kwalumbulwa bwino-bwino"
+                            ]
+                        }
+                    ],
+                    "short_notes": "Ukupinkana misosele atemwa imicitile iilepililika imisango iisuma iyo abantu basuminamo. Nga nikufilengwa na Lesa, ukupinkana kucita ifintu ifishayana ifingalenga ubusanso mu bumi bwaba bantu. Abasambi balaishiba ukuti inshimi na imilumbe yonse ilembwa pakuti abantunse bengasanga inshila shakupwishishamo amafya bashingwana nayo mu bwikashi bwabo.",
+                    "vocabulary": [
+                        {
+                            "term": "Ukupinkana",
+                            "definition": "Ukulwishanya kwa itontonkanyo atemwa abantu pakuti pamoneke umukalamba atemwa itontonkanyo lyacimfya"
+                        },
+                        {
+                            "term": "Itontonkanyo",
+                            "definition": "Amano nangula ifyo umuntu alefwaya"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 13,
+                        "questions": [
+                            "Panga ulushimi ulo ulukwetemo ukupinkana pakati kafintu ifyalekana-lekana kabili ululefundako pafintu fimo mu bumi bwesu",
+                            "Buula ulushimi ilwalembwa kale umonemo na ukulemba ukupinkana kwapusana-pusana ukulimo",
+                            "Lumbula imisango ibili iya ukupinkana iisangwa mu nshimi atemwa mu milumbe iyo usambilile"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "Ulwimbo",
+                    "page": 14,
+                    "competences": [
+                        "Abasambi babebete inyimbo ishimbwa mu nshimi"
+                    ],
+                    "learning_outcomes": [
+                        "Ukulanshanya pa bukanakala bwa kwimba inyimbo mu nshimi",
+                        "Ukwampanya amashiwi yali mu lwimbo ku lushimi ulupelwe",
+                        "Ukuibimba mukwimba inyimbo sha mu nshimi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 1",
+                            "page": 14,
+                            "description": "Abasambi balanshanye pa bukankala bwa kwimba inyimbo mu nshimi",
+                            "teacher_steps": [
+                                "Eba abasambi balashanye pa bukankala bwaba mukwimba inyimbo mu nshimi"
+                            ],
+                            "learner_steps": [
+                                "Balanshanye ubukanakala bwaba mu kwimba inyimbo mu nshimi"
+                            ],
+                            "key_characteristics": [
+                                "Shilalundako ubululondoloshi ku nshimi",
+                                "Shilapeela ubusuma ku nshimi",
+                                "Shilakwata isambililo na mafunde mu nshimi",
+                                "Shilasansamusha na ukusekesha kubaleumfwa inshimi"
+                            ],
+                            "expected_outcomes": [
+                                "Ubukankala bwa nyimbo mu nshimi bwalanshanishiwa bwino-bwino"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 2",
+                            "page": 15,
+                            "description": "Abasambi bampanye amashiwi ayali mulwimbo ku lushimi lupeelwe",
+                            "teacher_steps": [
+                                "Eba abasambi balondolole ubwampano buli mu mashiwi yali mu lwimbo na ulushimi lupeelwe"
+                            ],
+                            "learner_steps": [
+                                "Balondolole ubwampano buli mu mashiwi yali mu lwimbo na ulushimi"
+                            ],
+                            "example_story": "Insoka - Patiile akantu, kaikele ngefi twikele: Pali umufyashi na mwane balikele mu mushi...",
+                            "song_elements": [
+                                "Umwana: Tata eyo iyi?",
+                                "Wishi: yamalenga-malenga ya menshi matenga iyo teyo, Yamalenga-malenga ya menshi matenga iyo biika"
+                            ],
+                            "relationship_to_story": [
+                                "Ubulondoloshi ifyo insoka yalemoneka nangu umusango wa nsoka bwalondololwa mu lwimbo (iyamalengamalenga)",
+                                "Ulwimbo lwaba nga ubulalo ubwakukumbinkanya ilyashi mu kashimi na mashiwi ayali mu lwimbo",
+                                "Ulwimbo lulalundako umundowendowe nangu ubusuma ku kashimi",
+                                "Akashimi kakwata akakonkelelo ukwabula ukumfwiika akashimantukila nangu ukuleeta ubunang'ani kumulandu wa lwimbo"
+                            ],
+                            "expected_outcomes": [
+                                "Amashiwi ayali mu lwimbo ya ampanishiwa ku kashimi bwino-bwino"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 3",
+                            "page": 18,
+                            "description": "Abasambi bembeko inyimbo sha mu nshimi",
+                            "teacher_steps": [
+                                "Eba abasambi bembeko ulwimbo mu kashimi"
+                            ],
+                            "learner_steps": [
+                                "Bembeko ulwimbo lwa mukashimi"
+                            ],
+                            "example_song": {
+                                "title": "Nkaya kwa Lesa",
+                                "lyrics": "Nkaya kwa Lesa, nkaya kwa Lesa nkapoke umwana Lwelwe * 2\nBanandi lwelwe,\nBaambeepa lwelwe,\nTwa umwana lwelwe,\nMwibende lwelwe *2",
+                                "context": "Ulu lwimbo lwaimbiilwe na umukashana umo uwakwete umwana umusuma nganshi ukucila pabaana ba banankwe bonse. Kumulandu wakalumwa na umufimbila bakwete pa mwana wakwe, abanankwe bamubepele ukuti nga aatwa umwana..."
+                            },
+                            "expected_outcomes": [
+                                "Ukwibimba inyimbo mu kashimi kwaba ukwafikapo"
+                            ]
+                        }
+                    ],
+                    "short_notes": "Muli ici ciputulwa, abasambi balabebeta inyimbo ishimbwa mu nshimi, balalanshanya pa bukankala bwa kwimba inyimbo mu nshimi, ubwampano bwaba mu mashiwi ya mu nyimbo na inshimi elyo Kabili baintumpe na mukwimba inyimbo.",
+                    "vocabulary": [
+                        {
+                            "term": "Ulwimbo",
+                            "definition": "Inyimbo ishimbwa mu nshimi"
+                        },
+                        {
+                            "term": "Ubukankala",
+                            "definition": "Ifikomo ifikalamba ifisangwa mucintu"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 19,
+                        "questions": [
+                            "Lumbula ubukankala butatu bwaba mu nyimbo ishimbwa mu nshimi",
+                            "Leemba akashimi kamo akakwatamo ulwimbo elyo ulondolole ubwampano buli mu mashiwi ya lwimbo na kashimi upeele"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4",
+                    "title": "Ubwiminishi bwa Fintu Mulyashi",
+                    "page": 19,
+                    "competences": [
+                        "Abasambi balekabilwa ukwilula symbolism (ubwiminishi bwafintu ifikwete ubupilibulo) mulyashi lipelwe"
+                    ],
+                    "learning_outcomes": [
+                        "Ukulondolola symbolism (ubwiminishi bwa fintu) mu Litilica",
+                        "Ukufwaya symbols (bakeminina) mulyashi lipeelwe",
+                        "Ukulanshanya symbols (pali bakeminina) baasangwa mulyashi lipeelwe"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 1",
+                            "page": 21,
+                            "description": "Abasambi bafwile ukulondolola symbolism (ubwiminishi bwafintu) mu Litilica",
+                            "teacher_steps": [
+                                "Eba abasambi ukulondolola symbolism (ubwiminishi bwafintu) mu Litilica"
+                            ],
+                            "learner_steps": [
+                                "Balondolole ubupilibulo bwa symbolism (ubwiminishi bwafintu) mu Litilica"
+                            ],
+                            "explanation": "Symbolism (ubwiminishi bwa ifintu) mu Litilica, mashiwi yeminina ifintu, ificitwa, ifikuulwa, abantu, amashina, shina-nshimoneka nafimbipo. Ici cabeelako ukuwamya amashiwi pakulenga abalebelenga bomfwikishe ico kalemba alepilibula.",
+                            "expected_outcomes": [
+                                "Ubupilibulo bwa Symbolism (ubwiminishi bwafintu) mu Litilica bwalondololwa umupwilapo"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 2",
+                            "page": 21,
+                            "description": "Abasambi bafwaye symbols (bakeminina) mulyashi lipeelwe",
+                            "teacher_steps": [
+                                "Eba abasambi bafwaye ama symbols (pali bakeminina) bapelwe mu lyashi"
+                            ],
+                            "learner_steps": [
+                                "Bafwaye ama symbols (bakeminina) bapeelwe mulyashi"
+                            ],
+                            "example_text": "Bamo abantu balitwaala inkoko yabuta kwa Lesa. Abakashana Nampasa na Bwalya, bafyelwe kubafyashi babo abali ba Lasalo mumikalile yaabo...",
+                            "symbols_identified": [
+                                "Inkoko yabuuta",
+                                "Lasalo",
+                                "Kumusalaba",
+                                "Pumbwe",
+                                "Mpungu",
+                                "Maluba",
+                                "Malaika",
+                                "Inindaminwe",
+                                "Amasako",
+                                "Insoka",
+                                "Amalaya ya kashika"
+                            ],
+                            "expected_outcomes": [
+                                "Symbols (bakeminina wafintu) bapeelwe mulyashi bafwailishiwa umupwilapo"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 3",
+                            "page": 23,
+                            "description": "Abasambi balanshanye symbols (pali bakeminina) basangwa mulyashi lipeelwe",
+                            "teacher_steps": [
+                                "Eba abasambi balanshanye ama symbols (pali bakeminina) baasangwa mulyashi lipeelwe"
+                            ],
+                            "learner_steps": [
+                                "Lanshanyeni pa ma symbols (bakeminina wa fintu) bali mulyashi"
+                            ],
+                            "symbol_meanings": [
+                                {
+                                    "symbol": "Inkoko yabuuta",
+                                    "meaning": "cilepilibula ipaalo nangula ishuko"
+                                },
+                                {
+                                    "symbol": "Lasalo",
+                                    "meaning": "umupina"
+                                },
+                                {
+                                    "symbol": "Kumusalaba",
+                                    "meaning": "ukupepa Lesa"
+                                },
+                                {
+                                    "symbol": "Pumbwe",
+                                    "meaning": "abalumendo"
+                                },
+                                {
+                                    "symbol": "Mpungu",
+                                    "meaning": "uwakaso"
+                                },
+                                {
+                                    "symbol": "Maluba",
+                                    "meaning": "ukuyemba"
+                                },
+                                {
+                                    "symbol": "Malaika",
+                                    "meaning": "umololoke"
+                                },
+                                {
+                                    "symbol": "Inindaminwe",
+                                    "meaning": "ukukobekelwa/ukukobekela"
+                                },
+                                {
+                                    "symbol": "Insoka",
+                                    "meaning": "ububi na ubucenjeshi"
+                                },
+                                {
+                                    "symbol": "Amalaya ya kashika",
+                                    "meaning": "icitemwiko"
+                                },
+                                {
+                                    "symbol": "Amasako",
+                                    "meaning": "ifyabupe"
+                                }
+                            ],
+                            "expected_outcomes": [
+                                "Symbols (bakeminina wa fintu) bali mulyashi balanshyanishiwa ukufikapo"
+                            ]
+                        }
+                    ],
+                    "short_notes": "Muli ili isambililo abasambi balondolola ama symbols (amashiwi yeminina ifintu ifictitika mulyashi) bafwaya aba bakeminina mu ilyashi ilyo babelenga elyo na ukulondolola ubupilibulo bwa aba bakeminina bali mulyashi mukushika.",
+                    "vocabulary": [
+                        {
+                            "term": "Symbolism",
+                            "definition": "Ubwiminishi bwafintu - mashiwi yeminina ifintu mu lyashi"
+                        },
+                        {
+                            "term": "Symbol",
+                            "definition": "Iceminina - cintu nangula ishiwi cileminina icintu icimbi"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 24,
+                        "questions": [
+                            "Londolola ubupilibulo bwa symbolism (ubwiminishi bwafintu) mu Litilica",
+                            "Peela ilyashi nangu ulushimi umo mwalaba ama symbols (bakeminina)",
+                            "Fwaya ama symbols (bakeminina) mu lyashi upeele",
+                            "Lanshanyeni pa ma symbols (pali bakeminina) baasangwa mulyashi mupeele",
+                            "Peela ubupilibulo bwaba keminina baba pa flag (uluunga) lwa caalo ca Zambia"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.5",
+                    "title": "Imishimikile ya Kashimi",
+                    "page": 25,
+                    "competences": [
+                        "Abasambi baleenekelwa ukufwailisha imisango ya mishimikile ya kashimi"
+                    ],
+                    "learning_outcomes": [
+                        "Ukupeela ubulondoloshi bwa mishimikile ya ilyashi mu Litilica",
+                        "Ukulanshanya pa misango ya kushimikilamo ilyashi",
+                        "Ukulanga imishimikile ya ilyashi mu lushimi bapele"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 1",
+                            "page": 25,
+                            "description": "Abasambi bapeele ubulondoloshi bwa mishimikile ya ilyashi mu Litilica",
+                            "teacher_steps": [
+                                "Eba abasambi ukulondolola imisango ya mishimikile ya kashimi"
+                            ],
+                            "learner_steps": [
+                                "Bapeele ubulondoloshi bwa mishimikile ya ilyashi mu Litilica"
+                            ],
+                            "point_of_view_types": [
+                                {
+                                    "type": "Ine na ifwe",
+                                    "description": "Ine ni keminina wa ishina ililelanda pa uleshimika akashimi nga ali eka. Ifwe ni keminina wa ishina ililelanda pa baleshimika akashimi nga bengi"
+                                },
+                                {
+                                    "type": "Iwe na imwe",
+                                    "description": "Iwe ni keminina wa ishina ililelanda pa muntu uwasangilwe mukashimi kabili te uleshimika akashimi. Imwe ni keminina wa ishina ililelanda pa bantu abengi abasangilwe mukashimi kabili te baleshimika akashimi"
+                                }
+                            ],
+                            "expected_outcomes": [
+                                "Imishimikile ya ilyashi mu Litilica yalondololwa ukufikapo"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 2",
+                            "page": 26,
+                            "description": "Abasambi balanshanye pa misango ya kushimikilamo ilyashi",
+                            "teacher_steps": [
+                                "Eba abasambi balanshanye pa misango ya kushimikilamo ilyashi"
+                            ],
+                            "learner_steps": [
+                                "Balanshanye pa misango ya mishimikile ya ilyashi"
+                            ],
+                            "narrative_perspectives": [
+                                {
+                                    "type": "First person singular (Ine)",
+                                    "example": "Nine kafundisha mukalamba",
+                                    "note": "Ine nshangala na abanwa umolokoso (Nshangala na abanwa umolokoso)"
+                                },
+                                {
+                                    "type": "First person plural (Ifwe)",
+                                    "example": "Ifwe twikala ku Kapiri Mposhi (Twikala ku Kapiri Mposhi)",
+                                    "note": "Ifwe tukesa mailo (Tukesa mailo)"
+                                },
+                                {
+                                    "type": "Second person singular (Iwe)",
+                                    "example": "Iwe taumfwa (Taumfwa)",
+                                    "note": "Iwe waba na akaapa (Waba na akaapa)"
+                                },
+                                {
+                                    "type": "Second person plural (Imwe)",
+                                    "example": "Imwe tamulya imfuko (Tamulya imfuko)",
+                                    "note": "Imwe muli bengi mulupwa (Muli bengi mulupwa)"
+                                }
+                            ],
+                            "expected_outcomes": [
+                                "Imisango ya mishimikile ya ilyashi yalanshanishiwa ukufikapo"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 3",
+                            "page": 27,
+                            "description": "Abasambi balange imishimikile ya ilyashi mu lushimi bapeelwe",
+                            "teacher_steps": [
+                                "Eba abasambi balange imishimikile ya ilyashi mu lushimi lupelwe"
+                            ],
+                            "learner_steps": [
+                                "Balange imishimikile ya ilyashi mu lushimi bapeelwe"
+                            ],
+                            "example_text": "Naponenwa na ubusanso - Mu musumba wa mfumu Nkole kwa Mpula mu Kapiri Mposhi twaikele na umukashi wandi Bulanda...",
+                            "narrative_analysis": [
+                                {
+                                    "type": "First person singular",
+                                    "examples": [
+                                        "Twaikele",
+                                        "Nasangile imbushi ishingi pa musebo pa Mafwasa",
+                                        "Twaikele imyaka isaano",
+                                        "Twakwete abana babili"
+                                    ]
+                                }
+                            ],
+                            "expected_outcomes": [
+                                "Imisango ya mishimikile ya ilyashi yalanshanishiwa ukufikapo"
+                            ]
+                        }
+                    ],
+                    "short_notes": "Abasambi baishiba imisango ya mishimikile ya ilyashi. Umusango wakubalilapo ukushimika akashimi kubomfya amashiwi ya kwimininako amashina 'ine' na 'ifwe', umusango wa bubili kubomfya 'iwe' na 'imwe' elyo umusango wabutatu kubomfya 'keminina wa ishina lya bantu abengi nangu ifintu ifingi' (ba/twa/).",
+                    "vocabulary": [
+                        {
+                            "term": "Imishimikile",
+                            "definition": "Point of view - incende yakuimina ukushimika ilyashi"
+                        },
+                        {
+                            "term": "First person",
+                            "definition": "Ukushimika ukubomfya 'ine' nangu 'ifwe'"
+                        },
+                        {
+                            "term": "Second person",
+                            "definition": "Ukushimika ukubomfya 'iwe' nangu 'imwe'"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 30,
+                        "questions": [
+                            "Lemba imisango ya mishimikile yakashimi ibili",
+                            "Tantika utumashiwi tune utwingalanga imishimikile ya ilyashi mu musango wa bumo na uwa bubili"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.6",
+                    "title": "Inshila ya Kushimikilamo Ilyashi",
+                    "page": 31,
+                    "competences": [
+                        "Abasambi balekabilwa ukwishiba inshila bakashimika ba ilyashi babomfya ilyo lyonse baleshimika ilyashi pakuti ilyashi lyumfwike bwino"
+                    ],
+                    "learning_outcomes": [
+                        "Ukulumbula imisango ya kushimikilamo ilyashi",
+                        "Ukulondolola imisango ya inshila shakushimikilamo ilyashi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 1",
+                            "page": 32,
+                            "description": "Ukulumbula imisango ya kushimikilamo ilyashi",
+                            "teacher_steps": [
+                                "Eba abasambi balumbule inshila bakalemba babomfya pakushimika ilyashi"
+                            ],
+                            "learner_steps": [
+                                "Balumbule imisango ya kushimikilamo ilyashi"
+                            ],
+                            "example_story": "Nshakalabe - Shikulu Mwansa alisumina mu fintu fimo ifyo abantu abengi bashasuminamo kabili balifisula...",
+                            "narrative_approaches": [
+                                {
+                                    "type": "Linear",
+                                    "description": "Ukushimika ilyashi ukutula kuntendekelo ukufika kumpela ukukonka icibalilepo ukucitika mpaka ku cacitike pakulekelesha"
+                                },
+                                {
+                                    "type": "Descriptive",
+                                    "description": "Ukushimika ilyashi pakuti uuleumfwako akwate ukwelenganya kwafikapo pafyo aleumfwa"
+                                },
+                                {
+                                    "type": "Point of view",
+                                    "description": "Ukushimika ilyashi ukulolesha pauleshimika na imitontonkanishe yakwe"
+                                }
+                            ],
+                            "expected_outcomes": [
+                                "Imisango ya kushimikilamo ilyashi yalumbulwa umupwilapo"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 2",
+                            "page": 34,
+                            "description": "Ukulondolola imisango ya inshila shakushimikilamo ilyashi",
+                            "teacher_steps": [
+                                "Eba abasambi ukulondolola imisango ya nshila shakushimikilamo ilyashi ilipeelwe"
+                            ],
+                            "learner_steps": [
+                                "Balondolole imisango ya nshila shakushimikilamo ilyashi ilipelwe"
+                            ],
+                            "analysis_points": [
+                                {
+                                    "approach": "Linear",
+                                    "example": "Mulyashi lipeelwe Shikulu Mwansa atendeke ilyashi lyakwe ilyo aleshimikila abeshikulu. Mulyashi lyakwe mwali intedekelo emukuti apo ilyashi lyakupusuka lyatendekele - bamutuma mu kuteba inkuni icungulo mu ncende iyasapa."
+                                },
+                                {
+                                    "approach": "Descriptive",
+                                    "example": "Mulyashi lipeelwe muli ukulondolola ubwingalenga uuleumfwa kulyashi ukwelenganya ifyo ncende yali ukufuma ku mashiwi ayapala - umushishi ukwenda ku mutwe, ifyulu ifyakwete insefu ifingi, incende iyafina."
+                                },
+                                {
+                                    "approach": "Point of view",
+                                    "example": "Kashimika wa ilyashi lipelwe emo ali mulyashi line. Ico icilelanga ukuti ilyashi limikilwe first person singular (ine)."
+                                }
+                            ],
+                            "expected_outcomes": [
+                                "Imisango ya nshila yakushimikilamo ilyashi yalondololwa umupwilapo"
+                            ]
+                        }
+                    ],
+                    "short_notes": "Abasambi basambilila ukulumbula inshila shakushimikilamo ilyashi elyo na ukulondolola umo shalolola na ifyo bashibomfya. Ilyo ilyashi lileshimikwa, lishimikilwa mu misango itatu; iyi misango kuti yaba ni Linear (Ukushimika ilyashi ukutula kuntendekelo ukufika kumpela ukukonka icibalilepo ukucitika mpaka ku cacitike pakulekelesha), Descriptive (Ukushimika ilyashi pakuti uuleumfwako akwate ukwelenganya kwafikapo pafyo aleumfwa), elyo na Point of view (Ukushimika ilyashi ukulolesha pauleshimika na imitontonkanishe yakwe)",
+                    "vocabulary": [
+                        {
+                            "term": "Linear",
+                            "definition": "Ukushimika ilyashi ukutula kuntendekelo ukufika kumpela ukukonka icibalilepo ukucitika"
+                        },
+                        {
+                            "term": "Descriptive",
+                            "definition": "Ukushimika ilyashi pakuti uuleumfwako akwate ukwelenganya kwafikapo pafyo aleumfwa"
+                        },
+                        {
+                            "term": "Point of view",
+                            "definition": "Ukushimika ilyashi ukulolesha pauleshimika na imitontonkanishe yakwe"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 35,
+                        "questions": [
+                            "Londolola inshila shakushimikilamo ilyashi ishipelwe pa isamba: a) Linear b) Descriptive c) Point of view",
+                            "Belenga amalyashi mufitabo fitatu elyo utantike inshila bakalemba babomfeshe pakushimika amalyashi"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.7",
+                    "title": "Ifibombelo babomfya pa kupanga inshimi",
+                    "page": 36,
+                    "competences": [
+                        "Abasambi baleenekelwa ukwishiba ifyo bapanga ulushimi atemwa umulumbe ukubomfya ifibombelo ifyapusana-pusana ifyo babomfya pa kupanga inshimi na imilumbe"
+                    ],
+                    "learning_outcomes": [
+                        "Ukupanga ulushimi atemwa umulumbe ukubomfya ifibombelo fyapusana-pusana",
+                        "Ukubomfya ifibombelo babomfya pa kupanga inshimi atemwa imilumbe mu kashimi bapangile",
+                        "Ukushimika ulushimi atemwa umulumbe bapangile",
+                        "Ukulondolola ifibombelo babomfeshe mu lushimi atemwa mu mulumbe bapangile",
+                        "Ukupanga akasela ukufuma mu lushimi atemwa mu mulumbe bapangile"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 1",
+                            "page": 37,
+                            "description": "Abasambi bafwile bapanga ulushimi atemwa umulumbe ukubomfya ifibombelo ifyapusana-pusana",
+                            "teacher_steps": [
+                                "Eba abasambi bapange ulushimi nangu umulumbe umo babomfeshe ifibombelo ifyapusana-pusana"
+                            ],
+                            "learner_steps": [
+                                "Bapange ulushimi atewma umulumbe ukubomfya ifibombelo babomfya pakupanga inshimi atemwa imilumbe"
+                            ],
+                            "story_elements": [
+                                {
+                                    "element": "Plot (Ubwanshiko bwa ilyashi lya kulanda)",
+                                    "description": "Emukuti ifyo ulushimi lutantikwe ukutula kuntendekelo ukushinta na kumpela. Bushe cintu nshi cibalilepo ukucitika elyo na icakonkapo mpaka ukufika kumpela"
+                                },
+                                {
+                                    "element": "Setting (Incende na inshita)",
+                                    "description": "uko ifili mu nshimi atemwa mu milumbe filecitikila"
+                                },
+                                {
+                                    "element": "Characters (Abantu na ifintu)",
+                                    "description": "ifisangwa mu nshimi atemwa mu milumbe"
+                                },
+                                {
+                                    "element": "Point of view (Imishimikile ya ulushimi atemwa umulumbe)",
+                                    "description": "Bushe kalemba alefwaya ukuti ilyo ulebelenga ube nga umo uuli mulyashi, atemwa alefwaya ilyo ulebelenga cibe nga weuleshimikilwafye"
+                                },
+                                {
+                                    "element": "Themes (Ifikomo)",
+                                    "description": "Ifintu fikankala ifyo kalemba alefwaya abalebelenga basambililemo"
+                                }
+                            ],
+                            "example_story": "Kancule na Kasonde - Patile akantu, kaikele ngeefyo, mu mushi umo uwaleitwa Kwaletwa mwalikele abantu abengi...",
+                            "expected_outcomes": [
+                                "Ulushimi atemwa umulumbe wapangwa ukubomfya ifibombelo babomfya pa kupanga inshimi atemwa imilumbe bwino-bwino"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 2",
+                            "page": 40,
+                            "description": "Abasambi babomfye ifibombelo babomfya pa kupanga inshimi atemwa imilumbe mu kashimi bapangile",
+                            "teacher_steps": [
+                                "Eba abasambi babomfye ifibombelo babomfya pakupanga inshimi atemwa imilumbe mu kashimi bapangile"
+                            ],
+                            "learner_steps": [
+                                "Babomfye ifibombelo babomfya pakupanga inshimi atemwa imilumbe mu kashimi bapangile"
+                            ],
+                            "story_elements_identified": [
+                                "Setting (Incende): Mu mushi mwakwaletwa, ku mitanda, amawanga ya mumana wa Kambwititi",
+                                "Characters (Abantu balimo): Kancule, imfumu Mwendanakawele, Kasuba, Kasonde, Chileshe, Kangwa na Mukuka",
+                                "Plot (Ubwanshiko bwa lushimi): Introduction, Rising action, Climax, Falling action, Resolution",
+                                "Point of view: third person",
+                                "Themes: Ukuitemwa, ukukana kwata luse, uluse, icitemwiko, ukubombesha, icilandushi, icikonko"
+                            ],
+                            "expected_outcomes": [
+                                "Ifibombelo fibomfiwa pakupanga inshimi atemwa imilumbe fyabomfiwa bwino-bwino"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 3",
+                            "page": 40,
+                            "description": "Abasambi bashimike ulushimi atemwa umulumbe bapangile",
+                            "teacher_steps": [
+                                "Eba abasambi bashimike ulushimi atemwa umulumbe bapangile"
+                            ],
+                            "learner_steps": [
+                                "bashimike ulushimi atewma umulumbe mupangile"
+                            ],
+                            "expected_outcomes": [
+                                "Ulushimi atemwa umulumbe abasambi bapangile lwashimikwa bwino-bwino"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 4",
+                            "page": 41,
+                            "description": "Abasambi balondolole ifibombelo babomfeshe mu lushimi atemwa mu mulumbe bapangile",
+                            "teacher_steps": [
+                                "Eba abasambi balondolole ifibombelo babomfeshe mu lushimi atemwa mu mulumbe bapangile"
+                            ],
+                            "learner_steps": [
+                                "Balondolole ifibombelo babomfeshe mu lushimi bapangile"
+                            ],
+                            "detailed_analysis": [
+                                {
+                                    "element": "Setting",
+                                    "details": "Mu mushi mwakwaletwa, ku mitanda, amawanga ya mumana wa Kambwititi"
+                                },
+                                {
+                                    "element": "Characters",
+                                    "details": "Kancule, imfumu Mwendanakawele, Kasuba, Kasonde, Chileshe, Kangwa na Mukuka"
+                                },
+                                {
+                                    "element": "Plot",
+                                    "details": {
+                                        "introduction": "abantu balikele mumushi, Umulumendo aleipaya inama, Imfumu yalitemenwe umulumendo",
+                                        "rising_action": "Umulumendo afwaya Kasuba, imfumu yafulwa",
+                                        "climax": "Yamutonkola ameenso, Kancule aya mukwikala ku mitanda, akumanya Kasaonde",
+                                        "falling_action": "Kasonde aposha Kancule, Kasonde baupana na Kancule, Kancule na Kasonde bafyala abana",
+                                        "resolution": "Ba mwana Kancule balwisha imfumu, imfumu yafwa ku cikonko"
+                                    }
+                                },
+                                {
+                                    "element": "Point of view",
+                                    "details": "third person"
+                                },
+                                {
+                                    "element": "Themes",
+                                    "details": "Ukuitemwa, ukukana kwata luse, uluse, icitemwiko, ukubombesha, icilandushi, icikonko"
+                                }
+                            ],
+                            "expected_outcomes": [
+                                "Ifibombelo fibomfeshiwe mu lushimi abasambi bapangile fya londololwa ukufikapo"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Ifyakucita 5",
+                            "page": 42,
+                            "description": "Abasambi bapange akasela ukufuma mu lushimi atemwa mu mulumbe bapangile",
+                            "teacher_steps": [
+                                "Eba abasambi bapange akasela ukufuma mu lushimi bapangile"
+                            ],
+                            "learner_steps": [
+                                "Bapange akasela ukufuma mu lushimi bapangile"
+                            ],
+                            "expected_outcomes": [
+                                "Akasela kapangwa ukufuma ku lushimi ba pangile bwino-bwino"
+                            ]
+                        }
+                    ],
+                    "short_notes": "Muli ili sambililo abasambi basambilila ukupanga inshimi atemwa imilumbe, kabili basambilila imibomfeshe ya fibombelo babomfya mukupanga inshimi atemwa imilumbe. Basambilila na ukulondolola ifibombelo babomfeshe mu lushimi bapangile elyo basambilila na ukupanga akasela ukufuma ku lushimi bapangile.",
+                    "vocabulary": [
+                        {
+                            "term": "Plot",
+                            "definition": "Ubwanshiko bwa ilyashi - ifyo ilyashi litantikwe ukushika kumpela"
+                        },
+                        {
+                            "term": "Setting",
+                            "definition": "Incende na inshita - uko na inshita ifili mu lyashi filecitikila"
+                        },
+                        {
+                            "term": "Characters",
+                            "definition": "Abantu na ifintu ifisangwa mu lyashi"
+                        },
+                        {
+                            "term": "Theme",
+                            "definition": "Ifikomo - ifintu fikankala ifyo kalemba alefwaya abalebelenga basambililemo"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 43,
+                        "questions": [
+                            "Bomfya ifisolobelo bakupeele peesamba ulembe ulushimi nangu umulumbe ubutali bwa ulu lushimi bube amashiwi imyanda iibili",
+                            "Mu mabumba pangeni akasela ukufuma ku lushimi mwaishiba"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "teaching_resources": [
+        "Ututabo twa ilyashi",
+        "Ubunkolanya umuli ilyashi",
+        "Expert (incenshi nangula abaishiba)",
+        "Ifitabo",
+        "Ubunkolanya bwapa fitunshitunshi",
+        "Amapepala ya ilyashi",
+        "Uluunga lwa caalo ca Zambia",
+        "Ifitabo fyalembwa mucibemba",
+        "Amalangi yalekana-lekana",
+        "Icipingo",
+        "Umusalaba",
+        "Ifyangalo fya pa cilimba",
+        "Ba magazine",
+        "Icilimba",
+        "Abakalamba",
+        "Intaneti",
+        "Amacaati",
+        "Mapepala ya ilyaashi"
+    ],
+    "key_vocabulary": [
+        {
+            "term": "Amabumba",
+            "definition": "Fintu ifyalingana ifibikilwe pamo"
+        },
+        {
+            "term": "Bukaimbi",
+            "definition": "Ukuba uwakosa mukucita ifintu"
+        },
+        {
+            "term": "Bukaitemwe",
+            "definition": "Ukufwaya fyonse fyawamina iwe"
+        },
+        {
+            "term": "Iciunda",
+            "definition": "Icongo ico icifuma mukulanda, mukulisha ing'oma nangu icintu icapala akapyelele"
+        },
+        {
+            "term": "Ifisekese",
+            "definition": "Imiwaya babomfya ilyo baleimba inyimbo"
+        },
+        {
+            "term": "Ifisolobelo",
+            "definition": "Ifintu ifyo babomfya pakubomba umulimo umo"
+        },
+        {
+            "term": "Ifikomo",
+            "definition": "Ifintu fimofimo ifibomba nga inceshi mu milandu atemwa mulyaashi"
+        },
+        {
+            "term": "Imfunda-buteshi",
+            "definition": "Umuntu uufunda pa fintu ifyo ashicita"
+        },
+        {
+            "term": "Imbeela",
+            "definition": "Umusango wakucitilamo ifintu atemwa ifyo icintu caba"
+        },
+        {
+            "term": "Imilangwe",
+            "definition": "Imipulwe"
+        },
+        {
+            "term": "Ininda-minwe",
+            "definition": "Imbalaminwe"
+        },
+        {
+            "term": "Inkuntu",
+            "definition": "Ukwimuna itontonkanyo lyakwibukisha fimo"
+        },
+        {
+            "term": "Intambi",
+            "definition": "Ifishilano fya mutundu ifilanga ifyo umutundu wasuminamo"
+        },
+        {
+            "term": "Inshintu",
+            "definition": "Ukulanda mukushintuka"
+        },
+        {
+            "term": "Ipinda",
+            "definition": "Insoselo iyakwata ubupilibulo ubwashika"
+        },
+        {
+            "term": "Kaswili/incenshi",
+            "definition": "Umuntu uwaishibisha atemwa uwakwata ububwishibilo bwa cintu ubwapitapo"
+        },
+        {
+            "term": "Munkolo",
+            "definition": "Mumbali yang'anda/mulukungu"
+        },
+        {
+            "term": "Ubufumfuntungu",
+            "definition": "Ukukana cita ifintu mucishinka"
+        },
+        {
+            "term": "Ubukumu",
+            "definition": "Ifisuma ifilefuma mukucita fimo"
+        },
+        {
+            "term": "Ukubebeta",
+            "definition": "Ukufwailisha ifintu fimo makamaka pakufwaya ubupilibulo bwacintu"
+        },
+        {
+            "term": "Ukukampula",
+            "definition": "Ukusalapula"
+        },
+        {
+            "term": "Ukukansana",
+            "definition": "Ukutalikishanya pakati kafintu fibili"
+        },
+        {
+            "term": "Ukulengulula",
+            "definition": "Ukufwailisha icinshinka"
+        },
+        {
+            "term": "Ukupinkana",
+            "definition": "Ukulwishanya kwa itontonkanyo atemwa abantu pakuti pamoneke umukalamba atemwa itontonkanyo lyacimfya"
+        },
+        {
+            "term": "Ukusobolola",
+            "definition": "Ukubika ifintu umo filingile ukuba"
+        },
+        {
+            "term": "Ukutumbula",
+            "definition": "Ukusosa icili ku mutima"
+        },
+        {
+            "term": "Ukututula",
+            "definition": "Ukulepula icitenge icisapwike elyo ukucibilinkanya nakabili"
+        },
+        {
+            "term": "Ukuwikishanya",
+            "definition": "Ukubeleshanya uluse atemwa ukubweshanya"
+        },
+        {
+            "term": "Umolokoso",
+            "definition": "Ubwalwa"
+        },
+        {
+            "term": "Umundowendowe",
+            "definition": "Ukumfwa bwino ilyo ulecita ifintu fimo"
+        },
+        {
+            "term": "Umushikakulo",
+            "definition": "Kulumbanya icintu atemwa umuntu mukwanga mwishiwi ilyapamulu"
+        },
+        {
+            "term": "Umupukumo",
+            "definition": "Inyimbo shansansa isho abantu beemba ngabali pa maliila atemwa ilyo balenwa ubwalwa"
+        },
+        {
+            "term": "Litilica iyakulandafye",
+            "definition": "Iyo mucigeleshiu iitwa nga Oral lliterature"
+        },
+        {
+            "term": "Litilica iyalembwa",
+            "definition": "Iyo mucingeleshi iitwa nga Written literature"
+        }
+    ],
+    "competences_framework": [
+        {
+            "competence": "Ukwishiba ukusobolola nokwilula ifintu (Analytical Thinking)",
+            "indicators": [
+                "Ukusobolola na ukwilula ilyashi",
+                "Ukumfwa na ukwilula ifikope",
+                "Ukukonkelesha mufiunda",
+                "Ukwishiba ukuti ifilembo fiimininako ifiunda"
+            ]
+        },
+        {
+            "competence": "Ukuba umwikala caalo (Citizenship)",
+            "indicators": [
+                "Ukwishiba na ukukonka amafunde"
+            ]
+        },
+        {
+            "competence": "Ukulanshanya (Communication)",
+            "indicators": [
+                "Ukubomfya amashiwi ayayana mu nshila ishalekana-lekana",
+                "Ukwishiba ukumfwa, ukulanda, Ukubelenga na ukulemba",
+                "Ukwilula amashiwi ukubomfya ifishibilo",
+                "Ukwishiba ukulanda mu nshila iyampomfu",
+                "Ukupeela inshita kuli bambi ilyo mulelanshanya",
+                "Ukukwata ubwishibilo pa filembelwe",
+                "Ukumfwa kulyashi ilipeelwe"
+            ]
+        },
+        {
+            "competence": "Ukutontonkanya mukushika (Critical Thinking)",
+            "indicators": [
+                "Ukukwata ubwishibilo pa fipe ifyalekana-lekana",
+                "Ukwishiba na ukulumbula amashina ya fintu ifili mu ncende shabo",
+                "Ukwishiba ubwampano bwaba pa filembo na ifiunda"
+            ]
+        },
+        {
+            "competence": "Ukwishiba ukubomfya kompyuta (Digital Literacy)",
+            "indicators": [
+                "Ukwishiba ukwapanya amaenso na iminwe ukubomfya ifipe fyansala"
+            ]
+        },
+        {
+            "competence": "Ukuibaka mu maano (Emotional Intelligence)",
+            "indicators": [
+                "Ukwishiba ukuibaka nokusunga umutende"
+            ]
+        },
+        {
+            "competence": "Ukubombela capamo (Collaboration)",
+            "indicators": [
+                "Ukubombela capamo nabambi mukufikilisha imilimo"
+            ]
+        }
+    ],
+    "sample_lesson_plan": {
+        "school": "Kapiri Mposhi Secondary School",
+        "teacher": "Enart Sichiyasa Gondwe",
+        "date": "10/02/2025",
+        "time": "08:00 - 09:20",
+        "class": "Form 1 B",
+        "duration": "80 Mins",
+        "subject": "Litilica mu Cibemba",
+        "total_learners": 54,
+        "boys": 28,
+        "girls": 26,
+        "topic": "1.5 Litilica Iyalembwa",
+        "subtopic": "1.5.3 Ukupalana na ukupusana kwa misango ya Litilica Iyalembwa",
+        "specific_competences": "1.5.3.1 compare and contrast forms of written literature",
+        "rationale": "This lesson is on comparing and contrasting forms of written literature. Learners will be able to recognize similarities and differences among the three forms of written literature and develop the skill of decision making.",
+        "references": [
+            "2024 Literature in Icibemba Secondary Education Ordinary Level Syllabus-Form 1-4 (page 6)",
+            "2025 Literature in Icibemba Form 1- Teaching Module"
+        ],
+        "teaching_materials": [
+            "Literature books for poetry, prose and drama",
+            "chart",
+            "work cards"
+        ],
+        "prerequisite_knowledge": "Learners already have knowledge on the forms of written literature"
+    },
+    "bibliography": [
+        "Akombo. S, Karanja. B, Njoroge. L and Mukunga. M (2010) K.C.S.E: Golden Tips English. Nairobi: Moran Publishers.",
+        "Asheli, N (2011) Advanced Level Literature: An Essential Guide. Dar es Salaam.",
+        "Bukagile. G.R, Nyangwine. N, Yogo. M, Msabila. D.T and Mhilu. G.G (2008) Advanced Level Literature: Theory of Literature, Novels, Plays, Poetry, Stylistics and Communication Skills. Dar es Salaam: Nyambari Nyangwine Publishers",
+        "Chanda VM (2002). Introduction to the Study of Bantu Languages. LAL 211 Batch 1. UNZA. Lusaka.",
+        "Colston, H. L. (2015). Using figurative language. Cambridge University Press.",
+        "Glucksberg, S. (2001). Understanding figurative language: From metaphor to idioms. Oxford University Press.",
+        "Keraf, G. (2009). Diski dan Gaya Bahasa Jakarta: PT. Gramedia Pustaka Utana",
+        "Mbwayu, J (2003). Introduction to the Study of Poetry and Drama E122 Batch 1. UNZA. Lusaka",
+        "Musonda B.L (2002). Introduction to Literary Studies LAL 221 Batch 1. UNZA. Lusaka",
+        "Rasinski, T., Smith, M. C., & Zutell, J. (2017). Go figure! Exploring figurative language, levels 2–4. Shell Educational Publishing.",
+        "Savan & Grehan (1986). Readings in Poetry. Kenneth Kaunda Foundation. Lusaka.",
+        "Vulchanova, M., Milburn, E., Vulchanov, V., & Baggio, G. (2019). Boon or burden? The role of compositional meaning in figurative language processing and acquisition. Journal of Logic, Language and Information, 28, 359–387."
+    ]
+}

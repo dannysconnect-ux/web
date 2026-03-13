@@ -1,0 +1,2155 @@
+{
+    "subject": "Silozi",
+    "grade": "Grade 1",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "Makande",
+            "sub_topics": []
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "Makande",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Kuteeleza makande",
+                    "page": 10,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Batu kapa mutu yainzi mwa likande ki mañi libizo?",
+                                "Babainzi mwa likande bautwahala kuli bainzi kai?",
+                                "Babainzi mwa likande baeza sikamañi?",
+                                "Pulelo yapili, yabubeli, yabulaalu ni yabune",
+                                "Pulelo yapili ibulele za makalelo, ya bubeli ni yabulaalu iamane ni"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Batu kapa mutu yainzi mwa likande ki mañi libizo?",
+                                "Babainzi mwa likande bautwahala kuli bainzi kai?",
+                                "Babainzi mwa likande baeza sikamañi?",
+                                "Pulelo yapili, yabubeli, yabulaalu ni yabune",
+                                "Pulelo yapili ibulele za makalelo, ya bubeli ni yabulaalu iamane ni"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kuteeleza makande akandekilwe/ abalilwe ni kualaba lipuzo zeama"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Batu kapa mutu yainzi mwa likande ki mañi libizo?",
+                                "Babainzi mwa likande bautwahala kuli bainzi kai?",
+                                "Babainzi mwa likande baeza sikamañi?",
+                                "Pulelo yapili, yabubeli, yabulaalu ni yabune",
+                                "Pulelo yapili ibulele za makalelo, ya bubeli ni yabulaalu iamane ni"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kuteeleza likande lelikandekiwa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ukopana ni Lubosi",
+                                "Baitumelisa",
+                                "Mani ni mani ubuza yomuñwi kuli uya kai.",
+                                "Lubosi ukupa mulikanaahae kuli amusindekete kwa lisima",
+                                "Baya hamoho kwa lisima"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "kubapala papali yezwa mwa kalulo ya likande"
+                        }
+                    ],
+                    "short_notes": "Tutonyana ka bukuswani Tutonyana ye neiluta bana ba sikolo kukandeka tukande ni kunga kabelo mwa kabapala lipapali zezwelela fa tukande.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 12,
+                        "questions": [
+                            "Batomahanye ltaba zeinzi mwa kakande",
+                            "Bange kabelo mwa tupapali totuzwelela fa tukande"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "Zeñozwi",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Muswalelo wa buka",
+                    "page": 13,
+                    "competences": [
+                        "Bakone kuswala libuka."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 14,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abonise bana ba sikolo likalulo za buka",
+                                "Abonise bana ba sikolo moitomelwa buka yekwahezwi fa tafule",
+                                "Abonise moikwalulelwa buka ni moikwalela"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 14,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abonise bana ba sikolo likalulo za buka",
+                                "Abonise bana ba sikolo moitomelwa buka yekwahezwi fa tafule",
+                                "Abonise moikwalulelwa buka ni moikwalela"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "kukwalula ni kukwahela buka."
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 13,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "",
+                    "page": 14,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "bana ba sikolo bakawana bafutula libuka kono hakuna butata.",
+                                "bana ba sikolo habaitusisi mati habaapula makepe a libuka.",
+                                "bana ba sikolo habafwañati makepe."
+                            ],
+                            "short_notes": "kuapula makepe a buka"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 14,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.3",
+                    "title": "",
+                    "page": 15,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kaba yafahalimu",
+                                "Kaba yakwatasi",
+                                "Mwahalaa buka",
+                                "Muongola wa buka",
+                                "Kukwalula buka",
+                                "Kuswalwa buka yeapuzwi mwa lizoho la silyo.",
+                                "Kuputulula lizoho la nzohoto.",
+                                "Kuputa minwana yemibeli (munwana omutuna ni kañini) kwa",
+                                "Kubeya buka fahalimu a minwana yemilaalu ya lizoho la nzohoto",
+                                "Kuputulula minwana ye mibeli yeneputilwe ni kuilimba fa buka.",
+                                "Minwana ye milaalu yafahali fande, yemibeli ya kwa makalelo",
+                                "Afe bana ba sikolo kolo ya kuswalela buka ye kwaluzwi fa mongola."
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "muswalelo wa buka ye kwaluzwi; kuswalela fa muongola."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alaele bana ba sikolo kunanula buka fa pata ka swanelo."
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "kuswala buka ka kuitalimisa mwa halimu."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1",
+                            "page": 18,
+                            "hook": null,
+                            "teacher_steps": [
+                                "muongola wa buka.",
+                                "Kaba; ya fahalimu.",
+                                "Kaba; ya kwatasi.",
+                                "Mwahalaa buka."
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Musebezi-nyana 4: kutosa likalulo za buka."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezi-nyana 5: kubapala lipapali zebonisa muzamaisezo wa meeto kuzwa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [
+                                "kutalimisisa siswaniso nako yetelele.",
+                                "Kuipuza kuli babainzi mwa siswaniso baezañi.",
+                                "Kuipuza kuli ki kakai mi kilili fone kubezi.",
+                                "Kuipuza kuli mwa lifateho kubonahala tabo, kunyema kapa"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "kubulela zeinzi mwa maswaniso"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kukolohanya maswaniso."
+                        }
+                    ],
+                    "short_notes": "Tuto ka bukuswani: tuto ye yamile fa kuluta bana ba sikolo kukona toloka maswaniso.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 17,
+                        "questions": [
+                            "Habanze baituta ni kasamulaho wa kuituta, bana ba sikolo bakone;",
+                            "babeye libuka fa tafule kapa fa desiki ka swanelo.",
+                            "bakwalule libuka hande ka kunanula kaba ya buka katokomelo",
+                            "baapule makepe ku zwa kwa kona ya silyo ka kuitusisa munwana",
+                            "omutuna kusina ni kukwalula ka wa ku supisa.",
+                            "Kubeya buka inge italimezi mwahalimu makepe inge abonahala.",
+                            "Kuswala makepe ka tokomelo kubukeleza zeñozwi ni maswaniso.",
+                            "Kukwala libuka hande ka tokomelo.",
+                            "g) Kukwahela libuka hande kusina kufumpeka."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.4",
+                    "title": "",
+                    "page": 22,
+                    "competences": [
+                        "Bakone kuina ka swanelo",
+                        "Liitusiso kwa kuluta ni kuituta:",
+                        "madesiki, litafule, lipula,"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Muinelo wa kunanguka (sit like Leo)",
+                                "Muinelo wa kumbotomana/ kububama (sit like Jumbo)",
+                                "Bumaswe bwa kuina ka kumbotomana/ kububama mutu hanola."
+                            ],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Muinelo wa kunanguka (sit like Leo)",
+                                "Muinelo wa kumbotomana/ kububama (sit like Jumbo)",
+                                "Bumaswe bwa kuina ka kumbotomana/ kububama mutu hanola."
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "kukona kulikanyisa muinelo wolukile"
+                        }
+                    ],
+                    "short_notes": "Tuto ka bukuswani",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 23,
+                        "questions": [
+                            "Habanze baituta ni kasamulaho wa kuituta, bana ba sikolo balukela",
+                            "Kulatelela muinelo wolukile (kuina ka kunanguka)",
+                            "ü mazoho (miambo ni mazoho) fa yafule"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.5",
+                    "title": "",
+                    "page": 24,
+                    "competences": [
+                        "baswale liitusiso zakuñolisa/ linoliso (muswalelo wa potoloto)",
+                        "Liitusiso kwa kuluta ni kuituta:",
+                        "Tukwahezo twa botela, lipotoloto, tukota, mipente/crayon, tupampili,",
+                        "Baswanise lika zeshutana-shutana."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 25,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1",
+                            "page": 25,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezi-nyana: kuswala siñoliso."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "Tuto ka bukuswani: tuto ye yamile fa kuswanisa lika ze shutana-shutana. MUKANGA 2: KUKANDEKA MAKANDE Mukanga wo uamana ni bana ba sikolo kukona kukandeka makande ka buikupuleli bobunde. Mwateñi kuinzi likalulo zeama kuteeleza ni kubulela, kubala, manzwi, kuteeleza ka kutwisiso ni kuñola.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 25,
+                        "questions": [
+                            "ü Habanze baituta ni hasamulaho wa kuituta, bana ba sikolo",
+                            "swanela Kubeya siñoliso mwahalaa munwana omutuna ni",
+                            "ü Kuyendeka kalulo yeñola ya sinoliso fa munwana wa lisale (wa",
+                            "ü Kutoma lizoho fa likepe kapa pampili",
+                            "ü Kutoma kalulo yeñola ya siñoliso fa likepe kapa pampili."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "Makande",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Kukandeka tukande ka buikupuleli bobunde",
+                    "page": 28,
+                    "competences": [
+                        "bakandeke tukande ka buikupuleli bobunde."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kulundulula likande; kukandeka likande lelikandekilwe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kubulela zeezahalile"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.2",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kukolohanya zeezahalile"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.2.3",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kubupa likande ka kukolohanya"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.2.3.4",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kulundulula; kukandeka likande lelikandekilwe"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kukandeka makande abona"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 32,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ukopana ni Lubosi",
+                                "Baitumelisa",
+                                "Mani ni mani ubuza yomuñwi kuli uya kai.",
+                                "Lubosi ukupa mulikanaahae kuli amusindekete kwa lisima",
+                                "Baya hamoho kwa lisima"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "kubapala papali yezwa mwa kalulo ya likande"
+                        }
+                    ],
+                    "short_notes": "Tutonyana ka bukuswani Tutonyana ye neiluta bana ba sikolo kukandeka tukande ni kunga kabelo mwa kabapala lipapali zezwelela fa tukande.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 32,
+                        "questions": [
+                            "Batomahanye ltaba zeinzi mwa kakande",
+                            "Bange kabelo mwa tupapali totuzwelela fa tukande"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.2",
+                    "title": "Zibo ya milumo ni manzwi-nyana abupa manzwi",
+                    "page": 32,
+                    "competences": [
+                        "batose ni kutomahanya manzwi-nyana mwa manzwi abulezwi."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 33,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 33,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kutosa manzwinyana mwa manzwi abulezwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 34,
+                            "hook": null,
+                            "teacher_steps": [
+                                "muluti amamele kuli lipapali zekona kuitusiswa ki zeñata.",
+                                "Manzwi abe ni manzwinyana amane feela"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kubapala lipapali za kutosa nombolo ya manzwinyana."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 35,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kubupa ni kubulela manzwi ka kuitusisa manzwi-nyana."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 36,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kubapala lipapali za kubupa manzwi."
+                        }
+                    ],
+                    "short_notes": "Tuto ka bukuswani: tuto ye yamile fa kubapala lipapali zebupa manzwi.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 32,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.3",
+                    "title": "Zibo ya milumo (Phonemic awareness)",
+                    "page": 36,
+                    "competences": [
+                        "batose ni kutomahanya milumo yefumaneha mwa manzwi.",
+                        "batumuse Milumo yeyemelwa ki litaku",
+                        "Bakopanye milumo ya likosonanti (consonants) ni libawelu (vowels) kubupa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 37,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 37,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kutosa milumo yefumaneha kwa makalelo a manzwi abulezwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 37,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kutosa milumo yefumaneha kwa mafelelezo a manzwi abulezwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 38,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kubapala lipapali za kuziba milumo."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 39,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "baitusise manzwi ana ni milumo yeswana",
+                                "babubulele lipulelo zena ni manzwi a milumo yeswana"
+                            ],
+                            "short_notes": "Kuitusisa manzwi ana ni milumo yeswana"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6",
+                            "page": 40,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 40,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kubulela milumo yeyemelwa ki litaku"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 40,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kutumusa milumo ni litaku zeiyemela"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 41,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kutosa milumo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "10",
+                            "page": 41,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 42,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kutaluhanya litaku"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "12",
+                            "page": 43,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 43,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kubupa manzwinyana fa likonsonanti ni libawelu."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 44,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kubala caati ya manzwinyana"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 44,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kutomahanya manzwinyana"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 45,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kutakula ni kuyolisa litaku mwa manzwinyana"
+                        }
+                    ],
+                    "short_notes": "Tuto ka bukuswani: - Tuto ye iamile fa kuluta bana ba sikolo kubupa manzwinyana fa likonsonanti ni libawelu.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 42,
+                        "questions": [
+                            "Habanze baituta ni kwa kasamulaho wa kuituta, bana ba sikolo",
+                            "Batomahanye litaku zeyemela milumo"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.4",
+                    "title": "Manzwi",
+                    "page": 45,
+                    "competences": [
+                        "bakopanye manzwinyana kubupa manzwi ka kulatelela cvcv/vcv",
+                        "babale manzwinyana ka kutiisa.",
+                        "babale manzwi ka kutiisa ni ka kuluka (siyemo sa manzwi ibe kuya ka",
+                        "masupanzila a mukoloko wa manzwi afilwe, vcv, cvcv)",
+                        "babale manzwi ka kuluka",
+                        "Tatubo ya bana ba sikolo",
+                        "Habanze baituta ni kasamulaho wa kuituta, bana ba sikolo bakone",
+                        "batose manzwinyana ainzo mwa linzwi ni linzwi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 45,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 45,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kukopanya manzwinyana kubupa manzwi."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 46,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kuyolisa ni kutakula manzwinyana"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 47,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kutosa manzwinyana mwa manzwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 47,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kubulela palo ya manzwinyana"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6",
+                            "page": 48,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 48,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kubala manzwinyana"
+                        }
+                    ],
+                    "short_notes": "Tuto ka bukuswani: Tuto ye iamile fa kuluta bana ba sikolo kubala manzwinyana Sika luli sesilukela kukoniwa 2: bana ba sikolo - babale manzwi ka kutiisa ni ka kuluka (siyemo sa manzwi ibe kuya ka masupanzila a mukoloko wa manzwi afilwe, vcv, cvcv)",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 49,
+                        "questions": [
+                            "Habanze baituta ni kasamulaho wa kuituta, bana ba sikolo bakone",
+                            "tose manzwinyana ainzo mwa linzwi ni linzwi"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "Manzwi",
+            "sub_topics": []
+        },
+        {
+            "topic_id": "6.0",
+            "topic_title": "Lingambolo.",
+            "sub_topics": [
+                {
+                    "subtopic_id": "6.1",
+                    "title": "Litaba ni kulitoloka.",
+                    "page": 55,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 55,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kufeleieza lipulelo zesikafela kwa mafelelezo ka kubulela."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.2",
+                            "page": 57,
+                            "hook": null,
+                            "teacher_steps": [
+                                "abonise mutala wa pulelo yesika fela fa fahali ka:"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kufeleleza lipulelo zesikafela kwa makalelo."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 58,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abonise bana ba sikolo siswaniso.",
+                                "abalaele kutosa zeezahala mwa siswaniso.",
+                                "afe mutala wa kubupa lipulelo ka kuitusisa siswaniso."
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kubupa lipulelo za kuambola kakuitusisa maswaniso."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1",
+                            "page": 58,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abonise bana ba sikolo siswaniso.",
+                                "abalaele kutosa zeezahala mwa siswaniso.",
+                                "afe mutala wa kubupa lipulelo ka kuitusisa siswaniso."
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Musebezi-nyana (a) kubupa lipulelo zekuswani ka kuitusisa maswanso."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.2",
+                            "page": 58,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kubulela lipulelo zena ni mabaka."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 59,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kubupa lipulelo za kuambola ka kuitusisa manzwi a tukwaci kapa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2",
+                            "page": 60,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezi-nyana(b) kubupa lipulelo kakuitusisa manzwi a tukwaci kapa atoloka"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.1",
+                            "page": 61,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezi-nyana (a) Kubuza lipuzo zetatamana kuya kalika zelatiwa."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.1.2",
+                            "page": 61,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana(b) Kubuza lipuzo zetamana kuya kalika zebasalati"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 63,
+                            "hook": null,
+                            "teacher_steps": [
+                                "a hupulise bana ba sikolo manzwi-nyana ebaitutile ka kuañola fa limati.",
+                                "abafe kolo ya kuabala.",
+                                "Abulele manzwi"
+                            ],
+                            "learner_steps": [
+                                "babale manzwi afilwe."
+                            ],
+                            "short_notes": "Kutosa manzwi nyana ka kubulela."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 63,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Papali ya kubala palo ya manzwi-nyana kakukambela."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1",
+                            "page": 63,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezi-nyana (a) kubala manzwi-nyana kakukambela."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 64,
+                            "hook": null,
+                            "teacher_steps": [
+                                "afe taelo kwa bana ba sikolo mwa kubupela manzwi kakuitusisa manzwi-nyana",
+                                "afe mutala wa kubupa linzwi kakuitusisa makaadi amabeli (mutala: kaadi ya ma- ni -ta- = mata.",
+                                "abulelele bana ba sikolo babale linzwi lebabupile fa manzwi-nyana."
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Kubupa manzwi kakuitusisa manzwi-nyana (kakubulela)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 65,
+                            "hook": null,
+                            "teacher_steps": [
+                                "afe bana ba sikolo makaadi ana ni manzwi-nyana.",
+                                "alaele bana ba sikolo kubala manzwi-nyana afilwe.",
+                                "abupe manzwi ka kuitusisa manzwi-nyana ao:"
+                            ],
+                            "learner_steps": [
+                                "baalabe puzo yebuzizwe",
+                                "babapale papali ya kuzusa ni kuyolisa manzwi-nyana mwa likwata.",
+                                "baitomboli babonise babañwi moibapalelwa papali yeo."
+                            ],
+                            "short_notes": "Papali ya kubupa manzwi ka kutakula ni kuyolisa."
+                        }
+                    ],
+                    "short_notes": "Tuto ka bukuswani: Tuto ye neiamile fa kuluta bana ba sikolo kubupa manzwi kakuitusisa manzwi nyana.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 55,
+                        "questions": [
+                            "Habanze baituta ni kasamuaho wa kuituta, bana ba sikolo bakone"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "6.2",
+                    "title": "Zibo ya milumo.",
+                    "page": 65,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 66,
+                            "hook": null,
+                            "teacher_steps": [
+                                "abonise bana ba sikolo sika/siswaniso: samulumo wa /m/.",
+                                "Hasamulaho ababuze libizo lasika seo.",
+                                "kona aka buza mulumo outwahala kwa makalelo a linzwi leo.",
+                                "abalaele kukutela mulumo wo.",
+                                "abulele manzwi ashutana-shutana kuli bana ba sikolo batose milumo ya /m/"
+                            ],
+                            "learner_steps": [
+                                "babulele libizo la sika seo.",
+                                "babulele mulumo outwahala kwa makalelo a linzwi leo.",
+                                "bakutele mulumo wo.",
+                                "batose mulumo wa /m/ mwa manzwi ashutana-shutana."
+                            ],
+                            "short_notes": "Kutosa mulumo wa kwa makalelo mwa manzwi akubule."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 66,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abulele linzwi kakutiisa.",
+                                "Abuze bana ba sikolo mulumo obautwa kwa mafeielezo.",
+                                "abalaele kukutela mulumo wo.",
+                                "abulele manzwi ashutana-shutana kuli bana ba sikolo batose milumo mwa teñi ."
+                            ],
+                            "learner_steps": [
+                                "Babulele mulumo obautwa kwa mafelelezo.",
+                                "balikanyise ku bulela manzwi inze ba tosa milumo ye kwa mafelelezo."
+                            ],
+                            "short_notes": "kutosa mulumo wa kwa mafelelezo a manzwi akubulela."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 67,
+                            "hook": null,
+                            "teacher_steps": [
+                                "añole linzwi fa limati.",
+                                "abulelele bana ba sikolo kulibala.",
+                                "azuse mulumo ulimuñwi. -kona akauyolisa niusili."
+                            ],
+                            "learner_steps": [
+                                "babale linzwi la tapi.",
+                                "kona bazusa mulumo wa/p/ nikuyolisa mulumo wa /l/.",
+                                "hasamulao, babale linzwi leo.",
+                                "hase bafile kalabo yelukile ya (tali).",
+                                "bazuse mulumo mwa linzwi leliswana ni kuyolisa usili."
+                            ],
+                            "short_notes": "kubapala papali ya zibahazo ya milumo zeswana sina kuyolisa ni"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 68,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Añole linzwi fa limati la mulumo wa sunda yeo.",
+                                "Abulelele bana ba sikolo kuli babulele manzwi ana ni mulumo oswana kwa"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Manzwi aswana milumelo."
+                        }
+                    ],
+                    "short_notes": "Tuto ka bukuswani: Tuto ye neiamile fa kuluta bana ba sikolo kubapala papali ya zibahazo ya milumo yeswala sina kuyolisa ni kutakula milumo.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 65,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.3",
+                    "title": "litaku zeyemela milumo /m/, /t/, /s/, /z/, /w/",
+                    "page": 68,
+                    "competences": [
+                        "Tatubo ya bana ba sikolo",
+                        "bakopanye manzwinyana kubupa manzwi. [pupeho ya manzwi ilatelele",
+                        "mukoloko wa milumo ofilwe [ vcv, cvcv]"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 69,
+                            "hook": null,
+                            "teacher_steps": [
+                                "aitusise sika / siswaniso sesikala ni mulumo wa /m/.",
+                                "abuze bana ba sikolo kubulela m-ulumo wo.",
+                                "Alute mulumo wa /m/.",
+                                "alaele bana ba sikolo kubulela manzwi akala ka mulumo wa /m/ mutala: mota,"
+                            ],
+                            "learner_steps": [
+                                "batumuse mulumo wa /m/.",
+                                "babulele manzwi akala ni mulumo wa /m/"
+                            ],
+                            "short_notes": "Kubulela/ kutumusa Milumo yeyemelwa ki litaku."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 69,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Añole manzwi fa limati ana ni milumo ye lutilwe.",
+                                "Abulelele banaba sikolo kuli batose milumo ye mwa manzwi añozwi fa limati.",
+                                "abulelele baitomboli kuli balale mulumo wa /m/."
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "kutosa milumo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 70,
+                            "hook": null,
+                            "teacher_steps": [
+                                "afe bana ba sikolo litaku za sipeleta.",
+                                "abalaele kuli bakete mwa teni litaku za milumo yebaitutile hamoho cwalo ni"
+                            ],
+                            "learner_steps": [
+                                "bakete litaku za milumo yebaitutile hamoho cwalo ni malena ba litaku (a,e,I,o,u)."
+                            ],
+                            "short_notes": "kuketa litaku."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 70,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alute mulumo wa sunda yeo ka kuitusisa sika kapa maswaniso.",
+                                "Añole mulumo mi abuze bana ba sikolo kuli halu beya kwateñi a e i o u lupanga"
+                            ],
+                            "learner_steps": [
+                                "Baitute mulumo wa sunda yeo.",
+                                "Babale manzwinyana akapangiwa,"
+                            ],
+                            "short_notes": "Kubupa manzwi-nyana (z)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 71,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Apaheke cati ya manzwinyana mi abulelele bana ba sikolo kuli batalime fatani",
+                                "Abulelele banaba sikolo kuli babale manzwinyana ainzi fa cati"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "kubala manzwi-nyana fa caati."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 71,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kuketa manzwinyana"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 72,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kukopanya manzwinyana kubupa manzwi."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 73,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kutakula ni kuyolisa manzwinyana."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "9.1",
+                            "page": 73,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana [a]- kutakula ni kuyolisa manzwinyana kwa mafelezo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "10.1",
+                            "page": 74,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana [b]- kutakula ni kuyolisa manzwinyana kwa makalelo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "11.1",
+                            "page": 74,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana [c]: kutakula ni kuyolisa manzwinyana fahali"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 74,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kutosa manzwinyana mwa manzwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "13.1",
+                            "page": 74,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana [a] Kutosa manzwinyana a litaku zepeli mwa manzwi."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "14.1",
+                            "page": 74,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana [b]: Kutosa manzwinyana ana ni litaku zetaalu mwa manzwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 75,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kubala palomanzwinyana"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "16.1",
+                            "page": 75,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana [a] kubala manzwinyana ana ni litaku zepeli mwa linzwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "17.1",
+                            "page": 76,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana [b]: Kubala manzwinyana afumaneha mwa manzwi"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 75,
+                        "questions": [
+                            "Musebezinyana [b]: Kubala manzwinyana afumaneha mwa manzwi",
+                            "ukise mukoloko wa manzwi ana ni manzwinyana a litaku zepeli ni zetaalu.",
+                            "Mutala; lumonyi, nyanyuka, shakame",
+                            "Abulelele bana ba sikolo kuli bakambele fa linzwinyana ni linzwinyana",
+                            "Bakambele ni kubala manzwinyana afumaneha",
+                            "Bakone kutumusa kuli mwa linzwi la ‘lumonyi’ kuna ni milumo ye milaalu",
+                            "kubala manzwinyana kuezahale ka swanelo",
+                            "TUTO YA 2: KUBALA KUSINA KUKAKATELA"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "6.4",
+                    "title": "Kubala",
+                    "page": 76,
+                    "competences": [
+                        "manzwi zamaelele ni sikuka sa milumo vcv,cvcv}."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 76,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana [a]: {kuitusisa kabuka ka manzwinyana)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.1",
+                            "page": 77,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 76,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.5",
+                    "title": "Kutosa manzwi (word recognition)",
+                    "page": 77,
+                    "competences": [
+                        "kutosa manzwi a buñolo (recognise simple words)."
+                    ],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 78,
+                        "questions": [
+                            "KALULO: KUTWISISA (COMPREHENSION)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "6.6",
+                    "title": "kukakanya ka bunolo (simple inferences).",
+                    "page": 78,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 79,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kukakanya kuzwelela fa taba ya kubalelwa."
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 79,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "7.0",
+            "topic_title": "Muñolo",
+            "sub_topics": [
+                {
+                    "subtopic_id": "7.1",
+                    "title": "kubupa litaku (Letter formation)",
+                    "page": 79,
+                    "competences": [
+                        "words legibly in manuscript handwriting)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 80,
+                            "hook": null,
+                            "teacher_steps": [
+                                "a bonise bana ba sikolo mwa kuswaniseza sikwenda.",
+                                "Aswanise likwenda zeketa lizoho fa limati.",
+                                "abonise bana ba sikolo mokuswanisezwa lekitangulu",
+                                "Alaele bana ba sikolo kuswanisa lekitangulu mwa libuka.",
+                                "abuze bana ba sikolo ze babonanga mwa mbyumbyulu busihu.",
+                                "Abulelele bana ba sikolo kuli ba swanise linaleli."
+                            ],
+                            "learner_steps": [
+                                "ba likanyise kuswanisa sikwenda mwa moya.",
+                                "Ba swanise likwenda ze ba bona fa limati.",
+                                "ba likanyise mokuswanisezwa lekitangulu fa limati.",
+                                "Bana ba sikolo ba swanise lekitangulu mwa libuka.",
+                                "babulele ze babonanga mwa mbyumbyulu.",
+                                "Baswanise linaleli."
+                            ],
+                            "short_notes": "kukopisa lishepu (copying shapes)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 80,
+                            "hook": null,
+                            "teacher_steps": [
+                                "a bonise bana ba sikolo mwa kuswaniseza sikwenda.",
+                                "Aswanise likwenda zeketa lizoho fa limati.",
+                                "abonise bana ba sikolo mokuswanisezwa lekitangulu",
+                                "Alaele bana ba sikolo kuswanisa lekitangulu mwa libuka.",
+                                "abuze bana ba sikolo ze babonanga mwa mbyumbyulu busihu.",
+                                "Abulelele bana ba sikolo kuli ba swanise linaleli."
+                            ],
+                            "learner_steps": [
+                                "ba likanyise kuswanisa sikwenda mwa moya.",
+                                "Ba swanise likwenda ze ba bona fa limati.",
+                                "ba likanyise mokuswanisezwa lekitangulu fa limati.",
+                                "Bana ba sikolo ba swanise lekitangulu mwa libuka.",
+                                "babulele ze babonanga mwa mbyumbyulu.",
+                                "Baswanise linaleli."
+                            ],
+                            "short_notes": "kukopisa likwenda (copying cirlces)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.2",
+                            "page": 80,
+                            "hook": null,
+                            "teacher_steps": [
+                                "abonise bana ba sikolo mokuswanisezwa lekitangulu",
+                                "Alaele bana ba sikolo kuswanisa lekitangulu mwa libuka.",
+                                "abuze bana ba sikolo ze babonanga mwa mbyumbyulu busihu.",
+                                "Abulelele bana ba sikolo kuli ba swanise linaleli."
+                            ],
+                            "learner_steps": [
+                                "ba likanyise mokuswanisezwa lekitangulu fa limati.",
+                                "Bana ba sikolo ba swanise lekitangulu mwa libuka.",
+                                "babulele ze babonanga mwa mbyumbyulu.",
+                                "Baswanise linaleli."
+                            ],
+                            "short_notes": "kuswanisa lekitangulu (drawing a rectangle)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.2.3",
+                            "page": 80,
+                            "hook": null,
+                            "teacher_steps": [
+                                "abuze bana ba sikolo ze babonanga mwa mbyumbyulu busihu.",
+                                "Abulelele bana ba sikolo kuli ba swanise linaleli."
+                            ],
+                            "learner_steps": [
+                                "babulele ze babonanga mwa mbyumbyulu.",
+                                "Baswanise linaleli."
+                            ],
+                            "short_notes": "kuswanisa linaleleli"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 80,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Añole lipateni mwa moya.",
+                                "añole fa limati mi alaele bana ba sikolo kukopisa ka swanelo."
+                            ],
+                            "learner_steps": [
+                                "bañole lipateni mwa moya",
+                                "bakopise lipateni mwa libuka zabona"
+                            ],
+                            "short_notes": "kuñola lipateni/ liñolani (writing patterns)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1",
+                            "page": 80,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Añole lipateni mwa moya.",
+                                "añole fa limati mi alaele bana ba sikolo kukopisa ka swanelo."
+                            ],
+                            "learner_steps": [
+                                "bañole lipateni mwa moya",
+                                "bakopise lipateni mwa libuka zabona"
+                            ],
+                            "short_notes": "kuñola lipateni"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 81,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abonise bana ba sikolo moiñolelwa taku ya ‘a’ fa limati inge ali,",
+                                "Abulelele bana ba sikolo kuli balikanyise mwa moya",
+                                "Abulele bana ba sikolo kuli bañole taku ya ‘a’ mwa libuka zabona"
+                            ],
+                            "learner_steps": [
+                                "Bana ba sikolo babone mo muluti añolela ta ya ‘a’.",
+                                "Balikanyise kuñola taku ya ‘a’ mwa moya.",
+                                "Ba ñole taku ya ‘a’ mwa libuka za bona."
+                            ],
+                            "short_notes": "kukopisa litaku"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "8.1",
+                            "page": 81,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abonise bana ba sikolo moiñolelwa taku ya ‘a’ fa limati inge ali,",
+                                "Abulelele bana ba sikolo kuli balikanyise mwa moya",
+                                "Abulele bana ba sikolo kuli bañole taku ya ‘a’ mwa libuka zabona"
+                            ],
+                            "learner_steps": [
+                                "Bana ba sikolo babone mo muluti añolela ta ya ‘a’.",
+                                "Balikanyise kuñola taku ya ‘a’ mwa moya.",
+                                "Ba ñole taku ya ‘a’ mwa libuka za bona."
+                            ],
+                            "short_notes": "Musebezinyana [a]: kukopisa taku ya ‘a’"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "8.1.3",
+                            "page": 81,
+                            "hook": null,
+                            "teacher_steps": [
+                                "abonise bana ba sikolo mokuñolelwa taku ya ‘c’ fa limati.",
+                                "Alaele bana ba sikolo ku ñola taku ya ‘c’ mwa libuka za bona."
+                            ],
+                            "learner_steps": [
+                                "ba likanyise kuñola taku ya ‘c’ mwa moya.",
+                                "Ba ñole taku ya ‘c’ mwa libuka za bona."
+                            ],
+                            "short_notes": "kuñola taku ya ‘c’"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "10.1",
+                            "page": 82,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abonise bana ba sikolo moiñolelwa taku ya ‘d’ fa limati inge ali,",
+                                "Abulelele bana ba sikolo kuli balikanyise mwa moya",
+                                "Abulelele bana ba sikolo kuli bañole taku ya ‘d’ mwa libuka zabona"
+                            ],
+                            "learner_steps": [
+                                "Bana ba sikolo ba bone mo muluti añolela ta ya ‘d’.",
+                                "Balikanyise kuñola taku ya ‘d’ mwa moya.",
+                                "Ba ñole taku ya ‘d’ mwa libuka za bona."
+                            ],
+                            "short_notes": "Musebezinyana [d] kuñola taku ya ‘d’"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "10.1.3",
+                            "page": 83,
+                            "hook": null,
+                            "teacher_steps": [
+                                "abonise bana ba sikolo mokuñolelwa taku ya ‘f’ fa limati.",
+                                "Alaele bana ba sikolo ku ñola taku ya ‘f’ mwa libuka za bona."
+                            ],
+                            "learner_steps": [
+                                "balikanyise kuñola taku ya ‘f’ mwa moya.",
+                                "Bañole taku ya ‘e’ mwa libuka za bona."
+                            ],
+                            "short_notes": "kuñola taku ya ‘f’"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 83,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "kukopisa maznwika muñolo osiwa mutatezo.Coping words in"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 83,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana(a) -Kuñola manzwi a litaku zesashetumuki ka muñolo wosi wa"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "14.1",
+                            "page": 83,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana(B) -Kuñola manzwi ana ni litaku zena ni mihata."
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 80,
+                        "questions": [
+                            "Musebezi 2: kuñola lipateni/ liñolani (writing patterns)",
+                            "Musebezinyana (a): kuñola lipateni",
+                            "Añole lipateni mwa moya.",
+                            "añole fa limati mi alaele bana ba sikolo kukopisa ka swanelo.",
+                            "bañole lipateni mwa moya",
+                            "bakopise lipateni mwa libuka zabona",
+                            "lipateni liñoliwe ka swanelo (Patterns written correctly)"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "8.0",
+            "topic_title": "Lingambolo",
+            "sub_topics": []
+        },
+        {
+            "topic_id": "9.0",
+            "topic_title": "MANZWI",
+            "sub_topics": []
+        },
+        {
+            "topic_id": "10.0",
+            "topic_title": "kuteeleza kakutwisiso",
+            "sub_topics": []
+        },
+        {
+            "topic_id": "11.0",
+            "topic_title": "Ngambolo.",
+            "sub_topics": [
+                {
+                    "subtopic_id": "11.1",
+                    "title": "Zibo ya milumo",
+                    "page": 117,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 118,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alaele bana ba sikolo kukambela manzwi-nyana."
+                            ],
+                            "learner_steps": [
+                                "Bakambela manzwi-nyana. Nya/ nga/nya"
+                            ],
+                            "short_notes": "Musebezi-nyana- (a): (Kukambela manzwi-nyana)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1",
+                            "page": 118,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezi-nyana (c(Manzwi-nyana ka kacamukata)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.2",
+                            "page": 119,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezi-nyana (b) Kukambela ni kubala)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.2.1",
+                            "page": 119,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezi-nyana (a) (Lipina zamanzwi-nyana)"
+                        }
+                    ],
+                    "short_notes": "Tuto ka bukuswani Tuto ye iamile falika ze tatama zakuluta bana ba sikolo • Kuambola ze ezahalile • Kukolohanya ze ezahalile • Kubupa ngambolo ka kukolohanya •",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 117,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "11.2",
+                    "title": "Zibo ya milumo",
+                    "page": 120,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 121,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abulelele bana ba sikolo kubapala lipapali zakualula milumo kakuitusisa",
+                                "alaele bana ba sikolo kubapala papali ya kufumana milumo yakwa",
+                                "Abulelele bana ba sikolo kueza papali ya kufumana lika zekala kamulumo"
+                            ],
+                            "learner_steps": [
+                                "babapale lipapali zakualula milumo.",
+                                "babapala papali yamilumo yakwama kalelo ali nzwi."
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 121,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abulelele bana ba sikolo kubapala lipapali zakualula milumo kakuitusisa",
+                                "alaele bana ba sikolo kubapala papali ya kufumana milumo yakwa",
+                                "Abulelele bana ba sikolo kueza papali ya kufumana lika zekala kamulumo"
+                            ],
+                            "learner_steps": [
+                                "babapale lipapali zakualula milumo.",
+                                "babapala papali yamilumo yakwama kalelo ali nzwi."
+                            ],
+                            "short_notes": "Musebezi-nyana (a) (kualula milumo)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.2",
+                            "page": 121,
+                            "hook": null,
+                            "teacher_steps": [
+                                "alaele bana ba sikolo kubapala papali ya kufumana milumo yakwa",
+                                "Abulelele bana ba sikolo kueza papali ya kufumana lika zekala kamulumo"
+                            ],
+                            "learner_steps": [
+                                "babapala papali yamilumo yakwama kalelo ali nzwi."
+                            ],
+                            "short_notes": "milumo yakwa makalelo amanzwi."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.2.3",
+                            "page": 121,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abulelele bana ba sikolo kueza papali ya kufumana lika zekala kamulumo"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Musebezi-nyana (c) kuzuma milumo ya kwa makalelo alinzwi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1",
+                            "page": 122,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abonise bana ba sikolo lubasi lwa manzwi akala niku fela kamulumo"
+                            ],
+                            "learner_steps": [
+                                "Babale ni kuћola manzwi awela kwa lubasi lo."
+                            ],
+                            "short_notes": "Musebezi-nyana Bana ba sikolo (b)Lubasi lwa manzwi."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1.1",
+                            "page": 122,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Aћole manzwi fali li mati mi abulele bana ba sikolo ku kopanya milumo ka",
+                                "Aћole manzwi fa limati mi abulele bana ba sikolo kuzwisa mulumo kwa",
+                                "bazwise mulumo kwa linzwi."
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Musebezi-nyana (a)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1.1.2",
+                            "page": 123,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Aћole manzwi fa limati mi abulele bana ba sikolo kuzwisa mulumo kwa",
+                                "bazwise mulumo kwa linzwi."
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Musebezi-nyana (b) kalulo ya milumo yezusiwa."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "8",
+                            "page": 123,
+                            "hook": null,
+                            "teacher_steps": [
+                                "wabulela linzwi mi bana ba sikolo babale manzwi nyana a mwa linzwi leo"
+                            ],
+                            "learner_steps": [
+                                "kambela ni kubala manzwinyana a mwalinzwi"
+                            ],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "9.1",
+                            "page": 124,
+                            "hook": null,
+                            "teacher_steps": [
+                                "wabulela linzwi mi bana ba sikolo babale manzwi nyana a mwa linzwi leo",
+                                "afe bana ba sikolo lubasi lwa manzwi lolunani manzwinyana ashutana.",
+                                "bakete ni kuћola manzwi awela wa lubasi lwa manzwi.",
+                                "aћole manzwi fa limati mi abulele bana ba sikolo kutosa palo yamanzwinya"
+                            ],
+                            "learner_steps": [
+                                "kambela ni kubala manzwinyana a mwalinzwi",
+                                "batose palo yamanzwi nyana mwa manzwi."
+                            ],
+                            "short_notes": "Musebezi-nyana (a"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "9.1.1",
+                            "page": 125,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Apate ma swaniso ali mwa kilasi mi bana ba sikolo babale mabizo alika",
+                                "aopele pina ya manzwinyana mi abuze bana ba sikolo kubulela palo ya"
+                            ],
+                            "learner_steps": [
+                                "babulele alike ana ni manzwinyana kakuya kapalo yebafilwe.",
+                                "babulele palo ya manzwinyana ali mwamanzwi amwa pina."
+                            ],
+                            "short_notes": "Musebezinyana (a) kuzuma manzwinyana."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "9.1.1.2",
+                            "page": 126,
+                            "hook": null,
+                            "teacher_steps": [
+                                "aopele pina ya manzwinyana mi abuze bana ba sikolo kubulela palo ya"
+                            ],
+                            "learner_steps": [
+                                "babulele palo ya manzwinyana ali mwamanzwi amwa pina."
+                            ],
+                            "short_notes": "pina ya manzwinyana"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 127,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abulele manzwinyana amabeli kakushutana mi alaele bana ba sikolo ku",
+                                "ange manzwinyana ni silamatela kubupa manzwi.",
+                                "Alaele bana ba sikolo kukopanya manzwi nyana kubupa manzwi.",
+                                "akale kuћola linzwi fa limati mi abulele bana ba sikolo kukopanya"
+                            ],
+                            "learner_steps": [
+                                "babale manzwinyana amabeli niku akopanya (nguli)",
+                                "bakopanye manzwinyana kubupa manzwi.",
+                                "bakopanya linzwi nyana kwalinzwi leliћozwi fa limati alimuћwi ka alimuћwi."
+                            ],
+                            "short_notes": "kukopanya manzwinyana kubupa manzwi."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 127,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Abulele manzwinyana amabeli kakushutana mi alaele bana ba sikolo ku",
+                                "ange manzwinyana ni silamatela kubupa manzwi.",
+                                "Alaele bana ba sikolo kukopanya manzwi nyana kubupa manzwi.",
+                                "akale kuћola linzwi fa limati mi abulele bana ba sikolo kukopanya"
+                            ],
+                            "learner_steps": [
+                                "babale manzwinyana amabeli niku akopanya (nguli)",
+                                "bakopanye manzwinyana kubupa manzwi.",
+                                "bakopanya linzwi nyana kwalinzwi leliћozwi fa limati alimuћwi ka alimuћwi."
+                            ],
+                            "short_notes": "Musebezinyana (a) syllable bleding (kukopanya manzwinyana)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.2",
+                            "page": 127,
+                            "hook": null,
+                            "teacher_steps": [
+                                "ange manzwinyana ni silamatela kubupa manzwi.",
+                                "Alaele bana ba sikolo kukopanya manzwi nyana kubupa manzwi.",
+                                "akale kuћola linzwi fa limati mi abulele bana ba sikolo kukopanya"
+                            ],
+                            "learner_steps": [
+                                "bakopanye manzwinyana kubupa manzwi.",
+                                "bakopanya linzwi nyana kwalinzwi leliћozwi fa limati alimuћwi ka alimuћwi."
+                            ],
+                            "short_notes": "Musebezinyana (b)kubupa manzwi)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "15.1",
+                            "page": 127,
+                            "hook": null,
+                            "teacher_steps": [
+                                "akale kuћola linzwi fa limati mi abulele bana ba sikolo kukopanya"
+                            ],
+                            "learner_steps": [
+                                "bakopanya linzwi nyana kwalinzwi leliћozwi fa limati alimuћwi ka alimuћwi."
+                            ],
+                            "short_notes": "Musebezinyana ( c): word chaining (Manzwi atatamana)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "15.1.1",
+                            "page": 128,
+                            "hook": null,
+                            "teacher_steps": [
+                                "apate lika zetatama potoloto, buka, komoki, likatulo nizemwi cwalo.",
+                                "Alaele bana ba sikolo kunopa sika kuzona lika zeo zepatilwe.",
+                                "Mi anyalanise sika seo kwa manzwi ali fa ma fulashi kadi.",
+                                "Aitusise litaku zena nisilamatela kakubupa manzwi. Afe bana ba sikolo",
+                                "baka kopanya litaku kubapa fateni linzwi (kota)."
+                            ],
+                            "learner_steps": [
+                                "banope sika ni kunyalanisa kwa manzwi afilwe fama fulashi kadi."
+                            ],
+                            "short_notes": "kuzuma manzwnyana (syllable scavenger hunt)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "15.1.1.2",
+                            "page": 128,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Aitusise litaku zena nisilamatela kakubupa manzwi. Afe bana ba sikolo",
+                                "baka kopanya litaku kubapa fateni linzwi (kota)."
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana (b) (kubupa manzwi)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "15.1.1.2.1",
+                            "page": 128,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ange tubala fokuћozwi manzwinyana afe mutala kwa bana ba sikolo",
+                                "babupa manzwi fa manzwinyana afilwe fatubala.",
+                                "alukise ma fulashi kadi fokuinzi manzwinyana.",
+                                "Muluti afe mutala kukopanya manzwinyana kubupa fateni manzwi.",
+                                "Abulelele"
+                            ],
+                            "learner_steps": [
+                                "babupe manzwi kakukopanya manzwinyana."
+                            ],
+                            "short_notes": "Musebezinyana (a) kubupa manzwi fa manzwinyana"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "15.1.1.2.1.2",
+                            "page": 128,
+                            "hook": null,
+                            "teacher_steps": [
+                                "alukise ma fulashi kadi fokuinzi manzwinyana.",
+                                "Muluti afe mutala kukopanya manzwinyana kubupa fateni manzwi.",
+                                "Abulelele"
+                            ],
+                            "learner_steps": [
+                                "babupe manzwi kakukopanya manzwinyana."
+                            ],
+                            "short_notes": "Musebezinyana (b) Blending cards (kukopanya ma cadi)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "20",
+                            "page": 130,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Akambelele ni kubuza bana ba sikolo kuli ukambelezi hakai",
+                                "aћole mukoloko wa manzwi fa limati shakame, waci, buka, fulai abulele",
+                                "bakambele kinubala palo ya manzwinyana.",
+                                "Aћole manzwi fa limati abulelele bana ba sikolo kuba manzwi ataluse kuli",
+                                "bana ba",
+                                "babale palo ya manzwinyana ali mwa manzwi atatama sizuma, yayula,"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "20.1",
+                            "page": 130,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Akambelele ni kubuza bana ba sikolo kuli ukambelezi hakai",
+                                "aћole mukoloko wa manzwi fa limati shakame, waci, buka, fulai abulele",
+                                "bakambele kinubala palo ya manzwinyana.",
+                                "Aћole manzwi fa limati abulelele bana ba sikolo kuba manzwi ataluse kuli",
+                                "bana ba",
+                                "babale palo ya manzwinyana ali mwa manzwi atatama sizuma, yayula,"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana (a) kukambela nikubala manzwinyana)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "20.1.2",
+                            "page": 130,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Aћole manzwi fa limati abulelele bana ba sikolo kuba manzwi ataluse kuli",
+                                "bana ba",
+                                "babale palo ya manzwinyana ali mwa manzwi atatama sizuma, yayula,"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana (b) Kubala ni ku kambela)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "20.1.2.1",
+                            "page": 131,
+                            "hook": null,
+                            "teacher_steps": [
+                                "afe bana ba sikolo kubala manzwi fama fulashi kadi.",
+                                "abalele kabuki kakwipalela kwa bana ba sikolo,",
+                                "Abonise bana ba sikolo mwaku swalela buka ababala.",
+                                "Abale buka anza buza bana ba sikolo lipuzo kuzwelela mwa likande.",
+                                "Afe bana ba sikolo tubuka twakuipalela"
+                            ],
+                            "learner_steps": [
+                                "babale libuka zakuipalela.",
+                                "babale tubuka alimuћwi ka alimuћwi kakutiisa."
+                            ],
+                            "short_notes": "Musebezinyana (a) (kubala ka kutiisa)"
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 120,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "12.0",
+            "topic_title": "Manzwi",
+            "sub_topics": []
+        },
+        {
+            "topic_id": "13.0",
+            "topic_title": "unolo",
+            "sub_topics": [
+                {
+                    "subtopic_id": "13.1",
+                    "title": "pupo ya litaku",
+                    "page": 136,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 137,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ataluseze bana ba sikolo mokuћolelwa lubupeho zetuna nize nyinyani anze",
+                                "balikanyise muluti kuswanisa sikwenda.",
+                                "Abonise bana ba sikolo mutala kalulundulula libupeho.",
+                                "-Mutala muluti afe bana ba sikolo tutampili totunani libupeho kuli bana ba",
+                                "alaele bana ba sikolo kukopisa libupeho ze fa limati."
+                            ],
+                            "learner_steps": [
+                                "balundulule libupeho"
+                            ],
+                            "short_notes": "Musebezinyana (a) kuswanisa libupeho"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1",
+                            "page": 137,
+                            "hook": null,
+                            "teacher_steps": [
+                                "alaele bana ba sikolo kukopisa libupeho ze fa limati."
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana (c ) kukopisa libupeho (coping shapes)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.1",
+                            "page": 137,
+                            "hook": null,
+                            "teacher_steps": [
+                                "abonise bana ba sikolo mokuћolelwa mibasezo kakwitusisa milaini",
+                                "Kukalela mwa moya kasamulaho baka ћolo mwalibuka. Tokomelo milaini"
+                            ],
+                            "learner_steps": [
+                                "balikenyise muluti kuћola mibasezo (patterns) kakulunduluza mwa moya."
+                            ],
+                            "short_notes": "Musebezinyana (a) kuћola mibasezo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1",
+                            "page": 138,
+                            "hook": null,
+                            "teacher_steps": [
+                                "abonise bana ba sikolo muћolelwa mibasezo kakwiitusisa milaini ye namile",
+                                "balikanise muluti kakuћolo mibasezo ye shendami niye otolohile.",
+                                "musebezi Mibasezo ikopolozwi kakuluka"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana ( c) kuћola mibasezo yenamile niye shendami."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.1",
+                            "page": 140,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Taku ya (A) yetuna ilukela kukalela kwahalimi ona ishendama ka nzohoto",
+                                "Taku ya (b) ikalela kuћolelwa kwahalimu kushetumuka kona ikalela faha"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana (a) kukopolola taku ya (Aa)…. Mwabunyinyani nimwa butuna"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.1.2",
+                            "page": 140,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Taku ya (A) yetuna ilukela kukalela kwahalimi ona ishendama ka nzohoto",
+                                "Taku ya (b) ikalela kuћolelwa kwahalimu kushetumuka kona ikalela faha"
+                            ],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana (b) kukopolola taku ya (A) mwabutuna."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7.1",
+                            "page": 140,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana ( c) kukopolola taku ya (b)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "8",
+                            "page": 140,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "8.1",
+                            "page": 140,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Musebezinyana (a) …."
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 136,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "14.0",
+            "topic_title": "Milumo",
+            "sub_topics": []
+        }
+    ]
+}

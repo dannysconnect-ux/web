@@ -1,0 +1,696 @@
+{
+  "subject": "Litilica mwa Silozi",
+  "grade": "Form 1",
+  "term": 2,
+  "topics": [
+    {
+      "topic_id": "1.0",
+      "topic_title": "Litilica yeitusisa kubulela ka mulomo (Oral Literature)",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.1",
+          "title": "Misebezi ni butokwa bwa likalulo za litilica yeitusisa kubulela ka mulomo (Functions of oral literature)",
+          "page": 12,
+          "competences": [
+            "Batomahanye misebezi ni butokwa bwa likalulo za litilica yeitusisa kubulela ka mulomo"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 13,
+              "hook": null,
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya kuikupuza likalulo za litilica yeitusisa kubulela ka mulomo",
+                "Alaele bana ba sikolo kukolohanya litopa za likalulo za litilica yeitusisa kubulela ka mulomo (prose)",
+                "Abeleke ni bana ba sikolo kuikambota misebezi ni butokwa bwa litopa za likalulo za litilica yeitusisa kubulela ka mulomo (prose)"
+              ],
+              "learner_steps": [
+                "Baikupuze likalulo za litilica yeitusisa kubulela ka mulomo",
+                "Bakolohanye litopa za likalulo za litilica yeitusisa kubulela ka mulomo (prose)",
+                "Baikambote misebezi ni butokwa bwa litopa za likalulo za litilica yeitusisa kubulela ka mulomo (prose)"
+              ],
+              "short_notes": "Kukolohanya misebezi ni butokwa bwa likalulo za litilica yeitusisa kubulela ka mulomo; zeambolwa (prose). Functions include: Kubukeleza ni kushimbulula sizo, Kutumisa sizo, Kufa tuto yeama muinelo/mupilelo wa batu, Kuhatiseza tamahano ni buñwi, Kuikambota ni kufitisa maikuto, Kuitabisa, Kufitisa lituto za bupilo, Kubukeleza likezo ni litaba za baikale."
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 17,
+              "hook": null,
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya kuikupuza litopa za likalulo za litilica yeitusisa kubulela ka mulomo",
+                "Alaele bana ba sikolo kukolohanya litopa za likalulo za litilica yeitusisa kubulela ka mulomo",
+                "Abeleke ni bana ba sikolo kuikambota misebezi ni butokwa bwa litopa"
+              ],
+              "learner_steps": [
+                "Baikupuze litopa za likalulo za litilica yeitusisa kubulela ka mulomo",
+                "Bakolohanye litopa za likalulo za litilica yeitusisa kubulela ka mulomo",
+                "Baikambote misebezi ni butokwa bwa litopa"
+              ],
+              "short_notes": "Kukolohanya misebezi ni butokwa bwa litopa za likalulo. Prose forms: Matangu (Myths, Legendary, Fairy tales, Fable), Makande (Legendary, Epics, Fairy tales). Poetry forms: Ballads, Lyrics, Odes, Monologue. Drama forms: Comedy, Tragedy, Farce, Horror, Puppetry."
+            }
+          ],
+          "short_notes": "Oral literature encompasses three main forms: Prose (narratives), Poetry (songs/lyrics), and Drama (performance). Each form has specific functions including cultural preservation, moral instruction, entertainment, and social commentary.",
+          "vocabulary": [
+            {
+              "term": "Litilica yeambolwa",
+              "definition": "Prose - narrative oral literature"
+            },
+            {
+              "term": "Litoko",
+              "definition": "Poetry/Lyrics - poetic oral literature"
+            },
+            {
+              "term": "Litilica yebapalwa",
+              "definition": "Drama - performed oral literature"
+            },
+            {
+              "term": "Matangu",
+              "definition": "Folktales including myths, legends, fables"
+            },
+            {
+              "term": "Makande",
+              "definition": "Oral narratives and stories"
+            }
+          ],
+          "assessment": {
+            "page": 16,
+            "questions": [
+              "Kuikupuza likalulo za litilica yeitusisa kubulela ka mulomo",
+              "Kukolohanya misebezi ni butokwa bwa litilica yeitusisa kubulela ka mulomo",
+              "Kuikambota misebezi ni butokwa bwa litopa za likalulo",
+              "Expected standard: Misebezi ni butokwa bwa likalulo ikolohanyiwe kaswanelo"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.2",
+          "title": "Toloko ya likalulo za litilica yeitusisa kubulela ka mulomo (Interpretation of oral literature)",
+          "page": 27,
+          "competences": [
+            "Batoloke likalulo za litilica yeitusisa kubulela ka mulomo"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 27,
+              "hook": null,
+              "teacher_steps": [
+                "Alaele bana ba sikolo kutosa lika zesupa likalulo za litilica yeitusisa kubulela ka mulomo",
+                "Afe bana ba sikolo musebezi wakunyakisisa likalulo za litilica yeitusisa kubulela ka mulomo"
+              ],
+              "learner_steps": [
+                "Batose lika zesupa likalulo za litilica yeitusisa kubulela ka mulomo",
+                "Banyakisise likalulo za litilica yeitusisa kubulela ka mulomo"
+              ],
+              "short_notes": "Kutosa likalulo za litilica yeitusisa kubulela ka mulomo. Forms include: tongue twisters, riddles, sayings, proverbs, idioms, songs/poetry, narratives, myths. Features: figurative language, repetition, oral narratives, symbolism, oral transmission."
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 28,
+              "hook": null,
+              "teacher_steps": [
+                "Abeleke ni bana ba sikolo kualunguta likalulo za litilica yeitusisa kubulela ka mulomo",
+                "Alaele bana ba sikolo kubatisisa ni kufumana tuso ya likalulo"
+              ],
+              "learner_steps": [
+                "Baalungute likalulo za litilica yeitusisa kubulela ka mulomo",
+                "Babatisise ni kufumana tuso ya likalulo"
+              ],
+              "short_notes": "Kutalusa likalulo. Tongue twisters: phrases difficult to articulate. Riddles: puzzles requiring thought. Proverbs: wise sayings with cultural wisdom. Idioms: expressions with special meanings. Legends: stories of historical events."
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 29,
+              "hook": null,
+              "teacher_steps": [
+                "Alaele bana ba sikolo kualunguta tuso ya litilica yeitusisa kubulela ka mulomo kwa litaba za bupilo",
+                "Abeleke ni bana ba sikolo kunyakisisa moo likalulo likona kuitusisezwa kwa litaba za bupilo"
+              ],
+              "learner_steps": [
+                "Baalungute tuso ya litilica kwa litaba za bupilo",
+                "Banyakisise moo likalulo likona kuitusisezwa kwa litaba za bupilo"
+              ],
+              "short_notes": "Kuitusisa likalulo kwa litaba za bupilo. Applications: teaching life lessons, developing wisdom, during ceremonies, in moral instruction, for entertainment and education."
+            }
+          ],
+          "short_notes": "Interpretation of oral literature involves identifying, explaining, and applying various forms to real-life situations. These include tongue twisters, riddles, proverbs, idioms, songs, and narratives that transmit cultural wisdom.",
+          "vocabulary": [
+            {
+              "term": "Tutama lulimi",
+              "definition": "Tongue twisters - difficult phrases to articulate"
+            },
+            {
+              "term": "Mayumbo",
+              "definition": "Riddles - puzzles requiring thought to solve"
+            },
+            {
+              "term": "Mashitanguti",
+              "definition": "Proverbs - wise sayings"
+            },
+            {
+              "term": "Linguli",
+              "definition": "Idioms - expressions with special meanings"
+            },
+            {
+              "term": "Lipulelo zezinga",
+              "definition": "Figurative language"
+            }
+          ],
+          "assessment": {
+            "page": 30,
+            "questions": [
+              "Kutosa lika zesupa likalulo za litilica yeitusisa kubulela ka mulomo",
+              "Kunyakisisa likalulo za litilica yeitusisa kubulela ka mulomo",
+              "Kualunguta tuso ya litilica kwa litaba za bupilo",
+              "Expected standard: Likalulo liitusiswe kwa litaba za bupilo kakuluka"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "2.0",
+      "topic_title": "Litilica yeñozwi (Written Literature)",
+      "sub_topics": [
+        {
+          "subtopic_id": "2.1",
+          "title": "Likalulo za litilica yeñozwi (Forms of written literature)",
+          "page": 31,
+          "competences": [
+            "Batose likalulo za litilica yeñozwi"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 32,
+              "hook": null,
+              "teacher_steps": [
+                "Afe bana ba sikolo musebezi wa kubatisisa likalulo za litilica yeñozwi",
+                "Kufa bana ba sikolo libuka za litilica ka mifuta yazona (prose, poetry, drama)",
+                "Kulaela bana ba sikolo kunyaka libuka zeo ni kufumana shutano",
+                "Ataluseze bana ba sikolo kuli likalulo za litilica yeñozwi ki zetaalu (prose, poetry ni drama)"
+              ],
+              "learner_steps": [
+                "Banyake libuka zebafilwe ni kufumana shutano",
+                "Batomahanye lishutano zebatosize",
+                "Babapanye lishutano ni libuka zebafilwe",
+                "Baalule libuka kuya ka moliswanela",
+                "Basupe buka ni kubulela kalulo ya litilica yateñi"
+              ],
+              "short_notes": "Kutosa likalulo za litilica yeñozwi. Prose: narratives in paragraphs. Poetry: verses with special language. Drama: plays in acts and scenes with dialogue."
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 36,
+              "hook": null,
+              "teacher_steps": [
+                "Alaele bana ba sikolo kueza lipatisiso za litaluso za lipulelo ni manzwi",
+                "Baitusise libuka ni makepe a intaneti kubatisisa litaluso",
+                "Alaele bana ba sikolo kutoloka likalabo za lipatisiso zabona mwa Silozi",
+                "Atuse bana ba sikolo kukona kuipupela litoloko zabona"
+              ],
+              "learner_steps": [
+                "Baeze lipatisiso za litaluso",
+                "Batoloke likalabo za lipatisiso zabona mwa Silozi",
+                "Bafitise likalabo za lipatisiso zabona",
+                "Baalakanye litoloko zabona za kuikupulela"
+              ],
+              "short_notes": "Kutoloka likalulo za litilica yeñozwi. Students research definitions in English and translate to Silozi for prose, poetry, and drama."
+            }
+          ],
+          "short_notes": "Forms of written literature include Prose (novels, stories in paragraphs), Poetry (verses with rhythmic language), and Drama (plays organized in acts and scenes). Each has distinct structural and stylistic characteristics.",
+          "vocabulary": [
+            {
+              "term": "Litilica yeñozwi",
+              "definition": "Written literature - literature in written form"
+            },
+            {
+              "term": "Makande añozwi",
+              "definition": "Prose - written narratives"
+            },
+            {
+              "term": "Litoko zeñozwi",
+              "definition": "Poetry - written verses"
+            },
+            {
+              "term": "Lipapali zeñozwi",
+              "definition": "Drama - written plays"
+            }
+          ],
+          "assessment": {
+            "page": 35,
+            "questions": [
+              "Kutomahanya mifuta ya litilica yeñozwi",
+              "Kueza lipatisiso ni kufumana litoloko",
+              "Kufa toloko ya kalulo ni kalulo ya litilica yeñozwi",
+              "Expected standard: Mifuta ya litilica yeñozwi itolokwe kaswanelo"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "2.2",
+          "title": "Litopa za likalulo za litilica yeñozwi (Classes of written literature)",
+          "page": 38,
+          "competences": [
+            "Baalule litilica yeñozwi mwa likalulo zayona"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 38,
+              "hook": null,
+              "teacher_steps": [
+                "Abeleke ni bana ba sikolo kuikupuza likalulo za litilica yeñozwi",
+                "Atiiseze toloko yefilwe ki bana ba sikolo kuama kalulo ya prose",
+                "Afe bana ba sikolo litilica yeñozwi yemwa sitopa sa prose",
+                "Afe bana ba sikolo litopa za kalulo ya prose moliinezi mwa sikuwa"
+              ],
+              "learner_steps": [
+                "Baikupuze likalulo za litilica yeñozwi",
+                "Babale ni kunyakisisa litilica yeñozwi yemwa sitopa sa prose",
+                "Batose lika zebonisa shutano",
+                "Babeya litilica yebafilwe mwa litopa za prose"
+              ],
+              "short_notes": "Kutahisa litopa za prose. Classes: Folktales (fable, fairy tale, legend, myths), Fictional prose (novels, stories), Non-fictional prose (biographies, essays), Heroic prose (legends, tales)."
+            }
+          ],
+          "short_notes": "Classes of written literature organize forms into subcategories. Prose includes folktales, fiction, and non-fiction. Poetry includes narrative, lyric, and dramatic. Drama includes comedy, tragedy, horror, and melodrama.",
+          "vocabulary": [
+            {
+              "term": "Fictional prose",
+              "definition": "Imaginary narratives - novels and stories"
+            },
+            {
+              "term": "Non-fictional prose",
+              "definition": "True narratives - biographies and essays"
+            },
+            {
+              "term": "Narrative poetry",
+              "definition": "Poetry that tells a story"
+            },
+            {
+              "term": "Lyric poetry",
+              "definition": "Poetry expressing emotions and thoughts"
+            }
+          ],
+          "assessment": {
+            "page": 44,
+            "questions": [
+              "Kuikupuza kalulo ni toloko ya litilica yeñozwi",
+              "Kubala ni kunyakisisa litilica yeñozwi yemwa sitopa",
+              "Kutosa lika zebonisa shutano",
+              "Kubeya litilica yeñozwi yebafilwe mwa litopa",
+              "Expected standard: Litopa linyakisiswe kakuluka"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "3.0",
+      "topic_title": "Manzwi ni lipulelo zeitusiswa mwa litilica (Literary terms and devices)",
+      "sub_topics": [
+        {
+          "subtopic_id": "3.1",
+          "title": "Mifuta ya manzwi ni lipulelo zeitusiswa mwa litilica (Types of literary terms)",
+          "page": 66,
+          "competences": [
+            "Bataluhanye mifuta ya manzwi ni lipulelo zeitusiswa mwa litilica"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 67,
+              "hook": null,
+              "teacher_steps": [
+                "Afe bana ba sikolo musebezi wakubatisisa kuli manzwi ni lipulelo zeitusiswa mwa litilica ki manzwi acwañi",
+                "Alaele bana ba sikolo kufa litaluso za likalabo zabona mwa Silozi",
+                "Abeleke ni bana ba sikolo kualunguta likalabo zebafumani",
+                "Aabele bana ba sikolo libuka zena ni literary terms and devices"
+              ],
+              "learner_steps": [
+                "Babatisise kuli manzwi ni lipulelo zeitusiswa mwa litilica ki likamañi",
+                "Bafe litaluso za likalabo zabona mwa Silozi",
+                "Baalungute likalabo zebafumani",
+                "Bafumane manzwi ni lipulelo mwa libuka zefilwe"
+              ],
+              "short_notes": "Kutosa mifuta ya manzwi aitusiswa mwa litilica. Types include: Allegory, Alliteration, Imagery, Satire, Irony, Simile, Metaphor, Onomatopoeia, Personification, Symbolism."
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 69,
+              "hook": null,
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya kuikupuza manzwi ni lipulelo",
+                "Afe bana ba sikolo musebezi wakubatisisa litoloko",
+                "Alaele bana ba sikolo kufa lipatisiso zabona za litoloko mwa Silozi",
+                "Abeleke ni bana ba sikolo kualunguta litoloko zefilwe"
+              ],
+              "learner_steps": [
+                "Baikupuze manzwi ni lipulelo zeitusiswa mwa litilica",
+                "Babatisise litoloko za manzwi ni lipulelo",
+                "Bafe lipatisiso zabona za litoloko mwa Silozi",
+                "Baalungute litoloko zefilwe ni kulumelelana"
+              ],
+              "short_notes": "Kutoloka mifuta. Simile: comparison using 'sina'/'inge'. Metaphor: direct comparison. Onomatopoeia: words imitating sounds. Personification: giving human qualities to non-human things. Irony: saying opposite of what is meant."
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 71,
+              "hook": null,
+              "teacher_steps": [
+                "Abeleke ni bana ba sikolo kubata manzwi ni lipulelo zenyalana ni zebaitutile",
+                "Alaele bana ba sikolo kufa mitala ya mifuta",
+                "Alaele bana ba sikolo kuekeza fa mitala yefilwe"
+              ],
+              "learner_steps": [
+                "Babate manzwi ni lipulelo zenyalana ni zebaitutile",
+                "Baekeze fa mitala yefilwe fa mufuta ni mufuta"
+              ],
+              "short_notes": "Kufa mitala. Examples from Silozi literature: 'Meeno sina muzilili' (simile), 'Licolocolo mbonyi ya siloko' (metaphor), 'Dwi-dwi-dwi' (onomatopoeia), 'Lizazi lamenyeza Lubasi' (personification)."
+            }
+          ],
+          "short_notes": "Literary terms and devices are special language techniques writers use to enhance expression and create deeper meaning. They include figures of speech like simile, metaphor, personification, and sound devices like onomatopoeia.",
+          "vocabulary": [
+            {
+              "term": "Allegory",
+              "definition": "Story with hidden symbolic meaning"
+            },
+            {
+              "term": "Yesheununa (Irony)",
+              "definition": "Saying opposite of what is meant"
+            },
+            {
+              "term": "Yebapanya (Simile)",
+              "definition": "Comparison using 'sina' or 'inge'"
+            },
+            {
+              "term": "Yeakaleza (Metaphor)",
+              "definition": "Direct comparison without 'like'"
+            },
+            {
+              "term": "Malikanyiso a milumo (Onomatopoeia)",
+              "definition": "Words imitating sounds"
+            },
+            {
+              "term": "Personification",
+              "definition": "Giving human qualities to non-human things"
+            },
+            {
+              "term": "Symbolism",
+              "definition": "Using one thing to represent another"
+            }
+          ],
+          "assessment": {
+            "page": 70,
+            "questions": [
+              "Kubatisisa kuli manzwi ni lipulelo zeitusiswa mwa litilica ki likamañi",
+              "Kufa litaluso za likalabo zabona mwa Silozi",
+              "Kualunguta likalabo zebafumani",
+              "Kufumana manzwi ni lipulelo mwa libuka zefilwe",
+              "Kuekeza fa mitala yefilwe fa mufuta ni mufuta",
+              "Expected standard: Mifuta litolokwe kakuluka"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "4.0",
+      "topic_title": "Likande - Lika zebupa likande (Story - Elements of a story)",
+      "sub_topics": [
+        {
+          "subtopic_id": "4.1",
+          "title": "Babanga kabelo mwa likande (Characterisation)",
+          "page": 74,
+          "competences": [
+            "Bataluhanye kamoo muñoli abeela babapali mwa likande"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 75,
+              "hook": null,
+              "teacher_steps": [
+                "Abeleke ni bana ba sikolo mwa ngambolo ya kutalusa characterization",
+                "Alaele bana ba sikolo kubatisisa toloko ya linzwi la characterization",
+                "Alaele bana ba sikolo kutalusa zebafumani mwa Silozi"
+              ],
+              "learner_steps": [
+                "Baikambote kamoo muñoli abeela babapali",
+                "Babatisise toloko ya characterization",
+                "Bataluse zebafumani mwa Silozi"
+              ],
+              "short_notes": "Kutalusa characterization. Characterization is how the writer creates and develops characters through their traits, actions, dialogue, and interactions."
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 76,
+              "hook": null,
+              "teacher_steps": [
+                "Abeleke ni bana ba sikolo mwa ngambolo ya mifuta ya babapali",
+                "Alaele bana ba sikolo kubatisisa mifuta ya babapali",
+                "Alaele bana ba sikolo kutoloka mifuta ya babapali"
+              ],
+              "learner_steps": [
+                "Baikambote mifuta ya babapali",
+                "Babatisise mifuta ya babapali",
+                "Batoloke mifuta ya babapali"
+              ],
+              "short_notes": "Kutoloka mifuta. Major character: central figure. Minor character: supporting role. Dynamic character: undergoes change. Static character: remains unchanged."
+            }
+          ],
+          "short_notes": "Characterisation involves how writers create and develop characters. Character types include Major (central), Minor (supporting), Dynamic (changing), and Static (unchanging). Each type serves specific narrative functions.",
+          "vocabulary": [
+            {
+              "term": "Character",
+              "definition": "Mubapali - person or being in a story"
+            },
+            {
+              "term": "Characterisation",
+              "definition": "Babanga kabelo - how characters are created"
+            },
+            {
+              "term": "Major Character",
+              "definition": "Mubapali yetuna - central character"
+            },
+            {
+              "term": "Minor Character",
+              "definition": "Mubapali yomunyani - supporting character"
+            },
+            {
+              "term": "Dynamic Character",
+              "definition": "Mubapali ya cinca-cinca - changing character"
+            },
+            {
+              "term": "Static Character",
+              "definition": "Mubapali yasacinci - unchanging character"
+            }
+          ],
+          "assessment": {
+            "page": 76,
+            "questions": [
+              "Kuikambota kamoo muñoli abeela babapali",
+              "Kubatisisa toloko ya characterization",
+              "Kutalusa zebafumani mwa Silozi",
+              "Kutoloka mifuta ya babapali",
+              "Kutosa mifuta ya babapali mwa makande",
+              "Expected standard: Musebezi wa mubapali unyakisiswe kakutala"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "4.2",
+          "title": "Molitatamela litaba zeinzi mwa likande (Plot)",
+          "page": 83,
+          "competences": [
+            "Banyakisise litaba zebupa likande lelifitiswa kakubulela ka mulomo"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 83,
+              "hook": null,
+              "teacher_steps": [
+                "Abeleke ni bana ba sikolo kubakenya mwa ngambolo ya kutaluso linzwi la plot",
+                "Alaele bana ba sikolo kufa litaluso zebafumani",
+                "Alaele bana ba sikolo kunyakisisa litaluso mwa Silozi"
+              ],
+              "learner_steps": [
+                "Baikambote ni kufitisa taluso ya plot",
+                "Bafe litaluso zebafumani",
+                "Banyakisise litaluso mwa Silozi"
+              ],
+              "short_notes": "Toloko ya plot. Students research and define plot as the sequence of events in a story."
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 84,
+              "hook": null,
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya pupeho ya likande",
+                "Alaele bana ba sikolo kualunguta pupeho ya litaba",
+                "Alaele bana ba sikolo kutalusa lipupeho za litaba"
+              ],
+              "learner_steps": [
+                "Baikambote kamoo litaba litatamanela",
+                "Baalungute pupeho ya litaba",
+                "Bataluse lipupeho za litaba"
+              ],
+              "short_notes": "Kutalusa pupeho. Plot features: Exposition (introduction), Rising Action (development), Climax (peak), Falling Action (aftermath), Resolution (conclusion)."
+            }
+          ],
+          "short_notes": "Plot is the sequence and organization of events in a story. It includes Exposition, Rising Action, Conflict, Climax, Falling Action, and Resolution. Understanding plot structure helps analyze how stories develop.",
+          "vocabulary": [
+            {
+              "term": "Plot",
+              "definition": "Molitatamela litaba - sequence of events"
+            },
+            {
+              "term": "Exposition",
+              "definition": "Makalelo - introduction of story elements"
+            },
+            {
+              "term": "Rising Action",
+              "definition": "Kutaha kwa butata - events building to climax"
+            },
+            {
+              "term": "Climax",
+              "definition": "Kuhohana - turning point of the story"
+            },
+            {
+              "term": "Falling Action",
+              "definition": "Kukusufala - events after climax"
+            },
+            {
+              "term": "Resolution",
+              "definition": "Kozo/Mafelelezo - story conclusion"
+            }
+          ],
+          "assessment": {
+            "page": 86,
+            "questions": [
+              "Kuikambota ni kufitisa taluso ya plot",
+              "Kufa litaluso zebafumani",
+              "Kunyakisisa litaluso mwa Silozi",
+              "Kualungute pupeho ya litaba",
+              "Kutalusa lipupeho za litaba",
+              "Expected standard: Lipupeho za litaba litalusiwe kakutala"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "4.3",
+          "title": "Sibaka ni nako koliezahalela likande (Setting)",
+          "page": 88,
+          "competences": [
+            "Banyakisise setting mwa likande lelikandekiwa"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1",
+              "page": 90,
+              "hook": null,
+              "teacher_steps": [
+                "Afe mwanaa sikolo kubalela babañwi likande",
+                "Abuze bana ba sikolo lipuzo zebatusa kutosa nako mwa likande",
+                "Akoñomeke litaba zeamana ni muitusisezo wa setting"
+              ],
+              "learner_steps": [
+                "Bateeleze likande katokomelo",
+                "Bataluhanye kuli likande liezahala lili",
+                "Bafe mabaka a likalabo kuzwelela mwa likande",
+                "Batose litaba zeamana ni nako ya mwa likande"
+              ],
+              "short_notes": "Kutosa lika zesupa nako mwa likande. Time can be: present, past, future; seasonal; historical period; or specific events."
+            },
+            {
+              "type": "activity",
+              "activity_number": "2",
+              "page": 93,
+              "hook": null,
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya kuikupuza lika zesupa setting",
+                "Afe mwanaa sikolo kubalela babañwi likande",
+                "Abuze bana ba sikolo lipuzo zeamana ni setting ya likande",
+                "Abeleke ni bana ba sikolo kualunguta likalabo"
+              ],
+              "learner_steps": [
+                "Baikupuze lika zesupa setting mwa likande",
+                "Bateeleze likande katokomelo",
+                "Baalungute likalabo zeamana ni setting ya likande"
+              ],
+              "short_notes": "Kutosa setting mwa likande lelifilwe. Students identify time, place, and atmosphere in given stories."
+            },
+            {
+              "type": "activity",
+              "activity_number": "3",
+              "page": 96,
+              "hook": null,
+              "teacher_steps": [
+                "Akenye bana ba sikolo mwa ngambolo ya kutatulula setting",
+                "Abeleke ni bana ba sikolo kualunguta zemwa likande zekona kuamiwa ki setting",
+                "Aitusise mitala ya makande kutoloka moo setting iama fa lika zeinzi",
+                "Abeleke ni bana ba sikolo kutatulula setting"
+              ],
+              "learner_steps": [
+                "Batoloke lika zemwa likande zekona kuamiwa ki setting",
+                "Bafe mitala yebonisa mikwa moo lika likona kuamiwa ki setting",
+                "Bateeleze likande lelibaliwa kapa kukandekiwa",
+                "Batose lika zekona kuamiwa ki setting",
+                "Babonise mitala yebonisa lika zekona kuamiwa ki setting"
+              ],
+              "short_notes": "Kutatulula setting mwa likande lelifilwe. Setting affects characters, themes, and plot development. Changes in setting can drive character development and plot progression."
+            }
+          ],
+          "short_notes": "Setting encompasses time (when) and place (where) a story occurs. It includes physical location, time period, season, social context, and atmosphere. Setting influences character development, plot, and themes.",
+          "vocabulary": [
+            {
+              "term": "Setting",
+              "definition": "Sibaka ni nako - time and place of story events"
+            },
+            {
+              "term": "Nako",
+              "definition": "Time - when events occur (present, past, future, season, era)"
+            },
+            {
+              "term": "Sibaka",
+              "definition": "Place - where events occur (location, environment)"
+            },
+            {
+              "term": "Pupeho ya sibaka",
+              "definition": "Physical characteristics of the place"
+            }
+          ],
+          "assessment": {
+            "page": 94,
+            "questions": [
+              "Kutaluhanye kuli likande liezahala lili",
+              "Kufa mabaka a likalabo kuzwelela mwa likande",
+              "Kutosa litaba zeamana ni nako ya mwa likande",
+              "Kutaluhanye kuli likande liezahalela kai",
+              "Kutosa litaba zeamana ni sibaka mwa likande",
+              "Kutatulula setting mwa likande lelifilwe",
+              "Expected standard: Setting itatubiwe ka swanelo mwa likande lelifilwe"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

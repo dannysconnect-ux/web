@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 1",
+    "subject": "Biology",
+    "philosophy": "Quality, life long education for all which is accessible, inclusive and relevant to individual, national and global needs. The Biology Syllabus is designed for learners pursuing Ordinary Secondary School level in Zambian schools. This is a Competence-Based syllabus which emphasises what the learners are expected to do as opposed to what they are expected to know. Through hands-on activities, learners will generate knowledge and life-long learning skills.",
+    "competence_learning": "The Biology Syllabus is designed for learners pursuing Ordinary Secondary School level in Zambian schools. This is a Competence-Based syllabus which emphasises what the learners are expected to do as opposed to what they are expected to know. Through hands-on activities, learners will generate knowledge and life-long learning skills. The course will provide an engaging and explorative journey designed to spark curiosity, nurture foundational skills, and instill love for learning in the young minds. In this course, there is a recognition that the learners are not empty vessels that have to be loaded with knowledge but come with prerequisites and prior knowledge. Therefore, the methods used in teaching them must take into consideration the fact that they have immense potential to create a dynamic and stimulating environment where they can joyfully discover the wonders of Biology. From the moment they begin to explore and discover the world around them, they engage in processes of observation, questioning, and experimentation. The syllabus aims to harness and tap into these innate abilities to provide a solid foundation for further studies in Biology related education and smooth transition to Advanced level Education.",
+    "goals": [
+      "Instill curiosity to nurture a sense of wonder by encouraging learners to be inquisitive, explore their surroundings, and make connections between the natural world and the biological concepts.",
+      "Build a foundation for biological thinking through interactive activities and play.",
+      "Introduce fundamental biological concepts such as patterns, measurement, sorting, manipulation, ordering and basic experiments. These experiences act as the future."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "1.1",
+      "topic_title": "1.1.1 Nature of Science Inquiry in Biology",
+      "page_number": 15,
+      "subtopics": [
+        "1.1.1 Nature of Science Inquiry in Biology"
+      ],
+      "specific_outcomes": [
+        "1.1.1.1 Apply scientific inquiry in carrying out scientific investigations"
+      ]
+    },
+    {
+      "unit": "1.1",
+      "topic_title": "1.1.2 Nature of Biology",
+      "page_number": 15,
+      "subtopics": [
+        "1.1.2 Nature of Biology"
+      ],
+      "specific_outcomes": [
+        "1.1.2.1 Categorise the study of Biology"
+      ]
+    },
+    {
+      "unit": "1.1",
+      "topic_title": "1.1.3 Levels of Biological Organisation",
+      "page_number": 15,
+      "subtopics": [
+        "1.1.3 Levels of Biological Organisation"
+      ],
+      "specific_outcomes": [
+        "1.1.3.1 Classify the levels of biological organisation from simple to complex"
+      ]
+    },
+    {
+      "unit": "1.1",
+      "topic_title": "1.1.4 Characteristics of Living Things",
+      "page_number": 15,
+      "subtopics": [
+        "1.1.4 Characteristics of Living Things"
+      ],
+      "specific_outcomes": [
+        "1.1.4.1 Analyse the characteristics of living things",
+        "1.1.4.2 Categorise life processes of living organisms"
+      ]
+    },
+    {
+      "unit": "1.2",
+      "topic_title": "1.2.1 Microscopes",
+      "page_number": 16,
+      "subtopics": [
+        "1.2.1 Microscopes"
+      ],
+      "specific_outcomes": [
+        "1.2.1.1 Use different types of microscopes to examine specimens"
+      ]
+    },
+    {
+      "unit": "1.2",
+      "topic_title": "1.2.2. Basic Cell Structure",
+      "page_number": 16,
+      "subtopics": [
+        "1.2.2. Basic Cell Structure"
+      ],
+      "specific_outcomes": [
+        "1.2.2.1 Explore the basic cell structure"
+      ]
+    },
+    {
+      "unit": "1.2",
+      "topic_title": "1.2.3. Types of Cells",
+      "page_number": 16,
+      "subtopics": [
+        "1.2.3. Types of Cells"
+      ],
+      "specific_outcomes": [
+        "1.2.3.1 Distinguish between eukaryotic and prokaryotic cells"
+      ]
+    },
+    {
+      "unit": "1.2",
+      "topic_title": "1.2.4 Cell Specialisation",
+      "page_number": 17,
+      "subtopics": [
+        "1.2.4 Cell Specialisation"
+      ],
+      "specific_outcomes": [
+        "1.2.4.1 Relate adaptive features of specialised cells to their functions"
+      ]
+    },
+    {
+      "unit": "1.3",
+      "topic_title": "1.3.1 Nutrition in Man",
+      "page_number": 17,
+      "subtopics": [
+        "1.3.1 Nutrition in Man"
+      ],
+      "specific_outcomes": [
+        "1.3.1.1 Classify types of food nutrients"
+      ]
+    },
+    {
+      "unit": "1.3",
+      "topic_title": "1.3.2 Dietary Needs of Different Persons",
+      "page_number": 17,
+      "subtopics": [
+        "1.3.2 Dietary Needs of Different Persons"
+      ],
+      "specific_outcomes": [
+        "1.3.2.1. Apply good eating practices for good health"
+      ]
+    },
+    {
+      "unit": "1.3",
+      "topic_title": "1.3.3 Plant Nutrients",
+      "page_number": 19,
+      "subtopics": [
+        "1.3.3 Plant Nutrients"
+      ],
+      "specific_outcomes": [
+        "1.3.3.1 Categorise types of plant nutrients"
+      ]
+    },
+    {
+      "unit": "1.3",
+      "topic_title": "1.3.4 Nutritional Deficiency Diseases and Disorders",
+      "page_number": 19,
+      "subtopics": [
+        "1.3.4 Nutritional Deficiency Diseases and Disorders"
+      ],
+      "specific_outcomes": [
+        "1.3.4.1 Recommend appropriate nutrients to address deficiency diseases and disorders in plants and human beings"
+      ]
+    },
+    {
+      "unit": "1.4",
+      "topic_title": "1.4.1 Reproduction in Living Organisms",
+      "page_number": 19,
+      "subtopics": [
+        "1.4.1 Reproduction in Living Organisms"
+      ],
+      "specific_outcomes": [
+        "1.4.1.1 Demonstrate understanding of how living organisms reproduce"
+      ]
+    },
+    {
+      "unit": "1.4",
+      "topic_title": "1.4.2 Reproduction and Development in Human Beings",
+      "page_number": 20,
+      "subtopics": [
+        "1.4.2 Reproduction and Development in Human Beings"
+      ],
+      "specific_outcomes": [
+        "1.4.2.1 Demonstrate understanding of reproductive system in human beings"
+      ]
+    },
+    {
+      "unit": "1.4",
+      "topic_title": "1.4.3 Reproduction in Viruses, Protozoa, Bacteria and Fungi",
+      "page_number": 21,
+      "subtopics": [
+        "1.4.3 Reproduction in Viruses, Protozoa, Bacteria and Fungi"
+      ],
+      "specific_outcomes": [
+        "1.4.3.1 Demonstrate understanding of reproduction in viruses, protozoa, bacteria and fungi"
+      ]
+    },
+    {
+      "unit": "1.5",
+      "topic_title": "1.5.1 Coordination and Response in Plants",
+      "page_number": 21,
+      "subtopics": [
+        "1.5.1 Coordination and Response in Plants"
+      ],
+      "specific_outcomes": [
+        "1.5.1.1 Explore tropisms in plants and their relevance"
+      ]
+    },
+    {
+      "unit": "1.5",
+      "topic_title": "1.5.2 Coordination and Response in Animals",
+      "page_number": 21,
+      "subtopics": [
+        "1.5.2 Coordination and Response in Animals"
+      ],
+      "specific_outcomes": [
+        "1.5.2.1 Explore taxic responses in invertebrates and their relevance"
+      ]
+    },
+    {
+      "unit": "1.6",
+      "topic_title": "1.6.1 Ecosystem",
+      "page_number": 21,
+      "subtopics": [
+        "1.6.1 Ecosystem"
+      ],
+      "specific_outcomes": [
+        "1.6.1.1 Explore features of ecosystems in the local environment"
+      ]
+    },
+    {
+      "unit": "1.6",
+      "topic_title": "1.6.2 Biotic and Abiotic Interactions",
+      "page_number": 23,
+      "subtopics": [
+        "1.6.2 Biotic and Abiotic Interactions"
+      ],
+      "specific_outcomes": [
+        "1.6.2.1 Interpret biotic and abiotic interactions"
+      ]
+    },
+    {
+      "unit": "1.6",
+      "topic_title": "1.6.3 Waste Management",
+      "page_number": 23,
+      "subtopics": [
+        "1.6.3 Waste Management"
+      ],
+      "specific_outcomes": [
+        "1.6.3.1 Manage waste in the local environment"
+      ]
+    },
+    {
+      "unit": "1.6",
+      "topic_title": "1.6.4 The Soil - Composition and Fertility",
+      "page_number": 23,
+      "subtopics": [
+        "1.6.4 The Soil - Composition and Fertility"
+      ],
+      "specific_outcomes": [
+        "1.6.4.1 Analyse soil composition and fertility"
+      ]
+    }
+  ]
+}

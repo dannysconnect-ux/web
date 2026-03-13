@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "12",
+    "subject": "Mathematics",
+    "philosophy": "Quality, lifelong education for all which is accessible, inclusive and relevant to individual, national and global needs and value systems.",
+    "competence_learning": "Assimilate necessary mathematical concepts for use in everyday life such as environment and other related disciplines. Thank mathematically and accurately in problem solving skills and apply these skills to formulate and solve mathematical and other related problems. Develop necessary skills needed to apply mathematical concepts and skills in other disciplines. Produce imaginative and creative work from mathematical concepts and ideas. Develop abilities and ideas drawn from mathematics to reason logically, communicate mathematically, and learn independently without too much supervision (self-discipline). Development positive attitudes towards mathematics and use it in other subjects such as science and technology. Apply mathematical tools such as information and communication technology in the learning of other subjects. Use mathematics for enjoyment and pleasure. Develop understanding of algebra, geometry, measurements and shapes.",
+    "goals": [
+      "Provide clear mathematical thinking and expression in the learner",
+      "Develop the learners' mathematical knowledge and skills",
+      "Enrich the learners' understanding of mathematical concepts in order to facilitate further study of the discipline",
+      "Build up an appreciation of mathematical concepts so that the learner can apply these for problem solving in everyday life.",
+      "Enable the learner represent, interpret and use data in a variety of forms",
+      "Inculcate a desire to develop different career paths in the learners"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "12.1",
+      "topic_title": "GRAPHS OF FUNCTIONS",
+      "page_number": 25,
+      "subtopics": [
+        "12.1.1 Cubic functions",
+        "12.1.2 Inverse functions"
+      ],
+      "specific_outcomes": [
+        "12.1.1.1 Draw graphs of cubic functions",
+        "12.1.1.2 Use graphs to find solutions",
+        "12.1.1.3 Determine gradients of curves",
+        "12.1.1.4 Estimate areas under curves",
+        "12.1.2.1 Draw graphs of inverse functions",
+        "12.1.2.2 Application of graphs of functions"
+      ]
+    },
+    {
+      "unit": "12.2",
+      "topic_title": "LINEAR PROGRAMMING",
+      "page_number": 25,
+      "subtopics": [
+        "12.2.1 Linear programming"
+      ],
+      "specific_outcomes": [
+        "12.2.1.2 Draw graphs of linear equations and inequations in one and two variables (as a recap)",
+        "12.2.1.3 Shade the wanted and unwanted regions",
+        "12.2.1.3 Describe the wanted or unwanted regions.",
+        "12.2.1.3 Determine maximum and minimum values",
+        "12.2.1.4 Use the search line to determine the maximum and minimum values",
+        "12.2.1.5 Apply knowledge of linear programming in real life"
+      ]
+    },
+    {
+      "unit": "12.3",
+      "topic_title": "TRAVEL GRAPHS",
+      "page_number": 26,
+      "subtopics": [
+        "12.3.1 Velocity - time graphs (Curves)"
+      ],
+      "specific_outcomes": [
+        "12.3.1.1 Calculate the displacement in a velocity - time graph"
+      ]
+    },
+    {
+      "unit": "12.4",
+      "topic_title": "VECTORS IN TWO DIMENSIONS",
+      "page_number": 26,
+      "subtopics": [
+        "12.4.1 Introduction to vectors",
+        "12.4.2 Addition and subtraction",
+        "12.4.3 Translations",
+        "12.4.4 Scalar multiplication",
+        "12.4.5 Collinearity",
+        "12.4.6 Vector geometry"
+      ],
+      "specific_outcomes": [
+        "12.4.1.1 Describe a vector",
+        "12.4.1.2 Represent and denote a vector",
+        "12.4.2.1 Add and subtract vectors",
+        "12.4.3.1 Apply translations on vectors and find magnitude",
+        "12.4.4.1 Multiply vectors by scalars",
+        "12.4.5.1 Determine collinearity of points",
+        "12.4.6.1 Solve geometrical problems involving vectors"
+      ]
+    },
+    {
+      "unit": "12.5",
+      "topic_title": "GEOMETRICAL TRANSFORMATIONS",
+      "page_number": 27,
+      "subtopics": [
+        "12.5.1 Introduction to transformation",
+        "12.5.2 Translation",
+        "12.5.3 Reflection.",
+        "12.5.4 Rotation.",
+        "12.5.5 Enlargement",
+        "12.5.6 Stretch",
+        "12.5.7 Shear",
+        "12.5.8 Combined transformations"
+      ],
+      "specific_outcomes": [
+        "12.5.1.1 Explain the concept of transformation",
+        "12.5.2.1 Use a column vector to translate an object",
+        "12.5.3.1 Reflect objects by different methods",
+        "12.5.4.1 Rotate objects by different methods",
+        "12.5.5.1 Enlarge objects by different methods",
+        "12.5.6.2 Stretch objects by different methods",
+        "12.5.6.3 Shear objects by different methods",
+        "12.5.8.1 Solve problems involving combined transformations",
+        "12.5.8.2 Find area scale factors of a stretch by determinant method"
+      ]
+    },
+    {
+      "unit": "12.6",
+      "topic_title": "EARTH GEOMETRY",
+      "page_number": 28,
+      "subtopics": [
+        "12.6.1 Introduction to Earth Geometry",
+        "12.6.2 Small and great circles",
+        "12.6.3 Latitudes and Longitudes",
+        "12.6.4 Distance along latitudes and longitudes",
+        "12.6.5 Speed in Knots and time"
+      ],
+      "specific_outcomes": [
+        "12.6.1.1 Explain the concept of Earth Geometry",
+        "12.6.2.1 Distinguish between small and great circles",
+        "12.6.3.1 Calculate distance along parallels of latitudes and longitude in kilometres and nautical miles",
+        "12.6.3.2 Calculate the shortest distance between two points on the surface of the earth",
+        "12.6.5.1 Calculate speed in knots and time"
+      ]
+    },
+    {
+      "unit": "12.7",
+      "topic_title": "INTRODUCTION TO CALCULUS",
+      "page_number": 29,
+      "subtopics": [
+        "12.7.1 Differentiation",
+        "12.7.2 Integration"
+      ],
+      "specific_outcomes": [
+        "12.7.1.1 Explain concept of differentiation",
+        "12.7.1.3 Differentiate functions from first principles.",
+        "12.7.1.4 Use the formula for differentiation",
+        "12.7.1.8 Calculate equations of tangents and normals",
+        "12.7.2.1 Explain integration",
+        "12.7.2.3 Find Indefinite integrals",
+        "12.7.2.2 Evaluate simple definite integrals",
+        "12.7.2.3 Find the area under the curve"
+      ]
+    }
+  ]
+}

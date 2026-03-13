@@ -1,0 +1,119 @@
+{
+  "curriculum": "Zambia ECZ Computer Studies Syllabus (Grades 10-12)",
+  "grades": [
+    {
+      "grade": 10,
+      "topics": [
+        {
+          "topic": "10.4 Operating Systems",
+          "subtopics": [
+            "10.4.1 Peripheral devices and data integrity"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate file management including backup, restore, and managing folders/files."
+          ]
+        },
+        {
+          "topic": "10.5 Presentation Packages",
+          "subtopics": [
+            "10.5.1 Introduction to Presentation Packages",
+            "10.5.2 Creating slides",
+            "10.5.3 Adding animations to slides",
+            "10.5.4 Formatting Slides"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate the various methods of creating slides.",
+            "Demonstrate the steps to add animations to slides.",
+            "Demonstrate how to format slides effectively."
+          ]
+        },
+        {
+          "topic": "10.8 Computer Security",
+          "subtopics": [
+            "10.8.1 Security terminology",
+            "10.8.2 Security layers",
+            "10.8.3 Security Concerns"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate the implementation of security measures and application of security to computers and peripherals."
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 11,
+      "topics": [
+        {
+          "topic": "11.1 Programming and Pseudo Code Algorithms",
+          "subtopics": [
+            "11.1.1 Computer programming",
+            "11.1.2 Algorithm Development"
+          ],
+          "practical_and_experimental_content": [
+            "Produce an algorithm for a given problem in pseudo code using a variety of structures (totalling and counting).",
+            "Produce loops and decision making in a program (e.g., Repeat...until, if...then...else).",
+            "Use a dry run with a trace table and test data to understand the behaviour of code."
+          ]
+        },
+        {
+          "topic": "11.2 Logic Gates and Web Development",
+          "subtopics": [
+            "11.2.1 Logic Gates",
+            "11.2.2 Web Pages"
+          ],
+          "practical_and_experimental_content": [
+            "Produce a truth table for a given logic circuit.",
+            "Design a simple logic circuit to provide a solution to a written logical statement of a problem.",
+            "Create Web Pages using templates (HTML and Design windows).",
+            "Import text and pictures into a web page."
+          ]
+        },
+        {
+          "topic": "11.4 Types of Computer Systems",
+          "subtopics": [
+            "11.4.3 Computer systems for specific applications",
+            "11.4.4 Expert systems and AI",
+            "11.4.5 Management of computer systems"
+          ],
+          "practical_and_experimental_content": []
+        },
+        {
+          "topic": "11.6 Social and Economic Impact of Computers",
+          "subtopics": [
+            "11.6.1 Effects of Computer use on people and organisation",
+            "11.6.2 Maintenance of integrity of data and privacy",
+            "11.6.4 Threats to computer security and measures to combat them"
+          ],
+          "practical_and_experimental_content": []
+        }
+      ]
+    },
+    {
+      "grade": 12,
+      "topics": [
+        {
+          "topic": "12.1 Algorithms",
+          "subtopics": [
+            "12.1.1 Algorithm planning and design"
+          ],
+          "practical_and_experimental_content": [
+            "Describe and use tools to design programs and algorithms.",
+            "Design, interpret, and test algorithms."
+          ]
+        },
+        {
+          "topic": "12.3 Computer Project",
+          "subtopics": [
+            "12.3.1 Project planning, database development and systems development"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate practical skills in software project planning.",
+            "Use simple programming (e.g., SQL, Pascal, C++) to develop database systems.",
+            "Write a comprehensive computer system report relating to the stages of system analysis and design.",
+            "Demonstrate the final working System Product (software) to solve a specific problem."
+          ]
+        }
+      ]
+    }
+  ]
+}

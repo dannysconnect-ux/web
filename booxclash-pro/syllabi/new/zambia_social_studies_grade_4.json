@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "4",
+    "subject": "Social Studies",
+    "philosophy": "The Upper Primary Social Studies Syllabus, Grade 4 to 6, covers components of Civic Education, Geography, History and Religious Education. The Syllabus integrates cross-cutting issues such as national values and principles, life skills and health education, corruption, governance which are aimed at shaping the moral up-bringing of a leaner. Education is a vehicle through which a morally democratic learner should be developed. Thus, Social Studies is expected to be the mirror through which Zambian society should see itself in its quest and dedication to promote and perpetuate its social skills, beliefs, values, and traditions. Social Studies is a learning area that covers a number of aspects that include human behaviour, relationships, institutions, and resources. The learning area enables learners to use the acquired knowledge and skills to enable greater understanding of themselves, others, societies, institutions, nations, and environments.",
+    "competence_learning": "This new curriculum emphasises that the learner should be at the centre of the education process. Therefore, it is envisioned that the learners should acquire essential competences; and think reflectively, logically, scientifically, creatively and critically so as to promote the formation of positive social behaviour and a socially desirable attitude. It is desired that the learner should have an education that will shape the development of a personally held set of civic, moral, and spiritual values as well as further the acquisition of knowledge and understanding of Zambia's democratic and cultural institutions.",
+    "goals": [
+      "Quality, life long education for all which is accessible, inclusive and relevant to individual, national and global needs and value systems"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "4.1",
+      "topic_title": "FAMILY",
+      "page_number": 3,
+      "subtopics": [
+        "Members of the Family",
+        "Roles of Family Members",
+        "Family in Different Religions"
+      ],
+      "specific_outcomes": [
+        "Demonstrate understanding of relationships in families",
+        "Express sympathy and empathy to others",
+        "Show understanding of family values",
+        "Perform one's roles in a family",
+        "Examine teachings about family in different religions"
+      ]
+    },
+    {
+      "unit": "4.2",
+      "topic_title": "MAPS AND DIRECTION",
+      "page_number": 4,
+      "subtopics": [
+        "Location of Places in the Community"
+      ],
+      "specific_outcomes": [
+        "Draw simple maps of the local community",
+        "Use knowledge of cardinal and inter cardinal points to locate places in the community"
+      ]
+    },
+    {
+      "unit": "4.3",
+      "topic_title": "GOVERNANCE",
+      "page_number": 14,
+      "subtopics": [
+        "Human Rights",
+        "Obligations and Duties of Citizens",
+        "Child Abuse"
+      ],
+      "specific_outcomes": [
+        "Recognise one's Rights",
+        "Demonstrate Patriotism for one's country",
+        "Report child abuse"
+      ]
+    },
+    {
+      "unit": "4.4",
+      "topic_title": "LEARNING ABOUT THE PAST",
+      "page_number": 15,
+      "subtopics": [
+        "Importance of Learning About the Past",
+        "Ways of Learning About the Past"
+      ],
+      "specific_outcomes": [
+        "Show respect for cultural and historical identities",
+        "Gather information about the past"
+      ]
+    },
+    {
+      "unit": "4.5",
+      "topic_title": "TRANSPORT AND COMMUNICATION",
+      "page_number": 16,
+      "subtopics": [
+        "Forms of Transport and Communication Services"
+      ],
+      "specific_outcomes": [
+        "Recognise different forms of transport and communication services",
+        "Use digital communication tools responsibly"
+      ]
+    },
+    {
+      "unit": "4.6",
+      "topic_title": "WEATHER AND CLIMATE",
+      "page_number": 17,
+      "subtopics": [
+        "Elements of Weather and Climate"
+      ],
+      "specific_outcomes": [
+        "Use appropriate instruments to measure weather and climate"
+      ]
+    },
+    {
+      "unit": "4.7",
+      "topic_title": "ENVIRONMENT",
+      "page_number": 18,
+      "subtopics": [
+        "Natural Resource Management"
+      ],
+      "specific_outcomes": [
+        "Manage natural resources"
+      ]
+    },
+    {
+      "unit": "4.8",
+      "topic_title": "ENTREPRENEURSHIP",
+      "page_number": 18,
+      "subtopics": [
+        "Benefits of Entrepreneurship",
+        "Types of Businesses"
+      ],
+      "specific_outcomes": [
+        "Explore benefits of entrepreneurship",
+        "Identify types of businesses"
+      ]
+    },
+    {
+      "unit": "4.9",
+      "topic_title": "LEARNING ABOUT MONEY",
+      "page_number": 19,
+      "subtopics": [
+        "Impulse Buying",
+        "Budgeting"
+      ],
+      "specific_outcomes": [
+        "Manage impulse buying",
+        "Prepare budget."
+      ]
+    }
+  ]
+}

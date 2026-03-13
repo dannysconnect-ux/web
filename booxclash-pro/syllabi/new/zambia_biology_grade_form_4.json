@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 4",
+    "subject": "Biology",
+    "philosophy": "",
+    "competence_learning": "",
+    "goals": []
+  },
+  "topics": [
+    {
+      "unit": "4.1.0",
+      "topic_title": "Concepts and Method in Biology",
+      "page_number": 52,
+      "subtopics": [
+        "4.1.1 Research Project in Biology"
+      ],
+      "specific_outcomes": [
+        "Research project conducted accordingly"
+      ]
+    },
+    {
+      "unit": "4.2.0",
+      "topic_title": "Principles of Cellular Life",
+      "page_number": 52,
+      "subtopics": [
+        "4.2.1 Cell Division"
+      ],
+      "specific_outcomes": [
+        "Understanding of the process of cell division demonstrated accordingly"
+      ]
+    },
+    {
+      "unit": "4.3.0",
+      "topic_title": "Maintenance of the Organism",
+      "page_number": 52,
+      "subtopics": [
+        "4.3.1 Excretion in Plants and Animals",
+        "4.3.2 Homeostasis in Human Beings"
+      ],
+      "specific_outcomes": [
+        "Mechanism of excretion in plants and animals explored accordingly",
+        "Mechanism of the process of homeostasis in human beings analysed accordingly"
+      ]
+    },
+    {
+      "unit": "4.4.0",
+      "topic_title": "Continuity of Life",
+      "page_number": 54,
+      "subtopics": [
+        "4.4.1 Heredity"
+      ],
+      "specific_outcomes": [
+        "Understanding of inheritance of traits in plants and animals demonstrated correctly",
+        "Variation in plants and animals explored correctly"
+      ]
+    },
+    {
+      "unit": "4.5.0",
+      "topic_title": "Coordination and Response",
+      "page_number": 56,
+      "subtopics": [
+        "4.5.1 Sense Organs in Human Beings",
+        "4.5.2 The Skeletal System"
+      ],
+      "specific_outcomes": [
+        "Sense organs in human beings analysed accordingly",
+        "Structure and composition of skeletons examined accordingly"
+      ]
+    },
+    {
+      "unit": "4.6.0",
+      "topic_title": "Ecological Relationship and Evolution",
+      "page_number": 61,
+      "subtopics": [
+        "4.6.1 Biodiversity",
+        "4.6.2 Conservation of Natural Resources",
+        "4.6.3 Natural Selection",
+        "4.6.4 Evolution"
+      ],
+      "specific_outcomes": [
+        "Biodiversity in the environment conserved accordingly",
+        "Sustainable use of natural resources in the local environment practised appropriately",
+        "Principles of natural selection in real world applied accordingly",
+        "Process of evolution explored correctly"
+      ]
+    }
+  ]
+}

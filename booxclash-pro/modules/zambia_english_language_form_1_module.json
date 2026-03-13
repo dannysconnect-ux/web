@@ -1,0 +1,1459 @@
+{
+    "subject": "English Language",
+    "grade": "Form 1",
+    "term": 3,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "FINANCIAL EDUCATION",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "DIRECTIONS - Giving Directions",
+                    "page": 1,
+                    "competences": [
+                        "Use appropriate language (verbal and non-verbal) in different situations",
+                        "Express oneself (spoken and written) clearly and effectively",
+                        "Give directions"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.1",
+                            "page": 1,
+                            "hook": "What did you do when you needed to find a place but did not know its location?",
+                            "teacher_steps": [
+                                "Pair learners and introduce common phrases they can use when asking for directions",
+                                "Explain that clear directions improve accessibility, prevent confusion, and save time, especially in emergencies",
+                                "Guide learners to practise giving directions using appropriate language",
+                                "Organise a role-play where learners work in pairs using the dialogue about asking for directions to a mobile money agent",
+                                "Allow partners to give feedback on pronunciation and clarity (peer assessment)",
+                                "Assign a project-based task where learners create a simple map of their town or community"
+                            ],
+                            "learner_steps": [
+                                "Practice using common phrases for asking directions: 'Excuse me, how do I get to the bank?', 'Excuse me, where is the nearest ATM?'",
+                                "Practice giving directions using appropriate language: 'Go straight ahead until you reach the bank', 'Turn left at the intersection'",
+                                "Take turns asking and giving directions using the dialogue",
+                                "Create a simple map indicating key financial institutions, mobile money agents, shops, and markets",
+                                "Give an oral presentation describing how to get to locations using proper language"
+                            ],
+                            "short_notes": "Directions are instructions or guidelines that help individuals navigate from one place to another or complete a specific task. Being able to give clear and accurate directions is an important communication skill. Learners will learn common phrases and vocabulary used for giving directions, explore how to give directions politely and ensure they are easy to understand."
+                        }
+                    ],
+                    "short_notes": "Directions are instructions or guidelines that help individuals navigate from one place to another. Understanding and following directions is an essential skill in daily life, as it ensures clarity, efficiency, and accuracy in movement and communication.",
+                    "vocabulary": [
+                        {
+                            "term": "Directions",
+                            "definition": "Instructions that guide someone to a specific location"
+                        },
+                        {
+                            "term": "Intersection",
+                            "definition": "A point where two or more roads cross or meet"
+                        },
+                        {
+                            "term": "Landmark",
+                            "definition": "A recognisable feature or structure that helps people identify a location"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 3,
+                        "questions": [
+                            "Observe learners as they use appropriate language when asking for and giving directions",
+                            "Learners should interpret maps correctly and give directions accurately"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "COMPREHENSION - Listening Comprehension",
+                    "page": 4,
+                    "competences": [
+                        "Respect the views of group members while working together",
+                        "Listen to other group members and make meaningful contribution to a given task",
+                        "Apply good Listening and Speaking Skills",
+                        "Grasp and break down information and effectively share with others",
+                        "Listen and comprehend information"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.1",
+                            "page": 5,
+                            "hook": "Imagine trying to follow instructions in an emergency and misunderstanding them",
+                            "teacher_steps": [
+                                "Explain to learners that listening requires concentration and the ability to filter main ideas from supporting details",
+                                "Read the story 'Kalulu and Suntwe: The Wisdom of the Calabash Bank'",
+                                "Tell learners to listen without writing and focus on the speaker, maintain silence, and mentally note key ideas",
+                                "Put learners in small groups and ask them to retell the story and discuss the main subject",
+                                "Give learners a table and ask them to fill it in during the second reading of the passage",
+                                "After reading, ask learners to respond to both open and closed questions"
+                            ],
+                            "learner_steps": [
+                                "Listen to the passage without writing, focusing on the speaker and mentally noting key ideas",
+                                "Retell the story and reconstruct the passage using their own words",
+                                "Identify the main idea and supporting points",
+                                "Fill in the table extracting specific details during the second reading",
+                                "Answer comprehension questions demonstrating understanding by recalling facts, making inferences, and expressing opinions"
+                            ],
+                            "short_notes": "Listening comprehension refers to the ability to understand spoken language. It plays a crucial role in academic settings and daily communication. Through listening comprehension, learners build vocabulary, develop critical thinking, listening skills and gain knowledge. Model passage: 'Kalulu and Suntwe: The Wisdom of the Calabash Bank' - a story about a rabbit who spends money freely versus a tortoise who saves wisely in a calabash bank."
+                        }
+                    ],
+                    "short_notes": "Comprehension is an active process of understanding spoken or written information. It is important for real-life tasks, like following instructions, having conversations, and interpreting information. Listening comprehension involves paying attention, understanding, and recalling spoken information.",
+                    "vocabulary": [
+                        {
+                            "term": "Comprehension",
+                            "definition": "The ability to understand and interpret spoken or written language"
+                        },
+                        {
+                            "term": "Listening",
+                            "definition": "Actively paying attention to sounds and making sense of them"
+                        },
+                        {
+                            "term": "Retelling",
+                            "definition": "Recounting a story or passage in one's own words"
+                        },
+                        {
+                            "term": "Main Idea",
+                            "definition": "The central point or message in a passage"
+                        },
+                        {
+                            "term": "Supporting Details",
+                            "definition": "Facts or examples that explain or reinforce the main idea"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 8,
+                        "questions": [
+                            "Observe maximum participation in the activities",
+                            "Learners should demonstrate understanding of each learning activity through the activities conducted",
+                            "Learners to fill in a table while the passage is being read",
+                            "Learners to answer comprehension questions based on the given passage"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "DESCRIPTIVE WRITING - Describing an Object",
+                    "page": 9,
+                    "competences": [
+                        "Express oneself (spoken and written) clearly and effectively",
+                        "Communicate and relate effectively with others",
+                        "Organise information and ideas",
+                        "Ensure opinions are based on facts",
+                        "Write a description of an object"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.1",
+                            "page": 10,
+                            "hook": "How would you describe a K100 note to a friend from a foreign country?",
+                            "teacher_steps": [
+                                "Divide learners into groups and provide them with a descriptive passage to read (The Banking System and the Importance of Saving Money)",
+                                "Explain to learners that descriptive writing uses sensory details, adjectives, and clear structure",
+                                "In groups, guide learners to discuss essential elements of descriptive writing (physical appearance, size, colour, location, function)",
+                                "Ask learners to practise using nouns, adjectives, adverbs, and sensory words to describe objects",
+                                "Guide learners through completing guided exercises adding vivid language",
+                                "Supervise as learners complete short guided descriptive compositions",
+                                "Provide peer review and teacher feedback on descriptive clarity, vocabulary use, and coherence"
+                            ],
+                            "learner_steps": [
+                                "Read the model descriptive passage about a banking system",
+                                "Identify descriptive features in the model text and discuss their effectiveness",
+                                "Present at least ten descriptive words used in the text",
+                                "Practice using nouns, adjectives, adverbs, and sensory words to describe three objects of choice",
+                                "Complete guided exercises adding vivid language to sentences",
+                                "Write short descriptive compositions of objects (mobile money booth, ATM, bakery)",
+                                "Participate in peer review of compositions"
+                            ],
+                            "short_notes": "Describing an object involves using words to give a clear and detailed picture of its appearance, texture, size, shape, colour, and other features. Good descriptions use sensory details, such as how the object feels to the touch, how it smells, or the sounds it makes. Learners will practice observing objects closely and choosing the right words to make their descriptions more vivid."
+                        }
+                    ],
+                    "short_notes": "Descriptive writing is an essential skill in both personal and professional contexts, as it allows individuals to vividly convey experiences, emotions, and observations to others. In real life, effective descriptive writing helps people communicate more clearly and persuasively.",
+                    "vocabulary": [
+                        {
+                            "term": "Description",
+                            "definition": "A detailed explanation of how something looks, feels, or functions, using specific words to create a clear image"
+                        },
+                        {
+                            "term": "Vivid",
+                            "definition": "Clear, strong, and detailed, making descriptions more engaging and easier to imagine"
+                        },
+                        {
+                            "term": "Sensory",
+                            "definition": "Related to the five senses (sight, sound, smell, taste, and touch) used to create rich descriptions"
+                        },
+                        {
+                            "term": "Object",
+                            "definition": "A physical thing that can be seen and touched, often described by its shape, size, colour, and texture"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 13,
+                        "questions": [
+                            "Observe that every learner is able to identify descriptive words in texts",
+                            "Learners to describe objects"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4",
+                    "title": "CONTRAST - Using 'But' and 'Yet' to Show Contrast",
+                    "page": 14,
+                    "competences": [
+                        "Use appropriate language (verbal and non-verbal) in different situations",
+                        "Express oneself (spoken and written) clearly and effectively",
+                        "Organise information and ideas effectively",
+                        "Become more open minded towards different views",
+                        "Use 'but' and 'yet' to show contrast in sentences"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.1",
+                            "page": 15,
+                            "hook": "How would you describe a situation where one thing is similar but different from another?",
+                            "teacher_steps": [
+                                "Introduce 'but' and 'yet' with examples and discuss their usage in sentences",
+                                "Display sentence strips and charts with example sentences",
+                                "Ask learners to examine given sentences and identify the role of 'but' and 'yet' in connecting contrasting ideas",
+                                "Write sentences containing 'but' and 'yet' and highlight the main clause and contrasting clause",
+                                "Explain comma placement before 'but' and 'yet' and provide incorrect and correct sentence examples",
+                                "Guide learners to construct sentences using 'but' and 'yet'"
+                            ],
+                            "learner_steps": [
+                                "Examine given sentences and identify the role of 'but' and 'yet'",
+                                "Break down sentences into main and contrasting clauses in groups and discuss their meanings",
+                                "Correct punctuation in given sentences in groups",
+                                "Construct sentences using 'but' and 'yet' with variety in sentence structures"
+                            ],
+                            "short_notes": "'But' and 'Yet' are conjunctions used to combine two contrasting ideas in a sentence. 'But' introduces an unexpected or opposite idea. 'Yet' is similar to 'but' but can imply a stronger contrast or a surprising twist. A main clause has a complete thought. A contrast clause introduces an unexpected idea."
+                        }
+                    ],
+                    "short_notes": "Contrast is an important concept in the English language that helps express differences between ideas, events, or situations. In writing and speaking, contrast allows for clearer communication by highlighting opposing thoughts. Understanding contrast helps improve sentence structure and express thoughts more effectively.",
+                    "vocabulary": [
+                        {
+                            "term": "Contrast",
+                            "definition": "A difference between two ideas"
+                        },
+                        {
+                            "term": "Conjunction",
+                            "definition": "A word that connects sentences, other words or clauses"
+                        },
+                        {
+                            "term": "Main Clause",
+                            "definition": "A group of words that can stand on its own"
+                        },
+                        {
+                            "term": "Dependent Clause",
+                            "definition": "A group of words that cannot stand on its own"
+                        },
+                        {
+                            "term": "Punctuation Mark",
+                            "definition": "Symbols used in writing to clarify meaning and indicate pauses"
+                        },
+                        {
+                            "term": "Opposing Ideas",
+                            "definition": "Two statements that contradict each other"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 17,
+                        "questions": [
+                            "Learners construct sentences using 'but' and 'yet' correctly",
+                            "Learners correctly punctuate sentences with contrast conjunctions",
+                            "Learners explain why 'but' or 'yet' is used in a given sentence",
+                            "Class Project: Learners select ten best written sentences, write them on chart and display on classroom wall"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.5",
+                    "title": "SHORT MESSAGES - Short Message System (SMS)",
+                    "page": 18,
+                    "competences": [
+                        "Express oneself (spoken and written) clearly and effectively",
+                        "Express oneself using different media and symbols",
+                        "Analyse texts to improve the ability to understand",
+                        "Use Short Message System (SMS) in summary"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5.1",
+                            "page": 19,
+                            "hook": "Imagine you have only three words to send a congratulatory message to your best friend or family member. What words would you choose?",
+                            "teacher_steps": [
+                                "In pairs/groups, ask learners to analyse different SMS samples and identify their key features",
+                                "Explain that SMS usually has limited characters, should be concise and clear, and should use appropriate language",
+                                "Ask learners to provide common abbreviations and symbols used to shorten messages",
+                                "Provide learners with mobile phones or design phone interfaces on plain papers",
+                                "Guide learners to practise writing SMS messages for different situations",
+                                "Provide content tips for writing effective SMS"
+                            ],
+                            "learner_steps": [
+                                "Analyse different SMS samples and identify their key features in pairs/groups",
+                                "Provide common abbreviations and symbols that shorten messages (e.g., 'U' for 'you', 'BRB' for 'be right back')",
+                                "Practice writing SMS messages using abbreviations, symbols, and clear language",
+                                "Write at least three SMS messages for different situations (advising a friend, reporting corruption, confirming a meeting)"
+                            ],
+                            "short_notes": "SMS is a text messaging service that allows people to send and receive short text messages on mobile devices. The key to writing an effective SMS is keeping it short while ensuring clarity. The ability to write clear and effective short messages is crucial in daily life, including business communication, emergency alerts, and social interactions."
+                        }
+                    ],
+                    "short_notes": "Short messages are a quick and effective way to communicate important information in everyday life. Whether sending reminders, invitations, or urgent updates, short messages must be clear and to the point. Learners will learn to use abbreviations, symbols, and proper formatting to make messages easier to read.",
+                    "vocabulary": [
+                        {
+                            "term": "Short Message System (SMS)",
+                            "definition": "A text messaging service that allows people to send and receive short text messages on mobile devices"
+                        },
+                        {
+                            "term": "Abbreviations",
+                            "definition": "Shortened forms of words or phrases used to save space in SMS"
+                        },
+                        {
+                            "term": "Acronyms",
+                            "definition": "A type of abbreviation formed from the initial letters of words, often pronounced as a single word"
+                        },
+                        {
+                            "term": "Symbols",
+                            "definition": "Special characters or pictograms used to represent words or emotions in short messages"
+                        },
+                        {
+                            "term": "Concise",
+                            "definition": "Expressing ideas in a clear and brief way, avoiding unnecessary words"
+                        },
+                        {
+                            "term": "Clarity",
+                            "definition": "The quality of being easy to understand, ensuring that the message is not confusing"
+                        },
+                        {
+                            "term": "Recipient",
+                            "definition": "The person who receives the SMS message"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 21,
+                        "questions": [
+                            "Learners compose clear and concise SMS messages",
+                            "Learners use abbreviations and symbols appropriately",
+                            "Learners differentiate between formal and informal SMS writing",
+                            "Group Project/Homework: Create a collection of SMS messages for various real-life situations and display on chart"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "SPECIAL AND INCLUSIVE EDUCATION",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "FIGURATIVE LANGUAGE - Proverbs",
+                    "page": 22,
+                    "competences": [
+                        "Use appropriate language (verbal and non-verbal) in different situations",
+                        "Use proverbs in various social contexts"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.1",
+                            "page": 23,
+                            "hook": "What do you call the sayings that elderly people use when admonishing, advising, giving caution, consoling, or teaching life lessons?",
+                            "teacher_steps": [
+                                "Put learners into small groups and ask them to discuss proverbs, interpret their meanings, and state situations in which proverbs are applied",
+                                "Guide during the discussion and explain further what proverbs are",
+                                "Group learners and assign them proverbs to interpret and identify situations when to use them",
+                                "Monitor learners and give guidance that proverbs can be used in many contexts",
+                                "Ask learners to research on proverbs used in the local community"
+                            ],
+                            "learner_steps": [
+                                "Discuss proverbs in small groups",
+                                "Interpret their meanings (e.g., 'Honesty is the best policy' means it is always best to tell the truth)",
+                                "State situations in which proverbs are applied",
+                                "Interpret assigned proverbs and identify situations when to use them",
+                                "Research on proverbs used in the local community, providing interpretations and situations when to use them"
+                            ],
+                            "short_notes": "Proverbs are well known sayings that offer guidance or advice while they also declare a well-acknowledged fact or universal truth. Proverbs are often metaphorical and are an example of formulaic language. They are a collection of generations of wisdom and applies to life on earth. Examples: When offering advice ('Don't count your chickens before they hatch'), for encouragement ('When the going gets tough, the tough get going'), as warnings ('Beware of the wolf in sheep's clothing'), teaching lessons ('Winners never quit and quitters never win'), offering comfort ('Time heals all wounds'), celebrating success ('The fruit of your labour is sweet'), describing situations ('It's raining cats and dogs'), adding humor ('Don't cry over spilled milk')."
+                        }
+                    ],
+                    "short_notes": "Figurative language refers to the use of words in a way that deviates from the conventional order and meaning in order to convey a hidden meaning. Proverbs are simple, traditional sayings that express a perceived truth based on common sense or experience.",
+                    "vocabulary": [
+                        {
+                            "term": "Proverb",
+                            "definition": "A simple, traditional saying that expresses a perceived truth based on common sense or experience"
+                        },
+                        {
+                            "term": "Metaphor",
+                            "definition": "An implied comparison where you compare without using the word 'as' or 'like'"
+                        },
+                        {
+                            "term": "Metaphorical",
+                            "definition": "Something that uses a metaphor to convey a meaning or idea"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 26,
+                        "questions": [
+                            "Pair learners and provide them with proverbs to interpret",
+                            "Give learners situations and ask them to supply proverbs that could be used"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "COMPREHENSION - Reading Comprehension (Intensive reading)",
+                    "page": 27,
+                    "competences": [
+                        "Apply good reading skills",
+                        "Analyse texts to improve the ability to understand",
+                        "Read and comprehend information"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.1",
+                            "page": 28,
+                            "hook": "Is it possible for one to have knowledge of anything if they have no ability to understand it?",
+                            "teacher_steps": [
+                                "Ask learners to skim through the passage on Inclusive Education to get the general idea",
+                                "Ask learners to read the passage",
+                                "Time learners to ensure that they read at a speed of 200 words per minute",
+                                "Guide learners to avoid bad reading habits",
+                                "Divide the learners into groups and ask them to discuss the passage",
+                                "Ask groups to retell the details of the passage",
+                                "Let learners scan the passage and identify unfamiliar words - inferences should be drawn from the text",
+                                "Ask learners to answer factual and inference questions given"
+                            ],
+                            "learner_steps": [
+                                "Skim through the passage to get the general idea",
+                                "Read the passage at a speed of 200 words per minute",
+                                "Discuss the passage in groups",
+                                "Retell the details of the passage",
+                                "Scan the passage and identify unfamiliar words, drawing inferences from the text",
+                                "Answer factual and inference questions"
+                            ],
+                            "short_notes": "Intensive reading involves the detailed reading of texts. The ability to read with understanding allows a learner to understand other subjects in school. Learners need to develop skills in reading at a good speed, answering questions, recalling details and understanding meaning of unfamiliar words. Passage focuses on inclusive education - an approach that values diversity and promotes the participation of all learners. Key concepts: Universal Design for Learning (UDL), flexible teaching practices, differentiated instruction, assistive technology."
+                        }
+                    ],
+                    "short_notes": "Comprehension is a process of active engagement that leads to accurate understanding and interpretation of what is heard or read. The importance of comprehension lies in its application to real-life situations such as understanding instructions, engaging in conversations, and interpreting information.",
+                    "vocabulary": [
+                        {
+                            "term": "Intensive reading",
+                            "definition": "A kind of reading which involves carefully analysing and understanding a text in detail"
+                        },
+                        {
+                            "term": "Comprehension",
+                            "definition": "The ability to understand and grasp meaning of spoken or written texts"
+                        },
+                        {
+                            "term": "Skimming",
+                            "definition": "Reading something quickly so as to note only the important points"
+                        },
+                        {
+                            "term": "Scanning",
+                            "definition": "Reading a text quickly in order to find specific information"
+                        },
+                        {
+                            "term": "Retelling",
+                            "definition": "To tell again or in another form"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 30,
+                        "questions": [
+                            "Provide a comprehension passage and ask learners to answer the questions that follow",
+                            "Observe learners' participation in discussions",
+                            "Check their ability to locate answers in the passage",
+                            "Assess group work and engagement"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "PERSUASIVE WRITING - An Argumentative Composition",
+                    "page": 31,
+                    "competences": [
+                        "Effectively share one's thoughts and emotions and understand others"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3.1",
+                            "page": 32,
+                            "hook": "What does it take to win an argument?",
+                            "teacher_steps": [
+                                "Distribute passage 'The Inclusion Revolution: Why Special Education Belongs in the Mainstream Classroom' and ask learners to read it",
+                                "Explain the key features of an argumentative composition with reference to the passage read",
+                                "Explain to the learners the kind of language to use when agreeing and disagreeing",
+                                "Divide learners in groups and assign them tasks to argue for or against a given controversial statement",
+                                "Ask group representatives to read the compositions to the class, followed by a postmortem"
+                            ],
+                            "learner_steps": [
+                                "Read the model argumentative passage",
+                                "Identify key features: Introduction (introduces topic, provides background, states claim), Main Body (presents data, addresses counterarguments), Conclusion (summarises main points, reiterates claim)",
+                                "Learn appropriate language for expressing agreement and disagreement",
+                                "Write an argumentative composition in groups arguing for or against a controversial statement",
+                                "Read compositions to the class"
+                            ],
+                            "short_notes": "Argumentative composition is a type of writing that aims to persuade or convince the reader to adopt a particular point of view, take a specific action, or accept a certain claim. It involves presenting a claim or position, supporting it with evidence and reasoning, and addressing potential counterarguments. Tips: Choose a clear and focused topic, conduct thorough research, organise ideas logically, use persuasive language and rhetorical devices, address potential counterarguments."
+                        }
+                    ],
+                    "short_notes": "Persuasive writing is a form of writing where the writer attempts to convince or persuade the audience to adopt a particular point of view or take a specific action by presenting logical reasoning, supporting evidence, and compelling arguments.",
+                    "vocabulary": [
+                        {
+                            "term": "Persuade",
+                            "definition": "To induce someone to do something through reasoning or argument"
+                        },
+                        {
+                            "term": "Agree",
+                            "definition": "To have the same opinion about something"
+                        },
+                        {
+                            "term": "Disagree",
+                            "definition": "To have or express a different opinion"
+                        },
+                        {
+                            "term": "Controversial",
+                            "definition": "Giving rise or likely to give rise to controversy or public disagreement"
+                        },
+                        {
+                            "term": "Metaphor",
+                            "definition": "A figure of speech in which a word or phrase literally denoting one kind of object or idea is used in place of another to suggest likeness"
+                        },
+                        {
+                            "term": "Analogy",
+                            "definition": "A comparison between one thing and another, typically for the purpose of explanation or clarification"
+                        },
+                        {
+                            "term": "Repetition",
+                            "definition": "A literary device that involves using the same word or phrase over and over again to emphasise a point"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 35,
+                        "questions": [
+                            "Ask each group to write a composition using points gathered",
+                            "Give homework for individual practice"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.4",
+                    "title": "CONDITION - Types of Condition and Tense Changes",
+                    "page": 36,
+                    "competences": [
+                        "Express oneself (spoken and written) clearly and effectively",
+                        "Understand connection between seemingly unrelated subject matter",
+                        "Use conditional sentences",
+                        "Use appropriate tenses in conditional sentences"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.1",
+                            "page": 37,
+                            "hook": "What would you do if you won a million Kwacha?",
+                            "teacher_steps": [
+                                "Display a chart with three conditional sentences",
+                                "Divide learners into groups and ask them to discuss the differences they note",
+                                "Explain the three types of conditional sentences: Type 1 (Likely/Probable), Type 2 (Unlikely/Improbable), Type 3 (Impossible)",
+                                "Divide learners into pairs/groups and ask them to construct two sentences for each type of condition",
+                                "Provide exercises for practice",
+                                "Ask learners to individually construct sentences using different types of conditional sentences",
+                                "Explain the tense changes in conditional sentences",
+                                "Divide learners into groups and ask them to construct sentences applying tense changes"
+                            ],
+                            "learner_steps": [
+                                "Discuss differences in conditional sentences in groups",
+                                "Construct two sentences for each type of condition in pairs/groups",
+                                "Complete exercises: underline conditional clauses, fill in blanks, match conditions with results, rewrite using correct conditional type",
+                                "Individually construct sentences using different types of conditionals",
+                                "Learn tense changes: Type 1 (If + Present Simple, Future Simple), Type 2 (If + Past Simple, Would + Verb), Type 3 (If + Past Perfect, Would + Present Perfect)",
+                                "Construct sentences in groups applying tense changes correctly"
+                            ],
+                            "short_notes": "Conditional sentences are sentences that express a condition and its corresponding consequences. They consist of two clauses: the if-clause (or condition) and the main clause (or consequence). Type 1: Likely/Probable Condition (If + present simple, will + base verb). Type 2: Unlikely/Improbable Condition (If + past simple, would + base verb). Type 3: Impossible Condition (If + past perfect, would have + past participle). Conditional sentences often involve tense changes that help convey the degree of possibility or hypothetical nature of the situation."
+                        }
+                    ],
+                    "short_notes": "Conditional sentences are an important aspect of language that enable us to express hypothetical or uncertain situations and their potential consequences. They allow us to address the question 'what if', which makes them an important tool for critical thinking, problem solving and effective communication.",
+                    "vocabulary": [
+                        {
+                            "term": "Condition",
+                            "definition": "A situation that must exist before something else is possible or permitted"
+                        },
+                        {
+                            "term": "Likely/probable",
+                            "definition": "Something that is likely to happen or be true; having a good chance of happening"
+                        },
+                        {
+                            "term": "Unlikely/improbable",
+                            "definition": "Not likely to be true or to happen; not to be reasonably expected"
+                        },
+                        {
+                            "term": "Impossible",
+                            "definition": "Incapable of being or of occurring; cannot happen or be achieved"
+                        },
+                        {
+                            "term": "Main clause",
+                            "definition": "The core part of the sentence that can stand alone"
+                        },
+                        {
+                            "term": "Conditional clause",
+                            "definition": "Part of the clause that describes a situation"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 41,
+                        "questions": [
+                            "Learners distinguish types of conditionals",
+                            "Learners match the conditional clause with the appropriate main clause",
+                            "Learners construct conditional sentences with appropriate tenses"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.5",
+                    "title": "ADVERTISEMENTS - Types of Advertisements",
+                    "page": 42,
+                    "competences": [
+                        "Organise information and ideas",
+                        "Write advertisements"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.5.1",
+                            "page": 43,
+                            "hook": "Why do some products sell more than others?",
+                            "teacher_steps": [
+                                "Divide learners in groups and ask them to discuss and reproduce their favourite advertisements from radio or television",
+                                "Provide a number of advertisements for groups to scrutinise the features",
+                                "Explain the features of an advertisement",
+                                "Divide learners into groups and ask them to discuss the importance of advertising",
+                                "Discuss the purpose of advertising with learners",
+                                "Divide learners into pairs/groups and ask them to compose adverts",
+                                "Invite group representatives to present composed adverts and class to review each advert"
+                            ],
+                            "learner_steps": [
+                                "Discuss and reproduce favourite advertisements from radio or television in groups",
+                                "Scrutinise advertisements and identify features: name of item, what it does, clear compelling message, emotional appeal, targeted approach, creative visuals, strong call to action, consistency, legal/ethical standards",
+                                "Discuss the importance of advertising: boosts sales, builds brand awareness, introduces products, retains customers, announces job vacancies/events, competitive advantage",
+                                "Compose adverts in pairs/groups",
+                                "Present composed adverts to the class"
+                            ],
+                            "short_notes": "An advertisement is an announcement in a public medium promoting a product, service or event or publicising a job vacancy. Advertising aims to present a product or service in terms of utility, advantages and qualities of interest to consumers. Advertisements come in different forms: print, broadcast, digital and experiential. Examples include radio and television commercials, social media advertisements, billboards, and email or SMS campaigns."
+                        }
+                    ],
+                    "short_notes": "An advertisement is an announcement in a public medium promoting a product, service or event or publicising a job vacancy. Advertising aims to present a product or service in terms of utility, advantages and qualities of interest to the consumers.",
+                    "vocabulary": [
+                        {
+                            "term": "Announcement",
+                            "definition": "A formal public statement about a fact, occurrence, or intention"
+                        },
+                        {
+                            "term": "Medium",
+                            "definition": "Communication tools used to store and deliver information or data"
+                        },
+                        {
+                            "term": "Promoting",
+                            "definition": "Encouraging people to like, buy, use, do, or support something"
+                        },
+                        {
+                            "term": "Publicising",
+                            "definition": "To make widely known to the public"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 46,
+                        "questions": [
+                            "Divide learners into groups and provide them situations for which they should compose advertisements",
+                            "Give homework to learners to compose adverts in given contexts"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "ENVIRONMENTAL HEALTH AND POLLUTION MANAGEMENT",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "FIGURATIVE LANGUAGE - Riddles",
+                    "page": 47,
+                    "competences": [
+                        "Use appropriate language (verbal non-verbal) in different situations",
+                        "Grasp and breakdown information to effectively share with others",
+                        "Solve complex problems",
+                        "Use riddles in various social contexts"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.1",
+                            "page": 48,
+                            "hook": "What has a bed but does not sleep and has a mouth but does not eat?",
+                            "teacher_steps": [
+                                "Explain riddles - questions, statements or short poems that are meant to be puzzling or tricky",
+                                "Provide examples of riddles with answers",
+                                "Divide learners into groups and ask them to discuss riddles they know",
+                                "Ask learners to mention situations when to use riddles",
+                                "Explain situations when to use riddles: educational settings, entertainment, social interactions, cognitive development",
+                                "Explain that riddles carry meaning and should not be understood literally",
+                                "Ask learners to share their own riddles and interpret meaning",
+                                "Divide learners into groups to interpret riddles (Quiz)",
+                                "Ask learners to collect riddles used in their communities (Project)"
+                            ],
+                            "learner_steps": [
+                                "Learn about riddles through examples",
+                                "Discuss riddles they know in groups",
+                                "Identify situations when to use riddles",
+                                "Share their own riddles and interpret meanings",
+                                "Exchange riddles and solve them",
+                                "Conduct a project of collecting riddles common in their communities",
+                                "Interpret riddles"
+                            ],
+                            "short_notes": "Riddles are statements or phrases that require thought and contemplation to decipher their meaning, often using wordplay, puns, double meanings and other literary devices. They typically have a hidden answer or solution that is not immediately apparent. Examples: 'I am as clear as glass but polluted everyday' (Answer: water), 'I'm the result of fire activities, a gas so unkind' (Answer: carbon dioxide), 'What has an eye but cannot see?' (Answer: a needle)."
+                        }
+                    ],
+                    "short_notes": "Figurative language refers to the use of words in a way that deviates from the conventional order and meaning in order to convey a hidden meaning. Riddles are a fun and creative way to challenge the mind and test problem-solving skills.",
+                    "vocabulary": [
+                        {
+                            "term": "Riddle",
+                            "definition": "A statement or question with a hidden meaning"
+                        },
+                        {
+                            "term": "Interpret",
+                            "definition": "Explain or understand the meaning of something"
+                        },
+                        {
+                            "term": "Inference",
+                            "definition": "Drawing conclusions based on cues and hints"
+                        },
+                        {
+                            "term": "Cue",
+                            "definition": "A hint or piece of information that helps solve a problem"
+                        },
+                        {
+                            "term": "Pun",
+                            "definition": "A play on words, often using repeated multiple sounds"
+                        },
+                        {
+                            "term": "Double meaning",
+                            "definition": "A word or phrase with multiple interpretation"
+                        },
+                        {
+                            "term": "Word play",
+                            "definition": "Using language in a playful way"
+                        },
+                        {
+                            "term": "Deductive reasoning",
+                            "definition": "Using logic to arrive at a solution/conclusion"
+                        },
+                        {
+                            "term": "Literal language",
+                            "definition": "Exactly what it says"
+                        },
+                        {
+                            "term": "Figurative language",
+                            "definition": "Uses metaphors, similes and symbolic expressions"
+                        },
+                        {
+                            "term": "Brain teaser",
+                            "definition": "A puzzle that challenges mental agility and logic"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 50,
+                        "questions": [
+                            "Provide guided practice by giving learners a riddle to provide meaning in pairs or small groups",
+                            "Allow learners to share their riddles with the class",
+                            "Assess participation by observing learners' engagement and involvement",
+                            "Learners to conduct a project of collecting riddles common in their communities",
+                            "Learners to interpret riddles"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "READING COMPREHENSION - Environmental Pollution",
+                    "page": 51,
+                    "competences": [
+                        "Apply good reading skills",
+                        "Analyse texts to improve the ability to understand",
+                        "Read and comprehend information"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.1",
+                            "page": 52,
+                            "hook": "Imagine reading something and not understanding anything?",
+                            "teacher_steps": [
+                                "Ask learners to skim through the passage on Environmental Pollution to get the general idea",
+                                "Ask learners to read the passage",
+                                "Time learners to ensure that they read at a speed of 200 words per minute",
+                                "Guide learners to avoid bad reading habits",
+                                "Divide the learners into groups and ask them to discuss the passage",
+                                "Ask groups to retell the details of the passage",
+                                "Learners scan the passage and identify unfamiliar words - inferences should be drawn from the text",
+                                "Provide comprehension questions for learners to answer"
+                            ],
+                            "learner_steps": [
+                                "Skim through the passage to get the general idea",
+                                "Read the passage at 200 words per minute",
+                                "Discuss the passage in groups",
+                                "Retell the details of the passage",
+                                "Scan and identify unfamiliar words, drawing inferences",
+                                "Answer comprehension questions"
+                            ],
+                            "short_notes": "Passage on Environmental Pollution discusses one of the biggest problems facing the world today - pollution in air, water, and soil. Key concepts: Carbon dioxide from cars and industries affects air quality, water pollution from dumping rubbish and oil, soil pollution from pesticides and fertilizers. The passage explains that pollution is complicated because it's caused by things that benefit people (vehicles provide transportation, factories provide jobs). Solutions include: scientists finding ways to reduce pollution, new laws prohibiting smoke discharge, individuals and groups taking action."
+                        }
+                    ],
+                    "short_notes": "Comprehension is a process of active engagement that leads to accurate understanding and interpretation of what is heard or read. The ability to read with understanding allows a learner to understand other subjects in school. Intensive reading involves the detailed reading of texts.",
+                    "vocabulary": [
+                        {
+                            "term": "Pollution",
+                            "definition": "The process of making the environment dirty or harmful by adding harmful substances to air, water, or land"
+                        },
+                        {
+                            "term": "Carbon dioxide",
+                            "definition": "A gas produced by burning carbon and by respiration. Released by cars and factories and can be harmful in large amounts"
+                        },
+                        {
+                            "term": "Pesticides",
+                            "definition": "Chemicals used to kill insects or pests that harm crops"
+                        },
+                        {
+                            "term": "Fertilisers",
+                            "definition": "Substances added to soil to help plants grow better by providing nutrients"
+                        },
+                        {
+                            "term": "Discharge",
+                            "definition": "To release or send out substances"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 55,
+                        "questions": [
+                            "Provide a comprehension passage and ask learners to answer the questions that follow",
+                            "Observe learners' participation in discussions",
+                            "Check their ability to locate answers in the passage",
+                            "Assess group work and engagement"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.3",
+                    "title": "PERSUASIVE WRITING - Discursive Composition",
+                    "page": 56,
+                    "competences": [
+                        "Effectively share one's thoughts and emotions and understand others",
+                        "Write a discursive composition"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.3.1",
+                            "page": 57,
+                            "hook": "What if your job was to defend something you do not believe in?",
+                            "teacher_steps": [
+                                "Provide a model discursive composition passage and ask learners to read",
+                                "Ask learners to discuss the features of a discursive composition",
+                                "Explain appropriate language to use in discursive composition (On one hand, on the other hand, while, whereas, moreover, furthermore, on the contrary)",
+                                "Ask learners to write a discursive composition on a given topic"
+                            ],
+                            "learner_steps": [
+                                "Read the model discursive composition on pollution and economic growth",
+                                "Discuss features: balanced arguments, clear topical issues, logical presentation, objectivity, analysis, evaluation, factual/evidence-based arguments",
+                                "Learn appropriate language for expressing different points of view",
+                                "Write a discursive composition on a given topic (e.g., relationship between environmental health and pollution management)"
+                            ],
+                            "short_notes": "In a discursive composition, the writer explores both sides of a topic and draws a conclusion. The composition could be on opposing opinions, cause and effect, compare and contrast, problem and solution, advantages and disadvantages or just exploratory. Example passage explores the relationship between economic growth and environmental protection, presenting arguments on both sides and proposing solutions like circular economy, clean technologies, and education."
+                        }
+                    ],
+                    "short_notes": "Persuasive writing is a form of writing where the writer attempts to convince or persuade the audience to adopt a particular point of view or take a specific action by presenting logical reasoning, supporting evidence, and compelling arguments. Discursive composition helps one think critically, see multiple sides of an issue, and communicate views clearly and respectfully.",
+                    "vocabulary": [
+                        {
+                            "term": "Persuade",
+                            "definition": "To induce someone to do something through reasoning or argument"
+                        },
+                        {
+                            "term": "Agree",
+                            "definition": "To have the same opinion about something"
+                        },
+                        {
+                            "term": "Disagree",
+                            "definition": "To have or express a different opinion"
+                        },
+                        {
+                            "term": "Controversial",
+                            "definition": "Giving rise or likely to give rise to controversy or public disagreement"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 59,
+                        "questions": [
+                            "Learners read a model discursive essay and discuss its features",
+                            "Learners to write a discursive essay using appropriate language"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.4",
+                    "title": "ABILITY - Expressing Ability",
+                    "page": 60,
+                    "competences": [
+                        "Express oneself (spoken and written) clearly and effectively",
+                        "Break down problem and evaluate solution",
+                        "Express ability in sentences"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.4.1",
+                            "page": 61,
+                            "hook": "Have you ever imagined not being able to do something that almost everyone can easily do?",
+                            "teacher_steps": [
+                                "Select a learner to perform a few tasks (touch the board, close the window, ride a bicycle, sing, spell a word)",
+                                "Ask learners to use 'can' or 'be able to' to describe what their classmate is able to do",
+                                "Explain the different ways of expressing ability: Can and be able to (present), Shall and will be able to (future), Could and Was/Were able to (past)",
+                                "Explain other ways of expressing ability: Know how to, Be capable of + verb + ing",
+                                "Divide learners into groups, distribute worksheets and ask them to identify which sentence expresses ability in present, past and future",
+                                "Ask learners to construct sentences expressing ability",
+                                "Give learners worksheets to complete sentences expressing ability"
+                            ],
+                            "learner_steps": [
+                                "Observe classmate performing tasks",
+                                "Describe what classmate is able to do using 'can' or 'be able to'",
+                                "Learn different ways of expressing ability in present, past, and future",
+                                "Discuss and identify sentences expressing ability in different tenses in groups",
+                                "Construct sentences expressing ability in present, past and future",
+                                "Complete worksheets with sentences expressing ability"
+                            ],
+                            "short_notes": "Ability refers to the capacity to perform a specific task or function. Understanding ability is important because it helps individuals talk about skills in conversations, explain past experiences, ask for or offer help. Ways to express ability: 1. Can and be able to (present) - Can is more usual. Note: Can and be able to should not be used together. 2. Shall and will be able to (future). 3. Could and Was/Were able to (past). 4. Know how to. 5. Be capable of + verb + ing."
+                        }
+                    ],
+                    "short_notes": "Ability refers to the capacity to perform a specific task or function. It can also refer to a natural talent or skill that someone or something possesses. Understanding ability is important in real-life situations because it helps individuals to talk about skills in conversations, explain past experiences, ask for or offer help.",
+                    "vocabulary": [
+                        {
+                            "term": "Present",
+                            "definition": "Current time, happening or existing now"
+                        },
+                        {
+                            "term": "Past",
+                            "definition": "A period of time that has already happened"
+                        },
+                        {
+                            "term": "Future",
+                            "definition": "A period of time that has not yet happened"
+                        },
+                        {
+                            "term": "Ability",
+                            "definition": "Capacity to perform a specific task"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 62,
+                        "questions": [
+                            "Learners discuss ways of expressing ability in the present, past and future",
+                            "Learners construct sentences expressing ability using different expressions"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.5",
+                    "title": "NOTE SUMMARY - Types of Note Summaries",
+                    "page": 63,
+                    "competences": [
+                        "Organise information and ideas",
+                        "Analyse texts, to improve the ability to understand",
+                        "Use appropriate language (verbal and non-verbal) in different situations",
+                        "Communicate and relate with others effectively",
+                        "Write note summaries"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.5.1",
+                            "page": 64,
+                            "hook": "Did you know that sometimes the simplest notes hold the most important information?",
+                            "teacher_steps": [
+                                "Pair learners and ask them to name sources of information (Oral sources: Television, YouTube, Radio, Speeches; Written sources: Newspapers, Articles, Journals, Magazines, Textbooks)",
+                                "Explain that we take notes from an oral source (note taking), while we make notes from a written source (note making)",
+                                "Explain the steps to follow when writing note summaries",
+                                "Ask learners to write note summaries from various sources paying particular attention to the question",
+                                "Assign project: Ask learners to take notes during church service or assembly"
+                            ],
+                            "learner_steps": [
+                                "Name sources of information in pairs",
+                                "Learn the difference between note making and note taking",
+                                "Learn steps in note making: Reading passage (skimming), Study question, Pick relevant points (scanning), Extract main facts, Use bullets/numbers, Paraphrase, Keep original idea, Arrange in order",
+                                "Learn steps in note taking: Listen attentively, Identify main ideas, Use short forms/abbreviations/symbols, Stay organised, Review and edit",
+                                "Write note summaries from passages (e.g., Biodiversity passage)",
+                                "Take notes during church service or assembly (project)"
+                            ],
+                            "short_notes": "A note summary is a set of points or notes obtained from a passage or an oral source. It is a collection of all the important points listed in point form, not full sentences. Abbreviations may be used. Note summaries are either from an oral source (note taking) or from a written source (note making). Example passage on Biodiversity discusses the importance, benefits, threats, and consequences of biodiversity loss."
+                        }
+                    ],
+                    "short_notes": "A note summary is a set of points or notes obtained from a passage or an oral source. Note making is the process of writing down important information in a short and organised form for future reference from a written source. Note taking is the process of quickly taking down information as you listen to an oral source.",
+                    "vocabulary": [
+                        {
+                            "term": "Notes",
+                            "definition": "Writing in point form"
+                        },
+                        {
+                            "term": "Prose",
+                            "definition": "Writing in complete sentences in paragraphs"
+                        },
+                        {
+                            "term": "Abbreviations",
+                            "definition": "Shortened form of a word or phrase"
+                        },
+                        {
+                            "term": "Symbols",
+                            "definition": "Something that stands for, represents, or suggests another"
+                        },
+                        {
+                            "term": "Main ideas",
+                            "definition": "Key points, essential information"
+                        },
+                        {
+                            "term": "Paraphrase",
+                            "definition": "Express the meaning of something using different words"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 66,
+                        "questions": [
+                            "Observe learners as lesson is progressing to monitor their progress and understanding of note summary skills",
+                            "Learners to write note summaries by giving them individual exercise"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "MENTAL HEALTH",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "FIGURATIVE LANGUAGE - Idiomatic Expressions",
+                    "page": 67,
+                    "competences": [
+                        "Use appropriate language (verbal non-verbal) in different situations",
+                        "Grasp and breakdown information to effectively share with others",
+                        "Solve complex problems",
+                        "Use idiomatic expressions in speech"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.1",
+                            "page": 68,
+                            "hook": "Do phrases such as 'time flies' or 'it is raining cats and dogs' make you wonder?",
+                            "teacher_steps": [
+                                "Provide idiomatic expressions and ask learners to guess their meanings (break the ice, hit the nail on the head, it's raining cats and dogs, an egghead, get on one's nerves)",
+                                "Reveal the meanings and explain what idiomatic expressions are",
+                                "Discuss how context can help uncover figurative language",
+                                "Provide learners with idiomatic expressions and ask them to interpret and match with meanings",
+                                "Clarify misconceptions about idioms",
+                                "Ask learners to collect idiomatic expressions used in their community",
+                                "Ask learners to construct sentences using idiomatic expressions orally"
+                            ],
+                            "learner_steps": [
+                                "Guess meanings of idiomatic expressions",
+                                "Learn what idiomatic expressions are and how context helps understanding",
+                                "Match idiomatic expressions to their corresponding meanings (e.g., 'Read between the lines' = understand hidden meaning, 'Piece of cake' = simple and very easy)",
+                                "Collect idiomatic expressions used in their community",
+                                "Discuss collected idioms in groups and make presentations",
+                                "Develop lists of idiomatic expressions used locally",
+                                "Construct sentences using idiomatic expressions"
+                            ],
+                            "short_notes": "An idiom is a phrase or expression with a figurative meaning that is not immediately obvious from its literal words. Idioms add colour to conversations. Using idioms effectively can make conversations more engaging, expressive and natural. Important: Do not take the literal meaning, consider context used, do not use them anyhow, idioms are not universal across languages - they are language specific. Examples: 'break the ice' (initiate a conversation), 'kick the bucket' (die), 'call the shots' (be in charge)."
+                        }
+                    ],
+                    "short_notes": "Figurative language refers to the use of words in a way that deviates from the conventional order and meaning in order to convey a complicated meaning. An idiom is a phrase or expression with a figurative meaning that is not immediately obvious from its literal words.",
+                    "vocabulary": [
+                        {
+                            "term": "Similes",
+                            "definition": "A figure of speech that directly compares two different things using the words like or as"
+                        },
+                        {
+                            "term": "Metaphors",
+                            "definition": "A figure of speech that makes an implicit or direct comparison between two unrelated things by stating that one is the other"
+                        },
+                        {
+                            "term": "Personifications",
+                            "definition": "A literary device that gives human qualities, emotions, or behaviours to non-human entities"
+                        },
+                        {
+                            "term": "Idiomatic expressions",
+                            "definition": "Phrases or sayings whose meanings are not immediately clear from the individual words"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 70,
+                        "questions": [
+                            "Homework: Provide individual learners with short passages with idiomatic expressions and ask them to interpret them",
+                            "Ask learners to find five new idiomatic expressions and bring them to the next class",
+                            "Provide learners with idiomatic expressions and interpretations and ask learners to match them",
+                            "Learners match idiomatic expressions with the interpretations"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.2",
+                    "title": "READING COMPREHENSION - Extensive Reading",
+                    "page": 71,
+                    "competences": [
+                        "Ask thoughtful questions; justify one's reason and procedures",
+                        "Express oneself (spoken and written) clearly and effectively",
+                        "Effectively share one's thoughts and emotions and understand others",
+                        "Analyse texts to improve the ability to understand",
+                        "Read a variety of texts extensively"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2.1",
+                            "page": 72,
+                            "hook": "Did you know that success in reading is largely influenced by our reading practice?",
+                            "teacher_steps": [
+                                "Divide learners into groups and ask them to discuss adverse reading mannerisms (avoid head movement, verbalising, whispering, finger or pen pointing)",
+                                "Ask learners to select books of choice from a collection and read",
+                                "Encourage learners to interact with the text while reading (questions during reading)",
+                                "Encourage learners to share their reading with others (questions after reading)",
+                                "Lead the discussion by asking questions about the stories and information read",
+                                "Ask learners to continue reading variety of texts and share with class"
+                            ],
+                            "learner_steps": [
+                                "Discuss adverse reading mannerisms in groups",
+                                "Select books of choice and read (Passage 1: Story about Tasha struggling with anxiety and depression; Passage 2: 'The Kingdom of Cheepa: A Tale of the Five Flames')",
+                                "Interact with text by asking questions while reading (What is the protagonist fighting against? What will happen at the end? What emotions dominate?)",
+                                "Share reading by retelling stories or explaining information (discuss themes, setting, plot, characters, characterisation, style)",
+                                "Continue reading variety of texts and make summaries for sharing"
+                            ],
+                            "short_notes": "Extensive reading can be defined as reading done for pleasure or gaining general understanding by focusing on a large volume of materials. The goal is to expose learners to a wide range of texts, vocabulary, and sentence structures in a natural context helping to improve reading fluency, language learning, and overall confidence. Passages include a story about mental health struggles and recovery, and a fantasy tale about reigniting the Five Flames (Courage, Growth, Love, Power, Hope)."
+                        }
+                    ],
+                    "short_notes": "Comprehension is a process of active engagement that leads to accurate understanding and interpretation of what is heard or read. Extensive reading involves reading a variety of texts for pleasure and information. Through reading widely, learners improve their ability to understand and interpret texts more effectively.",
+                    "vocabulary": [
+                        {
+                            "term": "Comprehension",
+                            "definition": "The ability to read and understand"
+                        },
+                        {
+                            "term": "Extensive reading",
+                            "definition": "Reading a variety of texts for pleasure"
+                        },
+                        {
+                            "term": "Plot",
+                            "definition": "Sequence of related events in a story"
+                        },
+                        {
+                            "term": "Setting",
+                            "definition": "Place, time, lifestyle and weather depicted in a story"
+                        },
+                        {
+                            "term": "Theme",
+                            "definition": "Central idea in a story that reader wants to convey"
+                        },
+                        {
+                            "term": "Characterisation",
+                            "definition": "The process of painting a verbal picture on characters directly and indirectly"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 76,
+                        "questions": [
+                            "Ask learners to continue reading a variety of texts and share their reading with the rest of the class",
+                            "Provide some more texts for learners to select from and ask them to read during free time and make summaries for sharing"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.3",
+                    "title": "DIARY WRITING - Introduction to Writing Diary Entries",
+                    "page": 77,
+                    "competences": [
+                        "Organise information and ideas",
+                        "Effectively share one's thoughts and emotions and understand others",
+                        "Write diary entries"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.3.1",
+                            "page": 78,
+                            "hook": "Have you ever had a moment when you wanted to capture your feelings, thoughts, or experiences?",
+                            "teacher_steps": [
+                                "Ask learners if they know what a diary is and its use",
+                                "Describe the diary and state its use and significance",
+                                "Discuss the features of a diary with the class: Date, Salutation (Dear Diary), Main body, Conclusion, Personal tone, Chronological order, Descriptive language, Honesty and Authenticity, Language and style, Confidentiality",
+                                "Ask learners to make entries of the activities of the week in their personal diaries",
+                                "Ask learners to share their diary entries if they are comfortable"
+                            ],
+                            "learner_steps": [
+                                "Learn what a diary is - a personal notebook or journal where someone writes about their thoughts, feelings and experiences",
+                                "Learn features of a diary",
+                                "Make entries of the activities of the week (Instructions: Choose a week, Write descriptive and reflective entries including what happened, how you felt, what you learned, challenges or successes)",
+                                "Share diary entries if comfortable",
+                                "Write diary entries for the next few days and reflect on how it feels (Homework)"
+                            ],
+                            "short_notes": "Diary entries are a form of personal writing used to capture thoughts, feelings, experiences, and daily events. A diary serves as a private space for self-expression and reflection, often written in chronological order with dated entries. The diary helps improve self-expression, emotional awareness and writing skills. Example entry: Monday, 1st April 2025 - describes an eventful day with an unexpected picnic with best friend."
+                        }
+                    ],
+                    "short_notes": "Writing composition is about sharing thoughts, ideas and stories in a structured and creative way. Diary entries are a form of personal writing used to capture thoughts, feelings, experiences, and daily events in real life. It serves as a private space for self-expression and reflection.",
+                    "vocabulary": [
+                        {
+                            "term": "Diary",
+                            "definition": "A personal record where individuals write about their thoughts, feelings, experiences, and daily events"
+                        },
+                        {
+                            "term": "Diary entry",
+                            "definition": "A written record of personal thoughts, feelings, experiences, or events from a specific day"
+                        },
+                        {
+                            "term": "Diary Writing",
+                            "definition": "A personal and reflective activity used to record thoughts, feelings, events, or experiences"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 80,
+                        "questions": [
+                            "Homework: Learners write a diary entry for the next few days and reflect on how it feels to maintain a diary"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.4",
+                    "title": "THE GERUND AND THE PRESENT PARTICIPLE - Difference",
+                    "page": 81,
+                    "competences": [
+                        "Express oneself (spoken and written) clearly and effectively",
+                        "Use appropriate language (verbal and non-verbal) in different situations",
+                        "Use gerunds and present participles in sentences"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.4.1",
+                            "page": 82,
+                            "hook": "Did you know that forms of the same verb can mean two different things?",
+                            "teacher_steps": [
+                                "Provide two sentences: one on gerunds and another on participles",
+                                "Ask learners to differentiate the meaning between the two sentences",
+                                "Explain the difference between gerunds and participles",
+                                "Explain functions of gerunds (as subject, object, object of preposition, subject complement, object of possessive adjective)",
+                                "Explain that the Present Participle functions as an adjective in a sentence",
+                                "Ask learners to construct sentences using gerunds and present participles",
+                                "Clarify any misconceptions"
+                            ],
+                            "learner_steps": [
+                                "Examine two sentences and differentiate meanings",
+                                "Learn the difference: Gerund is a verb form ending in -ing that functions as a noun; Present Participle is a verb form ending in -ing that functions as an adjective",
+                                "Learn gerund functions with examples (Teaching is an interesting career - subject; I love teaching - object; He is passionate about teaching - object of preposition)",
+                                "Learn present participle functions (A charming lady - adjective modifying noun; The burning train - adjective modifying noun; The lesson was exciting - subject complement)",
+                                "Construct sentences using gerunds and present participles in pairs",
+                                "Ask each other whether the verb + -ing used is a gerund or present participle"
+                            ],
+                            "short_notes": "The Gerund and the Present Participle look identical but they have different grammatical functions. A gerund is that form of the verb which ends in -ing, and functions as a noun in a sentence. The Present Participle is the form of a verb which ends in -ing and functions as an adjective in a sentence. Since a participle is a verb-adjective, it must be attached to a noun or pronoun."
+                        }
+                    ],
+                    "short_notes": "Gerunds and participles, though both derive from verbs and ending in -ing, have distinct grammatical functions. Gerunds function as nouns while participles function as adjectives or part of a verb tense.",
+                    "vocabulary": [
+                        {
+                            "term": "Gerund",
+                            "definition": "A verb form that ends in -ing and functions as a noun in a sentence"
+                        },
+                        {
+                            "term": "Participle",
+                            "definition": "Form of a verb that is used as an adjective to describe or modify nouns or pronouns"
+                        },
+                        {
+                            "term": "Present participle",
+                            "definition": "Form of a verb that ends in -ing and is used to describe or modify nouns or pronouns"
+                        },
+                        {
+                            "term": "Adjective",
+                            "definition": "A word that describes or modifies a noun or pronoun, giving more information about its qualities"
+                        },
+                        {
+                            "term": "Noun",
+                            "definition": "A word that identifies a person, place, thing, idea, or concept"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 84,
+                        "questions": [
+                            "Learners identify gerunds and present participles in sentences",
+                            "Learners use gerunds and present participles in dialogue",
+                            "Learners construct sentences using gerunds or present participles"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.5",
+                    "title": "SENSE RELATIONS - Synonyms, Antonyms, Homonyms and Homophones",
+                    "page": 85,
+                    "competences": [
+                        "Understand connections between seemingly unrelated subject matter",
+                        "Express oneself (spoken and written) clearly and effectively",
+                        "Use synonyms and antonyms",
+                        "Use Homonyms and Homophones"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.5.1",
+                            "page": 86,
+                            "hook": "Did you know that words relate to each other in different ways?",
+                            "teacher_steps": [
+                                "Discuss synonyms and antonyms: synonym is a word with the same or very similar meaning; antonym is a word with opposite meaning",
+                                "Divide learners into groups and give them a table with words to supply synonyms and antonyms",
+                                "Clarify any misconceptions about synonyms and antonyms",
+                                "Provide practice exercises",
+                                "Discuss homonyms and homophones: Homonyms are words spelled and pronounced the same but have different meanings; Homophones sound the same but have different spellings and meanings",
+                                "Divide learners into groups and give them worksheets with homonyms and homophones to provide meanings",
+                                "Ask learners to work in pairs to identify meanings of given homonyms and homophones",
+                                "Ask learners to distinguish meanings of given homophones using appropriate situations"
+                            ],
+                            "learner_steps": [
+                                "Learn about synonyms (Fast-quick, Big-huge) and antonyms (Happy-sad, Hot-cold)",
+                                "Supply synonyms and antonyms to given words in groups",
+                                "Fill in tables with synonyms and antonyms",
+                                "Learn about homonyms (bank: riverbank vs financial institution; right: correct vs direction) and homophones (flower/flour, bare/bear)",
+                                "Provide meanings of given homonyms and homophones",
+                                "Work in pairs to identify meanings (scale for weighing vs scale for fish; match: lighting match vs soccer match)",
+                                "Construct sentences to distinguish meanings of homophones (She is wearing a blue dress; I will mail the letter tomorrow)"
+                            ],
+                            "short_notes": "Sense relations in grammar refer to the relationships between words based on their meanings. Words are the building blocks of language and understanding their relationship helps communicate more effectively. By mastering synonyms and antonyms, we expand vocabulary and enhance ability to convey emotions, ideas and perspectives. Homonyms and homophones play an important role in both spoken and written communication. Learning to recognise and use these types of words correctly helps improve clarity, avoid confusion, and enhance overall language skills."
+                        }
+                    ],
+                    "short_notes": "Sense relations in grammar refer to the relationships between words based on their meanings. These sense relationships are important because they help us understand how words interact within a language's semantic system.",
+                    "vocabulary": [
+                        {
+                            "term": "Sense relation",
+                            "definition": "The relationships between words based on their meanings"
+                        },
+                        {
+                            "term": "Synonymy",
+                            "definition": "The relationship between words with the same or nearly the same meaning"
+                        },
+                        {
+                            "term": "Antonymy",
+                            "definition": "Relationship between words with opposite meanings"
+                        },
+                        {
+                            "term": "Homophones",
+                            "definition": "Words that sound the same but have different meanings and spellings"
+                        },
+                        {
+                            "term": "Homonyms",
+                            "definition": "Words that share the same spelling and pronunciation but different meaning"
+                        },
+                        {
+                            "term": "Synonym",
+                            "definition": "A word whose meaning is the same as another"
+                        },
+                        {
+                            "term": "Antonym",
+                            "definition": "A word which the opposite meaning of another word"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 90,
+                        "questions": [
+                            "Learners identify synonyms and antonyms and write the activity in their books",
+                            "Learners to fill in tables or supply synonyms and antonyms",
+                            "Learners identify meanings of homonyms and homophones",
+                            "Learners make charts for homonyms and homophones as homework"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.6",
+                    "title": "SUMMARY - Tabulation Skills",
+                    "page": 91,
+                    "competences": [
+                        "Grasp and breakdown information and effectively share with others",
+                        "Express oneself (spoken and written) clearly and effectively",
+                        "Analyse texts to improve the ability to understand",
+                        "Apply Tabulation skills"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.6.1",
+                            "page": 92,
+                            "hook": "Have you ever read a long piece of writing but only remembered the key points?",
+                            "teacher_steps": [
+                                "Ask learners why organising information is important in daily life",
+                                "Introduce tabulation as a method of organising information into rows and columns for clarity and analysis",
+                                "Pair learners and ask them to discuss how they make data easy to understand",
+                                "Provide pairs with pre-made tables containing information and ask questions to interpret the tables",
+                                "Discuss what makes tables easy or difficult to understand",
+                                "Provide learners with tables, charts, diagrams and graphs and ask them to write summaries",
+                                "Provide summary texts and charts to learners and ask them to create tables and organise data",
+                                "Distribute summary passages to individual learners and ask them to summarise and tabulate"
+                            ],
+                            "learner_steps": [
+                                "Discuss why organising information is important",
+                                "Learn about tabulation as a method of organising information",
+                                "Discuss how to make data easy to understand in pairs",
+                                "Interpret given tables by finding totals, making comparisons",
+                                "Extract information from given tables and make summaries in pairs",
+                                "Share work with class in presentations",
+                                "Create tables and organise data in groups using summary texts",
+                                "Read passages individually, summarise and tabulate the summarised information",
+                                "Create tables using data from daily activities as homework (e.g., smartphone usage habits)"
+                            ],
+                            "short_notes": "Summarising is a skill that is required for one purpose or another. A summary is a brief and concise explanation of the main ideas or essential points of a large text or event. Tabulation skills play a significant role in summary writing as they help organise information systematically. Sample passages provided: Survey on learners' leisure activities, Mental health importance. Tables help organise data with headings, labels and clear formatting."
+                        }
+                    ],
+                    "short_notes": "A summary is a brief and concise explanation or account of the main ideas or essential points of a large text or event. A summary focuses on capturing the core meaning while omitting unnecessary details. Tabulation skills play a significant role in summary writing as they help organise information systematically.",
+                    "vocabulary": [
+                        {
+                            "term": "Main idea",
+                            "definition": "The central point or overall theme of the text that the summary focuses on"
+                        },
+                        {
+                            "term": "Paraphrasing",
+                            "definition": "Restating information in your own words while retaining the original meaning"
+                        },
+                        {
+                            "term": "Conciseness",
+                            "definition": "The skill of expressing ideas briefly and without unnecessary words"
+                        },
+                        {
+                            "term": "Key Points",
+                            "definition": "Specific pieces of information that are vital to understanding the text"
+                        },
+                        {
+                            "term": "Clarity",
+                            "definition": "Ensuring the summary is easy to understand and presents ideas logically"
+                        },
+                        {
+                            "term": "Omission",
+                            "definition": "Removing less important information to keep the summary focused"
+                        },
+                        {
+                            "term": "Context",
+                            "definition": "Maintaining the original meaning and tone while summarising the content"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 96,
+                        "questions": [
+                            "Ask individual learners to create a table using data from daily activities (e.g. smartphone usage habits)",
+                            "Homework: Tabulate information from passage on Smartphone Usage Habits"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "11",
+    "subject": "CHEMISTRY 5124",
+    "philosophy": "",
+    "competence_learning": "Demonstrate the skills and knowledge in relating number of valence electrons to the Group number and the number of shells to the Period.; Demonstrate skills in classifying salts according to their solubility.; Demonstrate ability to classify oxides as acidic, basic, neutral and amphoteric.; Demonstrate ability to use tests in identifying aqueous cations, anions and gases.; Demonstrate basic skills and knowledge in calculating stoichiometric reacting moles.; Show ability to identify factors that affect rates of chemical reactions.",
+    "goals": [
+      "Demonstrate an understanding of acids, bases and salts.",
+      "Develop investigative skills about acids, bases and salt.",
+      "Demonstrate an understanding of the importance, production, use, and effect on the environment of acids, bases and salts.",
+      "Demonstrate an understanding of the Mole Concept",
+      "Develop investigative skills about quantitative analysis.",
+      "Demonstrate an understanding of chemical reactions and energy changes",
+      "Develop investigative skills about various types of reactions.",
+      "Demonstrate an understanding of the Periodic Table",
+      "Develop investigative skills about the Periodic Table"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "11.5",
+      "topic_title": "ACIDS, BASES AND SALTS",
+      "page_number": 61,
+      "subtopics": [
+        {
+          "unit": "11.5.1",
+          "title": "Characteristic properties of acids and bases",
+          "specific_outcomes": [
+            "11.5.1.1 Describe acids, bases or alkalis in terms of ions they contain or produce in aqueous solution.",
+            "11.5.1.2 Describe the meaning of weak, strong, dilute and concentrated acids and alkalis",
+            "11.5.1.3 Describe the PH scale",
+            "11.5.1.4 Describe neutrality, acidity and alkalinity in terms of PH value",
+            "11.5.1.5 Determine the PH value of a solution.",
+            "11.5.1.6 Demonstrate the characteristic properties of acids",
+            "11.5.1.7 Demonstrate the characteristic properties of bases",
+            "11.5.1.8 Illustrate the importance of acid-base reactions",
+            "11.5.1.9 State the uses of acids and bases."
+          ]
+        },
+        {
+          "unit": "11.5.2",
+          "title": "Preparation of salts",
+          "specific_outcomes": [
+            "11.5.2.1 Describe a salt",
+            "11.5.2.2 Classify salts according to their nature and solubility in water",
+            "11.5.2.3 Demonstrate the preparation of an insoluble salt.",
+            "11.5.2.4 Demonstrate the preparation soluble salts.",
+            "11.5.2.5 Demonstrate the preparation of ammonium, potassium and sodium salts.",
+            "11.5.2.6 Demonstrate the existence of hydrated salts and differentiate from anhydrous salts",
+            "11.5.2.7 Describe the behaviour of salts with reference to the atmosphere."
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "11.6.3",
+      "topic_title": "Types of oxides",
+      "page_number": 65,
+      "subtopics": [],
+      "specific_outcomes": [
+        "11.5.3.1 Describe the various types of oxides."
+      ]
+    },
+    {
+      "unit": "11.6.4",
+      "topic_title": "Identification of ions and gases (Qualitative analysis)",
+      "page_number": 65,
+      "subtopics": [],
+      "specific_outcomes": [
+        "11.6.4.1 Demonstrate the identity of aqueous cations and anion."
+      ]
+    },
+    {
+      "unit": "11.6",
+      "topic_title": "THE MOLE CONCEPT",
+      "page_number": 66,
+      "subtopics": [
+        {
+          "unit": "11.6.1",
+          "title": "Relative masses",
+          "specific_outcomes": [
+            "11.6.1.1 Describe Relative Atomic Mass and relative molecular mass.",
+            "11.6.1.2 Calculate the relative formula mass of a compound"
+          ]
+        },
+        {
+          "unit": "11.6.2",
+          "title": "The mole",
+          "specific_outcomes": [
+            "11.6.2.1 Describe a mole.",
+            "11.6.2.2 Determine the physical masses (m) of any substance using the molar mass (Mr) and the physical volume (v) of any gas at r.t.p and vice versa.",
+            "11.6.2.3 Describe the relationship of Avogadro’s law to reacting moles and volumes of gases at r.t.p and s.t.p.",
+            "11.6.2.4 Determine the concentration of a solution and apply dilution law.",
+            "11.6.2.5 Illustrate calculations involving stoichiometric reacting moles and volumes of gases and solutions.",
+            "11.6.2.6 Describe and calculate the percentage yield in a reaction and the percentage purity of a substance",
+            "11.6.2.7 Determine limiting reagent in a given reaction",
+            "11.6.2.8 Demonstrate calculations involving different types of acid–base titration reactions."
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "11.7",
+      "topic_title": "CHEMICAL REACTIONS",
+      "page_number": 69,
+      "subtopics": [
+        {
+          "unit": "11.7.1",
+          "title": "Rates of chemical reactions",
+          "specific_outcomes": [
+            "11.7.1.1 Describe rate of a chemical reaction.",
+            "11.7.1.2 Demonstrate the factors that affect the rates of chemical reactions",
+            "11.7.1.3 Interpret data on the rate of chemical reactions.",
+            "11.7.1.4 Describe methods of controlling the rate of chemical reactions.",
+            "11.7.1.5 Describe the effect of a catalyst on the activation energy"
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "11.8",
+      "topic_title": "THE PERIODIC TABLE",
+      "page_number": 70,
+      "subtopics": [
+        {
+          "unit": "11.8.1",
+          "title": "Groups and Periods",
+          "specific_outcomes": [
+            "11.8.1.1 Describe the Period Table",
+            "11.8.1.2 Identify vertical columns and horizontal rows.",
+            "11.8.1.3 Demonstrate how to use the Periodic Table to classify elements"
+          ]
+        },
+        {
+          "unit": "11.8.2",
+          "title": "Groups and Periodic trends",
+          "specific_outcomes": [
+            "11.8.2.1 Describe trends in various Groups given information about the elements",
+            "11.8.2.2 Describe the physical and chemical properties of elements in Group I, II, VII and VIII.",
+            "11.8.2.3 Describe the importance of halogens"
+          ]
+        },
+        {
+          "unit": "11.8.3",
+          "title": "Transition metals",
+          "specific_outcomes": [
+            "11.8.2.4 Describe the harmful effects of halides.",
+            "11.8.2.5 Describe the use of the noble gases in providing an inert atmosphere",
+            "11.8.3.1 Describe transition metals.",
+            "11.8.3.2 Describe general properties of transition metals.",
+            "11.8.3.3 Describe the uses of transition metals"
+          ]
+        }
+      ]
+    }
+  ]
+}

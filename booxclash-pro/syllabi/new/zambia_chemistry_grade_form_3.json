@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 3",
+    "subject": "Chemistry",
+    "philosophy": "Quality, life- long education for all which is accessible, inclusive and relevant to individual, national and global needs.",
+    "competence_learning": "This Chemistry Syllabus aims to create a stimulating and supportive learning environment where learners can develop a profound understanding of chemistry. By fostering curiosity, critical thinking, and practical skills, the syllabus prepares learners for further education and careers in science and technology, contributing to their overall intellectual and personal growth.",
+    "goals": []
+  },
+  "topics": [
+    {
+      "unit": "3.1",
+      "topic_title": "STOICHIOMETRY AND THE MOLE CONCEPT",
+      "page_number": 19,
+      "subtopics": [
+        "3.1.1 Relative Formula Mass/Relative Molecular Mass (RFM/RMM)",
+        "3.1.2 Mass Composition/Percentage Composition",
+        "3.1.3 The Mole",
+        "3.1.4 Empirical and Molecular Formula",
+        "3.1.5 Concentration of Solutions",
+        "3.1.6 Standard Solutions",
+        "3.1.7 Reacting Quantities",
+        "3.1.8 Environmental Stoichiometry"
+      ],
+      "specific_outcomes": [
+        "3.1.1.1 Determine the relative formula mass and relative molecular mass",
+        "3.1.2.1 Apply the concept of mass composition and percentage composition",
+        "3.1.3.1 Determine the number of moles of a given substance",
+        "3.1.4.1 Determine empirical and molecular formula",
+        "3.1.5.1 Demonstrate understanding of concentration of solutions",
+        "3.1.6.1 Prepare standard solutions",
+        "3.1.7.1 Carry out calculations involving stoichiometric reacting quantities",
+        "3.1.7.2 Determine the number of moles in hydrates",
+        "3.1.7.3 Determine percentage yield",
+        "3.1.7.4 Determine percentage purity",
+        "3.1.8.1 Solve environmental problems using stoichiometric principles",
+        "3.1.8.2 Explore the benefits of atom economy"
+      ]
+    },
+    {
+      "unit": "3.2",
+      "topic_title": "THERMO CHEMISTRY",
+      "page_number": 22,
+      "subtopics": [
+        "3.2.1 Thermochemical Reactions",
+        "3.2.2 Sources of Energy",
+        "3.2.3 Nuclear Energy"
+      ],
+      "specific_outcomes": [
+        "3.2.1.1 Demonstrate understanding of thermal reactions",
+        "3.2.1.2 Determine the enthalpy change of endothermic and exothermic reactions",
+        "3.2.2.1 Justify the need to harness alternative sources of energy",
+        "3.2.3.1 Demonstrate understanding of nuclear energy",
+        "3.2.3.2 Analyse the uses of nuclear energy in our daily life"
+      ]
+    },
+    {
+      "unit": "3.3",
+      "topic_title": "EQUILIBRIUM",
+      "page_number": 24,
+      "subtopics": [
+        "3.3.1 Chemical Equilibrium",
+        "3.3.2 Reversible Reactions",
+        "3.3.3 Dynamic Equilibrium"
+      ],
+      "specific_outcomes": [
+        "3.3.1.1 Demonstrate understanding of chemical equilibrium.",
+        "3.3.2.1 Demonstrate reversibility of chemical reactions",
+        "3.3.3.1 Analyse the characteristics of a chemical reaction in a dynamic equilibrium",
+        "3.3.3.2 Evaluate the factors that affect position of dynamic equilibrium"
+      ]
+    },
+    {
+      "unit": "3.4",
+      "topic_title": "ELECTRICITY AND CHEMISTRY",
+      "page_number": 25,
+      "subtopics": [
+        "3.4.1 Electrochemistry",
+        "3.4.2 Conductors and Non - Conductors",
+        "3.4.3 Electrolysis",
+        "3.4.4 Quantitative Electrolysis (Faraday's Laws)",
+        "3.4.5 Industrial Application of Electrolysis",
+        "3.4.6 Chemical Cell"
+      ],
+      "specific_outcomes": [
+        "3.4.1.1 Demonstrate understanding of electrochemistry.",
+        "3.4.2.1 Evaluate the properties and applications of conductors and non-conductors",
+        "3.4.3.1 Demonstrate understanding of electrolytic processes",
+        "3.4.4.1 Determine quantities of electrolytic products",
+        "3.4.5.1 Analyse the uses of electrolytic processes in industries",
+        "3.4.6.1 Construct electrolytic cells"
+      ]
+    },
+    {
+      "unit": "3.5",
+      "topic_title": "PERIODICITY",
+      "page_number": 27,
+      "subtopics": [
+        "3.5.1 Periodic Table",
+        "3.5.2 Transition Metals",
+        "3.5.3 Properties of Metals",
+        "3.5.4 Reactivity Series"
+      ],
+      "specific_outcomes": [
+        "3.5.1.1 Demonstrate understanding of Groups and Periods of the Periodic table",
+        "3.5.1.2 Apply periodic trends to determine metallic and non-metallic nature of elements",
+        "3.5.1.3 Apply periodic trends to predict the properties of newly discovered elements",
+        "3.5.1.4 Analyse the uses of elements in particular groups",
+        "3.5.1.5 Design sustainable solutions to reduce the environmental impact of halogen compounds",
+        "3.5.2.1 Investigate properties and uses of transition elements",
+        "3.5.3.1 Investigate physical and chemical properties of metals",
+        "3.5.4.1 Determine the reactivity series of metals"
+      ]
+    }
+  ]
+}

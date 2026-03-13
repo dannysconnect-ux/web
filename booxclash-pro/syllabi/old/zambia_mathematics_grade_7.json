@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "7",
+    "subject": "Mathematics"
+  },
+  "topics": [
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "FRACTIONS",
+      "page_number": 45,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Solve problems involving addition, subtraction, multiplication and division of fractions (as recap)."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "DECIMALS",
+      "page_number": 45,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Solve problems involving addition, subtraction, multiplication and division of decimal (as recap).",
+        "Convert common fractions to decimals and vice versa.",
+        "Order Fractions and decimals."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "PERCENTAGES",
+      "page_number": 46,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Describe a percentage.",
+        "Convert decimals to percentages and vice versa.",
+        "Convert common fractions to percentages and vice versa.",
+        "Solve problems involving percentages.",
+        "Relate fractions, decimals and percentages to real life situations."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "RATIO AND PROPORTION",
+      "page_number": 46,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Solve problems involving direct proportion (as recap).",
+        "Describe indirect proportion.",
+        "Solve problems involving indirect proportion.",
+        "Draw graphs to illustrate quantities in direct and indirect proportion."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "SOCIAL & COMMERCIAL ARITHMETIC",
+      "page_number": 47,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Conversion of currencies.",
+        "Calculate the cost of goods priced in foreign currency."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "INTEGERS",
+      "page_number": 47,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Understand integers.",
+        "Illustrate positive and negative numbers using the number line.",
+        "Order integers.",
+        "Add integers.",
+        "Subtract integers."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "NUMBER BASES",
+      "page_number": 48,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Illustrate base ten numeration system.",
+        "Describe other number bases.",
+        "Convert from Base 10 to Bases 2, 5 and 8.",
+        "Convert from Bases 2, 5 and 8 to Base 10.",
+        "Convert from base 2 to base 5 and vice versa.",
+        "Add and subtract in Bases 2, 5 and 8."
+      ]
+    },
+    {
+      "unit": "Numbers & Calculation",
+      "topic_title": "NUMBER AND SEQUENCES",
+      "page_number": 48,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Describe perfect squares.",
+        "Find squares of whole numbers.",
+        "Describe cubes.",
+        "Find cubes of whole numbers.",
+        "Generate a sequence in a decreasing and increasing order.",
+        "Generate series."
+      ]
+    },
+    {
+      "unit": "Algebra",
+      "topic_title": "INEQUATIONS",
+      "page_number": 48,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Describe an open sentence.",
+        "Solve simple linear inequations in one variable."
+      ]
+    },
+    {
+      "unit": "Geometry",
+      "topic_title": "PLANE SHAPES",
+      "page_number": 49,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Describe line symmetry.",
+        "Draw lines of symmetry of plane shape.",
+        "Establish the relationship between circumference and diameter."
+      ]
+    },
+    {
+      "unit": "Measures",
+      "topic_title": "MEASUREMENT",
+      "page_number": 49,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Calculate circumference, using radius or diameter of the circle.",
+        "Calculate the area of a circle."
+      ]
+    },
+    {
+      "unit": "Geometry",
+      "topic_title": "SOLID SHAPES",
+      "page_number": 49,
+      "subtopics": [],
+      "learning_outcomes": [
+        "Identify a cylinder and triangular prism.",
+        "Draw nets of cylinder and triangular prism.",
+        "Draw/sketch cylinder and triangular prism."
+      ]
+    }
+  ]
+}

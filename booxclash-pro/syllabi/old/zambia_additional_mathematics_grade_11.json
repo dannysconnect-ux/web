@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "11",
+    "subject": "Additional Mathematics",
+    "philosophy": "The syllabus has been reviewed in line with the Outcome Based Education principles which seek to link education to real life experiences that give learners skills to access, criticize analyse and practically apply knowledge that help them gain life skills. Its competences and general outcomes are the expected outcomes to be attained by the leaners through the acquisition of knowledge, skills, techniques and values which are very important for the total development of the individual and the nation as a whole.",
+    "competence_learning": "Assimilate necessary mathematical concepts for use in everyday life such as environment and other related disciplines.\nThink mathematically and accurately in problem solving skills and apply these skills to formulate and solve mathematical and other related problems.\nProduce imaginative and creative work from mathematical concepts and ideas.\nDevelop abilities and ideas drawn from mathematics to reason logically, communicate mathematically, and learn independently without too much supervision (self-discipline).\nDevelopment positive attitudes towards mathematics and use it in other subjects such as science and technology.\nApply mathematical tools such as information and communication technology in the learning of other subjects.\nUse mathematics for enjoyment and pleasure.\nDevelop understanding of algebra, geometry, measurements and shapes.",
+    "goals": [
+      "Provide clear mathematical thinking and expression in the learner",
+      "Develop the learners' mathematical knowledge and skills",
+      "Enrich the learners' understanding of mathematical concepts in order to facilitate further study of the discipline",
+      "Build up an appreciation of mathematical concepts so that the learner can apply these for problem solving in everyday life.",
+      "Enable the learner Represent, interpret and use data in a variety of forms"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "11.1",
+      "topic_title": "REMAINDER AND FACTOR THEOREM",
+      "page_number": 16,
+      "subtopics": [
+        "11.1.1 Remainder theorem",
+        "11.1.2 Factor theorem",
+        "11.1.3 Polynomial equations"
+      ],
+      "specific_outcomes": [
+        "11.2.1.1 Explain the remainder theorem",
+        "11.2.1.2 Use theorem to find quotient and remainder",
+        "11.2.2.1 Find factors of a polynomial.",
+        "11.1.3.1 Solve polynomial equations."
+      ]
+    },
+    {
+      "unit": "11.2",
+      "topic_title": "EXPONENTS AND LOGARITHMIC FUNCTIONS",
+      "page_number": 16,
+      "subtopics": [
+        "11.3.1 Exponents",
+        "11.3.2 Logarithms"
+      ],
+      "specific_outcomes": [
+        "12 Sketch the graph of logarithmic functions.",
+        "13 Express exponential function as a logarithmic function and vice versa.",
+        "14 Sketch graphs of y = log ax.",
+        "15 Apply laws of indices and logarithms to solve problems."
+      ]
+    },
+    {
+      "unit": "11.3",
+      "topic_title": "ARITHMETIC AND GEOMETRIC EXPRESSIONS",
+      "page_number": 16,
+      "subtopics": [
+        "11.1 Introduction to Arithmetic and Geometric progression",
+        "11.2 The nth term of an arithmetic progression.",
+        "11 The arithmetic mean.",
+        "12 The sum of an A.P.",
+        "13 The nth term of a geometric"
+      ],
+      "specific_outcomes": [
+        "16 Generate Arithmetic sequence and Geometric series",
+        "17 Find the nth term of an Arithmetic progression and Geometric progression.",
+        "18 Find the number of terms of an arithmetic progression and Geometric progression.",
+        "19 Find the arithmetic and Geometric means."
+      ]
+    },
+    {
+      "unit": "11.3",
+      "topic_title": "ARITHMETIC AND GEOMETRIC EXPRESSIONS",
+      "page_number": 17,
+      "subtopics": [
+        "14 The geometric mean.",
+        "15 The sum of a G.P."
+      ],
+      "specific_outcomes": [
+        "20 Find the sum of n terms of an arithmetic progression.",
+        "21 Find the nth term of a Geometric progression.",
+        "22 Find the Geometric mean of two numbers.",
+        "23 Find the sum of a given number of terms in a G.P.",
+        "24 Find the sum to infinity of a G.P."
+      ]
+    },
+    {
+      "unit": "11.5",
+      "topic_title": "DIFFERENTIATION",
+      "page_number": 17,
+      "subtopics": [
+        "11.5.1 The derived function",
+        "11.5.2 Application of the derived function."
+      ],
+      "specific_outcomes": [
+        "12 Find the derivative of a polynomial (f (x) or dy/dx).",
+        "13 Find the derivative of a sum of functions or of composite functions.",
+        "14 Find derivative of gradient,",
+        "15 Tangents, normal and stationary points.",
+        "16 Calculate maxima and minima",
+        "17 Differentiate exponential functions",
+        "18 Differentiate trigonometric functions"
+      ]
+    },
+    {
+      "unit": "11.6",
+      "topic_title": "INTEGRATION",
+      "page_number": 17,
+      "subtopics": [
+        "11.6.1 Introduction to Integration",
+        "11.6.2 Indefinite and definite integrals",
+        "11.6.3 Area"
+      ],
+      "specific_outcomes": [
+        "12 Integrate terms of integer powers and their sum (excluding 1/x or x⁻¹).",
+        "13 Integrate polynomials with fractional powers.",
+        "14 Find indefinite and definite integrals.",
+        "15 Find areas between two curves.",
+        "16 Find area bounded by"
+      ]
+    },
+    {
+      "unit": "11.6",
+      "topic_title": "INTEGRATION",
+      "page_number": 18,
+      "subtopics": [
+        "11.6.4 Volume of solids of revolution"
+      ],
+      "specific_outcomes": [
+        "12 Find volume formed when curve is rotated through 360° (for both x and y axes)."
+      ]
+    },
+    {
+      "unit": "24.6.5",
+      "topic_title": "Velocity and acceleration",
+      "page_number": 18,
+      "subtopics": [
+        "Velocity and acceleration"
+      ],
+      "specific_outcomes": [
+        "11.6.5.1 Find area of the region under velocity – time graph and acceleration time graph.",
+        "11.6.5.1 Solve problem involving velocity and acceleration."
+      ]
+    }
+  ]
+}

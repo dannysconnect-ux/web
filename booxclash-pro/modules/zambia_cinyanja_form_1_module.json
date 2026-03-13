@@ -1,0 +1,688 @@
+{
+    "subject": "Cinyanja",
+    "grade": "Form 1",
+    "term": 3,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "MAKHALIDWE OYENELELA AM'DZIKO (Good Citizenship)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Kukambilana (Discussion)",
+                    "page": 3,
+                    "competences": [
+                        "Kugwilitsila nchito cilankhulo moyenela pakukambilana pa nkhani yokhudzana ndi makhalidwe oyenela a m'dziko"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 4,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ikani aphunzi m'timagulu",
+                                "Funsani aphunzi zomwe adziwapo pa makhalidwe oyenela a dziko",
+                                "Funsani aphunzi kuchula makhalidwe oyenela a dziko lathu",
+                                "Ikani chati pa bolodi ndipo auzeni aphunzi kuti akambilane pa za makhalidwe oyenela a dziko",
+                                "Konzani zolakwika zimene aphunzi angapeleke"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'magulu",
+                                "Afotokozele pa zomwe adziwa pa mfundo za dziko",
+                                "Achule mfundo za dziko zimene adziwa",
+                                "AKambilane m'magulu ao mofikapo pa makhalidwe oyenela za dziko",
+                                "Akonze zolakwika zimene angapeleke"
+                            ],
+                            "short_notes": "Aphunzi akambilana pa makhalidwe oyenela a m'dziko pakugwilitsila nchito cilankhulo coyenela. Makhalidwe oyenela achulidwe, phindu la makhalidwe a bwino afotokozedwe, ndi kuipa kwa makhalidwe oipa."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 4,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Uzani atsogoleli a m'timagulu apeleke zotuluka m'kambilano lao",
+                                "Patsani aphunzi nthawi yocitilamo kambilano",
+                                "Uzani aphunzi aKambilane pa makhalidwe abwino a dziko",
+                                "Konzani zolakwika zimaene aphunzi angapeleke"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'magulu acite kambilano moyenela",
+                                "Acite nchito yopatsidwayo mwa cindunji",
+                                "Akambilane ndi aphunzitsi mofikapo pa makhalidwe abwino",
+                                "Akonze zolakwika zimaene angapeleke"
+                            ],
+                            "short_notes": "Zopeza zapelekedwa mwatsatane-tsatane pa makhalidwe oyenela a dziko."
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "Nzika",
+                            "definition": "Citizen - munthu wa dziko"
+                        },
+                        {
+                            "term": "Mgwilizano",
+                            "definition": "Collaboration - kugwila nchito limodzi"
+                        },
+                        {
+                            "term": "Kukhulupililika",
+                            "definition": "Faithfulness - kukhala wokhulupirika"
+                        },
+                        {
+                            "term": "Kudzipeleka",
+                            "definition": "Commitment - kudzipereka ku nchito"
+                        },
+                        {
+                            "term": "Cinsinsi",
+                            "definition": "Secret - cinthu cosunga mobisa"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 5,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Matanthauzo a Mau (Word Meanings)",
+                    "page": 5,
+                    "competences": [
+                        "Kugwilitsila nchito mau kulingana ndi muyeso wao"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 6,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Funsani aphunzi kuchula mau ofunikila kudziwa",
+                                "Ikani chati pa bolodi ndi kukambilana pa matanthauzo a mau opatsidwa moyenela",
+                                "Uzani aphunzi awelenge matanthauzo omwe apelekedwa"
+                            ],
+                            "learner_steps": [
+                                "Achule mau ofunikila kudziwa",
+                                "Akambilane pa matanthauzo a mau opatsidwa moyenela",
+                                "Awelenge matanthauzo omwe apelekedwa"
+                            ],
+                            "short_notes": "Aphunzi akambilana pa matanthauzo a mau osiyana-siyana: Umunthu, Cilungamo, Kukondela, Umphawi, Kumvela, Cikondi."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 6,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ikani aphunzi m'timagulu kuti apeleke matanthauzo a mau",
+                                "Funsani aphunzi kusankha atsogoleli am'timagulu tao",
+                                "Patsani aphunzi nthawi yocitilamo nchito",
+                                "Kambilanani pa matanthauzo opelekedwa momangiliza mwatsatane-tsatane",
+                                "Itanani atsogoleli a m'timagulu mwa modzi-modzi kupeleka zomwe akambilana",
+                                "Konzani zolakwika zimaene aphunzi angapeleke"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'magulu kukambilana matanthauzo amau opelekedwa",
+                                "Asankhe atsogoleli a m'magulu ao",
+                                "Akambilanane pa matanthauzo a mau omwe opatsidwawo",
+                                "Afotokoze zomwe akambilana m'timagulu tao kupyolela muli atsogoleli a m'timagulu tao",
+                                "Akonzezolakwika zimene aphunzi angapeleke"
+                            ],
+                            "short_notes": "Matanthauzo a mau osankhidwa apelekedwa moyenela."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 7,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ikani aphunzi m'timagulu",
+                                "Patsani mau ofunikila kugwilitsidwila nchito m'ziganizo",
+                                "Uzani aphunzi kuwelenga mau opatsidwa",
+                                "Funsani aphunzi kugwilitsa nchito mau opatsidwawo m'ziganizo"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'timagulu tao",
+                                "Alandile mau ofunikila kugwilitsidwila nchito m'ziganizo",
+                                "Awelenga mau opatsidwa",
+                                "Agwilitsile nchito mau opatsidwawo m'ziganizo"
+                            ],
+                            "short_notes": "Mau osankhidwawo agwilitsidwiIa nchito m'ziganizo moyenela."
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "Umunthu",
+                            "definition": "Humanity - kukonda munthu"
+                        },
+                        {
+                            "term": "Cilungamo",
+                            "definition": "Justice - ciweluzo coyenela"
+                        },
+                        {
+                            "term": "Kukondela",
+                            "definition": "Love - cikondi"
+                        },
+                        {
+                            "term": "Umphawi",
+                            "definition": "Poverty - kusowa katundu"
+                        },
+                        {
+                            "term": "Kumvela",
+                            "definition": "Obedience - kumvela malamulo"
+                        },
+                        {
+                            "term": "Cikondi",
+                            "definition": "Love - kukondana"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 8,
+                        "questions": [
+                            "Gwilitsilani nchito mau opelekedwa m'ziganizo moyenela"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "Kuwelenga Mwakumvetsetsa - Mvetso (Reading Comprehension)",
+                    "page": 8,
+                    "competences": [
+                        "Kuwelenga nkhani zosiyana-siyana momvetsetsa kulingana ndi muyeso wao"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 10,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Patsani nkhani yofunikila kuwelengedwa",
+                                "Uzani aphunzi kuwelenga nkhani yopatsidwa mwaka cete-cete",
+                                "Funsani aphunzi pa nkhani yowelengedwa mwakulankhula cabe"
+                            ],
+                            "learner_steps": [
+                                "Alandile nkhani yofunikila ku welengedwa",
+                                "Awelenge nkhani yopatsidwa mwaka cete-cete",
+                                "Ayankhe mafunso mwa kulankhula cabe"
+                            ],
+                            "short_notes": "Nkhani: NTHANO YA AMAI NAMBALA - Nkhani ya amai Nambala yomwe anali mzice ndipo anakumana ndi mabvuto tsiku ndi tsiku. Ukwakwatuke unawasautsa kwambili. Kabungwe ka zamalimidwe kanayambitsa ndondomeko yatsopano yoona pa ulimi. Amai Nambala anatengako mbali ku maphunzilo. Anapeza phindu kamba ka kuphunzila njila zatsopano za ulimi ndi kusunga ndalama."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 10,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Pelekani nkhani yofunikila kuwelengedwa",
+                                "Patsani aphunzi nthawi yowelengelamo nkhaniyo mwakacete-cete",
+                                "Funsani mafunso osiyana-siyana olunjika pankhaniyo",
+                                "Konzani pamene aphunzi sanacite bwino"
+                            ],
+                            "learner_steps": [
+                                "Alandile nkhani yofunikila kuwelengedwa",
+                                "Awelenge nkhaniyo mwakacete-cete",
+                                "Ayankhe mafunso osiyana-siyana olunjika pankhaniyo",
+                                "Akonze pamene sanacite bwino"
+                            ],
+                            "short_notes": "Mafunso ayankhidwa moyenela kulingana ndi nkhani yowelengedwa."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 11,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Pelekani nkhani yofunikila kufupikitsidwa",
+                                "Funsani aphunzi ndondomeko zoyenela kutsatila pakufupikitsa nkhani",
+                                "Funsani aphunzi kulembe cifupikitso ca nkhani yopatsidwa",
+                                "Konzani zolakwika zina ndi zina zimene aphunzi angapeleke"
+                            ],
+                            "learner_steps": [
+                                "Alandile nkhani yofunikila kufupikitsidwa",
+                                "Peleke ndondomeko zoyenela kutsatilidwa pakufupikitsa nkhani",
+                                "Alembe cifupikitso ca nkhani yopatsidwa",
+                                "Akonze zolakwika zina ndi zina zimene angapeleke"
+                            ],
+                            "short_notes": "Nkhani zowelengedwa zafupikitsidwa moyenela."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 11,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ikani aphunzi m'timagulu tao",
+                                "Funsani aphunzi kusankha atsogoleli a m'timagulu tao",
+                                "Patsani aphunzi ndime zofunikila kulembedwa m'njila ina koma mosasintha matanthauzo ao",
+                                "Uzani aphunzi kuti asanthule nkhani",
+                                "Itanani atsogoleli a m'timagulu kuwelengela anzao zomwe gulu lao lalemba"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'timagulu tao",
+                                "Asankhe atsogoleli a m'timagulu tao",
+                                "Alandile nkhani yofunikila kulembedwanso m'njila ina koma mosasintha tanthauzo lakelo",
+                                "Asanthule nkhani",
+                                "Atsogoleli a m'timagulu welengela anzao zomwe gulu lao lalemba"
+                            ],
+                            "short_notes": "Nkhani zowelengedwa zalembedwanso m'njila ina moyenela koma mosasintha manthauzo ao."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Apelekani mau ofunikila kutanthauzila",
+                                "Funsani aphunzi kuti awelenge mau opatsidwawo",
+                                "Uzani aphunzi apeleke matanthauzo a mau opatsidwawo",
+                                "Kambilanane ndi aphunzi pa mayankho opelekedwawo"
+                            ],
+                            "learner_steps": [
+                                "Alandile mau ofunikila kutanthauzila",
+                                "Awelenge mau opatsidwawo",
+                                "Apeleke matanthauzo a mau opatsidwawo",
+                                "AKambilanane pa mayankho opelekedwawo"
+                            ],
+                            "short_notes": "Matanthauzo a mau apelekedwa moyenela kuchokera m'nkhani."
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "Mzice",
+                            "definition": "Widow - mkazi wakufa mwamuna"
+                        },
+                        {
+                            "term": "Cilungamo",
+                            "definition": "Justice - kuweruza moyenela"
+                        },
+                        {
+                            "term": "Mikangano",
+                            "definition": "Conflicts - mikangano"
+                        },
+                        {
+                            "term": "Kumvela",
+                            "definition": "Obedience - kumvela"
+                        },
+                        {
+                            "term": "Kuduka",
+                            "definition": "To run away - kuthawa"
+                        },
+                        {
+                            "term": "Umbava",
+                            "definition": "Theft - kuba"
+                        },
+                        {
+                            "term": "Umunthu",
+                            "definition": "Humanity - kunena za umunthu"
+                        },
+                        {
+                            "term": "Ukwakwatuke",
+                            "definition": "Polygamy - kukwatila akazi ambili"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 13,
+                        "questions": [
+                            "Fupikitsani nkhani yopatsidwa",
+                            "Sinthani ndime koma osasintha matanthauzo lake"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "COONADI NDI MALINGALILO (Facts and Opinions)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Kambilano - Coonadi ndi Malingalilo (Discussion - Facts and Opinions)",
+                    "page": 28,
+                    "competences": [
+                        "Kusiyanitsa Zoonadi ndi Malingalilo ao m'kambilano, zolankhulidwa kapena pa msonkhano"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 29,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ikani aphunzi m'timagulu",
+                                "Uzani aphunzi kusankha umodzi pakagulukao oti akalankhulile kaguluko",
+                                "Uzani aphunzi kuti asiyanitse pakati pa zaZoonadi ndi Malingalilo",
+                                "Uzani aphunzi kuti afotokozele zimene akambilana m'timagulu tao",
+                                "Konzani pamene aphunzi sanacite bwino"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'timagulu tao",
+                                "Asankhe owalankhulila kagulu kao",
+                                "Asiyanitse Zoonadi ndi Malingalilo",
+                                "Akonze pamene sanacite bwino"
+                            ],
+                            "short_notes": "Zoonadi ndi Malingalilo zasiyanitsidwa moyenela. Zoonadi ndi zinthu zeni-zeni zimene zinacitika. Malingalilo ndi maganizo a munthu pa nkhani."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 29,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Uzani aphunzi umodzi-umodzi kunena zotika Zoonadi ndi Malingalilo ao ku aphunzi anzao",
+                                "Uzani aphunzi kumvetsela zonena anzao",
+                                "Konzani pamene aphunzi sanacite bwino"
+                            ],
+                            "learner_steps": [
+                                "Anene Zoonadi ndi Malingalilo",
+                                "Amvetsele kuzonena anzao",
+                                "Akonze pamene sanacite bwino"
+                            ],
+                            "short_notes": "Zoonadi ndi Malingalilo zapelekedwa moyenela."
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "Malingalilo",
+                            "definition": "Opinions - maganizo a munthu"
+                        },
+                        {
+                            "term": "Zoonadi",
+                            "definition": "Facts - zinthu zeni-zeni"
+                        },
+                        {
+                            "term": "Kambilano",
+                            "definition": "Discussion - kukambitsana"
+                        },
+                        {
+                            "term": "Msonkhano",
+                            "definition": "Meeting - kukumana"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 30,
+                        "questions": [
+                            "Siyanitsani Zoonadi ndi Malingalilo",
+                            "Aphunzi apelike Zoonadi ndi Malingalilo ao ku aphunzi anzao"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "KULANKHULA PA MTETETE (Public Speaking)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Kulankhula (Speaking)",
+                    "page": 53,
+                    "competences": [
+                        "Kulakhula pa msonkhano wa pamtetete pa mutu opatsidwa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 53,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ikani aphunzi m'magulu",
+                                "Uzani aphunzi ndongosolo lokalankhulidwe pa msonkhano",
+                                "Funsani aphunzi kupeza mfundo zolunjika pa mutu wopatsidwa",
+                                "Uzani aphunzi kupyolela muli atsogoleli ao kupeleka zosankhanitsa zao",
+                                "Konzani zolakwika zomwe aphunzi angapeleke"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'magulu",
+                                "Amvetsele kundongosolo lokalankhulidwe pa msonkhano",
+                                "Apeze mfundo zolunjika pa mutu wopatsidwa",
+                                "Apelek zosankhanitsa zao kupyolela muli atsogoleli ao",
+                                "Akonze zolakwika zomwe angapeleke"
+                            ],
+                            "short_notes": "Mfundo zasonkanitsidwa moyenela pa mutu opatsidwa. Kulankhula pa mtetete kumafuna mfundo zoyenela, dongosolo loyenela, ndi kulongosolera koyenela."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 54,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ikani aphunzi m'magulu",
+                                "Kumbutsani aphunzi ndongosolo lokalankhulidwe pa msonkhano",
+                                "Funsani aphunzi kupeza mfundo zolunjika pa mutu wopatsidwa",
+                                "Uzani aphunzi kucita ciwonetselo ca malankhulidwe apamsonkhano wa pamtetete",
+                                "Konzani zolakwika zomwe aphunzi angapeleke"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'magulu",
+                                "Akumbukile ndongosolo lokalankhulidwe pa msonkhano",
+                                "Apeza mfundo zolunjika pa mutu wopatsidwa",
+                                "Acite ciwonetselo ca malankhulidwe apamsonkhano wa pamtetete",
+                                "Akonze zolakwika zomwe angapeleke"
+                            ],
+                            "short_notes": "Kulankhula Kwa pa mtetete pa mutu opatsidwa kwa citidwa moyenela."
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "Pa mtete",
+                            "definition": "In public - poyera"
+                        },
+                        {
+                            "term": "Wasakadza",
+                            "definition": "Destroyer - wowononga"
+                        },
+                        {
+                            "term": "Kwamtimabii",
+                            "definition": "Carelessly - mosasamala"
+                        },
+                        {
+                            "term": "Ndanda",
+                            "definition": "Platform - malo olankhulilamo"
+                        },
+                        {
+                            "term": "Malonje",
+                            "definition": "Greetings - moni"
+                        },
+                        {
+                            "term": "Akumpando",
+                            "definition": "Chairperson - wotsogolela msonkhano"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 55,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "MTSUTSANO (Debate)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Kambilano - Mtsutsano (Discussion - Debate)",
+                    "page": 77,
+                    "competences": [
+                        "Acitemtsutsano pa nkhani yopatsidwa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 78,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Funsani aphunzi kupeleka tanthauzo la liu loti mtsutsono",
+                                "Kambilanani nao aphunzi pa ziyenelezo zocitilimo mtsutso",
+                                "Fotokozelani aphunzi mopezela mfondo",
+                                "Pelekani dongosolo locitilamo mtsustano",
+                                "Gawani aphunzi m'magulu",
+                                "Funsani aphunzi kucita mtsutsano m'kalasi",
+                                "Kozani zimene pamene aphunzi sanacite bwino"
+                            ],
+                            "learner_steps": [
+                                "Apeleke tanthauzo la liu loti mtsutsano",
+                                "Afotokozele ziyenelezo zocitilimo mtsutsano",
+                                "Azindikile mopezele mfundo",
+                                "Azindikile dongosolo locitilamo mstustano",
+                                "Akhale m'magulu",
+                                "Acite mtsutsano",
+                                "Akonze zimene sanacite bwino"
+                            ],
+                            "short_notes": "Aphunzi acita mtsutsano pa nkhani zolingana ndi muyeso wao moyenela. Mtsutsano ndi njira yofotokozera maganizo awiri osiyana pa mutu umodzi. Pali mbali yolowela ndi mbali yotulukila."
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "Mstutsano",
+                            "definition": "Debate - kukambilana mosaganizana"
+                        },
+                        {
+                            "term": "Molowela",
+                            "definition": "Proposition - mbali yovomela"
+                        },
+                        {
+                            "term": "Motulukila",
+                            "definition": "Opposition - mbali yotsutsa"
+                        },
+                        {
+                            "term": "Motsutsila",
+                            "definition": "Against - kutsutsa"
+                        },
+                        {
+                            "term": "Ndondomekoyakacitidwe",
+                            "definition": "Procedures - njira zoyenela kutsatila"
+                        },
+                        {
+                            "term": "Ndemanga",
+                            "definition": "Comments - maganizo"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 78,
+                        "questions": [
+                            "Aphunzi acite mtsutsano m'kalasi pa mutu wopatsidwa"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "NYIMBO (Songs)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "5.1",
+                    "title": "Nyimbo Zamakono (Modern Songs)",
+                    "page": 102,
+                    "competences": [
+                        "Kufotokozela phindu la nyimbo zacikale ndi zamakono"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 103,
+                            "hook": null,
+                            "teacher_steps": [
+                                "ikani aphunzi m'timagulu",
+                                "Uzani kagulu kalikonse kuti kasnkhe mlembi wa gululo",
+                                "Uzani aphunzi akambilane ndi kulemba mfundo zomwe agwilizana ngati gulu",
+                                "Itanani mlembi wakagulu kali konse kupeleka za zotuluka m'kukambilana kwao",
+                                "Wongolelani zolakwika zina zimene aphunzi angapeleke"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'timagulu",
+                                "Asankhe azitsogoleli m'timagulu tao",
+                                "Akambilane ndi kulemba zokambilana zao",
+                                "Afotokozele za zotuluka m'kukambilana kwao"
+                            ],
+                            "short_notes": "Kambilano pa nyimbo za makono la ciidwa moyenela. Nyimbo zamakono zili ndi maphunziro amene angathandize anthu kupititsa moyo wabwino."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 103,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Patsani a phunzi nyimbo zamakono zosiyana-siyana",
+                                "Ikani aphunzi m'timagulu",
+                                "Uzani kuti gulu lililonse lisankhe mlembi wa gululo",
+                                "Itanani mlembi wagulu lili lonse kupeleka za zotuluka m'kukambilana kwao",
+                                "Wongolelani zolakwika zina zimene aphunzi angapeleke"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'timagulu",
+                                "Asankhe azitsogoleli m'timagulu tao",
+                                "Akambilane ndi kulemba zokambilana zao",
+                                "Atsogoleli a timagulu afotokozele za zotuluka mkukambilana kwao"
+                            ],
+                            "short_notes": "Kusanthusanthulidwe ka phunzilo la nyimbo zamakono kacitidwa moyenela."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 104,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ikani aphunzi m'timagulu",
+                                "Uzani kuti gulu lililonse lisankhe mtsogoleli",
+                                "Itanani gulu lili lonse liyimbe nyimbo yacikhalidwe"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'timagulu",
+                                "Ayimbe nyimbo zacikhalidwe"
+                            ],
+                            "short_notes": "Nyimbo zamakono zaimbidwa moyenela."
+                        }
+                    ],
+                    "vocabulary": [
+                        {
+                            "term": "Chilimbi",
+                            "definition": "Choir - gulu loimba"
+                        },
+                        {
+                            "term": "Muimbi",
+                            "definition": "Singer - woimba"
+                        },
+                        {
+                            "term": "Shalinga",
+                            "definition": "Tune - kamvekedwe ka nyimbo"
+                        },
+                        {
+                            "term": "Kubvuma",
+                            "definition": "To beat drum - kumenya ng'oma"
+                        },
+                        {
+                            "term": "Zacikale",
+                            "definition": "Traditional - zachikhalidwe"
+                        },
+                        {
+                            "term": "Zamakono",
+                            "definition": "Modern - zatsopano"
+                        },
+                        {
+                            "term": "Khalidwe",
+                            "definition": "Behavior - mmene munthu amacitira"
+                        },
+                        {
+                            "term": "Mwiimbi",
+                            "definition": "Musician - woimba"
+                        },
+                        {
+                            "term": "Bvuma",
+                            "definition": "Drum - ng'oma"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 105,
+                        "questions": []
+                    }
+                }
+            ]
+        }
+    ]
+}

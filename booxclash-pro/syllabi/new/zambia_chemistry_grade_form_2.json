@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 2",
+    "subject": "Chemistry",
+    "philosophy": "The Chemistry Syllabus for Forms 1 to 4 is designed to equip learners with a comprehensive understanding of chemistry concepts, fostering a deep appreciation for the role of chemistry in everyday life and its applications in various fields. This syllabus aims to develop students' analytical thinking, problem-solving skills, and practical laboratory techniques through a structured and progressive learning approach. Chemistry, as a central science, bridges the gap between physical and biological sciences, providing insights into the composition, structure, properties, and changes of matter. This syllabus emphasises the importance of a hands-on, inquiry-based learning experience, encouraging learners to explore, experiment, and engage in scientific reasoning. The Ordinary Level (O Level) Chemistry Syllabus is committed to providing an enriching and supportive educational environment where learners can develop a lifelong interest in chemistry. By promoting inquiry, curiosity, and a passion for science, we aim to prepare learners not only for academic success but also for their future roles as informed and responsible citizens in a scientifically advanced society.",
+    "competence_learning": "Analytical Thinking, Collaboration, Communication, Critical Thinking, Environmental Sustainability, Problem Solving",
+    "goals": [
+      "Equip learners with a comprehensive understanding of chemistry concepts",
+      "Foster a deep appreciation for the role of chemistry in everyday life and its applications in various fields",
+      "Develop students' analytical thinking, problem-solving skills, and practical laboratory techniques through a structured and progressive learning approach",
+      "Emphasise the importance of a hands-on, inquiry-based learning experience, encouraging learners to explore, experiment, and engage in scientific reasoning",
+      "Create a stimulating and supportive learning environment where learners can develop a profound understanding of chemistry",
+      "Prepare learners for further education and careers in science and technology",
+      "Contribute to their overall intellectual and personal growth"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "2.1",
+      "topic_title": "BONDING",
+      "page_number": 10,
+      "subtopics": [
+        "2.1.1 Chemical Bonding",
+        "2.1.2 Ions",
+        "2.1.3 Chemical Formulae",
+        "2.1.4 Ionic Bonding",
+        "2.1.5 Covalent Bonding",
+        "2.1.6 Metallic Bonding",
+        "2.1.7 Structure of Compounds"
+      ],
+      "specific_outcomes": [
+        "2.1.1.1 Demonstrate understanding of chemical bonding",
+        "2.1.2.1 Demonstrate understanding of ion formation in bonding",
+        "2.1.3.1 Deduce chemical formulae of compounds",
+        "2.1.3.2 Demonstrate understanding of chemical compounds",
+        "2.1.4.1 Demonstrate understanding of ionic bonding",
+        "2.1.4.2 Apply the uses of ionic compounds in our everyday life",
+        "2.1.5.1 Demonstrate understanding of covalent bonding",
+        "2.1.5.2 Apply the uses of covalent compounds in everyday life",
+        "2.1.6.1 Demonstrate understanding of metallic bonding",
+        "2.1.6.2 Apply the uses of metallic substances in our everyday life",
+        "2.1.7.1 Classify compounds into simple and giant structures"
+      ]
+    },
+    {
+      "unit": "2.2",
+      "topic_title": "CHEMICAL REACTIONS",
+      "page_number": 12,
+      "subtopics": [
+        "2.2.1 Chemical Reactions",
+        "2.2.2 Chemical Equations"
+      ],
+      "specific_outcomes": [
+        "2.2.1.1 Demonstrate understanding of the principles of chemical reactions",
+        "2.2.2.1 Construct chemical equations"
+      ]
+    },
+    {
+      "unit": "2.3",
+      "topic_title": "CHEMICAL KINETICS",
+      "page_number": 13,
+      "subtopics": [
+        "2.3.1 Rates of Chemical Reactions"
+      ],
+      "specific_outcomes": [
+        "2.3.1.1 Demonstrate understanding of rates of chemical reactions",
+        "2.3.1.2 Investigate factors that affect the rates of chemical reactions"
+      ]
+    },
+    {
+      "unit": "2.4",
+      "topic_title": "REDOX REACTIONS",
+      "page_number": 13,
+      "subtopics": [
+        "2.4.1 Oxidation and Reduction"
+      ],
+      "specific_outcomes": [
+        "2.4.1.1 Interpret redox reactions"
+      ]
+    },
+    {
+      "unit": "2.5",
+      "topic_title": "ACIDS, BASES AND SALTS",
+      "page_number": 14,
+      "subtopics": [
+        "2.5.1 Composition of Acids, Bases and Salts",
+        "2.5.2 Acids",
+        "2.5.3 Bases",
+        "2.5.4 Oxides",
+        "2.5.5 Acid-Base Indicators",
+        "2.5.6 Salts",
+        "2.5.7 Qualitative Analysis"
+      ],
+      "specific_outcomes": [
+        "2.5.1.1 Analyse the composition of acids, bases and salts",
+        "2.5.2.1 Demonstrate understanding of acids",
+        "2.5.2.2 Analyse the properties of acids",
+        "2.5.3.1 Demonstrate understanding of bases",
+        "2.5.3.2 Analyse the properties of bases",
+        "2.5.4.1 Classify oxides",
+        "2.5.5.1 Apply acid-base indicators to determine the acidity, alkalinity and neutrality of a substance",
+        "2.5.6.1 Prepare and obtain salts",
+        "2.5.6.2 Analyse the use of salts in real-world scenarios",
+        "2.5.7.1 Investigate the chemical composition of salts in terms of cations and anions present",
+        "2.5.7.2 Apply analysis of salts in creation of economical products"
+      ]
+    }
+  ]
+}

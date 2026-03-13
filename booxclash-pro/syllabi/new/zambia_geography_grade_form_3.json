@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "FORM 3",
+    "subject": "Geography",
+    "philosophy": "Geography Syllabus for Ordinary Level Secondary School has been developed to provide quality education that is aligned with the Competency-Based Curriculum and 21st century skills in Form 1-4. The syllabus is designed to ignite curiosity, relate to everyday experiences and foster appreciation for the diverse landscapes, cultures and ecosystems that shape the Earth. Through the syllabus learners will explore the dynamics of the Earth's features, including landforms, climate and natural resources as well as the impact of human activities on the environment. This syllabus places emphasis on spatial awareness, analytical skills, sustainable practices and the use of geographical tools and technologies to prepare learners to engage meaningfully with global challenges such as climate change, urbanisation and resource management. This syllabus is designed to guide the teaching and learning of Geography for Ordinary Secondary Education Form 1-4. The syllabus interprets the competences indicated in the 2023 Zambia Education Curriculum Framework. The study of geography provides a holistic understanding of the Earth's physical and human systems and their interconnectedness. It also incorporates the techniques of map interpretation and the basic techniques in research.",
+    "competence_learning": "At the beginning of each form level (1, 2, 3 and 4), there are competences and descriptors to be developed by the learners. For easy reference, the syllabus is arranged as follows; the topic, sub-topic, specific competences, learning activities, and expected standard. The approach to teaching and learning is learner-centred. Therefore, in order to develop learners with understanding, skills, and values that can contribute to the development of society, the starting point for teaching and learning is to recognise that learners come to school with a wealth of knowledge and experience gained from the family, community, and through interaction with the environment. Thus, learning in school must build on the learner's prior knowledge and experience. This is best achieved when learners are actively involved in the learning process through hands-on activities.",
+    "goals": [
+      "Enable learners develop knowledge, skills and values necessary to understand the Earth, its systems and the relationship between human settlements, natural resources, economic activities and environmental health and sustainability.",
+      "Enable learners acquire essential competences and think reflectively, logically, scientifically, creatively and critically so as to promote sustainable development.",
+      "Develop a variety of functional and sustainable knowledge, skills, and experiences which will help them develop into citizens with positive attitude, a sense of curiosity, capacity and ability to fit in the local, national, regional and international community."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "3.1",
+      "topic_title": "Structure of the Earth",
+      "page_number": 37,
+      "subtopics": [
+        "3.1.1. Earth's Internal Structure",
+        "3.1.2. Types of Rocks"
+      ],
+      "specific_outcomes": [
+        "3.1.1.1.Demonstrate understanding of the internal structure of the earth",
+        "3.1.2.1. Relate rocks to everyday life"
+      ]
+    },
+    {
+      "unit": "3.2",
+      "topic_title": "Internal Earth Movements and Land forms",
+      "page_number": 37,
+      "subtopics": [
+        "3.2.1. Landforms Formed by Faulting and Folding",
+        "3.2.2. Landforms formed by Earthquakes and Volcanic activities"
+      ],
+      "specific_outcomes": [
+        "3.2.1.1.Link faulting and folding to real life experiences",
+        "3.2.2.1. Relate earthquakes and volcanic activity to the natural environment",
+        "3.2.2.2. Evaluate the impacts of earthquakes and volcanic activities on environment"
+      ]
+    },
+    {
+      "unit": "3.3",
+      "topic_title": "Weathering and Mass movement (Mass Wasting)",
+      "page_number": 39,
+      "subtopics": [
+        "3.3.1. Weathering",
+        "3.3.2. Mass movement (Mass Wasting)"
+      ],
+      "specific_outcomes": [
+        "3.3.1.1. Relate weathering to real-life experiences",
+        "3.3.2.1. Relate mass movement to real -life experiences"
+      ]
+    },
+    {
+      "unit": "3.4",
+      "topic_title": "River Processes",
+      "page_number": 40,
+      "subtopics": [
+        "3.4.1. Hydrological Cycle",
+        "3.4.2. River System"
+      ],
+      "specific_outcomes": [
+        "3.4.1.1. Practise sustainable use of water.",
+        "3.4.2.1. Apply knowledge of river system in everyday life"
+      ]
+    },
+    {
+      "unit": "3.5",
+      "topic_title": "Weather and Climate",
+      "page_number": 41,
+      "subtopics": [
+        "3.5.1. Climatic Regions",
+        "3.5.2. Tropical and Temperate Cyclonic Activities"
+      ],
+      "specific_outcomes": [
+        "3.5.1.1. Develop ways of adapting to climatic regions",
+        "3.5.2.1. Plan for cyclonic Activities"
+      ]
+    },
+    {
+      "unit": "3.6",
+      "topic_title": "Population",
+      "page_number": 42,
+      "subtopics": [
+        "3.6.1. World Population"
+      ],
+      "specific_outcomes": [
+        "3.6.1.1. Demonstrate understanding of world population distribution/density"
+      ]
+    },
+    {
+      "unit": "3.7",
+      "topic_title": "Global Pandemics",
+      "page_number": 42,
+      "subtopics": [
+        "3.7.1. HIV/AIDS and COVID 19"
+      ],
+      "specific_outcomes": [
+        "3.7.1.1. Adopt ways of coping with pandemics"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "12",
+    "subject": "BIOLOGY 5090",
+    "philosophy": "Demonstrate understanding of asexual reproduction. Demonstrate understanding of vegetative reproduction Develop investigative skills Demonstrate understanding of sexual reproduction in flowering plants. Demonstrate understanding of sexual reproduction in animals. Demonstrate understanding of genetics Demonstrate knowledge, attitudes and values about plants and animals. Acquire knowledge and value of soil. Develop knowledge, positive attitudes and values about ecology. Demonstrate knowledge, attitudes and values about population.",
+    "competence_learning": "Demonstrate the ability to identify the reproductive parts in flowering plants Show the ability to demonstrate variation of characteristics in plants and animals Demonstrate the ability to identify and classify different species of animals and plants Demonstrate the ability to investigate the composition of soil. Demonstrate the ability to design a food chain in a given ecosystem",
+    "goals": []
+  },
+  "topics": [
+    {
+      "unit": "12.1.1",
+      "topic_title": "Reproduction in Fungi, Amoeba and Bacteria",
+      "page_number": 46,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.1.1.1 Describe the different types of reproduction.",
+        "12.1.1.2 Describe asexual reproduction in unicellular organisms.",
+        "12.1.1.3 Describe the sexual and asexual reproduction in fungus.",
+        "12.1.1.4 Explain the importance of fungi and bacteria."
+      ]
+    },
+    {
+      "unit": "12.1.2",
+      "topic_title": "Vegetative Reproduction",
+      "page_number": 47,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.1.2.1 Describe different methods of natural propagation.",
+        "12.1.2.2 Investigate different methods of artificial propagation.",
+        "12.1.2.3 Explain the advantages and disadvantages of vegetative propagation."
+      ]
+    },
+    {
+      "unit": "12.2.1",
+      "topic_title": "Reproduction in Plants",
+      "page_number": 48,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.2.1.1 Identify the parts of a typical flower.",
+        "12.2.1.2 Describe the functions of various parts of a flower."
+      ]
+    },
+    {
+      "unit": "12.2.2",
+      "topic_title": "Pollination",
+      "page_number": 48,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.2.2.1 Distinguish between two different types of pollination.",
+        "12.2.2.2 Distinguish between wind and insect pollination.",
+        "12.2.2.3 Describe the process of fertilization in flowers.",
+        "12.2.2.4 Investigate ways in which seeds and dispersed.",
+        "12.2.2.5 Explain the adaptation of fruits and seeds to mode of dispersal.",
+        "12.2.2.7 Explain the importance of fruit and seed dispersal."
+      ]
+    },
+    {
+      "unit": "12.3.1",
+      "topic_title": "Sexual Reproduction in Animals",
+      "page_number": 49,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.3.1.1 Describe the process of reproduction in a frog.",
+        "12.3.1.2 Identify male and female reproductive organs in human beings.",
+        "12.3.1.3 Explain the functions of the different organs of the human reproductive system.",
+        "12.3.1.4 Describe the biological changes associated with sexual development in human beings.",
+        "12.3.1.5 Describe the menstrual cycle.",
+        "12.3.1.6 Explain the processes of fertilisation and implantation in human beings.",
+        "12.3.1.7 Identify causes of infertility in human beings",
+        "12.3.1.8 Describe development of the embryo in the uterus.",
+        "12.3.1.9 Describe health risks associated with foetal development",
+        "12.3.1.10 Describe healthy pregnancy and safe child birth"
+      ]
+    },
+    {
+      "unit": "12.3.2",
+      "topic_title": "Birth Control",
+      "page_number": 51,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.3.2.1 Explain some methods of birth control.",
+        "12.3.2.2 Describe the benefits and possible risks of using contraceptives"
+      ]
+    },
+    {
+      "unit": "12.4.1",
+      "topic_title": "Variation in Plant and Animal Species",
+      "page_number": 52,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.4.1.1 Describe terms used in the study of genetics.",
+        "12.4.1.2 Describe the variations in human beings.",
+        "12.4.1.3 Observe variations in flowering plants.",
+        "12.4.1.4 Distinguish between continuous and discontinuous variations.",
+        "12.4.1.5 Describe the factors that cause variations among plant and animals of the same species."
+      ]
+    },
+    {
+      "unit": "12.4.2",
+      "topic_title": "Cell Division and Chromosomes",
+      "page_number": 53,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.4.2.1 Describe the stages of cell division.",
+        "12.4.2.3 Explain the importance of mitosis and meiosis."
+      ]
+    },
+    {
+      "unit": "12.4.3",
+      "topic_title": "Inheritance",
+      "page_number": 53,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.4.3.1 Explain what a monohybrid inheritance is.",
+        "12.4.3.2 Demonstrate the inheritance of human characteristics using the crossings",
+        "12.4.3.3 Explain the factors that determine the sex of a human being.",
+        "12.4.3.4 Explain the inheritance of sex linked characteristics.",
+        "12.4.3.5 Describe the mechanism of ABO blood groups inheritance."
+      ]
+    },
+    {
+      "unit": "12.4.4",
+      "topic_title": "Mutation",
+      "page_number": 54,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.4.4.1 Describe what mutation is.",
+        "12.4.4.2 Identify the causes of mutation.",
+        "12.4.4.4 Explain effects of mutation.",
+        "12.4.4.5 Describe the uses of mutations"
+      ]
+    },
+    {
+      "unit": "12.5.1",
+      "topic_title": "Classification",
+      "page_number": 55,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.5.1.1 Identify various types of plants.",
+        "12.5.1.2 Identify various types of animals.",
+        "12.5.1.3 Formulate a simple key for classification of plants and animals.",
+        "12.5.1.4 Use a simple classification key to identify plants and animals."
+      ]
+    },
+    {
+      "unit": "12.6.1",
+      "topic_title": "Soil Composition and Fertility.",
+      "page_number": 56,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.6.1.1 Demonstrate soil composition.",
+        "12.6.1.2 Describe the types of soil and their properties.",
+        "12.6.1.3 Describe factors that make soil fertile.",
+        "12.6.1.4 Investigate causes of loss of fertility in soil.",
+        "12.6.1.5 Explain methods of improving and retaining soil fertility.",
+        "12.6.1.6 Determine the distribution of earth worms in different types of soils"
+      ]
+    },
+    {
+      "unit": "12.7.1",
+      "topic_title": "Biotic and Abiotic Interactions.",
+      "page_number": 57,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.7.1.1 Explain the term ecology.",
+        "12.7.1.2 Explain the terms used in ecology"
+      ]
+    },
+    {
+      "unit": "12.7.2",
+      "topic_title": "Feeding Relationships and Energy Flow",
+      "page_number": 57,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.7.2.1 Design a food chain.",
+        "12.7.2.2 Design a food web.",
+        "12.7.2.3 Describe the way energy flows along food chains and food webs.",
+        "12.7.2.4 Describe the efficiency of energy transfer between trophic levels.",
+        "12.7.2.5 Construct pyramids of numbers, bio-mass and energy"
+      ]
+    },
+    {
+      "unit": "12.7.3",
+      "topic_title": "Population",
+      "page_number": 58,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.7.3.1 Explain the term population.",
+        "12.7.3.2 Investigate factors that cause change in population size.",
+        "12.7.3.3 Interpret population data."
+      ]
+    },
+    {
+      "unit": "12.7.4",
+      "topic_title": "Carbon and Nitrogen, Water Cycles",
+      "page_number": 58,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.7.4.1 Describe how carbon and nitrogen are cycled within an ecosystem.",
+        "12.7.4.2 Describe what the water cycle is."
+      ]
+    },
+    {
+      "unit": "12.7.5",
+      "topic_title": "Ecosystem",
+      "page_number": 58,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.7.5.1 Investigate key features of an ecosystem.",
+        "12.7.5.2 Explain the effects of Agriculture on an ecosystem.",
+        "12.7.5.3 Describe the effects of deforestation on soil stability and climate."
+      ]
+    },
+    {
+      "unit": "12.7.6",
+      "topic_title": "Pollution",
+      "page_number": 59,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.7.6.1 Describe the undesirable effects of pollution.",
+        "12.7.6.2 Determine measures to prevent pollution."
+      ]
+    },
+    {
+      "unit": "12.7.7",
+      "topic_title": "Conservation",
+      "page_number": 59,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.7.7.1 Identify the importance of conserving plant and animal species.",
+        "12.7.7.2 Explain how to reuse, reduce and recycle materials.",
+        "12.7.7.3 Investigate the importance of sustainable use of resources"
+      ]
+    },
+    {
+      "unit": "12.7.8",
+      "topic_title": "Bio-diversity",
+      "page_number": 59,
+      "subtopics": [],
+      "specific_outcomes": [
+        "12.7.8.1 Investigate diversity of organisms in a given locality.",
+        "12.7.8.2 Investigate the importance of diversity of organisms in given locality",
+        "12.7.8.3 Explain how some organisms are adapted to the",
+        "12.7.8.4 Investigate the impact of human activity on organisms",
+        "12.7.8.5 Describe the economic reasons for maintaining bio-diversity."
+      ]
+    }
+  ]
+}

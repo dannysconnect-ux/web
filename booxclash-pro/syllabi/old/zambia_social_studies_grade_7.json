@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "7",
+    "subject": "Social Studies"
+  },
+  "topics": [
+    {
+      "unit": "7.1",
+      "topic_title": "GOVERNANCE",
+      "page_number": 24,
+      "subtopics": [
+        "7.1.1 Democratic Governance",
+        "7.1.2 Organs of Government",
+        "7.1.3 Government Ministries",
+        "7.1.4 Constitution"
+      ],
+      "learning_outcomes": [
+        "Describe democracy",
+        "Mention characteristics of democracy",
+        "Explain how democracy protects and promotes human rights",
+        "Describe ways in which women and girls are discriminated against",
+        "Explain forms of child abuse",
+        "Describe types of child labour",
+        "Identify the organs of government",
+        "Explain the functions of the Executive, Legislature, and Judiciary",
+        "Identify Government Ministries",
+        "State the importance of the Constitution"
+      ]
+    },
+    {
+      "unit": "7.2",
+      "topic_title": "THE WORLD",
+      "page_number": 25,
+      "subtopics": [
+        "7.2.1 Continents",
+        "7.2.2 Physical Features"
+      ],
+      "learning_outcomes": [
+        "Identify the continents of the world",
+        "Locate on a world map major physical features"
+      ]
+    },
+    {
+      "unit": "7.3",
+      "topic_title": "WORLD CHALLENGES",
+      "page_number": 25,
+      "subtopics": [
+        "7.3.1 Population Growth",
+        "7.3.2 Corruption",
+        "7.3.3 Food Shortages",
+        "7.3.4 HIV and AIDS",
+        "7.3.5 Pollution",
+        "7.3.6 Other World Challenges"
+      ],
+      "learning_outcomes": [
+        "Identify the causes of rapid world population growth",
+        "Mention the effects of rapid world population growth",
+        "State possible solutions to rapid world population growth",
+        "State different forms of corruption",
+        "State causes of food shortages in some parts of the world",
+        "Explain the importance of food security",
+        "Explain the consequences of HIV and AIDS on food security",
+        "Explain causes of pollution",
+        "Outline effects of pollution on the environment",
+        "State possible solutions to pollution",
+        "State other world challenges",
+        "Suggest possible solutions to these challenges"
+      ]
+    },
+    {
+      "unit": "7.4",
+      "topic_title": "RELIGION",
+      "page_number": 26,
+      "subtopics": [
+        "7.4.1 The Family"
+      ],
+      "learning_outcomes": [
+        "State the importance of belonging to a family",
+        "Describe the relationship between parents and children in a Zambian family"
+      ]
+    },
+    {
+      "unit": "7.5",
+      "topic_title": "LEARNING ABOUT MONEY",
+      "page_number": 26,
+      "subtopics": [
+        "7.5.1 Priorities for money in families",
+        "7.5.2 Foreign currencies"
+      ],
+      "learning_outcomes": [
+        "Explain the role of making priorities for money in families",
+        "Explain the role work plays in meeting 'needs' and 'wants' throughout life",
+        "Demonstrate budgeting to includes income, expenditure and savings for future goals",
+        "Describe budget tracking",
+        "Identify various foreign currencies",
+        "Explain the value of money in different countries"
+      ]
+    },
+    {
+      "unit": "7.6",
+      "topic_title": "FARMING",
+      "page_number": 26,
+      "subtopics": [
+        "7.6.1 World Farming Regions"
+      ],
+      "learning_outcomes": [
+        "Locate on the world map major farming regions"
+      ]
+    },
+    {
+      "unit": "7.7",
+      "topic_title": "TRANSPORT AND COMMUNICATION",
+      "page_number": 26,
+      "subtopics": [
+        "7.7.1 Transport and Communication services among SADC and COMESA Countries",
+        "7.7.2 Road Safety"
+      ],
+      "learning_outcomes": [
+        "Mention the benefits of improved regional communication services and transport network to Zambia",
+        "Identify parts of the bicycle",
+        "Demonstrate safe cycling"
+      ]
+    }
+  ]
+}

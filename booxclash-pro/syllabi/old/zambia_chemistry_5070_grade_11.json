@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "11",
+    "subject": "Chemistry 5070",
+    "philosophy": "Demonstrate an understanding of acids, bases and salts. Develop investigative skills about acids, bases and salt. Demonstrate an understanding of the importance, production, use, and effect on the environment of acids, bases and salts. Demonstrate an understanding of the Mole Concept. Develop investigative skills about quantitative analysis. Demonstrate an understanding of chemical reactions and energy changes. Develop investigative skills about various types of reactions. Demonstrate an understanding of the Periodic Table. Develop investigative skills about the Periodic Table.",
+    "competence_learning": "Demonstrate the skills and knowledge in relating number of valence electrons to the Group number and the number of shells to the Period. Demonstrate skills in classifying salts according to their solubility. Demonstrate ability to classify oxides as acidic, basic, neutral and amphoteric. Demonstrate ability to use tests in identifying aqueous cations, anions and gases. Demonstrate basic skills and knowledge in calculating stoichiometric reacting moles. Show ability to identify factors that affect rates of chemical reactions.",
+    "goals": [
+      "Demonstrate an understanding of acids, bases and salts.",
+      "Develop investigative skills about acids, bases and salt.",
+      "Demonstrate an understanding of the importance, production, use, and effect on the environment of acids, bases and salts.",
+      "Demonstrate an understanding of the Mole Concept",
+      "Develop investigative skills about quantitative analysis.",
+      "Demonstrate an understanding of chemical reactions and energy changes",
+      "Develop investigative skills about various types of reactions.",
+      "Demonstrate an understanding of the Periodic Table",
+      "Develop investigative skills about the Periodic Table"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "11.5",
+      "topic_title": "Acids, Bases and Salts",
+      "page_number": 29,
+      "subtopics": [
+        "11.5.1 Characteristic properties of acids and bases",
+        "11.5.2 Preparation of salts",
+        "11.5.3 Types of oxides",
+        "11.5.4 Identification of ions and gases (Qualitative analysis)"
+      ],
+      "specific_outcomes": [
+        "11.5.1.1 Describe acids, bases or alkalis in terms of ions they contain or produce in aqueous solution.",
+        "11.5.1.2 Describe the meaning of weak, strong, dilute and concentrated acids and alkalis",
+        "11.5.1.3 Describe the PH scale",
+        "11.5.1.4 Describe neutrality, acidity and alkalinity in terms of PH value",
+        "11.5.1.5 Determine the PH value of a solution.",
+        "11.5.1.6 Demonstrate the characteristic properties of acids",
+        "11.5.1.7 Demonstrate the characteristic properties of bases",
+        "11.5.1.8 Illustrate the importance of acid-base reactions",
+        "11.5.1.9 State the uses of acids and bases.",
+        "11.5.2.1 Describe a salt",
+        "11.5.2.2 Classify salts according to their nature and solubility in water",
+        "11.5.2.3 Demonstrate the preparation of an insoluble salt.",
+        "11.5.2.4 Demonstrate the preparation soluble salts.",
+        "11.5.2.5 Demonstrate the preparation of ammonium, potassium and sodium salts.",
+        "11.5.2.6 Demonstrate the existence of hydrated salts and differentiate from anhydrous salts",
+        "11.5.2.7 Describe the behaviour of salts with reference to the atmosphere.",
+        "11.5.3.1 Describe the various types of oxides.",
+        "11.5.4.1 Demonstrate the identity of aqueous cations and anion."
+      ]
+    },
+    {
+      "unit": "11.6",
+      "topic_title": "The Mole Concept",
+      "page_number": 34,
+      "subtopics": [
+        "11.6.1 Relative masses",
+        "11.6.2 The mole"
+      ],
+      "specific_outcomes": [
+        "11.6.1.1 Describe Relative Atomic Mass and relative molecular mass.",
+        "11.6.1.2 Calculate the relative formula mass of a compound",
+        "11.6.2.1 Describe a mole.",
+        "11.6.2.2 Determine the physical masses (m) of any substance using the molar mass (Mr) and the physical volume (v) of any gas at r.t.p and vice versa.",
+        "11.6.2.3 Describe the relationship of Avogadro's law to reacting moles and volumes of gases at r.t.p and s.t.p.",
+        "11.6.2.4 Determine the concentration of a solution and apply dilution law.",
+        "11.6.2.5 Illustrate calculations involving stoichiometric reacting moles and volumes of gases and solutions.",
+        "11.6.2.6 Describe and calculate the percentage yield in a reaction and the percentage purity of a substance",
+        "11.6.2.7 Determine limiting reagent in a given reaction",
+        "11.6.2.8 Demonstrate calculations involving different types of acid-base titration reactions."
+      ]
+    },
+    {
+      "unit": "11.7",
+      "topic_title": "Chemical Reactions",
+      "page_number": 37,
+      "subtopics": [
+        "11.7.1 Empirical and Molecular formulae",
+        "11.7.1 Rates of chemical reactions",
+        "11.7.2 Chemical equilibrium",
+        "11.7.3 Redox reactions",
+        "11.7.4 Energetics of reactions"
+      ],
+      "specific_outcomes": [
+        "11.7.1.1 Calculate the percentage composition of elements in a compound.",
+        "11.7.1.2 Determine the empirical formulae of a compound given the molecular formula",
+        "11.7.1.3 Determine the empirical and molecular formulae using percentage composition or masses.",
+        "11.7.1.1 Describe rate of a chemical reaction.",
+        "11.7.1.2 Demonstrate the factors that affect the rates of chemical reactions",
+        "11.7.1.3 Interpret data on the rate of chemical reactions.",
+        "11.7.1.4 Describe methods of controlling the rate of chemical reactions.",
+        "11.7.1.5 Describe the effect of a catalyst on the activation energy",
+        "11.7.2.1 Describe what chemical equilibrium is",
+        "11.7.2.2 Describe the effect on the position of equilibrium of a reaction upon changing conditions.",
+        "11.7.3.1 Describe what oxidation and reduction is",
+        "11.7.3.2 Describe what redox reactions is.",
+        "11.7.3.3 Identify oxidizing and reducing agents in a reaction.",
+        "11.7.3.4 Demonstrate how to determine the oxidation number of an element with variable valency in a compound/ion.",
+        "11.7.3.5 Deduce a redox reaction using oxidation numbers.",
+        "11.7.3.6 Describe what non-redox reaction is",
+        "11.7.3.7 Identify the characteristics of oxidizing and reducing agents",
+        "11.7.4.1 Describe what endothermic and exothermic reactions are",
+        "11.7.4.2 Determine a reaction which is endothermic or exothermic.",
+        "11.7.4.3 Describe endothermic and exothermic reactions in relation to bonds.",
+        "11.7.4.4 Identify activation energy for a catalysed and uncatalysed reaction on an energy level diagram",
+        "11.7.4.5 Explain the advantages and disadvantages of energy sources (fuels).",
+        "11.7.4.6 Describe the effects of the use of fuels on the environment",
+        "11.7.4.7 Describe the use of silver halide in photography",
+        "11.7.4.8 Describe respiration and photosynthesis in terms of energy changes",
+        "11.7.4.9 Describe use of radioactive isotope in relation to energy changes.",
+        "11.7.4.10 Explain batteries as convenient source of electrical energy."
+      ]
+    },
+    {
+      "unit": "11.8",
+      "topic_title": "The Periodic Table",
+      "page_number": 43,
+      "subtopics": [
+        "11.8.1 Groups and Periods",
+        "11.8.2 Groups and Periodic trends",
+        "11.8.3 Transition metals"
+      ],
+      "specific_outcomes": [
+        "11.8.1.1 Describe the Period Table",
+        "11.8.1.2 Identify vertical columns and horizontal rows.",
+        "11.8.1.3 Demonstrate how to use the Periodic Table to classify elements",
+        "11.8.2.1 Describe trends in various Groups given information about the elements",
+        "11.8.2.2 Describe the physical and chemical properties of elements in Group I, II, VII and VIII.",
+        "11.8.2.3 Describe the importance of halogens",
+        "11.8.2.4 Describe the harmful effects of halides.",
+        "11.8.2.5 Describe the use of the noble gases in providing an inert atmosphere",
+        "11.8.3.1 Describe transition metals.",
+        "11.8.3.2 Describe general properties of transition metals.",
+        "11.8.3.3 Describe the uses of transition metals"
+      ]
+    }
+  ]
+}

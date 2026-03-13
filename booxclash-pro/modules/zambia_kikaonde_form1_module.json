@@ -1,0 +1,1226 @@
+{
+    "subject": "Kikaonde",
+    "grade": "Form 1",
+    "term": 2,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "Minsambo (Oral Literature)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.A",
+                    "title": "Kuteleka ne Kwamba - Lupachiko (Debate)",
+                    "page": 13,
+                    "competences": [
+                        "Kupachika pa mutwe wapewa, kwa ubiwa bulongo (Debate on given topic correctly)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.A.1",
+                            "page": 13,
+                            "hook": "Bafunda bepachike pa bino byapewa (Lupimpu Lwa Lubesha, Bizhima ne Luusa Lwapewa).",
+                            "teacher_steps": [
+                                "Apane bulumbuluzhi bwa lupachiko.",
+                                "Apane mizhilo ya lupachiko.",
+                                "Apane mutwe wa lupachiko.",
+                                "Abanye bafunda mu bipanyi.",
+                                "Buula bafunda kupesa-pesa bishinka.",
+                                "Abanye bishinka bya lupachiko ku bipanyi."
+                            ],
+                            "learner_steps": [
+                                "Kwipachika pamo kyawamina ne mokyatamina kupana luusa lwabaya ku bainetu.",
+                                "Bafunda besajile bene lubaji lwa kupachikapo mukipanyi kyabo.",
+                                "Basale bañambi balupachiko mwaila ndonda ya mitwe yabo ya kuchochekapo.",
+                                "Bafunda basalepo umo wakonsha kuvwangakanya milanguluko ya bonse.",
+                                "Banembeshi bapane sawakya panyuma ya kwisamba mikumbu ya mepuzho o bapewa."
+                            ],
+                            "short_notes": "Mu kino kibese kya kuteleka ne kwisamba, bafunda bepachike pa bino byapewa: Lupimpu Lwa Lubesha, Bizhima ne Luusa Lwapewa. Mufunjishi abike bafunda mu bipanyi bibiji, abanye bishinka bya lupachiko. Kwisambapo pa bishinte byasololwa mulupachiko (Kimye: Mamineti teni)."
+                        }
+                    ],
+                    "short_notes": "Mu kino kibese kya Kuteleka ne Kwamba, bafunda basa kuyuka butame ne buwame bwa mutwe walupachiko ye bapewa wa kwipachikapo mu bipanyi bya minsambo. Bafunda besambe pa mitwe yapeela yalamata ku bwikalo bwa bantu bwa pa juuba pa juuba.",
+                    "vocabulary": [
+                        {
+                            "term": "Lupachiko",
+                            "definition": "Kwisamba kwingijisha milanguluko ya kubiji pa mutwe umo wakupachikapo (Debate - a formal discussion on a given topic from opposing sides)."
+                        },
+                        {
+                            "term": "Bañambi",
+                            "definition": "Babo basalwa kukamba pa lupachiko kulondela lubaji lwabo (Debaters - those chosen to argue a side in a debate)."
+                        },
+                        {
+                            "term": "Bishinte",
+                            "definition": "Bikaabi bya lupachiko byasalwa ne kutongolwa (Points of argument selected and identified in a debate)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 14,
+                        "questions": [
+                            "Kipimo kyañingijilo kyaketekewa kubiwa: Kupachika pa mutwe wapewa, kwa ubiwa bulongo.",
+                            "Mwingilo wakuuba: Bafunda bepachike mwaila luusa lwa kuuba amba bafundabalume nangwa bafundabakazhi kwisongola mu lwabo.",
+                            "Mpezho: Mufunjishi Buula bafunda kupitulaka mu bishinte bya lupachiko mulwabo."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.B",
+                    "title": "Kutanga - Byambo (Vocabulary & Reading)",
+                    "page": 14,
+                    "competences": [
+                        "Kwingijisha byambo byafikilamo bulongo (Use vocabulary appropriately).",
+                        "Bafunda batange jishimikila mo kyaila (Learners read the given narrative).",
+                        "Bafunda batange bibaaba byapusana-pusana na manono (Read various texts with expression)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.B.1",
+                            "page": 15,
+                            "hook": "Obewa kimbela saka wingila nkito bulongo. (When you become an adult you should do work properly.)",
+                            "teacher_steps": [
+                                "Mone kuuba amba wabuula bafunda bya kwingijisha byambo bya fikilamo.",
+                                "Buula bafunda kutanga ne kumvwisha byambo bya panyiwa.",
+                                "Buula bafunda kwikala mu bipanyi.",
+                                "Buula bantangi ba bipanyi kupana sawakya pa byobesamba.",
+                                "Buula bafunda kulenga bipelu kwingijisha byambo byapanyiwa."
+                            ],
+                            "learner_steps": [
+                                "Batange ne kumvwisha byambo bya panyiwa.",
+                                "Besambe pa byambo byapanyiwa ne kwibilumbulula.",
+                                "Bantangi ba bipanyi bapane sawakya pa byobesamba.",
+                                "Bafunda balenge bipelu kwingijisha byambo byapanyiwa."
+                            ],
+                            "short_notes": "Mwingilo wa kutanga Ndumbulwilo ya Byambo. Byambo byapanyiwa: Kizhipanyi (ke muntu ye bachina kubulozhi), Jiyanga (ke nsezhi mukatampe mulume), Mofwe (ke mwanamulume wazama bingi), Kimbela (ke mwana mukazhi mukulumpe), Kiselebwa (ke mpuzha yauma kabiji ke pekala mema ine), Kashimbi (ke mwana wamukazhi mucheche), Kashilu (ke mwanyike wamukazhi wabula kubelula), Kabandaulu (ke kakyulu kacheche), Nkungulu (ke nzovu mulume mukatampe), Mitanda (ke kiila kya kujila muntu wafwa), Masala (ke muzhi wakala paviluka bantu), Mwimbwa (ke bwina mwikala banyama). Bafunda balenge bipelu jikumi kwingijisha byambo byo bafunda."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.B.2",
+                            "page": 16,
+                            "hook": "Kutanga jishimikila kapambala - Bafunda batange ne kumvwisha jishimikila ja kupimpulwa kwa lubesha ne bwikalo bwa kala.",
+                            "teacher_steps": [
+                                "Buula bafunda kutanga jishimikila kapambala.",
+                                "Epuzhe bafunda biji mu jishimikila.",
+                                "Atundaike bafunda kwisamba pa byambo biji mu musombelo ufita.",
+                                "Atangijile bafunda kutanga bibaaba.",
+                                "Epuzhe mepuzho afikila mu kipimo kya bafunda.",
+                                "Apane mwingilo."
+                            ],
+                            "learner_steps": [
+                                "Batange jishimikila ne kumvwisha.",
+                                "Besambe pa mutwe wa jino jishimikila mu bipanyi.",
+                                "Bambe byo bayukapo pa uno mutwe.",
+                                "Bakumbule mepuzho onse o bapewa.",
+                                "Banembe ngipipishilo ya kibaaba pa bilengela mvula kubula kunoka.",
+                                "Banembulule jishimikila mu byambo byabo bene."
+                            ],
+                            "short_notes": "Mwinsambo wa kupimpulwa kwa lubesha: Bansongwalume babiji basambe pa mambo a kupimpulwa kwa lubesha. Kilengela mvula kubula kunoka ke na mambo kutema bichi kupichila mu bunjimi bukatampe ne kusoka mashanga. Mwela wa saufa ufuma ku minkinyi naye ulengela mvula kuleka kunoka. Kupana ntanda yabaya ya kutunga mikochi, kulama bañombe, kabiji ne kuubaisha kwa mataunyi. Mwingilo (a): Bafunda batange jishimikila; Mwingilo (b): Banembe ngipipishilo ya kibaaba; Mwingilo (c): Banembulule bibaaba bine mu byambo byabo; Mwingilo (d): Banembe bipelu jikumi kufuma ku byambo biji mu kibaaba."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.B.3",
+                            "page": 23,
+                            "hook": "Kutanga na Manono - Bafunda batange bibaaba byapusana-pusana na manono.",
+                            "teacher_steps": [
+                                "Atange kibaaba na manono.",
+                                "Buula kutelekesha.",
+                                "Atange kibaaba na jiwi japeulu.",
+                                "Buula bafunda kuta maana ku byambo byashupa.",
+                                "Ekale kimwesho ku bafunda.",
+                                "Atangulule kibaaba.",
+                                "Atange bafunda saka bateleka.",
+                                "Abike bafunda mu bipanyi ne kutanga na jiwi ja peulu."
+                            ],
+                            "learner_steps": [
+                                "Batange jishimikila na kumvwisha.",
+                                "Besambe mu bipanyi na kutanga na jiwi ja peulu.",
+                                "Batange bibaaba na manono ne kwikinembulula mwayila mikambizho.",
+                                "Bakumbule mepuzho."
+                            ],
+                            "short_notes": "Jishimikila: Juuba jimo, Jikebo ne bainanji baile ku mukola. Bataine ba nkovu babena kulwa. Bainanji bamukanya Jikebo amba 'Enda koko tuyenga ku muzhi.' Byo bafikile pamuzhi, batujile tunchinyi twabo mu kinzanza. Mufunjishi atange jishimikila ku bafunda jisatu pakuuba amba batelekeshe ne kulabijila byambo."
+                        }
+                    ],
+                    "short_notes": "Mu uno mutwe wa kutanga, bafunda bafwainwa kwikala na buyuke bwa ndumbulwilo ya byambo (Mutwe 1), kutanga ne kumvwisha jishimikila (Mutwe 2: Ntangilo Yazhika), ne kutanga na jiwi japeulu na manono (Mutwe 3).",
+                    "vocabulary": [
+                        {
+                            "term": "Kizhipanyi",
+                            "definition": "Ke muntu ye bachina kubulozhi (A witch)."
+                        },
+                        {
+                            "term": "Jiyanga",
+                            "definition": "Ke nsezhi mukatampe mulume (A large male lion)."
+                        },
+                        {
+                            "term": "Mofwe",
+                            "definition": "Ke mwanamulume wazama bingi (A very old man)."
+                        },
+                        {
+                            "term": "Kimbela",
+                            "definition": "Ke mwana mukazhi mukulumpe (An elder girl/woman)."
+                        },
+                        {
+                            "term": "Kiselebwa",
+                            "definition": "Ke mpuzha yauma kabiji ke pekala mema ine (A dry area / a place with no water)."
+                        },
+                        {
+                            "term": "Kashimbi",
+                            "definition": "Ke mwana wamukazhi mucheche (A small baby girl)."
+                        },
+                        {
+                            "term": "Kashilu",
+                            "definition": "Ke mwanyike wamukazhi wabula kubelula (An unmarried young woman)."
+                        },
+                        {
+                            "term": "Nkungulu",
+                            "definition": "Ke nzovu mulume mukatampe (A very large bull elephant)."
+                        },
+                        {
+                            "term": "Mitanda",
+                            "definition": "Ke kiila kya kujila muntu wafwa (The ritual of mourning for a deceased person)."
+                        },
+                        {
+                            "term": "Masala",
+                            "definition": "Ke muzhi wakala paviluka bantu (A deserted/abandoned village)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 19,
+                        "questions": [
+                            "1. Mu kibaaba 1, bantu bañanyi bo basambe mu jishimikila? (Kibaala, Nsamushi, Malisopo)",
+                            "2. Mu kibaaba 1, ñambilo ya kuuba amba 'sabwalala ne pa katele' yalumbulula ka?",
+                            "3. Mu kibaaba 2, bañanyi bo baketekejile kwibabula bishinka na mambo a bwikalo bwa kala? (Kibaala, Nsamushi, Ba Jikapa Malisopo)",
+                            "4. Nembapo bintu bibiji bilengela mvula kubula kunoka.",
+                            "5. Tongolapo ñambilo ibena kwamba pa kulumbulula bintu mo byaila: (a) Kulumbulula nzolo kijoma. (b) Sabwalala ne pa katele. (c) Jikondakanya nsoke. (d) Pa kanyo ka mambo.",
+                            "6. Paana mutwe wa jino jishimikila: (a) Kuleka kwa mvula. (b) Kupimpulwa kwa lubesha. (c) Kutema kwa bichi. (d) Kujima bingi.",
+                            "7. Panapo mashinda asatu mo wakonshesha kukwasha mvula kunoka."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.C",
+                    "title": "Kunemba - Jishimikila (Writing: Narrative Composition)",
+                    "page": 24,
+                    "competences": [
+                        "Nemba jishimikila na ja kuvwangamo bubela (Write fiction and non-fiction narratives).",
+                        "Bafunda banembe nsombelo yakusomba bulongo (Learners write a fiction composition correctly)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.C.1",
+                            "page": 25,
+                            "hook": "Ingala pa byo jishimikila ja kusomba (fiction) ne ja kubula bubela ine (non-fiction) bibulapo.",
+                            "teacher_steps": [
+                                "Apane bulumbuluzhi bwa lupusano lwa jishimikila jabubela (fiction) ne ja kine (non-fiction).",
+                                "Buula bafunda lupusano lwa jishimikila jabubela (fiction) ne ja kine (non-fiction).",
+                                "Amwesha bikaabi bya jishimikila ja kusomba: ntatwilo, kutuntuka kwa ngubo, panembe-nembe, kukunkuluka kwa ngubo, kupwishañanya, mpelo.",
+                                "Buula bafunda banembe nsombelo yakusomba.",
+                                "Apane kimwesho kya kunemba."
+                            ],
+                            "learner_steps": [
+                                "Besambe pa bilumbuluzhi bwa jishimikila.",
+                                "Bayuke lupusano lwa jishimikila jabubela (fiction) ne ja kine (non-fiction).",
+                                "Mu jishimikila bafunda bengijishe shinkamiko ne mpimpwilo.",
+                                "Bengijishe bimye ngubo kata, bimye ngubo kata ntwajijilo.",
+                                "Banembe jishimikila jabena kupwa nakino kipelu: 'inge ke ba kapokola ine, inge nafwile.'"
+                            ],
+                            "short_notes": "Jishimikila ja kusomba (Fiction): Ajino jishimikila jifuma ku kusomba. Jiji naba nkaizhi (characters). Jimwesha mpuzha kobe jisombejile. Jikala na mitwe/bishina (theme). Byo jalengwa: Ntatwilo/ntendekelo, Kutuntuka kwa ngubo mu jishimikila, Panembe-nembe ya jishimikila, Kukunkuluka kwa ngubo, Kupwishañanya, Mpelo ya jishimikila. Jishimikila ja kine (Non-fiction): Ajino jishimikila jifuma pa bishinka. Ba nkaizhi bafwainwa kwikala bantu, ba nyama. Ikala na bishinka byafikila mukipimo."
+                        }
+                    ],
+                    "short_notes": "Mu kino kibese kya kunemba, bafunda basa kwikala na buyuke bwa kunemba nsombelo ya mashimikila. Kimwesho kya jishimikila: Juuba jimo, naile mukufwakasha pa city mall, ku Solwezi... (full fiction story example provided in module). Bipimo byañingijilo: Bafunda banembe nsombelo yakusomba bulongo.",
+                    "vocabulary": [
+                        {
+                            "term": "Jishimikila ja kusomba (Fiction)",
+                            "definition": "Jishimikila jifuma ku kusomba, na nkaizhi ne bishina (A story from imagination with characters and themes)."
+                        },
+                        {
+                            "term": "Jishimikila ja kine (Non-fiction)",
+                            "definition": "Jishimikila jifuma pa bishinka byafikila mukipimo (A story based on real events)."
+                        },
+                        {
+                            "term": "Ntatwilo",
+                            "definition": "Ntendekelo ya jishimikila (The introduction/beginning of a story)."
+                        },
+                        {
+                            "term": "Kankomo",
+                            "definition": "Panembe-nembe ya lukatazho mu jishimikila (The climax of the story)."
+                        },
+                        {
+                            "term": "Nkaizhi",
+                            "definition": "Muntu mu jishimikila (Character in a story)."
+                        },
+                        {
+                            "term": "Kishina",
+                            "definition": "Mutwe/Maana a jishimikila (Theme of a story)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Bipimo byañingijilo yapewa kubiwa: Bafunda banembe nsombelo yakusomba bulongo.",
+                            "Kimwesho kya mwingilo: Nemba jishimikila jabena kupwa nakino kipelu: 'inge ke ba kapokola ine, inge nafwile.'"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.D",
+                    "title": "Mulaka-Zhilo - Ndengelo ya Bintu & Ñambilo ya Fyamika (Grammar: Noun Classes & Idioms)",
+                    "page": 27,
+                    "competences": [
+                        "Bafunda balumbulule ndengelo ya bintu (Learners explain noun classes).",
+                        "Bafunda banembe ñambilo yazhika (Learners write proverbs/idioms correctly)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.D.1",
+                            "page": 27,
+                            "hook": "Mulaka wa Kikaonde wingijisha 'katendekesho + kishina' (The Kikaonde language uses a 'prefix + stem' structure).",
+                            "teacher_steps": [
+                                "Buula bafunda mitundu ya ndengelo ya bintu.",
+                                "Anembe mitundu ya ndengelo ya bintu pa kipaba.",
+                                "Apane bintu ku bafunda.",
+                                "Abanye bafunda mu bipanyi kabiji banembe bintu ne kwibyabanya mu bipimvwa."
+                            ],
+                            "learner_steps": [
+                                "Bafunda bayuke bya kwa banya bintu mu bipimvwa byabyo.",
+                                "Babanye bino bintu mu bipimvwa.",
+                                "Banembe bintu jikumi (10) ne kwibyabanya mu bipimvwa."
+                            ],
+                            "short_notes": "Ndengelo ya bintu mu Kikaonde. Kimwesho: Mu-ntu / Ba-ntu, Mu-zhi / Mi-zhi, Mu-laka / Mi-laka, Ki-baya / Bi-baya. Mu, ba, mu, mi, mu, mi, ki, bi, ke tutendekesho. -ntu, -ntu, -zhi, -zhi, -baya ne -baya ke bishina. Kimwesho: Kishina = ki-shina, Mana = ma-ana, Jina = ji-na."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.D.2",
+                            "page": 28,
+                            "hook": "Kwingijisha ñambilo yazhika - mu bishimpi muji: Kufunjisha, Kujimuna, Kunenañana, Kwendeleka, Kuzhachisha.",
+                            "teacher_steps": [
+                                "Alumbulule mwayila ñambilo yazhika.",
+                                "Buula bafunda ñingijishilo ya ñambilo yazhika.",
+                                "Abanye bafunda mu bipanyi.",
+                                "Banembeshi ba mu bipanyi balete sawakya pabyobatana.",
+                                "Abike ñambilo mu bipanyi bya ngingijishilo yabyo."
+                            ],
+                            "learner_steps": [
+                                "Batongola ñambilo kulondela na lufunjisho.",
+                                "Banembe bishimpi bitanu kulondela na lufunjisho: Kuzhachisha, Kwendeleka, Kujimuna, Kutundaika, Kufunda.",
+                                "Bapaane sawakya kupichila mu banembeshi.",
+                                "Panyuma yakupwisha, mufunjishi apane mwingilo wakunzubo."
+                            ],
+                            "short_notes": "Ñambilo ya kufunjisha: Bakila mwandalo kechi bakila jiwi ine / Juuba jimo kejibulwa nzovu ine / Ponda bobe bwami nja bwa mapa / Bazhonda mukoko wakosa kechi wanekena ine. Ñambilo ya kujimuna: Mukulu kavwale mbulu jilombelo jakiseba / Kabwa waja washila bafunda mfika / Bufuku jibobela. Ñambilo ya kunenañana: Wanyina pobatapwila / Munyi wabutolo lukeelo ubwezhapo / Tangatanga uja twileta. Ñambilo ya kwendeleka: Janga na ba nzolo bankanga batumbuka / Muketo wapiti amba kilumbi kwata / Kanjila pakyulu umone kwenu."
+                        }
+                    ],
+                    "short_notes": "Mulakazhilo wa Minsambo: Mutwe 1 - Ndengelo ya bintu (Noun classes) kulenga bipelu jikumi kwingijisha ndengelo ya bintu. Mutwe 2 - Ñambilo ya Fyamika (Idiomatic Expressions/Proverbs) ne mingilo yabyo: kufunjisha, kujimuna, kunenañana, kwendeleka, kuzhachisha.",
+                    "vocabulary": [
+                        {
+                            "term": "Katendekesho",
+                            "definition": "Byambo bitangijila byambo bya mazhina (Prefix - the beginning of a noun class marker)."
+                        },
+                        {
+                            "term": "Kishina",
+                            "definition": "Muli wa kyambo (Stem - the root part of a word)."
+                        },
+                        {
+                            "term": "Ñambilo ya Fyamika",
+                            "definition": "Ñambilo inembwa mu kipelu ibena kwamba kintu kyapusanako na kyambo kyakine (Idiomatic expression - words with a figurative meaning different from their literal sense)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 30,
+                        "questions": [
+                            "Bipimo byañingijilo yapewa kubiwa: Bafunda besamba ndengelo ya bintu.",
+                            "Bafunda banembe bintu jikumi (10) ne kwibyabanya mu bipimvwa.",
+                            "Kipimo kyañingijilo kyaketekelwa kubiwa: Bafunda banembe ñambilo yazhika kulondela na lufunjisho lutanwamo.",
+                            "Bafunda banembe bishimpi bitanu kulondela na lufunjisho: Kuzhachisha, Kwendeleka, Kujimuna, Kutundaika, Kufunda."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.E",
+                    "title": "Ntuntulwilo - Mashinda Akutuntulwilamo (Translation Techniques)",
+                    "page": 30,
+                    "competences": [
+                        "Bafunda batuntulule jishimikila kulondela mizhilo ya ntuntulwilo kufuma mumulaka wapanyiwa (Learners translate a story following translation methods from the given language)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.E.1",
+                            "page": 31,
+                            "hook": "Ntuntulwilo kyo kika? Ke kwamba nangwa kunemba byambo kufuma mu mulaka umo kutwala mu mulaka mukwabo (What is translation? It is saying or writing words from one language into another).",
+                            "teacher_steps": [
+                                "Patanshi apane mwa kutuntulwila kufuma mu kizungu ku twala mu Kikaonde.",
+                                "Afunjishe mitundu ya ntuntulwlilo ya pusana.",
+                                "Engijishe mulaka wapeela kumvwa.",
+                                "Mufunjishi wapana jishimikila ku bafunda jiji mu kizungu.",
+                                "Buula bafunda kutanga ne kumvwisha kibaaba.",
+                                "Pamo na bafunda ba tuntulule jino jishimikila."
+                            ],
+                            "learner_steps": [
+                                "Batange jishimikila ne kumvwisha kibaaba.",
+                                "Ba tuntulule jishimikila kufuma mu kizungu kutwala mu Kikaonde.",
+                                "Ba tuntulule jishimikila kufuma mu Kikaonde kutwala mu kizungu.",
+                                "Bengijishe mashinda a kupingishapo byambo ne ya kulumbulula kyambo."
+                            ],
+                            "short_notes": "Mashinda akutuntulwilamo: 1. Ntuntulwilo ya kupingishapo byambo (kutangila kufumya mu kizungu ku twala mu Kikaonde). 2. Ntuntulwilo ya kulumbulula kyambo (kulumbulula akya kyambo kyabula mu yeo mulaka). Kimwesho: 'When I was young, I partly lived on the copperbelt...' (English to Kikaonde). 'Lonajinga mwanyike naikeleko kopabeuti ne kuka beta ka muzhika...' (Kikaonde to English)."
+                        }
+                    ],
+                    "short_notes": "Ntuntulwilo: Ke kwamba nangwa kunemba byambo kufuma mu mulaka umo kutwala mu mulaka mukwabo. Mashinda ya kupingishapo byambo ikalako inge kya katazha kulama ndonda ya byambo mukipelu. Ntuntulwilo ya kulumbulula kyambo: mu ino ntuntulwilo kyambo kimo kiji mu mulaka mutanshi kilumbululwa mu mulaka wabubiji na byambo byavulako pakuuba amba ntuntulwilo yumvwanyike bulongo.",
+                    "vocabulary": [
+                        {
+                            "term": "Ntuntulwilo",
+                            "definition": "Kwamba nangwa kunemba byambo kufuma mu mulaka umo kutwala mu mulaka mukwabo (Translation - expressing content from one language in another)."
+                        },
+                        {
+                            "term": "Ntuntulwilo ya kupingishapo byambo",
+                            "definition": "Kutuntulula kupichila pa kupingishapo kyambo pa kyambo kya bulapo (Substitution translation - replacing a word with an equivalent in the target language)."
+                        },
+                        {
+                            "term": "Ntuntulwilo ya kulumbulula kyambo",
+                            "definition": "Kutuntulula kupichila mu kulumbulula akya kyambo kyaingijishiwa (Descriptive translation - explaining the meaning of a word in the target language)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 32,
+                        "questions": [
+                            "Bipimo byañingijilo bya ketekelwa kubiwa: Bafunda batuntulule jishimikila kulondela mizhilo ya ntuntulwilo kufuma mumulaka wapanyiwa.",
+                            "Mufunjishi apane jishimikila jafikilamo mu kipimo mu Kikaonde, bafunda ba tuntulule kutwala mu kizungu nangwa mu kizungu kutwala mu Kikaonde."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "Bishimi ne Bishimikizho (Proverbs and Riddles)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.A",
+                    "title": "Kuteleka ne Kwamba - Lupachiko (Debate on Social Topics)",
+                    "page": 33,
+                    "competences": [
+                        "Mitwe yapeela kwipachikapo, ya chochokewapo bulongo (Topics given for debate are discussed correctly)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.A.1",
+                            "page": 33,
+                            "hook": "Kalobo: Kesha japita, pa masambakeno amukwakawa-kata waya ku Boma wa Kasempa pa mwekele mapuso atama bingi.",
+                            "teacher_steps": [
+                                "Buula bafunda kwipachika pamo kyawamina ne mokyatamina kupana luusa lwabaya ku bainetu.",
+                                "Abanye kalasi mu bipanyi bibiji.",
+                                "Buula bafunda kwisamba monka mwaila mepuzho.",
+                                "Ita banembeshi ba mubipanyi mukupana byo besambapo.",
+                                "Abungizhe milanguluko ya mbaji yonse ibiji."
+                            ],
+                            "learner_steps": [
+                                "Bipanyi bya lupachiko basale bandama byalo balupachiko.",
+                                "Basale bañambi balupachiko mwaila ndonda ya mitwe yabo ya kuchochekapo.",
+                                "Bafunda basalepo umo wakonsha kuvwangakanya milanguluko ya bonse.",
+                                "Banembeshi bapane sawakya panyuma ya kwisamba mikumbu ya mepuzho o bapewa."
+                            ],
+                            "short_notes": "Mu kino kishina mufunjishi usa kufunjisha pa bibese bitanu: Kuteleka ne Kwamba, Kutanga, Kunemba, Mulakazhilo ne Ntuntulwilo. Bafunda basa kuyuka butame bwa kwingijisha bizhima kutama, kwikala na kipizha kya kuuba kino kyubilo ne bintu byatama bifumamo ne byawama bifuma mu kulondela mikambizho ya kwingijisha bizhima bulongo. Kalobo (Introduction): Kesha japita, pa masambakeno amukwakawa-kata waya ku Boma wa Kasempa pa mwekele mapuso atama bingi. Kimbayambaya kyasendele matemate mu bibokoshi byavula kyaalumukile binya bibiji."
+                        }
+                    ],
+                    "short_notes": "Mu kino kishina kya Bishimi ne Mashimikizho, mufunjishi usa kufunjisha pa bibese bitanu. Bafunda basa kuyuka butame bwa kwingijisha bizhima kutama. Byambo Byanema: Bishimi (ke mashimikila ambiwa pa byubilo bya bantu, banyama, bilongolo ne bintu bikwabotu), Bishimikizho (ke mashimikila abintu byumvwanyika kwipasha na mashimikila a kine).",
+                    "vocabulary": [
+                        {
+                            "term": "Bishimi",
+                            "definition": "Ke mashimikila ambiwa pa byubilo bya bantu, banyama, bilongolo ne bintu bikwabotu (Proverbs - sayings about the behavior of people, animals, plants, and other things)."
+                        },
+                        {
+                            "term": "Bishimikizho",
+                            "definition": "Ke mashimikila abintu byumvwanyika kwipasha na mashimikila a kine (Riddles - sayings that appear to be one thing but are another)."
+                        },
+                        {
+                            "term": "Kikungubulo",
+                            "definition": "Kulaala pamo kwa bantu bavula biji nobe pa kijilo (Sleeping/gathering together at a feast)."
+                        },
+                        {
+                            "term": "Kazolo-ntanda",
+                            "definition": "Kaňonyi kamungye kepasha na kazolo ka pamuzhi (A wild bird resembling the village cock)."
+                        },
+                        {
+                            "term": "Kwiaula",
+                            "definition": "Kuja kajo ka lukelokelo (Nsongezho) (To eat the first fruits of the season)."
+                        },
+                        {
+                            "term": "Chaile",
+                            "definition": "Kimye kya kushinkimana juuba (Midday/noon time)."
+                        },
+                        {
+                            "term": "Ntuntuluzhi",
+                            "definition": "Muchi wakutuntulwila bikola ku muntu mukwabo (A tool/method used to pass a message to another person)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 34,
+                        "questions": [
+                            "Kipimo kyañingijilo kyaketekelwa kubiwa: Mitwe yapeela kwipachikapo ya chochokewapo bulongo.",
+                            "Kwisambapo: Pa bishinte byasololwa mulupachiko. Kimye: Mamineti teni."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.B",
+                    "title": "Kutanga - Nzovu ne Bankasanji & Ntangilo ya Zhika (Reading: Story & Critical Reading)",
+                    "page": 35,
+                    "competences": [
+                        "Kwingijisha byambo kwesekana na kipimo kya lufundo (Use vocabulary at the appropriate level).",
+                        "Kutanga bibaaba muji bya mu ma byapusana-pusana (Read texts from various sources).",
+                        "Kutanga bibaaba bya pusana-pusana muji bifyamiko na kumvwisha kwesakana na kipimo kya lufundo (Read various text types including traditional texts with comprehension)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.B.1",
+                            "page": 35,
+                            "hook": "Mwingilo wakuuba 1: Mufunjishi ne bafunda batange jishimikila ja Nzovu ne Bankasanji jiji kunshi bulongo na manono bimye bibiji.",
+                            "teacher_steps": [
+                                "Buula bafunda kutanga jishimikila ja Nzovu ne Bankasanji.",
+                                "Buula bafunda kwingijisha byambo mu bipelu.",
+                                "Epuzhe bafunda bilumbuluzhi bya byambo byanema.",
+                                "Buula bafunda kulumbulula mwatala mepuzho alondelapo.",
+                                "Buula bantangi mu bipanyi kupana sawakya pa bulumbuluzhi bwa byambo."
+                            ],
+                            "learner_steps": [
+                                "Batange jishimikila ja Nzovu ne Bankasanji ne kumvwisha.",
+                                "Balembe bilumbuluzhi bya byambo byanema biji mu jishimikila.",
+                                "Besambe pa bilumbuluzhi bya byambo.",
+                                "Bengijishe byambo mu bipelu."
+                            ],
+                            "short_notes": "Jishimikila: Nzovu ne Bankasanji. Mwane nzovu ne bankasanji bepumine mutukuji amba bakabekye muntomeno ya maalwa ne kumona ukashinda, apa akasongole yewa kamwale. Bano bankasa nzovu bajinga: Kilangwa, Kyovwe, Mbo-o, Nsefu, Mfumbo, Ntengu, Nkonzhi, Mbazhi, Nsebula, Ngulungu, Kasha, Kiñomba ne Kalulu. Byambo byanema: Tuzolo-ntanda (Tuñonyi twa mungye twapasha banzolo ba pamuzhi), Tuntuluzhi (Kisela kya kwingijisha muchi mukutuntulwila masukula ku muntu mukwabo), Banteki (Bashayuka bayuka bulongo mwingilo wakuteeka), Mashipwa (Abya bishala mulunyungo panyuma ya kususa maalwa), Kikungubulo (Kulaala pampuzha imo bonse), Mataate (Myemba ya biseba bya banyama), Kafwankelu (Muntu upendwa bukiji)."
+                        }
+                    ],
+                    "short_notes": "Kibese kya Kutanga: Mutwe 1 - Byambo (Vocabulary from Nzovu ne Bankasanji). Mutwe 2 - Ntangilo Yazhika: Kutanga nchikameno (reading for comprehension) ne kutanga nsabailo (reading various published texts). Mwingilo 1: Batange bibaaba muji bya mu ma byapusana-pusana. Mwingilo 2: Bafunda bepipishe bibaaba byo batanga.",
+                    "vocabulary": [
+                        {
+                            "term": "Tuzolo-ntanda",
+                            "definition": "Tuñonyi twa mungye twapasha banzolo ba pamuzhi (Wild birds that resemble domestic cocks)."
+                        },
+                        {
+                            "term": "Tuntuluzhi",
+                            "definition": "Kisela kya kwingijisha muchi mukutuntulwila masukula ku muntu mukwabo (A tool used to pass a message/substance to another person)."
+                        },
+                        {
+                            "term": "Banteki",
+                            "definition": "Bashayuka bayuka bulongo mwingilo wakuteeka (Cooks who know well how to cook)."
+                        },
+                        {
+                            "term": "Mashipwa",
+                            "definition": "Abya bishala mulunyungo panyuma ya kususa maalwa (Dregs/residue left in a container after draining beer)."
+                        },
+                        {
+                            "term": "Kikungubulo",
+                            "definition": "Kulaala pampuzha imo bonse/kulaala pamo (Communal sleeping/sleeping together at one place)."
+                        },
+                        {
+                            "term": "Kafwankelu",
+                            "definition": "Muntu upendwa bukiji (A person who is loved greatly/a favourite)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 38,
+                        "questions": [
+                            "Kipimo kyañingijilo kyaketekelwa kubiwa: Byambo byasalululwa byanembewa bulongo mu bipelu.",
+                            "Bafunda besambe ne kulumbulula mwatala bino byambo: (a) Mashipwa (b) Mataate (c) Banteki (d) Tuzolo-ntanda (e) Tuntuluzhi."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.C",
+                    "title": "Kunemba - Ngipipishilo mu Bukyepelo (Writing: Summary/Précis)",
+                    "page": 45,
+                    "competences": [
+                        "Kunemba ngipipishilo ya bibaaba bipi-bipi (Write summaries of short texts).",
+                        "Kibaaba kyatangiwa ne kunembululwa mo kyafwainwa (Text is read and paraphrased as required)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.C.1",
+                            "page": 46,
+                            "hook": "Kwisamba pabiji ngipipishilo ya kyepelo kimo: Ngipipisho ikale ipi muji bishinte byonse. Ingijisha byambo ne mulaka wapeela kumvwa.",
+                            "teacher_steps": [
+                                "Buula bafunda kulondela bino mu kunemba ngipipishilo: Kunemba bishinte biji mu kibaaba, kunemba mitwe ipi-ipi mubwipi, tusuñami twabula bilumbuluzhi kwitushapo, mitwe yonse ya salululwa inembwe mu kyepelo kimo.",
+                                "Apane bibaaba biche-biche byapusana-pusana.",
+                                "Abanye bafunda mu bipanyi.",
+                                "Epuzhe bafunda kutanga bino bibaaba bulongo."
+                            ],
+                            "learner_steps": [
+                                "Batange kibaaba kishinshi.",
+                                "Banembe bishinte pa makatazho aiya na mikochi yamabwe abuneme a ngolode.",
+                                "Banembe ngipipishilo ya kibaaba mu kyepelo kimo."
+                            ],
+                            "short_notes": "Kibese kya Kunemba: Mutwe - Ngipipishilo. Mutwe-Kache: Ngipipishilo mu bukyepelo. Kibaaba: Mikochi ya Ngolode mu Kasempa yaleta kantu. Balupupila ba ano mabwe abuneme, balukuka nyaunda ya Dengwe. Bamo bafuma ku kyalo kya Tanzania, Zimbabwe ne ku Democratic Republic wa Congo. Mikumbu ya ketekelwa ya ngipipishilo: Mikochi ya ngolode mu Kasempa yaleta ba mubyalo bavula, kuleka kwa masukuulu, bulaalelaale, bumbazhi ne masongola kuzekenta. Kununga pa bino, kuvula kwa mapuso ne bikola pamo. Mashinda a kunemba ngipipishilo: Labijila: Matebulu, machati ne madagilamu ke mitundu ikwabo mo twafwainwa kunembelamo ngipipishilo."
+                        }
+                    ],
+                    "short_notes": "Ngipipishilo ya kyepelo kimo (Summary/Précis in one paragraph): Ngipipisho ikale ipi muji bishinte byonse. Ingijisha byambo ne mulaka wapeela kumvwa. Nemba bishinte mundonda ya kibaaba. Kupeshako kubikamo milanguluko yobe yabula kuilamo na kibaaba.",
+                    "vocabulary": [
+                        {
+                            "term": "Ngipipishilo",
+                            "definition": "Kunemba mu bukyepelo bishinte bya kibaaba kibene kwingijisha byambo byabo bene (Summary/Précis - writing the main points of a text using own words)."
+                        },
+                        {
+                            "term": "Kyepelo kimo",
+                            "definition": "Kunemba mu paragalafu imo yonse (One paragraph - writing all ideas in a single paragraph)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 47,
+                        "questions": [
+                            "Kipimo kyañingijilo kya ketekelwa: Kibaaba kyapanwa, kyaipipishiwa mu kyepelo kimo mwafwainwa.",
+                            "Bafunda banembe ngipipishilo ya kibaaba mu kyepelo kimo kwingijisha bishinte byanembwa mu mwingilo wakuuba bafunda 1."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.D",
+                    "title": "Mulaka-Zhilo - Tusuñami (Grammar: Pronouns)",
+                    "page": 48,
+                    "competences": [
+                        "Kusobolola mitundu ya tusuñami (Identify types of pronouns).",
+                        "Kwingijisha tusuñami (Use pronouns correctly)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.D.1",
+                            "page": 48,
+                            "hook": "Kasuñami ke kyambo kingijishiwa mu kifulo kya kintu. Ke kyambo kingijishiwa mu kipelu mu kukepeshako kubweluluka pa kyambo (A pronoun is a word used in place of a noun to avoid repetition).",
+                            "teacher_steps": [
+                                "Apane kimwesho ku bafunda kyakuuba bunke bunke.",
+                                "Tongola muntundu wa tusuñami twanembwa na manembo ajita ne mingilo yato.",
+                                "Buula bafunda kwisamba pa ndumbulwilo ne ñingijishilo ya tusuñami."
+                            ],
+                            "learner_steps": [
+                                "Bashilañane mikumbu yabo bene na bene.",
+                                "Tongola muntundu wa tusuñami twanembwa: Amiwa, Obewa/Anweba, Aye, Abo/Ao, Atweba.",
+                                "Bengijishe tusuñami mu bipelu: twa-buntu, twa-tusontelo, ne twa-bwinakyo."
+                            ],
+                            "short_notes": "Mitundu ya tusuñami: (a) Tusuñami twa-buntu: Tuno tupingakena pa bintu-zhina bimenako muntu/bantu. Kimwesho: 'Atweba kechi twa konsha bonse kwikala bitonzhi ine.' (b) Tusuñami twa-tusontelo: Tuno twimenako kintu-zhina kabiji twitubula kana tuji mubumo nangwa mubuvule ne kwitubula paji kintu, kana pepi nangwa paleepa. Ngipipisho ya kulumbulula: BUMO - Ake/Aka; BUVULE - Abye/Atwe / Abya/Atwa. (c) Tusuñami twa-bwinakyo: Tuno twimenako nkitu-zhina kabiji twitubula mwine mwinakyo. Kimwesho: 'Ao makasu etu.' Labijila: bino byambo kechi be binungankanya na bikwabo ine. Binembwa bunke apa bino bikwabo byalondelapo."
+                        }
+                    ],
+                    "short_notes": "Kibese kya Mulakazhilo: Tusuñami. Kasuñami ke kyambo kingijishiwa mu kifulo kya kintu - ke kyambo kingijishiwa mu kipelu mu kukepeshako kubweluluka pa kyambo. Tusuñami tuno twasekako: Amiwa, Obewa/Anweba, Aye, Abo/Ao, Atweba. Mitundu misatu: twa-buntu, twa-tusontelo, twa-bwinakyo.",
+                    "vocabulary": [
+                        {
+                            "term": "Kasuñami",
+                            "definition": "Kyambo kingijishiwa mu kifulo kya kintu mu kukepeshako kubweluluka pa kyambo (Pronoun - a word used in place of a noun to avoid repetition)."
+                        },
+                        {
+                            "term": "Tusuñami twa-buntu",
+                            "definition": "Tuno tupingakena pa bintu-zhina bimenako muntu/bantu (Personal pronouns - those referring to a person/people)."
+                        },
+                        {
+                            "term": "Tusuñami twa-tusontelo",
+                            "definition": "Tuno twimenako kintu-zhina kabiji twitubula kana tuji mubumo nangwa mubuvule (Demonstrative pronouns - those indicating whether something is near or far)."
+                        },
+                        {
+                            "term": "Tusuñami twa-bwinakyo",
+                            "definition": "Tuno twimenako nkitu-zhina kabiji twitubula mwine mwinakyo (Possessive pronouns - those showing ownership)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 50,
+                        "questions": [
+                            "Tongola muntundu wa tusuñami twanembwa na manembo ajita ne mingilo yato mu bino bipelu: 1. Kasha kalaala mu kimfutele kyako. 2. Atweba twamba mulaka wa baswa meema. 3. Aka kaana kechi komvwa byo bekabula ku bansemi ine. 4. Abye bipe byalajika bibi. Potaitu bikwabo. 5. Twana twa mpuku ato inge twavula, tu kajanga bivwalo. 6. Kambalaminwe, kamfina bingi ku munwe wami wapakachi. Kimye: Mamineti 10."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.E",
+                    "title": "Kibese E - Ñambilo Yazhika & Ntuntulwilo (Proverbs & Translation)",
+                    "page": 50,
+                    "competences": [
+                        "Kwingijisha Bishimpi (Use proverbs correctly).",
+                        "Bafunda batuntulule jishimikila kulondela mizhilo ya ntuntulwilo (Learners translate following translation methods)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.E.1",
+                            "page": 51,
+                            "hook": "Kalobo: Ñambilo ya bishimpi, isolola kipimo kya bushayuka bwa mulaka ku banteleki ne kwi obewa mwine. Bishimpi byayuka kuwamisha ñambilo ne ndembelo ya mulaka.",
+                            "teacher_steps": [
+                                "Mufunjishi apaane ñambo ya fyamika ku bafunda.",
+                                "Kwasha mashinda apeela ku kumbwilamo mepuzho.",
+                                "Mufunjishi alumbwile bafunda mashinda ene asatu ba Kaonde o bengijishamo bishimpi mu ñambilo yabo.",
+                                "Pana bishimpi kuubafunda batoongole kimye kyo bebingijisha pa muntu pa muntu."
+                            ],
+                            "learner_steps": [
+                                "Besambe bulongo mu bipanyi bishimpi byafikilamo muyoyo ñambo.",
+                                "Bapaane mikumbu yabo ku bonse mu kalasi.",
+                                "Batele kimye/mashinda mobengijishila bino bishimpi.",
+                                "Banembe bishimpi ne kutongola bimye mobebingijisha.",
+                                "Batunchike bishimpi mwaila mingilo yabyo."
+                            ],
+                            "short_notes": "Bishimpi ne mingilo yabyo: 1. Makoko alembalele oapyana - KUJIMUNA. 2. Kuboza kwa lubwala kuji ne koakinka matako. 3. Ponda bobe bwami nja bwamapa. 1. Munda mukyabu - KUBINGISHA. 2. Kiwele uja tumutana pa jizhiba. 1. Ulaala mu jito kechi umvwa ncholoko ine - KUFUNDAÑANA. 2. Lubilo lwa banyike kijoma kya bakulu. 1. Wamona kapya walala ne kayinga - KWENDELEKA. 2. Lukala kyasemena mu lunga. 1. Lesa upa wimazhala - KUTUNDAIKA. 2. Kyafumapo kyafwa meso. Bimye bya kwingijishamo bishimpi: (a) Papwila malunzhi paji byabola. (b) Palwila banzovu pamanamina nsono. (c) Lubilo lwa mwanyike kijoma kya mukulu. (d) Kufwa nafwa nkankalwe kubola? (e) Ku mutwe wa mfumu kwazhila nkonyi, jiwijo bambamo."
+                        }
+                    ],
+                    "short_notes": "Kibese E kya Bishimi ne Mashimikizho: Ñambilo ya Bishimpi ne Ntuntulwilo. Bishimpi bingila mingilo yavula: kufunjisha, kumujimuna, kumubingisha, kumutundaika, kuzhachisha, kumwendeleka, kumuchibila mambo, kumupwanya na bakwabo. Ntuntulwilo: Good health must be cherished in one's life (kufumya mu Kizungu kutwala mu Kikaonde) / Kabwa ke kilelwa kimo mu banyama bavula... (kufumya mu Kikaonde kutwala mu Kizungu).",
+                    "vocabulary": [
+                        {
+                            "term": "Bishimpi",
+                            "definition": "Mulaka mwipi bino uji ñambilo yazhika ya fyamika kuub buula kwibiyuka (Short proverbs/sayings with deep figurative meaning meant to teach wisdom)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 53,
+                        "questions": [
+                            "Bipimo byaningijilo byaketekelwa kubiwa: Bishimpi bya tanchikiwa bulongo monka mwaila mingilo yabyo.",
+                            "Tongola bishimpi bya mwaila ino ñambilo: 1. Bafunda bakisemi kimo inge baendela pamo na lusekelo... 2. Kubula kumvwina bakulumpe kuleta makatazho. 3. Kechi kyawama kukatazha muntu walukokelo... 4. Bubi bwa bansemi kimye kimo buleta makatazho ku bafunda. 5. Muzhi kechi uzhiyatu yense ine.",
+                            "Bipimo byañingijilo bya ketekelwa kubiwa: Bafunda batuntulule jishimikila kulondela mizhilo ya ntuntulwilo kufuma mumulaka wapanyiwa."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "Bundama-Kyalo (Civics / Community Life)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.A",
+                    "title": "Kuteleka ne Kwamba - Minsambo ya Buntangi (Speeches on Leadership)",
+                    "page": 56,
+                    "competences": [
+                        "Kwingijisha mulaka wafikilamo mu kwisamba pa bintu byalamata ku bwikalo bwa bantu (Use appropriate language when discussing topics related to daily life).",
+                        "Masawakya aminsambo apanwa mwaila ndonda (Points from speeches are presented in order)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.A.1",
+                            "page": 56,
+                            "hook": "Mwinsambo: Kitumba-fumo Mwaji ne bena mizhi basatu besambe pa byubilo bibiji: bukitomi bwapitaila mukipimo mu bafundabalume, ne bya kupeela ku maulu kwavula mu bafundabakazhi munyaunda.",
+                            "teacher_steps": [
+                                "Usa kupaana bichi paji minsambo.",
+                                "Abike bafunda mubipanyi bya minsambo.",
+                                "Apane mikambizho ya kulondela pa kwisamba.",
+                                "Anungankanye milanguluko ya bafunda.",
+                                "Ita banembeshi ba mubipanyi mukupana masawakya."
+                            ],
+                            "learner_steps": [
+                                "Batange minsambo ya nembwa ne kumona buntangi bwasolokamo.",
+                                "Kupana masawakya afuma mu minsambo.",
+                                "Besambe pa mitwe yo bapewa.",
+                                "Banembe mwingilo wakuuba ye bapewa."
+                            ],
+                            "short_notes": "Mwinsambo wa Bundama-Kyalo: Kitumba-fumo Mwaji ne bena mizhi babibili basatu besambe pa byubilo bibiji byatama kya kine-kine: (1) Bukitomi bwapitaila mukipimo mu bafundabalume, (2) Kupeela ku maulu kwavula mu bafundabakazhi munyaunda yabo. Mwina muzhi Kyangeleka, Tolofwelo, ne Situlongu bapaane milanguluko. Kimwesho: Kwisamba pa buntangi bwawama ne bwatama bwo buji (reading about types of leadership)."
+                        }
+                    ],
+                    "short_notes": "Kibese A: Kuteleka ne Kwamba. Minsambo ya buntangi (Speeches on leadership). Kibese B: Kutanga - Byambo (Buntunanwa, Kimpela-mpela, Kunzanza meso, Kipasu, Kupela ku maulu ne bikwabotu) ne Ntangilo Yazhika ya kibaaba kya buntangi bwawama ne bwatama. Kibese C: Kunemba - Mpito ya Bwikalo (Autobiography/Biography).",
+                    "vocabulary": [
+                        {
+                            "term": "Buntangi",
+                            "definition": "Kwikala mu nsongolo ya kukobisha bantu ne kwibakwasha (Leadership - the state of guiding and helping people)."
+                        },
+                        {
+                            "term": "Bundama-Kyalo",
+                            "definition": "Bya kwikala ne kwimika kyalo bulongo (Civics/governance - how to live and organize the nation properly)."
+                        },
+                        {
+                            "term": "Buntunanwa",
+                            "definition": "Kuuba kintu/bintu patooka (Honesty/transparency - doing something openly)."
+                        },
+                        {
+                            "term": "Kimpela-mpela",
+                            "definition": "Pa mpunzha pa bena kumwekana bulongo (A public place where people can meet openly)."
+                        },
+                        {
+                            "term": "Kunzanza meso",
+                            "definition": "Pa bena kumwekana ku meso abantu (In plain view/in front of people's eyes)."
+                        },
+                        {
+                            "term": "Kipasu",
+                            "definition": "Kwamba kwa kubula kufya muntu (Speaking without hurting/diplomacy)."
+                        },
+                        {
+                            "term": "Kupela ku maulu",
+                            "definition": "Muntu ubula kumona wamulume/wamukazhi kana walaala nanji (Infidelity/unfaithfulness in marriage)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 61,
+                        "questions": [
+                            "a) Kumona kino kibaaba, ñanyi musango wa byubilo byasolola ba Kañamba na mambo alwilu ne lukasha?",
+                            "b) Lumbulula mwapusena kyambo kya 'lwilu' ne 'lukasha'.",
+                            "c) Mwaila milanguluko yobe, ba Kañamba bafwainwa ku kwashiwa byepi pa lwilu ne lukasha lwabo lwapitaila pa kipimo?",
+                            "Nemba nsombelo ya mpito ya bwikalo boobe kulondela mashinda apewa (Write an autobiography following the given guidelines)."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.D",
+                    "title": "Mulaka-Zhilo - Tulumbululo (Grammar: Adverbs)",
+                    "page": 63,
+                    "competences": [
+                        "Kwingijisha mitundu ya tulumbululo twa pusana-pusana (Use various types of adverbs correctly)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.D.1",
+                            "page": 63,
+                            "hook": "Ndumbululo: Ke kalumbululo kengijishiwa mu kupana ngubilo ya kyubilo mu kipelu (An adverb is a word used to give more details about an action in a sentence).",
+                            "teacher_steps": [
+                                "Kulumbulula ndumbululo ya mulaka-zhilo.",
+                                "Kupana byambo bya kumwenako.",
+                                "Kusoobola tulumbulwilo kufuma mu bipelu nobe kya kumwenako bafunda."
+                            ],
+                            "learner_steps": [
+                                "Tongola misango ya tulumbululo ne mingilo yato tuji mubipelo.",
+                                "Soobola tulumbululo mu kibaaba.",
+                                "Lenge bipelu bitanu kwingijisha tulubululo twapusana."
+                            ],
+                            "short_notes": "Misango ya tulumbululo: 1. Tulumbululo twa kimye: Katataka, lelo, luno, kesha/japita, moba onse, pamulungu pamulungu, pa mwaka, pa ñondo. 2. Kalumbululo ka musango: Ufwenka bulongo (byepi?), Wamba pache-pache (byepi?). 3. Kalumbululo kamuteeto: Ba mwisho beya jimo-jimo na kupempula ba nkambo (Kyambo kya jimo-jimo kyena kubulaňana muteeto wangishilo). 4. Kalumbululo ka kipimo: Acheche, byavula/baya, pepi, bingi. 5. Kalumbululo ka mpunzha: Pano, apa, ape, akwa, pangye, mukachi, peulu, panshi."
+                        }
+                    ],
+                    "short_notes": "Mulaka-Zhilo wa Bundama-Kyalo: Tulumbululo ne mingilo yabyo. Mitundu itanu ya tulumbululo: ya kimye (time), ya musango (manner), ya muteeto (frequency), ya kipimo (degree/measure), ya mpunzha (place).",
+                    "vocabulary": [
+                        {
+                            "term": "Tulumbululo",
+                            "definition": "Byambo bitungulula ngubilo ya kyubilo, mpunzha, kimye, muteeto nangwa kipimo mu kipelu (Adverbs - words that modify a verb, place, time, frequency or degree in a sentence)."
+                        },
+                        {
+                            "term": "Kalumbululo ka musango",
+                            "definition": "Kabulumbula ngubilo ya kyubilo - kyubiwa byepi? (Adverb of manner - how an action is done)."
+                        },
+                        {
+                            "term": "Kalumbululo ka mpunzha",
+                            "definition": "Kano kalumbula mpunzha yangubilo ya kyubilo (Adverb of place - where an action occurs)."
+                        },
+                        {
+                            "term": "Kalumbululo ka kimye",
+                            "definition": "Tuno tutongola kimye mu kipelu (Adverbs of time - indicating when an action occurs)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 65,
+                        "questions": [
+                            "Tongola misango ya tulumbululo ne mingilo yato tuji mubipelo biji kunshi: 1. Lelo tusa kuya na kwimbila ku Kalumbila. 2. Kibale wenda na kubayangila. 3. Bakelwa kwiya jonse pa kimye kyafwainwa. 4. Jikebo wasangalala bingi. 5. Aki pembelela pano amiwa sakankivwala.",
+                            "Soobola tulumbululo mu kino kibaaba: Luusa lwa bantu bavula ano moba kechi babena kwi lulondela ine...",
+                            "Kipimo kyaňingijilo kyaketekelwa kubiwa: Mitundu ya tulumbululo ya soobolwatu mo kyafwainwa."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "Kulenga Bichomeko (Riddles)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.A",
+                    "title": "Kuteleka ne Kwamba - Bichomeko (Oral Riddles)",
+                    "page": 71,
+                    "competences": [
+                        "Bichomeko bya tendekelwa ne mikumbu ya panyiwa kyafikilamo (Riddles are presented with correct answers).",
+                        "Bichomeko bipya byalengewa mo kyafwainwa (New riddles are created correctly)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.A.1",
+                            "page": 71,
+                            "hook": "Kwamba ne kukumbula bichomeko: CHOO: CHIKA (The traditional riddling call-response: CHOO: CHIKA).",
+                            "teacher_steps": [
+                                "Mufunjishi usa kutatwilapo kwipuzha bafuunda bichomeko.",
+                                "Abike bafunda mu tubipanyi tuche-tuche, apa bino beyipuzhenga bichomeko ne kupana mikumbu yafikilamo.",
+                                "Apane mepuzho anengezhiwa pa kila kipanyi.",
+                                "Ambile bafunda kulengapo bichomeko bikwabo bipya."
+                            ],
+                            "learner_steps": [
+                                "Bafunda beipuzhe bichomeko kabiji ne kukumbula bulongo.",
+                                "Kulengapo bichomeko bipya."
+                            ],
+                            "short_notes": "Bichomeko bya kumwenamo ne mikumbu: [1] Katoonto mukila pangye? Mukumbu: lutamba. [2] Aku ndoza nyama ne makubi afika? Mukumbu: malunzhi. [3] Bakapokola bankwata kwakubula mambo? Mukumbu: Nsoke. [4] Mu nzubo mutwelatu lukunyi umo? Mukumbu: Mumona. Bichomeko bipya byalengewa: [1] Mu nzubo iba maama kuji kyakwata pamusana? Mukumbu: Kapu. [2] Aku mutumba aku mutumba pakachi papita jishinda? Mukumbu: Matako. [3] Kwalulwila mumu nyabemba? Mukumbu: Buki. [4] Ako kantu kafumatu mwiulu kapona panshi kufwa ine? Mukumbu: Jibula. [5] Ba mfumu ba kizela... ba mfumu ba munyambala bebapepula mino? Mukumbu: Kuulu. [6] Bujimi bwabaya pakunowa mwafumatu musansa umo? Mukumbu: Nsuki."
+                        }
+                    ],
+                    "short_notes": "Kalenga bichomeko (Riddles): Bichomeko ke mashindilo a mulaka ambwa pa kyubilo bya kintu nangwa muntu. Kwipuzha bichomeko kusangalazha ne kufunjisha. CHOO: CHIKA ke kyambo kyatangijilishamo bichomeko. Mwingilo: Kwamba ne kukumbula bichomeko ne kulenga bichomeko bipya.",
+                    "vocabulary": [
+                        {
+                            "term": "Bichomeko",
+                            "definition": "Mashindilo a mulaka ambwa pa kyubilo bya kintu nangwa muntu (Riddles - spoken challenges about the characteristics of a person or thing)."
+                        },
+                        {
+                            "term": "CHOO: CHIKA",
+                            "definition": "Kyambo kyatangijilishamo bichomeko mu nsambo ya Kikaonde (The traditional call-response formula used to begin riddle-telling)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 73,
+                        "questions": [
+                            "Bipimo byaningijilo byaketekelwa kubiwa: Bichomeko bya tendekelwa ne mikumbu ya panyiwa kyafikilamo.",
+                            "Bichomeko bipya byalengewa mokyafwainwa.",
+                            "Mwingilo: Kulenga bichomeko bipya - kubena kwipuzhiwa bichomeko ne kupana mikumbu yafikilamo."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.B",
+                    "title": "Kutanga - Byambo & Ntangilo Yazhika - Kusekelela Ntongo kwa Kizela (Reading: Traditional Ceremonies)",
+                    "page": 73,
+                    "competences": [
+                        "Ndumbulwilo ya byambo yalumbululwa bulongo (Vocabulary definitions are explained correctly).",
+                        "Mepuzho akumbulwa bulongo (Questions are answered correctly)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.B.1",
+                            "page": 74,
+                            "hook": "Kutanga: Kusekelela Ntongo kwa Kizela - Kisemwa kya kusekelela ntongo kya tendekele ne ba mfumu ba kizela ba butane na busatu abo bajinga ba fumpa malangulusha mu mwaka wa 1982.",
+                            "teacher_steps": [
+                                "Buula bafunda mwakutangila bibaba bya pusana-pusana.",
+                                "Atange kyepelo patanshi na manono kulondela tuchibawilo bulongo.",
+                                "Buula bafunda kukumbula mepuzho afuma mu kibaaba.",
+                                "Buula bafunda kuneemba ngipipishilo ya kibaaba.",
+                                "Buula bafunda kupana ndumbulwilo ya byambo."
+                            ],
+                            "learner_steps": [
+                                "Batange kibaaba bulongo kulondela mikambizho ya kutanga ne kumvwisha.",
+                                "Bakumbule mepuzho apusana-pusana.",
+                                "Banembe ngipipishilo ya kibaaba kyo bakutanga.",
+                                "Banembulule bipelu kwakubula kupimpula ndumbulwilo.",
+                                "Bapane ndumbulwilo ya byambo: kijiji, kusomona, kukikizha, kishakulu, kukambizha."
+                            ],
+                            "short_notes": "Kibaaba kya Kusekelela Ntongo kwa Kizela: Kisemwa kya kusekelela ntongo kya tendekele ne ba mfumu ba kizela ba butane na busatu abo bajinga ba fumpa malangulusha mu mwaka wa 1982. Ba mfumu ba kizela bo bajinga batanshi kutendeka kino kisho kya kusekelela ntongo pa mafumu onse aji ku kabeta muzhika (North Western). Ntongo kuuba mfumu ba mukumbi kizela ya tendekele mu mwaka wa 1983 pa 26 Kapyantoto. Mikumbu ya mepuzho: 1. Kusomona kajo katanshi. 2. B. 3. C (mutwe wa nzovu). 4. B (1983). 5. D (Kufukwila)."
+                        }
+                    ],
+                    "short_notes": "Kibese 2: Ntangilo Yazhika - Kutanga kibaaba kya Kusekelela Ntongo kwa Kizela. Mwingilo wa kuuba: Kuneemba ngipipishilo ya kibaaba. Nambulwilo ne ndembulwilo (Active and passive constructions). Byambo: kijiji (Mpunzha mwikala baantu bavula), kusomona (Kuja kajo katanshi kapya mu mwaka - to eat first fruits), kukambizha (Kubuula baantu bya kuuba - to inform/instruct people), kisho (Kisemwa kilondela bantu - a ceremony/tradition).",
+                    "vocabulary": [
+                        {
+                            "term": "Ntongo",
+                            "definition": "Kusomona kajo katanshi kapya mu mwaka - kisela kya kusekelela bino (The first fruits ceremony - a traditional celebration of first harvest)."
+                        },
+                        {
+                            "term": "Kufukwila",
+                            "definition": "Kisela kyaikaiwa ku ba mfumu ba mukumbi baloli (A traditional ceremony practiced by the Luvale chiefs)."
+                        },
+                        {
+                            "term": "Kijiji",
+                            "definition": "Mpunzha mwikala baantu bavula (A village/community where many people live)."
+                        },
+                        {
+                            "term": "Kusomona",
+                            "definition": "Kuja kajo katanshi kapya mu mwaka (To eat the first new food of the season/year)."
+                        },
+                        {
+                            "term": "Kukambizha",
+                            "definition": "Kubuula baantu bya kuuba (To inform/instruct people about something)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 78,
+                        "questions": [
+                            "1. Kyambo kya ntongo kilumbulula ka?",
+                            "2. Ba mfumu ba nanyi batendekele kusekelela bya ntongo mu nkambi ya mufumbwe? (A) Ba kyamwina (B) Ba Fumpa Malangulusha (C) Ba Kafwebu (D) Ba Munyambala",
+                            "3. Kisemwa kya mu ba mfumu ba kizela kala kyajinga amba: (A) Ntongo (B) Kufukwila (C) Mutwe wa nzovu (D) Nsomo",
+                            "4. Ntongo kwa Mukumbi kizela yatendekele nanyi mwaka? (A) 1964 (B) 1983 (C) 1991 (D) 2001",
+                            "5. Kisela ka kikaiwa ku ba mfumu ba mukumbi baloli: (A) Nsomo (B) Kunyanta ntanda (C) Ntongo (D) Kufukwila"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "Nyimbo (Traditional Songs)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "5.A",
+                    "title": "Kuteleka ne Kwamba - Nyimbo ya Kishakulu (Traditional Songs)",
+                    "page": 90,
+                    "competences": [
+                        "Nyimbo ya kishakulu isambiwe ne kulumbululwa bulongo (Traditional songs are discussed and explained correctly).",
+                        "Kusabaula bulongo lufundo lwa nyimbo ya kishakulu (Correctly analyse the structure of a traditional song)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5.A.1",
+                            "page": 91,
+                            "hook": "Kalobo: Fwanyikizhai bafundabalume ne bafundabakazhi babena kuzha manchancha pa kimye kya kusekelela ntongo. Nano umone bafundabakazhi nabo batwelamo, babena kuzha kya kuuba nobe paji katwela.",
+                            "teacher_steps": [
+                                "Alumbulule mwatala byambo bya nyimbo ya kishakulu.",
+                                "Buula bafunda kwisamba pa nyimbo yapusana-pusana ya kishakulu.",
+                                "Abike bafunda mu bipanyi pa kuuba amba banembepo lwimbo lwa kishakulu lo bayuka.",
+                                "Buula bafunda kusabaula lufundo lwa nyimbo ya kishakulu.",
+                                "Epuzhe mepuzho afikila mu kipimo kya bafunda."
+                            ],
+                            "learner_steps": [
+                                "Balondele mikambizho yo bapewa.",
+                                "Besambe pa mitwe yo bapewa.",
+                                "Banembe mwingilo wakuuba ye bapewa.",
+                                "Basabaule lufundo lwa nyimbo ya kishakulu.",
+                                "Beimbe nyimbo ya kishakulu na kimenge."
+                            ],
+                            "short_notes": "Nyimbo ya Kishakulu (Traditional Song 1): Wajima mebele / wajima ne ntamba / mu kyalo muponena kaboola (Lwimbo lwa kishakulu). Nyimbo ya kishakulu (Traditional Song 2): Naya ee / mpungu malela / Kwetu ee / mpungu malela / Ko nafumine / mpungu malela / Nseme mwana / Nasemena mu kanwa kenu / Mpungu malela / Awe pano wakulelwa ne ba mama / Mpungu malela... Mepuzho pa lwimbo: 1. Bañanyi bo bembila uno lwimbo? 2. Uno lwimbo ubena kutundaika kuubanga ka? 3. Mambo ka o kyanemena kuuba byo babena kutundaika? 4. Nga nembi wa uno lwimbo ubena kwambila bantu bekala kwepi? 5. Ñanyi mutwe ye wafwainwa kupa uno lwimbo?"
+                        }
+                    ],
+                    "short_notes": "Nyimbo ya kishakulu ke nyimbo ya kisemwa yaimbanga bashakulu mwapichile bwikalo bwa Kaonde. Beimbanga pa kimye kya kunowa kajo kapya, kimye kya buswanyi, pa mitanda kabiji ne pa kubelwisha bisungu. Nyimbo ya kishakulu yawamine mambo yafunjishanga, kujimuna, kupwanya bantu kabiji ne kubingisha bantu. Byambo Byanema: Kishakulu (traditional), Ntongo (first fruits ceremony), Manchancha (traditional dance occasion), Kimenge (melody/tune), Kisangajimbwe (joy/happiness), Baleesa (escorts), Buswanyi (wedding), Kubelwisha (to celebrate initiation), Masengo a kabwa (outdated/irrelevant things), Kukunta bibalabala (special beating indicating entry into adulthood), Kisangajimbwe (celebration), Maluwo (dowry/bride wealth), Kusonsola (hunting small animals).",
+                    "vocabulary": [
+                        {
+                            "term": "Kishakulu",
+                            "definition": "Kino ke kisemwa kya bantu bakala (Traditional/ancestral practice - a custom from the elders)."
+                        },
+                        {
+                            "term": "Ntongo",
+                            "definition": "Kisela kya kusekelela kajo kapya (The first fruits ceremony)."
+                        },
+                        {
+                            "term": "Manchancha",
+                            "definition": "Mazha obazhila mulubunda pakimye kya kubelwisha, kusekelela kajo kapya, nangwa pa seela byonse (Traditional dances performed at initiation, first fruits, or all ceremonies)."
+                        },
+                        {
+                            "term": "Buswanyi",
+                            "definition": "Kupingishapo muntu pa kifulo kya buntangi biji mwina muzhi nangwa mfumu (The traditional wedding/marriage celebration ceremony)."
+                        },
+                        {
+                            "term": "Kubelwisha",
+                            "definition": "Kuteka kijilo kya kusekelela kamwale wabelula (To celebrate an initiate's graduation from initiation school)."
+                        },
+                        {
+                            "term": "Kisangajimbwe",
+                            "definition": "Kusangalala kwa muntu (Great happiness/joy of a person)."
+                        },
+                        {
+                            "term": "Maluwo",
+                            "definition": "Masongola (Bride wealth/dowry)."
+                        },
+                        {
+                            "term": "Kukunta bibalabala",
+                            "definition": "Kutokesha muntu waingila mingilo ya kutema kubuko (The special beating that announces a person's entry into an adult role/ceremony)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 101,
+                        "questions": [
+                            "5. Kyaikalanga byepi ku bantu pa kuya na kuzha ñoma ya pa mitanda?",
+                            "6. Nyimbo ya mu ano moba beizha byepi?",
+                            "7. Mu ñanyi jishinda mwa kwashañenanga nyimbo ya kishakulu?",
+                            "Kipimo kyañingijilo kyaketekelwa kubiwa: Kutanga bulongo bibaaba kufuma mu ma apusana-pusana.",
+                            "Kipimo kya ñingijilo kyaketekelwa kubiwa: Kwimba na kimenge nyimbo ya kishakulu.",
+                            "Bafunda bepipishe bibaaba byo bapewa.",
+                            "Bafunda bapimpuleko nembelo ya bibaaba byo bapewa.",
+                            "Bafunda besambe ndumbulwilo ya byambo."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "6.0",
+            "topic_title": "Busulu (Business/Entrepreneurship)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "6.A",
+                    "title": "Kuteleka ne Kwamba - Mwinsambo wa Busulu (Dialogue on Business)",
+                    "page": 113,
+                    "competences": [
+                        "Mitwe ya pa busulu isambiwa bulongo (Topics on business are discussed correctly).",
+                        "Kwingijisha byambo byafikilamo mu kwisamba pa bintu bitulamata (busulu) (Use appropriate language in discussion on business-related matters)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.A.1",
+                            "page": 114,
+                            "hook": "Kalobo: Makonde makonde! Ntamba ntamba! Byafwa ku mupinyi pano. Iyai mupote. (Cry of a vendor selling makonde/ntamba at the market)",
+                            "teacher_steps": [
+                                "Tangijila bafunda mu misambo ya mwakutatwila ne kukomeshesha busulu.",
+                                "Biika bafunda mu tubipanyi tuche tuche (babiji nangwa basatu).",
+                                "Pana mepuzho anengezhiwa pa kipanyi pa kipanyi.",
+                                "Buula bafunda besambe monka mwaila mepuzho.",
+                                "Ita banembeshi ba mubipanyi mukupana byo besambapo.",
+                                "Ipuzha bafunda kulumbulula kilengela muntu kusala busulu bo asala kuuba."
+                            ],
+                            "learner_steps": [
+                                "Bekale basatu basatu.",
+                                "Batange mwisambo wa Busulu bwa Kumwenamo Mali ne kumwesha kwa kubula kutala pa byambo.",
+                                "Bakulumbule mepuzho aimena pa mwinsambo.",
+                                "Besambe pa byabalana ne kwisamba pa busulu."
+                            ],
+                            "short_notes": "Mwinsambo wa Busulu bwa Kumwenamo Mali: Milise, Bupe, ne Buya besambe pa mo bakonshesha kukeba mali a kukayila ku koleji mwaka wiya. Buya: 'Amiwa nalanguluka namba twakonsha kutatulako kuuba busulu.' Bupe: 'Mu kulanguluka kwenu ñanyi busulu bo twakonsha kutatulako kuuba pa kuuba amba tukamone mali?' Buya: 'Twakonsha kutatulako kuuba busulu bwa kupotesha masabi mambo muno mu nyaunda kafwako bapoteshako masabi ne.' Milise: 'Kyawama! Pano ano masabi tukeafumyanga kwepi?' Buya: 'Tukayanga na kupota ku boma wa Solwezi, apa bino twaiya na kupotolwesha kuno ku Kasempa.'"
+                        }
+                    ],
+                    "short_notes": "Kibese A: Kuteleka ne Kwamba pa Busulu. Byambo Byanema: Busulu (kupota ne kupotolwesha - business/trade), Kupota (kugula - to buy), Kupotolwesha (kushikilizha - to sell). Kibese B: Kutanga - Byambo (Bumamya, Nsubo, Musulu, Kisuse, Mfweto, Musabilo, Mazhika-Kanwa, Bumbazhi) ne Kibaaba kya Busulu.",
+                    "vocabulary": [
+                        {
+                            "term": "Busulu",
+                            "definition": "Kupota ne kupotolwesha (Business - buying and selling)."
+                        },
+                        {
+                            "term": "Kupota",
+                            "definition": "Kugula (To buy)."
+                        },
+                        {
+                            "term": "Kupotolwesha",
+                            "definition": "Kushikilizha (To sell)."
+                        },
+                        {
+                            "term": "Bumamya",
+                            "definition": "Kulama nangwa kusunga kwa mali nangwa bipe bya bunonshi bulongo (Saving/keeping money or valuable goods properly)."
+                        },
+                        {
+                            "term": "Kisuse",
+                            "definition": "Bono bwa bintu nangwa mali (Profit/gain from goods or money)."
+                        },
+                        {
+                            "term": "Musulu",
+                            "definition": "Muntu upota ne kupotolwesha bintu (Trader/businessman - a person who buys and sells goods)."
+                        },
+                        {
+                            "term": "Nsubo",
+                            "definition": "Mali asubukapo panyuma ya kupota ne kupotolwesha bipe (Revenue/income - money remaining after buying and selling goods)."
+                        },
+                        {
+                            "term": "Mfweto",
+                            "definition": "Mali a kufolesha wa mingilo pa ñondo (Salary/wages - money paid to workers monthly)."
+                        },
+                        {
+                            "term": "Musabilo",
+                            "definition": "Jishinda mwakumwena mali (Market/place where money is made through trading)."
+                        },
+                        {
+                            "term": "Mazhika-Kanwa",
+                            "definition": "Kupana kintu nangwa mali pa kuuba amba muntu bamubile kintu kyo abena kukeba bukiji (Bribe - giving something/money to get what one needs unfairly)."
+                        },
+                        {
+                            "term": "Bumbazhi",
+                            "definition": "Byubilo bya kwiba ne kwipayanana (Corruption/dishonest practices - stealing and cheating)."
+                        },
+                        {
+                            "term": "Bukomo",
+                            "definition": "Kuya palutwe nangwa kukoma mu bya busulu (Success/progress in business)."
+                        },
+                        {
+                            "term": "Buyanji",
+                            "definition": "Kukajilwa bintu byanema mu bwikalo bwa muntu nangwa kyalo (Poverty - lacking important things in one's life or community)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 121,
+                        "questions": [
+                            "1. Tongolapo mazhina a bansongwalume baji mu jishimikila.",
+                            "2. Nanchi bano bansongwalume baikalanga kwepi?",
+                            "3. Ñanyi bintu byatama byatanyiwanga mu mpuzha ya Mwasama? Tongolapo bisatu.",
+                            "4. Kika kyalengejile mpuzha ya Mwasama kupimpwilwa?",
+                            "Mwingilo wakuuba: Bafunda bepipishe kibaaba kyatangiwa.",
+                            "Nemba jishimikila pa kya bulanda kimo kyamwekejile musulu umo.",
+                            "Bafunda babale manambala kufuma ku kamo (1) kufika ku kiumbi kya biumbi kimo (1,000,000)."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "6.D",
+                    "title": "Mulaka-Zhilo - Kuubala (Mathematics in Kikaonde: Counting to 1,000,000)",
+                    "page": 123,
+                    "competences": [
+                        "Manambala kufuma ku kamo (1) ne kufika ku kiumbi kya biumbi kimo (1,000,000) byabalwa bulongotu (Numbers from 1 to 1,000,000 are counted correctly)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.D.1",
+                            "page": 123,
+                            "hook": "Mbalo ke jishinda ja kubajilamo bintu kimo-kimo ne kufika pa nambala ya kintu kyapelako (Counting is a method of tallying items one by one until the last).",
+                            "teacher_steps": [
+                                "Epuzhe bafunda kwambapo amo o bayuka mu Kikaonde.",
+                                "Alumbulule byo babala mu Kikaonde.",
+                                "Amweshe bya kubala mu Kikaonde."
+                            ],
+                            "learner_steps": [
+                                "Banembe mu ma abo manambala.",
+                                "Neemba ano manambala mu byambo: (a) 1 (b) 90 (c) 450 (d) 600 (e) 1200 (f) 1900.",
+                                "Nemba bino byambo mu manambala: (a) Bitota bya biumbi bisatu (b) Kitota kimo ne makumi atanu na ana (c) Makumi atanu na asatu na tutanu (d) Biumbi makumi atanu."
+                            ],
+                            "short_notes": "Kuubala mu Kikaonde: 1=kamo, 2=tubiji, 3=tusatu, 4=tuna, 5=tutanu, 6=tutanu na kamo, 7=tutanu na tubiji, 8=tutanu na tusatu, 9=tutanu na tuna, 10=jikumi, 11=jikumi na kamo, 12=jikumi na tubiji, 20=makumi abiji, 30=makumi asatu, 40=makumi ana, 50=makumi atanu, 60=makumi atanu na jimo, 70=makumi atanu na abiji, 80=makumi atanu na asatu, 100=kitota kimo, 200=bitota bibiji, 500=bitota bitanu, 1000=kiumbi kimo, 500,000=bitota bya biumbi bitanu, 1,000,000=kiumbi kya biumbi kimo. Labijila: Kuno kuubala kutatula na 'kamo' - muntu waambaatu 'umo' mukwabo ye abena kubula kechi ayuke ñanyi kintu kyatongola mukwabo ne. 'Umo' walumbulula byavula nobe - umo nyama, umo mwenge, umo tandakumbiji."
+                        }
+                    ],
+                    "short_notes": "Kibese D ya Busulu - Mulakazhilo: Kuubala (Counting in Kikaonde). Mbalo ke jishinda ja kubajilamo bintu kimo-kimo ne kufika pa nambala ya kintu kyapelako. Kuubala mu Kikaonde kuila mu bintu bibena kukebewa kubalwa: Muntu (Muntu umo/bantu babiji), Jisabi (Jisabi jimo/masabi abiji), Moona (Moona umo/myona ibiji), Kyulu (Kyulu kimo/Byulu bibiji), Kasha (Kasha kamo/tusha tubiji). Kuno kuubala konse kutatula na 'kamo' ketuye na kubula amba 'tubiji', 'tusatu', 'tuna'.",
+                    "vocabulary": [
+                        {
+                            "term": "Kamo",
+                            "definition": "Umo / kintu kimoja (One - the number one)."
+                        },
+                        {
+                            "term": "Jikumi",
+                            "definition": "Manambala ikumi (Ten - the number ten)."
+                        },
+                        {
+                            "term": "Kitota",
+                            "definition": "Manambala ikumi kwa ikumi (One hundred - the number 100)."
+                        },
+                        {
+                            "term": "Kiumbi",
+                            "definition": "Manambala elfu (One thousand - the number 1000)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 126,
+                        "questions": [
+                            "1. Neemba ano manambala mu byambo: (a) 1 (b) 90 (c) 450 (d) 600 (e) 1200 (f) 1900.",
+                            "2. Nemba bino byambo mu manambala: (a) Bitota bya biumbi bisatu (b) Kitota kimo ne makumi atanu na ana (c) Makumi atanu na asatu na tutanu (d) Biumbi makumi atanu.",
+                            "Kipimo kyañingijilo kya ketekelwa kubiwa: Manambala kufuma ku kamo (1) ne kufika ku kiumbi kya biumbi kimo (1,000,000) byabalwa bulongotu."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "6.E",
+                    "title": "Kibese E - Ntuntulwilo ya Busulu (Translation in Business Context)",
+                    "page": 129,
+                    "competences": [
+                        "Mashinda antuntulwilo aingijishiwa bulongotu (Translation techniques are applied correctly).",
+                        "Bafunda batuntulule kibaaba kwingijisha mashinda apusana-pusana (Learners translate a text using various methods)."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.E.1",
+                            "page": 130,
+                            "hook": "Kutuntulula ke jishinda ja kutuntulwilamo byaambiwa ne byanembewa kufuma mu mulaka umo ne kutwala mu mulaka mukwabo (Translation is the process of expressing spoken or written content from one language in another).",
+                            "teacher_steps": [
+                                "Patanshi afunjishe mwa kutuntulwila kufuma mu mulaka umo wa Kizungu kutwala mu mukwabo wa Kikaonde.",
+                                "Afunjishe misango ya ntuntulwilo.",
+                                "Kwasha bafunda kupichila mu bya kumwenako kwingijisha mashinda afikilamo bulongo.",
+                                "Apane mwingilo kwesekanya na misango ya ntuntulwilo yapanwa."
+                            ],
+                            "learner_steps": [
+                                "Bayuke bulongo mashinda a kutuntulwilamo.",
+                                "Balondelengamo mu kimwesho kya kutuntulula kya mufunjishi.",
+                                "Banembe mwingilo wa kutuntulula kibaaba.",
+                                "Bengijishe mashinda apusana-pusana: ntuntulwilo ya kyambo pa kyambo, yakupingakenyapo, kusenga, kuzelula byambo, ya kulumbulula ne ya kukumpankanya."
+                            ],
+                            "short_notes": "Misango ya kutuntulwilamo: (a) Ntuntulwilo ya pakyambo-pakyambo: Ino ke kutuntulula mulaka umo kutwala mu mulaka mukwabo pa kyambo pa kyambo kwa kubula kunungako kyambo kikwabo ine. Kimwesho: Nji na busulu (Kikaonde) = I have a business (English). (b) Ntuntulwilo ya kupingakenyapo kintu pa kyambo kyabulapo imo apa pabujijila. Kimwesho: Kwingijisha mutwe, maboko nangwa bintu bikwabo mu kupezhako ndumbulwilo nabiji kupukunya mutwe mu kumwesha kukana. Kibaaba kya kutuntulula: Entrepreneurship is about doing business. It is about changing an idea into activity that brings in an income. However, it is not good thinking that all you need is an idea... (kufumya mu kizungu kutwala mu Kikaonde pa kyambo pa kyambo)."
+                        }
+                    ],
+                    "short_notes": "Kibese E: Ntuntulwilo ya Busulu. Kutuntulula ke jishinda ja kutuntulwilamo byaambiwa ne byanembewa kufuma mu mulaka umo ne kutwala mu mulaka mukwabo. Ino yo misango ya kutuntulwilamo: (a) ya pakyambo-pakyambo, (b) ya kupingakenyapo kintu pa kyambo kyabulapo, (c) ya kusenga byambo mu yeo mulaka. Kipimo: Bafunda batuntulule kibaaba kufumya mu Kizungu kutwala mu Kikaonde kabiji ne kufumya mu Kikaonde kutwala mu Kizungu kwingijisha mashinda apusana-pusana a kutuntulwilamo.",
+                    "vocabulary": [
+                        {
+                            "term": "Ntuntulwilo ya pakyambo-pakyambo",
+                            "definition": "Kutuntulula mulaka umo kutwala mu mulaka mukwabo pa kyambo pa kyambo (Word-for-word/literal translation)."
+                        },
+                        {
+                            "term": "Ntuntulwilo ya kupingakenyapo",
+                            "definition": "Kutuntulula kupingakenyapo kintu pa kyambo kyabulapo mu mulaka mukwabo (Substitution translation - replacing with equivalent expressions when a word does not exist in the target language)."
+                        },
+                        {
+                            "term": "Ntuntulwilo ya kusenga byambo",
+                            "definition": "Kusenga byambo bya yeo mulaka ne kwibizelula mu mulaka mukwabo (Borrowing/loanword translation - adopting words from one language into another)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 131,
+                        "questions": [
+                            "Kipimo kyaningijilo yaketekelwa kubiwa: Mashinda antuntulwilo aingijishiwa bulongotu.",
+                            "Tuntulula kino kibaaba kufumya mu Kizungu wikitwale mu Kikaonde pa kyambo pa kyambo: 'Entrepreneurship is about doing business. It is about changing an idea into activity that brings in an income. However, it is not good thinking that all you need is an idea. There are so many things one will need to get into a business. Getting into a business with this idea will make someone become a rich entrepreneur.'",
+                            "Mpezho: Mufunjishi Buula bafunda kwamba byo bafunda mu kino kibese, apa bino ne aye naye anungepo bikwabo."
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

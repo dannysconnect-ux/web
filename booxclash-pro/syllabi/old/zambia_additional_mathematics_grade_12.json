@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "12",
+    "subject": "Additional Mathematics",
+    "philosophy": "Quality, lifelong education for all which is accessible, inclusive and relevant to individual, national and global needs and value systems.",
+    "competence_learning": "Assimilate necessary mathematical concepts for use in everyday life such as environment and other related disciplines. Think mathematically and accurately in problem solving skills and apply these skills to formulate and solve mathematical and other related problems. Produce imaginative and creative work from mathematical concepts and ideas. Develop abilities and ideas drawn from mathematics to reason logically, communicate mathematically, and learn independently without too much supervision (self-discipline). Development positive attitudes towards mathematics and use it in other subjects such as science and technology. Apply mathematical tools such as information and communication technology in the learning of other subjects. Use mathematics for enjoyment and pleasure. Develop understanding of algebra, geometry, measurements and shapes.",
+    "goals": [
+      "Provide clear mathematical thinking and expression in the learner",
+      "Develop the learners' mathematical knowledge and skills",
+      "Enrich the learners' understanding of mathematical concepts in order to facilitate further study of the discipline",
+      "Build up an appreciation of mathematical concepts so that the learner can apply these for problem solving in everyday life.",
+      "Enable the learner Represent, interpret and use data in a variety of forms"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "12.1",
+      "topic_title": "VECTORS IN TWO DIMENSIONS",
+      "page_number": 20,
+      "subtopics": [
+        "12.1.1 Vectors"
+      ],
+      "specific_outcomes": [
+        "Define a vector.",
+        "Use notation a, AB, ai+bj",
+        "Add and subtract vectors.",
+        "Multiply vectors by scalar.",
+        "Find position vector of a point.",
+        "Apply position vectors in calculations.",
+        "Find unit vector.",
+        "Use (scalar) product of two vectors.",
+        "Use dot product to find angles between two vectors.",
+        "Define properties of scalars, such as when a b = 0,",
+        "Vector equation of a straight line"
+      ]
+    },
+    {
+      "unit": "12.2",
+      "topic_title": "STATISTICS",
+      "page_number": 20,
+      "subtopics": [
+        "25 Measure of dispersion"
+      ],
+      "specific_outcomes": [
+        "Make cumulative frequency tables.",
+        "Draw cumulative frequency curves.",
+        "Find range, quartiles, percentiles and inter-quartile range.",
+        "Calculate mean, variance and standard deviation."
+      ]
+    }
+  ]
+}

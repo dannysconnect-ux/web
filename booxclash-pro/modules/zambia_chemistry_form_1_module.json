@@ -1,0 +1,874 @@
+{
+    "subject": "CHEMISTRY",
+    "grade": "Form 1",
+    "topics": [
+        {
+            "topic_id": "1",
+            "topic_title": "Introduction to Chemistry",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "subtopic_title": "Branches of Chemistry",
+                    "page_number": 15,
+                    "competences": [
+                        "Demonstrate understanding of Chemistry."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "block_id": "Activity 1.1.1",
+                            "page_number": 16,
+                            "hook": "What do learners know about Chemistry?",
+                            "teacher_steps": [
+                                "Introduction the activity by asking learners what they know about Chemistry.",
+                                "Ask learners to write their responses on the pieces of paper",
+                                "Ask learners to submit the pieces of paper to you",
+                                "Ask one learner to read the all the responses",
+                                "Provide learners with the consolidated definition of Chemistry, such as, Chemistry as a science that deals with the study of matter and its properties under different conditions",
+                                "Use a board to break down the definition and explain each component as follows: Matter: anything that has mass and occupies space; Properties: characteristics of matter, such as color, texture, and melting point; Different conditions: various environments, such as temperature, pressure, and concentration",
+                                "Ask learners to suggest everyday substances or objects",
+                                "Show learners examples of everyday substances or objects, (e.g., water, salt, sugar, etc.)",
+                                "Ask learners to identify the matter and its properties.",
+                                "Discuss how Chemistry is applied in various fields, such as: Cooking: understanding chemical reactions and properties of ingredients; Medicine: developing new treatments and understanding the chemical properties of drugs; Environmental science: studying the chemical properties of pollutants and their impact on the environment",
+                                "Divide learners into small groups",
+                                "Ask learners to discuss the following questions: 1. How does Chemistry impact our daily lives? 2. What are some examples of Chemistry in action? 3. Why is it important to study Chemistry?"
+                            ],
+                            "learner_tasks": [
+                                "Learners writing their responses on the pieces of paper",
+                                "Learners submitting the pieces of paper to the teacher",
+                                "Individual learner reading the responses from fellow learners",
+                                "Learner deepening understanding of the consolidated definition of Chemistry",
+                                "Learners suggesting everyday substances or objects such as water, salt, sugar, as they are identifying matter and its properties.",
+                                "Learners discussing how Chemistry is applied in various fields, such as: Cooking, Medicine, Environmental science:",
+                                "Collaboratively, learners discussing the provided questions (1. How does Chemistry impact our daily lives? 2. What are some examples of Chemistry in action? 3. Why is it important to study Chemistry?)"
+                            ]
+                        },
+                        {
+                            "block_id": "Activity 1.1.2",
+                            "page_number": 18,
+                            "hook": "Key Question: What comes into your mind when you hear the word Chemistry?",
+                            "teacher_steps": [
+                                "Introduce the activity by asking learners the following question \u201cWhat comes into your mind when you hear the word Chemistry?\u201d",
+                                "Put learners in small groups",
+                                "Provide each group with baking soda, lemon juice and other materials needed",
+                                "Instruct learners to add a spatula full of baking soda to lemon juice in a beaker and observe what happens"
+                            ],
+                            "learner_tasks": [
+                                "Learners adding baking soda to lemon juice in a beaker",
+                                "Learners observing what happens and write down observations",
+                                "Learners making presentations on their observations to the whole class"
+                            ]
+                        },
+                        {
+                            "block_id": "Activity 1.1.3",
+                            "page_number": 19,
+                            "hook": "Key Question: How are fireworks explosions related to Chemistry?",
+                            "teacher_steps": [
+                                "Introduce the activity by asking the following key question, \u2018How are fireworks explosions related to Chemistry?'",
+                                "Put learners in small groups",
+                                "Give each group a worksheet with a research question (Each group can have a worksheet with the research question phrased differently)",
+                                "If there is a computer laboratory with working computers that have access to internet, take the learners to the computer laboratory to research online",
+                                "If there are no working computers, ask learners to brainstorm and write down their ideas on the research question given",
+                                "Consolidate presentations made by learners and clearly guide on what Chemistry is in relation to matter and its properties"
+                            ],
+                            "learner_tasks": [
+                                "Learners reading and deepening understanding of the research question on the worksheet provided",
+                                "Learners researching online or brainstorming on the research question",
+                                "Learners making presentations to the class on their findings"
+                            ]
+                        },
+                        {
+                            "block_id": "Activity 1.1.4",
+                            "page_number": 21,
+                            "hook": "Key Question: what do you know about the branches of Chemistry?",
+                            "teacher_steps": [
+                                "Introduce the activity by asking learners what they know about the branches of Chemistry",
+                                "Ask learners to write their responses on pieces of paper",
+                                "Let an individual learner read their responses on the pieces of paper.",
+                                "Provide a brief overview of the five main branches of Chemistry: 1. Inorganic Chemistry; 2. Physical Chemistry; 3. Organic Chemistry; 4. Analytical Chemistry; 5. BioChemistry",
+                                "Show learners examples of applications for each branch of Chemistry.",
+                                "Use the board to consolidate the key learning points for each branch.",
+                                "Have learners take notes on the key learning points",
+                                "Divide learners into small groups.",
+                                "Assign each group one of the branches of Chemistry.",
+                                "Ask each group to create a poster or presentation that: 1. Describe the branch of Chemistry; 2. Provide examples of applications; 3. Explain the importance of the branch in everyday life",
+                                "Have each group present their poster or presentation.",
+                                "Encourage the other groups to ask questions"
+                            ],
+                            "learner_tasks": [
+                                "Learners writing their responses on pieces of paper",
+                                "Individual learner reading responses on the pieces of paper.",
+                                "Learner participating during the group activity",
+                                "Learner taking notes on the key learning points of the branches of Chemistry",
+                                "Learners in groups creating posters or presentations"
+                            ]
+                        },
+                        {
+                            "block_id": "Activity 1.1.5",
+                            "page_number": 23,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Review the branches of Chemistry with the class.",
+                                "Explain the objective of the research activity.",
+                                "Provide guidelines for the research and presentation.",
+                                "Assign each learner or group one of the branches of Chemistry.",
+                                "Have learners research the following topics: 1. Definition and principles of the branch; 2. Applications and importance in everyday life; 3. Key concepts and theories; 4. Famous Chemists and their contributions",
+                                "Encourage learners to use credible sources, such as academic journals, books, and reputable websites.",
+                                "Have each learner or group create a presentation to share their findings.",
+                                "Encourage them to include visual aids, such as diagrams, charts, and images.",
+                                "Allow time for questions and discussion after each presentation."
+                            ],
+                            "learner_tasks": [
+                                "Learner or group researching on one of the branches of Chemistry with a focus on the following topics: 1. Definition and principles of the branch; 2. Applications and importance in everyday life; 3. Key concepts and theories; 4. Famous Chemists and their contributions",
+                                "Learners using credible sources, such as academic journals, books, and reputable websites.",
+                                "Learners or group creating a presentation which include visual aids, such as diagrams, charts, and images.",
+                                "Learners to make their presentations of their findings",
+                                "Learners asking questions and discussion after each presentation."
+                            ]
+                        },
+                        {
+                            "block_id": "Activity 1.1.6",
+                            "page_number": 25,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Organise a visit to a local laboratory or industry",
+                                "Prepare a worksheet instructing learners to write down their observations and identifying the branches of Chemistry that are applied at the site visited",
+                                "Give learners a task that they should report on after the visit",
+                                "Ensure that the site to be visited is safe for learners",
+                                "Caution learners on safety before going on the field trip",
+                                "Consolidate the reports by learners after their presentations"
+                            ],
+                            "learner_tasks": [
+                                "Learners paying attention to safety protocols and guidance",
+                                "Learners taking notes during the field trip",
+                                "Learners preparing a report to present after the field trip",
+                                "Learners making a presentation and justifying the branches of Chemistry identified"
+                            ]
+                        },
+                        {
+                            "block_id": "Activity 1.1.7",
+                            "page_number": 26,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Select appropriate online simulations before hand",
+                                "Present the simulations showing chemical reactions or molecular structures relevant to each branch of Chemistry (Organic, Inorganic, Physical, Analytical and BioChemistry)",
+                                "Ask learners to relate the simulations shown to the branches of Chemistry"
+                            ],
+                            "learner_tasks": [
+                                "Learners watching the simulations",
+                                "Learners relating the simulations shown to the correct branches of Chemistry",
+                                "Learners making additional contributions"
+                            ]
+                        }
+                    ],
+                    "full_content_notes": "Chemistry is a science that studies the composition, properties, and reactions of matter under various conditions. It is divided into several branches, each focusing on a specific aspect of chemical study. Inorganic Chemistry examines inorganic compounds, while Physical Chemistry explores physical principles underlying chemical reactions. Organic Chemistry studies organic compounds found in living organisms, while Analytical Chemistry focuses on analyzing substances using techniques like chromatography and spectroscopy. BioChemistry examines chemical processes within living organisms, including biomolecule structure and function. Understanding these branches can provide insights into the natural world, develop new technologies, and improve daily life.",
+                    "vocabulary": [
+                        {
+                            "term": "Branches of Chemistry",
+                            "definition": "the areas or groups into which the study of Chemistry is categorised."
+                        },
+                        {
+                            "term": "Chemistry",
+                            "definition": "the study of matter and its properties."
+                        },
+                        {
+                            "term": "Chemical Changes",
+                            "definition": "Transformations that occur when matter interacts with other matter or energy."
+                        },
+                        {
+                            "term": "Chemical Reactions",
+                            "definition": "Processes in which one or more substances are converted into new substances."
+                        },
+                        {
+                            "term": "Properties",
+                            "definition": "Characteristics of matter, such as color, texture, and melting point."
+                        },
+                        {
+                            "term": "Matter",
+                            "definition": "Anything that has mass and occupies space."
+                        },
+                        {
+                            "term": "Reactivity",
+                            "definition": "the ability of a substance to undergo a chemical change."
+                        }
+                    ],
+                    "assessment": {
+                        "page_number": 28,
+                        "questions": [
+                            "Part A: Multiple Choice 1. What is the primary focus of Chemistry as a science? A) Study of living organisms B) Soil contamination only C) Study of matter and its properties D) Study of the universe E) Study of the environment",
+                            "2. Which branch of Chemistry deals with the study of the composition, properties, and reactions of inorganic compounds? A) Organic Chemistry B) Inorganic Chemistry C) Physical Chemistry D) Analytical Chemistry",
+                            "3. What is the main focus of bioChemistry? A) Study of the structure and properties of biomolecules B) Study of the chemical reactions that occur in living organisms C) Study of the interactions between living organisms and their environment D) Study of the chemical composition of living organisms",
+                            "Part B: Short Answer Questions 1. Describe the main differences between inorganic Chemistry and organic Chemistry.",
+                            "2. What is the importance of analytical Chemistry in everyday life? Provide at least two examples.",
+                            "3. Explain the concept of physical Chemistry and its relevance to modern technology.",
+                            "4. A learner visited a nearby clinic after experiencing headache for two days. After conducting a few tests, it was found that the had malaria. A drug called Coartem was prescribed for treatment. (a) Which branch of Chemistry was applied to conduct the test for malaria? (b) Which branch of Chemistry was applied in the manufacturing of Coartem?",
+                            "5. Which branch of Chemistry... (a) brings together concepts of physics and Chemistry? (b) looks at the study of chemical reactions that occur in living organisms?",
+                            "Part C: Essay Question Choose one of the main branches of Chemistry (inorganic Chemistry, physical Chemistry, organic Chemistry, analytical Chemistry, or bioChemistry) and describe its significance, applications, and current research trends."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "subtopic_title": "Importance of Chemistry",
+                    "page_number": 29,
+                    "competences": [
+                        "Relate the importance of Chemistry to everyday life"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "block_id": "Activity 1.2.1",
+                            "page_number": 30,
+                            "hook": "HOOK: Have you ever stopped to think about the air you breathe, the water you drink, or the food you eat?",
+                            "teacher_steps": [
+                                "Introduce the activity by using a hook such as \u201cHave you ever stopped to think about the air you breathe, the water you drink, or the food you eat?\u201d",
+                                "Facilitate the group discussions by providing guidance and prompting questions that encourage deeper thinking about the Chemistry behind everyday products",
+                                "Distribute worksheets and explain how to effectively use them to organise research and findings",
+                                "Monitor group progress and provide support as needed, ensuring that all learners engage with the material"
+                            ],
+                            "learner_tasks": [
+                                "Learners in small groups researching on assigned topics related to personal care products, food, medicine or other Chemistry related products",
+                                "Learners using worksheets to gather information, focusing on key chemical principles and their relevance to everyday products",
+                                "Learners presenting their findings to the class, ensuring they can explain the Chemistry involved in the products researched"
+                            ]
+                        },
+                        {
+                            "block_id": "Activity 1.2.2",
+                            "page_number": 32,
+                            "hook": "HOOK: Do you want to make a difference in people's lives through innovative solutions? Then a career in Chemistry might be the perfect fit for you!",
+                            "teacher_steps": [
+                                "Introduce the activity by asking a question, what careers are related to Chemistry?",
+                                "Divide learners into small groups",
+                                "Use the think pair-share strategy",
+                                "Provide the artificial materials such as the ones suggested above",
+                                "Ask learners to identify and describe Chemistry related careers"
+                            ],
+                            "learner_tasks": [
+                                "Learners Identifying and describing Chemistry related careers, focusing on the roles, responsibilities, required qualifications, and relevance to societal needs",
+                                "Learners presenting findings various career paths in Chemistry and their significance to society"
+                            ]
+                        },
+                        {
+                            "block_id": "Activity 1.2.3",
+                            "page_number": 34,
+                            "hook": "HOOK: \"The Hidden Dangers of Chemicals: Uncovering the Impact on our Surroundings and Our Bodies\"",
+                            "teacher_steps": [
+                                "Introduce the activity by posing a hook such as \"The Hidden Dangers of Chemicals: Uncovering the Impact on our Surroundings and our Bodies\"",
+                                "Ask learners to watch videos on different types of pollution showing their impact on the environment and human health.",
+                                "Put learners in small groups",
+                                "Ask learners to discuss the impact of chemical pollution on environment and human health, including specific examples and case studies.",
+                                "Ask learners to make presentations on the impact of pollution on the environment and human health",
+                                "Consolidate the ideas shared by learners"
+                            ],
+                            "learner_tasks": [
+                                "Learners watching videos on different types of pollution showing their impact on the environment and human health.",
+                                "Learner discussing the impact of chemical pollution on environment and human health, including specific examples and case studies.",
+                                "Learners making presentations on the impact of pollution on the environment and human health"
+                            ]
+                        },
+                        {
+                            "block_id": "Activity 1.2.4",
+                            "page_number": 36,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Introduce the activity",
+                                "Put learners in small groups",
+                                "Provide the materials",
+                                "Ask learners to identify real-world problems caused by Chemistry",
+                                "Ask learners to design solutions to the identified problems",
+                                "Ask learners to present the designed solutions",
+                                "Consolidate on the presentation by learners"
+                            ],
+                            "learner_tasks": [
+                                "Identify real-world problems caused by Chemistry",
+                                "Design solutions to the identified problems",
+                                "Present the designed solutions"
+                            ]
+                        }
+                    ],
+                    "full_content_notes": "Chemistry is a fundamental science that plays a significant role in our daily lives, influencing various fields such as healthcare, environmental science, and technology. It is the backbone of healthcare, enabling the development of new medicines and treatments. Chemists study the chemical composition of the atmosphere, oceans, and soil to understand the impact of human activities on the environment. In technology, Chemistry drives advancements in materials and technologies, such as electronics, energy storage devices, and renewable energy sources. These advancements are crucial for our well-being, sustainability, and progress. Overall, Chemistry is essential for our well-being, sustainability, and progress. The following are some of the Chemistry related career paths ways: Academic and Research Positions: Discuss the roles of chemists in education and research development; Agricultural Chemistry: Understand the role of Chemistry in enhancing agricultural practices sustainably; Analytical Chemistry: Highlight methods for substance analysis and their applications in quality control; Biotechnology: Highlight innovations in biopharmaceuticals and Genetically Modified Organisms (GMOs); Chemical Engineering: Discuss process design and the importance of safety in large-scale production; Cosmetic Science: Discuss formulation principles and regulatory compliance; Environmental Science: Understand the impact of pollutants and the importance of sustainable practices. Food Chemistry: Focus on the safety and quality of food production; Forensic Science: Emphasize analytical techniques used in crime scene investigation and the role of Chemistry in law enforcement; Materials Science: Explore the application of Chemistry in developing new materials and their technological implications; Nutritional Science: Discuss the chemical composition of food and its health impacts; Petrochemicals: Emphasize the refining processes and energy efficiency improvements; Pharmaceuticals: Focuses on drug development, regulations surrounding drug safety, and the importance of quality control; Public Health: Emphasize the chemical aspects of health and disease prevention; Regulatory Affairs: Understand the significance of compliance with health and safety regulations; Toxicology: Discuss the importance of studying toxic substances for public safety. Chemical pollution has significant environmental and human health impacts. It contributes to air and water pollution, soil degradation, and biodiversity loss. It also exacerbates respiratory issues like asthma, increases cancer risk, and can harm brain development and function. Chemicals like pesticides and heavy metals can cause neurological damage and reproductive issues. Specific chemicals include pesticides, heavy metals, volatile organic compounds, and endocrine disruptors. To reduce these impacts, sustainable Chemistry, green Chemistry, regulatory policies, and public awareness are essential. Sustainable Chemistry focuses on designing products and processes that minimise harm to human health and the environment, while green Chemistry focuses on reducing waste and using renewable resources. Regulatory policies aim to limit chemical emissions and promote sustainable practices.",
+                    "vocabulary": [
+                        {
+                            "term": "Career",
+                            "definition": "A professional journey is a person's long-term professional development, often involving education, skill development, and various jobs in a chosen occupation, reflecting their interests, goals, and employment."
+                        },
+                        {
+                            "term": "Food Chemistry",
+                            "definition": "study of chemical composition, properties, and reactions of food components"
+                        },
+                        {
+                            "term": "Medicines",
+                            "definition": "drugs that are specifically formulated and used for treating health conditions"
+                        },
+                        {
+                            "term": "Personal care products",
+                            "definition": "cosmetics, toiletries, and other products used for personal hygiene and grooming."
+                        },
+                        {
+                            "term": "Pollutant",
+                            "definition": "any substance that causes pollution e.g. oil spills, garbage, carbon monoxide, particulate matter (particle pollution) etc."
+                        },
+                        {
+                            "term": "Pollution",
+                            "definition": "the contamination of the environment by harmful substances"
+                        },
+                        {
+                            "term": "Sustainability",
+                            "definition": "practices and processes that minimise harm to the environment and promote human well-being."
+                        },
+                        {
+                            "term": "Volatile organic compounds (OVCs)",
+                            "definition": "these are chemicals that easily evaporate into a gas or compounds that have a high vapor pressure and low water solubility"
+                        },
+                        {
+                            "term": "Waste generation",
+                            "definition": "this is the amount of materials discarded over a period of time"
+                        }
+                    ],
+                    "assessment": {
+                        "page_number": 37,
+                        "questions": [
+                            "Part A: Multiple Choice Questions 1. What is the primary role of Chemistry in everyday life? A) To develop new materials and products B) To improve human health and the environment C) To provide energy and food D) All of the above",
+                            "2. Which of the following personal care products relies heavily on Chemistry? A) Soap B) Toothpaste C) Shampoo D) All of the above",
+                            "3. What is the impact of chemical processes on the environment? A) They have no impact B) They have a positive impact C) They have a negative impact D) It depends on the process",
+                            "Part B: Short Answer Questions 1. Describe the role of Chemistry in food production and processing.",
+                            "2. Evaluate the impact of chemical products on human health. Provide at least two examples.",
+                            "3. Explain how Chemistry can be used to design sustainable solutions to real-world problems.",
+                            "Part C: Case Study Choose a real-world problem, such as climate change, water pollution, or disease. Research and design a solution to the problem using Chemistry. Your solution should include: 1. A clear description of the problem and its impact on the environment and human health. 2. A detailed explanation of the chemical processes and products involved in your solution. 3. An evaluation of the potential benefits and drawbacks of your solution."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "subtopic_title": "Safety and Waste Management in the Laboratory",
+                    "page_number": 39,
+                    "competences": [
+                        "Apply laboratory safety",
+                        "Manage waste in the laboratory"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "block_id": "Activity 1.3.1",
+                            "page_number": 40,
+                            "hook": "SCENARIO: Imagine that you are working in a laboratory with a team of students on a Chemistry experiment. One of your teammates, Chisambo, is not wearing gloves while handling a toxic chemical. Chisambo claims that the chemical is not that hazardous and that gloves are not necessary. 1. What are the potential risks to Chisambo, yourself and the Environment if Chisambo continues to handle chemical without gloves? 2. How would you Chisambo and explain the importance of wearing gloves while handling hazardous chemicals? 3. What laboratory safety rules are in place to protect against this type of situation and how can you ensure that they are followed?",
+                            "teacher_steps": [
+                                "Ask the learners to brainstorm on the questions in the scenario",
+                                "Let learners present their responses to the whole class",
+                                "Consolidate the presentations of the responses from the learners by adding an understanding."
+                            ],
+                            "learner_tasks": [
+                                "Learners in small groups brainstorming on the questions in the scenario",
+                                "Learners presenting their responses to the whole class"
+                            ]
+                        },
+                        {
+                            "block_id": "Activity 1.3.2",
+                            "page_number": 42,
+                            "hook": "PROBLEM POSING: You are working in a laboratory with a group of learners when one of your classmates, Misozi, accidentally spills a chemical on her skin. The chemical is a strong acid that can cause severe burns. Misozi immediately cries out in pain and starts to panic. Questions to Consider 1. What are the immediate steps you should take to assist Misozi? 2. How would you assess the severity of Misozi's injury? 3. What first aid procedures would you apply to help alleviate Misozi's symptoms? 4. How would you ensure that the laboratory is safe and secure while attending to Misozi's injury? 5. What would you do if Misozi's condition worsens or she experiences severe symptoms such as difficulty breathing",
+                            "teacher_steps": [
+                                "Introduce the activity by posing a problem stated above",
+                                "Put learners in small groups",
+                                "Ask learners to discuss the questions",
+                                "Let learners make their presentations of their responses",
+                                "Consolidate their responses by adding an explanations"
+                            ],
+                            "learner_tasks": [
+                                "Learners discussing the questions from the posed problem",
+                                "Learners making their presentations of their responses"
+                            ]
+                        },
+                        {
+                            "block_id": "Activity 1.3.3",
+                            "page_number": 44,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Divide learners into small groups.",
+                                "Assign each group a simulated injury scenario.",
+                                "Provide each group with a first aid kit, laboratory coat, and gloves.",
+                                "Instruct each group to simulate the injury scenario and apply first aid principles and practices.",
+                                "Observe and provide feedback on each group's performance.",
+                                "After all groups have completed the simulation, hold a class discussion to review the key takeaways and answer any questions."
+                            ],
+                            "learner_tasks": [
+                                "Learners in small groups simulating injury scenario.",
+                                "Learners in each group to simulating the injury scenario and applying first aid principles and practices.",
+                                "Learners participating in a class discussion to provide takeaways."
+                            ]
+                        },
+                        {
+                            "block_id": "Activity 1.3.4",
+                            "page_number": 46,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Divide learners into small groups of 3-4.",
+                                "Provide each group with a Laboratory Storage Safety Checklist and a scavenger hunt worksheet.",
+                                "Instruct each group to conduct a scavenger hunt in the laboratory storage areas to identify potential safety hazards.",
+                                "The scavenger hunt worksheet should include items such as: Chemicals stored in incompatible locations; Equipment stored in a way that blocks emergency exits; Improperly labeled storage containers; Expired or outdated chemicals",
+                                "For each item found, the group should record the location and a brief description of the hazard on the scavenger hunt worksheet.",
+                                "After the scavenger hunt, have each group present their findings to the class.",
+                                "As a class, discuss the potential consequences of each hazard and develop strategies for correcting them."
+                            ],
+                            "learner_tasks": [
+                                "Each group of learners conducting a scavenger hunt in the laboratory storage areas to identify potential safety hazards.",
+                                "Learners recording the location for each item found and a brief description of the hazard on the scavenger hunt worksheet. The group should record the location",
+                                "Each group of learners presenting their findings to the class.",
+                                "The class discussing the potential consequences of each hazard and developing strategies for correcting them."
+                            ]
+                        },
+                        {
+                            "block_id": "Activity 1.3.5",
+                            "page_number": 48,
+                            "hook": "HOOK: What do you think are the consequences of improper laboratory waste management?",
+                            "teacher_steps": [
+                                "Introduce the activity using the hook such as What do you think are the consequences of improper laboratory waste management?",
+                                "Review the laboratory waste classification guide, which outlines the different categories of laboratory waste, including: Chemical waste; Biological waste; Radioactive waste; Recyclable waste; Non-hazardous waste",
+                                "Discuss with learners the characteristics and examples of each type of waste.",
+                                "Divide learners into small groups and provide each group with a set of waste sorting cards or a waste sorting game board.",
+                                "Each card or game piece represents a different type of laboratory waste.",
+                                "Instruct the groups to sort the waste into the correct categories.",
+                                "After the game, review the correct answers and discuss any common misconceptions.",
+                                "Provide learners with case studies of laboratory waste management scenarios, such as: A laboratory generates a large amount of chemical waste. How should it be disposed of?; A researcher accidentally contaminates a sample with radioactive material. What steps should be taken to clean up the spill?",
+                                "Ask learners to work in groups to discuss and develop a plan for managing the waste in each scenario.",
+                                "After completing the case studies, hold a class discussion to reflect on the importance of proper laboratory waste classification and management.",
+                                "Ask learners to share their thoughts on the following questions: 1. Why is it important to properly classify and manage laboratory waste? 2. What are the potential consequences of improper waste management? 3. How can laboratory personnel ensure that waste is properly managed?"
+                            ],
+                            "learner_tasks": [
+                                "Learners discussing the characteristics and examples of each type of waste.",
+                                "Learners into small groups sorting out the waste sorting cards into the correct categories.",
+                                "Learners working on case studies of laboratory waste management scenarios,",
+                                "Learners discussing and reflecting on the importance of proper laboratory waste classification and management.",
+                                "Learners sharing their thoughts on the following provided questions: 1. Why is it important to properly classify and manage laboratory waste? 2. What are the potential consequences of improper waste management? 3. How can laboratory personnel ensure that waste is properly managed?"
+                            ]
+                        }
+                    ],
+                    "full_content_notes": "To ensure safety in a laboratory, follow these precautions: read the manual, wear PPE, tie back hair, handle chemicals with care, label and date chemicals, use fume hoods, and dispose of waste properly. Familiarize yourself with the location of emergency equipment, such as fire extinguishers and safety showers, and understand emergency procedures for responding to fires and chemical spills. Report any incidents or near-misses to the laboratory supervisor or safety officer. Proper disposal of waste and proper handling of chemicals are also crucial. The following are some of the laboratory safety rules: Enter a laboratory only when a teacher says so; Always wear flat and closed shoes; Wear protective clothes; Do not run or play in the laboratory; Do not perform any experiment without permission from the teacher; Do not drink, eat or taste anything in the laboratory; Never hold bottles by the neck. Always hold the bottom; Never point the mouth of a test tube containing a substance being heated towards another person or yourself.; Always add acid to water and not water to acid; When smelling a substance, do not hold it very near the nose. Hold it about 20cm from the nose and with the hand wave the vapour towards the nose and sniff carefully. Laboratory accidents can result in chemical splashes, cuts and lacerations, burns, and eye injuries. First aid procedures include flushing the affected area with water, removing contaminated clothing and jewelry, neutralising the chemical, applying pressure to stop bleeding, cleaning the wound, applying antibiotic ointment, and covering the wound with a bandage. For burns, cool the burn with cool water, remove clothing and jewelry, apply topical antibiotic ointment, and cover the burn with a non-stick dressing. For eye injuries, flush the eye with water, remove contact lenses, and apply a topical antibiotic ointment. General first aid principles include assessing the situation, calling for help, providing comfort, and documenting the incident. A laboratory first aid kit includes basic supplies like bandages, gauze pads, antiseptic wipes, medical tape, an eye wash station, burn cream, and neutralizing agents. Regular training and preparedness are essential for laboratory personnel, including first aid training, an emergency response plan, a safety manual, and regular drills. Regular drills ensure laboratory personnel are prepared to respond to emergencies. Storing chemicals according to their compatibility and hazard classification is crucial to prevent accidents and minimize risks. Chemicals can be categorized into corrosives, flammables, toxics, and reactives, reducing the risk of chemical reactions, fires, and explosions. Proper labeling helps prevent misidentification of chemicals and facilitates emergency response. Securing hazardous materials in locked cabinets or designated areas prevents unauthorized access and minimizes accidents. Storing volatile substances in well-ventilated areas or fume hoods minimizes inhalation risks and flammable vapor accumulation. Maintaining an updated inventory of all materials helps track usage and expiration dates, reducing accident risk and waste. Equipment storage should be done in designated areas, ensuring that equipment does not block emergency exits or aisles. Regular inspections of chemicals and equipment for damage or wear help identify potential hazards and prevent accidents. Proper disposal of expired or outdated chemicals prevents accidents, minimizes environmental impact, and ensures compliance with regulations. In conclusion, proper storage, labeling, securing hazardous materials, storing volatile substances in well-ventilated areas, maintaining an updated inventory, storing equipment in designated areas, conducting regular inspections, and disposing of expired or outdated chemicals are essential for maintaining a safe and compliant laboratory environment. Laboratory waste classification includes chemical, biological, radioactive, recyclable, and non-hazardous waste. Proper waste sorting and management are crucial for preventing contamination and ensuring proper disposal. Improper waste management can lead to environmental contamination, health risks, and regulatory fines. Best practices include proper waste sorting, storage, transportation, and disposal, as well as regular training and inspections. Assessment involves participation in class discussions, completing a waste sorting game or simulation, and writing reflections. Modifications are made for different learning styles, such as visual learners, auditory learners, and kinesthetic learners. Safety considerations include awareness of potential hazards, providing personal protective equipment (PPE), and ensuring proper training and equipment for handling laboratory waste. By following these guidelines, students can effectively manage and dispose of laboratory waste, ensuring compliance with regulations and preventing environmental contamination.",
+                    "vocabulary": [
+                        {
+                            "term": "Chemical",
+                            "definition": "any substance used or produced in chemical reactions that can be hazardous or non-hazardous"
+                        },
+                        {
+                            "term": "Contaminated paper",
+                            "definition": "paper that has been in contact with chemicals"
+                        },
+                        {
+                            "term": "Disposal",
+                            "definition": "the systematic process of safely removing and managing waste materials in accordance with regulatory guidelines to protect human health and the environment."
+                        },
+                        {
+                            "term": "First Aid",
+                            "definition": "immediate care given to a person who is injured or suddenly becomes ill, before professional medical help is available"
+                        },
+                        {
+                            "term": "Glass ware",
+                            "definition": "items made of glass used in laboratory experiments"
+                        },
+                        {
+                            "term": "Laboratory waste",
+                            "definition": "any materials discarded from laboratory activities, including chemicals, biological samples, and contaminated items that require special handling and disposal"
+                        },
+                        {
+                            "term": "Paper",
+                            "definition": "any material used for documentation, packaging, or laboratory notes"
+                        },
+                        {
+                            "term": "Personal Protective Equipment (PPE)",
+                            "definition": "gear worn to protect oneself from chemical splashes, spills, and other hazards."
+                        },
+                        {
+                            "term": "Precautions",
+                            "definition": "safety measures and protocols implemented to prevent accidents, protect personnel, and ensure the proper handling and disposal of hazardous materials"
+                        },
+                        {
+                            "term": "Sustainable waste management",
+                            "definition": "practices that minimize waste generation and promote the recycling and safe disposal of materials to reduce environmental impact and conserve resources"
+                        },
+                        {
+                            "term": "Storage",
+                            "definition": "proper handling and storage of chemicals, equipment, and other laboratory materials."
+                        },
+                        {
+                            "term": "Waste Disposal",
+                            "definition": "safe and responsible disposal of laboratory waste."
+                        }
+                    ],
+                    "assessment": {
+                        "page_number": 51,
+                        "questions": [
+                            "Scenario: In 2016, a tanker truck carrying crude oil overturned on the Great North Road in Zambia, spilling thousands of liters of oil into the surrounding environment. The spill affected nearby water sources, including the Kafue River, and posed a significant threat to local wildlife. Part A: Multiple Choice 1. What was the primary cause of the 2016 oil spill on the Great North Road in Zambia? A) Natural disaster (e.g., flood, earthquake) B) Human error (e.g., driver fatigue, equipment failure) C) Sabotage or intentional damage D) Unknown/Other (please specify)",
+                            "2. Which of the following was a potential environmental impact of the oil spill? A) Soil contamination only B) Water pollution only C) Air pollution only D) All of the above (soil, water, and air pollution)",
+                            "Part B: Short Answer 3. Describe the potential health risks associated with oil spillage, particularly for local communities near the affected area.",
+                            "4. Outline the steps that should be taken to respond to an oil spill, including containment, cleanup, and mitigation measures.",
+                            "Part C: Essay 5. Discuss the economic and environmental implications of oil spillage in Zambia, using the 2016 Great North Road incident as a case study. Be sure to address the impact on local ecosystems, human health, and the economy.",
+                            "6. The teacher asked Form 1 learners to store the following laboratory materials in the Chemistry laboratory: highly inflammable substances, acids and bases, clean glassware. (a) What safety practices should be followed? (b) What is the appropriate way to label chemical containers? (c) How should incompatible chemicals be stored to prevent reactions? (d) What factors should be considered when deciding the location of storage? (e) What is the importance of using secondary containment for hazardous materials?",
+                            "7. You are a laboratory technician working in a research laboratory. Your laboratory generates various types of waste, including chemical, biological, and radioactive materials. Your supervisor has asked you to develop a plan for managing the laboratory waste. Develop a comprehensive plan for managing laboratory waste, including: (a) Classification of laboratory waste into different categories (chemical, biological, radioactive, etc.); (b) Proper storage and handling procedures for each type of waste; (c) Labeling and signage requirements for waste storage areas; (d) Procedures for disposing of hazardous waste; (e) Training requirements for laboratory personnel on waste management procedures"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4",
+                    "subtopic_title": "Apparatus and Equipment in Chemistry",
+                    "page_number": 53,
+                    "competences": [
+                        "Use apparatus and equipment in Chemistry",
+                        "Measure quantities precisely and accurately"
+                    ],
+                    "instruction_blocks": [
+                        {
+                            "block_id": "Activity 1.4.1",
+                            "page_number": 53,
+                            "hook": "HOOK: You discover an unknown substance in the lab. How would you use various laboratory apparatus and equipment to identify its composition and properties?",
+                            "teacher_steps": [
+                                "Introduce the activity by reviewing the different types of laboratory apparatus and equipment used in Chemistry.",
+                                "Divide the learners into small groups",
+                                "assign each group to a station with a specific apparatus or equipment.",
+                                "At each station: Demonstrate the proper use of the apparatus or equipment. Have learners practice using the apparatus or equipment under supervision.",
+                                "Discuss the safety precautions and potential hazards associated with each apparatus or equipment",
+                                "Station 1 (Measuring Volumes): learners using a burette and pipette to measure the volume of a liquid.",
+                                "Station 2 (Heating and Cooling): let learners using a Bunsen burner and hot plate to heat a substance, and an ice bath and water bath to cool a substance.",
+                                "Station 3 (Measuring pH): Ask learners to using a pH meter to measure the acidity of a solution."
+                            ],
+                            "learner_tasks": [
+                                "Learners using a burette and pipette to measure the volume of a liquid.",
+                                "Learners using a Bunsen burner and hot plate to heat a substance, and an ice bath and water bath to cool a substance.",
+                                "Learners using a pH meter to measure the acidity of a solution."
+                            ]
+                        },
+                        {
+                            "block_id": "Activity 1.4.2",
+                            "page_number": 57,
+                            "hook": "HOOK: Why do you think accurate measurements are important in our everyday life?",
+                            "teacher_steps": [
+                                "Divide learners into pairs and give each pair a stopwatch or timer.",
+                                "Have learners measure the time it takes for a small object (e.g., a pen) to roll down a ramp or a short distance.",
+                                "Repeat the measurement several times and record the results.",
+                                "Calculate the average time and discuss the accuracy and precision of the measurements",
+                                "Then ask learners to work in three stations on rotational basis",
+                                "Station 1: Temperature Measurement: Fill a container with hot water and; Ask learners to measure the temperature of hot water using a thermometer.; Let learners record the temperature readings and calculate the average temperature.; Discuss with learners the accuracy and precision of the temperature measurements.",
+                                "Station 2: Mass/Weight Measurement: Fill a container with sand or rice and have learners measure the mass/weight using a balance or scale.; Let learners record the mass/weight readings and calculate the average mass/weight.; Discuss with learners the accuracy and precision of the mass/weight measurements.",
+                                "Station 3: Volume Measurement: Fill a container with water and have learners measure the volume using measuring cups and spoons.; Have learners record the volume readings and calculate the average volume.; Discuss with learners the accuracy and precision of the volume measurements."
+                            ],
+                            "learner_tasks": [
+                                "Learners doing the tasks in three stations on rotational basis.",
+                                "Learners measuring the temperature of hot water using a thermometer.",
+                                "Learners recording the temperature readings and calculating the average temperature.",
+                                "Learners discussing the accuracy and precision of the temperature measurements.",
+                                "Learners recording the mass/weight readings using the scales and calculating the average mass/weight.",
+                                "Learners discussing the accuracy and precision of the mass/weight measurements.",
+                                "Learners recording the volume readings and calculate the average volume.",
+                                "Learners discussing the accuracy and precision of the volume measurements."
+                            ]
+                        }
+                    ],
+                    "full_content_notes": "Review the different apparatus and equipment used in the activities and discuss their importance in Chemistry-related activities. Some apparatus/equipment found in the Chemistry laboratory include the following: Beaker: A cylindrical glass container with a spout used for mixing, heating, and holding liquids. Beakers typically have volume markings for measurement, though they are not highly precise; Burette: A long, graduated glass tube with a tap at the bottom used for delivering precise volumes of liquid, particularly in titration experiments. Burettes allow for controlled dispensing of liquid; Crucible: A small, heat-resistant container used for heating solid substances to high temperatures. Crucibles are often made of ceramic or metal and are used in procedures where materials need to be melted or subjected to very high heat; Erlenmeyer Flask: A conical flask with a flat bottom, a broad base, and a narrow neck. It is used for mixing, swirling, and heating liquids. The shape minimizes evaporation and allows for easier stirring; Fume Hoods: Ventilated enclosures used to safely handle hazardous chemicals and vapours. Fume hoods filter and expel toxic or noxious fumes from the lab environment, protecting users; Funnel: A conical tool used to channel liquids or fine-grained substances into containers with small openings. They can come in various sizes and materials, including plastic and glass; Measuring Cylinder: A tall, cylindrical container used for accurately measuring the volume of liquids. It has volume markings along the side and is typically made of glass or plastic; Pipette: A slender tube used to measure and transfer fixed volumes of liquid. Pipettes are manual or automatic (micropipettes) and are essential for experiments requiring accuracy in liquid measurements; Reagent Bottle: A container, usually made of glass or plastic, used to store and dispense chemicals and reagents. It is typically equipped with a stopper or a cap to protect contents from contamination; Safety Goggles: Protective eyewear designed to shield the eyes from chemical splashes, flying debris, and other hazards encountered in the laboratory; Spatula: A flat, typically stainless steel or plastic tool used for transferring solid chemicals or powders. Spatulas come in various sizes and shapes, making them suitable for different laboratory tasks; Stands: Laboratory stands, often referred to as ring stands or retort stands, are used to support laboratory apparatus. They are useful for holding items such as beakers, flasks, or burettes securely in place while experiments are conducted; Test Tube: A small, cylindrical glass tube used to hold, mix, or heat small amounts of substances during experiments. Test tubes can be closed with a stopper or left open for reactions and observations; Thermometer: An instrument used to measure temperature, typically in degrees Celsius or Fahrenheit. In Chemistry labs, thermometers can be used in both solids and liquids; Volumetric Flask: A flat-bottomed flask with a long neck and a precise volume mark. It is used for preparing solutions and is designed to contain a specific volume when filled to the mark. Accurate time measurement is crucial in scientific experiments, and techniques for minimizing errors include using stopwatches or timers, understanding temperature scales, using thermometers, and calibrating them. Mass/weight measurement involves units like grams, kilograms, and pounds, and using balances or scales. Volume measurement involves units like milliliters, liters, and cubic centimeters, and using measuring cups, spoons, and cylinders. The precision of measurements is critical in chemical experiments as inaccuracies can lead to erroneous results. Different measuring instruments have varying levels of accuracy; understanding their appropriate use is essential for effective scientific practice. Engaging in hands-on activities enhances learners' grasp of scientific concepts and fosters a deeper appreciation for laboratory techniques",
+                    "vocabulary": [
+                        {
+                            "term": "Apparatus/equipment",
+                            "definition": "a collection of tools and devices used in scientific experiments and research to perform specific tasks, facilitate procedures, and collect data"
+                        },
+                        {
+                            "term": "Laboratory equipment",
+                            "definition": "includes a beaker, burette, pipette, test tube, flask, and crucible for measuring and mixing chemicals."
+                        },
+                        {
+                            "term": "Heating and cooling equipment",
+                            "definition": "includes a Bunsen Burner, Hot Plate, thermometer, ice bath, and water bath."
+                        },
+                        {
+                            "term": "Measurement equipment",
+                            "definition": "includes balance, spectrophotometer, pH Meter, and conductivity meters."
+                        },
+                        {
+                            "term": "Safety equipment",
+                            "definition": "includes gloves, goggles, lab coat, fume hood, and safety shower."
+                        }
+                    ],
+                    "assessment": {
+                        "page_number": 60,
+                        "questions": [
+                            "Scenario Questions: 1. A pharmaceutical company requires precise measurements of time, temperature, mass, and volume to manufacture a new medication. Describe how you would ensure accurate measurements in this scenario.",
+                            "2. A food processing company requires precise measurements of temperature and mass to ensure the quality and safety of their products. Describe how you would minimize errors in measuring these quantities.",
+                            "3. A chemist needs to mix two substances that react violently when combined. What laboratory equipment would you recommend to minimize the risk of injury, and how would you ensure safe handling of the substances?",
+                            "4. A researcher is studying the effects of pH on a chemical reaction. What laboratory equipment would you recommend to measure and control the pH, and how would you ensure accurate results?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2",
+            "topic_title": "Matter",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "subtopic_title": "States and Basic units of Matter",
+                    "page_number": 61,
+                    "competences": [
+                        "Demonstrate conceptual understanding of states and basic units of matter"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "block_id": "Activity 2.1.1",
+                            "page_number": 62,
+                            "hook": "HOOK: What causes matter to exist in different states?",
+                            "teacher_steps": [
+                                "Introduce the activity using the hook \u201cWhat causes matter to exist in different states?\u201d",
+                                "Discuss with learners the states of matter: solid, liquid, gas, plasma",
+                                "Show examples of each state using water: ice (solid), water (liquid), and steam (gas).",
+                                "Use a thermometer to measure the temperature of each state.",
+                                "Discuss the characteristics of each state, such as shape, volume, and density.",
+                                "Then, introduce the concept of atoms and molecules as the basic units of matter.",
+                                "Use a model or diagram to illustrate the structure of atoms and molecules.",
+                                "Discuss how atoms combine to form molecules and how molecules interact with each other.",
+                                "Use a balloon to demonstrate how molecules can move and interact with each other.",
+                                "Divide learners into small groups and provide each group with various objects (e.g., metal, wood, plastic).",
+                                "Ask each group to explore the properties of their assigned object, such as its texture, density, and ability to conduct heat.",
+                                "Have each group present their findings to the class."
+                            ],
+                            "learner_tasks": [
+                                "Learners discussing with the teacher the states of matter: solid, liquid, gas, plasma and the characteristics of each state, such as shape, volume, and density.",
+                                "Learners with the teacher discussing how atoms combine to form molecules and how molecules interact with each other.",
+                                "Learners into small groups exploring the properties of their assigned object, such as its texture, density, and ability to conduct heat."
+                            ]
+                        }
+                    ],
+                    "full_content_notes": "Matter exists in four main states: solids, liquids, gases, and plasma. Solids have a fixed shape and volume, with particles closely packed and fixed. Liquids have a fixed volume but take the shape of their container, with particles close together but free to move. Gases have neither a fixed shape nor volume, with particles widely spaced and free to move. Plasma is a high-energy state where atoms are ionized and electrons move. Matter is composed of fundamental particles, including atoms, molecules, and ions. The arrangement of particles determines the state of matter. Each state has distinct physical properties, with solids being rigid and resistant to changes, liquids being fixed and variable, and gases being variable and expandable. Understanding these states is crucial in fields like Chemistry, physics, and engineering. Matter exists in different forms such as solid, liquid, gas, plasma...; The different forms of matter are referred to as states of matter; Matter is built up by fundamental particles which can be atoms, molecules or ions; The existence of matter in different states is as a result of the differences in the arrangement of particles in them; Different states of matter have different physical properties such as fixed shape and volume (solids), fixed volume and variable shape (liquids), variable shape and volume (gases)",
+                    "vocabulary": [
+                        {
+                            "term": "Atom",
+                            "definition": "smallest particle of an element that cannot be split by any chemical means"
+                        },
+                        {
+                            "term": "Ion",
+                            "definition": "an electrically charged atom"
+                        },
+                        {
+                            "term": "Matter",
+                            "definition": "anything that has mass and occupies space"
+                        },
+                        {
+                            "term": "Molecule",
+                            "definition": "the smallest particle of an element or compound that exists independently"
+                        },
+                        {
+                            "term": "States of matter",
+                            "definition": "different forms of matter such as solid, liquid, gas, plasma..."
+                        }
+                    ],
+                    "assessment": {
+                        "page_number": 64,
+                        "questions": [
+                            "Short Answer Questions: 1. A substance has a fixed shape and volume. What state of matter is it in?",
+                            "2. Describe the differences in particle arrangement and motion between a solid, liquid, and gas.",
+                            "3. A liquid is heated and turns into a gas. What is the process called, and what energy change occurs?",
+                            "4. Explain why a solid maintains its shape, while a liquid takes the shape of its container.",
+                            "5. Describe a real-world scenario where a substance changes from one state of matter to another.",
+                            "6. How do the properties of a substance, such as its melting point and boiling point, relate to the arrangement and motion of its particles?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "subtopic_title": "Kinetic Theory of Matter",
+                    "page_number": 64,
+                    "competences": [
+                        "Demonstrate the conceptual understanding of the Kinetic Theory of Matter"
+                    ],
+                    "instruction_blocks": [
+                        {
+                            "block_id": "Activity 2.2.1",
+                            "page_number": 65,
+                            "hook": "HOOK: Have you ever wondered why a solid changes to a liquid and then into a gas?",
+                            "teacher_steps": [
+                                "Use simulation software to model the behavior of particles at different temperatures.",
+                                "Divide learners into small groups and assign each group a computer with simulation software.",
+                                "Have learners explore the simulation, observing how particles behave in different states (solid, liquid, gas, plasma).",
+                                "Ask learners to record their observations and answer guided questions.",
+                                "Divide learners into small groups and provide each group with marbles or small balls.",
+                                "Have learners design an experiment to demonstrate collisions between particles.",
+                                "Ask learners to measure and record the distance traveled by the marbles after collision",
+                                "Put learners in small groups",
+                                "Introduce the activity",
+                                "Provide the materials",
+                                "Ask learners to draw and describe motion and arrangement of particles in ice",
+                                "Ask learners to heat and measure the temperature of the ice, and observe what happens",
+                                "Ask learners to draw and describe the motion and arrangement of particles in the new state of matter formed",
+                                "Ask learners to heat measure the temperature of the new state of matter, and observe what happens",
+                                "Ask learners to draw and describe the motion and arrangement of particles in the new state of matter formed"
+                            ],
+                            "learner_tasks": [
+                                "Learners exploring the simulation and observing how particles behave in different states (solid, liquid, gas, plasma).",
+                                "Learners recording their observations and answer guided questions.",
+                                "Learners designing an experiment to demonstrate collisions between particles.",
+                                "Learners measuring and recording the distance traveled by the marbles after collision"
+                            ]
+                        },
+                        {
+                            "block_id": "Activity 2.2.2",
+                            "page_number": 68,
+                            "hook": "HOOK: How does water in a cup become uniformly coloured when tea leaves are put in it without stirring?",
+                            "teacher_steps": [
+                                "Introduce the activity by \u201cHow does water in a cup become uniformly coloured when tea leaves are put in it without stirring?\u201d",
+                                "Put learners in small groups",
+                                "Provide the materials suggested to the learners",
+                                "Ask learners to measure the volume of water for example, 200cm\u00b3 into a clean beaker",
+                                "Ask learners to place a crystal of the potassium permanganate at the bottom of the beaker using a straw",
+                                "Ask learners to observe and describe what happens"
+                            ],
+                            "learner_tasks": [
+                                "Learners measuring the volume of water into a clean beaker",
+                                "Learners Placing a crystal of the potassium permanganate at the bottom of the beaker using a straw",
+                                "Learners observing and describing what happens"
+                            ]
+                        },
+                        {
+                            "block_id": "Activity 2.2.3",
+                            "page_number": 69,
+                            "hook": "HOOK: What caused the perfume to spread throughout the room?",
+                            "teacher_steps": [
+                                "Introduce the activity by posing a hook such as \u201cWhat caused the perfume to spread throughout the room?\u201d",
+                                "Put learners in small groups",
+                                "Provide the materials",
+                                "Ask learners to assemble materials and apparatus with your guidance",
+                                "Ask learners to observe what happens in the smoke box using the microscope",
+                                "Ask learners to draw a diagram to illustrate what they observed happening in the smoke box"
+                            ],
+                            "learner_tasks": [
+                                "Learner assembling materials as shown in the diagram below;",
+                                "Learners observing what happens in the smoke box using the microscope",
+                                "Learners drawing a diagram to illustrate what they are observing happening in the smoke box"
+                            ]
+                        }
+                    ],
+                    "full_content_notes": "The arrangement of particles in a substance determines its state of matter. As temperature increases, particles gain kinetic energy, causing them to move faster and further away from each other. This weakens inter-particle forces. Conversely, when temperature decreases, particles lose kinetic energy and move closer together. Solids have a fixed position in space, while liquids have close particles but freedom to move. Gases have a wide space and high kinetic energy, allowing them to move rapidly and randomly. Physical properties of states of matter vary, with solids having fixed shape and volume, liquids having fixed volume, variable shape, and gases having variable shape and volume. Changes in temperature and pressure can cause changes in particle arrangement, leading to changes in the state of matter. Diffusion is the movement of particles from high concentration to low concentration, resulting in a uniform distribution throughout a space. This process is driven by the random motion of particles, a fundamental property of matter. This uniform distribution supports the particle theory of matter, which asserts that matter is composed of constant motioning particles, demonstrating that matter is dynamic and interactive. The kinetic theory of matter suggests that matter particles are in continuous motion, with Brownian motion being a random and unpredictable movement in fluids. This random movement, known as Brownian motion, is crucial for the diffusion process. As particles move randomly, they mix with each other, leading to uniform distribution and allowing them to move from higher concentration areas to lower concentration areas, thereby enabling diffusion. This theory supports the kinetic theory and facilitates diffusion.",
+                    "vocabulary": [
+                        {
+                            "term": "Brownian motion",
+                            "definition": "random movement of particles of matter suspended in fluids"
+                        },
+                        {
+                            "term": "Collision",
+                            "definition": "interaction of particles of matter"
+                        },
+                        {
+                            "term": "Diffusion",
+                            "definition": "movement of particles from a region of their high concentration to a region of their low concentration"
+                        },
+                        {
+                            "term": "Kinetic energy",
+                            "definition": "energy associated with motion/movement"
+                        },
+                        {
+                            "term": "Kinetic Theory of Matter",
+                            "definition": "this theory states that matter is made of particles that are in constant motion"
+                        },
+                        {
+                            "term": "Particle motion",
+                            "definition": "movement of particles in matter"
+                        },
+                        {
+                            "term": "Temperature",
+                            "definition": "the degree of hotness or coldness of a substance"
+                        },
+                        {
+                            "term": "Thermal energy",
+                            "definition": "heat energy"
+                        }
+                    ],
+                    "assessment": {
+                        "page_number": 72,
+                        "questions": [
+                            "Multiple Choice Questions 1. What is the relationship between temperature and kinetic energy? A) Temperature decreases as kinetic energy increases B) Temperature increases as kinetic energy decreases C) Temperature increases as kinetic energy increases D) Temperature remains constant as kinetic energy increases",
+                            "2. What is the primary evidence for the kinetic theory of matter? A) Diffusion B) Brownian motion C) Phase changes D) Both diffusion and Brownian motion",
+                            "3. What happens to the particles of a substance as its temperature increases? A) They slow down and come closer together B) They speed up and move further apart C) They remain stationary D) They change direction",
+                            "Essay Questions 4. Explain the principles of the kinetic theory of matter, including the relationship between temperature and kinetic energy, motion and arrangement of particles, collision, and diffusion.",
+                            "5. Discuss the evidence for the kinetic theory of matter, including diffusion and Brownian motion. Provide examples to illustrate your answer.",
+                            "6. Describe the behaviour of particles in different states of matter (solid, liquid, gas) and explain how the kinetic theory of matter accounts for these differences.",
+                            "Case Study Questions 7. A container of gas is heated, causing the particles to move faster and spread out. Describe the changes that occur in the arrangement and motion of the particles.",
+                            "8. A drop of food coloring is added to a glass of water, and the coloring slowly spreads throughout the water. Explain this phenomenon in terms of the kinetic theory of matter.",
+                            "9. A balloon is filled with air and then placed in a warm environment. Describe the changes that occur in the arrangement and motion of the particles in the air inside the balloon."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "subtopic_title": "Heating and Cooling Curves of Matter",
+                    "page_number": 73,
+                    "competences": [
+                        "Construct the heating and cooling curves",
+                        "Interpret the heating and cooling curves"
+                    ],
+                    "instruction_blocks": [
+                        {
+                            "block_id": "Activity 2.3.1",
+                            "page_number": 74,
+                            "hook": "HOOK: How can you use heating and cooling curves to identify the physical changes that occur in a substance as it is heated or cooled?",
+                            "teacher_steps": [
+                                "Introduce the activity by posing a key Question \u201cHow can you use heating and cooling curves to identify the physical changes that occur in a substance as it is heated or cooled?\"",
+                                "Put learners in small groups",
+                                "Provide the suggested materials",
+                                "Ask learners to arrange the apparatus as shown on the worksheet",
+                                "Ask learners to heat the ice until the it melts and eventually the water boils",
+                                "Ask learners to measure and record the values of temperatures against time, noting the melting and boiling points",
+                                "Ask learners to construct the graph of temperature against time",
+                                "Ask learners to label on the graph the sections when the water was solid, liquid and gaseous. Also label the melting and boiling points",
+                                "Ask learners to construct a cooling curve assuming the water vapour was cooled until the vapour condensed and eventually the water freezes",
+                                "Ask learners to label on the cooling curve the sections when the water was vapour, liquid and also label the condensation and freezing points"
+                            ],
+                            "learner_tasks": [
+                                "Learners arranging the apparatus as shown on the worksheet",
+                                "Heat the ice until the it melts and eventually the water boils",
+                                "Measure and record the values of temperatures against time, noting the melting and boiling points",
+                                "Construct the graph of temperature against time",
+                                "Label on the graph the sections when the water was solid, liquid and gaseous. Also label the condensation and freezing points",
+                                "Construct a cooling curve assuming the water vapour was cooled until the vapour condensed and eventually the water freezes"
+                            ]
+                        }
+                    ],
+                    "full_content_notes": "Heating and cooling curves are graphical representations of the temperature changes that occur in a substance as it is heated or cooled. By constructing and interpreting these curves, one can determine the melting point, boiling point, and latent heat of fusion or vaporization of a substance. The curves also provide information on the physical states of a substance (solid, liquid, gas) and the energy changes that occur during phase transitions. Accurate interpretation of heating and cooling curves requires an understanding of the physical changes that occur in a substance and the potential sources of error in constructing the curves.",
+                    "vocabulary": [
+                        {
+                            "term": "Boiling point",
+                            "definition": "The temperature at which the saturated vapor pressure of a liquid is equal to the atmospheric pressure"
+                        },
+                        {
+                            "term": "Condensation point",
+                            "definition": "the temperature at which a gas changes to liquid"
+                        },
+                        {
+                            "term": "Freezing point",
+                            "definition": "The temperature at which liquid changes to solid"
+                        },
+                        {
+                            "term": "Latent heat",
+                            "definition": "Heat energy supplied to or removed from a substance in order for the substance to change its state without changing its temperature"
+                        },
+                        {
+                            "term": "Melting point",
+                            "definition": "The temperature at which a solid change to liquid"
+                        },
+                        {
+                            "term": "Phase transition",
+                            "definition": "change of state"
+                        }
+                    ],
+                    "assessment": {
+                        "page_number": 77,
+                        "questions": [
+                            "Multiple Choice Questions 1. What is the purpose of constructing a heating curve for a substance? A) To determine its melting point B) To determine its boiling point C) To study the changes in its state D) All of the above",
+                            "2. What is represented by the plateau region on a heating curve A) Melting point B) Boiling point C) Phase transition D) Temperature increase",
+                            "3. What can be determined from the slope of a heating curve? A) Melting point B) Boiling point C) Rate of energy transfer D) Specific heat capacity",
+                            "Short Answer Questions 4. Describe the main features of a heating curve for a pure substance.",
+                            "5. Explain the significance of the melting point and boiling point on a heating curve.",
+                            "6. How does the shape of a heating curve change when a substance undergoes a phase transition",
+                            "Essay Questions 7. Describe and explain the construction of a heating curve for a pure substance. How does the curve illustrate the changes in state that occur as the substance is heated?",
+                            "8. Compare and contrast the heating and cooling curves for a pure substance. How do the curves illustrate the reversibility of phase transitions?",
+                            "9. Discuss the significance of heating and cooling curves in understanding the thermal properties of substances.",
+                            "Graph-Based Questions 10. Sketch and label the heating curve for a pure substance, indicating the melting point, boiling point, and any other significant features.",
+                            "11. Interpret the heating curve for a substance, identifying the phase transitions that occur and the corresponding temperatures.",
+                            "12. Compare the heating and cooling curves for a substance, explaining any differences or similarities between the two curves."
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

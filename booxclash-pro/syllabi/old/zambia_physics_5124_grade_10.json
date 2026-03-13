@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "10",
+    "subject": "PHYSICS 5124",
+    "philosophy": "Quality, life-long education for all which is accessible, inclusive and relevant to individual, national and global needs and value systems. The syllabus aims at providing, through well designed studies of experimental and practical science, a worthwhile educational experience for all the pupils taking the course, whether or not they go on to study science beyond secondary School level, thereby, contributing to pupils’ general education by using the impact of known applications of science concepts and principles on society. This is intended to enable pupils acquire adequate understanding and knowledge so that they can: become confident citizens in a technological world, able to make appropriate decisions in scientific matters; recognise the usefulness and limitations of the scientific method and, furthermore, appreciate its applicability in everyday life; Suitably prepare for studies beyond secondary School level in Science. The course also aims at developing the following in the pupils: abilities and skills that - are relevant to the course and practice of science; - are useful in everyday life; - encourage efficient and safe practice; - encourage effective communication; attitudes relevant to science; for example accuracy and precision; objectivity; integrity; enquiry; initiative; and inventiveness or creative thinking Critical thinking. Furthermore, the course aims at stimulating interest in and cares for the environment and promotes awareness that the: study and practice of science are co-operative and cumulative activities that are subject to social, economical, technological, ethical and cultural influences and limitations; Applications of science can be both beneficial and detrimental to the individual, to the community, society and the environment. In addition to the content objectives, objectives under the following should be achieved by pupils: Knowledge with understanding They should demonstrate knowledge and understanding in relation to the following: - Scientific phenomena, facts, laws, definitions, concepts, theories; - Scientific vocabulary, terminology, conventions; symbols, quantities and units; - Scientific instruments and apparatus, including techniques of operations and aspects of safety; - Scientific quantities and their determination; - Scientific and technological applications with their social, economic and environmental implications. Handling information and solving problems In words or using symbolic, graphical and numerical forms they should be able to: - locate, select, organise and present information from a variety of sources; - translate information from one form to another; - manipulate numerical and other data; - use information to identify patterns, reports trends and draw inferences; - present reasonable explanations for phenomena, patterns and relationships; - make predictions and propose hypotheses; and - Solve problems. Experimental skills and investigations As the pupils study Science they should be able to: - follow a sequence of instructions; - use techniques, apparatus and materials; - make and record observations, measurements and estimates; - interpret and evaluate observations and experimental results; - plan an investigation, select techniques, apparatus and materials; and - Evaluate methods and suggest possible improvements.",
+    "competence_learning": [
+      "Demonstrate ability to measure length, time, mass, weight and volume",
+      "Show skills and knowledge to calculate density, speed, velocity, acceleration and force",
+      "Demonstrate ability to use different sources of energy",
+      "Demonstrate ability to use simple machines to do work"
+    ],
+    "goals": [
+      "Develop an understanding of General Physics",
+      "Develop investigative skills",
+      "Demonstrate an understanding of mechanics"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "10.1",
+      "topic_title": "GENERAL PHYSICS",
+      "page_number": 19,
+      "subtopics": [
+        "International System of Units (SI)",
+        "Length and time",
+        "Mass and weight"
+      ],
+      "specific_outcomes": [
+        "10.1.1.1 Distinguish between basic and derived quantities",
+        "10.1.1.2 Identify basic units and derived units",
+        "10.1.1.3 Distinguish between basic and derived quantities",
+        "10.1.1.4 Identify basic units and derived units.",
+        "10.1.1.5 Recognise prefixes, multiples and submultiples of fundamental and derived units.",
+        "10.1.1.6 Use scientific notation and significant figures in numerical problems.",
+        "10.1.2.1 Demonstrate the use of various measuring instruments to determine length",
+        "10.1.2.2 Demonstrate the use of clocks and devices for measuring an interval of time",
+        "10.1.2.3 Identify factors that affect the period of a simple pendulum",
+        "10.1.3.1 Distinguish between mass and weight",
+        "10.1.3.2 Demonstrate how to measure mass and weight",
+        "10.1.3.3 Demonstrate how to locate the centre of mass of an object",
+        "10.1.3.4 Describe qualitatively the effect of the position of the centre of mass on the stability of an object."
+      ]
+    },
+    {
+      "unit": "10.2",
+      "topic_title": "MECHANICS",
+      "page_number": 21,
+      "subtopics": [
+        "Linear motion",
+        "Forces",
+        "Moment of Forces.",
+        "Work, Energy and Power.",
+        "Simple Machines"
+      ],
+      "specific_outcomes": [
+        "10.2.1.1 Describe the terms used in mechanics.",
+        "10.2.1.2 Demonstrate the use of equations of uniformly accelerated motion to solve problems",
+        "10.2.1.3 Interpret graphical representation of distance-time, Displacement -time, speed-time, velocity-time and acceleration-time.",
+        "10.2.1.4 Investigate the consequences of over speeding",
+        "10.2.1.5 Describe the acceleration of free fall for a body near the earth.",
+        "10.2.1.6 Describe qualitatively the motion of bodies falling in a uniform gravitational field with and without air resistance",
+        "10.2.2.1 Explain what force is.",
+        "10.2.2.2 Explain the effect of forces on bodies.",
+        "10.2.2.3 Describe the inertia law",
+        "10.2.2.4 Demonstrate the relationship between force and acceleration",
+        "10.2.2.5 Demonstrate the relationship between mass and acceleration.",
+        "10.2.2.6 Perform calculations on force.",
+        "10.2.2.7 Investigate the effect of force on a spring.",
+        "10.2.2.8 Demonstrate the effects of friction on the motion of a body.",
+        "10.2.2.9 Describe the motion in a circular path due to a perpendicular force.",
+        "10.2.3.1 Perform calculations based on the principle of moments.",
+        "10.2.3.2 Investigate the everyday application of moments.",
+        "10.2.4.1 Explain the meaning of the terms work, energy and power.",
+        "10.2.4.2 Identify the units of measurement for work, energy and power",
+        "10.2.4.3 Calculate work using the appropriate formula",
+        "10.2.4.4 Identify the different forms of energy",
+        "10.2.4.5 Explain qualitatively and quantitatively the terms gravitational potential and kinetic energy.",
+        "10.2.4.6 Describe sources of renewable and non-renewable energy.",
+        "10.2.4.7 Explain the effects of the use of energy sources on the environment.",
+        "10.2.4.8 Demonstrate energy transformation from one form to another",
+        "10.2.4.9. Describe the conservation of energy",
+        "10.2.4.10. Demonstrate the calculation of efficiency of energy conversion using the appropriate formula",
+        "10.2.4.11. Demonstrate calculation of power using the appropriate formula",
+        "10.2.6.1 Describe what a simple machine is",
+        "10.2.6.2 Identify the different types of simple machines.",
+        "10.2.6.3 Describe the distances moved by the effort and the load in a simple machine",
+        "10.2.6.4 Explain the terms of Mechanical advantage (MA), Velocity Ratio (VR) and Efficiency.",
+        "10.2.6.5 Perform calculations involving simple machines"
+      ]
+    }
+  ]
+}

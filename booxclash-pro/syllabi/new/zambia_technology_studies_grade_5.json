@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "5",
+    "subject": "Technology Studies",
+    "philosophy": "The Technology Studies Syllabus has been developed with the need to provide a practical national curriculum for Zambian primary school learners. The syllabus aims to provide quality education that is aligned with the Competence-based Curriculum and 21st Century Skills. It also intends to impart the knowledge, skills, values and positive attitudes that are aimed at enabling children to live and grow into productive and useful members of their communities and society. This syllabus comprises of two subjects namely; Information and Communications Technology (ICT) and Design and Technology.",
+    "competence_learning": "The Competence-based Curriculum prioritises the application of skills and abilities, focusing on what leaners can do, rather than solely on the knowledge they acquire. Therefore, in order for learners to attain the needed competences, the teacher should endeavor to utilise a variety of teaching/learning approaches which promote attainment of the needed competences. In this regard, the starting point for teaching and learning is to recognize that learners come to school with a wealth of knowledge and experience gained from families, communities and interactions with the environment. Thus, learning in school must build on the learner's prior experience. This is best achieved when learners are actively involved in the learning process through hands-on activities. To accommodate this, the teacher must determine the needs of the learners and shape the learning experiences accordingly. Therefore, teaching methods must be varied but flexible within well-structured sequences of lessons and should include among others: i. Interactive ii. Inquiry methods (Question and Answer) iii. Problem-Solving Methods",
+    "goals": [
+      "To provide a practical national curriculum for Zambian primary school learners.",
+      "To provide quality education that is aligned with the Competence-based Curriculum and 21st Century Skills.",
+      "To impart the knowledge, skills, values and positive attitudes that are aimed at enabling children to live and grow into productive and useful members of their communities and society.",
+      "To stimulate and accomplish the learners' technological skills.",
+      "To promote and support the foundation for the provision of Science, Technology, Engineering and Mathematics (STEM) Education at Primary School level.",
+      "To facilitate holistic development of children's creativity, initiative, problem solving, physical, mental, emotional skills among others.",
+      "To offer children hands-on experiences through manipulation of real objects and interaction with the immediate environment.",
+      "To ensure that children cultivate a mind-set, skills, values and positive attitudes for sustainability.",
+      "To make learning at primary school level more meaningful and enjoyable as the content outlined allows for the smooth transition from primary to secondary school education."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "5.1",
+      "topic_title": "SAFETY",
+      "page_number": 23,
+      "subtopics": [
+        "5.1.1 Care and Maintenance of tools and Equipment"
+      ],
+      "specific_outcomes": [
+        "5.1.1.1 Maintain tools and equipment"
+      ]
+    },
+    {
+      "unit": "5.2",
+      "topic_title": "WORD PROCESSING",
+      "page_number": 23,
+      "subtopics": [
+        "5.2.1 Formatting"
+      ],
+      "specific_outcomes": [
+        "5.2.1 Format a word document"
+      ]
+    },
+    {
+      "unit": "5.3",
+      "topic_title": "TOOLS AND EQUIPMENT",
+      "page_number": 23,
+      "subtopics": [
+        "5.3.1 Hand tools"
+      ],
+      "specific_outcomes": [
+        "5.3.1.1 Use hand tools to make products"
+      ]
+    },
+    {
+      "unit": "5.4",
+      "topic_title": "MATERIALS",
+      "page_number": 23,
+      "subtopics": [
+        "5.4.1 Joining Materials"
+      ],
+      "specific_outcomes": [
+        "5.4.1.1 Join materials"
+      ]
+    },
+    {
+      "unit": "5.5",
+      "topic_title": "PRESENTATION",
+      "page_number": 24,
+      "subtopics": [
+        "5.5.1 Multimedia Presentations"
+      ],
+      "specific_outcomes": [
+        "5.5.1.1 Develop multimedia presentations"
+      ]
+    },
+    {
+      "unit": "5.6",
+      "topic_title": "ENERGY",
+      "page_number": 24,
+      "subtopics": [
+        "5.6.1 Design Circuits"
+      ],
+      "specific_outcomes": [
+        "5.6.1.1 Construct circuits in series and parallel"
+      ]
+    },
+    {
+      "unit": "5.7",
+      "topic_title": "SPREADSHEET",
+      "page_number": 24,
+      "subtopics": [
+        "5.7.1 Addition and Subtraction in Spreadsheet"
+      ],
+      "specific_outcomes": [
+        "5.7.1.1 Perform addition and subtraction in spreadsheet"
+      ]
+    },
+    {
+      "unit": "5.8",
+      "topic_title": "GRAPHIC COMMUNICATION",
+      "page_number": 25,
+      "subtopics": [
+        "5.8.1 Polygons",
+        "5.8.2 Irregular Polygons",
+        "5.8.3 Pictorial Drawing",
+        "5.8.4 Image Editing tools"
+      ],
+      "specific_outcomes": [
+        "5.8.1.1 Construct regular polygons",
+        "5.8.2.1 Construct irregular polygons",
+        "5.8.3.1 Construct objects in pictorial view",
+        "5.8.3.2 Apply Rendering on pictorial drawings",
+        "5.8.4.1 Edit images"
+      ]
+    },
+    {
+      "unit": "5.9",
+      "topic_title": "TECHNOLOGY",
+      "page_number": 27,
+      "subtopics": [
+        "5.9.1 Sustainable Technology"
+      ],
+      "specific_outcomes": [
+        "5.9.1.1 Use sustainable Technology"
+      ]
+    },
+    {
+      "unit": "5.10",
+      "topic_title": "CODING",
+      "page_number": 27,
+      "subtopics": [
+        "5.10.1 Block-Based Coding"
+      ],
+      "specific_outcomes": [
+        "5.10.1.1 Animate situations"
+      ]
+    },
+    {
+      "unit": "5.11",
+      "topic_title": "STRUCTURES",
+      "page_number": 27,
+      "subtopics": [
+        "5.11.1 Designing Structures",
+        "5.11.2 Site Preparation"
+      ],
+      "specific_outcomes": [
+        "5.11.1.1 Make strong and stable structures",
+        "5.11.2.1 Prepare a site for construction"
+      ]
+    },
+    {
+      "unit": "5.12",
+      "topic_title": "INTERNET",
+      "page_number": 28,
+      "subtopics": [
+        "5.12.1 Online Communication"
+      ],
+      "specific_outcomes": [
+        "5.12.1.1 Use online communication tools responsibly"
+      ]
+    },
+    {
+      "unit": "5.13",
+      "topic_title": "ENTREPRENEURSHIP",
+      "page_number": 29,
+      "subtopics": [
+        "5.13.1 Marketing"
+      ],
+      "specific_outcomes": [
+        "5.13.1.1 Design a Marketing plan"
+      ]
+    }
+  ]
+}

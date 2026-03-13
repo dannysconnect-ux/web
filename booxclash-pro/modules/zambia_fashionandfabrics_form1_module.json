@@ -1,0 +1,1405 @@
+{
+    "subject": "Fashion and Fabrics",
+    "grade": "Form 1",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.1",
+            "topic_title": "Introduction to Textiles and Clothing",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1.1",
+                    "title": "Concepts in Fashion and Fabrics",
+                    "page": 13,
+                    "competences": [
+                        "Explore concepts in fashion and fabrics."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 13,
+                            "hook": "Fabric Feel Challenge: Blindfold a learner and give them different fabric samples (e.g., cotton, silk, polyester, wool). Ask them to guess the material based on texture and feel. 'What do you think makes these fabrics feel so different? Where do you think they come from?'",
+                            "teacher_steps": [
+                                "Define key terms: fashion, fabrics, fashion terminologies.",
+                                "Illustrate types of fashion styles using examples.",
+                                "Use relatable examples to explain fashion styles (e.g., casual, formal, traditional).",
+                                "Highlight differences between fashion and fabric concepts.",
+                                "Use videos to clarify different fashion styles.",
+                                "Ask learners to watch videos on a projector."
+                            ],
+                            "learner_steps": [
+                                "Watch videos on different fashion styles.",
+                                "Discuss key terms: fashion, fabrics, fashion terminologies.",
+                                "Identify and describe types of fashion styles."
+                            ],
+                            "short_notes": "This activity introduces learners to the fundamental concepts of fashion and fabrics. Fashion refers to the styles of clothing, accessories, footwear, and hairstyles that are popular at a particular time. It changes over time due to cultural, social, and technological influences. Key concepts include Trend, Style, Classic Fashion, Fads, and Haute Couture. Fabrics are materials made from fibres through weaving, knitting or bonding."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 14,
+                            "hook": "Why do people wear clothes?",
+                            "teacher_steps": [
+                                "Ask learners: 'Why do people wear clothes?' Write responses on the board.",
+                                "Divide learners into small groups. Each group lists reasons why people wear different types of clothing.",
+                                "Show pictures of people in various outfits from different cultures and weather conditions.",
+                                "Ask learners to explain why they are dressed that way.",
+                                "Assign learners different scenarios (e.g., a wedding, a sports event, cold weather) and let them act out appropriate clothing choices.",
+                                "Emphasize key reasons such as protection, modesty, identification, decoration, and status.",
+                                "Encourage learners to consider cultural, religious, climatic, and occupational influences."
+                            ],
+                            "learner_steps": [
+                                "Discuss reasons why people wear clothes in small groups.",
+                                "Observe and interpret pictures of people in various outfits.",
+                                "Act out clothing choices for assigned scenarios.",
+                                "Watch videos depicting people in various outfits from different cultures and weather conditions."
+                            ],
+                            "short_notes": "People wear clothes for many reasons beyond covering the body: Protection (weather, environment, work hazards), Modesty (cultural and societal norms), Adornment and Fashion (personal style, fashion trends), Cultural and Religious Significance, Social Status and Identity, Comfort and Practicality, and Psychological and Emotional Reasons."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 15,
+                            "hook": "What makes clothing 'healthy' for your skin?",
+                            "teacher_steps": [
+                                "Engage learners in a discussion about what makes clothing 'healthy'.",
+                                "Provide learners with different fabric samples (cotton, silk, wool, polyester, nylon, etc.). Let them touch and feel the fabrics while discussing their properties.",
+                                "Divide learners into small groups and give them different scenarios (e.g., choosing clothing for hot weather, rainy seasons, or a baby's skin).",
+                                "Explain which fabrics are best for different weather conditions and skin types.",
+                                "Provide learners with water and different fabric types. Let them test how well each fabric absorbs or repels water.",
+                                "Ask learners to bring clothing from home and explain why they chose those fabrics."
+                            ],
+                            "learner_steps": [
+                                "Handle and feel different fabric samples.",
+                                "Present choices and reasoning for different clothing scenarios.",
+                                "Test fabric absorption/repulsion using water.",
+                                "Bring clothing from home and assess fabric properties."
+                            ],
+                            "short_notes": "Healthy clothing considers fabric properties such as breathability, heat conduction, waterproofing, and skin-friendliness. Cotton is soft, breathable, and hypoallergenic. Linen is lightweight and airy. Wool retains heat. Nylon is waterproof. Synthetic fabrics like polyester may cause irritation and trap heat."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 18,
+                            "hook": "Why do people wear different clothing in different cultures and situations?",
+                            "teacher_steps": [
+                                "Have learners bring old magazines, newspapers, fabric pieces, and coloured paper.",
+                                "Provide scissors, glue, and a large sheet of paper or cardboard for their collage.",
+                                "Guide learners to cut out images and fabric samples that represent different reasons for wearing clothes.",
+                                "Facilitate presentation and reflection: each student or group presents their collage, explaining their choices.",
+                                "Discuss differences in clothing choices based on culture, function, and personal preference."
+                            ],
+                            "learner_steps": [
+                                "Collect old magazines, newspapers, and fabric scraps.",
+                                "Cut out images representing different reasons for wearing clothes.",
+                                "Arrange and glue images on the board under appropriate categories.",
+                                "Label and add short descriptions to explain each category.",
+                                "Present collage to the class and explain choices."
+                            ],
+                            "short_notes": "Clothing serves multiple functions: Protection (shields body from extreme weather), Modesty (covers the body according to cultural/social norms), Identification (represents roles or groups e.g. school uniforms), Expression (reflects personality, beliefs, cultural identity), Comfort (provides ease of movement). Climate also influences clothing choices: hot climates use light breathable fabrics; cold climates use warm, layered clothing."
+                        }
+                    ],
+                    "short_notes": "Fashion and fabrics are essential in daily life, influencing the way people dress, express themselves, and protect their bodies. Types of fabrics include natural (cotton, wool, silk), synthetic (polyester, nylon), and blended. Common weaves include plain, twill, and satin. Fabrics play a role in personal style, creativity, expression, and evolving trends.",
+                    "vocabulary": [
+                        {
+                            "term": "Textile",
+                            "definition": "A material made by weaving, knitting, or bonding fibre."
+                        },
+                        {
+                            "term": "Fabric",
+                            "definition": "A material made from fibres, yarns or thread by weaving, knitting, or bonding fibre."
+                        },
+                        {
+                            "term": "Fibre",
+                            "definition": "The basic material used to create textiles, either natural or synthetic."
+                        },
+                        {
+                            "term": "Natural Fibre",
+                            "definition": "Fibres sourced from plants, animals, or minerals (e.g., cotton, wool)."
+                        },
+                        {
+                            "term": "Synthetic Fibres",
+                            "definition": "Man-made fibres created through chemical processes (e.g., nylon)."
+                        },
+                        {
+                            "term": "Weaving",
+                            "definition": "A process of interlacing thread at right angles to form fabric."
+                        },
+                        {
+                            "term": "Knitting",
+                            "definition": "A technique of looping yarn together to create fabric."
+                        },
+                        {
+                            "term": "Dyeing",
+                            "definition": "The process of adding colour to textile."
+                        },
+                        {
+                            "term": "Loom",
+                            "definition": "Device used for weaving."
+                        },
+                        {
+                            "term": "Sustainability",
+                            "definition": "Practices ensuring the production of textiles minimizes environmental impact."
+                        },
+                        {
+                            "term": "Fashion",
+                            "definition": "The styles of clothing, accessories, footwear, and hairstyles that are popular at a particular time."
+                        },
+                        {
+                            "term": "Trend",
+                            "definition": "A general direction in which fashion is developing or changing."
+                        },
+                        {
+                            "term": "Haute Couture",
+                            "definition": "High-end, custom-made designer clothing."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 20,
+                        "questions": [
+                            "Which of the following is NOT a type of fabric weave? a) Plain b) Twill c) Satin d) Crochet (Answer: d)",
+                            "Which fabric is made from natural fibres? a) Polyester b) Rayon c) Cotton d) Nylon (Answer: c)",
+                            "What does 'haute couture' mean in fashion? a) Mass-produced clothing b) Custom-made, high-end fashion c) Traditional clothing styles d) Cheap, ready-to-wear clothes (Answer: b)",
+                            "School uniforms are an example of clothing used for _______. a) Adornment b) Identification c) Comfort d) Protection (Answer: b)",
+                            "True or False: Firefighters wear special uniforms to protect themselves from heat and flames. (True)",
+                            "What is the difference between natural and synthetic fabrics?",
+                            "Name three types of fashion styles and describe one.",
+                            "Why is cotton preferred for summer clothing?",
+                            "How does fabric choice influence the comfort of clothing?",
+                            "Discuss three properties of wool and explain how they make it suitable for winter clothing.",
+                            "List two advantages and two disadvantages of synthetic fabrics.",
+                            "How have fabric trends evolved over the past 50 years?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.1.2",
+                    "title": "Career Opportunities",
+                    "page": 22,
+                    "competences": [
+                        "Explore potential career path in textile and clothing."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 22,
+                            "hook": "How did textiles evolve from prehistoric times to today?",
+                            "teacher_steps": [
+                                "Divide the history of textiles into periods: Prehistoric Era, Ancient Civilizations, and the Industrial Revolution.",
+                                "Ask learners to research and present key developments (e.g., invention of the loom, the role of cotton in ancient trade, impact of the Industrial Revolution).",
+                                "Highlight key milestones (e.g., wool weaving in prehistoric times, silk production in Ancient China, mechanized spinning in the Industrial Revolution).",
+                                "Relate historical events to modern practices.",
+                                "Show visual timeline posters, videos, articles on textile history."
+                            ],
+                            "learner_steps": [
+                                "Watch videos depicting the History of Textiles and Clothing in Zambia and the world.",
+                                "Research and present key developments in textile history.",
+                                "Identify key milestones in the history of textiles."
+                            ],
+                            "short_notes": "The development of textiles and clothing can be divided into several key periods: The Prehistoric Era (early humans fashioned coverings from animal skins and plant fibres), Ancient Civilizations (spinning, weaving, and dyeing developed in Egypt, Mesopotamia, India, and China), and The Industrial Revolution (mechanized production e.g. the spinning jenny, water frame, power loom transformed textile manufacturing)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 23,
+                            "hook": "What career opportunities exist in the textile and clothing industry?",
+                            "teacher_steps": [
+                                "Facilitate learners to watch interview videos of different professionals.",
+                                "Use real-life case studies to illustrate the daily tasks and required skills for each role.",
+                                "Facilitate a design challenge: learners conceptualize a product and outline its development process.",
+                                "Emphasize skills like creativity, technical expertise, trend analysis, and teamwork."
+                            ],
+                            "learner_steps": [
+                                "Watch videos of career opportunities in the textile and clothing industry.",
+                                "Review career guides and interview videos.",
+                                "Conceptualize a product and outline its development process."
+                            ],
+                            "short_notes": "The textile and clothing industry offers wide-ranging career opportunities: Design and Development (Fashion Designer, Textile Designer, Technical Designer), Production and Manufacturing (Textile Engineer, Garment Technologist, Quality Control Inspector, Production Manager), Retail and Merchandising (Fashion Buyer, Merchandiser, Retail Manager), Marketing and Communication (Fashion Marketer, Visual Merchandiser, Social Media Manager), Sustainability and Innovation (Sustainable Fashion Specialist, Textile Chemist, Circular Economy Expert), and Entrepreneurship and Freelancing."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 25,
+                            "hook": "How does the textile and clothing sector contribute to the economy?",
+                            "teacher_steps": [
+                                "Discuss the economic importance of the textile and clothing sector.",
+                                "Highlight contributions like job creation, foreign exchange earnings, and poverty reduction.",
+                                "Assign learners to research and present one economic benefit of the textile and clothing industry.",
+                                "Provide examples from both local (Zambia) and global perspectives.",
+                                "Discuss challenges (e.g., environmental impacts) and solutions.",
+                                "Show videos of textile factories."
+                            ],
+                            "learner_steps": [
+                                "Watch videos of the economic importance of the textile and clothing sector.",
+                                "Research and present one economic benefit of the textile and clothing industry.",
+                                "Discuss local and global examples."
+                            ],
+                            "short_notes": "The textile and clothing industry plays a vital role in the economy by creating jobs, generating revenue, and promoting trade. It supports agriculture (cotton farming), manufacturing, and retail. In Zambia, companies like Mulungushi Textiles and chitenge production are examples. Challenges include high production costs, competition from cheaper imported textiles, lack of modern technology, limited government support, and fluctuating cotton prices."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 26,
+                            "hook": "What can we observe and learn from visiting a local textile shop or workshop?",
+                            "teacher_steps": [
+                                "Prepare learners with questions beforehand.",
+                                "Focus on how different roles contribute to the final product.",
+                                "Guide learners during the visit to observe and interview professionals.",
+                                "Facilitate discussion on workflows and challenges."
+                            ],
+                            "learner_steps": [
+                                "Watch videos to observe work flows, challenges and benefits faced in the textile industry.",
+                                "Observe and interview professionals to understand workflows and challenges.",
+                                "Record findings using observation guides."
+                            ],
+                            "short_notes": "Visiting a local textile shop or workshop helps learners understand real-world workflows and the various roles that contribute to textile production. This practical exposure connects theoretical knowledge to industry practice."
+                        }
+                    ],
+                    "short_notes": "Textiles and clothing have evolved from prehistoric animal skins to a global industry. The sector offers diverse career opportunities spanning creative, technical, and business fields. Understanding this evolution helps learners appreciate how traditional techniques influence modern practices and how innovation drives change. The industry is increasingly focused on sustainability and innovation.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Which three broad periods can the history of textiles be divided into? A. The Bronze Age, the Middle Ages, and the Modern Era B. The Prehistoric Era, Ancient Civilizations, and the Industrial Revolution C. The Stone Age, the Enlightenment, and the Information Age D. The Neolithic, the Classical, and the Postmodern Era (Answer: B)",
+                            "How do researchers indirectly estimate when humans began wearing clothes? A. By dating cave paintings B. Through the archaeological discovery of ancient sewing needles C. Using genetic analysis of body lice D. By analysing the wear on prehistoric animal skins (Answer: C)",
+                            "Which of the following two roles falls under creative careers in the textile industry? A. Fashion Designer B. Textile Engineer C. Product Developer D. Quality Controller (Answer: A and C)",
+                            "What is one of the main ways that textile exports contribute to a country's economy?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.1.3",
+                    "title": "Work Ethics",
+                    "page": 28,
+                    "competences": [
+                        "Practise work ethics in the fashion industry."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 28,
+                            "hook": "What does work ethics mean and why are they important in the fashion industry?",
+                            "teacher_steps": [
+                                "Ask learners to share their thoughts on what work ethics mean and why they are important.",
+                                "Use real-life examples to discuss relevance in the fashion industry.",
+                                "Define work ethics and discuss their importance (e.g., integrity, teamwork, honesty).",
+                                "Discuss relevance to career development in the fashion industry."
+                            ],
+                            "learner_steps": [
+                                "Share thoughts on what work ethics mean and why they are important.",
+                                "Discuss real-life examples of work ethics in the fashion industry."
+                            ],
+                            "short_notes": "Work ethics are a set of moral principles and values guiding professional behaviour and decision-making. They are significant for industry standards, professional integrity, and as a career foundation. Key work ethics in fashion include Punctuality, Reliability, and Responsibility."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 29,
+                            "hook": "What are the key professional values in the fashion industry and how do they manifest in daily work?",
+                            "teacher_steps": [
+                                "Assign small groups to research and present on topics such as punctuality, reliability, responsibility, accountability, and teamwork.",
+                                "Ask groups to define each key ethic.",
+                                "Guide groups to describe key work ethics and professional values with examples from fashion careers.",
+                                "Show learners videos on professional values in the workplace."
+                            ],
+                            "learner_steps": [
+                                "Watch videos on professional values in the workplace.",
+                                "Research and present in groups on assigned work ethics topics.",
+                                "Define each key ethic and give examples from fashion careers."
+                            ],
+                            "short_notes": "Key work ethics and professional values in the fashion industry include: Integrity (being honest, fair, and transparent), Accountability (taking responsibility for actions), Respect (recognizing and valuing others), Sustainability (environmentally and socially responsible methods), Professionalism (upholding high standards), Creativity and Innovation (developing new ideas ethically), Fairness and Equality (equal treatment), and Confidentiality (protecting sensitive information)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 31,
+                            "hook": "How does a positive work ethic affect career growth and industry reputation?",
+                            "teacher_steps": [
+                                "Facilitate a class debate or reflective discussion on how work ethics influence productivity, time management, and reputation.",
+                                "Share real-world success stories from the fashion industry.",
+                                "Use infographics on the benefits of work ethics.",
+                                "Guide interview of a local successful person from the fashion and clothing industry."
+                            ],
+                            "learner_steps": [
+                                "Participate in class debate or reflective discussion on work ethics.",
+                                "Analyse real-world success stories.",
+                                "Interview a local successful person from the fashion and clothing industry."
+                            ],
+                            "short_notes": "A positive work ethic impacts career growth through enhanced productivity and performance, trust and reliability, career advancement opportunities, improved social status, and maximized profit. It impacts industry reputation through setting professional standards, attracting top talent, building client trust, and maximizing profit."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 32,
+                            "hook": "How do we handle ethical and unethical workplace situations in the fashion industry?",
+                            "teacher_steps": [
+                                "Prepare scripts for role-play.",
+                                "Provide props and clothing items for realistic enactment.",
+                                "Facilitate role-playing of workplace situations demonstrating ethical or unethical behaviour.",
+                                "Lead discussion on consequences and measures to improve the depicted scenarios.",
+                                "Emphasize decision-making and ethical responses."
+                            ],
+                            "learner_steps": [
+                                "Act out scenarios that demonstrate ethical or unethical behaviour in the textile industry (e.g., meeting deadlines, handling conflicts).",
+                                "Discuss consequences and measures to improve the scenarios.",
+                                "Reflect on ethical decision-making."
+                            ],
+                            "short_notes": "Scenario examples in the fashion industry include Punctuality Challenge (a team member consistently arrives late, delaying production), Accountability Exercise (a stylist damages an outfit and must address the issue ethically), and Teamwork Example (a group faces conflicts about design choices during a fashion show). Role-play develops soft skills like communication, problem-solving, and leadership."
+                        }
+                    ],
+                    "short_notes": "Work ethics are foundational principles that guide behaviour in the fashion industry. They include punctuality, reliability, responsibility, accountability, teamwork, promptness, and adaptability. A positive work ethic leads to improved productivity, enhanced reputation, stronger relationships, and career growth. Learners need to master these principles to thrive in the fashion industry.",
+                    "vocabulary": [
+                        {
+                            "term": "Integrity",
+                            "definition": "The quality of being honest, fair, and transparent in all professional dealings."
+                        },
+                        {
+                            "term": "Accountability",
+                            "definition": "Taking responsibility for actions, decisions, and their consequences."
+                        },
+                        {
+                            "term": "Professionalism",
+                            "definition": "Upholding high standards of behaviour, work ethic, and communication in the workplace."
+                        },
+                        {
+                            "term": "Punctuality",
+                            "definition": "Being on time for work, meetings, and deadlines."
+                        },
+                        {
+                            "term": "Reliability",
+                            "definition": "Being dependable and consistent in fulfilling responsibilities."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 33,
+                        "questions": [
+                            "Define work ethics and explain why they are important in the fashion industry.",
+                            "List five key work ethics and professional values and give one example of each.",
+                            "How does a positive work ethic impact career growth? Give three specific ways.",
+                            "Describe a scenario where a fashion professional demonstrates accountability.",
+                            "Role-play: Act out a situation showing a conflict in the workplace and demonstrate how to resolve it ethically."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.2",
+            "topic_title": "Fashion and Fabrics Workroom",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.2.1",
+                    "title": "Safety",
+                    "page": 35,
+                    "competences": [
+                        "Practise safety rules in the workroom."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 36,
+                            "hook": "Take a look around the workroom—what potential hazards do you notice?",
+                            "teacher_steps": [
+                                "Discuss the importance of safety in the fashion and fabrics room.",
+                                "Brainstorm potential hazards and how to prevent accidents.",
+                                "Demonstrate the correct use of essential equipment, such as sewing machines, irons, and cutting tools.",
+                                "Highlight specific safety precautions for each piece of equipment.",
+                                "Divide students into small groups and provide them with images of a typical textiles classroom. Instruct each group to identify and list potential hazards.",
+                                "Compile a comprehensive list of safety rules based on the hazards discussed.",
+                                "Discuss the rationale behind each rule and its importance."
+                            ],
+                            "learner_steps": [
+                                "Observe images of textiles classrooms and identify potential hazards.",
+                                "List potential hazards in small groups.",
+                                "Contribute to a class list of safety rules.",
+                                "Discuss the importance of each safety rule."
+                            ],
+                            "short_notes": "Safety is paramount in fashion and textiles. Potential hazards include: Sewing Machines (risk of needle injury), Cutting Tools (sharp edges), Pressing Equipment (heat and steam burns), and Chemical Exposure (dyes and fabric treatments). Safety rules include Proper Equipment Use, Regular Maintenance, use of Personal Protective Equipment (PPE), Clean Workspace, and Adequate Training."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 38,
+                            "hook": "Why is personal safety and hygiene especially important in the fashion workroom?",
+                            "teacher_steps": [
+                                "Demonstrate the correct use of personal protective equipment (PPE): goggles, apron.",
+                                "Demonstrate hygiene practices (keeping hands and clothing clean, using hair nets or tying hair back).",
+                                "Show how to safely handle needlework tools and equipment.",
+                                "Show charts with different types of PPE.",
+                                "Show diagrams illustrating safe tool use.",
+                                "Show videos demonstrating proper safety practices in the workroom."
+                            ],
+                            "learner_steps": [
+                                "Observe demonstrations of proper PPE use.",
+                                "Practise proper hygiene in the workroom.",
+                                "Handle needlework tools and equipment safely."
+                            ],
+                            "short_notes": "Personal hygiene in the needlework room involves: Hand Washing before starting any needlework, Hair Management (tie back or cover long hair), Appropriate Clothing (no loose sleeves or accessories). Safety practices include Proper Tool Handling, Ergonomic Posture, Fire Safety, and Electrical Safety. Workspace hygiene includes Cleanliness, Tool Maintenance, and Material Storage."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 39,
+                            "hook": "How do we correctly use and handle different tools and equipment in the workroom?",
+                            "teacher_steps": [
+                                "Engage learners in practising proper hygiene and safety.",
+                                "Emphasize the correct way to handle and use different tools.",
+                                "Emphasize the use of different tools for the intended purpose.",
+                                "Demonstrate handling of sharp tools like needles and scissors carefully.",
+                                "Demonstrate proper posture and ergonomics.",
+                                "Demonstrate safe operation of the sewing machine.",
+                                "Demonstrate iron safety."
+                            ],
+                            "learner_steps": [
+                                "Practise proper hygiene and safety in guided sessions.",
+                                "Handle a variety of needlework tools following safety guidelines.",
+                                "Demonstrate correct posture and ergonomics."
+                            ],
+                            "short_notes": "Key tool safety tips: Handle sharp tools like needles and scissors carefully. Use proper posture and ergonomics to prevent strain. Safe operation of sewing machine includes keeping fingers away from needle area and turning off when not in use. Iron safety includes checking cord damage, unplugging when not in use, and placing it on a heat-resistant stand."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 40,
+                            "hook": "How can we create effective safety guides for the fashion workroom?",
+                            "teacher_steps": [
+                                "Assign learners a task to complete a small sewing project while adhering to all safety rules.",
+                                "Divide students into small groups and assign each group a specific aspect of needlework safety.",
+                                "Provide materials for creating a safety guide or poster.",
+                                "Encourage groups to incorporate visual elements and clear instructions.",
+                                "Facilitate presentation of safety guides or posters to the class.",
+                                "Display the completed guides or posters in the needlework room."
+                            ],
+                            "learner_steps": [
+                                "Complete a small sewing project while adhering to safety rules.",
+                                "Create a safety guide or poster on an assigned safety aspect.",
+                                "Present safety guide or poster to the class.",
+                                "Contribute to displaying safety resources in the workroom."
+                            ],
+                            "short_notes": "PPE in the fashion workroom includes: Hand Protection (Gloves), Eye Protection (Safety Glasses), Thimbles, Aprons or Protective Clothing, Respiratory Protection (Masks), Hearing Protection (Earplugs), and Proper Footwear (Closed-toe Shoes). Each piece of PPE ensures safety, reduces injuries, and enhances comfort."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 41,
+                            "hook": "How well do we follow safety protocols in our daily needlework activities?",
+                            "teacher_steps": [
+                                "Distribute a safety checklist covering key areas such as tool handling, workspace organization, and personal protective measures.",
+                                "Ask learners to assess their adherence to safety protocols.",
+                                "Facilitate class discussion on what they learned about maintaining safety.",
+                                "Encourage learners to come up with own safety rules to display in the classroom.",
+                                "Observe and evaluate learners' adherence to safety rules during practical sessions."
+                            ],
+                            "learner_steps": [
+                                "Complete a safety checklist assessing personal adherence to safety protocols.",
+                                "Participate in class discussion on safety learnings.",
+                                "Create own safety rules for the classroom.",
+                                "Reflect on areas for improvement."
+                            ],
+                            "short_notes": "Self-assessment and reflection in maintaining safety helps improve skills. Quick tips: always think before acting and assess risks before using tools; keep workspace clean and organized; wear appropriate protective gear; report unsafe situations immediately; practise safety every day to make it a habit."
+                        }
+                    ],
+                    "short_notes": "Safety in the fashion and fabrics workroom involves controlling situations and dangerous actions to prevent injury. Key areas include personal safety and hygiene, safe working conditions, and safety rules and regulations. Maintaining safety prevents injuries, ensures efficient work, and promotes a clean and organized environment. Key practices include wearing PPE, maintaining hygiene, handling tools safely, and following classroom rules.",
+                    "vocabulary": [
+                        {
+                            "term": "Protective gear",
+                            "definition": "Equipment such as gloves, aprons, and safety glasses used to protect individuals from harm."
+                        },
+                        {
+                            "term": "Ergonomics",
+                            "definition": "The science of designing a workspace to enhance safety and efficiency."
+                        },
+                        {
+                            "term": "Fire safety",
+                            "definition": "Precautions and measures to prevent and manage fire hazards."
+                        },
+                        {
+                            "term": "Tool maintenance",
+                            "definition": "Proper care and storage of workroom tools to ensure longevity and functionality."
+                        },
+                        {
+                            "term": "Safety Precaution",
+                            "definition": "Precaution taken in order to prevent accidents."
+                        },
+                        {
+                            "term": "Protective clothing",
+                            "definition": "Protects the body from external influence like heat, finger pricks, chemical and mechanical hazards."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 43,
+                        "questions": [
+                            "Which of the following is the best way to handle sharp scissors? a) Pass them by the blade. b) Pass them with the handles pointed to the other person. c) Leave them open on the table. d) Use them while walking. (Answer: b)",
+                            "Why should you unplug an iron immediately after use? a) To save electricity. b) To avoid accidental burns. c) To prevent the iron from cooling down too quickly. d) To protect the fabric. (Answer: b)",
+                            "What is the primary purpose of wearing goggles in the fashion room? a) To look professional. b) To protect your eyes from debris or sharp objects. c) To improve vision while working. d) To keep your hair in place. (Answer: b)",
+                            "What is the safest way to cut fabric using scissors? a) Hold the fabric in the air while cutting. b) Place the fabric on a flat surface and cut away from your body. c) Cut toward your body for precision. d) Use scissors without checking their sharpness. (Answer: b)",
+                            "Fill in the blank: Always store _______ safely after use to avoid injuries.",
+                            "Scenario: You notice that your friend is leaving fabric scraps on the floor after cutting. What should you do, and why?",
+                            "Demonstrate the correct way to wear an apron and tie back long hair in preparation for work.",
+                            "Explain the steps you would take to safely use and store a rotary cutter after completing your task."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2.2",
+                    "title": "First Aid",
+                    "page": 44,
+                    "competences": [
+                        "Apply first aid."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 45,
+                            "hook": "What would you do if someone was injured in the fashion and fabrics room?",
+                            "teacher_steps": [
+                                "Discuss the importance of first aid.",
+                                "Identify the characteristics of a first aider.",
+                                "Analyse potential accidents and emergencies in the Fashion and Fabrics room.",
+                                "Guide learners in role-playing: practice using the first aid kit to manage injuries (e.g., applying antiseptic, dressing wounds, using bandages).",
+                                "Conduct an emergency procedure drill: locate fire exits, fire extinguishers, and emergency equipment.",
+                                "Show learners videos on emergency procedure drills.",
+                                "Guide learners to create a checklist for a complete and accessible first aid kit.",
+                                "Show diagrams of fire exit locations."
+                            ],
+                            "learner_steps": [
+                                "Watch videos on emergency procedure drills.",
+                                "Discuss the importance of first aid.",
+                                "Identify characteristics of a good first aider.",
+                                "Role-play using the first aid kit to manage injuries.",
+                                "Participate in emergency procedure drill.",
+                                "Create a checklist for a complete first aid kit."
+                            ],
+                            "short_notes": "First Aid is the first help given to a casualty at the scene of an accident before medical experts arrive. Importance: provides immediate care, helps prevent further injury, increases chances of recovery. Characteristics of a Good First Aider: Calm and composed under pressure, Knowledgeable about basic first aid procedures, Communicative and empathetic. Standard first aid procedure: Clean the wound with antiseptic, dress the wound securely, use bandages to protect and stabilize the injury."
+                        }
+                    ],
+                    "short_notes": "First Aid encompasses immediate care given to someone injured or ill before professional medical help arrives. In the Fashion and Fabrics room, first aid kits must be easily accessible and well-stocked. Emergency procedures include knowing the location of fire exits, extinguishers, and emergency equipment, and practising evacuation drills regularly.",
+                    "vocabulary": [
+                        {
+                            "term": "First Aid",
+                            "definition": "The immediate care given to someone who is injured or ill before professional medical help arrives."
+                        },
+                        {
+                            "term": "First Aider",
+                            "definition": "A person who gives first aid to an injured person before medical experts attend to the injured person."
+                        },
+                        {
+                            "term": "Casualty",
+                            "definition": "A person who is injured or sick and needs immediate first aid."
+                        },
+                        {
+                            "term": "First aid kit",
+                            "definition": "A container that contains essential medical supplies to treat common injuries and medical emergencies."
+                        },
+                        {
+                            "term": "CPR (Cardiopulmonary Resuscitation)",
+                            "definition": "A procedure performed to revive an unconscious person who is not breathing."
+                        },
+                        {
+                            "term": "Burns",
+                            "definition": "Injuries caused by exposure to dry heat, chemicals, or electricity."
+                        },
+                        {
+                            "term": "Scald",
+                            "definition": "Injuries caused by exposure to moist heat or steam."
+                        },
+                        {
+                            "term": "Cuts and Wounds",
+                            "definition": "Injuries where the skin is broken due to sharp objects."
+                        },
+                        {
+                            "term": "Fainting",
+                            "definition": "Temporary loss of consciousness due to low blood supply to the brain."
+                        },
+                        {
+                            "term": "Fractures",
+                            "definition": "Broken or cracked bones that require immediate stabilization."
+                        },
+                        {
+                            "term": "Antiseptic",
+                            "definition": "Substance that helps to prevent infections (arrests germs)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 48,
+                        "questions": [
+                            "What is the first step in treating a bleeding wound? a) Apply a bandage immediately b) Wash hands and wear gloves c) Apply antiseptic d) Call for help (Answer: b)",
+                            "Which of the following is a characteristic of a good first aider? a) Impatient b) Calm under pressure c) Avoids communication d) Panics easily (Answer: b)",
+                            "Fill in the blank: The purpose of an antiseptic is to ___ a wound.",
+                            "Fill in the blank: First aid helps to ________ complications and speeds up recovery.",
+                            "Scenario: You find a learner who has fainted in class. Outline the steps you would take to assist them.",
+                            "Scenario: A classmate cuts their hand while working on a project. Describe the first aid procedure you would follow.",
+                            "Match: Antiseptic - ___; Bandage - ___; Fire extinguisher - ___"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.3",
+            "topic_title": "Personal Hygiene and Fashion",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.3.1",
+                    "title": "Good Grooming",
+                    "page": 50,
+                    "competences": [
+                        "Practise good personal hygiene in the fashion industry."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 51,
+                            "hook": "Imagine walking into a room and commanding attention, not just because of what you're wearing, but because of how well you've cared for yourself. From fresh breath and clean nails to a well-coordinated outfit—these small efforts can transform how you feel and how others perceive you.",
+                            "teacher_steps": [
+                                "Explain the concept of personal hygiene.",
+                                "Discuss why personal hygiene is important in the fashion industry.",
+                                "Identify key aspects of hygiene related to reputation, first impressions, health and safety, confidence, and customer trust.",
+                                "Demonstrate good hygiene practices.",
+                                "Show pictures of well-groomed vs. poorly groomed individuals.",
+                                "Facilitate pair work activity: In groups, students discuss and list ways to maintain hygiene in their daily routine and fashion-related career.",
+                                "Demonstrate proper ways to maintain hygiene, such as hand washing, oral care, and clean clothing."
+                            ],
+                            "learner_steps": [
+                                "Discuss the importance of personal hygiene in the fashion industry in pairs/groups.",
+                                "List ways to maintain hygiene in daily routines and fashion careers.",
+                                "Observe demonstrations of proper hygiene practices."
+                            ],
+                            "short_notes": "Personal hygiene in the fashion industry encompasses five key aspects: Reputation (good hygiene maintains professionalism), First Impression (cleanliness creates positive impact on clients and employers), Health and Safety (poor hygiene can spread germs, crucial in tailoring and retail), Confidence Boost (feeling fresh enhances self-esteem), and Customer Trust (customers feel more comfortable with well-groomed professionals)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 52,
+                            "hook": "What daily habits contribute to good health and grooming in the fashion industry?",
+                            "teacher_steps": [
+                                "Assign learners in groups to identify and analyse daily habits that contribute to health and grooming.",
+                                "Have each group present their findings to the class.",
+                                "Show charts illustrating a healthy diet.",
+                                "Discuss key health habits."
+                            ],
+                            "learner_steps": [
+                                "In groups, identify and analyse daily habits that contribute to health and grooming.",
+                                "Present group findings to the class.",
+                                "Track personal health habits on worksheets."
+                            ],
+                            "short_notes": "Key health habits in the fashion industry include: Personal Hygiene (bathing daily, oral hygiene, handwashing, grooming), Proper Nutrition (balanced diet with fruits, vegetables, proteins, carbohydrates; drinking plenty of water; avoiding excessive junk food), Physical Fitness (regular exercise, stretching, light workouts), Mental Well-being (stress management, adequate sleep of 7-9 hours, avoiding drugs/excessive alcohol), and Clean Environment (keeping workspaces clean, washing and maintaining clean clothes)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 53,
+                            "hook": "How does posture affect your appearance and confidence in the fashion industry?",
+                            "teacher_steps": [
+                                "Demonstrate proper posture techniques for walking, sitting, standing, and sleeping.",
+                                "Conduct role-play scenarios where learners correct each other's posture.",
+                                "Use real-life examples (e.g., sitting in class, using a phone, carrying a bag).",
+                                "Discuss the effects of poor posture (e.g., back pain, fatigue, joint problems).",
+                                "Facilitate a quick quiz or role-play where students demonstrate proper and improper posture.",
+                                "Use posture guides or diagrams and mirrors for real-time correction."
+                            ],
+                            "learner_steps": [
+                                "Practise sitting posture: feet flat on floor, back straight, shoulders relaxed.",
+                                "Practise standing posture: feet shoulder-width apart, back straight, weight distributed evenly.",
+                                "Practise walking posture: head up, shoulders relaxed, straight spine.",
+                                "Correct each other's posture in pairs using mirrors.",
+                                "Reflect on how to improve posture daily."
+                            ],
+                            "short_notes": "Good posture involves sitting with feet flat on the floor, back straight, and shoulders relaxed; standing with feet shoulder-width apart and weight distributed evenly; walking with head up, shoulders relaxed, and a straight spine. Poor posture leads to back pain, fatigue, and joint problems. Posture affects appearance, confidence, and long-term physical health."
+                        }
+                    ],
+                    "short_notes": "Good grooming refers to maintaining a clean and neat appearance through regular body care activities like bathing, washing hands, brushing teeth, combing hair, trimming nails, and wearing clean clothes. Good grooming involves Personal Hygiene, Hair Care, Skin Care, Dress and Presentation, and Overall Presentation (posture, accessories, fragrance). Good grooming habits show respect for yourself and others and play a vital role in maintaining good health.",
+                    "vocabulary": [
+                        {
+                            "term": "Personal Hygiene",
+                            "definition": "Practices to maintain cleanliness and health, such as bathing, oral care, and grooming."
+                        },
+                        {
+                            "term": "Fashion",
+                            "definition": "The art and practice of designing and wearing clothing and accessories that reflect style and personality."
+                        },
+                        {
+                            "term": "Grooming",
+                            "definition": "The act of maintaining personal appearance, including hair, skin, and nails."
+                        },
+                        {
+                            "term": "Style",
+                            "definition": "A unique way of expressing oneself through clothing and accessories."
+                        },
+                        {
+                            "term": "Confidence",
+                            "definition": "A sense of self-assurance that reflects positively in both appearance and demeanour."
+                        },
+                        {
+                            "term": "Self-expression",
+                            "definition": "Using clothing and fashion to communicate personality and individuality."
+                        },
+                        {
+                            "term": "Presentation",
+                            "definition": "The way one appears and carries themselves, combining both hygiene and fashion."
+                        },
+                        {
+                            "term": "First Impression",
+                            "definition": "The initial perception someone forms based on another's appearance and behaviours."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 55,
+                        "questions": [
+                            "List five key aspects of personal hygiene important in the fashion industry and explain one.",
+                            "Demonstrate the correct sitting, standing, and walking posture.",
+                            "Why is good grooming important for professionals in the fashion industry?",
+                            "Describe three key health habits that contribute to physical and mental well-being."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3.2",
+                    "title": "Health Habits",
+                    "page": 56,
+                    "competences": [
+                        "Practise good health habits in the fashion industry."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 56,
+                            "hook": "How does maintaining good health support success in the fast-paced fashion industry?",
+                            "teacher_steps": [
+                                "Divide learners into small groups to discuss the importance of maintaining good health in the fashion industry.",
+                                "Assign sub-topics like positive body image, enhancing physical well-being, boosting stamina, mental health, and reducing stress.",
+                                "Highlight how physical and mental well-being impacts confidence and overall performance.",
+                                "Encourage learners to reflect on real-life examples from the fashion industry.",
+                                "Show articles or videos on body positivity in fashion.",
+                                "Show charts or infographics on effects of good health habits."
+                            ],
+                            "learner_steps": [
+                                "Discuss the importance of maintaining good health in small groups.",
+                                "Analyse assigned sub-topics on health in the fashion industry.",
+                                "Reflect on real-life examples from the fashion industry.",
+                                "Present group findings to the class."
+                            ],
+                            "short_notes": "Maintaining good health in the fashion industry is crucial due to the industry's demanding nature, high-pressure environment, and emphasis on physical appearance. Key reasons include: Physical Well-being and Endurance (fashion professionals work long hours and handle physically demanding tasks), Mental Health and Stress Management (high levels of stress require self-care and mental health support), Balanced Nutrition and Energy Levels, and Fitness and Body Positivity (the industry is shifting towards body diversity and self-acceptance)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 58,
+                            "hook": "How do hydration, nutrition, and sleep affect your energy levels and skin health?",
+                            "teacher_steps": [
+                                "Conduct a brainstorming session to list health habits like managing stress, eating healthily, staying hydrated, and getting adequate sleep.",
+                                "Have learners create a personal health habits plan.",
+                                "Discuss the impact of hydration, nutrition, and sleep on energy levels and skin health.",
+                                "Distribute handouts on healthy eating and hydration.",
+                                "Provide worksheets for creating personal health plans."
+                            ],
+                            "learner_steps": [
+                                "Brainstorm and list key health habits.",
+                                "Create a personal health habits plan.",
+                                "Fill in worksheets on healthy eating, hydration, and sleep."
+                            ],
+                            "short_notes": "Hydration: dehydration causes fatigue, brain fog, and reduced physical performance; proper hydration maintains skin elasticity and reduces dryness. Nutrition: antioxidants (vitamins C, E, A), healthy fats (omega-3s), and collagen-supporting foods promote skin elasticity. Sleep: during deep sleep, the body repairs skin cells, increases collagen production, and reduces inflammation. Key takeaways: drink 8+ cups of water per day, eat nutrient-dense foods, prioritize 7-9 hours of quality sleep."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 59,
+                            "hook": "How does proper posture impact long-term health and professional appearance?",
+                            "teacher_steps": [
+                                "Demonstrate proper techniques for walking, standing, sitting, and sleeping posture.",
+                                "Allow learners to practise and assess each other using mirrors.",
+                                "Show visual aids showing correct and incorrect postures.",
+                                "Use mirrors for self-assessment."
+                            ],
+                            "learner_steps": [
+                                "Practise proper posture techniques for walking, standing, sitting, and sleeping.",
+                                "Assess each other's posture using mirrors.",
+                                "Reflect on improvements needed."
+                            ],
+                            "short_notes": "Practising good posture is essential for preventing injuries and exuding confidence in professional and personal settings. Regular posture practice reduces back pain, improves physical appearance, and enhances confidence."
+                        }
+                    ],
+                    "short_notes": "Maintaining good health is vital for success in the fashion industry as it enhances physical stamina, mental well-being, and confidence. Key health habits include managing stress, eating a balanced diet, staying hydrated, and getting adequate rest. Practising good posture is essential for preventing injuries and projecting a professional image.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 60,
+                        "questions": [
+                            "Which of the following is a benefit of maintaining good health in the fashion industry? A. Reduced mental health B. Improved physical stamina C. Increased stress levels D. Poor body image (Answer: B)",
+                            "What is one way to manage stress effectively? A. Skipping meals B. Regular exercise and mindfulness practices C. Sleeping less than 4 hours D. Overworking yourself (Answer: B)",
+                            "Why is staying hydrated important for those in the fashion industry? A. It improves focus and energy levels B. It slows down metabolism C. It enhances poor posture D. It decreases skin quality (Answer: A)",
+                            "True or False: Skipping meals is a healthy habit for managing a busy schedule in the fashion industry. (False)",
+                            "True or False: Stress can negatively affect both physical and mental well-being. (True)",
+                            "Fill in the blank: _______ and _______ are two key health habits that reduce stress and boost mental health. (Exercise, mindfulness)",
+                            "Why is physical and mental health important in the fashion industry?",
+                            "List three ways to manage stress effectively.",
+                            "How does good posture benefit individuals in the fashion industry?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.4",
+            "topic_title": "Clothing",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.4.1",
+                    "title": "Functional Clothing",
+                    "page": 63,
+                    "competences": [
+                        "Plan dressing according to function."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 63,
+                            "hook": "Have you ever worn something that was uncomfortable because it wasn't designed for the weather or activity you were doing? What type of clothing do you think is best for running in the cold or for a job that involves physical work?",
+                            "teacher_steps": [
+                                "Bring actual items for learners to see and touch (e.g., running shoes, a winter coat, a helmet, or safety boots).",
+                                "Briefly explain how each piece of clothing serves a specific function.",
+                                "Let learners watch video clips of diverse clothing items showing importance in daily life.",
+                                "Define clothing and its purposes: protection, comfort, style.",
+                                "Explain how clothing is essential in daily life (e.g., for work, weather, modesty)."
+                            ],
+                            "learner_steps": [
+                                "Observe and handle examples of functional clothing items.",
+                                "Watch video clips of diverse clothing items.",
+                                "Discuss the purpose and function of each clothing item."
+                            ],
+                            "short_notes": "Functional clothing refers to garments designed with specific purposes beyond aesthetics. Primary characteristics include Protection (from cold, heat, rain, UV), Comfort (ease of movement, moisture-wicking), and Functionality (specialized clothing for sports, work, safety). Materials used often feature moisture-wicking, breathability, water resistance, and thermal insulation."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 65,
+                            "hook": "What are the different types of clothing and what are they designed for?",
+                            "teacher_steps": [
+                                "Record a video explaining the clothing types and include real-life examples.",
+                                "Discuss everyday clothing, seasonal clothing, formal attire, sportswear, etc.",
+                                "Highlight how clothing is designed for specific needs (e.g., warmth, flexibility).",
+                                "Use fabric swatches, catalogues, or images for group discussions."
+                            ],
+                            "learner_steps": [
+                                "Watch a video explaining clothing types.",
+                                "Participate in group discussions on types and purposes of clothing.",
+                                "Examine fabric swatches and catalogues."
+                            ],
+                            "short_notes": "Types of clothing include: Casual Wear (everyday comfort), Formal Wear (special occasions), Business Attire (professional work settings), Athletic Wear (physical activity), and Outerwear (weather protection). Seasonal clothing includes summer wear (shorts, tank tops), winter wear (coats, sweaters), and spring/fall wear (light jackets, long sleeves)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 66,
+                            "hook": "How does clothing reflect culture, identity, and environment?",
+                            "teacher_steps": [
+                                "Discuss how clothing reflects cultural traditions, values, and beliefs.",
+                                "Show videos of traditional clothing (e.g., Musisi in Zambia, kimono in Japan, Maasai Shuka in Kenya, kilts in Scotland).",
+                                "Ask students if their own clothing choices reflect their cultural background.",
+                                "Explore how clothing can express personal and group identity.",
+                                "Explain how geography and climate influence clothing.",
+                                "Discuss sustainable and ethical fashion."
+                            ],
+                            "learner_steps": [
+                                "Watch videos of traditional clothing from various cultures.",
+                                "Reflect on how their own clothing reflects cultural background.",
+                                "Describe their outfit and what it represents about them.",
+                                "Discuss how different fabric types impact the environment."
+                            ],
+                            "short_notes": "Traditional clothing represents a community's history, customs, and beliefs. It is often worn during ceremonies, festivals, and religious events. Designs, colours, and patterns may have symbolic meanings. Clothing styles are influenced by cultural norms, modesty, and social roles. Examples include Kimono (Japan), Sari (India), Kente cloth (Ghana), Musisi (Zambia)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 68,
+                            "hook": "How can we categorize different clothing items based on their functional components?",
+                            "teacher_steps": [
+                                "Show a diagram of the human body and explain its major parts.",
+                                "Define Upper Body Components, Lower Body Components, and Additional Components.",
+                                "Identify and categorize clothing into functional components.",
+                                "Explain how combinations work for function (e.g., layering for warmth).",
+                                "Facilitate hands-on sorting task or group activity.",
+                                "Ask learners to categorize into everyday wear, formal wear, seasonal wear, etc."
+                            ],
+                            "learner_steps": [
+                                "Sort clothing pictures or samples into functional categories.",
+                                "Categorize clothing by type, occasion, season, and fabric.",
+                                "Justify reasoning behind classifications.",
+                                "Present findings to the class."
+                            ],
+                            "short_notes": "Functional components of clothing include: Upper Body Clothing (tops, outerwear, undergarments), Lower Body Clothing (bottoms, legwear, undergarments), Full Body Clothing (dresses, suits, uniforms), Footwear (shoes, boots), Accessories (headgear, handwear, belts), and Protective Clothing. Clothing can be categorized by type, occasion, season, and fabric/material."
+                        }
+                    ],
+                    "short_notes": "Functional clothing serves various purposes such as protection, style, and identity. Different types of clothing suit specific occasions, seasons, and cultures. The primary goal is to provide comfort, durability, safety, and support while catering to the needs of the wearer. Understanding clothing components helps in making suitable dressing choices.",
+                    "vocabulary": [
+                        {
+                            "term": "Clothing",
+                            "definition": "Items we wear to cover our bodies (e.g., garments, fabrics, accessories, tattoos)."
+                        },
+                        {
+                            "term": "Functional Clothing",
+                            "definition": "Garments designed with specific purposes beyond just aesthetic appeal, intended to enhance comfort, performance, and protection."
+                        },
+                        {
+                            "term": "Casual Wear",
+                            "definition": "Everyday clothing for comfort and relaxation (e.g., jeans, t-shirts, sneakers)."
+                        },
+                        {
+                            "term": "Formal Wear",
+                            "definition": "Elegant attire for special occasions (e.g., suits, gowns, dress shoes)."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 70,
+                        "questions": [
+                            "Which clothing item is best suited for a formal job interview? a) T-shirt and jeans b) Suit and tie c) Tracksuit d) Shorts and a tank top (Answer: b)",
+                            "Which fabric is ideal for winter clothing? a) Cotton b) Wool c) Silk d) Nylon (Answer: b)",
+                            "What type of clothing is most appropriate for outdoor sports? a) Tight-fitting clothes made of silk b) Loose, breathable clothes made of moisture-wicking fabric c) Heavy wool clothing d) Formal wear (Answer: b)",
+                            "True or False: Clothing designed for rainy seasons often uses waterproof materials. (True)",
+                            "True or False: Layering clothing can help in maintaining body temperature during cold weather. (True)",
+                            "Describe one way culture influences clothing choices.",
+                            "What are three key factors to consider when choosing clothing for a formal event?",
+                            "You are attending a wedding in the summer. Suggest an outfit that is functional, comfortable, and formal. Justify your choice."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4.2",
+                    "title": "Wardrobe Planning",
+                    "page": 71,
+                    "competences": [
+                        "Plan the wardrobe in relation to fashion trends."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 71,
+                            "hook": "If you could plan the perfect wardrobe, what would you prioritize?",
+                            "teacher_steps": [
+                                "Conduct a class discussion or group brainstorming session.",
+                                "Define wardrobe planning.",
+                                "Discuss the goals of wardrobe planning (e.g., creating a functional and stylish wardrobe).",
+                                "Identify factors to consider when buying clothes for a wardrobe, such as budget, personal style, and lifestyle needs.",
+                                "Explore the advantages and disadvantages of buying ready-made clothes versus making your own.",
+                                "Show videos of casual, formal, business, athleisure and wardrobe types."
+                            ],
+                            "learner_steps": [
+                                "Watch videos showing different wardrobe types and storage solutions.",
+                                "Participate in brainstorming on goals of wardrobe planning.",
+                                "Discuss factors to consider when buying clothes."
+                            ],
+                            "short_notes": "Wardrobe Planning is the process of selecting and organizing clothing to create a versatile, functional, and stylish wardrobe. Goals include Maximizing Versatility, Reflecting Personal Style, Quality over Quantity, and Minimizing Waste. Factors to consider include Fabric and Material, Color Palette, Occasions, Fit and Comfort, Sustainability, and Timelessness. Buying ready-made clothes is quick and convenient but offers limited customization; making your own clothes provides full customization but is time-consuming."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 74,
+                            "hook": "How do you evaluate your current wardrobe and plan for improvements?",
+                            "teacher_steps": [
+                                "Use a case study or scenario-based activity where learners evaluate wardrobe needs.",
+                                "Facilitate wardrobe assessment: ask students to analyse their current wardrobe using the discussed factors.",
+                                "Guide learners to create a wardrobe plan listing items to add or remove.",
+                                "Show charts outlining factors in wardrobe planning.",
+                                "Show videos on fashion trends for different occasions and seasons."
+                            ],
+                            "learner_steps": [
+                                "Use worksheets with wardrobe planning scenarios.",
+                                "Evaluate current wardrobe based on factors discussed.",
+                                "Create a wardrobe plan listing items to add or remove."
+                            ],
+                            "short_notes": "Factors to consider in wardrobe planning include Occasion (formal, casual, workwear, etc.), Season (climate and weather), Age and lifestyle, Cost and budget constraints, Style preferences and figure type. Learners should link these factors to their own experiences."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 75,
+                            "hook": "What are the benefits of planning your wardrobe in advance?",
+                            "teacher_steps": [
+                                "Use visuals to show a before and after of an unorganized vs. planned, organized closet.",
+                                "Show how to plan outfits for the week ahead.",
+                                "Facilitate interactive discussion or learner presentations on benefits.",
+                                "Provide actionable steps: Start by Decluttering, Sort by Category, Create Outfits in Advance, Invest in Versatile Pieces, Store Seasonally."
+                            ],
+                            "learner_steps": [
+                                "Compare images of unorganized vs. organized wardrobes.",
+                                "Present on benefits of planning a wardrobe.",
+                                "Create outfit combinations from existing wardrobe items.",
+                                "Write down practical steps for wardrobe planning."
+                            ],
+                            "short_notes": "Benefits of wardrobe planning include saving time and money by avoiding impulsive purchases, improving organization, ensuring versatility, and reducing decision fatigue. Practical steps include decluttering, sorting by category, creating outfits in advance, investing in versatile pieces, and storing items seasonally."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 76,
+                            "hook": "How do you incorporate current fashion trends into your personal wardrobe without losing your identity?",
+                            "teacher_steps": [
+                                "Discuss how fashion trends influence wardrobe planning.",
+                                "Teach learners how to balance timeless pieces with trendy items.",
+                                "Show examples of how to incorporate current trends into a personal wardrobe.",
+                                "Provide fashion magazines, trend reports, or online resources.",
+                                "Show clothing samples showcasing timeless and trendy pieces."
+                            ],
+                            "learner_steps": [
+                                "Analyse fashion magazines and trend reports.",
+                                "Identify timeless pieces vs. trendy items.",
+                                "Suggest ways to incorporate current trends into a personal wardrobe."
+                            ],
+                            "short_notes": "Fashion trends influence wardrobe planning through seasonal adjustments, inspiration for new purchases, and adaptation to lifestyle. To balance timeless pieces with trendy items: Invest in Classics (blazers, white shirts, jeans), Mix and Match trendy items with classic pieces, prioritize Quality Over Quantity, and Adapt Trends to Personal Style. In Zambia, fashion is influenced by climate, cultural values, and the fusion of modern and traditional styles."
+                        }
+                    ],
+                    "short_notes": "Wardrobe planning is an essential skill that enables creating a functional, versatile, and stylish wardrobe. It involves considering occasion, season, cost, style preferences, figure type, and sustainability. The benefits include saving time and money, improving wardrobe management, and ensuring appropriate dressing for all occasions. Integrating fashion trends is important while maintaining personal style.",
+                    "vocabulary": [
+                        {
+                            "term": "Wardrobe Planning",
+                            "definition": "The process of selecting and organizing clothing to create a versatile, functional, and stylish wardrobe."
+                        },
+                        {
+                            "term": "Versatile",
+                            "definition": "Able to be used or adapted for many different purposes; clothes that can be mixed and matched for various occasions."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 79,
+                        "questions": [
+                            "What is the main purpose of wardrobe planning? A. To follow all the latest fashion trends B. To ensure clothing suits your body shape C. To ensure a functional, versatile, and stylish wardrobe D. To only buy clothes that are trendy (Answer: C)",
+                            "Which of the following is NOT a factor to consider when planning a wardrobe? A. Occasion B. Personal preferences C. Food habits D. Budget (Answer: C)",
+                            "Fill in the blank: Planning a wardrobe helps to ______ time and money. (save)",
+                            "Fill in the blank: A wardrobe that includes a variety of pieces that can be mixed and matched is known as a ________ wardrobe. (versatile)",
+                            "What are three benefits of planning a wardrobe in advance?",
+                            "Scenario: Sarah is a college learner with a limited budget and needs clothes for class, a part-time job, and social events. Which factors should she prioritize?",
+                            "True or False: Wardrobe planning is only for people who follow fashion trends. (False)",
+                            "True or False: A wardrobe plan helps you reduce the number of items by making intentional purchases. (True)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4.3",
+                    "title": "Dress Code and Culture",
+                    "page": 81,
+                    "competences": [
+                        "Dress according to specific cultures."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 82,
+                            "hook": "How do dress codes reflect cultural values and identity?",
+                            "teacher_steps": [
+                                "Discuss the importance of dress codes in different settings (formal, casual, business casual, traditional).",
+                                "Examine clothing from diverse cultures using images, videos, or real-life examples.",
+                                "Facilitate group discussions or research on how cultural attire reflects identity and values.",
+                                "Highlight the significance of traditional clothing (e.g., kimonos in Japan, dashikis in Africa, sarees in India).",
+                                "Ask learners to watch videos of clothing from diverse cultures and write own observations."
+                            ],
+                            "learner_steps": [
+                                "Watch videos of clothing from diverse cultures and write observations.",
+                                "Participate in group discussions on cultural attire and identity.",
+                                "Research how cultural attire reflects identity and values.",
+                                "Discuss why dress codes vary in formal and casual settings."
+                            ],
+                            "short_notes": "Dress codes are important in formal, casual, business casual, and traditional settings. Cultural attire reflects a person's cultural background, heritage, and traditions, often symbolizing shared values, community, and pride. Traditional clothing represents historical customs and serves as a form of cultural expression. Examples of cultural attire: Asia (Kimono, Cheongsam, Hanbok), Africa (Ankara, Dashiki, Kente cloth), Europe (Lederhosen, Flamenco dresses), Middle East (Abayas, Thobes)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 83,
+                            "hook": "How do your clothing choices affect how you feel about yourself and how others perceive you?",
+                            "teacher_steps": [
+                                "Facilitate class discussions on how clothing choices reflect self-expression and confidence.",
+                                "Share stories or case studies illustrating the impact of body positivity and fashion on self-esteem.",
+                                "Use reflective activities where learners describe an outfit that makes them feel confident.",
+                                "Introduce concepts of body positivity and inclusivity.",
+                                "Distribute reflection worksheets on how clothing affects self-esteem and body image."
+                            ],
+                            "learner_steps": [
+                                "Participate in discussions on clothing choices and self-expression.",
+                                "Describe an outfit that makes them feel confident.",
+                                "Complete a reflection worksheet on how clothing affects self-esteem and body image.",
+                                "Reflect on social influences, body image concerns, and the role of media in clothing choices."
+                            ],
+                            "short_notes": "Clothing impacts self-esteem by boosting confidence through wearing clothes that fit well and suit the occasion, and by enabling self-expression. Body positivity encourages acceptance of all body types through inclusive clothing. The link between clothing and mood shows bright colours and comfortable fabrics can elevate mood, while tight or uncomfortable clothing may negatively affect confidence."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 85,
+                            "hook": "How can we respectfully showcase and celebrate cultural diversity through fashion?",
+                            "teacher_steps": [
+                                "Organize learners into groups to represent different cultures.",
+                                "Guide learners to research, design, or wear traditional clothing during a cultural show.",
+                                "Host a fashion parade where each group presents their cultural attire and explains its significance.",
+                                "Encourage creativity and inclusivity in presenting diverse cultures.",
+                                "Focus on respectful representation.",
+                                "Use background music or cultural songs to enhance the atmosphere."
+                            ],
+                            "learner_steps": [
+                                "Research and prepare traditional clothing for a cultural show.",
+                                "Present cultural attire in a fashion parade and explain its significance.",
+                                "Showcase cultural performances from different provinces.",
+                                "Appreciate the diversity and significance of different cultural attires."
+                            ],
+                            "short_notes": "Culture is significant for Identity Formation (helps individuals understand who they are), Preservation of History (keeps traditions and practices alive for future generations), Social Cohesion (brings people together and strengthens community bonds), and Cultural Adaptability and Evolution (cultures evolve over time incorporating new influences while maintaining core values)."
+                        }
+                    ],
+                    "short_notes": "Dress code refers to a set of guidelines about appropriate clothing in specific situations. Culture encompasses shared customs, traditions, values, and behaviours. Understanding dress codes and culture is important for professional environments, social settings, and cultural celebrations. Clothing choices influence self-esteem, confidence, and self-expression. Diversity in traditional clothing should be appreciated and respected.",
+                    "vocabulary": [
+                        {
+                            "term": "Dress Code",
+                            "definition": "A set of guidelines or rules about what types of clothing are appropriate in specific situations, environments, or settings."
+                        },
+                        {
+                            "term": "Culture",
+                            "definition": "The shared customs, traditions, values, and behaviours of a particular group or society."
+                        },
+                        {
+                            "term": "Cultural Attire",
+                            "definition": "Traditional clothing that represents a specific culture's history, customs, and beliefs."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 87,
+                        "questions": [
+                            "What is a dress code? a) A set of rules about what to eat b) A set of rules about appropriate clothing in certain settings c) A tradition followed by specific cultures d) A guide for choosing colours for outfits (Answer: b)",
+                            "Which of the following is an example of formal dress code? a) Jeans and a t-shirt b) A suit and tie c) Shorts and a tank top d) Pyjamas (Answer: b)",
+                            "What does cultural attire typically reflect? a) Personal preferences only b) Cultural identity and values c) The weather d) The fashion trends of the year (Answer: b)",
+                            "True or False: Dress codes are only important in formal settings. (False)",
+                            "True or False: Traditional clothing reflects the values and history of a culture. (True)",
+                            "Explain why cultural attire can play an important role in self-esteem.",
+                            "Give an example of how clothing can express a person's personality.",
+                            "Why is it important for schools or workplaces to have dress codes?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4.4",
+                    "title": "Accessories",
+                    "page": 89,
+                    "competences": [
+                        "Use suitable accessories with an outfit."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 89,
+                            "hook": "What accessories do you own, and why did you choose them?",
+                            "teacher_steps": [
+                                "Display different accessories.",
+                                "Ask learners to group them according to their function, purpose, or the area of fashion they belong to.",
+                                "Define accessories.",
+                                "Discuss examples of common accessories and their purposes (e.g., functional, decorative)."
+                            ],
+                            "learner_steps": [
+                                "Group displayed accessories according to function, purpose, or fashion area.",
+                                "Bring and showcase accessories they own or know.",
+                                "Identify and describe different accessories and their purposes."
+                            ],
+                            "short_notes": "Accessories are additional items worn or carried to complement an outfit. They can be functional, decorative, or both, enhancing appearance and reflecting personal style. Examples include Scarfs (warmth, colour, style), Hats (sun protection, warmth, fashion statement), Bracelets and Necklaces (elegance, cultural identity), Belts (secure clothing, accentuate waistline), Earrings (frame face, add colour), Bags (storage and style), and Watches (time-keeping and aesthetics)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 90,
+                            "hook": "What factors determine which accessories you choose to wear?",
+                            "teacher_steps": [
+                                "Provide a teacher-led explanation with visual examples.",
+                                "Explain factors that influence the choice of accessories.",
+                                "Give examples for each factor (occasion, outfit coordination, personal style, functionality, cultural and religious beliefs, weather and season, budget)."
+                            ],
+                            "learner_steps": [
+                                "Observe visual examples of accessory pairings.",
+                                "Identify and discuss factors that influence accessory choices.",
+                                "Match accessories to different occasions and outfits."
+                            ],
+                            "short_notes": "Factors influencing accessory choices include: Personal Style and Preferences, Occasion and Event (formal events require elegant accessories), Outfit Coordination, Trends and Fashion Influence, Functionality and Practicality, Budget and Affordability, Cultural and Religious Beliefs, Material and Quality, Brand and Designer Influence, Body Type and Proportion, and Season and Weather."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 94,
+                            "hook": "How do we properly clean, store, and handle accessories to extend their life?",
+                            "teacher_steps": [
+                                "Demonstrate cleaning, storage, and handling techniques for different accessories.",
+                                "Discuss how to extend the life of accessories.",
+                                "Demonstrate cleaning accessories made from varying materials (metal, leather, fabric).",
+                                "Demonstrate proper storage practices to avoid damage.",
+                                "Demonstrate handling fragile or delicate accessories."
+                            ],
+                            "learner_steps": [
+                                "Observe cleaning demonstrations for different accessory materials.",
+                                "Practise proper storage of accessories.",
+                                "Discuss how to handle fragile or delicate accessories."
+                            ],
+                            "short_notes": "Cleaning Techniques: Use appropriate cleaning solutions for each material; wipe accessories with a soft cloth after use; avoid harsh chemicals; deep clean occasionally. Storage Practices: Store in designated compartments or pouches; use anti-tarnish strips for metal accessories; keep in cool, dry places away from sunlight; hang belts, scarves, and necklaces. To extend accessory life: rotate usage, repair minor damages promptly, use protective sprays, store seasonal items properly, follow manufacturer care instructions."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 95,
+                            "hook": "Can you design and create your own fashion accessory?",
+                            "teacher_steps": [
+                                "Provide crafting tools (pliers, scissors, glue).",
+                                "Provide materials (beads, thread, fabric scraps).",
+                                "Provide a step-by-step guide for creating accessories.",
+                                "Introduce basic accessory-making tools and materials.",
+                                "Demonstrate techniques for creating simple designs.",
+                                "Encourage creativity and originality."
+                            ],
+                            "learner_steps": [
+                                "Design and create a simple accessory (e.g., bracelet, necklace, or hairpin).",
+                                "Follow the step-by-step guide provided.",
+                                "Present finished accessory and explain design choices.",
+                                "Demonstrate creativity and originality."
+                            ],
+                            "short_notes": "Basic accessory-making involves selecting materials, using appropriate tools like pliers, scissors, and glue, applying techniques such as stringing beads, weaving fabric, or shaping metal. Creativity and originality are encouraged. Learners apply their understanding of accessory function, style, and cultural significance to their designs."
+                        }
+                    ],
+                    "short_notes": "Accessories are additional items that complement an outfit, serving functional, decorative, or both purposes. They enhance personal grooming and style, promote self-expression and creativity, encourage cultural appreciation, teach decision-making skills, instil proper care and responsibility, and develop entrepreneurial skills. Types include jewellery, bags, scarves, hats, belts, and shoes.",
+                    "vocabulary": [
+                        {
+                            "term": "Accessories",
+                            "definition": "Additional items worn or carried to complement an outfit; can be functional, decorative, or both."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 97,
+                        "questions": [
+                            "What is the main purpose of wearing a scarf? a) To keep your clothes warm b) To add colour and enhance the outfit c) To increase the weight of the outfit d) To store personal items (Answer: b)",
+                            "When choosing accessories, what should you consider about the outfit? a) The weather forecast b) The colour and texture of the clothing c) How much the accessories cost d) The colour of your shoes (Answer: b)",
+                            "Which of the following is an example of a functional accessory? a) A bracelet b) A handbag c) A pair of earrings d) A necklace (Answer: b)",
+                            "True or False: A belt can be used to both secure your pants and enhance your outfit. (True)",
+                            "True or False: It is best to wear very large and colourful accessories with highly detailed outfits. (False)",
+                            "Fill in the blank: To clean leather accessories, you should use a _______ cloth and apply _______ conditioner to keep it soft. (damp, leather)",
+                            "How should a delicate necklace be stored to avoid damage?",
+                            "You have been invited to a formal dinner party. What accessories would you consider wearing, and why?",
+                            "Assignment: Research and define fashion accessories, list five types, and explain how they can change the look of an outfit."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4.5",
+                    "title": "Inner and Outer Garments",
+                    "page": 99,
+                    "competences": [
+                        "Use inner and outer garments appropriately."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 99,
+                            "hook": "Can you identify the difference between inner and outer garments in your own wardrobe?",
+                            "teacher_steps": [
+                                "Provide garment samples, pictures, flashcards, and classification charts.",
+                                "Group learners to sort provided garment pictures or samples into inner and outer garments.",
+                                "Encourage discussions on why each garment fits into a specific category.",
+                                "Guide learners to classify garments by category.",
+                                "Explain Inner Garments (upper body, lower body, sleeping) and Outer Garments (protective, fashion, foundation)."
+                            ],
+                            "learner_steps": [
+                                "Sort garment pictures or samples into inner and outer garment categories.",
+                                "Discuss why each garment belongs to its category.",
+                                "Classify garments into subcategories."
+                            ],
+                            "short_notes": "Inner Garments are clothes worn next to the skin, underneath outer garments, providing comfort, hygiene, support, and shape. Examples include underwear, camisoles, slips, bras, and undershirts. Outer Garments are clothes worn as the visible layer over inner garments for protection, style, and cultural or social expression. Examples include shirts, dresses, jackets, trousers, and raincoats."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 100,
+                            "hook": "What factors influence your choices of inner and outer garments for different occasions?",
+                            "teacher_steps": [
+                                "Facilitate class discussions on scenarios where different garments are chosen.",
+                                "Conduct role-playing activities where learners dress for various events or weather conditions.",
+                                "Show learners a video depicting people dressed in different scenarios and ask them to analyse their characters/moods.",
+                                "Provide visual aids with weather or cultural contexts and case study worksheets."
+                            ],
+                            "learner_steps": [
+                                "Participate in class discussions on garment selection scenarios.",
+                                "Role-play dressing for various events or weather conditions.",
+                                "Analyse characters/moods from a video depicting people dressed differently.",
+                                "Complete case study worksheets."
+                            ],
+                            "short_notes": "Factors affecting Inner Garment choice: Comfort (soft, breathable materials), Activity Level (sportswear designed for active movement), Personal Preference (styles, colours, fabrics), and Cultural/Social Norms. Factors affecting Outer Garment choice: Weather (climate-appropriate clothing), Cultural/Social Identity (traditional attire for ceremonies), Professional Requirements (uniforms or formal attire), and Personal Style."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 101,
+                            "hook": "How do we properly launder and care for both inner and outer garments?",
+                            "teacher_steps": [
+                                "Demonstrate correct washing, drying, and ironing techniques for different garment types.",
+                                "Analyse garment care symbols on clothing labels.",
+                                "Provide laundry items (detergents, washing machine access, irons), garment labels.",
+                                "Explain tips during laundering: separate garments based on colour and fabric type, use appropriate detergents and temperature settings."
+                            ],
+                            "learner_steps": [
+                                "Observe demonstrations of washing, drying, and ironing techniques.",
+                                "Analyse garment care symbols on clothing labels.",
+                                "Practise separating garments for laundering.",
+                                "Practice pre-treating stains on outer garments."
+                            ],
+                            "short_notes": "Laundering Inner Garments: Use Gentle Detergents, Hand Wash delicate items like bras or lingerie, Air-dry whenever possible to avoid shrinking or stretching. Laundering Outer Garments: Check Care Labels, Separate Fabrics (wool, denim may need special treatment), Pre-Treat Stains before washing, Iron carefully to maintain appearance. Always separate inner and outer garments based on colour and fabric type."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 105,
+                            "hook": "How do we use inner and outer garments appropriately for different occasions?",
+                            "teacher_steps": [
+                                "Display pictures (or real clothes) of various garments.",
+                                "Call students one by one and describe a scenario (e.g., going to school, playing football, attending a wedding).",
+                                "Ask them to pick the right combination of inner and outer garments and explain their choices.",
+                                "Divide students into small groups and give each group a scenario (e.g., hot day, rainy day, school event).",
+                                "Facilitate group presentations to the class."
+                            ],
+                            "learner_steps": [
+                                "Select appropriate inner and outer garments for described scenarios.",
+                                "Explain garment choices.",
+                                "In groups, discuss and list appropriate inner and outer garments for assigned situations.",
+                                "Present group answers to the class."
+                            ],
+                            "short_notes": "Using inner and outer garments appropriately ensures Hygiene (absorbs sweat, prevents body odour and infections), Comfort (proper innerwear improves ease of movement and confidence), Modesty and Social Appropriateness, and Weather Protection. Choosing the right garments: School (clean uniform, properly fitting undergarments), Sports (breathable sportswear), Formal Events (formal outerwear with appropriate innerwear)."
+                        }
+                    ],
+                    "short_notes": "Inner garments are clothing worn directly on the skin (underwear, bra, vest, socks) while outer garments are worn over inner garments (shirt, dress, jacket, trousers). Choosing the right fabric for inner garments is essential for comfort and skin health. Proper hygiene and maintenance of both inner and outer garments ensure cleanliness and durability. Cultural and religious beliefs may also influence clothing choices.",
+                    "vocabulary": [
+                        {
+                            "term": "Inner Garments",
+                            "definition": "Clothing worn beneath outer garments, in direct contact with the skin, primarily for hygiene, comfort, and modesty."
+                        },
+                        {
+                            "term": "Outer Garments",
+                            "definition": "Clothing worn as the visible layer over inner garments, primarily for protection, style, and cultural or social expression."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 103,
+                        "questions": [
+                            "Match the garment to its correct category (Inner or Outer): T-shirt, Pyjamas, Jacket, Briefs, Raincoat, Bra, Slips, Jeans",
+                            "Which factor is most important when choosing inner garments? a) Weather b) Comfort c) Professional requirements d) Social identity (Answer: b)",
+                            "What factor influences the choice of outer garments the most in cold weather? a) Colour preferences b) Fashion trends c) Weather d) Personal style (Answer: c)",
+                            "Which of the following is a reason for wearing a raincoat? a) To express personal style b) For protection from the rain c) For cultural reasons d) As a fashion statement (Answer: b)",
+                            "True or False: Inner garments should always be washed with outer garments. (False)",
+                            "True or False: Delicate items like bras should be machine washed with the rest of the clothes. (False)",
+                            "What is the purpose of wearing inner garments?",
+                            "Name three types of inner garments and their uses.",
+                            "You have an outdoor event on a cold day. What type of outer garments should you wear?",
+                            "How do cultural and religious beliefs influence the use of inner and outer garments?"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

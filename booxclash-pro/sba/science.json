@@ -1,0 +1,284 @@
+{
+  "curriculum": "Zambia ECZ Science Syllabus (5124) (Grades 10-12)",
+  "grades": [
+    {
+      "grade": 10,
+      "topics": [
+        {
+          "topic": "Physics: 10.1 General Physics",
+          "subtopics": [
+            "10.1.1 International System of Units (SI)",
+            "10.1.2 Length and time",
+            "10.1.3 Mass and weight"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate the use of various measuring instruments (rules, vernier calipers, micrometer screw gauge) to determine length.",
+            "Demonstrate the use of clocks and devices for measuring an interval of time.",
+            "Investigate factors that affect the period of a simple pendulum."
+          ]
+        },
+        {
+          "topic": "Physics: 10.2 Mechanics",
+          "subtopics": [
+            "10.2.1 Linear motion",
+            "10.2.2 Forces",
+            "10.2.3 Moment of Forces",
+            "10.2.4 Work, Energy and Power",
+            "10.2.6 Simple Machines"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate the relationship between force, mass and acceleration.",
+            "Investigate the turning effect of a force (Hooke's Law).",
+            "Demonstrate the use of simple machines to do work."
+          ]
+        },
+        {
+          "topic": "Chemistry: 10.1 Introduction to Chemistry",
+          "subtopics": [
+            "10.1.1 Introduction to Chemistry"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate an appreciation of safety in the laboratory and apply general laboratory safety rules."
+          ]
+        },
+        {
+          "topic": "Chemistry: 10.2 The Particulate Nature of Matter",
+          "subtopics": [
+            "10.2.1 Matter and the Kinetic theory",
+            "10.2.2 Diffusion"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate the changes of states of matter (melting, freezing, boiling, condensation, sublimation).",
+            "Demonstrate the movement of particles (diffusion) in fluids."
+          ]
+        },
+        {
+          "topic": "Chemistry: 10.3 Experimental Techniques",
+          "subtopics": [
+            "10.3.1 Measuring of quantities",
+            "10.3.2 Criteria of purity",
+            "10.3.3 Separating mixtures"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate how different quantities are measured (time, temperature, mass, and volume).",
+            "Identify and safely use measuring apparatus.",
+            "Demonstrate determination of the purity of a substance using melting and boiling points.",
+            "Demonstrate different methods of separating mixtures (decantation, filtration, crystallisation, distillation, magnetism, chromatography).",
+            "Interpret simple paper chromatograms."
+          ]
+        },
+        {
+          "topic": "Chemistry: 10.4 Atoms, Elements, Compounds and Molecules",
+          "subtopics": [
+            "10.4.1 Atomic structure and Periodic Table",
+            "10.4.2 Bonding",
+            "10.4.5 Chemical formulae and equations"
+          ],
+          "practical_and_experimental_content": []
+        }
+      ]
+    },
+    {
+      "grade": 11,
+      "topics": [
+        {
+          "topic": "Physics: 11.3 Thermal Physics",
+          "subtopics": [
+            "11.3.2 Measurement of Temperature",
+            "11.3.3 Expansion of Solids, Liquids and Gases",
+            "11.3.5 Heat transfer by Conduction, Convection and Radiation"
+          ],
+          "practical_and_experimental_content": [
+            "Measure the temperature with thermometers.",
+            "Experiment with the thermal expansion of matter (liquid, solid, gases).",
+            "Demonstrate heat conduction in different substances.",
+            "Demonstrate the uses of bad and good conductors of heat.",
+            "Demonstrate convection in liquids and gases."
+          ]
+        },
+        {
+          "topic": "Physics: 11.4 Wave Motion",
+          "subtopics": [
+            "11.4.3 Electromagnetic Spectrum"
+          ],
+          "practical_and_experimental_content": []
+        },
+        {
+          "topic": "Physics: 11.5 Sound",
+          "subtopics": [
+            "11.5.1 Properties of Sound"
+          ],
+          "practical_and_experimental_content": [
+            "Experiment to determine the speed of sound in air."
+          ]
+        },
+        {
+          "topic": "Physics: 11.6 Light",
+          "subtopics": [
+            "11.6.1 Rectilinear Propagation of Light",
+            "11.6.2 Refraction of Light"
+          ],
+          "practical_and_experimental_content": [
+            "Investigate the reflection and refraction of light.",
+            "Perform experiments to trace the path of light through a glass block and a prism."
+          ]
+        },
+        {
+          "topic": "Physics: 11.7 Magnetism",
+          "subtopics": [
+            "11.7.1 Simple phenomenon of magnetism"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate the making and destroying of magnets.",
+            "Plot magnetic field lines."
+          ]
+        },
+        {
+          "topic": "Chemistry: 11.5 Acids, Bases and Salts",
+          "subtopics": [
+            "11.5.1 Characteristic properties of acids and bases",
+            "11.5.2 Preparation of salts",
+            "11.6.3 Types of oxides",
+            "11.6.4 Identification of ions and gases (Qualitative analysis)"
+          ],
+          "practical_and_experimental_content": [
+            "Investigate the acidity and alkalinity of substances.",
+            "Demonstrate the preparation of salts (soluble and insoluble) by precipitation, reactions of acids with bases, metals, and carbonates.",
+            "Perform qualitative analysis to identify unknown cations, anions, and gases."
+          ]
+        },
+        {
+          "topic": "Chemistry: 11.6 The Mole Concept",
+          "subtopics": [
+            "11.6.1 Relative masses",
+            "11.6.2 The mole"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate acid-base titrations to determine concentration."
+          ]
+        },
+        {
+          "topic": "Chemistry: 11.7 Chemical Reactions",
+          "subtopics": [
+            "11.7.1 Rates of chemical reactions"
+          ],
+          "practical_and_experimental_content": [
+            "Determine the rate of chemical reactions experimentally."
+          ]
+        },
+        {
+          "topic": "Chemistry: 11.8 The Periodic Table",
+          "subtopics": [
+            "11.8.1 Groups and Periods",
+            "11.8.2 Groups and Periodic trends",
+            "11.8.3 Transition metals"
+          ],
+          "practical_and_experimental_content": [
+            "Investigate the physical and chemical properties of transition elements experimentally."
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 12,
+      "topics": [
+        {
+          "topic": "Physics: 12.8 Static Electricity",
+          "subtopics": [
+            "12.8.1 Static Electricity"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate the existence of static charges.",
+            "Explain how to detect electric charges using an electroscope."
+          ]
+        },
+        {
+          "topic": "Physics: 12.9 Current Electricity",
+          "subtopics": [
+            "12.9.1 Electric charge, current, and potential difference",
+            "12.9.2 Electric cells",
+            "12.9.3 Electrical resistance",
+            "12.9.4 Heating effect of an electric current",
+            "12.9.5 Magnetic effects of electric currents"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate how to determine resistance in a simple circuit.",
+            "Measure current and voltage.",
+            "Experiment with the magnetic field patterns of electric currents."
+          ]
+        },
+        {
+          "topic": "Physics: 12.10 Electromagnetic Induction",
+          "subtopics": [
+            "12.10.1 The phenomenon of electromagnetic induction",
+            "12.10.2 The simple A.C. and D.C. generators",
+            "12.10.3 Transformers"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate the phenomenon of electromagnetic induction."
+          ]
+        },
+        {
+          "topic": "Physics: 12.11 Basic Electronics",
+          "subtopics": [
+            "12.11.1 Thermionic emission and electrons"
+          ],
+          "practical_and_experimental_content": [
+            "Investigate properties of cathode rays by using a Cathode Ray Oscilloscope (CRO)."
+          ]
+        },
+        {
+          "topic": "Physics: 12.12 Atomic Physics",
+          "subtopics": [
+            "12.12.1 Nuclear atom",
+            "12.12.2 Radioactivity"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate safety precautions when handling or storing radioactive substances."
+          ]
+        },
+        {
+          "topic": "Chemistry: 12.10 Metals",
+          "subtopics": [
+            "12.10.1 General properties of metals",
+            "12.10.2 Reactivity and Electro Chemical Series",
+            "12.10.3 Alloys",
+            "12.10.4 Corrosion"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate an order of reactivity from a set of experimental results.",
+            "Investigate methods of preventing corrosion."
+          ]
+        },
+        {
+          "topic": "Chemistry: 12.11 Non-Metals",
+          "subtopics": [
+            "12.11.1 General properties of non-metals",
+            "12.11.2 Hydrogen",
+            "12.11.3 Oxygen",
+            "12.11.4 Nitrogen",
+            "12.11.7 Carbon and carbonates"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate the laboratory methods for the preparation, collection, and testing of common gases."
+          ]
+        },
+        {
+          "topic": "Chemistry: 12.12 Organic Chemistry",
+          "subtopics": [
+            "12.12.1 Saturated and unsaturated Hydrocarbons",
+            "12.12.2 Alcohols (Alkanols)",
+            "12.12.3 Carboxylic acids (alkanoic acids)",
+            "12.12.4 Esters (Alkanoates)",
+            "12.12.5 Homologous series",
+            "12.12.6 Macromolecules (Polymers)"
+          ],
+          "practical_and_experimental_content": [
+            "Describe and conduct the chemical tests for unsaturated hydrocarbons (alkenes) using bromine solution.",
+            "Demonstrate the structures of isomers of alkenes using models."
+          ]
+        }
+      ]
+    }
+  ]
+}

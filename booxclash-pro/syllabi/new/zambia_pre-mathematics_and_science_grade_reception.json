@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "4-5 Years",
+    "subject": "Pre-Mathematics and Science",
+    "philosophy": "The Pre-Mathematics and Science syllabus is developed and designed to cater for early learners and focuses on foundational concepts. Pre-Mathematics and Science are two interconnected disciplines that shape our understanding of the world around us. Mathematics provides the language and tools to describe and analyse scientific phenomena, while science provides the context and application for mathematical concepts. This Pre-Mathematics and Science have two sections, namely Section A for 3-4 years and Section B for 4-5 years. The course will provide an engaging and explorative journey designed to spark curiosity, nurture foundational skills, and instill a love for learning in the young minds. In this course, there is recognition of the immense potential within each child and strive to create a dynamic and stimulating environment where they can joyfully discover the wonders of Mathematics and Science. The approach of combining Mathematics and Science in this syllabus is premised on the belief that children are natural-born with a Scientific mind which seeks answers from facts and phenomenal around them. From the moment they begin to explore the world around them, children engage in processes of observation, curiosity, questioning, problem solving, critical thinking and experimentation. Therefore, this syllabus aims to harness and enhance these innate abilities, providing a solid foundation for Science, Technology, Engineering and Mathematics (STEM) education and smooth transition to lower primary.",
+    "competence_learning": "The course will provide an engaging and explorative journey designed to spark curiosity, nurture foundational skills, and instill a love for learning in the young minds. In this course, there is recognition of the immense potential within each child and strive to create a dynamic and stimulating environment where they can joyfully discover the wonders of Mathematics and Science. The approach of combining Mathematics and Science in this syllabus is premised on the belief that children are natural-born with a Scientific mind which seeks answers from facts and phenomenal around them. From the moment they begin to explore the world around them, children engage in processes of observation, curiosity, questioning, problem solving, critical thinking and experimentation. Therefore, this syllabus aims to harness and enhance these innate abilities, providing a solid foundation for Science, Technology, Engineering and Mathematics (STEM) education and smooth transition to lower primary.",
+    "goals": [
+      "Exploring My World",
+      "Understanding my Body",
+      "Exploring the Sky and Seasons",
+      "Understanding Materials",
+      "Exploring Mixtures"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "0.2.1",
+      "topic_title": "EXPLORING MY WORLD",
+      "page_number": 82,
+      "subtopics": [
+        "0.2.1.1 Grouping of Things",
+        "0.2.1.2 Numbering Things"
+      ],
+      "specific_outcomes": [
+        "0.2.1.1.1 Grouping things according to their characteristic",
+        "0.2.1.2.1 Recognise numbers."
+      ]
+    },
+    {
+      "unit": "0.2.1",
+      "topic_title": "EXPLORING MY WORLD",
+      "page_number": 83,
+      "subtopics": [
+        "0.2.1.3 Things in the Surroundings"
+      ],
+      "specific_outcomes": [
+        "0.2.1.3.1 Recognise money",
+        "0.2.1.3.2 Manage waste in everyday life"
+      ]
+    },
+    {
+      "unit": "0.2.2",
+      "topic_title": "UNDERSTANDING MY BODY",
+      "page_number": 84,
+      "subtopics": [
+        "0.2.2.1 The Five Senses"
+      ],
+      "specific_outcomes": [
+        "0.2.2.1.1 Care for parts of the human body associated with the five senses"
+      ]
+    },
+    {
+      "unit": "0.2.3",
+      "topic_title": "EXPLORING THE SKY AND SEASONS",
+      "page_number": 85,
+      "subtopics": [
+        "0.2.3.1 Time and Seasons"
+      ],
+      "specific_outcomes": [
+        "0.2.3.1.1 Tell time by activities of the day"
+      ]
+    },
+    {
+      "unit": "0.2.4",
+      "topic_title": "UNDERSTANDING MATERIALS",
+      "page_number": 85,
+      "subtopics": [
+        "0.2.4.1 Shapes and patterns"
+      ],
+      "specific_outcomes": [
+        "0.2.4.1.1 Create simple shapes"
+      ]
+    },
+    {
+      "unit": "0.2.4",
+      "topic_title": "UNDERSTANDING MATERIALS",
+      "page_number": 86,
+      "subtopics": [
+        "0.2.4.2 Light and Shadows"
+      ],
+      "specific_outcomes": [
+        "0.2.4.1.2 Recognise Sinking and floating objects in the everyday life.",
+        "0.2.4.2.1 Demonstrate how shadows are formed."
+      ]
+    },
+    {
+      "unit": "0.2.5",
+      "topic_title": "EXPLORING MIXTURES",
+      "page_number": 86,
+      "subtopics": [
+        "0.2.5.1 Adding and Subtracting things"
+      ],
+      "specific_outcomes": [
+        "0.2.5.1.1 Use mathematical operations in everyday life",
+        "0.2.5.1.2 Make simple mixtures."
+      ]
+    }
+  ]
+}

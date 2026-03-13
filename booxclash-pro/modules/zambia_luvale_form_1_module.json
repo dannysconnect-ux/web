@@ -1,0 +1,1480 @@
+{
+    "subject": "Luvale",
+    "grade": "Form 1",
+    "term": 2,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "KUSHIMUTWILA (Conversation)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Kulipula Phami (Debate)",
+                    "page": 19,
+                    "competences": [
+                        "Kulipula jiphami hamutwe wachihande vanakuhane.",
+                        "Engage in debates on various topics."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 19,
+                            "hook": "Kutangisa mwana waphwevo kwenyeka mali. Unetava tahi nyi chiku?",
+                            "teacher_steps": [
+                                "Ahane vihande kuli valongi.",
+                                "Guide learners on debate structure (introduction, argumentation, rebuttal, conclusion).",
+                                "Facilitate debate sessions ensuring balanced participation."
+                            ],
+                            "learner_steps": [
+                                "Valipule jiphami.",
+                                "Form debate teams (proposing team, opposing team, judges).",
+                                "Present arguments with supporting evidence.",
+                                "Listen to opposing arguments and formulate rebuttals.",
+                                "Conclude with final statements."
+                            ],
+                            "short_notes": "Kushimutwila chakuhichila mukulipula jiphami chapwa jila imwe yakuhishilamo vishinganyeka vyavalongi. Kulipula jiphami chasakiwa mazavu atatu. Lisavu lyavakakwitavila chihande, likwavo lyavaze vanakuhamika kaha lizavu lyamakumishilo lyapwa lyavachambamilonga."
+                        }
+                    ],
+                    "short_notes": "Kulipula jiphami yapwa jila imwe yakushimutwila ize eji kukafwa vathu vavali chipwe mazavu avali kuhanjika hamitwe yavihande yakulihandununa. Chapwa chuma chakweulula valongi ulemu watwama hakushimutwila.",
+                    "vocabulary": [
+                        {
+                            "term": "Kulipula phami",
+                            "definition": "To debate; formal discussion where opposing arguments are presented"
+                        },
+                        {
+                            "term": "Lisavu",
+                            "definition": "Team/side in a debate"
+                        },
+                        {
+                            "term": "Vachambamilonga",
+                            "definition": "Judges in a debate"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 20,
+                        "questions": [
+                            "Vihande vyavyashi vanalipikilavyo jiphami mujila yakutesamo."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Lumbunwiso yamazu (Vocabulary - Word meanings)",
+                    "page": 21,
+                    "competences": [
+                        "Zachisa mazu akulita naseteko yavo.",
+                        "Use vocabulary correctly according to standard."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.1",
+                            "page": 21,
+                            "hook": "Hula valongi vavuluke miyachi yavaishi vathachikiza",
+                            "teacher_steps": [
+                                "Ahane mazu kuli valongi",
+                                "Alweze valongi kushimutwile lumbunwiso yamazu navahane",
+                                "Alweze valongi kulumbununa mazu",
+                                "Alweze valongi kuzachisa mazu vanashimutwila mukutunga mikuku"
+                            ],
+                            "learner_steps": [
+                                "Vashimutwile mazu akusakula vanavahane kuli mulongeshi",
+                                "Valumbunune mazu",
+                                "Vatunge mikuku kuzachisa mazu vanashimutwila"
+                            ],
+                            "short_notes": "Miyachi yavayishi: Twaminyina valongi kushimutwila nakuvuluka Miyachi yavayishi yakufwana nge tupepe, vakhele, vakhundu, mikunga…"
+                        }
+                    ],
+                    "short_notes": "Lumbunwiso yamazu yapwa kulinangula majina amavulu veji kuzachisanga vathu, kaha majina khana awa akwechi jilumbunwiso yakulihandunuka.",
+                    "vocabulary": [
+                        {
+                            "term": "Tupepe",
+                            "definition": "Clothing items"
+                        },
+                        {
+                            "term": "Vakhele",
+                            "definition": "Types of people/relatives"
+                        },
+                        {
+                            "term": "Vakhundu",
+                            "definition": "Body parts"
+                        },
+                        {
+                            "term": "Mikunga",
+                            "definition": "Tools/implements"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 21,
+                        "questions": [
+                            "Hana lumbunwiso yamazu vanakuhane",
+                            "Zachisa mazu vanakuhane kutunga mikuku",
+                            "Hana lumbunwiso yamazu kweseka najila vanawazachishilamo mumikuku"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "Kutanga Nakwivwishisa (Reading with Comprehension)",
+                    "page": 22,
+                    "competences": [
+                        "Kutanga nakwivwishisa mikanda yakulihandununa kweseka naseteko yavo.",
+                        "Read and comprehend different types of texts according to standard."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.1",
+                            "page": 22,
+                            "hook": "Tanga chimbwa chamujimbu nakulamuna kaha hula valongi vambulule chihande chivene chili muchimbwa unatange",
+                            "teacher_steps": [
+                                "Alweze valongi vatange mikanda",
+                                "Lweza valongi vakumbulule vihula",
+                                "Alweze valongi vahihise mujimbu vanatange",
+                                "Alweze valongi kusononona mijimbu vanatange",
+                                "Alweze valongi vashimutwile lumbunwiso yamazu"
+                            ],
+                            "learner_steps": [
+                                "Vatange mijimbu",
+                                "Vakumbulule vihula vyamiyachi yakulihanduna",
+                                "Vahihise mujimbu vanatange",
+                                "Vasononone mijimbu vanatange",
+                                "Vashimutwile lumbunwiso yamazu"
+                            ],
+                            "short_notes": "Chapwa kutanga mujimbu kanawa chakuzeneka kukikichila. Cheji kukafwa vakakutanga kwivwishisa mujimbu vanakutanga. Vatela kutanga nakulamuna. Valongi vatela kutangila helu. Vatela kutanga washi-washi."
+                        }
+                    ],
+                    "short_notes": "KUSHIMUTWILA: Kushimutwila chawahila nge muli muvavali chipwe muvavulu. Muthu umwe kuhasa kushimutwila ukha wenyi chiku. Kushimutwila mujila yamwenemwene cheji kutunga usendo nakukafwa vathu kulipangila vishinganyeka vyavo navakwavo chipwe navathu veka vaze kawalithachikiza navoko.",
+                    "vocabulary": [
+                        {
+                            "term": "Kwivwishisa",
+                            "definition": "To comprehend/understand"
+                        },
+                        {
+                            "term": "Kushimutwila",
+                            "definition": "To converse/discuss"
+                        },
+                        {
+                            "term": "Kulipangila",
+                            "definition": "To share ideas"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 24,
+                        "questions": [
+                            "Kumbulula vihula vyamiyachi yakulihandununa kufuma hamujimbu"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4",
+                    "title": "Kutangila helu (Fluent Reading)",
+                    "page": 25,
+                    "competences": [
+                        "Kutanga nakulamuna miyachi yamikanda yaseteko yavo yakulisezaseza",
+                        "Read fluently various texts according to standard"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.1",
+                            "page": 25,
+                            "hook": "Mulongeshi asoneke mukuku halivaya nakulweza longi umwe atange uze mukuku helu",
+                            "teacher_steps": [
+                                "Alweze valongi vatangile helu, washi-washi nakulamuna",
+                                "Alweze valongi kukumbulula vihula mukuhanjika"
+                            ],
+                            "learner_steps": [
+                                "Vatangile helu, washi-washi nakulamuna",
+                                "Vakumbulule vihula mukuhanjika"
+                            ],
+                            "short_notes": "Kutanga nakulamuna: Chapwa kutanga mujimbu kanawa chakuzeneka kukikichila. Cheji kukafwa vakakutanga kwivwishisa mujimbu vanakutanga. Vatela kutanga nakulamuna. Valongi vatela kutangila helu. Vatela kutanga washi-washi."
+                        }
+                    ],
+                    "short_notes": "Kutangila helu nakulamuna chapwa uhashi wakumanyi mujila ize valongi vanahase kwitavisa nawa kutanga mikanda yakulihandununa shipwe kuswikako.",
+                    "vocabulary": [
+                        {
+                            "term": "Kutangila helu",
+                            "definition": "To read fluently/smoothly"
+                        },
+                        {
+                            "term": "Kulamuna",
+                            "definition": "To read correctly with proper pronunciation"
+                        },
+                        {
+                            "term": "Washi-washi",
+                            "definition": "Quickly/rapidly"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 25,
+                        "questions": [
+                            "Hana mujimbu kuli valongi vatangile helu nakulamuna",
+                            "Hula valongi valumbunune ovyo vanatange"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.5",
+                    "title": "Chambulwilo (Narrative Writing)",
+                    "page": 26,
+                    "competences": [
+                        "Soneka kwambulula chakutaka",
+                        "Write narrative compositions (fiction)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.5.1",
+                            "page": 26,
+                            "hook": "Hana mapapilo amivwimbimbi uhule valongi mijimbu vanahase kwambulula hamivwimbimwbi vene ize",
+                            "teacher_steps": [
+                                "Alweze valongi kushimutwila tuthachikijilo nawalo wachambulwilo chakutaka nechi chamuchano",
+                                "Lweza valongi vahandunune kwambulula chakutaka nakwambulula chamuchano",
+                                "Alweze valongi kusoneka chaulo chachambulwilo (kutaka)"
+                            ],
+                            "learner_steps": [
+                                "Vashimutwile tuthachikijilo nawalo wachambulwilo chakutaka nechi chamuchano",
+                                "Vahandunune kwambulula chakutaka nakwambulula chamuchano",
+                                "Vasoneke chaulo chachambulwilo (kutaka)"
+                            ],
+                            "short_notes": "Chambulwilo chapwa chaulo chambulula chipwe kwaula mijimbu yamuchano chipwe mijimbu yakutaka. Chaulo echi chatela kupwa na mutwe wachihande. Mukwambulula, sakula kuzachisa vathu, tunyama, vaishi chipwe majina amitondo aze nausaka apwenga mumujimbu wove."
+                        }
+                    ],
+                    "short_notes": "Kwambulula mijimbu chapwa chuma chakumanyi mujila ize muthu eji kuhasa kutaka chipwe kwambulula mijimbu yamuchano. Mitwe yavihande imwe ikwechi lumbunwiso yakujimina neyi yaheluhelu.",
+                    "vocabulary": [
+                        {
+                            "term": "Chambulwilo",
+                            "definition": "Narrative/story telling"
+                        },
+                        {
+                            "term": "Kwambulula chakutaka",
+                            "definition": "To write fiction/imaginary stories"
+                        },
+                        {
+                            "term": "Kwambulula chamuchano",
+                            "definition": "To write non-fiction/factual stories"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Hula valongi vambulule mijimbu yamukanwa",
+                            "Hula valongi vasoneke mijimbu yamuchano namijimbu yakutaka"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.6",
+                    "title": "Walo Wamajina (Types of Nouns)",
+                    "page": 28,
+                    "competences": [
+                        "Lumbununa walo wamajina",
+                        "Explain types of nouns"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.6.1",
+                            "page": 28,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lweza valongi vashimutwile walo wamajina",
+                                "Alweze valongi kuhandununa majina muvihanda vyawo (kaputu nashina)"
+                            ],
+                            "learner_steps": [
+                                "Vashimutwile walo wamajina",
+                                "Vahandunune majina muvihanda vyawo (kaputu nashina)"
+                            ],
+                            "short_notes": "Majina apwa mazu aze tweji kuzachisanga kuluka chipwe kuvuluka vyuma. Majina akwechi vihanda vivali; kaputu nashina. Kaputu kakwechi mulimo wako kaha shina nawa ikwechi mulimo wayo."
+                        }
+                    ],
+                    "short_notes": "Kaputu veji kukazachisa kusolola kukeha, kuvula hohamwe nakalemesa. Shina veji kuyisoneka kuputuka nakamukila kamufunda kunyima yacho kulumbununa nge kuli chimbwa chalizu vanahase kuhakako.",
+                    "vocabulary": [
+                        {
+                            "term": "Lijina",
+                            "definition": "Noun"
+                        },
+                        {
+                            "term": "Kaputu",
+                            "definition": "Prefix (in noun structure)"
+                        },
+                        {
+                            "term": "Shina",
+                            "definition": "Root/stem (in noun structure)"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 29,
+                        "questions": [
+                            "Hula valongi vashimutwile walo wamajina",
+                            "Hula valongi vahandunune majina muvihanda"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.7",
+                    "title": "Tushilikilo (Riddles)",
+                    "page": 29,
+                    "competences": [
+                        "Zachisa tushilikilo",
+                        "Use riddles appropriately"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.1",
+                            "page": 29,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alweze valongi kushimutwila lumbunwiso nazachiso yatushilikilo",
+                                "Lweza valongi vahake tushilikilo mumazavu kweseka namulimo watwo",
+                                "Lweza valongi vatombole tushilikilo twakuzachisa mujila jimwe",
+                                "Alweze valongi vatombole jila jakulisezaseza jakuzachishilamo tushilikilo tumwe"
+                            ],
+                            "learner_steps": [
+                                "Vashimutwile lumbunwiso nazachiso yatushilikilo",
+                                "Vahake tushilikilo mumazavu kweseka namulimo watwo",
+                                "Vatombole tushilikilo twakuzachisa mujila jimwe",
+                                "Vatombole jila jakulisezaseza jakuzachishilamo tushilikilo tumwe"
+                            ],
+                            "short_notes": "Tushilikilo twapwa hanjikiso yakujimina. Mazu veji kuzachisanga mutushilikilo akwechi lumbununwiso yacho yakulihandunuka nakulumbunwiso yakashilikilo kaze."
+                        }
+                    ],
+                    "short_notes": "TUSHILIKILO: Tushilikilo twapwa hanjikiso yakujimina. Mazu veji kuzachisanga mutushilikilo akwechi lumbununwiso yacho yakulihandunuka nakulumbunwiso yakashilikilo kaze.",
+                    "vocabulary": [
+                        {
+                            "term": "Tushilikilo",
+                            "definition": "Riddles"
+                        },
+                        {
+                            "term": "Kashilikilo",
+                            "definition": "A single riddle"
+                        },
+                        {
+                            "term": "Hanjikiso yakujimina",
+                            "definition": "Figurative language"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 30,
+                        "questions": [
+                            "Shimutwila zachiso nalumbunwiso yatushilikilo",
+                            "Handununa tushilikilo kweseka nazachiso yatwo",
+                            "Hana jila jimwe kulivalongi uvahule tushilikilo vatela kuzachisa",
+                            "Hana tushilikilo tumwe kuli valongi uvahule jila vazachishilamo tushilikilo khana vaze"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.8",
+                    "title": "Jijila Jakwalumwinamo Mujimbu (Translation Methods)",
+                    "page": 31,
+                    "competences": [
+                        "Kuzachisa jijila jakwalumwinamo mijimbu kufuma mu English nakutwala mu Luvale chipwe kufumisa mu Luvale nakutwala mu English"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.8.1",
+                            "page": 31,
+                            "hook": "Longi umwe ahanjike mukuku mulilimi limwe kaha vakwavo valumune uze mukuku mulilimi likwavo",
+                            "teacher_steps": [
+                                "Alweze valongi valumune mujimbu kweseka najila jakwalumwinamo"
+                            ],
+                            "learner_steps": [
+                                "Navalumuna mujimbu kweseka najila yakwalumwinamo"
+                            ],
+                            "short_notes": "Atela kweulula valongi hajijila jakwalumwinamo mujimbu. Anukisa valongi kwanuka jila jakwalumwinamo mujimbu."
+                        }
+                    ],
+                    "short_notes": "Kwalumuna mujimbu chapwa chuma chakumanyi ize muthu eji kutwalanga mazu kufuma mulilimi limwe nakulitwala mulilimi likwavo, chikumanyi ngana ngwenyi lumbunwiso yamujimbu kainalumbuka.",
+                    "vocabulary": [
+                        {
+                            "term": "Kwalumuna",
+                            "definition": "To translate"
+                        },
+                        {
+                            "term": "Jijila jakwalumwinamo",
+                            "definition": "Translation methods/techniques"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 31,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "MIJIMBU (Stories)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Mijimbu Yakutaka (Fiction Stories)",
+                    "page": 32,
+                    "competences": [
+                        "Jimbula mijimbu yakutaka hamitwe yavihande vanakuhane",
+                        "Hunanana hamijimbu [yakutaka]"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.1",
+                            "page": 32,
+                            "hook": "Mbwanda na kapeza valikwachile usepa, ukalu muka walingishile uze usepa wavo ufwenga?",
+                            "teacher_steps": [
+                                "Alweze valongi vahandunune mijimbu yakutaka neyi yamuchano",
+                                "Lweza valongi vambulule mijimbu yakutaka",
+                                "Lweza valongi vambulule mijimbu yamuchano",
+                                "Lweza valongi tuthachikijilo nasonekelo ya mijimbu",
+                                "Alweze valongi vahunanane hanganyo yamijimbu"
+                            ],
+                            "learner_steps": [
+                                "Vahandunune mijimbu yakutaka neyi yamuchano",
+                                "Vambuluke mijmbu yakutaka",
+                                "Vambulule mijimbu yamuchano",
+                                "Vatombole tuthachikijilo nasonekelo ya mijimbu",
+                                "Vahunanane hanganyo yamijimbu"
+                            ],
+                            "short_notes": "Mijimbu yakutaka yapwa vishinganyeka vize mwahana muthu vyakuzeneka kupwa naunjiho hamwe nahane mujimbu wahafuma chiselele kulijinda na kasumbi. Mijimbu yangana yeji kunangula vathu kukwachilako mangana."
+                        }
+                    ],
+                    "short_notes": "Kwambula mijimbu yapwa jila imwe ize vathu vechi kulinangwilangamo vyuma vyakulisezaseza mukatwamino kavo. Kuli mijimbu yakusoneka namijimbu yakuhanjika mukanwa. Mijimbu yapwa mumiyachi ivali, kuli mijimbu yakutaka namijimbu yamuchano.",
+                    "vocabulary": [
+                        {
+                            "term": "Mijimbu yakutaka",
+                            "definition": "Fiction stories/imaginative narratives"
+                        },
+                        {
+                            "term": "Mijimbu yamuchano",
+                            "definition": "Non-fiction stories/factual narratives"
+                        },
+                        {
+                            "term": "Kwambulula",
+                            "definition": "To narrate/tell a story"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 34,
+                        "questions": [
+                            "Vahandunune mijimbu",
+                            "Vambulule mijimbu yakutaka",
+                            "Vambulule mijimbu ya muchano",
+                            "Vatombole tuthachikijilo nasonekelo ya mijimbu"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Kulumbununa Mazu (Explaining Word Meanings)",
+                    "page": 35,
+                    "competences": [
+                        "Zachisa mazu akulita naseteko yavo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.1",
+                            "page": 35,
+                            "hook": "Hula valongi vawane lizu lyalifwana na musenge",
+                            "teacher_steps": [
+                                "Lweza valongi vashimutwile lumbunwiso yamazu vanasakula",
+                                "Lweza valongi vahane lumbunwiso yamazu",
+                                "Lweza valongi vazachise mazu akusakula mumikuka"
+                            ],
+                            "learner_steps": [
+                                "Vashimutwile lumbunwiso yamazu",
+                                "Vahane lumbunwiso yamazu",
+                                "Vazachise mazu akusakula mumikuku"
+                            ],
+                            "short_notes": "Lweza valongi vashimutwile lumbunwiso ya mazu. Lweza valongi vahane lumbunwiso ya mazu. Lweza valongi vazachise lumbunwiso ya mazu mumikuku."
+                        }
+                    ],
+                    "short_notes": "Kulumbununa mazu chapwa chuma chakumanyi ize muthu eji kuhana lumbunwiso yamazu kaha nalilingiso lyamazu nanavuluka.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 36,
+                        "questions": [
+                            "Vashimutwile lumbunwiso mumikuku",
+                            "Vahane lumbunwiso mumukuku",
+                            "Vazachise lumbunwiso mumikuku"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "Kutanga Chakujimina (Intensive Reading)",
+                    "page": 37,
+                    "competences": [
+                        "Kutanga nakwivwishisa mujimbu kweseka naseteko yavo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3.1",
+                            "page": 37,
+                            "hook": "Lweza valongi vatange chimbwa chamujimbu washiwashi. Hula valongi vihula kweseka nachimbwa vanatange",
+                            "teacher_steps": [
+                                "Lweza valongi vatange mijimbu chipwe mikanda yaseteko yavo",
+                                "Lweza valongi vakumbulule vihula vyakulisezaseza",
+                                "Lweza valongi kuhihisa mujimbu",
+                                "Alweze valongi vasononone mijimbu vanatange",
+                                "Alweze valongi vashimutwile lumbunwiso yamazu"
+                            ],
+                            "learner_steps": [
+                                "Vatange nakwvishisa mikanda yaseteko yavo",
+                                "Vakumbulule vihula vyakulisezaseza",
+                                "Vahihise mujimbu vanatange",
+                                "Vasononone mijimbu vanatange",
+                                "Vashimutwile lumbunwiso yamazu"
+                            ],
+                            "short_notes": "Vatange vimbwa vyamujimbu. Vakumbulula vihula vyakulihandununa. Valihilise chipwe kusononona mijimbu. Vashimutwile lumbunwiso yamazu."
+                        }
+                    ],
+                    "short_notes": "KUMYAKA YAKUNYIMA: Kumyaka yakunyima vathu vanashimutwilanga navathu vakwakusuku mujijila jekha najekha, mumafuchi amavulu. Vathu vanazachisanga jijila jakulihandununa jakutuminangamo mijimbu.",
+                    "vocabulary": [
+                        {
+                            "term": "Kutanga chakujimina",
+                            "definition": "Intensive reading/detailed reading"
+                        },
+                        {
+                            "term": "Kwivwishisa",
+                            "definition": "To comprehend/understand deeply"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 39,
+                        "questions": [
+                            "Vakumbulule vihula mwavahulisa mulongeshi"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.4",
+                    "title": "Kutanga Chakutanduuka (Extensive Reading)",
+                    "page": 40,
+                    "competences": [
+                        "Kutanga mikanda yakweseka naseteko yavo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.1",
+                            "page": 40,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alweze valongi vatange mikanda yakulisezaseza",
+                                "Lweza valongi vasononone mujimbu vanatange mukuhanjika"
+                            ],
+                            "learner_steps": [
+                                "Vatange mikanda yakulisezaseza",
+                                "Vasononone mujimbu"
+                            ],
+                            "short_notes": "Valongi vatange mikanda yaseteko yavo yakulihandununa. Kuhihisa mujimbu vanatange mukuhanjika."
+                        }
+                    ],
+                    "short_notes": "Kutanga chakutanduuka chapwa kutanga mikanda yayinene yakulihandununa mangana longi ahase kupwa nachinyingi chakumanya nakukumbulula hakulita.",
+                    "vocabulary": [
+                        {
+                            "term": "Kutanga chakutanduuka",
+                            "definition": "Extensive reading/wide reading"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 41,
+                        "questions": [
+                            "Valongi vatange mijimbu yakulisezaseza mujila yakutesamo",
+                            "Valongi vahihise mijimbu vanatange mukuhanjika mujila yakutesamo"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.5",
+                    "title": "Kuhihisa mujimbu muchimbwa (Summarizing in a paragraph)",
+                    "page": 41,
+                    "competences": [
+                        "Kuhihisa mijimbu yayihi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.5.1",
+                            "page": 41,
+                            "hook": "Hana mapapilo amujimbu kuli valongi vatange kaha vawaneho mutwe wachihande",
+                            "teacher_steps": [
+                                "Alweze valongi vashimutwile tuthachikijilo twamujimbu muchimbwa",
+                                "Alweze valongi vatombole mazu amalemu ali mumujimbu wakusoneka",
+                                "Alweze valongi kuhihisa mujimbu muchimbwa"
+                            ],
+                            "learner_steps": [
+                                "Vashimutwile tuthachikijilo twamujimbu muchimbwa",
+                                "Vatombole mazu amalemu ali mumujimbu",
+                                "Vahihise mujimbu muchimbwa"
+                            ],
+                            "short_notes": "Zamikisa mwakusonekela vimbwa vyamazu. Lweza valongi vasoneke vimbwa muwihi. Lweza valongi kusononona vimbwa."
+                        }
+                    ],
+                    "short_notes": "Kuhihisa mujimbu muchimbwa chapwa chuma chakumanyi ize muthu eji kutongolanga vyuma vyavivene vili mumujimbu nakuvihihisanga muchimbwa chimwe shipwe vimbwa vyechi.",
+                    "vocabulary": [
+                        {
+                            "term": "Kuhihisa",
+                            "definition": "To summarize/condense"
+                        },
+                        {
+                            "term": "Chimbwa",
+                            "definition": "Paragraph"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 42,
+                        "questions": [
+                            "Hula valongi kushimutwila tuthachikijilo mwakuhihishila chamijimbu muchimbwa",
+                            "Valongi vatombole visonejeka vyavilemu na kuvihihisa muchimbwa"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.6",
+                    "title": "Miyachi Ya Tujina (Types of Pronouns)",
+                    "page": 43,
+                    "competences": [
+                        "Kuzachisa miyachi yatujina"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.6.1",
+                            "page": 43,
+                            "hook": "Kachopo ikhiye evanga kasumbi ka Nyakayombo. Lizu lya 'ikhiye' linemanyina chuma muka?",
+                            "teacher_steps": [
+                                "Lweza valongi vashimutwile lumbunwiso nazachiso yatujina",
+                                "Lweza valongi vatombole miyachi yatujina vejiva",
+                                "Alweze valongi vazachise miyachi yatujina vakulihandununa mumikuku"
+                            ],
+                            "learner_steps": [
+                                "Vashimutwile lumbunwiso na zachiso yatujina",
+                                "Vatombole miyachi yatujina",
+                                "Vazachise miyachi yatujina vakulihandununa mumikuku"
+                            ],
+                            "short_notes": "Kajina muthu: lyapwa lizu lyeji kwiminyinangako lijina lyamuthu. Chinjikizo: ikhiye, vakhiko, tukhiko. Kajina Panjiko: Lyapwa lizu lyemanyinako vyuma vyapandama kuli mwenyavyo. Chinjikizo: Chami, chenyi, chavo. Kajina Inyikiso: Lyapwa lizu lyeji kwinyikanga chuma chipwe vyuma. Chinjikizo: Ou, uze, ovo"
+                        }
+                    ],
+                    "short_notes": "Tujina twapwa mazu aze tweji kuzachisanga mushipwe lya majina. Tukwechi miyachi itatu: Kajina muthu (personal pronoun), Kajina panjiko (possessive pronoun), Kajina inyikiso (demonstrative pronoun).",
+                    "vocabulary": [
+                        {
+                            "term": "Kajina muthu",
+                            "definition": "Personal pronoun"
+                        },
+                        {
+                            "term": "Kajina panjiko",
+                            "definition": "Possessive pronoun"
+                        },
+                        {
+                            "term": "Kajina inyikiso",
+                            "definition": "Demonstrative pronoun"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 44,
+                        "questions": [
+                            "Vashimutwile lumbunwiso nazachiso yatujina mujila yakwoloka",
+                            "Vatombole miyachi yatujina vakulisezaseza",
+                            "Vazachise miyachi yatujina vakulisezaseza mukutunga mikuku"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.7",
+                    "title": "Vishimo (Similes)",
+                    "page": 45,
+                    "competences": [
+                        "Zachisa vishimo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.7.1",
+                            "page": 45,
+                            "hook": "Hula valongi vatongole vishimo vejiva nakuvilumbununa",
+                            "teacher_steps": [
+                                "Alweze valongi vashimutwile lumbunwiso nazachiso yavishimo",
+                                "Alweze valongi vahandunune vishimo kweseka nauhashi wazachiso yacho",
+                                "Alweze valongi vatombole vishimo vyakwoloka vize vyatela kuzachisa mujila jakulisezaseza",
+                                "Alweze valongi vatombole jijila jakwoloka jakutela kuzachishilamo vishimo vimwe"
+                            ],
+                            "learner_steps": [
+                                "Vashimutwile lumbunwiso nazachiso yavishimo",
+                                "Vahandunune vishimo kweseka nauhashi wazachiso yacho",
+                                "Vatombole vishimo vyakwoloka vize vyatela kuzachisa mujila jakulisezaseza",
+                                "Vatombole jijila jakwoloka jakutela kuzachishilamo vishimo vimwe"
+                            ],
+                            "short_notes": "Vashimutwile lumbunwiso ya vishimo na zachiso yacho. Vahandunune vishimo kweseka na uhashi nazachiso yacho. Vatombole vishimo. Vatombole jijila jakwoloka muze jatelela kujizachishilamo."
+                        }
+                    ],
+                    "short_notes": "Vishimo vyapwa hanjikiso yakujimina ize veji kulumbununanga vyuma vivali vize nge vyaliwana vyakuzeneka kulihandununa. Vishimo veji kuzachisanga mazu aze afu nge 'nge' chipwe 'nawa'.",
+                    "vocabulary": [
+                        {
+                            "term": "Vishimo",
+                            "definition": "Similes"
+                        },
+                        {
+                            "term": "Hanjikiso yakujimina",
+                            "definition": "Figurative language"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 46,
+                        "questions": [
+                            "Valongi navatombola nakuhandununa na kweseka na uhashi nazachiso yacho"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "CHIYULO (Governance)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Chivwasano (Dialogue)",
+                    "page": 48,
+                    "competences": [
+                        "Zachisa lilimi lyakwoloka nakushimutwila havyuma vinakusefuka mungalila (Chiyulo)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.1",
+                            "page": 48,
+                            "hook": "Chihandwa muka chili mukachi kachiyulo chavamyangana nachiyulo chafulumende?",
+                            "teacher_steps": [
+                                "Alweze valongi vashimutwile khala chihande",
+                                "Alweze valongi vambulule vyuma vanawane"
+                            ],
+                            "learner_steps": [
+                                "Vashimutwile khala chihande",
+                                "Vambulule vyuma vanawane"
+                            ],
+                            "short_notes": "Kulivwasana (Dialogue) chapwa kushimutwila chavathu vavali chipwe mazavu avathu avali. Kushimutwila (Conversation) chapwa kuhanjika mukachi kavathu vavali chipwe vavavulu."
+                        }
+                    ],
+                    "short_notes": "Chiyulo chinapu jila imwe ize yakuyulilamo vathu. Chiyulo cheji kusolokanga kuzuvo yamuthu, kumashikola, nakumilimo ikwavo yafulumende. Chinahase kupwa chiyulo chamwaza chipwe chachipi.",
+                    "vocabulary": [
+                        {
+                            "term": "Chiyulo",
+                            "definition": "Governance/leadership"
+                        },
+                        {
+                            "term": "Chivwasano",
+                            "definition": "Dialogue/discussion between two parties"
+                        },
+                        {
+                            "term": "Kushimutwila",
+                            "definition": "To converse/talk among many people"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 49,
+                        "questions": [
+                            "Hula valongi vashimutwile hamutwe wachiyulo",
+                            "Hula valongi vambulule vyuma vanawane mukushimutwila chavo"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "Lumbunwiso Yamazu (Word Meanings - Governance Context)",
+                    "page": 50,
+                    "competences": [
+                        "Zachisa mazu kweseka naseteko yavalongi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.1",
+                            "page": 50,
+                            "hook": "Lijina lyamatemo lyalumbunuka ika?",
+                            "teacher_steps": [
+                                "Alweze valongi vashimutwile halumbunwiso yamazu akusakula",
+                                "Alweze valongi vahane lumbunwiso yamazu",
+                                "Alweze valongi vazachise mazu vanasakula mumikuku"
+                            ],
+                            "learner_steps": [
+                                "Vashimutwile halumbunwiso yamazu akusakula",
+                                "Vambulule lumbunwiso yamazu",
+                                "Vazachise mazu vasakula mumikuku"
+                            ],
+                            "short_notes": "Lumbunwiso yamajina mu luvale: Muchisemwa cha luvale mwatwama majina amavulu vechi kuzachisanga vathu, kaha majina khana awa akwechi jilumbunwiso."
+                        }
+                    ],
+                    "short_notes": "Majina akulembununa hachiyulo: Kusesa - Kuze kwaliwanyina chana namusenge, Thangu - Ishi wakavanga kukwata muliyanga chipwe kwoza muchichelo hawalilo, Jimbu - Mujimbu wakufwa, Matemo - Mali chipwe vimuna eji kufwetanga kauko kuli vakaphwevo, Lisano - Phwevo lya mwangana",
+                    "vocabulary": [
+                        {
+                            "term": "Kusesa",
+                            "definition": "Court case/lawsuit"
+                        },
+                        {
+                            "term": "Thangu",
+                            "definition": "Jail/prison"
+                        },
+                        {
+                            "term": "Jimbu",
+                            "definition": "Funeral ceremony"
+                        },
+                        {
+                            "term": "Matemo",
+                            "definition": "Dowry/bride price"
+                        },
+                        {
+                            "term": "Lisano",
+                            "definition": "Chief's council"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 51,
+                        "questions": [
+                            "Hula valongi vashimutwile hamajina akwechi lumbunwiso mu luvale",
+                            "Hula valongi vazachise majina nakutunga mikuku"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.3",
+                    "title": "Kutanga nakwivwishisa - KUSEMA",
+                    "page": 52,
+                    "competences": [
+                        "Kutanga nakwivwishisa mikanda yakulihandununa kweseka naseteko yavo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.3.1",
+                            "page": 52,
+                            "hook": "Hula valongi vavuluke vyuma vatela kukavangiza navyuma kavetela kulingako nge vali nakutanga?",
+                            "teacher_steps": [
+                                "Lweza valongi vatange mujimbu",
+                                "Lweza valongi vakumbulule vihula vyakulisezaseza",
+                                "Lweza valongi vahihise mujimbu vanatange",
+                                "Alweze valongi vasononone mijimbu vanatange",
+                                "Alweze valongi vashimutwile lumbunwiso yamazu"
+                            ],
+                            "learner_steps": [
+                                "Vatange mujimbu",
+                                "Vakumbulule vihula vyakulisezaseza",
+                                "Vahihise mujimbu vanatange",
+                                "Vasononone mijimbu vanatange",
+                                "Vashimutwile lumbunwiso yamazu"
+                            ],
+                            "short_notes": "KUSEMA: Kusema chapwa chachilemu kweseka nachisemwa cha luvale. Oloze mama lelo tunawane nge vathu vamwe vanachituchila shimbu kanda vahete nahaseteko yakumona ngwavo vanahase kulela uze mwana chipwe vaze vana."
+                        }
+                    ],
+                    "short_notes": "Kusema kachapwa chuma chakulahila kuli muthuko mwomwo mwana eji kutondewanga vyuma vyavivulu kufuma hakusemuka chenyi swi-i nomu mwaheta haseteko yakulimanyina. Muthu nahase kusema nakulela mwana chipwe vana shina uze nathachikiza jijila jamwenemwene jakuwanynamo jimbongo.",
+                    "vocabulary": [
+                        {
+                            "term": "Kusema",
+                            "definition": "To raise/bring up a child"
+                        },
+                        {
+                            "term": "Jimbongo",
+                            "definition": "Money/resources"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 54,
+                        "questions": [
+                            "Kumbulula vihula vyamiyachi yakulihandununa kufuma hamujimbu",
+                            "Hula valongi vambulule mujimbu vanatange muwihi"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.4",
+                    "title": "Otombayongilafu (Autobiography)",
+                    "page": 55,
+                    "competences": [
+                        "Kusoneka chaulo cha otombayongilafu"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.4.1",
+                            "page": 55,
+                            "hook": "Hula longi ambulule chiyoyelo chenyi mulwola lwalundende",
+                            "teacher_steps": [
+                                "Alweze valongi vashimutwile walo natuthachikijilo twa otombayongilafu",
+                                "Alweze valongi kwambululu otombayongilafu mukuhanjika",
+                                "Alweze valongi kusoneka otombayongilafu"
+                            ],
+                            "learner_steps": [
+                                "Vashimutwile walo natuthachikijilo twa otombayongilafu",
+                                "Vambulule otombayongilafu mukuhanjika",
+                                "Vasoneke otombayongilafu"
+                            ],
+                            "short_notes": "Otombayongilafu chapwa chaulo chakusoneka chiyoyelo chamuthu kuli yavene. Kuzachisa tujina twakuvuluka muthu livene uze nakusoneka chaulo chize twakufwana nge, ngwa-, yami, ami. Kusoneka chiyoyelo kuputuka navyuma vyalivangile nakukumisa navyamakumishilo."
+                        }
+                    ],
+                    "short_notes": "Walo: Mutwe wachihande(kusoneka lijina lyove muvasona vavanene), Kujimbula: lijimbule yoveya kaha namwomwo ika unakusonekela hachiyoyelo chove, Unyike: kusemuka chove, thanga yove nachiyoyelo chaunyike, Shikola: mashikola watangililileko, masepa jove vahamuchima, milongeshi vakutangishile najindongi wazangile chikuma, Maukalu navyuma wahashile, Kukhukulula: vuluka vyuma walinangula muchiyoyelo chove navyuma wakufwila kulinga kulutwe.",
+                    "vocabulary": [
+                        {
+                            "term": "Otombayongilafu",
+                            "definition": "Autobiography"
+                        },
+                        {
+                            "term": "Chiyoyelo",
+                            "definition": "Life/life story"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 56,
+                        "questions": [
+                            "Vashimutwile walo natuthachikijilo twa otombayongilafu",
+                            "Vambulule otombayongilafu mukuhanjika",
+                            "Vasoneke otombayongilafu"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.5",
+                    "title": "Miyachi yajilingiso (Types of Adverbs)",
+                    "page": 57,
+                    "competences": [
+                        "Zachisa jilingiso jakulisezaseza"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.5.1",
+                            "page": 57,
+                            "hook": "Mama angulwezanga kuhiluka kwimbo washi. Lizu muka mumukuku omu linemanyinako lingiso?",
+                            "teacher_steps": [
+                                "Alweze valongi kulumbununa lumbunwiso namilimo yajilingiso",
+                                "Alweze valongi kutombola miyachi yajilingiso (jilingiso jalwola, jilingiso jaseteko, jilingiso jasolokelo, jilingiso jamaphapa najilingiso jachihela)",
+                                "Alweze valongi kuhandununa jilingiso kweseka namiyachi yajo",
+                                "Alweze valongi kutunga mikuku kuzachisa miyachi yajilingiso"
+                            ],
+                            "learner_steps": [
+                                "Valumbunune lumbunwiso namilimo yajilingiso",
+                                "Vatombole miyachi yajiliingiso jakufwana nge (jilingiso jalwola, jilingiso jaseteko, jilingiso jasolokelo, jilingiso jamaphapa najilingiso jachihela)",
+                                "Vahandunune jilingiso kweseka namiyachi yajo",
+                                "Vatunge mikuku kuzachisa miyachi yajilingiso"
+                            ],
+                            "short_notes": "Lingiso: Lyapwa lizu lyeji kutuhananga unjiho wauvulu halingo, kalumbunwiso chipwe lingiso ikwavo. Tukwechi miyachi yajilingiso yakufwana nge jilingiso jalwola, jilingiso jaseteko, jilingiso jasolokelo, jilingiso jamaphapa najilingiso jachihela."
+                        }
+                    ],
+                    "short_notes": "Jilingiso jalwola: Jechi kutulweza lwola nachisolokela chipwe kulingiwa chuma. Jilingiso jaseteko: Jechi kulumbununaomu chuma nachilingiwa. Jilingiso jasolokelo: Jechi kulumbununa omu cheji kusolokelangamo chuma. Jilingilo jamaphapa: japwa jakusolola kuvula chipwe maphapa nachingiwa chuma. Jilingiso jachihela: Jechi kwinyika okwo kunalingiwila chuma chipwe kunasolokela vyuma.",
+                    "vocabulary": [
+                        {
+                            "term": "Jilingiso jalwola",
+                            "definition": "Adverbs of time"
+                        },
+                        {
+                            "term": "Jilingiso jaseteko",
+                            "definition": "Adverbs of degree"
+                        },
+                        {
+                            "term": "Jilingiso jasolokelo",
+                            "definition": "Adverbs of manner"
+                        },
+                        {
+                            "term": "Jilingiso jamaphapa",
+                            "definition": "Adverbs of frequency"
+                        },
+                        {
+                            "term": "Jilingiso jachihela",
+                            "definition": "Adverbs of place"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 59,
+                        "questions": [
+                            "Valumbunune lumbunwiso namilimo yalijingiso",
+                            "Vatombole miyachi yajilingiso yakulisezaseza",
+                            "Vahandunune jilingiso kweseka namiyachi yajo",
+                            "Vatunge mikuku kuzachisa miyachi yajilingiso yakulisezaseza"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "KUTUNGA TUSHIMUTWIJI (Creating Riddles/Proverbs)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Tushimutwiji (Riddles/Proverbs)",
+                    "page": 63,
+                    "competences": [
+                        "Tunga tushimutwiji"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.1",
+                            "page": 63,
+                            "hook": "Tuswovo? Vakupepa! Zuvo yamujingulule?",
+                            "teacher_steps": [
+                                "Alweze valongi vahanjike nakukumbulula tushimutwiji",
+                                "Alweze valongi vatunge tushimutwiji vavahya"
+                            ],
+                            "learner_steps": [
+                                "Vahanjike nakulumbununa tushimutwiji",
+                                "Vatunge tushimutwiji vavahya"
+                            ],
+                            "short_notes": "Tushimutwiji twapwa tushilikilo tweji kusakiwanga muthu shina ashinganyeke numba ahase kuwana kumbulwilo yakwoloka kaha halwola lwolumwe nawa tweji kuneha viseke."
+                        }
+                    ],
+                    "short_notes": "Tushimutwiji: Tushimutwiji twapwa tushilikilo tweji kusakiwanga muthu shina ashinganyeke numba ahase kuwana kumbulwilo yakwoloka kaha halwola lwolumwe nawa tweji kuneha viseke. Tushilikilo twapwa twatulemu mwomwo tweji kulingisa longi kushinganyeka washi nakupanjika unjiho umwe kuvyuma vikwavo.",
+                    "vocabulary": [
+                        {
+                            "term": "Tushimutwiji",
+                            "definition": "Riddles/brain teasers/puzzles"
+                        },
+                        {
+                            "term": "Kumbulwilo",
+                            "definition": "Answer/solution"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 64,
+                        "questions": [
+                            "Valongi vatunge tushimutwiji",
+                            "Valongi valumbunune tushimutwiji vanatungu"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.2",
+                    "title": "Vijiviso Na Mivwimbimbi (Notices and Posters)",
+                    "page": 72,
+                    "competences": [
+                        "Soneka vijiviso namivwimbimbi"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2.1",
+                            "page": 72,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Alweze valongi vashimutwile walo wavijiviso namivwimbimbi",
+                                "Alweze valongi vashimutwile haulemu wavijiviso namivwimbimbi"
+                            ],
+                            "learner_steps": [
+                                "Valongi vashimutwile walo wavijiviso namivwimbimbi",
+                                "Valongi vashimutwile haulemu wavijiviso namivwimbimbi"
+                            ],
+                            "short_notes": "Vijiviso namivwimbimbi: Vyapwa vyuma vize navasoneka mangana vihase kwijivisa, kukoka, kwanukisa vathu havyuma vyavilemu vize navasaka vathu vathachikize."
+                        }
+                    ],
+                    "short_notes": "Walo wavijiviso namivwimbimbi: Vijiviso - Kwijivisa nakalemesa, Mazu amashi kutanga, Kalwola kakandende, Lizavu lyavathu vamwe. Mivwimbimbi - Kukoka nakushinjiza, Navazachisa ulombo wakwepwisa muchima, Yinahase tuhu kushimbula, Likungumbuwa.",
+                    "vocabulary": [
+                        {
+                            "term": "Vijiviso",
+                            "definition": "Notices/announcements"
+                        },
+                        {
+                            "term": "Mivwimbimbi",
+                            "definition": "Posters/flyers"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 73,
+                        "questions": [
+                            "Valongi vasoneke vijiviso namivwimbimbi kuzachisa walo wakwoloka"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.3",
+                    "title": "Inyikiso (Locatives)",
+                    "page": 74,
+                    "competences": [
+                        "Zachisa inyikiso mumikuku"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.3.1",
+                            "page": 74,
+                            "hook": "Soneka mukuku halivaya hula valongi vautange nakuwana lizu lya inyikiso mumukuku khana",
+                            "teacher_steps": [
+                                "Alweze valongi valumbunune inyikiso namwakuyizachishila",
+                                "Alweze valongi vawane jinyikiso mumikuku namumijimbu",
+                                "Alweze valongi vazachise jinyikiso mumikuku"
+                            ],
+                            "learner_steps": [
+                                "Valongi valumbunune inyikiso namwakuyizachishila",
+                                "Valongi vawane jinyikiso mumikuku namumijimbu",
+                                "Valongi vazachise jinyikiso mumikuku"
+                            ],
+                            "short_notes": "Inyikiso: Awa apwa mazu eji kutulwezanga chihela chipwe mutamba kunapandama chuma chipwe muthu (ha-, mu-, ku-)"
+                        }
+                    ],
+                    "short_notes": "Vinjikizo: Nathu nayi kuwatopa. Mukanda wove uli hamesa. Shima yenyi ili mundeho.",
+                    "vocabulary": [
+                        {
+                            "term": "Inyikiso",
+                            "definition": "Locatives/words indicating place/location"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 75,
+                        "questions": [
+                            "Hula valongi valumbunune inyikiso",
+                            "Hula valongi vatombole inyikiso mumikuku",
+                            "Valongi vasoneke mikuku muli jinyikiso"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "MYASO (Traditional Songs)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "5.1",
+                    "title": "Myaso yachisemwa (Traditional Songs)",
+                    "page": 79,
+                    "competences": [
+                        "Lumbununa ulemu wamyaso yachisemwa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1.1",
+                            "page": 79,
+                            "hook": "Myaso yachisemwa yalemena haka?",
+                            "teacher_steps": [
+                                "Alweze valongi valumbunune ulemu wamyaso yachisemwa",
+                                "Alweze valongi vahunanane hakutangisa myaso yachisemwa",
+                                "Alweze valongi vembenga myaso yachisemwa"
+                            ],
+                            "learner_steps": [
+                                "Valumbunune ulemu wamyaso yachisemwa",
+                                "Vahunanane hakutangisa myaso yachisemwa",
+                                "Vembenga myaso yachisemwa"
+                            ],
+                            "short_notes": "Myaso yachisemwa yapwa myaso ize yeji kwambululanga mijimbu yakukundama kuchiyoyelo chamuthu, zangi namijimbu yakunyima. Kulema chamyaso yachisemwa: Yeji kulamanga mijimbu, Yeji kununganga vathu nakulitambasana mijimbu, Kulamanga chisemwa chavathu mangana vakachizachise kulutwe."
+                        }
+                    ],
+                    "short_notes": "Valuvale vapwa vathu vamwe vazanga kwimba myaso yachisemwa chikuma. Myaso yapwa yayilemu chikuma mukuyoya chamuthu. Myaso eyi yeji kutangisanga vanyike chipwe vakulwane hamitwe yavihande vyakulihandununa chikuma.",
+                    "vocabulary": [
+                        {
+                            "term": "Myaso yachisemwa",
+                            "definition": "Traditional songs/folk songs"
+                        },
+                        {
+                            "term": "Kwimba",
+                            "definition": "To sing"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 80,
+                        "questions": [
+                            "Vashimutwile nakulumbununa ulemu wamyaso yachisemwa",
+                            "Vahunanane hakutangisa myaso yachisemwa",
+                            "Vembenga myaso yachisemwa"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "5.2",
+                    "title": "Myangana javasona vavehi nava vavasuku (Short and Long Vowels)",
+                    "page": 90,
+                    "competences": [
+                        "Kuwana lumbunwiso yamazu kweseka nakusuhwa cha myangana javasona"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5.2.1",
+                            "page": 90,
+                            "hook": "Lweza valongi kutanga vasonavumo ava: na ne ni no nu. Hula valongi vasolole myangana javasona muli vasonavumo unavahane",
+                            "teacher_steps": [
+                                "Lweza valongi kuhandununa lumbunwiso yamazu kweseka namyangana javasona vavehi nava vavasuku",
+                                "Alweze valongi kuhana vinjikizo vyamazu amyangana javasona vavehi nava vavasuku"
+                            ],
+                            "learner_steps": [
+                                "Vahandununa lumbunwiso yamazu kweseka namyangana javasona vavehi nava vavasuku",
+                                "Vahane vinjikizo vyamazu amyangana javasona vavehi nava vavasuku"
+                            ],
+                            "short_notes": "Myangana javasona vavehi: Vapwa vasona vaze veji kuhanjikanga chipwe kutanganga mukalwola kakandende kaha. Mu Luvale myangana javasona vavehi vapwa: A E I O U. Myangana javasona vavasuku: Vapwa myangana javasona vaze veji kutanganga halwola lwalusuku kuhambakana myangana javasona vavehi."
+                        }
+                    ],
+                    "short_notes": "Vinjikizo: Meya, Kuka (vavehi). Kuumba, Kutanduuka, Tatee!, Mamee! (vavasuku)",
+                    "vocabulary": [
+                        {
+                            "term": "Myangana javasona vavehi",
+                            "definition": "Short vowels"
+                        },
+                        {
+                            "term": "Myangana javasona vavasuku",
+                            "definition": "Long vowels"
+                        },
+                        {
+                            "term": "Vasona",
+                            "definition": "Vowels"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 91,
+                        "questions": [
+                            "Kuhandununa lumbunwiso yamazu kweseka namyangana javasona vavehi nava vavasuku",
+                            "Kuhana vinjikizo vyamazu vya myangana javasona vavehi nava vavasuku"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "5.3",
+                    "title": "Chaulo chakulumbununa (Descriptive Composition)",
+                    "page": 88,
+                    "competences": [
+                        "Kusoneka chaulo chakulumbununa (vathu)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5.3.1",
+                            "page": 88,
+                            "hook": "Hula valongi vavuluke masepa javo vahamuchima. Hulaho jino umwe alumbunune kupwa chasepa lyenyi",
+                            "teacher_steps": [
+                                "Alweze valongi vashimutwile walo natuthachikijilo twachaulo chakulumbununa vyuma",
+                                "Alweze valongi kusoneka chaulo chakulumbununa"
+                            ],
+                            "learner_steps": [
+                                "Vashimutwile walo natuthachikilo twachaulo chakulumbununa vyuma",
+                                "Vasoneke chaulo chakulumbununa vyuma"
+                            ],
+                            "short_notes": "Chaulo chakulumbununa chapwa kusoneka chize cheji kutalanga hakujimbula chuma mangana owo mwatanga ahase kuhaka ovyo vanakulumbununa muvishinganyeka vyenyi."
+                        }
+                    ],
+                    "short_notes": "Walo wakulumbununa vyuma: Muchimbwa 1: Kujimbula: Soneka lijina lyamuthu wakulumbununa, apwa lunga tahi nyi phwevo, myaka yakusemuka nalifuchi apandamako. Chimbwa 2: Mujimbu uvene: Lumbununa vyuma navahasa kumona vathu nameso hali muthu uze wakulumbununa (kusuhwa, kutohwa, kulava…). Chimbwa 3: Unjiho washikola yenyi yayindende nashikola yayinene. Chimbwa 4: Vilinga vyenyi. Chimbwa 5: Kukhukulula: Soneka kufwila chove hali muthu ou",
+                    "vocabulary": [
+                        {
+                            "term": "Chaulo chakulumbununa",
+                            "definition": "Descriptive composition/essay"
+                        },
+                        {
+                            "term": "Kulumbununa",
+                            "definition": "To describe"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 89,
+                        "questions": [
+                            "Soneka chaulo chakulumbununa muthu"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "6.0",
+            "topic_title": "KUSEKASANA (Entrepreneurship)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "6.1",
+                    "title": "Chivwasano - Kusekasana",
+                    "page": 96,
+                    "competences": [
+                        "Zachisa lilimi lyakwoloka nakushimutwila havyuma vinakusefuka mungalila (kusekasana)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.1.1",
+                            "page": 96,
+                            "hook": "Kuhula valongi jijila muka veji kuwanyinangamo mali?",
+                            "teacher_steps": [
+                                "Alweze valongi vashimutwile khala chihande hakusekasana",
+                                "Alweze valongi vambulule vyuma vanashimutwila"
+                            ],
+                            "learner_steps": [
+                                "Vashimutwile khala chihande hakusekasana",
+                                "Vambulule vyuma vanashimutwila"
+                            ],
+                            "short_notes": "Kulivwasana chapwa kushimutwila chavathu vavali chipwe mazavu avathu avali. Kushimutwila chapwa kuhanjika mukachi kavathu vavali chipwe vavavulu."
+                        }
+                    ],
+                    "short_notes": "Kusekasana: Omu chihande chivene muli vyavivulu valongi navaya nakulingulula. Muli kulinangula mwakutachikijila kusekasana kaha nawa tuvihande twatundende twakufwana nge kwivwilila nakuhanjika, kutanga, kusoneka, mwaya lilimi nakwalumuna mujimbu chipwe mikuku nakashishi.",
+                    "vocabulary": [
+                        {
+                            "term": "Kusekasana",
+                            "definition": "Entrepreneurship/business"
+                        },
+                        {
+                            "term": "Mali",
+                            "definition": "Money"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 97,
+                        "questions": [
+                            "Hula valongi vashimutwile hamutwe wakusekasana",
+                            "Hula valongi vambulule vyuma vanawane mukushimutwila chavo"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "6.2",
+                    "title": "Lumbunwiso Yamazu - Mazu akujimina",
+                    "page": 98,
+                    "competences": [
+                        "Kuzachisa mazu akulita naseteko yavo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.2.1",
+                            "page": 98,
+                            "hook": "Hula valongi valumbunune lizu nyambaulu",
+                            "teacher_steps": [
+                                "Ahane mazu kuli valongi",
+                                "Alweze valongi kushimutwila lumbunwiso yamazu akusakula",
+                                "Alweze valongi kwambulula lumbunwiso yamazu",
+                                "Alweze valongi kuzachisa mazu akusakula mumikuku"
+                            ],
+                            "learner_steps": [
+                                "Vashimutwile lumbunwiso yamazu akusakula",
+                                "Vambulule lumbunwiso yamazu",
+                                "Vazachise mazu akusakula mumikuku"
+                            ],
+                            "short_notes": "Kuhanjika chakujimina: Vathu hamwe nahamwe veji kuzachisanga hanjikiso yakujimina oloze yeji kulumbununa lizu limwe. Chinjikizo: Livoko mbe lyasala – kusalisa, Kukwata mukanwa – kulya shima"
+                        }
+                    ],
+                    "short_notes": "Mazu akujimina apwa mazu aze veji kulumbununa vyuma vikwavo kuzachisa mazu akujimina akulevana namazu vakuzachisa muchalo chavo.",
+                    "vocabulary": [
+                        {
+                            "term": "Mazu akujimina",
+                            "definition": "Figurative expressions/idioms"
+                        },
+                        {
+                            "term": "Kukwata mukanwa",
+                            "definition": "Idiom meaning 'to eat'"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 99,
+                        "questions": [
+                            "Vashimutwile mazu akusakula",
+                            "Kwambulula lumbunwiso yamazu akusakula",
+                            "Vazachise mazu vanawane mumukuku"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "6.3",
+                    "title": "Kutanga Chakujimina - KUSEKASANA",
+                    "page": 100,
+                    "competences": [
+                        "Kutanga mijimbu yakulisezaseza nakwivwishisa kweseka naseteko yavo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.3.1",
+                            "page": 100,
+                            "hook": "Kutanga chimbwa chamazu kaha valongi vashimutwileho nakuwana chihande chivene",
+                            "teacher_steps": [
+                                "Alweze valongi vatange mijimbu",
+                                "Alweze valongi vakumbulule vihula vyakulisezaseza",
+                                "Alweze valongi vahihise mijimbu vanatange",
+                                "Alweze valongi vasononone mijimbu vanatange",
+                                "Alweze valongi vashimutwile lumbunwiso yamazu"
+                            ],
+                            "learner_steps": [
+                                "Vatange mijimbu",
+                                "Vakumbulule vihula vyakulisezaseza",
+                                "Vahihise mijimbu vanatange",
+                                "Vasononone mijimbu vanatange",
+                                "Vashimutwile lumbunwiso yamazu"
+                            ],
+                            "short_notes": "Hamwaka walisolo nazala, maphwevo namalunga vamangana chikuma vapwile navishinganyeka vyakuwanyina mwakuyoyela. Vathu vekha vathutukilenga nakuya nakutunga membo kujingalila jeka kushinganyeka nge navawana vyakulya."
+                        }
+                    ],
+                    "short_notes": "Maukalu eka ejikwizanga mwomwo yachanga cheji kumisanga vimbuto. Hekha nawa nge livaji linatoho, meya eji kwenyekanga vimbuto navyakulya vikwavo vyeji kwingilanga mumbwimbwi. Maphwevo vamwe veji kupwanga navishinganyeka vyakulima mande amanene alupa, chivwale na vyelu.",
+                    "vocabulary": [
+                        {
+                            "term": "Vishinganyeka",
+                            "definition": "Activities/tasks"
+                        },
+                        {
+                            "term": "Unjimi",
+                            "definition": "Work/employment"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 104,
+                        "questions": [
+                            "Kumbulula vihula vyamiyachi yakulisezaseza kufuma hamujimbu",
+                            "Hula valongi vambulule mujimbu vanatange muwihi",
+                            "Valongi vasoneke mazu alifwana lumbunwiso namazu vanawane mumujimbu"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "6.4",
+                    "title": "Kulava Jinambala (Counting Numbers)",
+                    "page": 105,
+                    "competences": [
+                        "Kulava kufuma kuchuma chimwe nakuheta kutununu"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.4.1",
+                            "page": 105,
+                            "hook": "Kuhula valongi vyuma muka vanahase kuzachisa mukulava",
+                            "teacher_steps": [
+                                "Alweze valongi valave jinambala kufuma kuchuma chimwe nakuheta kutununu mu Luvale"
+                            ],
+                            "learner_steps": [
+                                "Vatela kulava jinambala kufuma kuchuma chimwe nakuheta kutununu mu Luvale"
+                            ],
+                            "short_notes": "Kulweza valongi jinambala jajinene makumi, makulukaji, makombakaji natununu. Vinjikizo: 10 – Likumi, 100 – Likhulukaji, 1000 –likhombakaji, 1,000,000 - Kanunu"
+                        }
+                    ],
+                    "short_notes": "Kulava jinambala mu Luvale: 10 – Likumi, 100 – Likhulukaji, 1000 –likhombakaji, 1,000,000 - Kanunu",
+                    "vocabulary": [
+                        {
+                            "term": "Kulava",
+                            "definition": "To count"
+                        },
+                        {
+                            "term": "Jinambala",
+                            "definition": "Numbers"
+                        },
+                        {
+                            "term": "Likumi",
+                            "definition": "Ten"
+                        },
+                        {
+                            "term": "Likhulukaji",
+                            "definition": "One hundred"
+                        },
+                        {
+                            "term": "Likhombakaji",
+                            "definition": "One thousand"
+                        },
+                        {
+                            "term": "Kanunu",
+                            "definition": "One million"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 106,
+                        "questions": [
+                            "Kusoneka jinambala mumazu"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

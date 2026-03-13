@@ -1,0 +1,693 @@
+{
+    "subject": "Religious Education",
+    "grade": "Form 1",
+    "term": 2,
+    "topics": [
+        {
+            "topic_id": "1.3",
+            "topic_title": "Morality and Values",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.3.1",
+                    "title": "Morality",
+                    "page": 2,
+                    "competences": [
+                        "Apply moral principles in daily living",
+                        "Analyse moral dilemmas"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.1-A1",
+                            "page": 2,
+                            "hook": "Imagine stealing medicine in order to save a dying person. Would that be right or wrong?",
+                            "teacher_steps": [
+                                "Cluster the learners in small groups to discuss the concept of morality",
+                                "Each group to report key ideas from the discussion to the class",
+                                "Key ideas to be grouped and written down on the board",
+                                "Learners to connect the ideas and come up with the definition of morality",
+                                "Teacher to consolidate the meaning of morality on the board"
+                            ],
+                            "learner_steps": [
+                                "Discuss the concept of morality in small groups",
+                                "Report key ideas from the group discussion to the class",
+                                "Connect the ideas presented and formulate a definition of morality",
+                                "Write down the consolidated definition of morality"
+                            ],
+                            "short_notes": "Morality is a set of rules and beliefs that distinguish good behaviour from bad behaviour. It deals with the way people should behave towards each other, animals and the environment. A system of morality guides acceptable behaviour, for example, in marriage, while raising and disciplining children and in business transactions. A moral person does what is right, and has a strong sense of what is right and wrong. An immoral person is one who behaves in a way that is not morally acceptable. An amoral person is unconcerned with behaving in a morally acceptable way. The best known example of a moral principle is 'the Golden Rule' or ethic of reciprocity: 'Do unto others as you would have them do unto you.'"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.1-A2",
+                            "page": 3,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Task 1: Allow learners to brainstorm opinions on what is right or wrong; allow as many contributions as possible and write them on the board; have the class select meaningful points; consolidate and summarise meaningful points on the board",
+                                "Task 2: Divide learners in groups to discuss opinions on what is right or wrong; have groups share findings with the class; write down information from the discussions; have learners role play opinions; critique work done by the groups",
+                                "Task 3: Choose a motion for the learners e.g. 'Abortion should be legalised in Zambia'; divide learners into smaller groups and assign them roles; allow learners to prepare their arguments; act as moderator during the debate; summarise key points raised from the debate on the board"
+                            ],
+                            "learner_steps": [
+                                "Task 1: Brainstorm opinions on what is right or wrong; select meaningful points from contributions on the board",
+                                "Task 2: In groups, discuss opinions on what is right or wrong; share findings with the class; role play various opinions",
+                                "Task 3: Prepare arguments for assigned debate roles on a given motion; participate in the debate; listen and take note of opposing arguments"
+                            ],
+                            "short_notes": "Opinions on what is right and wrong vary widely among individuals and cultures. Factors influencing these opinions include cultural norms, personal experiences, and religious or spiritual beliefs. Right is typically associated with actions that are ethical, just, and beneficial to others, while wrong is linked to actions that are unethical, unjust, and harmful. Making the distinction between right and wrong is essential for maintaining a harmonious society and upholding moral values. While what is considered right or wrong can vary depending on cultural norms and personal beliefs, the fundamental principles of morality remain constant across different societies. For example, eating cows is moral in Zambia but immoral in India. However, many different cultures do agree on certain universal moral values — for example, virtually all cultures agree that torturing innocent people for fun is always immoral and that helping others in need is always moral. Ultimately, the choice between right and wrong lies in our hands and it is our responsibility to make ethical decisions that align with our values and principles."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.1-A3",
+                            "page": 4,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Task 1: Have learners watch videos with different scenes of moral and immoral actions; ask questions based on the video; have learners discuss the questions arising from the video; consolidate the key points of the discussion on the board",
+                                "Task 2: Identify and invite a guest speaker (e.g. police officers, judge, guidance teachers) to give a talk on the consequences of moral and immoral actions; have learners take note of the main points from the talk; have learners role play the consequences of moral and immoral actions"
+                            ],
+                            "learner_steps": [
+                                "Task 1: Watch videos with different scenes of moral and immoral actions; discuss questions arising from the video",
+                                "Task 2: Listen to a guest speaker on consequences of moral and immoral actions; take note of key points from the talk; role play the consequences of moral and immoral actions"
+                            ],
+                            "short_notes": "The consequences of moral and immoral actions can have a profound impact on individuals and society as a whole. Moral actions often lead to positive outcomes such as trust, respect, social harmony, fostering of integrity, accountability, responsibility, development and cooperation. Immoral actions on the other hand can result in guilt and shame, loss of self-respect, strained relationships, community harm, social insecurity, loss of freedom, mental health issues, legal consequences such as imprisonment, mistrust and destruction of reputation."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.1-A4",
+                            "page": 5,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Task 1: Have learners research on ways of applying moral principles in daily living; allow access to the internet where possible; a guest speaker can also make a talk on how to apply moral principles in daily living; have learners make a presentation of their research; write meaningful points on the board",
+                                "Task 2: Cluster the learners in small groups to prepare for role play; each group to role-play the given scenarios; learners to explain the moral lesson of the scene at the end; class discussion to cement the lesson"
+                            ],
+                            "learner_steps": [
+                                "Task 1: Research on ways of applying moral principles in daily living using available resources including the internet; make a presentation of the research findings",
+                                "Task 2: In small groups, prepare and role-play given scenarios depicting moral principles in action; explain the moral lesson of the scene at the end of the role play; participate in class discussion"
+                            ],
+                            "short_notes": "Applying moral principles in daily living involves incorporating ethical values and principles into your thoughts, words and actions. Key ways to apply moral principles include: Honesty and Integrity — always tell the truth, even when it is difficult, as this builds a reputation for reliability; Volunteering and community service — contribute to the well-being of your community; Active Listening and Open Communication — make an effort to understand others' perspectives by listening without interruption; Empathy and Compassion — engage in acts of kindness to cultivate empathy in your community; Respect and Tolerance — treat others with respect, even if you disagree with their views or beliefs; Forgiveness and Reconciliation — practice forgiveness and work towards reconciliation in conflict; Environmental Responsibility — take actions to reduce environmental impact and promote sustainability; Accountability and Responsibility — take ownership of your actions and their consequences; Civic Participation — engage in civic duties such as voting or participating in community service to fulfill your role as a responsible citizen."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.1-A5",
+                            "page": 6,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Task 1: Have learners brainstorm on the meaning of the phrase 'moral dilemma'; consolidate meaningful points and examples on the board",
+                                "Task 2: Cluster the learners in small groups and let them discuss the meaning of moral dilemma; have each group make a presentation and share key ideas to the class; write down key responses on the board"
+                            ],
+                            "learner_steps": [
+                                "Task 1: Brainstorm on the meaning of the phrase 'moral dilemma'; present findings in class",
+                                "Task 2: In small groups, discuss the meaning of moral dilemma; make a presentation and share key ideas to the class"
+                            ],
+                            "short_notes": "A moral dilemma is a situation that requires a choice between two equal alternatives. It is a situation where you have to choose between two conflicting moral behaviours. You cannot choose both behaviours, and inevitably you will fail to keep some aspects of your moral code."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.1-A6",
+                            "page": 7,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Task 1: Divide learners into small groups to discuss moral dilemma; have groups report findings to the class; summarise the information on the board",
+                                "Task 2: Display images or show videos with different scenarios of moral dilemma; have learners discuss the scenes in groups and share findings; make a summary of meaningful points on the board"
+                            ],
+                            "learner_steps": [
+                                "Task 1: In small groups, discuss examples of moral dilemma; report findings to the class",
+                                "Task 2: In groups, view pictures or watch videos depicting moral dilemma scenarios; discuss the scenes and share findings with the class"
+                            ],
+                            "short_notes": "Moral dilemmas can manifest in various ways such as: Conflicting obligations — choosing between loyalty to a friend and honesty about their wrongdoing; Competing values — deciding whether to report unethical behaviour at work which could harm a colleague or not. Analysing a moral dilemma involves: (i) Define the dilemma — clearly define the situation in detail and determine the central ethical issue; (ii) Identify stakeholders and interests — identify those affected by the dilemma and understand the needs, desires and concerns of each; (iii) Evaluate ethical principles and values — determine which ethical principles or values are relevant and weigh the importance of each; (iv) Consider alternative courses of action — brainstorm potential solutions and assess the potential consequences, benefits and drawbacks of each option; (v) Choose a course of action — based on your analysis, choose the course of action that best aligns with your values and principles; (vi) Reflect and review — consider the potential consequences of your action and be willing to revise your decision if new information becomes available."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.1-A7",
+                            "page": 8,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Task 1: Instruct learners to conduct research on how to apply critical thinking in solving moral dilemmas; learners to use available resources in the school; have learners present their findings in class; consolidate and summarise the findings of the research on the board",
+                                "Task 2: Have learners role play different moral dilemmas; have the class discuss solutions to different moral dilemmas; make a summary of meaningful points"
+                            ],
+                            "learner_steps": [
+                                "Task 1: Research on how to apply critical thinking in solving moral dilemmas using available school resources; present findings in class",
+                                "Task 2: Role play different moral dilemmas; as a class, discuss solutions to different moral dilemmas"
+                            ],
+                            "short_notes": "Critical thinking involves systematically evaluating moral dilemmas by: (a) Identifying the conflict — clearly define the competing moral principles; (b) Gathering information — collect relevant information, facts and perspectives on the situation; (c) Evaluating consequences — considering the potential outcomes of each option; (d) Making a decision — choose the best action that aligns most closely with core values and ethical principles. Example: Suppose you are a nurse and discover that a doctor has made a serious medical error that could harm a patient. Do you report the error, potentially damaging the doctor's reputation, or keep quiet to protect the doctor's career? Steps: (1) Define the dilemma: Report the error vs. protect the doctor's reputation; (2) Identify stakeholders: Patient, doctor, hospital administration; (3) Evaluate principles: Patient safety, honesty, loyalty to colleagues; (4) Consider options: Report the error, discuss with the doctor, keep quiet; (5) Choose a course of action: Report the error to ensure patient safety; (6) Justify decision: Prioritize patient safety and honesty over loyalty to colleagues."
+                        }
+                    ],
+                    "short_notes": "Morality is a set of rules and beliefs that distinguish good behaviour from bad behaviour. These are principles and values that guide our behaviour and decision-making. Morality helps us distinguish right from wrong, good from bad and just from unjust. Morality is essential because it helps us make choices that respect the rights and dignity of others. By living morally, we contribute to creating a more just, compassionate, and peaceful world.",
+                    "vocabulary": [
+                        {
+                            "term": "Moral",
+                            "definition": "Acceptable standards of behaviour."
+                        },
+                        {
+                            "term": "Morality",
+                            "definition": "A set of rules and beliefs that distinguish good and bad behaviour."
+                        },
+                        {
+                            "term": "Amoral",
+                            "definition": "Behaviour that is unconcerned with acceptable standards of behaviour."
+                        },
+                        {
+                            "term": "Immoral",
+                            "definition": "Unacceptable standards of behaviour."
+                        },
+                        {
+                            "term": "Secular",
+                            "definition": "Refers to something that is separate from or not connected to religion or spiritual beliefs."
+                        },
+                        {
+                            "term": "Dharma",
+                            "definition": "Refers to many things: religion, law, duty, order, proper conduct, morality, righteousness or justice."
+                        },
+                        {
+                            "term": "Karma",
+                            "definition": "Refers to the spiritual principle of cause and effect, where an individual's actions, intentions and decisions influence their future experiences and circumstances."
+                        },
+                        {
+                            "term": "Caste",
+                            "definition": "A social group that you are born into and it determines your position in life."
+                        },
+                        {
+                            "term": "Dilemma",
+                            "definition": "A situation that requires a choice between two equal alternatives."
+                        },
+                        {
+                            "term": "Value",
+                            "definition": "A guiding principle, standard or behaviour that is regarded as desirable or held in high esteem in society."
+                        },
+                        {
+                            "term": "Moral code",
+                            "definition": "A set of rules that are widely accepted by a group of people to show them what is right and wrong."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 13,
+                        "questions": [
+                            "Knowledge-based: Explain the meaning of morality.",
+                            "Knowledge-based: Differentiate the following terms: moral, amoral and immoral.",
+                            "Application-based: After losing his job, a man from one of the compounds in Lusaka decided to rob a shop in order to make ends meet. He was arrested and sentenced to five years in prison with hard labour. What would you have done in this situation if you were the man instead of robbing a shop?",
+                            "Application-based: Read the following moral dilemmas and discuss what you would do in each situation. (i) You find a bag of money hidden in a bush near your school. It has obviously been stolen from someone, but your family could certainly use the money. (ii) One of your good friends has discovered she is pregnant. If she has an abortion, she can carry on with her schooling and study teaching, which is what she would like to do. However, she comes from a Christian family which believes that abortion is murder.",
+                            "Critical thinking: Evaluate religious and non-religious sources of moral codes.",
+                            "Critical thinking: Examine the importance of morality in society."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3.2",
+                    "title": "Sources of Moral Code",
+                    "page": 9,
+                    "competences": [
+                        "Differentiate sources of religious and secular moral codes"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.2-A1",
+                            "page": 9,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Task 1: Have learners read religious texts from different religious scriptures; have learners present what they have read to the class; consolidate and summarise the sources of religious moral codes on the board",
+                                "Task 2: Put learners in small groups and let them discuss sources of moral code; each group to make a presentation on what they have found to the class; write down key points on the board",
+                                "Task 3: Invite a guest speaker; facilitate learner interaction with the guest; have learners take note of key points raised during the talk; class to discuss the points collected; wrap up the information from the points"
+                            ],
+                            "learner_steps": [
+                                "Task 1: Read religious texts from different religious scriptures; present findings to the class",
+                                "Task 2: In small groups, discuss sources of moral code; make a presentation to the class",
+                                "Task 3: Listen to and interact with a guest speaker; take note of key points raised during the talk; discuss the points collected as a class"
+                            ],
+                            "short_notes": "Religious texts are an important source of moral codes. Christian religious texts: Christians believe that morals come from God or Jesus his messenger on earth, revealed through the Bible. The Ten Commandments are a moral code found in the Old Testament (Exodus 20:1-17), revealed to Moses by God. The New Testament contains moral teachings given by Jesus and his followers (Rom. 13:1-7, 8-14). Hindu religious texts include the Bhagavad Gita, the Vedas and the Upanishads. The Bhagavad Gita is a 700-verse poem (part of the Mahabharata, written between 400BC and 400CE) that tells the story of Arjuna who turns to Lord Krishna for wisdom; it is interpreted as a metaphor for spiritual and moral struggles. It influenced visionaries including Dr Martin Luther King and Mahatma Gandhi (who called it 'his spiritual dictionary'). The Vedas (meaning 'knowledge' in Sanskrit) are a collection of texts thought to be created by the Hindu god Brahma. The Upanishads are a collection of writings that teach people how to live a moral life. Hindu morality focuses on Dharma (religion, law, duty, proper conduct, morality, righteousness or justice, including acting according to your caste) and Karma (cause and effect — positive actions cause positive effects while negative actions produce negative effects; Hinduism believes in reincarnation). Muslim religious texts: The Quran is a sacred text of Islam, believed to be a revelation from God, written by Prophet Muhammad. The Hadith is the record of deeds and sayings of Prophet Muhammad, collected in the 8th and 9th centuries, used to interpret the Quran. The Five Pillars of Islam guide Muslims' behaviour: (i) Creed — declare there is no god except God and Muhammad is God's messenger; (ii) Pray five times a day; (iii) Fasting during the month of Ramadan; (iv) Alms giving — give money to the poor; (v) Pilgrimage — travel to Mecca at least once in a lifetime. Zambia Traditional Religion: Elders teach behaviour and cultural traditions through proverbs, songs, stories, myths and folk tales."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.2-A2",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put learners in small groups to discuss non-religious sources of moral codes",
+                                "Have groups make presentations on key ideas to the class",
+                                "Write key points on the board"
+                            ],
+                            "learner_steps": [
+                                "In small groups, discuss non-religious (secular) sources of moral codes",
+                                "Make a presentation of key ideas to the class"
+                            ],
+                            "short_notes": "Non-religious or secular sources of moral codes include: (a) Families — families instill values and ethics from a young age; (b) Friends — peer influence can shape moral perspectives and behaviour; (c) School — educational institutions teach principles of fairness, respect and responsibility; (d) Community — local culture and traditions form collective moral codes; (e) Constitution — legal framework establishes societal norms and ethical standards."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.2-A3",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Task 1: Put learners in small groups to discuss the religious and non-religious (secular) moral codes; have learners make a presentation of key ideas to the class; have learners evaluate religious and non-religious moral codes; make a summary of key points on the board",
+                                "Task 2: Organise a panel discussion in which learners act as experts on religious and non-religious moral codes; have learners note down key points from the discussion"
+                            ],
+                            "learner_steps": [
+                                "Task 1: In small groups, discuss and evaluate religious and secular moral codes; make a presentation of key ideas to the class",
+                                "Task 2: Act as expert panel members in a discussion on religious and non-religious moral codes; note down key points from the discussion"
+                            ],
+                            "short_notes": "Religious moral codes are believed to have been given by a Supreme Being while secular moral codes originate from society. Religious moral codes are conservative while secular moral codes are more dynamic. Both religious and secular moral codes are influential and determine how people behave in society. Both religious and secular moral codes are rooted in long-standing traditions and address traditional and contemporary issues."
+                        }
+                    ],
+                    "short_notes": "Morals differ among cultures and can be relative. Therefore, a moral code is dependent upon the situation and context in which it is upheld. However, some morals seem to be universally true, for instance, it is wrong to murder or torture another person. Many morals originate from religious and secular (non-religious) sources. Examples of sources include families, friends, school, communities, constitution and religion.",
+                    "vocabulary": [
+                        {
+                            "term": "Bhagavad Gita",
+                            "definition": "A 700-verse Hindu scripture (part of the Mahabharata) that is a key source of Hindu moral teaching, often called 'the song of the Bhagavan'."
+                        },
+                        {
+                            "term": "Vedas",
+                            "definition": "A collection of ancient Hindu texts (meaning 'knowledge' in Sanskrit), thought to be created by the Hindu god Brahma."
+                        },
+                        {
+                            "term": "Upanishads",
+                            "definition": "A collection of Hindu writings that teach people how to live a moral life."
+                        },
+                        {
+                            "term": "Quran",
+                            "definition": "The sacred text of Islam, believed by Muslims to be a revelation from God, written by Prophet Muhammad."
+                        },
+                        {
+                            "term": "Hadith",
+                            "definition": "The record of deeds and sayings of the Prophet Muhammad, collected in the 8th and 9th centuries, used to interpret the Quran and guide Islamic law."
+                        },
+                        {
+                            "term": "Ten Commandments",
+                            "definition": "A moral code found in the Old Testament (Exodus 20:1-17), revealed to Moses by God; a foundational source of Christian morality."
+                        },
+                        {
+                            "term": "Five Pillars of Islam",
+                            "definition": "The five fundamental practices that guide Muslim behaviour: declaration of faith (creed), prayer five times daily, fasting during Ramadan, alms giving, and pilgrimage to Mecca."
+                        },
+                        {
+                            "term": "Reincarnation",
+                            "definition": "The Hindu belief that the soul is reborn into another body many times after death."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 13,
+                        "questions": [
+                            "Knowledge-based: Explain the meaning of morality.",
+                            "Knowledge-based: Differentiate the following terms: moral, amoral and immoral.",
+                            "Application-based: What would you have done in the situation of the man who lost his job and robbed a shop instead of robbing a shop?",
+                            "Application-based: Read the following moral dilemmas and discuss what you would do in each situation. (i) You find a bag of money hidden in a bush near your school. (ii) Your good friend is pregnant and faces a dilemma about abortion versus continuing schooling.",
+                            "Critical thinking: Evaluate religious and non-religious sources of moral codes.",
+                            "Critical thinking: Examine the importance of morality in society."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.4",
+            "topic_title": "Choosing and Talents",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.4.1",
+                    "title": "Making Choices",
+                    "page": 15,
+                    "competences": [
+                        "Accept responsibility for one's choice",
+                        "Evaluate decision making steps"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.1-A1",
+                            "page": 15,
+                            "hook": "Your talents set the stage, but your choices steal the show.",
+                            "teacher_steps": [
+                                "Task 1: Have learners research on how elders in the family and community made choices in the past (using interview questions: Have you ever made any critical choice in life? What guided you in making those choices? Do you think any of those choices were wrong? What lessons did you learn from them?); have learners report their findings to the class; facilitate discussion on each other's findings; summarise the findings on the board including the steps see, judge and act",
+                                "Task 2: Have learners role play a scenario that depicts the steps followed in making choices (e.g. a pupil encouraging friends to smoke or drink alcohol); facilitate discussion on the role play; re-emphasise the steps followed in making choices"
+                            ],
+                            "learner_steps": [
+                                "Task 1: Research on how elders in the family and community made choices in the past by conducting interviews; report findings to the class; discuss each other's findings",
+                                "Task 2: Role play a scenario that depicts the steps followed in making choices; discuss the role play"
+                            ],
+                            "short_notes": "There are three important steps that we need to follow in making good choices: See — use the five senses to identify options; look at each option and think about it; Judge — look at the advantages and disadvantages of each option; evaluate the options and make the best choice according to interests, beliefs and time available; Act — take action according to what was seen and judged as the best thing to choose."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.1-A2",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Have learners work in pairs to draw a table indicating chosen and un-chosen circumstances on the left and right respectively",
+                                "Have pairs present findings to the class",
+                                "Have learners compare what other pairs have written and come up with a consolidated list",
+                                "Summarise the information into chosen and un-chosen circumstances"
+                            ],
+                            "learner_steps": [
+                                "In pairs, draw a table indicating chosen and un-chosen circumstances",
+                                "Present findings to the class",
+                                "Compare what other pairs have written and contribute to a consolidated list"
+                            ],
+                            "short_notes": "Chosen circumstances are situations in life that you choose, e.g. the type of clothes you wear, friends you play with, food you eat. Un-chosen circumstances are situations in life that cannot be chosen — they are beyond your control, e.g. your gender, parents, nationality."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.1-A3",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Task 1: Have learners in groups discuss the different levels at which people make choices; have groups report their findings to the class; summarise the information on the board",
+                                "Task 2: Have learners in groups identify factors that influence decision making at any level; have groups report their findings to the class; summarise the information on the board"
+                            ],
+                            "learner_steps": [
+                                "Task 1: In groups, discuss the different levels at which people make choices; report findings to the class",
+                                "Task 2: In groups, identify factors that influence decision making at any level; report findings to the class"
+                            ],
+                            "short_notes": "There are different levels of choices: Individual level — making a choice for oneself, taking into consideration your needs and what to do in order to achieve them; Family level — decisions made here have more than one person's input because the choice has to take into consideration the family's common goals and what is best for the whole family; Community level — at this level, many people are involved in making the choice so a lot of people will be part of the decision making process. Factors that influence choices include: age, gender, past experiences, level of commitment, existing beliefs, status in society, and cognitive biases."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.1-A4",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Have learners discuss in groups the meaning of responsibility",
+                                "Have groups report their views to the class",
+                                "Have learners role play various situations that demonstrate acceptance of responsibility of choices (e.g. a girl who falls pregnant and decides not to abort, a boy who gets drunk during school hours and accepts to be punished)",
+                                "Emphasise on the need to accept responsibility of choices made"
+                            ],
+                            "learner_steps": [
+                                "In groups, discuss the meaning of responsibility",
+                                "Report views to the class",
+                                "Role play various situations that demonstrate acceptance of responsibility of choices"
+                            ],
+                            "short_notes": "Responsibility is the duty to behave the right way or to do the right thing. It is important to accept responsibility of our choices whether good or bad. The choices that people make show one's aim in life — the type of friends you have, the way you use your free time, the way you treat people and even the way you react when you are criticised. People should be confident and assertive in fulfilling their aims through the choices they make."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.1-A5",
+                            "page": 18,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Have learners in groups identify and explain the steps involved in the decision making process",
+                                "Have learners present findings to the class",
+                                "Write down the key points of the presentations"
+                            ],
+                            "learner_steps": [
+                                "In groups, identify and explain the steps involved in the decision making process",
+                                "Present findings to the class"
+                            ],
+                            "short_notes": "The steps involved in decision making are: See — examine the situation, identify the main problem; Judge — decide what it is that you want to achieve, discuss what the most important area is, look at different options, decide what to do, decide how to do it; Act — put the decision and plan into action."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.1-A6",
+                            "page": 18,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Have learners evaluate a given situation where steps for decision making are followed in arriving at the final decision and action",
+                                "Have groups present their findings in the form of reports to the teacher",
+                                "Assess the report and discuss them with the learners",
+                                "Emphasise the importance of each step in decision making in life"
+                            ],
+                            "learner_steps": [
+                                "Evaluate a given situation where steps for decision making are followed in arriving at the final decision and action",
+                                "Present findings in the form of a group report to the teacher"
+                            ],
+                            "short_notes": "The steps needed in decision making include: Examine the situation; Decide what it is that you want to achieve; Identify the main problem; Discuss what the most important area is; Look at different options; Decide what to do; Decide how to do it; Put the plan into action. All the steps are necessary and important in arriving at a good decision and action in real, everyday life. Failure to follow these steps may lead to bad decisions that will affect individual, family and community life negatively."
+                        }
+                    ],
+                    "short_notes": "People all over the world share universal experiences and one of them is making choices. Life is a series of decisions we make and depending on our choices we must live with the result of that decision. This subtopic explores how people make choices whether under chosen or un-chosen circumstances.",
+                    "vocabulary": [
+                        {
+                            "term": "Inspire",
+                            "definition": "To awaken something deep, e.g. motivation in others."
+                        },
+                        {
+                            "term": "Talent",
+                            "definition": "An ability to do something well."
+                        },
+                        {
+                            "term": "Possession",
+                            "definition": "Owning something."
+                        },
+                        {
+                            "term": "Parable",
+                            "definition": "A short story in which a moral lesson is taught."
+                        },
+                        {
+                            "term": "Entrepreneur",
+                            "definition": "A person who comes up with a good business idea and then starts a business."
+                        },
+                        {
+                            "term": "Financial Literacy",
+                            "definition": "The possession of skills, knowledge and behaviours that allow an individual to make informed decisions regarding money."
+                        },
+                        {
+                            "term": "Circumstance",
+                            "definition": "A situation that happens in one's life. It can be chosen or un-chosen."
+                        },
+                        {
+                            "term": "Perseverance",
+                            "definition": "The ability to continue to do something even though there are difficulties."
+                        },
+                        {
+                            "term": "Responsibility",
+                            "definition": "A duty to behave the right way."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Knowledge-based: Explain the three steps that people need to take in order to make a good choice.",
+                            "Knowledge-based: From what we have learnt on 'Choosing and Talents', distinguish between talent and gift.",
+                            "Application-based: Mr Lika graduated as a Religious Education teacher and was posted to Pimpe Secondary School. While at the college, Mr Lika belonged to the entertainment committee and at times, he would play comedy. When he joined the school, his local community identified his talent of entertaining people especially during weddings. As a result, during weekends, he would be hired to be Master of Ceremonies. Mr Lika became well known in the local community and he would make good money for every performance that he did. What advice would you give Mr Lika concerning his talent as an entertainer?",
+                            "Critical thinking: Explain why it is important to take acceptance of responsibility of one's choices in life.",
+                            "Critical thinking: Explain in your own words, how a talent can promote entrepreneurship in one's life."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4.2",
+                    "title": "Central Teachings on Making Choices in Four Religions in Zambia",
+                    "page": 19,
+                    "competences": [
+                        "Analyse central teachings on making choices in the four religions in Zambia"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.2-A1",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Task 1: Have learners in groups identify the central teachings of the four religions in Zambia on making choices; have groups present and justify their findings to the whole class; write the summary on the board",
+                                "Task 2: Have learners do library research or outdoor research at a Church, Hindu hall, Mosque and from a traditional leader on religious teachings on making choices; have learners present their findings to the whole class; summarise the information on the board"
+                            ],
+                            "learner_steps": [
+                                "Task 1: In groups, identify the central teachings of the four religions in Zambia on making choices; present and justify findings to the whole class",
+                                "Task 2: Conduct library or outdoor research at a Church, Hindu hall, Mosque and community on religious teachings on making choices; present findings to the whole class"
+                            ],
+                            "short_notes": "The central teachings of the four main religions for followers to remember when making choices are: Christianity — Love God and neighbour (Mark 12:30-31); a Christian must use time, money and other available resources in a way that pleases God. Hinduism — The main aim of a Hindu is to be free from all selfishness; the Bhagavad Gita says 'The person who gives up all desires without thinking mine or I is the one who gains peace.' Islam — The main aim of a Muslim is to show complete obedience to Allah and to live at peace with every Muslim in the world, achieved by following the Five Pillars of Islam and supporting each other in life. Zambia Traditional Religion — The main aim is to show respect to fellow human beings and to be at peace with the spirits of the dead; followers are expected to show love to all people, give dead community members a decent burial, name children after dead relatives, look after orphans, the aged and those differently abled, and give gifts and offerings to the spirits of the dead."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.2-A2",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Have learners in groups analyse the central teachings by the four religions on making choices",
+                                "Have groups present what they have come up with",
+                                "Summarise the information and guide the learners on the relationship between central teachings and making choices"
+                            ],
+                            "learner_steps": [
+                                "In groups, analyse the central teachings by the four religions on making choices",
+                                "Present findings to the class"
+                            ],
+                            "short_notes": "Christianity: The central teaching is to love God and your neighbour. All choices a Christian makes should align with this teaching, helping the Christian to be at peace with God and man and to make progress in life. Zambia Traditional Religion: The main aim is to be at peace with the spirits of the ancestors and to show respect to fellow human beings. A traditionalist should make choices in line with this teaching to live harmoniously with others and remain faithful to culture and traditions. Hinduism: The main aim is to be free from all selfishness, since Hindus believe that sin and suffering come from people's evil desires. Making choices in line with this teaching helps a Hindu to be at peace with Brahman and make progress in life. Islam: The main aim is to show complete obedience to Allah and to live at peace with every Muslim in the world. A Muslim should make choices according to this teaching, which helps him or her to succeed in life."
+                        }
+                    ],
+                    "short_notes": "The teachings of a religion guide its followers in their daily choices. These teachings are important because they inspire people to look at their current life and the future with hope. People are expected to align their choices in line with the teachings of their religion. Therefore, people's religious beliefs and values greatly influence their choices.",
+                    "vocabulary": [
+                        {
+                            "term": "Christianity",
+                            "definition": "One of the four main religions in Zambia, teaching followers to love God and love their neighbour as the central guide to making choices."
+                        },
+                        {
+                            "term": "Islam",
+                            "definition": "One of the four main religions in Zambia, teaching followers to show complete obedience to Allah and to live at peace with every Muslim in the world."
+                        },
+                        {
+                            "term": "Hinduism",
+                            "definition": "One of the four main religions in Zambia, teaching followers to be free from all selfishness and desires when making choices."
+                        },
+                        {
+                            "term": "Zambia Traditional Religion",
+                            "definition": "One of the four main religions in Zambia, teaching followers to show respect to fellow human beings and to be at peace with the spirits of the dead."
+                        },
+                        {
+                            "term": "Brahman",
+                            "definition": "The ultimate reality or universal spirit in Hinduism, with whom a Hindu seeks to be at peace through righteous choices."
+                        },
+                        {
+                            "term": "Allah",
+                            "definition": "The Arabic word for God in Islam; Muslims seek to show complete obedience to Allah in all their choices."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Knowledge-based: Explain the three steps that people need to take in order to make a good choice.",
+                            "Knowledge-based: Distinguish between talent and gift.",
+                            "Critical thinking: Explain why it is important to take acceptance of responsibility of one's choices in life.",
+                            "Critical thinking: Explain in your own words how a talent can promote entrepreneurship in one's life."
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4.3",
+                    "title": "Talents",
+                    "page": 22,
+                    "competences": [
+                        "Use talent as a source of earning a living",
+                        "Develop talent to promote entrepreneurship"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.3-A1",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Task 1: Ask learners to describe a talent; ask learners to distinguish between a talent and a gift; summarise information on the meaning of talent on the board",
+                                "Task 2: Have learners in groups come up with collages depicting different types of talents and display them in the classroom; using virtual platforms, have learners explore various types of talents to bring out their characteristics; further clarify the meaning and characteristics of various types of talents"
+                            ],
+                            "learner_steps": [
+                                "Task 1: Describe a talent; distinguish between a talent and a gift",
+                                "Task 2: In groups, create collages depicting different types of talents and display them in the classroom; using virtual platforms, explore various types of talents to bring out their characteristics"
+                            ],
+                            "short_notes": "A talent is the natural ability to do something well. It is a special ability to do something well, chosen by an individual or developed by regular practice. On the other hand, a gift is a more general, spiritual, inherent capacity or ability."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.3-A2",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Task 1: Have learners interview three people who have talents and find out how they discovered their talents; have learners record the findings and report to the class; list the findings on the board",
+                                "Task 2: Have learners in groups discuss what they are good at, what they have interest in and what their personality and behaviour is; have groups report to the whole class using a gallery walk; summarise the main points of the discussion",
+                                "Task 3: Using panel discussion, have learners discuss the role of friends, family members and teachers in how one can discover a talent; write down the key points raised in the discussion"
+                            ],
+                            "learner_steps": [
+                                "Task 1: Interview three people who have talents and find out how they discovered their talents; record and report findings to the class",
+                                "Task 2: In groups, discuss what you are good at, what you have interest in and what your personality and behaviour is; report to the whole class using a gallery walk",
+                                "Task 3: In a panel discussion, discuss the role of friends, family members and teachers in discovering a talent"
+                            ],
+                            "short_notes": "One can discover a talent by trying different things. Through their observations and encouragements, friends, family members and teachers can also help a person to discover his or her talents."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.3-A3",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Task 1: Ask learners to describe how one can develop a talent; have learners discuss in class how one can develop a talent; note down the relevant information from the discussion",
+                                "Task 2: Have learners interview two or more identified people in order to find out how they developed their talents; have learners write reports and present their findings to the class; assess and discuss learners' findings"
+                            ],
+                            "learner_steps": [
+                                "Task 1: Describe how one can develop a talent; discuss in class how one can develop a talent",
+                                "Task 2: Interview two or more identified people in order to find out how they developed their talents; write reports and present findings to the class"
+                            ],
+                            "short_notes": "Talents can be developed through regular practice. Good attitudes such as discipline, self-motivation and hard work are needed if one is to develop their talent. Encouragement by friends, family and coaches is also important in the development of talents."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.3-A4",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ask questions on how a talent can be lost",
+                                "Where possible, have learners watch a video based on the parable of the talents",
+                                "Have learners read the Bible passage Matthew 25:14-30",
+                                "Ask learners questions arising from either the video or Bible passage",
+                                "Have learners dramatise the Bible passage",
+                                "Cement the lesson by emphasising the moral lesson from the passage"
+                            ],
+                            "learner_steps": [
+                                "Respond to questions on how a talent can be lost",
+                                "Where possible, watch a video based on the parable of the talents",
+                                "Read the Bible passage Matthew 25:14-30",
+                                "Respond to questions arising from either the video or Bible passage",
+                                "Dramatise the Bible passage"
+                            ],
+                            "short_notes": "God has given everyone talents according to their ability. The Parable of Talents in Matthew 25:14-30 teaches that people should use their talents wisely because whatever talent they do not use will be lost. The talent a person possesses should be used for their own and other people's benefit."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.3-A5",
+                            "page": 25,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Task 1: Have learners research in their communities on how identified people are using their talents to earn a living; have learners report on their findings (what the identified people do, how it is related to their talents and how much they earn); assess the learners' report and discuss with the class",
+                                "Task 2: Have learners watch videos of people using different talents to earn a living; give an exercise based on the videos watched; give feedback on the exercise done by the learners"
+                            ],
+                            "learner_steps": [
+                                "Task 1: Research in the community on how identified people are using their talents to earn a living; report findings including what the person does, how it relates to their talent and how much they earn",
+                                "Task 2: Watch videos of people using different talents to earn a living; complete an exercise based on the videos watched"
+                            ],
+                            "short_notes": "A well-developed talent can be a source of earning a living or income. There are many examples of talents that can be developed into income-earning ventures, e.g. tailoring, hair dressing, dancing, sports, etc."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.4.3-A6",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Task 1: Have learners research on people who have developed talents into entrepreneurial ventures (tailoring, catering, gardening, hair dressing, sport); have learners report their findings to the class; facilitate class discussion on each other's findings; wrap up the findings on the board",
+                                "Task 2: Invite a guest speaker on entrepreneurship and financial education; facilitate learner interaction with the guest speaker; have learners take note of the key points raised during the talk; ask oral questions to cement what has been learnt",
+                                "Task 3: Have learners watch videos on entrepreneurship and financial education; have learners discuss the necessary skills and knowledge one needs to demonstrate how one's talent can promote entrepreneurship; have learners design posters showing how people's talents have been turned into income-generating ventures"
+                            ],
+                            "learner_steps": [
+                                "Task 1: Research on people who have developed talents into entrepreneurial ventures; report findings to the class; discuss each other's findings as a class",
+                                "Task 2: Interact with a guest speaker on entrepreneurship and financial education; take note of the key points raised during the talk",
+                                "Task 3: Watch videos on entrepreneurship and financial education; discuss the necessary skills and knowledge needed to turn talent into entrepreneurship; design posters showing how people's talents have been turned into income-generating ventures"
+                            ],
+                            "short_notes": "All talents can be developed into entrepreneurial ventures. For example, a person good at cooking can develop this talent into a catering business; a footballer can develop the talent into professional football. By developing talent into an entrepreneurial venture, a person not only earns a living but also employs other people. Developing talent into an entrepreneurial activity is one way of poverty reduction in society. However, for a talent to be developed into entrepreneurship, a lot of skills and knowledge are required such as financial literacy, collaboration, consultation and availability. One also requires attitudes of hard work, financial discipline, patience and inner motivation to keep on doing the work."
+                        }
+                    ],
+                    "short_notes": "We all have different talents and abilities, some of which we are born with while others are acquired through practice and experience. No matter what our talent is, it is important to develop it and use it to the best of our abilities. A talent is the natural ability to do something well. Everybody is good at something, but that something or talent needs to be discovered. People have to try out many things in order to discover their special talents.",
+                    "vocabulary": [
+                        {
+                            "term": "Talent",
+                            "definition": "A natural ability to do something well; a special ability chosen by an individual or developed by regular practice."
+                        },
+                        {
+                            "term": "Gift",
+                            "definition": "A more general, spiritual, inherent capacity or ability, as distinct from a talent developed through practice."
+                        },
+                        {
+                            "term": "Entrepreneur",
+                            "definition": "A person who comes up with a good business idea and then starts a business."
+                        },
+                        {
+                            "term": "Financial Literacy",
+                            "definition": "The education one acquires in order to understand financial issues such as budgeting, investing, savings, communication, inter-personal relationships and record keeping."
+                        },
+                        {
+                            "term": "Parable of Talents",
+                            "definition": "A Bible passage (Matthew 25:14-30) teaching that people should use their talents wisely because whatever talent they do not use will be lost."
+                        },
+                        {
+                            "term": "Entrepreneurship",
+                            "definition": "The process of developing a talent or skill into a business venture that generates income and potentially employs other people."
+                        },
+                        {
+                            "term": "Income-generating venture",
+                            "definition": "A business or activity that uses a person's talent or skills to produce earnings or income."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Knowledge-based: Explain the three steps that people need to take in order to make a good choice.",
+                            "Knowledge-based: From what we have learnt on 'Choosing and Talents', distinguish between talent and gift.",
+                            "Application-based: Mr Lika graduated as a Religious Education teacher and was posted to Pimpe Secondary School. While at the college, Mr Lika belonged to the entertainment committee and at times, he would play comedy. When he joined the school, his local community identified his talent of entertaining people especially during weddings. As a result, during weekends, he would be hired to be Master of Ceremonies. Mr Lika became well known in the local community and he would make good money for every performance that he did. What advice would you give Mr Lika concerning his talent as an entertainer?",
+                            "Critical thinking: Explain why it is important to take acceptance of responsibility of one's choices in life.",
+                            "Critical thinking: Explain in your own words, how a talent can promote entrepreneurship in one's life."
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

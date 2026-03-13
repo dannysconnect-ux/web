@@ -1,0 +1,522 @@
+{
+    "subject": "Biology",
+    "grade": "Forms 1-4",
+    "curriculum_framework": "Zambian Education Curriculum 2024",
+    "isbn": "978-9982-00-935-5",
+    "published_by": "Zambia Educational Publishing House",
+    "year": 2024,
+    "vision": "Quality, life long education for all which is accessible, inclusive and relevant to individual, national and global needs",
+    "time_allocation": {
+        "periods_per_week": 6,
+        "minutes_per_period": 40,
+        "minutes_per_lesson": 80
+    },
+    "forms": [
+        {
+            "form": "Form 1",
+            "topics": [
+                {
+                    "topic_id": "1.1.0",
+                    "topic_title": "Concepts and Methods in Biology",
+                    "sub_topics": [
+                        {
+                            "subtopic_id": "1.1.1",
+                            "title": "Nature of Science - Inquiry in Biology",
+                            "page": 2,
+                            "competences": [
+                                "Apply scientific inquiry in carrying out scientific investigations"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activity",
+                                    "activity_number": "1.1.1",
+                                    "page": 2,
+                                    "hook": "How do scientists investigate biological phenomena?",
+                                    "teacher_steps": [
+                                        "Describe the scientific inquiry method",
+                                        "Guide learners through the stages of scientific inquiry",
+                                        "Demonstrate how to observe, identify problems, and form hypotheses",
+                                        "Show examples of testing hypotheses through experimentation",
+                                        "Facilitate data recording and analysis activities",
+                                        "Help learners draw conclusions from investigations"
+                                    ],
+                                    "learner_steps": [
+                                        "Describing the scientific inquiry method",
+                                        "Investigating the stages of scientific inquiry (observation, identifying a problem, forming hypothesis, testing hypothesis through experimentation, recording and analysing data, forming a conclusion)",
+                                        "Applying scientific inquiry method in investigating biological facts and phenomena given a situation",
+                                        "Sharing the findings of the investigations with peers",
+                                        "Using the findings of the investigations to solve real life problems"
+                                    ],
+                                    "short_notes": "Scientific inquiry is a systematic approach to investigating biological phenomena. It involves making observations, asking questions, forming testable hypotheses, conducting experiments, collecting and analyzing data, and drawing evidence-based conclusions. This method forms the foundation of all biological research and helps learners develop critical thinking, problem-solving skills, and scientific literacy. The process is iterative and may require multiple rounds of investigation to reach reliable conclusions."
+                                }
+                            ],
+                            "short_notes": "Scientific inquiry is the foundation of biological investigation. It provides a structured, evidence-based approach to understanding living organisms and their interactions with the environment. Through scientific inquiry, biologists can test ideas, answer questions, and expand our understanding of life.",
+                            "vocabulary": [
+                                {
+                                    "term": "Scientific Inquiry",
+                                    "definition": "A systematic approach to investigating phenomena through observation, hypothesis formation, experimentation, data analysis, and conclusion drawing"
+                                },
+                                {
+                                    "term": "Observation",
+                                    "definition": "The act of carefully watching and noting phenomena as they occur in nature or in a laboratory setting"
+                                },
+                                {
+                                    "term": "Hypothesis",
+                                    "definition": "A testable prediction or proposed explanation for an observation based on prior knowledge"
+                                },
+                                {
+                                    "term": "Experiment",
+                                    "definition": "A controlled test designed to investigate a hypothesis by manipulating variables"
+                                },
+                                {
+                                    "term": "Variable",
+                                    "definition": "A factor that can be changed, controlled, or measured in an experiment"
+                                },
+                                {
+                                    "term": "Data",
+                                    "definition": "Information collected during an experiment or observation, which can be qualitative or quantitative"
+                                },
+                                {
+                                    "term": "Conclusion",
+                                    "definition": "A judgment or decision reached by reasoning from evidence gathered during investigation"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 2,
+                                "questions": [
+                                    "Design a simple scientific investigation to test a biological hypothesis",
+                                    "Identify and explain each step of scientific inquiry in a given scenario",
+                                    "Explain why scientific inquiry is important in biology",
+                                    "Apply the scientific method to investigate a real-life biological problem in your environment",
+                                    "Distinguish between a hypothesis and a conclusion",
+                                    "Describe how scientific inquiry helps us understand living things"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "1.1.2",
+                            "title": "Nature of Biology",
+                            "page": 2,
+                            "competences": [
+                                "Categorise the study of Biology"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activity",
+                                    "activity_number": "1.1.2",
+                                    "page": 2,
+                                    "hook": "What are the different areas of study in Biology and why do we need them?",
+                                    "teacher_steps": [
+                                        "Introduce the nature of Biology as the study of life",
+                                        "Explain the different branches of Biology and their focus areas",
+                                        "Provide examples of what each branch studies",
+                                        "Guide learners to explore each branch through examples",
+                                        "Help learners create a concept map showing relationships between branches",
+                                        "Discuss how branches of Biology interconnect and support each other"
+                                    ],
+                                    "learner_steps": [
+                                        "Exploring the nature of Biology",
+                                        "Identifying the branches of biology (botany, zoology, entomology, genetics, mycology)",
+                                        "Creating a concept map on the nature of Biology"
+                                    ],
+                                    "short_notes": "Biology is the scientific study of life and living organisms. It is divided into several specialized branches to facilitate in-depth study of specific groups or aspects of life. Major branches include: Botany (study of plants), Zoology (study of animals), Entomology (study of insects), Genetics (study of heredity and variation), and Mycology (study of fungi). Each branch uses scientific methods to understand its particular focus area, contributing to our comprehensive understanding of life on Earth."
+                                }
+                            ],
+                            "short_notes": "Biology encompasses various specialized branches, each focusing on different aspects of life. These branches work together to provide a comprehensive understanding of living organisms, their structures, functions, interactions, and evolution.",
+                            "vocabulary": [
+                                {
+                                    "term": "Biology",
+                                    "definition": "The scientific study of life and living organisms"
+                                },
+                                {
+                                    "term": "Botany",
+                                    "definition": "The branch of biology that deals with the scientific study of plants"
+                                },
+                                {
+                                    "term": "Zoology",
+                                    "definition": "The branch of biology concerned with the study of animals"
+                                },
+                                {
+                                    "term": "Entomology",
+                                    "definition": "The scientific study of insects"
+                                },
+                                {
+                                    "term": "Genetics",
+                                    "definition": "The study of heredity and variation in organisms"
+                                },
+                                {
+                                    "term": "Mycology",
+                                    "definition": "The branch of biology concerned with the study of fungi"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 2,
+                                "questions": [
+                                    "List and describe the main branches of Biology",
+                                    "Give three examples of what each branch of Biology studies",
+                                    "Create a concept map showing the relationships between different branches of Biology",
+                                    "Explain why Biology is divided into different specialized branches",
+                                    "Match biological topics to their appropriate branches",
+                                    "Describe how different branches of Biology might work together to solve a problem"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "1.1.3",
+                            "title": "Levels of Biological Organisation",
+                            "page": 2,
+                            "competences": [
+                                "Classify the levels of biological organisation from simple to complex"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activity",
+                                    "activity_number": "1.1.3",
+                                    "page": 2,
+                                    "hook": "How is life organized from the smallest unit to the largest system?",
+                                    "teacher_steps": [
+                                        "Introduce the concept of hierarchical biological organization",
+                                        "Use diagrams, charts, and models to illustrate each level",
+                                        "Guide learners to arrange levels from simple to complex",
+                                        "Provide clear examples at each level of organization",
+                                        "Explain how each level builds upon the previous one",
+                                        "Discuss the importance of organization in living systems"
+                                    ],
+                                    "learner_steps": [
+                                        "Classifying levels of biological organisation (atom, molecule, cell, tissue, organ, system, organism, population, communities, ecosystem, biosphere)"
+                                    ],
+                                    "short_notes": "Living organisms are organized in a hierarchical manner from the smallest units to the largest systems. The levels are: Atoms (smallest chemical units) → Molecules (atoms bonded together) → Cells (basic units of life) → Tissues (groups of similar cells) → Organs (tissues working together) → Organ Systems (organs working together) → Organisms (individual living things) → Populations (groups of same species) → Communities (different populations together) → Ecosystems (communities plus environment) → Biosphere (all ecosystems on Earth). Each level exhibits properties that emerge from the organization of components at the level below it."
+                                }
+                            ],
+                            "short_notes": "Biological organization represents the hierarchy of complex biological structures and systems. Understanding these levels helps learners appreciate how life is structured from simple atoms to complex ecosystems, and how each level contributes to the functioning of the whole.",
+                            "vocabulary": [
+                                {
+                                    "term": "Atom",
+                                    "definition": "The smallest unit of a chemical element"
+                                },
+                                {
+                                    "term": "Molecule",
+                                    "definition": "Two or more atoms chemically bonded together"
+                                },
+                                {
+                                    "term": "Cell",
+                                    "definition": "The basic structural and functional unit of all living organisms"
+                                },
+                                {
+                                    "term": "Tissue",
+                                    "definition": "A group of similar cells working together to perform a specific function"
+                                },
+                                {
+                                    "term": "Organ",
+                                    "definition": "A structure composed of different tissues working together to perform specific functions"
+                                },
+                                {
+                                    "term": "Organ System",
+                                    "definition": "A group of organs working together to perform complex body functions"
+                                },
+                                {
+                                    "term": "Organism",
+                                    "definition": "An individual living thing that can carry out all life processes"
+                                },
+                                {
+                                    "term": "Population",
+                                    "definition": "A group of organisms of the same species living in the same area at the same time"
+                                },
+                                {
+                                    "term": "Community",
+                                    "definition": "All the different populations living and interacting in a particular area"
+                                },
+                                {
+                                    "term": "Ecosystem",
+                                    "definition": "A community of living organisms interacting with their physical environment"
+                                },
+                                {
+                                    "term": "Biosphere",
+                                    "definition": "The global sum of all ecosystems; the zone of life on Earth"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 2,
+                                "questions": [
+                                    "Arrange the levels of biological organisation from simplest to most complex",
+                                    "Give specific examples of each level of biological organisation",
+                                    "Explain how each level of organisation builds upon the previous one",
+                                    "Identify the level of biological organisation in given examples",
+                                    "Describe the relationship between cells, tissues, organs, and organ systems",
+                                    "Compare populations, communities, and ecosystems"
+                                ]
+                            }
+                        },
+                        {
+                            "subtopic_id": "1.1.4",
+                            "title": "Characteristics of Living Things",
+                            "page": 2,
+                            "competences": [
+                                "Analyse the characteristics of living things",
+                                "Categorise life processes of living organisms"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "learning_activity",
+                                    "activity_number": "1.1.4",
+                                    "page": 2,
+                                    "hook": "What makes something alive? How can we tell living things from non-living things?",
+                                    "teacher_steps": [
+                                        "Introduce the seven characteristics of living things",
+                                        "Demonstrate each characteristic using real organisms or examples",
+                                        "Guide learners to observe living things exhibiting these characteristics",
+                                        "Help learners distinguish living from non-living things",
+                                        "Explain life processes including metabolism (catabolism and anabolism)",
+                                        "Facilitate discussions on why all characteristics must be present"
+                                    ],
+                                    "learner_steps": [
+                                        "Investigating the characteristics of living things (feeding/nutrition, respiration, excretion, reproduction, sensitivity/irritability, movement/locomotion, growth)",
+                                        "Distinguishing living things from non-living things",
+                                        "Analysing the concept of life",
+                                        "Describing life processes in living organisms",
+                                        "Analysing life processes in living organisms",
+                                        "Categorising life processes of living organisms (catabolism and anabolism)"
+                                    ],
+                                    "short_notes": "All living organisms share seven key characteristics that distinguish them from non-living things: 1) Nutrition - obtaining and using food for energy and growth; 2) Respiration - releasing energy from food; 3) Excretion - removing waste products from metabolism; 4) Reproduction - producing offspring; 5) Sensitivity/Irritability - detecting and responding to environmental changes; 6) Movement - changing position or place; 7) Growth - permanent increase in size and complexity. Life processes are categorized into catabolism (breaking down complex molecules to release energy) and anabolism (building complex molecules using energy). Together, these processes constitute metabolism."
+                                }
+                            ],
+                            "short_notes": "Living organisms exhibit specific characteristics that distinguish them from non-living matter. These characteristics work together to maintain life and ensure species survival. Understanding these characteristics is fundamental to studying biology.",
+                            "vocabulary": [
+                                {
+                                    "term": "Nutrition",
+                                    "definition": "The process by which organisms obtain and use food for energy, growth, and repair"
+                                },
+                                {
+                                    "term": "Respiration",
+                                    "definition": "The biochemical process of releasing energy from food molecules"
+                                },
+                                {
+                                    "term": "Excretion",
+                                    "definition": "The removal of metabolic waste products from the body"
+                                },
+                                {
+                                    "term": "Reproduction",
+                                    "definition": "The biological process by which organisms produce offspring"
+                                },
+                                {
+                                    "term": "Sensitivity (Irritability)",
+                                    "definition": "The ability to detect and respond to changes in the internal or external environment"
+                                },
+                                {
+                                    "term": "Movement",
+                                    "definition": "Change in position or place, either of the whole organism or parts of it"
+                                },
+                                {
+                                    "term": "Growth",
+                                    "definition": "A permanent increase in size, mass, and complexity of an organism"
+                                },
+                                {
+                                    "term": "Metabolism",
+                                    "definition": "All chemical reactions occurring in living organisms"
+                                },
+                                {
+                                    "term": "Catabolism",
+                                    "definition": "The breakdown of complex molecules into simpler ones, releasing energy"
+                                },
+                                {
+                                    "term": "Anabolism",
+                                    "definition": "The building up of complex molecules from simpler ones, requiring energy"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 3,
+                                "questions": [
+                                    "List and explain the seven characteristics of living things",
+                                    "Distinguish between living and non-living things using specific examples",
+                                    "Explain the difference between catabolism and anabolism with examples",
+                                    "Observe an organism and describe how it exhibits each characteristic of life",
+                                    "Why must all seven characteristics be present for something to be considered alive?",
+                                    "Give examples of catabolic and anabolic processes in the human body"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "topic_id": "1.2.0",
+                    "topic_title": "Principles of Cellular Life",
+                    "sub_topics": [
+                        {
+                            "subtopic_id": "1.2.1",
+                            "title": "Microscopes",
+                            "page": 3,
+                            "competences": [
+                                "Use different types of microscopes to examine specimens"
+                            ],
+                            "instructional_blocks": [
+                                {
+                                    "type": "practical_activity",
+                                    "activity_number": "1.2.1",
+                                    "page": 3,
+                                    "hook": "How can we see things that are too small for the naked eye to see?",
+                                    "teacher_steps": [
+                                        "Introduce different types of microscopes (simple and compound)",
+                                        "Demonstrate the parts of a compound microscope and their functions",
+                                        "Show proper techniques for preparing specimen slides",
+                                        "Demonstrate mounting procedures",
+                                        "Guide learners through proper focusing techniques",
+                                        "Teach how to calculate magnification",
+                                        "Emphasize care and maintenance of microscopes"
+                                    ],
+                                    "learner_steps": [
+                                        "Exploring different types of microscopes (simple and compound microscopes)",
+                                        "Relating parts of a compound microscope to the functions (eye piece lens, objective lenses, body tube, adjustment knobs revolving nose piece, stage, diaphragm, aperture, light source, arm and base)",
+                                        "Practicing the use of microscopes (preparing the specimen slides, mounting, focussing and observing)",
+                                        "Calculating magnification of examined specimen"
+                                    ],
+                                    "short_notes": "Microscopes are essential scientific tools that allow biologists to observe structures invisible to the naked eye. There are two main types: simple microscopes (magnifying glasses with one lens) and compound microscopes (use multiple lenses for higher magnification). A compound microscope has several key parts: eyepiece lens (typically 10x magnification), objective lenses (various magnifications: 4x, 10x, 40x), stage (holds the slide), focusing knobs (coarse and fine adjustment), diaphragm (controls light), and light source. Total magnification is calculated by multiplying eyepiece magnification by objective lens magnification (e.g., 10x × 40x = 400x total magnification). Proper care includes keeping lenses clean, carrying with both hands, and storing in a safe place."
+                                }
+                            ],
+                            "short_notes": "Microscopes revolutionized biology by revealing the microscopic world. Proper understanding and use of microscopes is essential for studying cells, tissues, and microorganisms. These instruments remain fundamental tools in biological research and education.",
+                            "vocabulary": [
+                                {
+                                    "term": "Microscope",
+                                    "definition": "An optical instrument that uses lenses to magnify small objects or organisms"
+                                },
+                                {
+                                    "term": "Simple Microscope",
+                                    "definition": "A microscope with a single lens, like a magnifying glass"
+                                },
+                                {
+                                    "term": "Compound Microscope",
+                                    "definition": "A microscope with multiple lenses that provides higher magnification"
+                                },
+                                {
+                                    "term": "Magnification",
+                                    "definition": "The degree to which an object's image is enlarged by an optical instrument"
+                                },
+                                {
+                                    "term": "Resolution",
+                                    "definition": "The ability to distinguish two close points as separate"
+                                },
+                                {
+                                    "term": "Specimen",
+                                    "definition": "A sample of material prepared for examination under a microscope"
+                                },
+                                {
+                                    "term": "Slide",
+                                    "definition": "A thin flat piece of glass on which specimens are mounted for microscopic examination"
+                                },
+                                {
+                                    "term": "Eyepiece Lens (Ocular)",
+                                    "definition": "The lens closest to the eye in a microscope"
+                                },
+                                {
+                                    "term": "Objective Lens",
+                                    "definition": "The lens closest to the specimen in a microscope"
+                                },
+                                {
+                                    "term": "Stage",
+                                    "definition": "The platform on a microscope where the slide is placed"
+                                },
+                                {
+                                    "term": "Diaphragm",
+                                    "definition": "The part that controls the amount of light passing through the specimen"
+                                }
+                            ],
+                            "assessment": {
+                                "page": 3,
+                                "questions": [
+                                    "Label the parts of a compound microscope",
+                                    "Explain the function of each major part of the microscope",
+                                    "Calculate total magnification: If the eyepiece is 10x and the objective lens is 40x, what is the total magnification?",
+                                    "Demonstrate proper technique for preparing and observing a specimen slide",
+                                    "Compare and contrast simple and compound microscopes",
+                                    "Describe the proper care and maintenance of a microscope",
+                                    "Explain why microscopes are important tools in biology"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "key_competences": [
+        {
+            "competence": "Analytical Thinking",
+            "descriptors": [
+                "Identify patterns",
+                "Compile data, create mental images and address issues",
+                "Evaluate solutions"
+            ]
+        },
+        {
+            "competence": "Communication",
+            "descriptors": [
+                "Use mathematical/scientific language in different situations",
+                "Express oneself using different media and symbols",
+                "Ask for feedback"
+            ]
+        },
+        {
+            "competence": "Creativity and Innovation",
+            "descriptors": [
+                "Explore the objects around them",
+                "Show creativity and innovativeness",
+                "Explore areas of interest"
+            ]
+        },
+        {
+            "competence": "Collaboration",
+            "descriptors": [
+                "Solving puzzle in groups",
+                "Play with peers to build relationships",
+                "Participate in and express themselves through play activities"
+            ]
+        },
+        {
+            "competence": "Critical Thinking",
+            "descriptors": [
+                "Ask and answer simple questions",
+                "Classify objects according to their attributes",
+                "Manipulate different objects",
+                "Solve simple problems in life",
+                "Explore the environment",
+                "Differentiate good from bad"
+            ]
+        },
+        {
+            "competence": "Environmental Sustainability",
+            "descriptors": [
+                "Dispose trash in the designated place",
+                "Adhere to best practices in environmental management",
+                "Identify a clean environment",
+                "Identify types of waste in local environment"
+            ]
+        },
+        {
+            "competence": "Problem Solving",
+            "descriptors": [
+                "Make connections/link with the inner world or social environment",
+                "Use numeracy patterns and relations to solve problems",
+                "Manipulate numbers, shapes and symbols to complete a task"
+            ]
+        }
+    ],
+    "assessment_framework": {
+        "continuous_assessment": {
+            "description": "Conducted in line with concepts and topics using various testing methods",
+            "components": [
+                "Tests",
+                "Practical work",
+                "Projects",
+                "Scientific research"
+            ],
+            "administered_by": "Schools (School Based Assessments - SBAs)"
+        },
+        "final_examination": {
+            "conducted_by": "Examinations Council of Zambia (ECZ)",
+            "assessment_areas": [
+                "Knowledge with understanding",
+                "Handling information and solving problems",
+                "Experimental skills and investigations"
+            ]
+        }
+    }
+}

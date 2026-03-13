@@ -1,0 +1,288 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "4-5 Years",
+    "subject": "Zambian Languages",
+    "philosophy": "The main focus of teaching Pre-Literacy and Language in Zambian Languages is to develop the learners' oral language. However, other foundational skills in reading and writing will also be taught. This syllabus has been developed to ensure consistent exposure to and practice of language, thereby helping learners become fluent and successful in academics as they progress to Grade 1 and beyond.",
+    "competence_learning": "The first section of this syllabus covers Nursery Level (3-4 years) while the second section covers Reception Level (4-5 years). In terms of content, this syllabus has the following components: Listening and Speaking, Pre-reading and Pre-writing. These components will enhance the development of listening, speaking, pre-reading and pre-writing skills. Each component has specific competences that are to be achieved. The competences acquired at the level of ECE will prepare learners for learning at subsequent levels.",
+    "goals": [
+      "Develop the learners' oral language.",
+      "Help learners become fluent and successful in academics as they progress to Grade 1 and beyond.",
+      "Prepare learners for learning at subsequent levels.",
+      "Enhance the development of listening, speaking, pre-reading and pre-writing skills."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "1.2.1",
+      "topic_title": "0.2.1 NAMES",
+      "page_number": 73,
+      "subtopics": [
+        "0.2.1.1 Names of Family Members",
+        "0.2.1.2 Family Relationship",
+        "0.2.1.3 Names of Familiar Objects",
+        "0.2.1.4 Names of Occupations"
+      ],
+      "specific_outcomes": [
+        "0.2.1.1.1 Name members of the extended family",
+        "0.2.1.2.1 Tell their relationship with extended family members",
+        "0.2.1.3.1 Name objects in the school environment",
+        "0.2.1.3.2 State functions of objects in the school environment",
+        "0.2.1.4.1 Name occupations in the community",
+        "0.2.1.4.2 Role play different occupations in the community"
+      ]
+    },
+    {
+      "unit": "1.2.2",
+      "topic_title": "0.2.1.5 Animals",
+      "page_number": 74,
+      "subtopics": [
+        "0.2.1.5 Animals"
+      ],
+      "specific_outcomes": [
+        "0.2.1.5.1 Classify domestic animals according to functions",
+        "0.2.1.5.2 Name common wild animals"
+      ]
+    },
+    {
+      "unit": "1.2.3",
+      "topic_title": "0.2.2 GREETINGS",
+      "page_number": 74,
+      "subtopics": [
+        "0.2.2.1 Common Greetings"
+      ],
+      "specific_outcomes": [
+        "0.2.2.1.1 Use appropriate greetings for different situations"
+      ]
+    },
+    {
+      "unit": "1.2.4",
+      "topic_title": "0.2.3 SIMPLE STORIES",
+      "page_number": 74,
+      "subtopics": [
+        "0.2.3.1 Narratives"
+      ],
+      "specific_outcomes": [
+        "0.2.3.1.1 Listen to a simple story told",
+        "0.2.3.1.2 Re-tell a simple story",
+        "0.2.3.1.3 Tell own stories",
+        "0.2.3.1.4 Role play a simple story"
+      ]
+    },
+    {
+      "unit": "1.2.5",
+      "topic_title": "0.2.4 DESCRIPTIONS",
+      "page_number": 74,
+      "subtopics": [
+        "0.2.4.1 Pictures",
+        "0.2.4.2 Simple Events",
+        "0.2.4.3 Things in the School",
+        "0.2.4.4 Important Places"
+      ],
+      "specific_outcomes": [
+        "0.2.4.1.1 Describe things in pictures",
+        "0.2.4.1.2 Describe people in pictures",
+        "0.2.4.2.1 Describe simple events",
+        "0.2.4.3.1 Describe things in the school",
+        "0.2.4.4.1 Describe important places in the community"
+      ]
+    },
+    {
+      "unit": "1.2.6",
+      "topic_title": "0.2.5 RHYMES",
+      "page_number": 75,
+      "subtopics": [
+        "0.2.5.1 Simple Rhymes"
+      ],
+      "specific_outcomes": [
+        "0.2.5.1.1 Recite simple rhymes"
+      ]
+    },
+    {
+      "unit": "1.2.7",
+      "topic_title": "0.2.6 TONGUE TWISTERS",
+      "page_number": 75,
+      "subtopics": [
+        "0.2.6.1 Simple Tongue Twisters"
+      ],
+      "specific_outcomes": [
+        "0.2.6.1.1 Recite simple tongue twisters"
+      ]
+    },
+    {
+      "unit": "1.2.8",
+      "topic_title": "0.2.7 PRAYER",
+      "page_number": 75,
+      "subtopics": [
+        "0.2.7.1 Simple Prayer"
+      ],
+      "specific_outcomes": [
+        "0.2.7.1.1 Say a simple prayer"
+      ]
+    },
+    {
+      "unit": "1.2.9",
+      "topic_title": "0.2.8 INSTRUCTIONS",
+      "page_number": 75,
+      "subtopics": [
+        "0.2.8.1 Simple Instructions",
+        "0.2.8.2 Simple directions"
+      ],
+      "specific_outcomes": [
+        "0.2.8.1.1 Give simple instructions",
+        "0.2.8.2.1 Give simple directions"
+      ]
+    },
+    {
+      "unit": "1.2.10",
+      "topic_title": "0.2.9 CONVERSATIONS",
+      "page_number": 76,
+      "subtopics": [
+        "0.2.9.1 Emotions",
+        "0.2.9.2 Means of Communication",
+        "0.2.9.3 Family Experiences",
+        "0.2.9.4 Experiences with Friends",
+        "0.2.9.5 Home Chores",
+        "0.2.9.6 School Chores",
+        "0.2.9.7 Modes of Transport",
+        "0.2.9.8 Buying and Selling"
+      ],
+      "specific_outcomes": [
+        "0.2.9.1.1 Talk about things that make them happy or sad",
+        "0.2.9.2.1 Talk about means of communication",
+        "0.2.9.3.1 Role play family experiences",
+        "0.2.9.4.1 Take turns when conversing with others",
+        "0.2.9.5.1 Talk about chores they do at home",
+        "0.2.9.6.1 Talk about school chores",
+        "0.2.9.7.1 Talk about modes of Transport",
+        "0.2.9.8.1 Role play buying and selling"
+      ]
+    },
+    {
+      "unit": "1.2.11",
+      "topic_title": "0.2.10 MESSAGES",
+      "page_number": 77,
+      "subtopics": [
+        "0.2.10.1 Common Signposts"
+      ],
+      "specific_outcomes": [
+        "0.2.10.1.1 Interpret common signposts"
+      ]
+    },
+    {
+      "unit": "1.2.12",
+      "topic_title": "0.2.11 RIDDLES",
+      "page_number": 77,
+      "subtopics": [
+        "0.2.11.1 Simple riddles"
+      ],
+      "specific_outcomes": [
+        "0.2.11.1.1 Say and respond to simple riddles"
+      ]
+    },
+    {
+      "unit": "1.2.13",
+      "topic_title": "0.2.12 POEMS",
+      "page_number": 77,
+      "subtopics": [
+        "0.2.12.1 Simple Poems"
+      ],
+      "specific_outcomes": [
+        "0.2.12.1.1 Recite simple poems"
+      ]
+    },
+    {
+      "unit": "1.2.14",
+      "topic_title": "0.2.13 CONCEPT OF PRINT",
+      "page_number": 78,
+      "subtopics": [
+        "0.2.13.1 Parts of a Book"
+      ],
+      "specific_outcomes": [
+        "0.2.13.1.1 Identify parts of a book"
+      ]
+    },
+    {
+      "unit": "1.2.15",
+      "topic_title": "0.2.14 PICTURES",
+      "page_number": 78,
+      "subtopics": [
+        "0.2.14.1 Picture Interpretation"
+      ],
+      "specific_outcomes": [
+        "0.2.14.1.1 Interpret pictures",
+        "0.2.14.1.2 Sequence pictures to form a picture strip"
+      ]
+    },
+    {
+      "unit": "1.2.16",
+      "topic_title": "0.2.15 SOUNDS",
+      "page_number": 78,
+      "subtopics": [
+        "0.2.15.1 Syllables",
+        "0.2.15.2 Initial Sounds in Words",
+        "0.2.15.3 Letter Sounds"
+      ],
+      "specific_outcomes": [
+        "0.2.15.1.1 Identify syllables in simple oral words",
+        "0.2.15.1.2 Blend syllables to form simple oral words",
+        "0.2.15.1.3 Segment simple oral words into syllables",
+        "0.2.15.2.1 Identify initial sounds in oral words",
+        "0.2.15.3.1 Sound out letters"
+      ]
+    },
+    {
+      "unit": "1.2.17",
+      "topic_title": "0.2.16 LISTENING COMPREHENSION",
+      "page_number": 78,
+      "subtopics": [
+        "0.2.16.1 Simple Stories"
+      ],
+      "specific_outcomes": [
+        "0.2.16.1.1 Demonstrate knowledge of simple story"
+      ]
+    },
+    {
+      "unit": "1.2.18",
+      "topic_title": "0.2.17 READING",
+      "page_number": 78,
+      "subtopics": [
+        "0.2.17.1 Syllables",
+        "0.2.17.2 Simple words"
+      ],
+      "specific_outcomes": [
+        "0.2.17.1.1 Blend sounds (letters) to form syllables",
+        "0.2.17.1.2 Read Syllables",
+        "0.2.17.1.3 Blend syllables to form simple words",
+        "0.2.17.2.1 Read simple words"
+      ]
+    },
+    {
+      "unit": "1.2.19",
+      "topic_title": "0.2.18 HANDWRITING",
+      "page_number": 80,
+      "subtopics": [
+        "0.2.18.1 Pattern writing",
+        "0.2.18.2 Tracing",
+        "0.2.18.3 Copying",
+        "0.2.18.4 Colouring",
+        "0.2.18.5 Drawing"
+      ],
+      "specific_outcomes": [
+        "0.2.18.1.1 Write simple patterns",
+        "0.2.18.2.1 Trace lines",
+        "0.2.18.2.2 Trace simple shapes",
+        "0.2.18.2.3 Trace letters",
+        "0.2.18.3.1 Copy simple patterns",
+        "0.2.18.3.2 Copy simple shapes",
+        "0.2.18.3.3 Copy letters",
+        "0.2.18.3.4 Copy syllables",
+        "0.2.18.3.5 Write own name",
+        "0.2.18.3.6 Copy simple words",
+        "0.2.18.4.1 Colour shapes and drawings",
+        "0.2.18.5.1 Draw different objects",
+        "0.2.18.5.2 Communicate ideas through drawings"
+      ]
+    }
+  ]
+}

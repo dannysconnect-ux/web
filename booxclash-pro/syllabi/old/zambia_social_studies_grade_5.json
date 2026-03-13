@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "5",
+    "subject": "Social Studies"
+  },
+  "topics": [
+    {
+      "unit": "5.1",
+      "topic_title": "LIVING TOGETHER IN THE COMMUNITY",
+      "page_number": 25,
+      "subtopics": [
+        "5.1.1 District"
+      ],
+      "learning_outcomes": [
+        "Locate on the map of Zambia the position of the district",
+        "Identify the main physical features on a map of the district",
+        "Describe social, economic, cultural, political structures of the district in the past",
+        "Mention the cultural composition of the people in the district",
+        "Describe the economic activities in the district",
+        "List names of historical and cultural sites in the district",
+        "State the significance of each historical/cultural site"
+      ]
+    },
+    {
+      "unit": "5.2",
+      "topic_title": "GOVERNANCE",
+      "page_number": 26,
+      "subtopics": [
+        "5.2.1 Sex and Gender Roles",
+        "5.2.2 Threats to Human Rights"
+      ],
+      "learning_outcomes": [
+        "Explain sex and gender roles",
+        "Explain gender discrimination",
+        "Discuss effects of gender discrimination",
+        "promote gender equality Identify institutions that",
+        "State factors that hinder citizens from enjoying their rights",
+        "Mention examples of human rights violations",
+        "Identify organisations protecting human rights"
+      ]
+    },
+    {
+      "unit": "5.3",
+      "topic_title": "CHRISTIAN LIVING",
+      "page_number": 26,
+      "subtopics": [
+        "5.3.1 Discipline and Punishment"
+      ],
+      "learning_outcomes": [
+        "Describe the importance of child discipline",
+        "Identify ways of discipline",
+        "Describe punishment",
+        "Identify different types of punishment"
+      ]
+    },
+    {
+      "unit": "5.4",
+      "topic_title": "ENVIRONMENT",
+      "page_number": 27,
+      "subtopics": [
+        "5.4.1 Rural-urban Migration"
+      ],
+      "learning_outcomes": [
+        "Describe 'migration'",
+        "Explain rural-urban migration and its effects",
+        "Suggest possible solutions to rural-urban migration"
+      ]
+    },
+    {
+      "unit": "5.5",
+      "topic_title": "LEARNING ABOUT MONEY",
+      "page_number": 27,
+      "subtopics": [
+        "5.5.1 Personal financial goal-setting"
+      ],
+      "learning_outcomes": [
+        "Outline future personal financial goals",
+        "Describe links between training, qualifications and future earnings",
+        "Explain importance of financial security"
+      ]
+    },
+    {
+      "unit": "5.6",
+      "topic_title": "ENTREPRENEURSHIP",
+      "page_number": 28,
+      "subtopics": [
+        "5.6.1 Wealth Generation"
+      ],
+      "learning_outcomes": [
+        "Explain entrepreneurship",
+        "Explain how wealth can be generated"
+      ]
+    },
+    {
+      "unit": "5.7",
+      "topic_title": "TRANSPORT AND COMMUNICATION",
+      "page_number": 28,
+      "subtopics": [
+        "5.7.1 Transport and Communication in the District"
+      ],
+      "learning_outcomes": [
+        "Describe the development of transport and communication services"
+      ]
+    }
+  ]
+}

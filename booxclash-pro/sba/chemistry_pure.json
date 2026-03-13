@@ -1,0 +1,174 @@
+{
+  "curriculum": "Zambia ECZ Chemistry Syllabus (Grades 10-12)",
+  "grades": [
+    {
+      "grade": 10,
+      "topics": [
+        {
+          "topic": "10.1 Introduction to Chemistry",
+          "subtopics": [
+            "10.1.1 Introduction to Chemistry"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate an appreciation of safety in the laboratory and apply general laboratory safety rules."
+          ]
+        },
+        {
+          "topic": "10.2 The Particulate Nature of Matter",
+          "subtopics": [
+            "10.2.1 Matter and the Kinetic theory",
+            "10.2.2 Diffusion"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate the changes of states of matter (melting, freezing, boiling, condensation, sublimation).",
+            "Demonstrate the movement of particles (diffusion) in fluids."
+          ]
+        },
+        {
+          "topic": "10.3 Experimental Techniques",
+          "subtopics": [
+            "10.3.1 Measuring of quantities",
+            "10.3.2 Criteria of purity",
+            "10.3.3 Separating mixtures"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate how different quantities are measured (time, temperature, mass, and volume).",
+            "Identify and safely use measuring apparatus (stopwatches, thermometers, balances, burettes, pipettes, volumetric flasks, measuring cylinders, and gas syringes).",
+            "Demonstrate determination of the purity of a substance using melting and boiling points.",
+            "Demonstrate different methods of separating mixtures (decantation, filtration, crystallisation, distillation, magnetism, chromatography, evaporation, centrifugation).",
+            "Interpret simple paper chromatograms."
+          ]
+        },
+        {
+          "topic": "10.4 Atoms, Elements, Compounds and Molecules",
+          "subtopics": [
+            "10.4.1 Atomic structure and Periodic Table",
+            "10.4.2 Bonding",
+            "10.4.3 Macromolecules",
+            "10.4.4 Chemical formulae and equations"
+          ],
+          "practical_and_experimental_content": []
+        }
+      ]
+    },
+    {
+      "grade": 11,
+      "topics": [
+        {
+          "topic": "11.5 Acids, Bases and Salts",
+          "subtopics": [
+            "11.5.1 Characteristic properties of acids and bases",
+            "11.5.2 Preparation of salts",
+            "11.5.3 Types of oxides",
+            "11.5.4 Identification of ions and gases (Qualitative analysis)"
+          ],
+          "practical_and_experimental_content": [
+            "Investigate the acidity and alkalinity of substances in everyday life.",
+            "Demonstrate the preparation of an insoluble salt using precipitation and separation by filtration.",
+            "Demonstrate the preparation of soluble salts by reaction of acids with bases, metals, and carbonates, followed by crystallisation and filtration.",
+            "Demonstrate the preparation of ammonium, potassium, and sodium salts.",
+            "Perform qualitative analysis to identify unknown cations, anions, and gases."
+          ]
+        },
+        {
+          "topic": "11.6 The Mole Concept",
+          "subtopics": [
+            "11.6.1 Relative masses",
+            "11.6.2 The mole",
+            "11.6.3 Empirical and Molecular formulae"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate acid-base titrations to solve problems involving concentration and the dilution law."
+          ]
+        },
+        {
+          "topic": "11.7 Chemical Reactions",
+          "subtopics": [
+            "11.7.1 Rates of chemical reactions",
+            "11.7.4 Energetics of reactions"
+          ],
+          "practical_and_experimental_content": [
+            "Determine the rate of chemical reactions experimentally.",
+            "Plan and conduct investigations to show that respiration and photosynthesis involve energy changes (exothermic and endothermic reactions)."
+          ]
+        },
+        {
+          "topic": "11.8 The Periodic Table",
+          "subtopics": [
+            "11.8.1 Groups and Periods",
+            "11.8.2 Groups and Periodic trends",
+            "11.8.3 Transition metals"
+          ],
+          "practical_and_experimental_content": [
+            "Investigate the physical and chemical properties of transition elements experimentally."
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 12,
+      "topics": [
+        {
+          "topic": "12.9 Chemistry and Electricity",
+          "subtopics": [
+            "12.9.1 Conductors",
+            "12.9.2 Electrolysis",
+            "12.9.3 Simple cells (chemical cell)"
+          ],
+          "practical_and_experimental_content": [
+            "Plan and conduct an experiment to investigate electrical conductors and non-conductors.",
+            "Experiment with electrolytic cells to classify electrolytes and non-electrolytes.",
+            "Formulate hypotheses and observe products at the electrodes during the electrolysis of molten binary ionic compounds and aqueous ionic solutions."
+          ]
+        },
+        {
+          "topic": "12.10 Metals",
+          "subtopics": [
+            "12.10.1 General properties of metals",
+            "12.10.2 Reactivity and Electro Chemical Series",
+            "12.10.3 Alloys",
+            "12.10.4 Corrosion"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate an order of reactivity from a set of experimental results (e.g., reduction of metallic oxides by other metals).",
+            "Investigate and describe the effects of heat on hydroxides, carbonates, nitrates of metals and ammonium compounds."
+          ]
+        },
+        {
+          "topic": "12.11 Non-Metals",
+          "subtopics": [
+            "12.11.1 General properties of non-metals",
+            "12.11.2 Hydrogen",
+            "12.11.3 Oxygen",
+            "12.11.5 Nitrogen",
+            "12.11.6 Chlorine",
+            "12.11.7 Sulphur",
+            "12.11.8 Carbon and carbonates",
+            "12.11.9 Silicon"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate the laboratory methods for the preparation, collection, and testing of hydrogen chloride gas.",
+            "Demonstrate the method for the preparation of hydrochloric acid by dissolving gas in water.",
+            "Demonstrate the laboratory preparation, collection, and test for sulphur dioxide.",
+            "Investigate physical and chemical properties of non-metals and their corresponding gases experimentally."
+          ]
+        },
+        {
+          "topic": "12.12 Organic Chemistry",
+          "subtopics": [
+            "12.12.1 Saturated and unsaturated Hydrocarbons",
+            "12.12.2 Alcohols (Alkanols)",
+            "12.12.3 Carboxylic acids (alkanoic acids)",
+            "12.12.4 Esters (Alkanoates)",
+            "12.12.5 Homologous series",
+            "12.12.6 Macromolecules (Polymers)"
+          ],
+          "practical_and_experimental_content": [
+            "Conduct chemical tests for unsaturated hydrocarbons (alkenes) using bromine solution and observing colour changes.",
+            "Use models to demonstrate the structures of isomers and the concept of catenation."
+          ]
+        }
+      ]
+    }
+  ]
+}

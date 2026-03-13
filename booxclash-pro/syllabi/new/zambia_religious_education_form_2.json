@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 2",
+    "subject": "Religious Education",
+    "philosophy": "Quality lifelong education for all which is accessible, inclusive and relevant to individual, national and global needs and value systems. The syllabus aims to make learning at Ordinary Secondary School level more meaningful and enjoyable as it is highly activity oriented and allows for a smooth transition from Ordinary Secondary School Level to the Advanced Secondary School level or Tertiary Education.",
+    "competence_learning": "The Religious Education Syllabus for Ordinary Level Secondary Education has been reviewed to provide a national age-appropriate curriculum for learners from Form 1 to 4. The syllabus aims to provide quality education that is aligned with the Competence Based Curriculum and twenty first Century Skills. It also aims to impart the knowledge, skills, values and positive attitudes that are aimed at enabling learners to live and grow into productive and useful members of their communities and the Zambian society.",
+    "goals": [
+      "To impart the knowledge, skills, values and positive attitudes that enable learners to live and grow into productive and useful members of their communities and the Zambian society.",
+      "To facilitate the holistic development of learners' physical, mental, emotional, social, spiritual and moral faculties.",
+      "To foster understanding, appreciation and respect for cultural and other aspects of plurality in Zambian society.",
+      "To help learners understand the belief systems of others, clarify their own belief systems, deal with problems and resolve conflicts.",
+      "To promote and encourage the cross-pollination of ideas among learners of different ethnic backgrounds.",
+      "To help learners develop intellectually and seek to refine their critical thinking skills, judgements and acquisition of knowledge."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "2.1",
+      "topic_title": "Division, Sin and Forgiveness",
+      "page_number": 25,
+      "subtopics": [
+        "Division and hatred",
+        "Division and hatred in the four religions",
+        "Overcoming division and hatred",
+        "Sin, Forgiveness and Reconciliation"
+      ],
+      "specific_outcomes": [
+        "Practise unity and love in daily living",
+        "Recognise other people's beliefs and practices",
+        "Apply religious teachings on overcoming division and hatred",
+        "Relate religious teachings on sin, forgiveness and reconciliation to real life situations"
+      ]
+    },
+    {
+      "unit": "2.2",
+      "topic_title": "Freedom and Community",
+      "page_number": 26,
+      "subtopics": [
+        "Freedom and Community",
+        "The teachings of the four religions in Zambia on freedom in community"
+      ],
+      "specific_outcomes": [
+        "Demonstrate understanding of the importance of freedom in community",
+        "Practice teamwork in the community",
+        "Apply teachings of the four religions in Zambia on freedom in community"
+      ]
+    },
+    {
+      "unit": "2.3",
+      "topic_title": "Self-Esteem",
+      "page_number": 27,
+      "subtopics": [
+        "Self-Esteem",
+        "Social and Emotional Learning (SEL)",
+        "Religious teachings on self-esteem"
+      ],
+      "specific_outcomes": [
+        "Analyse personal strength and weakness",
+        "Practise Social and Emotional Learning competences",
+        "Apply teachings of the four religions in Zambia on self-esteem"
+      ]
+    },
+    {
+      "unit": "2.4",
+      "topic_title": "Ambitions and Hope",
+      "page_number": 28,
+      "subtopics": [
+        "Ambitions",
+        "Hope",
+        "Religious teachings on Ambitions and Hope"
+      ],
+      "specific_outcomes": [
+        "Promote one's ambitions",
+        "Demonstrate creativity and innovation in ambitions and hope",
+        "Apply hope in daily life",
+        "Analyse religious teachings on ambitions and hope"
+      ]
+    },
+    {
+      "unit": "2.5",
+      "topic_title": "Justice in Society",
+      "page_number": 29,
+      "subtopics": [
+        "Justice and injustice",
+        "Religious teachings on Justice in society"
+      ],
+      "specific_outcomes": [
+        "Demonstrate understanding of justice in society",
+        "Demonstrate how good governance promotes social justice",
+        "Apply religious teachings on Justice in society"
+      ]
+    },
+    {
+      "unit": "2.6",
+      "topic_title": "Work and Ethics",
+      "page_number": 30,
+      "subtopics": [
+        "Work",
+        "Ethics",
+        "Religious teachings on work"
+      ],
+      "specific_outcomes": [
+        "Recognise significance of work in society",
+        "Use work as a source of investment",
+        "Show that entrepreneurial activities constitute work",
+        "Show positive attitudes towards work",
+        "Analyse teachings of the four religions on work"
+      ]
+    }
+  ]
+}

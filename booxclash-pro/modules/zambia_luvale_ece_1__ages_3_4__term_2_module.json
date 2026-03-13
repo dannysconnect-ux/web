@@ -1,0 +1,385 @@
+{
+  "subject": "Luvale",
+  "grade": "ECE 1 (Ages 3-4)",
+  "term": 2,
+  "topics": [
+    {
+      "topic_id": "1.0",
+      "topic_title": "Kulomba Lusesa (Asking for Permission)",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.1",
+          "title": "Kulomba lusesa (Asking for permission)",
+          "page": 14,
+          "competences": [
+            "Kuzachisa lilimi chipwe mazu akwoloka hakulomba lusesa (Use appropriate language when asking for permission)"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "A.1",
+              "page": 14,
+              "hook": "What do you say when you want to go outside or to the toilet?",
+              "teacher_steps": [
+                "Hula valongi vahanjike vivatela kulinga nge vanakusaka kuya haweluka chipwe kuchimbushu (Ask learners to talk about things they do when going outside or to the toilet)",
+                "Hakamangana kulivino: kulomba, kulovoka kaha, kulipihishila tuhu navyuma vikwavo vinava shimutwila valongi (Demonstrate: asking, going out, showing respect with their belongings)",
+                "Lumbunwina valongi ngwove vatela kulomba lusesa (Remind learners that they should ask for permission)",
+                "Valweza valongi vavali vavali valilombe vyuma valinavyo (Let learners in pairs ask for things they have)",
+                "Vatwale hachikolo vemane mumukana valilongese kulomba lusesa hakwingila mushikola (Take them to school and let them practice asking permission before entering school)",
+                "Lweza valongi valilongese kulomba lusese lwakuya haweluka (Let learners practice asking permission to go outside)"
+              ],
+              "learner_steps": [
+                "Vahanjike vivatela kulinga nge vanakusaka kuya haweluka chipwe kuchimbushu (Talk about what they do when going outside or to the toilet)",
+                "Mwavomwavo valilombe kuzachisa mazu ali nge: Ngwakulombako sonekeso yove, Ngwakulombako mukanda wove (Ask using words like: May I borrow your pencil, May I borrow your book)",
+                "Vatela kulomba namazu ali nge: Mulongeshi, ngulinakulomba nguyengako haweluka/kuchimbushu (Use words like: Teacher, may I go outside/to the toilet)",
+                "Kwimika mavoko kulumbununa kulomba lusesa nge navasaka kukumbulula chihula chipwe kuhulisa (Raise hand to show asking permission when wanting to answer a question or speak)",
+                "Vangongomweze kuchikolo shimbu kanda vengile mushikola (Return to class before entering school)"
+              ],
+              "short_notes": "This activity teaches learners proper etiquette for asking permission using respectful language. The Gradual Release Model (GRM) is applied where the teacher demonstrates first, practices with learners, and then learners practice independently. Focus is on polite phrases like 'Mulongeshi, ngulinakulomba...' (Teacher, may I ask...) and appropriate body language like raising hands."
+            }
+          ],
+          "vocabulary": [
+            {
+              "term": "kulomba",
+              "definition": "to ask/request"
+            },
+            {
+              "term": "lusesa",
+              "definition": "permission"
+            },
+            {
+              "term": "kulovoka",
+              "definition": "to go out"
+            },
+            {
+              "term": "kuchimbushu",
+              "definition": "to the toilet"
+            },
+            {
+              "term": "haweluka",
+              "definition": "outside"
+            },
+            {
+              "term": "sonekeso",
+              "definition": "pencil"
+            },
+            {
+              "term": "mukanda",
+              "definition": "book"
+            }
+          ],
+          "assessment": {
+            "page": 15,
+            "questions": [
+              "Can learners ask for permission using appropriate language?",
+              "Can learners use polite words like 'Ngulinakulomba' appropriately?",
+              "Do learners raise their hands before speaking?",
+              "Can learners ask permission to go outside or to the toilet correctly?"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "2.0",
+      "topic_title": "Shimbu Kanda Kutanga - Vivumo (Pre-reading - Sounds)",
+      "sub_topics": [
+        {
+          "subtopic_id": "2.1",
+          "title": "Vivumo vyakufuma kuvyuma vyakulisezaseza (Sounds from simple objects)",
+          "page": 16,
+          "competences": [
+            "Kulondezeza vivumo vyakufuma kuvyuma vyakulisezaseza (Identify sounds from simple objects)"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "A.1",
+              "page": 17,
+              "hook": "What sounds do different objects make?",
+              "teacher_steps": [
+                "Hula valongi vavumise vivumo ovyo vathachikiza (Ask learners to make sounds they know)",
+                "Solola vyuma vyechikuvumanga kuli valongi (ngezo, ngoma, kapyololo...) kaha valondezeze vivumo vanashinganyeka vyechikufumanga kuvyuma khana (Show objects that make sounds to learners and let them identify the sounds)",
+                "Haka vyuma vyavivumo hachisalo chipwe muchihela unawahisa (Put sound objects on mat or in a place you prepare)",
+                "Lweza valongi vahemese vyuma khana (ngoma, chichakachaka, phala...) (Let learners touch the objects)",
+                "Valweze vavuluke vivumo vanakwivwa (ndindindi, chakachaka, polilo, aaaaaaa...) (Let them produce sounds they hear)",
+                "Vahule vihula vyakufwana nge: Ngoma yavumu ngachili?....ndindindi, Nyi sayilini nawa?....aaaaaaaaaaa (Ask questions like: What sound does the drum make?...ndindindi)",
+                "Solola khati yachivumo /a/ kulivalongi kaha lumbununa kwesekesa nachivumo chasayilini (Show letter card /a/ to learners and emphasize connection with ambulance sound)",
+                "Sweka vinoma kaha valongi vatonde chize chechikuvumanga /aaaaaa/ (Leave materials so learners find things that make sound /aaaaaa/)",
+                "Hana khati yamuvwimbimbi wachuma chechi kuvumanga aaaaaa kuli longi hilongi (Give picture card of object making sound aaaaaa to each learner)",
+                "Valweze vavitonde, nge vanachiwane valondezeze chivumo chachuma khana (Let them find and identify the sound of that object)",
+                "Lweza longi hilongi alondezeze chivumo /a/ chili hakhati (Let each learner identify sound /a/ on the card)"
+              ],
+              "learner_steps": [
+                "Vakumbulule nakuvuluka vivumo vathachikiza (Remember and produce sounds they know)",
+                "Vahemese vyuma khana (ngoma, chichakachaka, phala...) (Touch the objects)",
+                "Valondezeze vivumo navevwa (ndindindi, chakachaka, aaaaaaa...) (Identify sounds they hear)",
+                "Vevwilile kuchivumo chasayilini kaha vachilondezeze (Listen to ambulance sound and identify it)",
+                "Vatonde vyuma vyechikuvumisanga chivumo /aaaaaa/ (Find objects that make sound /aaaaaa/)",
+                "Vavitonde, nge vanachiwane valondezeze chivumo chachuma aaaaaaa (Find and identify the sound of the object)",
+                "Umwe umwe valondezeze chivumo /a/ (Each one identify sound /a/)"
+              ],
+              "short_notes": "This activity introduces phonemic awareness through sound identification. Learners explore sounds from everyday objects (drums, rattles, bells, ambulance) and connect them to vowel sounds. The focus is on the vowel /a/ using multisensory approach - hearing, seeing, and touching. This builds foundation for reading by developing auditory discrimination skills."
+            }
+          ],
+          "vocabulary": [
+            {
+              "term": "vivumo",
+              "definition": "sounds"
+            },
+            {
+              "term": "kulondezeza",
+              "definition": "to identify"
+            },
+            {
+              "term": "ngoma",
+              "definition": "drum"
+            },
+            {
+              "term": "ngezo",
+              "definition": "bell"
+            },
+            {
+              "term": "chichakachaka",
+              "definition": "rattle"
+            },
+            {
+              "term": "sayilini",
+              "definition": "ambulance/siren"
+            },
+            {
+              "term": "vasona vumo",
+              "definition": "vowel sounds"
+            }
+          ],
+          "assessment": {
+            "page": 17,
+            "questions": [
+              "Can learners identify sounds from different objects correctly?",
+              "Can learners produce the sound /a/ when shown the letter?",
+              "Can learners find objects that make the /a/ sound?",
+              "Can learners discriminate between different sounds?"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "2.2",
+          "title": "Mijimbu yayashi (Simple stories)",
+          "page": 18,
+          "competences": [
+            "Kwivwilila kumijimbu yayashi (Listen to simple stories)",
+            "Kukumbulula vihula hamijimbu (Answer questions about stories)"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "A.1",
+              "page": 18,
+              "hook": "Let's listen to a story together",
+              "teacher_steps": [
+                "Twama navalongi hachisalo mumujingulule (Sit with learners in a circle on mat)",
+                "Vehule vahanjike vivanahichimo muchalumingo chosena (Ask them to talk about anything)",
+                "Valweze ngenayove nawa uli namujimbu watela kuvalweza (Tell them you have a story to share)",
+                "Zamikisa ngwove valihulike vevwilile (Emphasize that they should listen attentively)",
+                "Tanga mujimbu wakutunga wakufwana nge 'Apo ya Anna' (Tell a story like 'Anna's Grandma')",
+                "Zamikisa hamazu ali nachivumo /a/ (Anna, Apo, ali, alile...) (Emphasize words with sound /a/)",
+                "Hula valongi chivumo muka vanakwivwa chikuma (/a/) (Ask learners what sound they hear often)",
+                "Vumisa chivumo /a/ kulivalongi (Model the sound /a/ to learners)",
+                "Kaha valweza vashinganyeke mazu vanevu mumujimbu ali na chivumo/a/ (Anna, Apo, ali, alile...) (Let them think of words in the story with sound /a/)",
+                "Lamika chati yavasona vakulisezaseza halivaya (Display vowel chart on board)",
+                "Lweza valongi vahake chivumo /a/ muchipango (Let learners find sound /a/ on chart)",
+                "Mumazavu echa valongi vahandunune jikhati jamazu ali nachumo /a/ nawaze anahono chivumo khana (In groups let learners sort picture cards of words with sound /a/)"
+              ],
+              "learner_steps": [
+                "Vatwame hachisalo mumujingulule vashimutwile vivanahichimo muchalumingo chinakumu (Sit on mat in circle, comfortable position)",
+                "Valihulike Vevwilile kumujimbu nakukumbulula vihula (Listen attentively to story and answer questions)",
+                "Vavuluke mazu ali nachivumo /a/ (Anna, Apo, ali, alile...) (Say words with sound /a/)",
+                "Vahake chivumo /a/ muchipango hachati yavasona vakulisezaseza halivaya (Find sound /a/ on vowel chart on board)",
+                "Mumazavu vahandunune jikhati jamazu ali nachumo /a/ nawaze anahono chivumo khana (In groups sort picture cards with sound /a/)"
+              ],
+              "short_notes": "Story-based phonemic awareness activity connecting narrative to sound /a/. Uses the story 'Apo ya Anna' to introduce vowel sounds in context. Learners develop listening skills and phonological awareness by identifying repeated sounds in meaningful text. The activity integrates literacy (listening), language (vocabulary), and pre-reading (sound recognition)."
+            }
+          ],
+          "vocabulary": [
+            {
+              "term": "mujimbu",
+              "definition": "story"
+            },
+            {
+              "term": "kwivwilila",
+              "definition": "to listen"
+            },
+            {
+              "term": "kukumbulula",
+              "definition": "to answer/recall"
+            },
+            {
+              "term": "vihula",
+              "definition": "questions"
+            },
+            {
+              "term": "chivumo",
+              "definition": "sound/letter"
+            },
+            {
+              "term": "vasona",
+              "definition": "vowels"
+            }
+          ],
+          "assessment": {
+            "page": 19,
+            "questions": [
+              "Can learners listen attentively to the story?",
+              "Can learners identify words with sound /a/ from the story?",
+              "Can learners find the letter /a/ on the vowel chart?",
+              "Can learners sort pictures by the /a/ sound?"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "3.0",
+      "topic_title": "Shimbu Kanda Kusoneka - Chala (Pre-writing - Drawing)",
+      "sub_topics": [
+        {
+          "subtopic_id": "3.1",
+          "title": "Kufundulula (Tracing)",
+          "page": 20,
+          "competences": [
+            "Kufundulula jishepu jajashi (Trace simple shapes)"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "A.1",
+              "page": 20,
+              "hook": "Can you draw these shapes?",
+              "teacher_steps": [
+                "Watela kupwa najikati jajishepu jakulisezaseza (Have cards with simple shapes)",
+                "Jilumbike mangana vajihemese valongi (seko, tilayango, lekitango, sikweya) (Display so learners can see them: circle, triangle, rectangle, square)",
+                "Lweza longi hilongi ambate oyo nazange (Let each learner hold one they like)",
+                "Pangila mapepa kuvalongi hamwe najikilayoni (Distribute paper to learners with crayons)",
+                "Talisa vindiyo yakufundulula kuli valongi (Show tracing videos to learners - can be on phone or laptop)",
+                "Hana chitalilo mwakufundulwila jishepu halivaya (Give demonstration of tracing shapes on board)",
+                "Valweze vafundule mupeho kuzachisa minwe yavo (Let them trace in air using their fingers)",
+                "Twala valongi haweluka valilongese kufundulula jishepu hausekeseke kuzachisa tumitondo, wanda, vifwiko vyamitumwa (Take learners outside to practice tracing shapes in sand using sticks, sand, bottle tops)",
+                "Valweza navakhiko vafundulule jishepu hamapepa nakujikwita ulombo (Let them also trace shapes on paper and color them)"
+              ],
+              "learner_steps": [
+                "Vahemese jikhati nakumbataho oyovanasake (Touch cards and hold ones they like)",
+                "Vatale chitalilo mwakufundulwila jishepu (Watch demonstration of tracing shapes)",
+                "Vafundulule jishepu mupeho, hausekeseke, hamapepa namumikanda yavo (Trace shapes in air, in sand, on paper and in their books)",
+                "Vazachise vinoma vyakulisezaseza hakufundulula jishepu (Use simple materials to trace shapes)"
+              ],
+              "short_notes": "This pre-writing activity develops fine motor control through shape tracing. Multisensory approach: air tracing (kinesthetic), sand tracing (tactile), paper tracing (visual-motor). Progresses from large movements to controlled pencil grip. Shapes include: seko (circle), tilayango (triangle), lekitango (rectangle), sikweya (square). Foundation for letter formation."
+            }
+          ],
+          "vocabulary": [
+            {
+              "term": "kufundulula",
+              "definition": "to trace"
+            },
+            {
+              "term": "jishepu",
+              "definition": "shapes"
+            },
+            {
+              "term": "seko",
+              "definition": "circle"
+            },
+            {
+              "term": "tilayango",
+              "definition": "triangle"
+            },
+            {
+              "term": "lekitango",
+              "definition": "rectangle"
+            },
+            {
+              "term": "sikweya",
+              "definition": "square"
+            },
+            {
+              "term": "jisonekeso",
+              "definition": "pencils/writing tools"
+            }
+          ],
+          "assessment": {
+            "page": 21,
+            "questions": [
+              "Can learners trace shapes in the air correctly?",
+              "Can learners trace shapes in sand using sticks?",
+              "Can learners trace shapes on paper?",
+              "Do learners use appropriate materials for tracing?"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "3.2",
+          "title": "Kukopolola (Copying)",
+          "page": 22,
+          "competences": [
+            "Kukopolola jipatani jajashi (Copy simple patterns)",
+            "Kukopolola jishepu jajashi (Copy simple shapes)"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "A.1",
+              "page": 22,
+              "hook": "Can you copy this pattern?",
+              "teacher_steps": [
+                "Putuka napatani yamukwimba yakufwana nge lukushi-lushindo (Start with clapping pattern like loud-soft)",
+                "Lweza valongi valondezeze eyi patani (Let learners repeat this pattern)",
+                "Hula valongi vakulweze chuma muka vanevu? vatela kwamba ngwavo lukushi-lushindo (Ask learners what they heard? They should say loud-soft)",
+                "Lumbunwina valongi ngwove, twalinginga patani yalukushi-lushindo (Remind learners that we are practicing loud-soft pattern)",
+                "Tunga jino jipatani jajivulu jakufwana nge; jaulombo, jajishepu, jatumenga, jamapepa javasona (Make other different patterns like: of beads, of shapes, of colors, of vowel papers)",
+                "Lweza valongi vakopolole jipatani khana (Let learners copy these patterns)",
+                "Funjika jipatani jachivumo /a/ halivaya (Create patterns with sound /a/ on board)",
+                "Lweza valongi vajikopolole mupeho, hausekeseke, nawanda, navifwiko nakujifunda hamapepa namumikanda yavo (Let learners copy them in air, in sand, with sand, with bottle tops and trace on paper and in their books)"
+              ],
+              "learner_steps": [
+                "Vasakwile nakulinga jishindo (Listen and clap)",
+                "Vakumbulule vihula navahulisa mulongeshi (Answer questions asked by teacher)",
+                "Vakopolole jipatani jakulisezaseza neji jachivumo /a/ mupeho, hausekeseke, nawanda, navifwiko nakujifunda hamapepa namumikanda yavo (Copy simple patterns including sound /a/ in air, in sand, with sand, with bottle tops and trace on paper and in their books)"
+              ],
+              "short_notes": "Pattern copying develops sequencing, visual memory, and pre-writing skills. Begins with auditory patterns (clapping loud-soft), progresses to visual patterns (beads, shapes, colors), then integrates letter patterns (vowel /a/). Uses concrete materials before abstract representation. Essential for letter formation and spelling."
+            }
+          ],
+          "vocabulary": [
+            {
+              "term": "kukopolola",
+              "definition": "to copy"
+            },
+            {
+              "term": "jipatani",
+              "definition": "patterns"
+            },
+            {
+              "term": "lukushi-lushindo",
+              "definition": "loud-soft"
+            },
+            {
+              "term": "jaulombo",
+              "definition": "bead patterns"
+            },
+            {
+              "term": "vifwiko",
+              "definition": "bottle tops"
+            }
+          ],
+          "assessment": {
+            "page": 24,
+            "questions": [
+              "Can learners copy clapping patterns correctly?",
+              "Can learners copy visual patterns (beads, shapes)?",
+              "Can learners copy the letter /a/ pattern?",
+              "Can learners create their own patterns?"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

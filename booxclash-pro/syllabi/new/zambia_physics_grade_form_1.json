@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 1",
+    "subject": "Physics",
+    "philosophy": "The Physics Syllabus for Form 1 to 4 is designed to equip learners with a comprehensive understanding of Physics concepts, fostering a deep appreciation for the role of Physics in everyday life and its applications in various fields. This syllabus aims to develop a solid foundation in Physics and cultivate critical thinking, analytical skills, and problem-solving skills. Subsequently, it will help link Physics concepts to real-world problems and emerging technologies through the engagement of learners in hands-on, hearts-on and minds-on practical activities and simulations to reinforce theoretical understanding. In addition, the syllabus intends to create a stimulating and supportive learning environment where learners can develop a profound understanding of the subject. By fostering curiosity, critical thinking, and practical skills, the syllabus will prepare learners for further education and careers in Science, Technology, Engineering and Mathematics (STEM), thereby contributing to their overall intellectual and personal growth. It is hoped that the syllabus will inspire learners to explore the fascinating world of Physics and appreciate its significance in shaping the future. The O-level Physics syllabus covers the introductory part of the fundamental principles and concepts of Physics. This syllabus aims at developing an understanding of the natural world, fostering critical thinking, problem-solving, and analytical skills. It provides a solid foundation for further studies in Physics and related subjects. This syllabus is committed to providing an enriching and supportive educational environment where learners can advance a lifelong interest in the subject. By promoting inquiry, curiosity, and a passion for science, the syllabus aims to prepare learners not only for academic success, but also for their future roles as informed and responsible citizens in a scientifically advanced society. It is expected that this Physics syllabus, once implemented successfully, will inspire and empower learners to achieve their full potential, equipping them with the knowledge and skills necessary to navigate and contribute to the world around them. The syllabus is designed to ensure learners develop a deep understanding of physics principles while equipping them with the practical skills and competencies needed for further education and careers in science. This O-level syllabus incorporates an interdisciplinary approach that integrates Science, Technology, Engineering, and Mathematics (STEM) to develop innovative solutions and critical thinking.",
+    "competence_learning": "Analytical Thinking: Identify patterns, compile data, create mental images and address issues, evaluate solutions. Collaboration: Solving puzzle in groups, play with peers to build relationships, participate in and express themselves through play activities. Communication: Use mathematical/scientific language in different situations, express oneself using different media and symbols, ask for feedback. Critical Thinking: Ask and answer simple questions, classify objects according to their attributes, manipulate different objects, solve simple problems in life, match different things according to attributes, arrange objects according to attributes, compare similarities or differences between objects, differentiate good from bad, recognize and name items in the environment, explore the environment. Environmental Sustainability: Dispose trash in the designated place, adhere to best practices in environmental management, explore the environment, identify a clean environment, identify types of waste in local environment. Problem Solving: Make connections/link with the inner world or social environment, use numeracy patterns and relations to solve problems, manipulate numbers, shapes and symbols to complete a task.",
+    "goals": [
+      "Equip learners with a comprehensive understanding of Physics concepts and foster a deep appreciation for its role in everyday life and applications.",
+      "Develop a solid foundation in Physics and cultivate critical thinking, analytical skills, and problem-solving skills.",
+      "Link Physics concepts to real-world problems and emerging technologies through hands-on practical activities and simulations.",
+      "Create a stimulating and supportive learning environment where learners can develop a profound understanding of the subject and foster curiosity.",
+      "Prepare learners for further education and careers in Science, Technology, Engineering and Mathematics (STEM), contributing to their overall intellectual and personal growth.",
+      "Develop an understanding of the natural world through observation, experimentation, and evidence-based reasoning (Scientific aspect of STEM).",
+      "Apply physics principles to develop innovative solutions, tools, and technologies (Technological aspect of STEM).",
+      "Design, optimise, and troubleshoot systems, structures, and processes using physics-based models and simulations (Engineering aspect of STEM).",
+      "Use mathematical contexts to describe, analyse, and predict physical phenomena, from classical mechanics to quantum mechanics (Mathematical aspect of STEM)."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "1.1",
+      "topic_title": "INTRODUCTION TO PHYSICS",
+      "page_number": 13,
+      "subtopics": [
+        "1.1.1 Safety Rules (Laboratory Safety)",
+        "1.1.2 Waste Management",
+        "1.1.3 Apparatus in Physics",
+        "1.1.4 Fundamental Concepts of Physics",
+        "1.1.5 Application of Physics"
+      ],
+      "specific_outcomes": [
+        "1.1.1.1 Practise laboratory safety rules",
+        "1.1.2.1 Practise waste management principles",
+        "1.1.3.1 Use apparatus in Physics",
+        "1.1.4.1 Demonstrate curiosity and inquiry when exploring fundamental concepts of physics",
+        "1.1.5.1 Relate the concepts of physics to everyday life"
+      ]
+    },
+    {
+      "unit": "1.2",
+      "topic_title": "GENERAL PHYSICS",
+      "page_number": 14,
+      "subtopics": [
+        "1.2.1 Basic Principles of Scientific Investigations",
+        "1.2.2 Physical Quantities",
+        "1.2.3 Precision and Accuracy",
+        "1.2.4 Equilibrium"
+      ],
+      "specific_outcomes": [
+        "1.2.1.1 Apply principles of scientific investigations",
+        "1.2.2.1 Classify physical quantities as basic and derived",
+        "1.2.3.1 Demonstrate precision and accuracy in measurements",
+        "1.2.4.1 Apply equilibrium concepts to design systems to solve real world problems"
+      ]
+    },
+    {
+      "unit": "1.3",
+      "topic_title": "ELEMENTARY ASTRONOMY",
+      "page_number": 15,
+      "subtopics": [
+        "1.3.1 The Universe"
+      ],
+      "specific_outcomes": [
+        "1.3.1.1 Construct astronomical models to demonstrate conceptual understanding of elementary astronomy"
+      ]
+    },
+    {
+      "unit": "1.4",
+      "topic_title": "GEOPHYSICS",
+      "page_number": 16,
+      "subtopics": [
+        "1.4.1 Structure and Composition of the Earth",
+        "1.4.2 Structure and Composition of the Earth's Atmosphere"
+      ],
+      "specific_outcomes": [
+        "1.4.1.1 Demonstrate an understanding of the Earth",
+        "1.4.2.1 Analyse the structure and composition of the earth's atmosphere"
+      ]
+    },
+    {
+      "unit": "1.5",
+      "topic_title": "MECHANICS 1",
+      "page_number": 16,
+      "subtopics": [
+        "1.5.1 Scalar and Vector Quantities",
+        "1.5.2 Linear Motion",
+        "1.5.3 Forces",
+        "1.5.4 Circular Motion",
+        "1.5.5 Moment of a Force",
+        "1.5.6 Equilibrium"
+      ],
+      "specific_outcomes": [
+        "1.5.1.1 Apply the concepts of scalar and vector quantities in everyday life",
+        "1.5.2.1 Apply concepts of linear motion in real life situations",
+        "1.5.2.2 Apply concepts of falling bodies in real life situations",
+        "1.5.3.1 Apply force-body interaction concepts",
+        "1.5.4.1 Apply circular motion concepts to solve problems and make predictions",
+        "1.5.5.1 Create a tool that applies moment of a force in solving problems in everyday life.",
+        "1.5.6.1 Apply equilibrium concepts to solve real world problems"
+      ]
+    }
+  ]
+}

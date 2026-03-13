@@ -1,0 +1,605 @@
+{
+    "subject": "Luvale",
+    "grade": "Grade 1",
+    "term": 2,
+    "topics": [
+        {
+            "topic_id": "1.2",
+            "topic_title": "CHIVWASANO (Communication)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.2.2",
+                    "title": "Kushimutwila (Greetings)",
+                    "page": 15,
+                    "competences": [
+                        "Kushimutwila hamwe Kuzachisa mikuku (Greet using pictures)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.2.2",
+                            "page": 15,
+                            "hook": "kushimutwila navakwenu chalemena haka? (How do you greet at your home?)",
+                            "teacher_steps": [
+                                "Solwela valongi chati yamuvwimbimbi (Show learners a picture chart)",
+                                "Hula valongi vavuluke vyuma vali nakumona hamuvwimbimbi (Ask learners to mention things they see in the picture)",
+                                "Lweza valongi vavali vavali vashimutwile nakutunga mikuku kuzachise mazu vanavuluka (Let learners greet in pairs and form sentences using pictures they mentioned)"
+                            ],
+                            "learner_steps": [
+                                "Vatale hamivwimbimbi mwatalisa (Look at the pictures shown)",
+                                "Vavuluke vyuma vali nakumona ha muvwimbimbi (Mention things they see in the picture)",
+                                "Valongi vavali vavali vashimutwile nakutunga mikuku kuzachisa mazu vanavuluka (Learners greet in pairs and form sentences using pictures)"
+                            ],
+                            "short_notes": "In this activity, learners will learn to communicate through greetings using pictures showing different scenarios like body parts and relationships (kupwa cha maphwevo na malunga), personal hygiene (lusesa lwamuthu), and table manners (majikakanwa)."
+                        }
+                    ],
+                    "short_notes": "This topic introduces learners to communication through greetings. Learners will practice greeting others using visual aids and forming simple sentences about what they observe in pictures. The module covers various scenarios including family relationships, personal hygiene, and table manners.",
+                    "vocabulary": [
+                        {
+                            "term": "kushimutwila",
+                            "definition": "Greetings"
+                        },
+                        {
+                            "term": "kutombola",
+                            "definition": "To identify/recognize"
+                        },
+                        {
+                            "term": "kufumisa",
+                            "definition": "To remove/take out"
+                        },
+                        {
+                            "term": "kushishisa",
+                            "definition": "To replace/substitute"
+                        },
+                        {
+                            "term": "kutunga",
+                            "definition": "To form/construct"
+                        },
+                        {
+                            "term": "mivwimbimbi",
+                            "definition": "Pictures/images"
+                        },
+                        {
+                            "term": "kunangakana",
+                            "definition": "To learn/understand"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 16,
+                        "questions": [
+                            "Valongi vatunge mazu kuzachisa mivwimbimbi (Learners form sentences using pictures)",
+                            "Valongi vashimutwile mazu namikuku vanatungu ali navivumo vanatange lyehi (Learners greet using sentences formed with pictures containing sounds they learned)"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.7",
+            "topic_title": "Kunangakana vivumo (Learning sounds/phonics)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.7.1",
+                    "title": "Kunangakana vivumo /z Z/, /f F/ (Learning sounds /z Z/, /f F/)",
+                    "page": 16,
+                    "competences": [
+                        "Kutombola nakuzachisa vasona-vumo (Identify and use letter sounds)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Jimbula chivumo chahalikumbi /z Z/ (Introduce the target sound /z Z/)",
+                                "Vuluka mazu akufwana nge: zala (Say words like: zala)",
+                                "lweza valongi vavuluke vasona-vumo vali mulizu zala (Let learners identify letter sounds in the word zala)",
+                                "lweza valongi vatwalilileho kuvuluke vasona vumo vali mumazu akwavo (Let learners continue to identify letter sounds in their own words)"
+                            ],
+                            "learner_steps": [
+                                "Vevwilile chivumo chahalikumbi /z Z/ (Listen to the target sound /z Z/)",
+                                "Vevwilile mazu akufwana nge zala (Listen to words like zala)",
+                                "Vatombole vasona-vumo vali mulizu kweseka nachivumo chahalikumbi (Identify letter sounds in the word based on the target sound)",
+                                "Vatombole vasona-vumo vali mumazu akwavo (Identify letter sounds in their own words)"
+                            ],
+                            "short_notes": "Learners practice identifying letter sounds in words, focusing on the /z/ and /f/ sounds."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Vuluka lizu lili nachivumo chahalikumbi (Say a word with the target sound)",
+                                "Lumbununa ngwove lizu lyatwama navihanda vyavasona-vumo (Explain how the word is divided into letter sound parts)",
+                                "Vuluka lizu phulu nakusakwilila vasona-vumo valimo (Say the word slowly emphasizing the letter sounds)",
+                                "Lweza valongi vakulondezeze (Let learners follow along)",
+                                "Haka valongi mumazavu valiphende kuvuluka vasona-vumo vali mumazu (Ask learners in groups to try saying letter sounds in words)"
+                            ],
+                            "learner_steps": [
+                                "Vevwilile lizu lili nachivumo chahalikumbi (Listen to a word with the target sound)",
+                                "Vevwilile vihanda vyavasona-vumo (Listen to the letter sound parts)",
+                                "Valondezeze kusakwila vasona-vumo vali mulizu (Follow along emphasizing letter sounds in the word)",
+                                "Mumazavu valipende kuvuluka vasona-vumo vali mumazu (In groups try saying letter sounds in words)"
+                            ],
+                            "short_notes": "Learners practice breaking down words into individual sounds (phoneme segmentation)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Vuluka vasona-vumo vali nachivumo chahalikumbi (Say letter sounds with the target sound)",
+                                "Lumbununa mwakutungila mazu kuzachisa vasona-vumo (Explain how to form words using letter sounds)",
+                                "Lweza valongi Vuluke vasona-vumo nakutunga mazu (Let learners say letter sounds and form words)",
+                                "Haka valongi mumazavu valiphende kuvuluka vasona-vumo nakutanga mazu (Ask learners in groups to try saying letter sounds and reading words)"
+                            ],
+                            "learner_steps": [
+                                "Vevwilile vasona-vumo vali nachivumo chahalikumbi (Listen to letter sounds with the target sound)",
+                                "Vevwilile mwakutungila mazu kuzachisa vasona-vumo (Listen to how to form words using letter sounds)",
+                                "Vavuluke vasona-vumo nakutunga mazu (Say letter sounds and form words)",
+                                "Mumazavu valiphende kuvuluka vasona-vumo nakutanga mazu (In groups try saying letter sounds and reading words)"
+                            ],
+                            "short_notes": "Learners practice blending sounds to form complete words (phoneme blending)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 18,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Vuluka lizu zala (Say the word zala)",
+                                "Fumisako sona-vumo z kulizu zala nakushishishako sona-vumo t utunge lizu tala (Remove sound z from word zala and replace with sound t to form word tala)",
+                                "Lweza longi umwe avuluke lizu. Mukwavo afumise nakushishisako sona-vumo vatunge lizu (Let one learner say a word. Their partner removes and replaces a sound to form a new word)",
+                                "Haka valongi mumazavu mangana vafumise nakushishisa vasona-vumo veka vatunge mazu (Ask learners in different groups to remove and replace letter sounds to form words)"
+                            ],
+                            "learner_steps": [
+                                "Vevwilile lizu mwavuluka mulongeshi (Listen to the word said by the teacher)",
+                                "Vatale omu mulongeshi mwafumisako sona-vumo z kulizu zala nakushishishako sona-vumo t utunge lizu tala (Watch how the teacher removes sound z from word zala and replaces with sound t to form word tala)",
+                                "Longi umwe avuluke lizu. Mukwavo afumise nakushishisako sona-vumo vatunge lizu (One learner says a word. Their partner removes and replaces a sound to form a new word)",
+                                "Mumazavu mangana vafumise nakushishisa vasona-vumo veka vatunge mazu (In different groups remove and replace letter sounds to form words)"
+                            ],
+                            "short_notes": "Learners practice phoneme manipulation - removing and substituting sounds to create new words."
+                        }
+                    ],
+                    "short_notes": "This sub-topic focuses on teaching learners to identify, isolate, and manipulate letter sounds /z Z/ and /f F/. Through systematic activities, learners develop phonological awareness by practicing sound identification, phoneme segmentation, blending, and manipulation.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 18,
+                        "questions": [
+                            "kutunga vasona-vumo (Form letter sounds)",
+                            "Kutunga mazu kuzachisa vasona-vumo (Form words using letter sounds)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.7.2",
+                    "title": "Kweuluka havivumo (Practicing with sounds)",
+                    "page": 19,
+                    "competences": [
+                        "Kutombola nakuzachisa vivumo (Identify and use sounds)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Vuluka mazu awa limwe limwe halwola (zata, zuvo, zuza, zangi)",
+                                "lweza valongi vakulondezeze kuvuluka mazu",
+                                "Lweza valongi vavumise vivumo vyatete mumazu",
+                                "Valongi valipeche kutombola vivumo vyatete mumazu navalihana mu mazavu"
+                            ],
+                            "learner_steps": [
+                                "Valongi vevwilile mazu mwahanjika mulongeshi",
+                                "Valongi valondezeze mulongeshi kuvuluke mazu",
+                                "Vavumise vivumo vyatete vili ku mazu navuluka mulongeshi",
+                                "Valipende kulihana mazu nakuvuluka vivumo mumazavu avo"
+                            ],
+                            "short_notes": "Learners practice identifying initial sounds in a series of words."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Hanjika mazu (zata, zuvo, zuza, zangi)",
+                                "Lweza valongi vatombole vivumo vyakusongo yamazu",
+                                "Lweza valongi valipeche kutombola vivumo vyakusongo yamazu"
+                            ],
+                            "learner_steps": [
+                                "Vevwilile mazu mwahanjika mulongeshi",
+                                "Vatombole vivumo vyakusongo yamazu",
+                                "Valipeche kutombola vivumo vyakusongo yamazu"
+                            ],
+                            "short_notes": "Learners practice identifying ending sounds in words."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Vuluka sona-vumo za",
+                                "Fumisako chivumo/a/ nakushishisako chivumo /i/utunge sona-vumo /zi/",
+                                "Lweza valongi vatwalilileho kujima nakushishisa vivumo kuvasona-vumo",
+                                "Lweza longi hilongi alondezeze kufumisa nakushishisa vivumo"
+                            ],
+                            "learner_steps": [
+                                "Vevwilile sona-vumo za",
+                                "Vatalijize omu mulongeshi mwafumisa chivumo/a/ nakushishisako chivumo /i/utunge sona-vumo /zi/",
+                                "Vatwalilileho kujima nakushishisa vivumo kuvasona-vumo",
+                                "Longi hilongi alondezeze kufumisa nakushishisa vivumo"
+                            ],
+                            "short_notes": "Learners practice manipulating vowel sounds within syllables."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Vuluka mazu avivumo vyakulifwana (liso=loso, tulo=mulo, lufu=nafu, pazu=luzu)",
+                                "Lweza valongi vakavangize kuvuluka mazu avivumo vyakulifwana",
+                                "Haka valongi mumazavu vavuluke mazu avivumo akwavo"
+                            ],
+                            "learner_steps": [
+                                "Vatale mazu avivumo akulifwana",
+                                "Vahanjike mazu avivumo vyakulifwana",
+                                "Mumazavu vavuluke mazu avivumo vyakulifwana"
+                            ],
+                            "short_notes": "Learners practice recognizing and producing rhyming words."
+                        }
+                    ],
+                    "short_notes": "This sub-topic provides extensive practice with sound manipulation. Learners identify initial and final sounds, practice phoneme substitution and addition, and work with rhyming words to develop phonological awareness.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 21,
+                        "questions": [
+                            "Kutombola vivumo vyatete na vyamakumishilo mumazu",
+                            "Vafumise nakushishisa vasona-vumo veka",
+                            "Vatunge mazu alinavivumo lyakulifwana"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.7.3",
+                    "title": "Kunangakana mazu (Learning words)",
+                    "page": 21,
+                    "competences": [
+                        "Kutombola mazu mumikuku mwakwoloka (Identify words in sentences correctly)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.7.3.1",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Hanjika mikuku yamazu akwoloka. chitalilo (Mamaalinakufulamikamba)",
+                                "Hula valongi vavuluke mazu ali mu mikuku",
+                                "Lweza valongi mumazavu vavuluke mazu ali mumikuku"
+                            ],
+                            "learner_steps": [
+                                "Vevwilile mikuku yamazu akwoloka. chitalilo (Mamaalinakufulamikamba)",
+                                "Vavuluke mazu ali mu mikuku",
+                                "Mumazavu vavuluke mazu ali mumikuku"
+                            ],
+                            "short_notes": "Learners practice identifying and pronouncing individual words within complete sentences."
+                        }
+                    ],
+                    "short_notes": "This sub-topic helps learners distinguish individual words within sentences and practice word recognition and pronunciation.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 21,
+                        "questions": [
+                            "Vahandunune mazu mumikuku (Identify words in sentences)"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.8",
+            "topic_title": "Vivumo (Letters)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.8.1",
+                    "title": "Kuvumisa vivumo (Recognizing letters /z Z/, /f F/)",
+                    "page": 22,
+                    "competences": [
+                        "Vumisa vasona (Recognize letters)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Solwela valongi kati vasona vahalikumbi /z/ halivaya",
+                                "Vumise sona unasolwela valongi /z/",
+                                "Lweza valongi mumazavu vavumise vasona /z/",
+                                "Vanyike valipeche kuvumisa vivumo, vanyike navatanga vivumo"
+                            ],
+                            "learner_steps": [
+                                "Vatale chivumo mwasoneka mulongeshi",
+                                "Valongi vavumise chivumo",
+                                "Vatale khati yavasona javasona, valipeche kuvumisa vivumo mumazavu"
+                            ],
+                            "short_notes": "Learners practice recognizing letters using flashcards and charts."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Soneka lizu chizamba halivaya",
+                                "Lweza valongi vatombole chivumo /z/ mulizu chizamba",
+                                "Hula valongi vavuluke mazu akwavo anaputuka chivumo /z/",
+                                "Lweza valongi mumazavu vavuluke mazu akwavo anaputuka chivumo /z/"
+                            ],
+                            "learner_steps": [
+                                "Vatale lizu chizamba halivaya",
+                                "Vatombole chivumo /z/",
+                                "Vavuluke mazu akwavo anaputuka chivumo /z/",
+                                "Mumazavu vavuluke mazu akwavo anaputuka chivumo /z/"
+                            ],
+                            "short_notes": "Learners practice identifying specific sounds in words."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lumbika jikati javivumo hamwe namyangana",
+                                "lweza valongi Kuhandunune vivumo javasona kumyangana",
+                                "Haka valongi mumazavu nakuvalweza vahandunune vivumo javasona kumyangana"
+                            ],
+                            "learner_steps": [
+                                "Vatale jikati javivumo hamwe namyangana",
+                                "Vahandunune vivumo javasona kumyangana",
+                                "Mumazavu vahandunune vivumo javasona kumyangana"
+                            ],
+                            "short_notes": "Learners practice matching letters with pictures."
+                        }
+                    ],
+                    "short_notes": "This sub-topic teaches learners to recognize and identify letters /z Z/ and /f F/ through various visual and oral activities.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 23,
+                        "questions": [
+                            "Valongi vatela kutombola, kuvumisa na kusakula vivumo"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.8.2",
+                    "title": "Vasona-vumo (Syllables)",
+                    "page": 24,
+                    "competences": [
+                        "Nunga tutumwa na vamyangana javasona nakutunga vasona-vumo (Combine consonants and vowels to form syllables)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Solwela valongi jikati jatutumwa na vamyangana javasona",
+                                "Nunga tutumwa na vamyangana javasona utunge sonavumo (z+a = za, z+e= za)",
+                                "Lweza valongi vanunge vasona navamyangana javasona",
+                                "Hana valongi jikati jatutumwa neji javamyangana javasona mumazavu vatunge vasona-vumo"
+                            ],
+                            "learner_steps": [
+                                "Vatale jikati jatutumwa navamyangana javasona",
+                                "Vatalijize kununga cha tutumwa navamyangana javasona nakutunga vasona-vumo (z+a = za, z+e= za)",
+                                "Vanunge tutumwa na vamyangana javasona vatunge vasona–vumo",
+                                "Mumazavu vanunge tutumwa navamyangana javasona vatunge vasona-vumo"
+                            ],
+                            "short_notes": "Learners practice combining consonants and vowels to form syllables."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Solwela valongi chati yavasona-vumo",
+                                "Tangila valongi vasona-vumo vali hachati",
+                                "Lweza valongi umwe umwe atange vasona-vumo",
+                                "Haka valongi mumazavu vatange vasona-vumo vakwavo"
+                            ],
+                            "learner_steps": [
+                                "Vatale chati yavasona-vumo",
+                                "Vevwilile nakutalijiza omu mulongeshi mwatanga vasona-vumo vali hachati",
+                                "Umwe umwe atange vasona-vumo",
+                                "Mumazavu vatange vasona-vumo vakwavo"
+                            ],
+                            "short_notes": "Learners practice reading syllables from a chart."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 25,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Haka vasona-vumo, tutumwa navamyangana hamwe",
+                                "lweza valongi vahandunune vasona-vumo kututumwa navamyangana",
+                                "Haka valongi mumazavu vahandunune vasona-vumo kututumwa navamyangana"
+                            ],
+                            "learner_steps": [
+                                "Vatale vasona-vumo, tutumwa na vamyangana vanalumbika hamwe",
+                                "Vahandunune vasona-vumo kututumwa navamyangana",
+                                "Mumazavu vahandunune vasona-vumo kututumwa navamyangana"
+                            ],
+                            "short_notes": "Learners practice identifying syllables from consonants and vowels."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 25,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Soneka mazu halivaya (zata, zukula, zala)",
+                                "Nangula valongi kufumisa nakushishisa vasona kumazu",
+                                "Haka valongi mumazavu vatwalilile kufumisa na kushishisa vasona kumazu",
+                                "Lweza longi hilongi afumise nakushishisa sona kumazu"
+                            ],
+                            "learner_steps": [
+                                "Vatale mazu nasoneka mulongeshi halivaya (zata, zukula, zala)",
+                                "Vatalijize omu mulongeshi mwafumisa nakushishisa vasona kumazu",
+                                "Mumazavu vatwalilile kufumisa nakushishisa vasona kumazu",
+                                "Longi hilongi afumise nakushishisa sona kumazu"
+                            ],
+                            "short_notes": "Learners practice substituting sounds in words."
+                        }
+                    ],
+                    "short_notes": "This sub-topic focuses on teaching learners to form and read syllables by combining consonants and vowels. Learners practice blending sounds and manipulating syllables in words.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 26,
+                        "questions": [
+                            "Kutunga vasona-vumo vakufuma kututumwa na myanga",
+                            "Kutanga vasona-vumo ha chati",
+                            "Kuhandununa vasona-vumo",
+                            "Kushishisa vasona kumazu"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.8.3",
+                    "title": "Mazu (Words)",
+                    "page": 26,
+                    "competences": [
+                        "Nunga vasona-vumo nakutunga mazu (Combine syllables to form words)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Solwela valongi jikati javasona-vumo (zu ku la)",
+                                "Nunga vasona-vumo zu + ku +la =zukula",
+                                "Mumazavu lweza valongi vanunge vasona-vumo nakutunga mazu",
+                                "Lweza lingi hilongi anunge vasona–vumo nakutunga mazu"
+                            ],
+                            "learner_steps": [
+                                "Vatale jikati javasona-vumo vakulisezaseza (zu ku la)",
+                                "Vatalijize omu mulongeshi mwanunga vasona–vumo nakutunga lizu zu + ku +la =zukula",
+                                "Mumazavu vanunge vasona-vumo nakutunga mazu",
+                                "Vanunge vasona-vumo nakutunga mazu"
+                            ],
+                            "short_notes": "Learners practice combining syllables to form complete words."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 27,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Soneka lizu Fukama halivaya",
+                                "Fumisako sona-vumo /fu/ nakushishisako sona-vumo /za/",
+                                "Lweza valongi vafumiseko vasona-vumo mumazu",
+                                "Hana mazu valongi mumazavu vafumise nakushishisa vasona-vumo vekha"
+                            ],
+                            "learner_steps": [
+                                "Vatalijize mulongeshi omu mwafumisa na kushishisa vasona-vumo",
+                                "Vafumise nakushishisa vasona-vumo mumazu",
+                                "Mumazavu vafumise nakushishisa vasona-vumo"
+                            ],
+                            "short_notes": "Learners practice substituting syllables in words."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 27,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Soneka mazu halivaya (fungo, puzula, pheji)",
+                                "Tangila valongi mazu",
+                                "Lweza valongi vatombole vasona vumo vali mumazu",
+                                "Haka valongi mumazavu vatombole vasona–vumo vali mumazu"
+                            ],
+                            "learner_steps": [
+                                "Vatalilijize mazu ali halivaya (fungo, puzula, pheji)",
+                                "Vatombole vasona vumo vali mumazu (phili, mashata, zuza, kafutu)",
+                                "Mumazavu vatombole vasona-vumo vali mumazu ekha"
+                            ],
+                            "short_notes": "Learners practice identifying syllables in words."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 28,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Soneka mazu halivaya (fulumana, zova, phato, chiphekete)",
+                                "Tanga vasona–vumo vali mumazu",
+                                "Nangula valongi kulava vasona–vumo vali mulizu",
+                                "Mumazavu valave vasona-vumo vali mulizu akwavo"
+                            ],
+                            "learner_steps": [
+                                "Vatale mazu ali halivaya (fulumana, zova, phato, chiphekete)",
+                                "Valondezeze mulongeshi omu mwalava vasona–vumo vali mumazu",
+                                "Mumazavu valave vasona-vumo vali mumazu akwavo",
+                                "Longi hilongi valave vasona-vumo vali mumazu akwavo"
+                            ],
+                            "short_notes": "Learners practice finding specific syllables in words."
+                        }
+                    ],
+                    "short_notes": "This sub-topic teaches learners to work with complete words by combining syllables, manipulating syllables within words, and identifying syllable patterns.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 28,
+                        "questions": [
+                            "Kununga vasona–vumo",
+                            "Kufumisa nakushishisa vasona vumo",
+                            "Kutombola vasona-vumo"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.9",
+            "topic_title": "KUTANGA NAKULAMUNA (Reading and Writing)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.9.1",
+                    "title": "Kutanga (Reading)",
+                    "page": 29,
+                    "competences": [
+                        "Kutangila mazu helu nakuwavuluka mwakwoloka (Read sight words correctly)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.9.1.2",
+                            "page": 29,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Learners practice reading sight words and developing fluency in reading."
+                        }
+                    ],
+                    "short_notes": "This sub-topic focuses on developing reading skills through sight word recognition and practice.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 29,
+                        "questions": []
+                    }
+                }
+            ]
+        }
+    ]
+}

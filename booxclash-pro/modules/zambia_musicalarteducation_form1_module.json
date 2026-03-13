@@ -1,0 +1,678 @@
+{
+  "subject": "Musical Arts Education",
+  "grade": "Form 1",
+  "term": 2,
+  "topics": [
+    {
+      "topic_id": "1.5",
+      "topic_title": "MELODY",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.5.1",
+          "title": "Melodic Motion",
+          "page": 2,
+          "competences": [
+            "Describe the melodic motion"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 2,
+              "hook": "Identifying conjunct and disjunct motion in a melody",
+              "teacher_steps": [
+                "Learners to sing any familiar melodies (e.g. Row, row, row your boat) and identify different intervals between the notes of the melody",
+                "Play some notes on the keyboard and ask learners in groups to identify them as either conjunct or disjunct motion",
+                "Engage learners in singing different melodies and identify conjunct and disjunct motion in the melodies"
+              ],
+              "learner_steps": [
+                "Sing familiar melodies and identify intervals",
+                "Identify notes played on keyboard as conjunct or disjunct",
+                "Analyze given melodies and identify conjunct and disjunct motion in groups"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 3,
+              "hook": "Identifying the shape/contour of the melody (valleys, waves, hill)",
+              "teacher_steps": [
+                "Learners listen or sing simple common melodies then identify what a valley, wave or a hill",
+                "Learners to freely explore and identify the shape/contour of different melodies with clear examples of valley, waves and hills"
+              ],
+              "learner_steps": [
+                "Listen or sing melodies and identify valley, wave, or hill contours",
+                "Explore different melodies identifying their shape/contour"
+              ]
+            }
+          ],
+          "short_notes": "Melodic motion refers to the way pitches in rhythm move in relation to each other within a melody, creating a sense of progression and direction. There are two types of melodic motion: conjunct motion, which proceeds by step from one scale degree to the next (i.e., by the interval of a 2nd), and disjunct motion, which proceeds by leap (i.e., by intervals larger than a 2nd). The contour or shape of a melody can be described as valleys (descending), waves (oscillating), or hills (ascending).",
+          "vocabulary": [
+            {
+              "term": "Conjunct motion",
+              "definition": "Smooth, stepwise movement between consecutive pitches in a melody e.g. (C-D-E)"
+            },
+            {
+              "term": "Disjunct motion",
+              "definition": "Movement between consecutive pitches in a melody by larger intervals, often creating a sense of leap or jump, e.g. (C-E, C-G)"
+            },
+            {
+              "term": "Contour",
+              "definition": "The overall shape or pattern of ups and downs in pitch, creating a unique outline or topography"
+            },
+            {
+              "term": "Hill",
+              "definition": "A musical phrase or section that gradually rise in pitch, often creating a sense of tension, anticipation or build up"
+            },
+            {
+              "term": "Valley",
+              "definition": "A musical phrase or section that descends in pitch, often creating a sense of relaxation, resolution, or calmness"
+            },
+            {
+              "term": "Wave",
+              "definition": "A musical phrase or section that moves in a wave like motion"
+            }
+          ],
+          "assessment": {
+            "page": 4,
+            "questions": [
+              "Provide learners with printed melodies and ask them to identify and label the valleys, waves and hills",
+              "Give learners a melody with missing notes and ask them to complete the melody by adding notes that create a specific contour",
+              "Play a series of melodies with different contours and ask learners to identify the type of contour used in each melody",
+              "Study the melody from 'This is What You Came For' and answer: a) In which two bars does the melody move by disjunct movement? b) In which two bars does the melody move by conjunct movement? c) What is the note name of the lowest pitch note? d) Identify the highest pitch note name? e) Measure the interval between lowest and highest note"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.5.2",
+          "title": "Simple Melody Writing",
+          "page": 5,
+          "competences": [
+            "Compose simple melodies"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 5,
+              "hook": "Discussing motif in melody writing",
+              "teacher_steps": [
+                "Engage learners in small groups and discuss what a motif is in melody writing",
+                "Play or sing a well-known melody that features a motif and ask learners to identify and discuss motif in the melody",
+                "In smaller groups learners study and identify the motifs provided",
+                "Highlight major features of the motif for each melody",
+                "Learners give examples of motifs from songs of their choices",
+                "With learners, analyse the motifs given as examples"
+              ],
+              "learner_steps": [
+                "Discuss in small groups what a motif is",
+                "Identify motifs in well-known melodies",
+                "Study and identify motifs in provided examples",
+                "Give examples of motifs from own song choices",
+                "Analyze motifs given as examples"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 6,
+              "hook": "Distinguishing various phrases in the melody (antecedent/question, consequent/answer)",
+              "teacher_steps": [
+                "Ask learners to discuss what a phrase is and how to distinguish it in a melody",
+                "Learners distinguish between an antecedent/question and consequent/answer in a given melody",
+                "Encourage exploration among learners by asking them to distinguish between a question and an answer in a melody in groups or individually",
+                "Remind learners that melody usually pauses slightly at the end of each phrase",
+                "Emphasis should be made that in vocal music, the musical phrases tend to follow the phrases and sentences of the text"
+              ],
+              "learner_steps": [
+                "Discuss what a phrase is",
+                "Distinguish between antecedent and consequent phrases",
+                "Explore identifying questions and answers in melodies",
+                "Understand that phrases pause slightly at their ends"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3",
+              "page": 8,
+              "hook": "Composing Simple Melodies (At least four bars)",
+              "teacher_steps": [
+                "In smaller groups learners to compose a simple four bar melody",
+                "Note that when composing a melody, consider: time signature and key signature, starting scale degree and beat, rhythmic patterns, maintain and vary the motif, provide consequent to antecedent, sing or hum while composing, end on tonic with long note approached in stepwise motion"
+              ],
+              "learner_steps": [
+                "Compose a simple four bar melody in groups",
+                "Consider time signature, key signature, starting note, rhythmic patterns",
+                "Maintain and vary motif",
+                "Provide consequent phrase to antecedent",
+                "End on tonic with stepwise approach"
+              ]
+            }
+          ],
+          "short_notes": "Simple melody writing refers to the process or technique of creating a short, coherent, and memorable musical idea using pitch and rhythm, to convey emotion and mood. A motif is a short, repeated pattern or idea, often just a few notes, that is used to build a melody or tune. A phrase is a unit of musical thought consisting of a group of notes that form a coherent and meaningful musical idea. An antecedent phrase is the first phrase in a pair of phrases, typically followed by a consequent phrase. A melody is made up of phrases, which are usually two or four bars long. When composing simple melodies, consider: time signature and key signature, starting scale degree and beat, rhythmic patterns to be used, maintain the motif and vary it where possible, provide a consequent to the antecedent, sing or hum while composing to internalize it, end on the tonic with a long note approached in stepwise motion avoiding unnecessary wide leaps.",
+          "vocabulary": [
+            {
+              "term": "Motif",
+              "definition": "A short, repeated pattern or idea, often just a few notes, that is used to build a melody or tune"
+            },
+            {
+              "term": "Phrase",
+              "definition": "A group of notes that form a complete musical thought or idea, similar to a sentence in language"
+            },
+            {
+              "term": "Antecedent",
+              "definition": "The first part of a melodic phrase that sets up a musical idea, often ending in uncertainty, to be resolved by the consequent"
+            },
+            {
+              "term": "Melodic devices",
+              "definition": "Techniques used by composers to create interest, variety and emotional impact in a melody"
+            }
+          ],
+          "assessment": {
+            "page": 8,
+            "questions": [
+              "In smaller groups, learners to complete provided melodies to 'four' bars by writing a consequent phrase",
+              "In pairs, learners create and vary a simple melodic motif within four bars",
+              "Individually learners compose a 'four' bar melody in any key of their choice",
+              "Sight sing or sight read the composed melodies"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "1.6",
+      "topic_title": "FORM",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.6.1",
+          "title": "Binary and ternary",
+          "page": 10,
+          "competences": [
+            "Construct melody in binary and ternary forms"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 11,
+              "hook": "Detecting rhythmic and melodic contrast",
+              "teacher_steps": [
+                "Ask learners to listen, sing or play simple melodies like 'Baba Black sheep' and identify rhythmic and melodic contrast",
+                "Promote analytical thinking by allowing learners to listen, sing or play simple melodies and identify rhythmic and melodic contrast",
+                "Play a melody with a contrasting contour or rhythm and ask learners to imitate it. Then, ask them to create their own melody",
+                "Encourage creativity among the learners by asking them to create their own melody with a contrasting contour",
+                "Provide learners with a score or recording a piece. Ask them to analyse the form, identifying areas of contrast and unity"
+              ],
+              "learner_steps": [
+                "Listen, sing or play simple melodies and identify rhythmic and melodic contrast",
+                "Imitate melodies with contrasting contour or rhythm",
+                "Create own melody with contrasting contour",
+                "Analyze provided scores identifying areas of contrast and unity"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 11,
+              "hook": "Constructing sections of equal length of binary and ternary structure",
+              "teacher_steps": [
+                "Ask learners to compose a short piece in binary or ternary form ensuring each section A and B or A, B and A have the equal number of measures (4 measures each)",
+                "Put learners in groups so that they work as a team and later on allow them to do the work individually",
+                "Encourage critical thinking and creativity as they work on this activity",
+                "Class discussion on the characteristics of binary and ternary forms. Ask learners to share their compositions and provide feedback on section length and contrast",
+                "Facilitate a class discussion on the characteristics of binary and ternary forms. Ensure that each learner is fully involved in the discussion"
+              ],
+              "learner_steps": [
+                "Compose a short piece in binary or ternary form with equal measures",
+                "Work in groups then individually",
+                "Share compositions and receive feedback",
+                "Participate in class discussion on binary and ternary characteristics"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3",
+              "page": 12,
+              "hook": "Constructing sections of unequal length in binary and ternary design",
+              "teacher_steps": [
+                "Ask learners to compose a binary form piece (AB) with sections of unequal length (e.g., 4 measures in A and 6 measures in B) or compose a ternary form piece (ABA) with sections of unequal length",
+                "Ensure that the constructed measures are not equal",
+                "Provide learners with a partially completed binary or ternary form piece. Ask them to expand one section",
+                "Ensure that the suggested sections for binary and ternary forms are expanded as expected",
+                "Give learners a score in binary or ternary form with unequal length. Ask them to identify and label the sections",
+                "Ensure that learners are able to identify and label the sections. Guide the learners throughout the lesson"
+              ],
+              "learner_steps": [
+                "Compose binary or ternary pieces with unequal section lengths",
+                "Expand sections in partially completed pieces",
+                "Identify and label sections in provided scores with unequal lengths"
+              ]
+            }
+          ],
+          "short_notes": "Form in music refers to the overall structure or organization of a piece of music. It encompasses the arrangement of musical elements such as melody, harmony, rhythm, and tempo to create a cohesive and meaningful whole. Binary form is a simple musical structure consisting of two contrasting sections (AB). The A section typically presents a theme or melody, while the B section presents a contrasting theme or develops the initial theme. The two sections are usually of equal or approximately equal length. Ternary form is a musical structure consisting of three main sections, typically represented as A-B-A. This means the piece begins with an initial theme or section (A), followed by a contrasting middle section (B), and concludes with a return to the initial theme or section (A). Ternary form provides a sense of balance and symmetry, making it a popular choice for composers and songwriters.",
+          "vocabulary": [
+            {
+              "term": "Binary Form",
+              "definition": "A simple musical structure consisting of two contrasting sections (AB)"
+            },
+            {
+              "term": "Ternary Form",
+              "definition": "A musical structure consisting of three sections, with the first and third sections being similar (ABA)"
+            },
+            {
+              "term": "Theme",
+              "definition": "A recurring melody or idea"
+            },
+            {
+              "term": "Section",
+              "definition": "A distinct part of the music, often with its own unique characteristics"
+            },
+            {
+              "term": "Transition",
+              "definition": "A passage connecting two sections"
+            },
+            {
+              "term": "Sequence",
+              "definition": "A repetition pattern of pitches at a higher or lower level"
+            },
+            {
+              "term": "Repetition",
+              "definition": "Repeating a melodic idea or pattern"
+            },
+            {
+              "term": "Variation",
+              "definition": "Changing a melodic idea or pattern while maintaining its core identity"
+            }
+          ],
+          "assessment": {
+            "page": 12,
+            "questions": [
+              "Prepare tasks to be administered during and after learning sessions and give carry home tasks",
+              "Form and analysis – Analyse and identify the form of provided melodies",
+              "Written and practical assessment (composing and performing melodies in binary or ternary form)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "1.7",
+      "topic_title": "MUSICAL TERMS AND SIGNS",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.7.1",
+          "title": "Italian Terms",
+          "page": 14,
+          "competences": [
+            "Interpret the Italian terms for tempo",
+            "Interpret the Italian terms for dynamics"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 14,
+              "hook": "Interpreting the Italian terms for tempo (allegro, presto, lento)",
+              "teacher_steps": [
+                "Divide learners in groups and give them a musical score sheet with Italian terms. Ask them to interpret as well as demonstrate how the music will be performed",
+                "Engage learners to perform popular music (songs) and apply different tempo",
+                "Learners to listen to piece of different tempo"
+              ],
+              "learner_steps": [
+                "Interpret Italian tempo terms in provided musical scores",
+                "Demonstrate how music with different tempo markings should be performed",
+                "Perform popular songs applying different tempos",
+                "Listen to pieces with different tempos"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 15,
+              "hook": "Interpreting the Italian terms for dynamics (piano, forte)",
+              "teacher_steps": [
+                "Divide learners in groups and give them a musical score sheet with Italian terms for dynamics. Ask them to interpret as well as demonstrate how the music will be performed",
+                "Engage learners to interpret the Italian terms for dynamics and help them demonstrate how they are applied either by singing or playing instruments as prescribed (Soft, loud)"
+              ],
+              "learner_steps": [
+                "Interpret Italian dynamic terms in provided musical scores",
+                "Demonstrate how music with different dynamic markings should be performed",
+                "Apply dynamics by singing or playing instruments (soft, loud, crescendo, etc.)"
+              ]
+            }
+          ],
+          "short_notes": "Musical terms and signs are specialized words and symbols used in music notation to convey information about pitch, rhythm, dynamics, articulation, and other aspects of musical performance. Most musical terms are written in Italian Language because of the country's significant contributions to the development of Western classical music. Italian composers were the first to write 'instruction' words at certain points in their music. Italian musical terms have become an integral part of the language of music, providing a universal vocabulary for musicians to communicate and interpret music accurately. The term 'tempo' is derived from the Italian language. In Italian, 'tempo' means 'time' and in music, it refers to the speed or rate at which a piece of music is performed. In music, dynamics refer to the varying degrees of loudness and softness in a musical composition. It describes the contrast between quiet and loud sounds, which adds expression, emotion, and depth to the music.",
+          "vocabulary": [
+            {
+              "term": "Accelerando (accel.)",
+              "definition": "Getting quicker"
+            },
+            {
+              "term": "Adagio",
+              "definition": "Leisurely – usually quite slow"
+            },
+            {
+              "term": "Allegro",
+              "definition": "(cheerful) fast"
+            },
+            {
+              "term": "Andante",
+              "definition": "(easy going) At a walking pace"
+            },
+            {
+              "term": "Moderato",
+              "definition": "Moderate tempo (moderately)"
+            },
+            {
+              "term": "Presto",
+              "definition": "Very fast"
+            },
+            {
+              "term": "Ritardando (rit)",
+              "definition": "holding back"
+            },
+            {
+              "term": "Vivace",
+              "definition": "Full of life, fast, lively tempo"
+            },
+            {
+              "term": "Pianissimo (pp)",
+              "definition": "Very soft"
+            },
+            {
+              "term": "Piano (p)",
+              "definition": "Soft"
+            },
+            {
+              "term": "Mezzo-piano (mp)",
+              "definition": "Moderately soft"
+            },
+            {
+              "term": "Mezzo-forte (mf)",
+              "definition": "moderately loud"
+            },
+            {
+              "term": "Forte (f)",
+              "definition": "Loud"
+            },
+            {
+              "term": "Fortissimo (ff)",
+              "definition": "Very loud"
+            },
+            {
+              "term": "Crescendo (cresc)",
+              "definition": "Gradually getting louder"
+            },
+            {
+              "term": "Diminuendo (dim)",
+              "definition": "getting softer"
+            }
+          ],
+          "assessment": {
+            "page": 16,
+            "questions": [
+              "Sight reading/singing",
+              "Playing instruments",
+              "Listening and analysis",
+              "Written work"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.7.2",
+          "title": "Musical Signs",
+          "page": 16,
+          "competences": [
+            "Demonstrate musical signs in music composition"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 16,
+              "hook": "Identifying music signs (staccato, legato, repeat signs)",
+              "teacher_steps": [
+                "Learners in groups to identify music signs (staccato, legato, repeat signs) on a music score provided",
+                "Guide the learners to explore and identify music signs (staccato, legato, repeat signs) on a music score provided"
+              ],
+              "learner_steps": [
+                "Identify music signs in provided musical scores in groups",
+                "Explore and recognize staccato, legato, and repeat signs"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 17,
+              "hook": "Demonstrating music signs",
+              "teacher_steps": [
+                "Perform melodies in groups demonstrating (staccato, legato, repeat signs) on a music score provided",
+                "Facilitate group performances to help learners demonstrate (staccato, legato, repeat signs)"
+              ],
+              "learner_steps": [
+                "Perform melodies demonstrating staccato articulation",
+                "Perform melodies demonstrating legato articulation",
+                "Perform melodies observing repeat signs"
+              ]
+            }
+          ],
+          "short_notes": "Musical signs also known as musical notation symbols, are graphical representations used to convey musical information. They help musicians read and interpret musical score. The word staccato comes from the Italian word meaning 'detached' or 'disconnected,' which means to play notes short and sharply, with a slight silence between each note. It is indicated by a small dot (.) placed either above or below the note head, signifying that the note should be played short and detached. Legato is an Italian term meaning tied together. Legato is a performance technique used in music. It creates a smooth, steady flow between notes. Every single note is played to its utmost length and then harmonizes straight into the following note, allowing a better crescendo or decrescendo of the phrase. In music, a repeat sign is symbol that indicate a section of music should be repeated.",
+          "vocabulary": [
+            {
+              "term": "Staccato",
+              "definition": "Play notes short and sharply, with a slight silence between each note, indicated by a small dot (.) placed either above or below the note head"
+            },
+            {
+              "term": "Legato",
+              "definition": "An Italian term meaning tied together; creates a smooth, steady flow between notes where every single note is played to its utmost length"
+            },
+            {
+              "term": "Repeat signs",
+              "definition": "Symbols that indicate a section of music should be repeated"
+            }
+          ],
+          "assessment": {
+            "page": 17,
+            "questions": [
+              "Sight reading/singing",
+              "Playing instruments",
+              "Listening and analysis",
+              "Written work (composition)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "1.8",
+      "topic_title": "HARMONY",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.8.1",
+          "title": "Triads",
+          "page": 19,
+          "competences": [
+            "Construct triads",
+            "Apply primary and secondary triads"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 19,
+              "hook": "Identifying triads (roots, third and fifth)",
+              "teacher_steps": [
+                "Ask learners to identify and label the triads as root, third and fifth on a staff using the tonic triad in C major",
+                "Facilitate learners' involvement in identifying and labelling the triads as root, third and fifth",
+                "Break learners into smaller groups to discuss and identify the triads as root, third and fifth",
+                "Ask learners to either sing or play the constructed tonic triad in C major",
+                "Allow learners in groups to freely explore and experiment by either singing or playing the tonic triad in C major"
+              ],
+              "learner_steps": [
+                "Identify and label triads as root, third, and fifth on staff",
+                "Discuss in groups how to identify triads",
+                "Sing or play the tonic triad in C major",
+                "Explore and experiment with triads in groups"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 20,
+              "hook": "Constructing triads (root, 3rd, 5th)",
+              "teacher_steps": [
+                "Engage learners in constructing triads (root, 3rd, 5th) on the staff in different keys",
+                "Engage and support learners in constructing triads (root, 5th, 3rd) on either treble or bass staff"
+              ],
+              "learner_steps": [
+                "Construct triads on staff in different keys",
+                "Practice constructing triads on treble and bass staff"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3",
+              "page": 20,
+              "hook": "Describing triads (major, minor, diminished or augmented)",
+              "teacher_steps": [
+                "Ask learners to describe triads as (major, minor, diminished or augmented)",
+                "Introduce the theoretical and practical application of triads as (major, minor, diminished or augmented)",
+                "Introduce the basics of triads-a triad is a three-note chord built from a root, 3rd and 5th",
+                "Guide learners how to identify intervals in a triad e.g. Major 3rd which has 3 steps with 4 semitones (C to E) and minor 3rd has 3 steps with 3 semitones (C to E flat)",
+                "Major triad structure is root + major third + perfect fifth",
+                "Minor triad structure has root + minor third + perfect fifth"
+              ],
+              "learner_steps": [
+                "Describe triads as major, minor, diminished, or augmented",
+                "Learn to identify intervals within triads",
+                "Understand major and minor triad structures",
+                "Apply theoretical knowledge to practical examples"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 4",
+              "page": 21,
+              "hook": "Inverting triads",
+              "teacher_steps": [
+                "Invert triads from root position to first and second inversion",
+                "Guide learners on how to invert triads from root, first and second inversion",
+                "Provide worksheets where learners must label triads and their inversions in musical notation",
+                "Have learners practice performing triads and their inversions on their instruments",
+                "Start with simple major and minor triads before moving to diminished and augmented"
+              ],
+              "learner_steps": [
+                "Invert triads from root to first inversion",
+                "Invert triads from first to second inversion",
+                "Label triads and their inversions in notation",
+                "Perform triads and inversions on instruments"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 5",
+              "page": 21,
+              "hook": "Playing triads",
+              "teacher_steps": [
+                "Perform each type of triad (Major, minor, diminished and augmented) on an instrument (piano, guitar)",
+                "Guide learners how to play triads on an instrument",
+                "Give learners a root note and have them play the third and the fifth notes",
+                "Engage learners in ear training by identifying the played triads (Major, minor)",
+                "Comparative listening-guide: learners to play in pairs e.g. major vs minor and have students describe emotional quality of each"
+              ],
+              "learner_steps": [
+                "Perform major, minor, diminished, and augmented triads on instruments",
+                "Practice playing triads given only the root note",
+                "Develop ear training by identifying triads by sound",
+                "Compare and describe emotional qualities of different triad types"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 6",
+              "page": 21,
+              "hook": "Identifying primary and secondary triads in any given scale",
+              "teacher_steps": [
+                "Learners to identify primary and secondary triads in groups in any given scale",
+                "Carefully guide learners how to identify primary and secondary triads in any given scale"
+              ],
+              "learner_steps": [
+                "Identify primary triads (I, IV, V) in given scales",
+                "Identify secondary triads (ii, iii, vi, vii°) in given scales",
+                "Work in groups to identify all triads in various scales"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 7",
+              "page": 22,
+              "hook": "Applying primary and secondary triads in any given scale",
+              "teacher_steps": [
+                "Learners construct primary and secondary triads in any given scale/key",
+                "Guide learners how to construct primary and secondary triads in any given key/scale"
+              ],
+              "learner_steps": [
+                "Construct primary triads in given keys",
+                "Construct secondary triads in given keys",
+                "Apply knowledge to create chord progressions"
+              ]
+            }
+          ],
+          "short_notes": "In music, Harmony refers to the combination of different musical notes played or sung at the same time to produce a pleasing sound. It usually supports the melody (the tune) and adds depth, emotion and texture to a piece of music. Harmony is created when two or more notes sound together, forming chords (like C major or G minor), or more complex structures. A triad is a three-note chord built from a root, third and fifth. It is a group of three notes played or sung simultaneously. When we refer to the root, third and fifth, we mean that: The root is a base note (foundation note), The third is a third interval above the root, The fifth is a fifth note (a perfect 5th) above the root. There are four main types of triads: Major triad (root + major third + perfect fifth), Minor triad (root + minor third + perfect fifth), Diminished triad (root + minor third + diminished fifth), and Augmented triad (root + major third + augmented fifth). Primary triads are the I, IV, and V chords built on the first, fourth, and fifth scale degrees. Secondary triads are built on the remaining scale degrees (ii, iii, vi, vii°).",
+          "vocabulary": [
+            {
+              "term": "Chord",
+              "definition": "Is formed when two or more different notes are played or sung together. The most common is a Triad, which consists of 3 notes (C-E-G)"
+            },
+            {
+              "term": "Triad",
+              "definition": "A basic three-note chord made of root, third and fifth (D minor triad=D-F-A)"
+            },
+            {
+              "term": "Interval",
+              "definition": "The distance between two notes. Common intervals include 2nd, 3rd, 5th and Octaves"
+            },
+            {
+              "term": "Inversion",
+              "definition": "A chord where the root is not the lowest note. Changes the feel/sound of the chord"
+            },
+            {
+              "term": "Consonance",
+              "definition": "A combination of notes that sounds stable, pleasant or resolved"
+            },
+            {
+              "term": "Dissonance",
+              "definition": "A combination of notes that sounds tense or unstable; often used to create drama or resolution"
+            },
+            {
+              "term": "Chord progression",
+              "definition": "A sequence of chords played in successions (I - IV - V - I)"
+            },
+            {
+              "term": "Cadence",
+              "definition": "A chord progression that signals the end of a phrase or section (perfect cadence V-I)"
+            },
+            {
+              "term": "Voicing",
+              "definition": "Exploring different ways to arrange notes in chords can lead to fuller or more varied sound such as using inversions"
+            }
+          ],
+          "assessment": {
+            "page": 22,
+            "questions": [
+              "Identify, construct and play/sing the triads given",
+              "Create a quiz to test learners' ability to identify triads",
+              "Assign a project where learners analyse and identify triads in selected score",
+              "Give short answer questions by asking students to explain triad concepts and give musical examples",
+              "Ask learners to compose short pieces of music using triads",
+              "Create a quiz to test learners' ability to understand primary and secondary triads in any given key/scale",
+              "Assign a project where learners analyse and identify primary and secondary triads in any given key/scale",
+              "Ask learners to create and notate simple chord progressions of primary and secondary triads in any given key/scale"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

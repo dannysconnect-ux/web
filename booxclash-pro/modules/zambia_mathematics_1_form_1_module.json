@@ -1,0 +1,1211 @@
+{
+    "subject": "MATHEMATICS I",
+    "grade": "FORM 1",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "NUMBERS",
+            "general_competences": [
+                "Analytical Thinking",
+                "Communication",
+                "Problem Solving",
+                "Collaboration",
+                "Financial Literacy",
+                "Digital literacy",
+                "Creativity"
+            ],
+            "short_notes": "Numbers are the foundation of mathematics and play an important role in our daily lives. They are used to quantify, measure, and make comparisons in different aspects of our day-to-day life situations. Understanding numbers helps us make informed decisions, solve problems and understand the world around us. In this topic, we shall explore classification of numbers and combined operations on real numbers.",
+            "vocabulary": [
+                {
+                    "term": "Prime Numbers",
+                    "definition": ""
+                },
+                {
+                    "term": "Composite Numbers",
+                    "definition": ""
+                },
+                {
+                    "term": "Integers",
+                    "definition": ""
+                },
+                {
+                    "term": "Rational Numbers",
+                    "definition": ""
+                },
+                {
+                    "term": "Irrational Numbers",
+                    "definition": ""
+                },
+                {
+                    "term": "Real Numbers",
+                    "definition": ""
+                },
+                {
+                    "term": "Complex Numbers",
+                    "definition": ""
+                },
+                {
+                    "term": "Factors",
+                    "definition": ""
+                },
+                {
+                    "term": "Multiples",
+                    "definition": ""
+                },
+                {
+                    "term": "Prime Factorisation",
+                    "definition": ""
+                },
+                {
+                    "term": "Combined Operations",
+                    "definition": ""
+                }
+            ],
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Classification of Numbers",
+                    "page": 11,
+                    "competences": [
+                        "Apply classification of numbers in real life situations"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 1",
+                            "page": 11,
+                            "hook": "You are on duty to wash the kitchen utensils you used for lunch. After washing you are to pack them. What would you consider in the packing process? Can you do the same for numbers?",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Explore properties of different types of numbers (natural, numbers, whole, integers, prime numbers, even numbers, odd numbers, rational, irrational, composite numbers) using materials (puzzles, number cards, games....)"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1.1",
+                            "page": 11,
+                            "hook": "Learners in pairs examine the groups of numbers given to them. Their task is to figure out the properties that numbers in each group share. What do they have in common? a. {1,2,3,4,5,6,7,...} b. {0,1,2,3,4,5,.....} c. {...,-3,-2.-1,0,1,2,3,...) d. {...-5,-3.-1,1,3,5,7,9,11,13, 15...} e. {...-4,-2,0,2,4,6,8,10,...} f. {2,3,5,7,11,13..} g. {4,6,8,9,10,12,....} Next Pairs compare number groups; i. (a) and (b) ii. (c) and (b) iii. (d) and (e) iv. (f) and (g)",
+                            "teacher_steps": [
+                                "From examining members of each group and comparing groups, learners will determine the properties of each group of numbers."
+                            ],
+                            "learner_steps": [
+                                "Examine groups of numbers.",
+                                "Figure out the properties that numbers in each group share.",
+                                "Compare number groups as instructed."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1.2",
+                            "page": 13,
+                            "hook": "In pairs learners compare the elements in each group A={1.25, 1.5, 1/3, 1/7, \u221a9, \u221a16.....} B= {pi(\u03c0), \u221a2, \u221a3, \u221a5....}",
+                            "teacher_steps": [
+                                "Facilitate learners using a calculator for conversion.",
+                                "Guide learners to observe the properties of the numbers from the examination of the two groups of numbers."
+                            ],
+                            "learner_steps": [
+                                "Answer the following questions (learners should use a calculator for conversion): i. What do you observe about the decimal part for each of the groups? ii. Can all the members in A and in group B be represented as a fraction (in the form a/b where a and b are integers and b not equal to 0)? iii. What can you observe about the result of the square roots in A and in B ?"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1.3",
+                            "page": 14,
+                            "hook": "Create groups of numbers that have the same properties, from the numbers given in the table. [Table of numbers: 4,0,5,21,-7, 23,12,-3,7,-13, 37,8,3,2/5,10, 19,4/7,\u03c0,\u221a9,26, \u221a7,-1,14,0.25,35, 9,16,\u221a25,2.5,43, 11,18,1,37,2, -4,19,\u221a2,\u221a3,6]",
+                            "teacher_steps": [
+                                "Ensure that learners are given enough time to analyse the numbers.",
+                                "Fill in the gaps of classifications not identified by asking probing questions.",
+                                "Check on the learners as they work."
+                            ],
+                            "learner_steps": [
+                                "a. Create groups of numbers that have the same properties, from the numbers given in the table.",
+                                "b. State the properties of the numbers in the each of the groups you have created."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 2",
+                            "page": 15,
+                            "hook": "Investigating the factors and multiples of numbers",
+                            "teacher_steps": [],
+                            "learner_steps": []
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2.1",
+                            "page": 15,
+                            "hook": "Learners investigate factors and multiples using materials like paper, markers, whiteboards, Manila paper, Number cards (20 to 50), Counters (bottletops, cubes, ...) and Worksheets for recording findings.",
+                            "teacher_steps": [
+                                "Divide the class into small groups.",
+                                "Pick a number card and show it to the learners.",
+                                "Ask the learners to group their counters into equal sets based on the different ways the given number can be organised.",
+                                "Ask the learners to explain how they came up with the equal groups.",
+                                "Ask follow up questions in case of any missing groups.",
+                                "Ask each group to pick a number card and find all possible equal groups and present to the whole class."
+                            ],
+                            "learner_steps": [
+                                "Group counters into equal sets based on different ways the given number can be organised.",
+                                "Explain how they came up with the equal groups.",
+                                "Pick a number card, find all possible equal groups, and present to the whole class."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2.2",
+                            "page": 15,
+                            "hook": "Solving real-life word problems involving factors and multiples.",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "1. You are planning a party for 18 guests. You want to set up tables where each table has the same number of seats. What are all the possible ways you can arrange the seating?",
+                                "2. You're creating a playlist of songs, and you want each song to be exactly 4 minutes long. If you have 28 minutes available, how many full songs can you fit into the playlist?",
+                                "3. A soccer tournament has 24 teams, and you want to create groups with 4 teams per group. How many groups will there be? If instead the organizers decide that there should be 3 teams per group, how many groups will there be in the tournament?",
+                                "4. A factory operates in 9-hour shifts. If you want to schedule a worker for 72 hours, how many shifts will they work?",
+                                "5. You are organizing a school event, and you need to divide 30 learners into smaller groups. Each group should have the same number of Learners. How many ways can you divide the Learners into equal-sized groups?",
+                                "6. You have 48 books, and you want to organize them into stacks with an equal number of books in each stack. What are the different ways you can make equal-sized piles of books?",
+                                "7. You need to buy markers for a classroom, and each pack contains 8 markers. If you need 64 markers, how many packs do you need to buy? How many packs of 8 markers do you need to buy to get at least 64 markers?"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 3",
+                            "page": 17,
+                            "hook": "Investigating ways of finding Highest common factor (HCF) and Lowest common multiple (LCM) (prime factorisation, listing...).",
+                            "teacher_steps": [],
+                            "learner_steps": []
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3.1",
+                            "page": 17,
+                            "hook": "Learners explore different methods to find HCF and LCM of two numbers using paper, pencil, calculator (optional), whiteboard, and pre-prepared sets of number pairs (36 and 60, 24 and 36, 12 and 15...).",
+                            "teacher_steps": [
+                                "Give learners cards with pairs of numbers.",
+                                "Facilitate presentation, learners to present to the class the method used to find Highest common factor (HCF) and Lowest common multiple (LCM)."
+                            ],
+                            "learner_steps": [
+                                "Explore different methods to find the Highest common factor (HCF) and Lowest common multiple (LCM) of two numbers.",
+                                "Present to the class the method used to find Highest common factor (HCF) and Lowest common multiple (LCM).",
+                                "Answer the questions after presentations: 'Which method was easiest for you?', 'Were any methods quicker or slower? Why do you think that is?', 'Can you think of situations where one method might be better than another?', 'Which situations in everyday life do you think Highest common factor (HCF) and Lowest common multiple (LCM) can be applied?'"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3.2",
+                            "page": 18,
+                            "hook": "Solving word problems involving HCF and LCM.",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "1. A teacher has 120 pencils and 150 erasers. If she wants to distribute them into identical packages with the same number of pencils and erasers in each, what is the maximum number of identical packages she can create?",
+                                "2. The school tuckshop receives deliveries at regular intervals. One supplier delivers every 12 days and the other supplies every 18 days. Both suppliers delivered today, in how many days will the two suppliers deliver on the same day again?",
+                                "3. Tinta works for state house and is tasked to plan the Presidents movements. He must ensure that the President passes through town when the traffic lights at two intersections are green. The traffic lights at the first intersection changes every 30 seconds and the second intersection every 25 seconds. When will the two traffic lights turn green at the same time?",
+                                "4. John and James love gardening. John has 60 seeds of okra and James has 72 seeds of maize. They want to make identical seed packets with no seeds left over. (a) Determine the greatest number of identical seed packets they can make using all the seeds. (b) determine how many seeds of okra and maize will be in each packet."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 4",
+                            "page": 19,
+                            "hook": "Creating number patterns (games, puzzles).",
+                            "teacher_steps": [],
+                            "learner_steps": []
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 4.1",
+                            "page": 20,
+                            "hook": "Design and Present a Math Board Game that challenges players to use their understanding of number properties, factors, multiples, HCF and LCM.",
+                            "teacher_steps": [
+                                "Learners will present their games to the class and explain how the game incorporates the mathematical concepts they've learned.",
+                                "Learners may incorporate technology into their games or during presentations."
+                            ],
+                            "learner_steps": [
+                                "Create a board game that challenges players to use their understanding of number properties, factors, multiples, HCF and LCM.",
+                                "Present their games to the class and explain how the game incorporates the mathematical concepts they've learned. Incorporate technology if desired."
+                            ]
+                        }
+                    ],
+                    "short_notes": "Properties: - (non-negative numbers , starting from 1, they have no fractions or decimal numbers, ..... Natural numbers[N]) Properties: - ( non-negative numbers starting from zero, They have no fractions or decimal numbers, ..... whole numbers[W] ). Properties: - (zero, positive and negative numbers, They have no fractions or decimal numbers, .....Integers[Z]). Properties:- (zero, positive and negative numbers, They have no fractions or decimal numbers, divisible by two Even numbers). Properties:- (positive and negative numbers, They have no fractions or decimal numbers, not divisible by two Odd numbers). Properties:- (zero, positive numbers, They have no fractions or decimal numbers, divisible by one and itself ..... prime numbers). Property :- (positive numbers, They have no fractions or decimal numbers, divisible by more than one number..... Composite numbers). Numbers in A (Decimal part is repeating and for others its terminating, they can be written in the form a/b, contains perfect squares Rational Numbers) Numbers in B (Decimal part is non repeating and for others its nonterminating, they cannot be written in the form a/b, contains non perfect squares . Irrational Numbers ). Groups of numbers expected are natural, whole numbers, prime numbers, even, odd, integers rational, irrational, composite numbers. A factor is a number that goes into another number without leaving a remainder. From the activity, all possible arrangements of equal groups of any number give the factors of the number (1, 2, 4, 5, 10, 20 are factors of 20). A multiple is a number into which another number goes without leaving a remainder. From the activity, 20 is a multiple of 1, 2, 4, 5, 10, 20. Every number is both a factor and multiple of itself. Listing method involves (a) HCF: listing all the factors of the given numbers and picking the highest of the factors common to the numbers. (b)LCM: listing as many multiples of the given number and picking the lowest common multiple. Prime factorisation involves expressing a given number as products of its prime factors. (a) To find HCF using prime factorisation, express the given numbers as a product of prime factors. Multiply the lowest powers of common prime factor to get the HCF. The HCF of 12 and 18: 12 = 2 \u00d7 2 \u00d7 3 = 2^2 \u00d7 3, 18 = 2 \u00d7 3 \u00d7 3 = 2 \u00d7 3^2, HCF = 2^1 x 3^1 = 6. (b) To find LCM using prime factorisation, express the given numbers as a product of prime factors. Multiply the highest powers of all prime factors to get the LCM. The HCF of 12 and 20: 12 = 2 \u00d7 2 \u00d7 3 = 2^2 \u00d7 3, 20 = 2 \u00d7 2 \u00d7 5 = 2^2 \u00d7 5, LCM = 2^2 \u00d7 3^1 \u00d7 5^1 = 30. HCF is used for finding the largest equal division or shared factor between things (dividing resources, scheduling overlapping events, and Time Management, Building Projects (Like Fencing), ...). LCM is useful when finding smallest common interval or multiple when events with different cycles need to align or match, (purchasing items in bulk, coordinating schedules, Finding Common Time Intervals, Planning Work Cycles, Working with Timetables...).",
+                    "vocabulary": [
+                        {
+                            "term": "Natural numbers",
+                            "definition": "(non-negative numbers, starting from 1, they have no fractions or decimal numbers)"
+                        },
+                        {
+                            "term": "Whole numbers",
+                            "definition": "(non-negative numbers starting from zero, They have no fractions or decimal numbers)"
+                        },
+                        {
+                            "term": "Integers",
+                            "definition": "(zero, positive and negative numbers, They have no fractions or decimal numbers)"
+                        },
+                        {
+                            "term": "Even numbers",
+                            "definition": "(zero, positive and negative numbers, They have no fractions or decimal numbers, divisible by two)"
+                        },
+                        {
+                            "term": "Odd numbers",
+                            "definition": "(positive and negative numbers, They have no fractions or decimal numbers, not divisible by two)"
+                        },
+                        {
+                            "term": "Prime numbers",
+                            "definition": "(zero, positive numbers, They have no fractions or decimal numbers, divisible by one and itself)"
+                        },
+                        {
+                            "term": "Composite numbers",
+                            "definition": "(positive numbers, They have no fractions or decimal numbers, divisible by more than one number)"
+                        },
+                        {
+                            "term": "Rational Numbers",
+                            "definition": "Numbers whose decimal part is repeating or terminating, and can be written in the form a/b where a and b are integers and b is not equal to 0, contains perfect squares."
+                        },
+                        {
+                            "term": "Irrational Numbers",
+                            "definition": "Numbers whose decimal part is non-repeating and non-terminating, and cannot be written in the form a/b, contains non perfect squares."
+                        },
+                        {
+                            "term": "Factor",
+                            "definition": "A number that goes into another number without leaving a remainder."
+                        },
+                        {
+                            "term": "Multiple",
+                            "definition": "A number into which another number goes without leaving a remainder."
+                        },
+                        {
+                            "term": "Highest Common Factor (HCF)",
+                            "definition": "The highest of the factors common to given numbers."
+                        },
+                        {
+                            "term": "Lowest Common Multiple (LCM)",
+                            "definition": "The lowest common multiple of given numbers."
+                        },
+                        {
+                            "term": "Prime factorisation",
+                            "definition": "Expressing a given number as products of its prime factors."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 20,
+                        "questions": [
+                            "Accuracy: Correctly identifying and explaining properties of numbers, finding factors, and calculating HCF and LCM.",
+                            "Creativity: Originality and design of the number-based games, puzzles, and patterns.",
+                            "Presentation: Clear and confident explanation of the final project (board game), with an emphasis on the math concepts involved."
+                        ],
+                        "expected_standard": "Numbers applied in real life situations consistently."
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Combined Operations on Real Numbers",
+                    "page": 20,
+                    "competences": [
+                        "Apply combined operations on real numbers in real life situations"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 1",
+                            "page": 21,
+                            "hook": "Solving real life situations using combined operations.",
+                            "teacher_steps": [],
+                            "learner_steps": []
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1.1",
+                            "page": 21,
+                            "hook": "Solving word problems involving combined operations.",
+                            "teacher_steps": [
+                                "Place learners in groups and ask them to work out the following questions.",
+                                "Learners present their work to the whole class."
+                            ],
+                            "learner_steps": [
+                                "1. A pen costs k15 and a pencil costs k10 less than a pen. Find the total cost of six pens and seven pencils.",
+                                "2. Two females namedSpiwe and Patience, work a forty-hour week, Spiwe is paid at the rate of k450 per hour and Patience is paid at the rate of k600 per hour. Calculate how much they were paid in one week.",
+                                "Present their work to the whole class."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1.2",
+                            "page": 22,
+                            "hook": "Solving complex word problems and numerical expressions using the correct order of operations.",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "1. Jones decides to host a party for 4 of his friends. He needs 5 snack packs at k59 each, 5 drinks at k11.50each, music system at k200, transport to the venue at k100 one way and k200 for their venue. If they are given a 15% discount on all their expenses, find their total expenditure.",
+                                "2. A family of 5 is planning to go on a road trip from one city to another. The distance between the two cities is 300 kilometres, their car has a fuel consumption rate of 15 kilometres per litre. Fuel costs k34 per litre. They will spend a night at a lodge in two rooms at k350 per night per room. They will spend k420 on food. Workout thetotal expenditure for this trip.",
+                                "3. John and Mary are tasked to come up with the cost of some items for a three bedroomed house under construction. They will need 3500 blocks for walls. A bag of cement produces 35 blocks and costs k145. They need 2 loads of quarry dust for the blocks at a cost of k3200 per load. The house will need fifteen iron sheets at k320 each. The house will have its floors tiled using 200 tiles that come in boxes containing 10 tiles each. Each box of tiles is k120. The owner of the house decided to reduce the costs by reducing on the items to be bought to 2800 block, 150 tiles, 1/2 loads of quarry dust and 160 tiles. What was the new cost of the items.",
+                                "4. For extended practice learners should calculate the following: a. 15\u00f73+5\u00d72-(7+1) b. (6+2)\u00d75-4\u00f72 c. 12-3\u00d72+(8+4) d. 2(3+4) \u2013 6 e. 12/(6\u00f73) f. 8+3\u00d76\u00f72-58 + 3"
+                            ]
+                        }
+                    ],
+                    "short_notes": "This topic focuses on applying combined operations on real numbers in real life situations. Understanding combined operations is crucial for solving real-world problems (budgeting, calculating costs...). Word problems should be written as mathematical expressions correctly; learners write the problems as mathematical statements (in question (1) the mathematical statement could be 6 \u00d7 15 \u2013 7 \u00d7 (15 \u2013 10)). The correct order of operations should be applied in Combined operations. P: Parentheses (Brackets) \u2013 First, simplify expressions inside parentheses (brackets). E: Exponents (Powers) \u2013 Next, evaluate exponents (like squares, cubes, ...). MD: Multiplication and Division \u2013 Perform multiplication and division from left to right. AS: Addition and Subtraction \u2013 Finally, perform addition and subtraction from left to right. When solving word problems, learners should understand the problem, devise a plan, carryout the plan and evaluate the solution.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 23,
+                        "questions": [],
+                        "expected_standard": "Combined operations on real numbers applied in everyday life situations correctly."
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "INTEGERS",
+            "general_competences": [
+                "Critical thinking",
+                "Analytical Thinking",
+                "Creativity and Innovation",
+                "problem solving",
+                "digital literacy",
+                "collaboration and Communication."
+            ],
+            "short_notes": "Integers are the building blocks of mathematics. Mastering integers is key to understanding essential math operations like addition, subtraction, multiplication, and division, which lay the groundwork for tackling more complex concepts. In this topic, we'll dive into how these operations on integers apply to real-world situations and why they matter.",
+            "vocabulary": [
+                {
+                    "term": "Integers",
+                    "definition": ""
+                },
+                {
+                    "term": "Four operations",
+                    "definition": "(addition, subtraction, division, multiplication)"
+                }
+            ],
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "The Four Operations on Integers",
+                    "page": 25,
+                    "competences": [
+                        "Use integers in real life."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 1",
+                            "page": 25,
+                            "hook": "Exploring the applications of the four operations (addition, subtraction, multiplication, division) on integers in real life situations (temperatures, bank account balance, share market, index goal, difference...)",
+                            "teacher_steps": [],
+                            "learner_steps": []
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1.1",
+                            "page": 25,
+                            "hook": "How do you think negative numbers and zero can be useful in our everyday lives? (from page 24) or Project Title: 'Exploring integers: Real-Life Applications'",
+                            "teacher_steps": [
+                                "Give the learners the following project.",
+                                "Project should be submitted by the end of the topic and presentation shall be the last activity in this topic.",
+                                "Learners will work on a project where they simulate real-life scenarios that involve the use of integers. They will research different situations where integers are used, solve problems related to these situations, and create a visual or written report of their findings."
+                            ],
+                            "learner_steps": [
+                                "a. Project themes: Pick or be assigned a theme (Temperature Tracking, Banking, Sea Level, Sports, Debt and Credit) or create their own.",
+                                "b. Create Visual Representations and write a report: Use number line, graphs, tables, charts, computer applications, creative visuals (thermometer, balance scale) to represent data. Document findings and explain integer use. Include a brief explanation of mathematical operations used.",
+                                "c. Presentation: Each learner/group will present and explain their real-life scenario, walk through calculations, and show visual representation."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1.2",
+                            "page": 27,
+                            "hook": "Engage the learners in an activity that will make them explore different ways of performing operations of addition and subtraction (number line, integer tiles .....). The following is one such activity that uses number tiles.",
+                            "teacher_steps": [
+                                "Step 1: - Provide learners with number tiles: red tiles represent positive integers while white tiles represent negatives integers.",
+                                "Ask the learners what number each of the tiles represent.",
+                                "Provide learners with integer tiles and have them explore how to represent the mathematical statements with number tiles.",
+                                "Learners to apply number tiles to solving questions on operations on integers (addition, subtraction).",
+                                "Learners to make conclusions about the integer value of the result after adding."
+                            ],
+                            "learner_steps": [
+                                "Determine what number each tile represents.",
+                                "Represent mathematical statements with number tiles.",
+                                "Apply number tiles to solve questions on operations on integers (addition, subtraction).",
+                                "Make conclusions about the integer value of the result after adding: Any number + 0, Positive integer + Positive integer, Negative integer + Negative integer, Positive integer + Negative integer."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1.3",
+                            "page": 34,
+                            "hook": "Jack dreams of becoming a meteorologist one day! A meteorologist is someone who studies the atmosphere, weather patterns, and climate. To kickstart his journey, Jack decides to practice by observing different climates around the world. He begins by creating a colorful map that shows various climate zones around the Earth and tabulates average winter temperatures for each of the zones in 2024.",
+                            "teacher_steps": [
+                                "Key Considerations: Question (d) is subjective and will be primarily to enhance learners' spatial awareness."
+                            ],
+                            "learner_steps": [
+                                "i. Of the climate Zones shown in the table, which zone has: a. Has the highest average winter temperature? b. Has the lowest average winter temperature?",
+                                "ii. Zambia has typically a Tropical Climate Zone, calculate the difference, in degrees Celsius between: a. Zambia's Climate Zone and the Polar Zone? b. Zambia's climatic Zone and the Mediterranean? c. Which climate zone has an average winter temperature that is closest to that of Zambia?",
+                                "iii. If the average temperature in the polar climatic zone reduced further by 7\u00b0C, what would the temperature be?",
+                                "iv. Given the choice to visit towns in other climatic zones, which would you choose based on the average temperature? Give a reason for your choice. ?"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1.4",
+                            "page": 35,
+                            "hook": "Scenario: Mobile money Account Transactions. Imagine you have a mobile money account with neither withdraw nor deposit charges. Over the course of a week, you make several deposits and withdrawals. The table below shows the balance changes after each transaction. Positive numbers represent deposits (money added to the account), while negative numbers represent withdrawals (money taken out).",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "i. With a deposit of K100 is made on Wednesday, what is the new balance?",
+                                "ii. After a withdrawal of K30 on Thursday, how much money is left in the account?",
+                                "iii. How much will the account balance increase after a K150 deposit is made on Friday?",
+                                "iv. What will the account balance be after a withdrawal of K100 on Saturday?",
+                                "v. If you combine all the transactions for the week, what is the total amount of money deposited?",
+                                "vi. what is the total amount of money withdrawn?",
+                                "vii. What is the total net change in the account balance for the week (deposit total minus withdrawal total)?"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1.5",
+                            "page": 37,
+                            "hook": "Learners to be placed in pairs to attempt the task below. Copy and complete the table below. The first 2 rows have been completed for you. [Table: Multiplication, Repeated addition, Solution]",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "i. Follow up questions: a. What do you observe about the sum in each row? b. What conclusions can we make based on the results?",
+                                "ii. Learners to present and explain their work to the class."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1.6",
+                            "page": 37,
+                            "hook": "Learners to work in pairs and take the activity below. Instructions: In pairs learners should fill in the blank spaces of the arithmetic grid given below. Learners should clearly show all their working.",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Fill in the blank spaces of the arithmetic grid given, showing all working."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1.7",
+                            "page": 39,
+                            "hook": "Learners to answer questions individually",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "i. Pauline is a tailor, and she enjoys making traditional attires. She decides to make a Siziba (Lozi traditional attire) to be sold during the Kuomboka ceremony. It takes her 2 days to make one attire. How long would it take her to make 8 attires?",
+                                "ii. Denoting a borrowed amount (debt) with a negative and earned amount (gain) with a positive, if a boy named Mulenga borrowed K5 from you every day for 7 days. How much money would he owe you by the end of the week.",
+                                "iii. Mr.Emmanuel Chisanga owns a store in town centre. In the past week he made a profit of K60 each day for 5 days, but he loses K20 each day for 2 days. Calculate his total earnings after a week and determine if it is a profit or loss?",
+                                "iv. Doye wants to be a Pilot when she grows up. She discovers that the higher she goes above ground level the cooler it becomes. She further discovers that the drop in temperature is 7\u00b0C for each kilometer above ground level. If the temperature at ground level is 0\u00b0C find the temperature 10kms above ground level.",
+                                "v. Chabota has a savings account with ZANACO (Zambia National Commercial Bank) she needs to have a positive average weekly balance for her to get a reward at the end of each week. Below is a table showing her daily balance. (Page 40-41 questions: a. What was Chabota's average daily balance in the first week of January? b. What was Chabota's average daily balance in the first week of February? c. In which of the two months will she get a reward?)",
+                                "Extension work: Find the value of each of the following: a. (-10) + (-3) b. (-6) + 2 c. (-3) + 4 d. (+7)-3 e. (-5)-8 f. 9-(-2) g. 10-(-4) h. (-16) \u00f7 (-2) i. (8) \u00f7 (-4) j. (-2) \u00f7 1 k. (-4) \u00d7 4 l. (\u22126) \u00d7 (-3)"
+                            ]
+                        }
+                    ],
+                    "short_notes": "The four basic operations (addition, subtraction, multiplication, and division) are crucial when working with integers. In this section we shall explore the relevance of integers to our daily lives. We will explore, how operations on integers can be useful in areas such as calculating temperatures, managing finances, and measuring changes in various contexts. If integer tiles are used, they will act as a visual representation of addition and subtracting. Example: (+5) + (0) = (+5). We can add any number of pairs of negative and positive tiles but they will equal zero and still give us the number we started with. Ensure that the activity selected allows learners to explore and practice the addition and subtraction operation and discover the following generalizations: a. (-2) + (-4) can be expressed as - 2 -4 b. (-2) - (-4) can be expressed as - 2 + 4. Positive integer + Positive integer = Positive integer, e.g., +5 + (+3) = +8, 5+3=8. Negative integer + Negative integer = Negative integer, e.g., \u22124 + (\u22123) = -7, -4-3=-7. Positive integer + Negative integer = subtract the numerically smaller number form the numerically bigger number and take the sign of the bigger one. For (Negative < Positive): 7 + (-4) = 3 (since 7 is larger, the result is positive). For (Negative > Positive): -6 + 3 = -3 (since -6 is larger, the result is negative). Any number + 0 = the number itself, e.g., 8+0=8, 0 + (-5) = \u22125. As observed in the activity a negative number is less than a positive number (-13\u00b0C is less than 3\u00b0C). In finding the average winter temperature closest to that of Zambia learners applied subtraction of Integers ( 26 \u2013 (-13)= 39\u00b0C, 26-10=16\u00b0C,...). The smallest difference is the one whose climatic zone is closest to that of Zambia. This activity will allow learners to practice addition of integers with the same sign and different signs - for the initial balance of K150 plus a deposit of K100 give us a new balance K250, (150 + 100 = 250 ...). - After a withdraw of -30, learners will find how much is left in the account by adding integers with different signs (-30 + 250 = 220 ...). When multiplying two integers of the same signs the result should be positive [4 \u00d7 3 = 12, (\u22122) \u00d7 (-5) = 10 ]. When multiplying two integers of the different signs the result should be negative [4 \u00d7 (-3) = (-12), 2\u00d7(-5) = (-10) ]. These conclusions for multiplying integers are the same as those for dividing integers. When dividing two integers of the same signs the result is positive (4\u00f72=2, (\u22122) \u00f7 (-1) = 2. When dividing two integers of the different signs the result is negative 4 \u00f7 (-2) = (-2), (-2) \u00f7 (1) = (-2).",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 26,
+                        "questions": [
+                            "Accuracy: Correct use of addition, subtraction, multiplication, and division of integers.",
+                            "Relevance to real life: How well the project connects the abstract concept of integers to a practical scenario.",
+                            "Creativity and Clarity of Explanation: Ability to explain the project and the use of integers clearly and effectively."
+                        ],
+                        "expected_standard": "Integers used in real life correctly"
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "APPROXIMATIONS AND ESTIMATIONS",
+            "general_competences": [
+                "Problem solving",
+                "analytical thinking",
+                "collaboration",
+                "communication",
+                "digital literacy and financial literacy."
+            ],
+            "short_notes": "Approximations and Estimations are critical skills used in everyday life to simplify complex measurements, ensure precision, and support informed decision-making. This topic introduces learners to the fundamental concepts of approximations and estimations and their application in real-life contexts. Through a variety of interactive and hands-on activities, this topic connects the principles of approximation and estimations with real-world applications, empowering learners to make sound, data-driven decisions in their everyday lives.",
+            "vocabulary": [
+                {
+                    "term": "Approximation",
+                    "definition": ""
+                },
+                {
+                    "term": "Significant Figures",
+                    "definition": ""
+                },
+                {
+                    "term": "Scientific Notation",
+                    "definition": ""
+                },
+                {
+                    "term": "Estimation",
+                    "definition": ""
+                },
+                {
+                    "term": "Relative Error",
+                    "definition": ""
+                },
+                {
+                    "term": "Absolute Error",
+                    "definition": ""
+                },
+                {
+                    "term": "Percentage Errors",
+                    "definition": ""
+                },
+                {
+                    "term": "Tolerance",
+                    "definition": ""
+                }
+            ],
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Approximations",
+                    "page": 44,
+                    "competences": [
+                        "Use approximation to make informed decisions in real life."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activities",
+                            "page": 44,
+                            "hook": "Exploring approximations in real life situations.",
+                            "teacher_steps": [],
+                            "learner_steps": []
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1.1",
+                            "page": 44,
+                            "hook": "Measuring various objects using different instruments and rounding off measurements to a given degree of accuracy.",
+                            "teacher_steps": [
+                                "Place learners in small groups or pairs.",
+                                "Ensure each group/pair has the materials needed (Objects (books, desks, liquids...), measuring instruments (ruler, measuring tape, measuring cylinder, string...), pencil, paper).",
+                                "Groups/ pairs to measure the objects using two different instruments.",
+                                "Groups to round of the measurement to a given degree of accuracy ( 10 units, unit, tenth, hundredth ...)",
+                                "Groups/pairs to the design a poster giving details of the quantities they have measured.",
+                                "Groups/pairs to explain how they took the measurement.",
+                                "Presentation: learners present and explain their measurements to the whole class."
+                            ],
+                            "learner_steps": [
+                                "Measure objects using two different instruments.",
+                                "Round off measurements to a given degree of accuracy (10 units, unit, tenth, hundredth ...).",
+                                "Design a poster giving details of the quantities measured.",
+                                "Explain how they took the measurement.",
+                                "Present and explain their measurements to the whole class."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1.2",
+                            "page": 45,
+                            "hook": "Answering questions related to real-life approximation scenarios (shopping, road trip, tiling).",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "1. You are shopping for groceries and the total prices of items in your cart are as follows: K12.49, K5.75, K8.23, K15.99, and K9.50. a) Find the total cost by expressing each price to the nearest whole number. b) Calculate the actual total and compare it to your approximation.",
+                                "2. You are planning a road trip of 275 kilometers. Your car's fuel consumption is approximately 8 liters per 100 kilometers. a) By rounding the distance and fuel efficiency values, determine how much fuel you would need for the trip. b) Compare your approximation to the exact fuel cost. c) Reflect on the implications of using approximations for fuel planning.",
+                                "3. You are tiling a rectangular room that measures 6.3 meters by 4.8 meters. Each tile covers an area of 0.36 square meters. a) Approximate the total number of tiles needed by rounding the room's dimensions and tile area to the nearest unit. b) Compare this to the exact calculation and explain how approximation can help in planning materials for construction projects.",
+                                "4. Approximate each of the following by rounding each number to the given accuracy (a) 7846 X 917 (Hundreds) (b) 586 X 326 (Tens)"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 2",
+                            "page": 46,
+                            "hook": "Investigating the significance of figures in measures.",
+                            "teacher_steps": [],
+                            "learner_steps": []
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2.1",
+                            "page": 46,
+                            "hook": "Learners investigate significant figures in whole numbers and decimal numbers.",
+                            "teacher_steps": [
+                                "Ask learners to investigate significant figures in whole numbers and decimal numbers. (Which figures are significant, what they used for in everyday life...)",
+                                "Presentations to be made as part of the start to this activity."
+                            ],
+                            "learner_steps": [
+                                "Investigate significant figures in whole numbers and decimal numbers (Which figures are significant, what they used for in everyday life...).",
+                                "Make presentations as part of the start of this activity."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2.2",
+                            "page": 47,
+                            "hook": "Analyzing significant figures in measurement data from a weather station and determining the number of significant figures in given numbers.",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "i. A Weather station in Mongu depends on Significant figures to determine the exactness(detail) of a measurement from rain gauges. It has two rain gauges for measuring the amount of rainfall. On the 4th of January the two gauges gave readings as gauge A = 63.5mm and gauge B = 60.40mm. a. State the number of significant figures in the measurement from : 1) gauge A, 2) gauge B. b. Which of the two rain gauges is more detailed?",
+                                "ii. How many significant figures do the following numbers have? a) 58870 b) 809450 c) 0.00521 d) 0.00850"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 3",
+                            "page": 48,
+                            "hook": "Expressing measures (whole and decimal to a required number of significant figures).",
+                            "teacher_steps": [],
+                            "learner_steps": []
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3.1",
+                            "page": 48,
+                            "hook": "Rounding off measurements to a specified number of significant figures in pharmaceutical and flight agency contexts.",
+                            "teacher_steps": [
+                                "Put the learners in small groups and let them discuss the following question, their answers should be presented to the class."
+                            ],
+                            "learner_steps": [
+                                "1. A pharmaceutical company is producing new medication in capsules, and each capsule must contain exactly 0.07855 grams of the active ingredient. However, due to the limitations of the measuring instruments used during production, the company decides to round off the exact measure to a specified number of significant figures. a) Assist the company to round off 0.07855 g to: i. 1 significant figure ii. 2 significant figures iii. 3 significant figures b) Will the answers you have found in (a) affect the dosage? Explain your answer",
+                                "2. A flight agency determines the distance a Plane will travel from Ndola to Addis abba to be 3156 kilometers, but they want to round it to a specific number of significant figures for marketing materials and simplicity in communication. i. Round the number to: a. 1 significant figure b. 2 significant figures ii. Which of the two rounded figure in (ii) would be more appropriate, give reasons for your answer."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3.2",
+                            "page": 50,
+                            "hook": "Rounding measurements to specified significant figures in engineering and area calculation contexts.",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "1. Jane is an engineer working on designing a part that needs to fit exactly into an existing system. She measures the length of the part with a high detail ruler and the measurement comes out as 15.206. For consistency and simplicity, the company standard requires her to report all measurements with 2 significant figures. What measure would she report?",
+                                "2. A rectangular iron sheet has got sides 5.302 cm and 7.60 cm. Round off its area correct to 3 significant figures.",
+                                "3. Give each of the following numbers correct to 3 significant figures. (a) 47035 (b) 3530 (c) 0.6001 (d) 24.0081 (e) 0.001011"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 4",
+                            "page": 50,
+                            "hook": "Exploring ways of expressing large and small measures.",
+                            "teacher_steps": [],
+                            "learner_steps": []
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 4.1",
+                            "page": 50,
+                            "hook": "Expressing large and small numbers (like astronomical distances or raindrop volume) in simpler forms without a calculator.",
+                            "teacher_steps": [
+                                "Learners to be placed in groups and answer the following questions."
+                            ],
+                            "learner_steps": [
+                                "Answer these questions without using a calculator:",
+                                "1. The distance from Earth to Pluto is five billion kilometers, express this number in centimeters.",
+                                "2. A single raindrop is 0.000004 ml. Write the number in liters.",
+                                "3. In what forms or ways can the measurements in questions (1) and (2) above be expressed to make the calculations simpler?"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 5",
+                            "page": 51,
+                            "hook": "Exploring scientific notation (a \u00d7 10n) using scientific calculators and activities (notation maze, scientific notation maze, scientific notation Bingo, scientific notation escape, room activity, card game...).",
+                            "teacher_steps": [
+                                "Design/ select activities that would allow learners to explore scientific notation. One such activity has been provided:"
+                            ],
+                            "learner_steps": [
+                                "Immediately attempt Activity 5.1"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 5.1",
+                            "page": 51,
+                            "hook": "Re-evaluating previous large/small number problems using a scientific calculator and analyzing the calculator's scientific notation representation.",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Answer questions in activity 4.1 using a Scientific calculator.",
+                                "Answer the follow up question: a. Analyze the calculator's representation of the solution to question 1 and 2 from the activity 4.1 explain what each term represents and analyze how you think the number can be converted back with or without a calculator.",
+                                "Present their solutions to the class and give reasons."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 5.2",
+                            "page": 52,
+                            "hook": "Scientific Notation learning by play activities (Game: using number cards to match numbers in standard form).",
+                            "teacher_steps": [
+                                "Design/ select activities that would allow learners to explore scientific notation. One such activity has been provided:",
+                                "Game Procedure (Page 53): Create 10 cards for each group with very large and very small numbers (0.00000000007, 23690000000, ...) and distribute them.",
+                                "Call out numbers in standard form, and learners must find the corresponding numbers on their cards.",
+                                "The first learner to find it raises the card.",
+                                "The learner should read out the number loudly and give reasons for their choice.",
+                                "The first one to read the correct one wins a point.",
+                                "Key considerations: The teacher can use more than 10 cards per group to extend the activity. Teacher can choose an appropriate environment for the activity (classroom, playground, computer laboratory, ...)"
+                            ],
+                            "learner_steps": [
+                                "Find the corresponding numbers on their cards when numbers in standard form are called out.",
+                                "Raise the card, read the number loudly, and give reasons for their choice.",
+                                "Engage in play activities designed to explore scientific notation."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 5.2 (Individual work)",
+                            "page": 53,
+                            "hook": "Solving problems involving large numbers and converting to scientific notation (e.g., distance to Mars, phone storage, number of photos).",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "1. Mars is approximately 227, 939, 921 km from Earth. How many buses of length 6m each could be placed end to end to reach Mars from Earth? Give your answer in standard form.",
+                                "2. A smart phone has 128 GB (gigabytes) of storage. One gigabyte is 1 x 10^9 bytes. How many bytes is 128 GB? Write your answer in scientific notation.",
+                                "3. If a photo takes up 2.5 x 10^6 bytes. How many photos can the phone store?",
+                                "4. Write down the following numbers in scientific notation: a. 3120 b. 97000000 c. 0.00056 d. 0.00000000657 e. 0.000004 f. 7560000000"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 6",
+                            "page": 54,
+                            "hook": "Approximating measures in scientific form to a specified degree of accuracy.",
+                            "teacher_steps": [],
+                            "learner_steps": []
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 6.1",
+                            "page": 54,
+                            "hook": "Expressing and rounding distances and fuel costs in scientific notation for space travel planning.",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "1. 'A spacecraft traveling to Mars covers a distance of 225,623,000 kilometers. Engineers need to plan fuel requirements and communicate efficiently.' a) Express this distance in scientific notation and round it to 2 and 3 significant figures? b) If the cost of fuel per litre is K34.67 and the spacecraft consumes 67000litres per km to reach Mars, determine the cost of the fuel required in standard form correct to 2 and 3 significant figures. c) State which cost is realistic for this distance and explain why."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 6.2",
+                            "page": 55,
+                            "hook": "Expressing and rounding various measurements (Earth's mass, drug concentration, dust particle mass, population, hair thickness) in scientific notation to specified significant figures or decimal places.",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "1. The mass of the earth is approximated as being 5,972,000,000,000,000,000,000 kilograms. a. Express this in scientific Notation correct to i. 2 significant figures ii. 3significant figures iii. 4 significant figures b. If you were tasked with choosing one of the three notations in (a), which one would you choose and why?",
+                                "2. Zambia's population is approximately 2 x 10^7 people. If each person uses 50 litres of water daily: b. Calculate the total daily water usage in litres, express your answer in scientific notation. c. If 1 litre is 1 x 10^-3 cubic metres, convert the total daily water usage to cubic metres. Express the solution to a degree of accuracy of your choice. Explain why you have decided to used that degree of accuracy.",
+                                "3. The thickness of a single strand of human hair is 8 x 10^-5 meters. A sheet of paper is 1x10^-4, how many times thicker is the paper than the hair? If the diameter of the red blood cell is 7 x 10^-6metres. How many red blood cells fit across the width of the human hair?",
+                                "4. Write 0.000000000000000789 in scientific notation, correct to 2 decimal places."
+                            ]
+                        }
+                    ],
+                    "short_notes": "This sub-topic introduces learners to the fundamental ideas of approximations and their application in real-life contexts. It will focus on significant figures and scientific notation and how these can be useful to our day to day lives. Ensure that the instruments used by each group have different degrees of accuracy. Use locally available materials. Approximate values are used when the exact value of something cannot be found, or it is not important that the value be exact for the exercise. Rounding is one way of approximating a value. By using different instruments with different degrees of accuracy, the learners will be forced to pick one of the two measurements to be used on their poster based on their reasoning (measuring an apple with a digital scale and with a beam balance that is correct to one decimal place may give, digital scal......141. beam balance will give 70.3grams). The selection of one of the two measures to place on the poster v- pproximation. Significant figures are used to express degree of detail (precision) of a measurement. All non-zero digits in a number are significant (3727 has 4 significant figures). Zeros between non-zero digits are always significant in both whole and decimal numbers (105 has 3 significant figures, 1.03 has 3 significant figures, 0.00402 has 3 significant figures). Zeros at the end of a whole number are not significant. Zeros at the end of a decimal number are significant (3.00 has 3 significant figures). Zeros before the first non-zero digit in a decimal are not significant (0.0045 has 2 significant figures). The representation on the calculator is known as Scientific Notation. It is written as: a \u00d7 10^n where. i. a is a number greater or equal to one and less than 10. ii. n is an integer (positive, negative, or zero). iii. 10^n scales the number to its actual magnitude. Steps to follow when expressing in standard form: a) Large Numbers in Standard Form: i. Move the decimal point to the left until you have one nonzero digit to the left of the decimal point. This number becomes a. ii. Count the number of places you moved the decimal point. This becomes the positive exponent (n). iii. Write the number as: a\u00d710^n. b) Smaller numbers in Standard Form: i. Move the decimal point to the right until you have one nonzero digit to the left of the decimal point. This number becomes a. ii. Count the number of places you moved the decimal point. This becomes the negative exponent (n). iii. Write the number as: a\u00d710^-n. Approximating numbers in scientific notation to a given degree of accuracy involves rounding the coefficient (the number before the '\u00d710' '') to the desired number of significant figures or decimal places. Here are the key rules and steps: Consider the number of significant figures needed. Round the coefficient \u2018a' to the specified number of significant figures or decimal places using standard rounding rules (If the digit after the desired precision is 5 or greater, round up. If it is less than 5, round down). If rounding the coefficient changes its magnitude (e.g., from 9.99 to 10.0), adjust the exponent n to maintain the correct value. For example: 9.99\u00d710^3 rounded to 2 significant figures becomes 10\u00d710^3, which is rewritten as 1.0\u00d710^4. Express the number in scientific notation with the rounded coefficient and adjusted exponent( if applicable ).",
+                    "vocabulary": [
+                        {
+                            "term": "Significant figures",
+                            "definition": "Used to express degree of detail (precision) of a measurement. Rules: All non-zero digits are significant. Zeros between non-zero digits are always significant. Zeros at the end of a whole number are not significant. Zeros at the end of a decimal number are significant. Zeros before the first non-zero digit in a decimal are not significant."
+                        },
+                        {
+                            "term": "Scientific Notation",
+                            "definition": "A way to represent numbers as a x 10^n, where 'a' is a number greater than or equal to one and less than 10, and 'n' is an integer (positive, negative, or zero) that scales the number to its actual magnitude."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 56,
+                        "questions": [],
+                        "expected_standard": "Approximations used to make informed decisions in real life appropriately."
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "Estimations",
+                    "page": 57,
+                    "competences": [
+                        "Use estimation to make informed decisions in real life."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 1",
+                            "page": 57,
+                            "hook": "Estimating measures and comparing them with actual measurements (e.g., number of candies in a jar).",
+                            "teacher_steps": [
+                                "Learners discuss the following questions in pairs or groups."
+                            ],
+                            "learner_steps": [
+                                "Discuss in pairs or groups: 1. Your mother sends you to a grocery shop to buy sugar, soap, toothpaste, lotion and juice. How much money would you need to buy the items?",
+                                "2. What is the distance from your home to your school?",
+                                "3. How much time do you take from your home to your school?",
+                                "4. What is your daily water usage at home?",
+                                "Presentation: learners present their ideas to the whole class."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2.2",
+                            "page": 58,
+                            "hook": "Solving estimation problems in real-life contexts (e.g., budgeting for school stationery, estimating travel time).",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "1. Judith was enrolled into attend a boarding school at Form 1. She wants to ask her mother for money to buy school stationery, but she hasn't been to the shops in a long time. She remembers that the previous year, a book cost K39.50, a pen was K5.00, and a box of pencils was K40.00. She knows that the prices have definitely gone up, but she has no time to confirm the prices. If she needs 15 books, 5 pens, and 5 boxes of pencils, how much should she ask her mother for?",
+                                "2. John has been transferred to a new school that is not too far from his current school but is farther from town than his current school. It takes him 10 minutes to get to town and 20 minutes to get to his current school from town. Estimate the time it would take for him to get to his new school, given that he still needs to pass through town.",
+                                "3. In what situations is estimation useful, and in what situations is it not useful?"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 2",
+                            "page": 59,
+                            "hook": "Interpreting absolute, relative, percentage errors and tolerance in real life.",
+                            "teacher_steps": [],
+                            "learner_steps": []
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2.1",
+                            "page": 59,
+                            "hook": "Measuring classroom length and comparing individual measurements with a true value to understand error and tolerance.",
+                            "teacher_steps": [
+                                "The teacher sets a predetermined target like the length of the classroom (8.4m,9.6m...) after measuring it and does not tell the learners.",
+                                "Learners as groups/ pairs to take turns in measuring the length of the classroom and give the measurement found.",
+                                "Learners in pairs/group answer the following:"
+                            ],
+                            "learner_steps": [
+                                "Measure the length of the classroom and provide their measurement.",
+                                "i. Compare your measurements, with the true value provided (8.4) and find the difference.",
+                                "ii. Find the value that relates the difference to the true measurement as a fraction.",
+                                "iii. What percentage of the true value is the difference found in (i).",
+                                "iv. Given that each of the pairs/groups found different measurements, what do you think was the reason. How can we determine which measurements are acceptable and which ones are not?",
+                                "v. Given the acceptable range of amendment from the true value is \u00b10.05m (teacher to replace tolerance range based on their predetermined target), determine the highest acceptable value and the lowest acceptable value.",
+                                "vi. Is the measurement you found as a pair/group acceptable or not?"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2.2",
+                            "page": 61,
+                            "hook": "Solving problems involving absolute error, relative error, percentage error, and tolerance in measurement scenarios (wire length, mealie meal bags, table height).",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "1. You are tasked with measuring the length of a piece of wire using a ruler. The true length (measured with a highly accurate tool) is 100 cm, but your ruler is not perfect, and you get a measurement of 98 cm. a. what is your i. Absolute error ii. Relative error iii. Percentage error b. Given that the tolerance Value is \u00b10.1cm, is you measure within the acceptable range? Give reasons for your answer.",
+                                "2. A Milling company called Nyambe millers has put a tolerance value for a bag of mealie meal at \u00b10.5kg. Musonda decides to buy a bag of mealie meal from them. As soon as she gets home she measures the bag again. She discovers that the bag is 24.5kg. Mando does the same and finds that his bag is 25.5kg. i. Determine the tolerance range in the form lower bounds <l < upper bound. ii. Are the bags bought by Musonda and Mando within the tolerance range? Give a reason for your answer.",
+                                "3. A furniture designer is tasked with creating a table that is exactly 1.50 meters in height. After building the prototype, the measured height of the table is found to be 1.47 meters. i. Determine the absolute error, relative error, and percentage error of the measurement. ii. Given that true measurement was rounded to two decimal places, was the error made acceptable or not.",
+                                "4. If 0.333 is the approximate value of \u00bd, find absolute, relative and percentage errors."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2.3",
+                            "page": 62,
+                            "hook": "Solving problems involving tolerance in manufacturing (door width) and scientific measurement (object mass, errors).",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "1. John is a carpenter, and he is tasked with building custom doors for state house. Each door needs to fit perfectly in the door frame. His blueprint says the door width should be 90 cm, but the manufacturing process allows for a small difference and hence sets a tolerance of \u00b10.5 cm for the width of the door. A door whose width is outside the acceptable range is returned to the production cycle for modifications. i. What is the acceptable range of the door's width? ii. He measures the width of three doors as 89.8 cm,90.6 cm and 90.4cm. Will any of the three be returned to the production Cycle? Give reasons for your answer.",
+                                "2. Dingani is a scientist working in a laboratory and measuring the mass of a small object using a balance scale. The true mass of the object is known to be 50 grams. He uses a scale and records the mass as 49.5 grams. i. What is the absolute error in his measurement? ii. Calculate the relative error of his measurement. iii. Convert the relative error into percentage error. iv. If the acceptable tolerance for the measurement was \u00b10.2 grams, is his measurement within the tolerance? Give reasons for your answer."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.6 Project",
+                            "page": 63,
+                            "hook": "Designing and building a model of an object (table, chair, wire car, ...) and setting acceptable errors for it, then comparing model dimensions with exact design dimensions to calculate percentage error.",
+                            "teacher_steps": [
+                                "Learners to design of their choice (table, chair, wire car, ...), learners should be encouraged to use computers to make the designs where possible.",
+                                "They will then build a model based on their layout design and set acceptable errors for the model.",
+                                "After completing the model learners will then measure the dimensions of the model.",
+                                "Learners should then compare the model dimensions with the exact dimensions (from the design layout).",
+                                "Learners to determine what percentage error is in each of the dimensions on the model.",
+                                "Learners to document their process and show clearly calculations of the errors."
+                            ],
+                            "learner_steps": [
+                                "Design an object (table, chair, wire car, ...), using computers where possible.",
+                                "Build a model based on their layout design and set acceptable errors for the model.",
+                                "Measure the dimensions of the completed model.",
+                                "Compare the model dimensions with the exact dimensions (from the design layout).",
+                                "Determine what percentage error is in each of the dimensions on the model.",
+                                "Document their process and show clearly calculations of the errors."
+                            ]
+                        }
+                    ],
+                    "short_notes": "Estimations are essential in simplifying complex problems, making quick decisions and evaluating the accuracy of measurements. In this sub-topic, you will learn about relative error, absolute error, percentage error and tolerance, which are key tools for assessing how close a measurement is to the true value. Estimation helps us make an assumption on various aspects of everyday life (Money to be spent, distance, time taken and water usage c...), especially in situations where the exact measure is not known. For instance, sugar costs K60.99, toothpaste costs K35.44, soap costs K16.23, lotion costs K54.00 and Juice costs K42.49, the total cost of the items which is K209.15 can be estimated as K210.00. From the practical activity 1, we obtained different measurements against the true value (8.4m, 9.6m, ...) the difference between the true value and the measured value is called absolute error. Absolute error = |Measured Value-True value| (8.4m -8.2m=0.2m, ...) in this case our absolute error is 0.2m. Relative error is the ratio of the absolute error of the measurement to the true measurement. (refer to the different measurements that learners have found). Relative Error = Absolute error / True value. Error in measurement may also be expressed as a percent of error. The percent of error is found by multiplying the relative error by 100%. Percentage Error = (Absolute error / True value) \u00d7100%. Tolerance refers to the allowable limit of variation in a measurement, value, or dimension. It defines the range within which a measurement or value is considered acceptable or accurate. One of the ways of expressing Tolerance range is True Value \u00b1 Tolerance value ( for instance 10 cm \u00b1 0.2 cm), where the true value (10 cm) is the target or ideal measurement. The tolerance range (\u00b10.2 cm) specifies how much the actual measurement can deviate from the true value and still be acceptable. Tolerance range = Nominal Value \u00b1 Tolerance Value. Tolerance range can also be expressed using limits, ( lower limit \u2264 l < upper limit where the lower bound = true value \u2013 tolerance value, upper bound = true value + tolerance value and l is the true value ). When the true value is rounded off, the acceptable error can be found by taking half the smallest unit value (8.4cm to one decimal place smallest unit value of 0.1 giving a tolerance range of 8.4\u00b10.05 cm) The smallest unit value of: i. 5cm is 1 ii. 5.3 km is 0.1 iii. 10.234litres is 0.001. The objective of the activity is to increase learners' awareness of how errors arise during manufacturing process as they compare the measurements of the model to those on their design.",
+                    "vocabulary": [
+                        {
+                            "term": "Absolute error",
+                            "definition": "The difference between the true value and the measured value."
+                        },
+                        {
+                            "term": "Relative error",
+                            "definition": "The ratio of the absolute error of the measurement to the true measurement."
+                        },
+                        {
+                            "term": "Percentage Error",
+                            "definition": "The relative error multiplied by 100%."
+                        },
+                        {
+                            "term": "Tolerance",
+                            "definition": "The allowable limit of variation in a measurement, value, or dimension, defining the range within which a measurement is considered acceptable or accurate."
+                        },
+                        {
+                            "term": "Tolerance range",
+                            "definition": "Nominal Value \u00b1 Tolerance Value, or expressed as lower limit \u2264 l < upper limit."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 63,
+                        "questions": [
+                            "Creativity: in creating a design layout and model (innovation in using cost effective and locally available materials ....)",
+                            "Accuracy in calculations: Determining of errors."
+                        ],
+                        "expected_standard": "Estimations to make informed decisions in real life used correctly."
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "SETS",
+            "general_competences": [
+                "Communication",
+                "creativity",
+                "innovation",
+                "collaboration",
+                "critical thinking",
+                "digital literacy and problem solving."
+            ],
+            "short_notes": "In this topic we will discuss Operations on Sets. Knowledge of Sets is of great importance to help us develop a sense of order, organization and logic as we encounter different kinds of information, objects, tools in the environment.",
+            "vocabulary": [
+                {
+                    "term": "Subset",
+                    "definition": ""
+                },
+                {
+                    "term": "Complement",
+                    "definition": ""
+                },
+                {
+                    "term": "Union",
+                    "definition": ""
+                },
+                {
+                    "term": "Intersection",
+                    "definition": ""
+                },
+                {
+                    "term": "Notations",
+                    "definition": ""
+                },
+                {
+                    "term": "Venn Diagram",
+                    "definition": ""
+                }
+            ],
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Operations on sets",
+                    "page": 66,
+                    "competences": [
+                        "Apply set operations in real life context."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 1",
+                            "page": 66,
+                            "hook": "Creating sets using information gathered by learners (both numerical and descriptive).",
+                            "teacher_steps": [],
+                            "learner_steps": []
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1.1",
+                            "page": 66,
+                            "hook": "Gathering objects/information and creating sets based on specific categories.",
+                            "teacher_steps": [
+                                "Divide learners into small groups and assign each group a specific category to gather information about (names of villages where they come from, seasons, rivers in Zambia, colors, groups of numbers, unit of sweets, letters of the English alphabet, all the teachers in school, shoe sizes, teachers of mathematics at your school, members of your class, sets of numbers, whole numbers less than 10, set of multiples of 10 less than 100, ...).",
+                                "Learners to then present their work to the class, using the blackboard, paperboard or power point.",
+                                "Learners to explain why they decided to place those items in that category."
+                            ],
+                            "learner_steps": [
+                                "Research online or brainstorm to list at least 10 items that fit their assigned category.",
+                                "Present their work to the class using blackboard, paperboard or power point.",
+                                "Explain why they decided to place those items in that category."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 2",
+                            "page": 67,
+                            "hook": "Exploring different forms of set representation (listing, number line, set builder notation, Venn diagram; difference between elements and number of elements on Venn diagram).",
+                            "teacher_steps": [],
+                            "learner_steps": []
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1",
+                            "page": 67,
+                            "hook": "Splitting categories into subcategories and exploring different ways of representing sets.",
+                            "teacher_steps": [
+                                "Each group to split the category given in activity 1.1 into two subcategories.(teachers in the school: teachers of English, teachers of history ...).",
+                                "Learners to then explore different ways of representing their set.",
+                                "Learners to present their work to the class."
+                            ],
+                            "learner_steps": [
+                                "Split the assigned category into two subcategories.",
+                                "Explore different ways of representing their set (listing, number line, set builder notation, Venn diagram).",
+                                "Present their work to the class."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2.2",
+                            "page": 69,
+                            "hook": "Analyzing running distances of beginners and experienced runners using Venn diagrams to represent elements and number of elements.",
+                            "teacher_steps": [
+                                "Learners in pairs answer the following question."
+                            ],
+                            "learner_steps": [
+                                "1. A local running club tracks the distances run by its members over a month. The club wants to analyze the performance of two different groups: beginners and experienced runners. Each group records their running distances in kilometers. set of Distances Run by Beginners (B): B= {5,7,10,12,15}, set of Distances Run by Experienced Runners (Ex): Ex = {10,12,15,18,20}. a. Use a Venn diagram to represent this information by showing the i. actual elements. ii. number of elements. b. The club wants to gain understanding into the performance of its members, identify common distances run, and recognize areas for improvement or further training. Which of the two representations do you think is more useful?",
+                                "2. A local fitness centre tracks the activities of its members over a month. The centre wants to analyse the participation of three groups of members: Occasional Gym-Goers, Regular Gym-Goers, and Dedicated Gym-Goers. Each group records the number of workout sessions attended in the past month. Below is the information collected on the number of hours per workout session over 7days for: Occasional Gym-Goers (O): O={0,1,2,3,4,5,6,7}, Regular Gym-Goers (R): R={3,4,5,6,7,8,9,10}, Dedicated Gym-Goers (D): D= {5,6,7,8,11,12}. Present this information showing clearing the ours overlapping between and among gym-goers on a Venn diagram of: i. actual set elements ii. number of elements."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2.3",
+                            "page": 70,
+                            "hook": "Analyzing reading habits of library members (casual and avid readers) and representing the sets on a number line and Venn diagram.",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "1. A local library tracks the number of books read by its members every day for eight days. The library wants to analyse the reading habits of two groups of members: Casual Readers and Avid Readers. Each group records the number of books read in the past month. Set of Books Read by Casual Readers (C): C = {0,1,3, 5,6, 8, 10, 12}, Set of Books Read by Devoted Readers (D): A = {5, 8, 12, 15, 16, 18,20,21}. a. the sets of casual and avid readers have been represented in list roster form. Represent both sets on a number line and on a Venn diagram (actual element and number of elements). b. which of the three representations do you think is more useful to the library."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 3",
+                            "page": 72,
+                            "hook": "Exploring and interpreting various, single and combined set operations (intersection(\u2229), union (U) complement, set difference (-),...) through games and real-life activities (event planning, email management, task management, shopping list, scores of an experiment, tests, ...).",
+                            "teacher_steps": [],
+                            "learner_steps": []
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3.1",
+                            "page": 72,
+                            "hook": "Identifying and listing personal and common hobbies among pairs.",
+                            "teacher_steps": [
+                                "Place learners in pairs or more.",
+                                "Ask each learner to write a list of their hobbies on a piece paper.",
+                                "Ask learners to identify common hobbies and list them separately.",
+                                "Ask each pair to make one list of their hobbies.",
+                                "Ask learners to List hobbies that are on their partner's list but not on your list.",
+                                "Pairs to present and explain their Solutions to the class."
+                            ],
+                            "learner_steps": [
+                                "Write a list of personal hobbies.",
+                                "Identify and list common hobbies with partner.",
+                                "Create one combined list of hobbies for the pair.",
+                                "List hobbies that are on partner's list but not their own.",
+                                "Present and explain solutions to the class."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3.2",
+                            "page": 73,
+                            "hook": "Identifying common and unique hobbies in groups of three.",
+                            "teacher_steps": [
+                                "This activity should be repeated, with learners placed in groups of 3 each.",
+                                "Ask each group to make one list of their hobbies.",
+                                "Ask learners to identify common hobbies and list them separately. Hobbies that are: i. common to all three ii. common to any two but not the third.",
+                                "Ask learners to list hobbies that are unique to them ( not on any of the other two friends lists).",
+                                "Pairs to present and explain their Solutions to the class."
+                            ],
+                            "learner_steps": [
+                                "Create one combined list of hobbies for the group.",
+                                "Identify and list hobbies common to all three group members.",
+                                "Identify and list hobbies common to any two members but not the third.",
+                                "List hobbies unique to each individual (not on any other friend's list).",
+                                "Present and explain solutions to the class."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3.3",
+                            "page": 74,
+                            "hook": "Categorizing library books (Fiction, Biography, Science) and representing overlaps using Venn diagrams, and analyzing survey data on reading and music habits using Venn diagrams.",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "1. A school library categorizes its books into three different categories: Fiction, Biography, and Science. For record keeping purposes the books are assigned numbers.In order to arrange the books in an orderly manner, the Librarian decides to number the books so that he can clearly see the overlap. The books were arranged in categories as follows: [Fiction, Biography, Science book lists]. A book titled 'Finding location on the Earth' was given number 15 and placed under Geography category. a) Illustrate this information on a Venn diagram i. showing all the elements in each set. ii. Showing the number of elements in each set. b) Which of the two illustrations in (a) would you advice John to use. Give reasons for your answer.",
+                                "2. a library, 50 people were surveyed about their reading habits. 22 read novels, 28 read magazines, and 10 read both novels and magazines. Draw a Venn diagram and answer the following questions: a) How many people read only novels? b) How many people read only magazines? c) How many people read neither?",
+                                "3. Chanda and Mary wanted to start a career in the music industry. They were not sure of which type of music had more listeners. They decided to do a survey on 60 people about their music listening habits. The survey asked if they listened to KalindulaMusic, Reggae Music, or Hip hop Music. The results were as follows: 30 people listen to Kalindula Music. 40 people listen to Reggae Music. 25 people listen to Hip hop Music. 15 people listen to both Kalindula and ReggaeMusic. 10 people listen to both Reggae and Hip hop Music. 5 people listen to both Kalindulaand Hip hop Music. 3 people listen to Kalindula, Reggae, and Hip hop Music. i. With the aid of a Venn diagram or otherwise, answer the following: a. How many people listen to only Kalindula Music? b. How many people listen to only Reggae Music? c. How many people listen to only Hip hop Music? d. How many people listen to both Kalindula and Reggae Music, but not Hip hop Music? e. How many people listen to none of these three types of music? f. which music would you advise them to take and why."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Learning Activity 4",
+                            "page": 77,
+                            "hook": "Representing combined operations on Venn diagram using tools (Computers, paperboard, chalkboard, ...upto 3 sets).",
+                            "teacher_steps": [],
+                            "learner_steps": []
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 4.1",
+                            "page": 77,
+                            "hook": "Creating various set operations and representing them on a Venn diagram by shading, using tools like computers, paperboard, or chalkboard.",
+                            "teacher_steps": [
+                                "In pairs/Groups learners to create various set operations and represent them on a Venn diagram by shading.",
+                                "Learners to show set operations on a Venn diagram through shading a given operation on a set using as many tools as is locally available (Microsoft word, Paper board, black board...)."
+                            ],
+                            "learner_steps": [
+                                "Create their own set operations.",
+                                "Represent set operations on Venn diagrams by shading, using available tools (papers, computer applications, etc.).",
+                                "Ensure operations include some combined operations and up to 3 sets (e.g., A\u2229(B\u222aC)).",
+                                "Create presentations that clearly show the operations by shadings."
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 4.2",
+                            "page": 79,
+                            "hook": "Shading regions represented by various set operations (A^c, A\u2229B, A\u2229(A\u2229C), A\u2229(B\u222aC), A\u2229B\u2229C) using available tools.",
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Shade the region represented by each of the sets given below using any tools available (papers, computer applications .....): a. A^C b. A\u2229B c. A\u2229 (A \u2229C) d. A\u2229 (B\u222aC) e. A\u2229B\u2229C"
+                            ]
+                        }
+                    ],
+                    "short_notes": "In this sub-topic, we will explore how to create sets, learn different ways to represent sets, and examine combined operations on sets. We will also look at how to represent these combined operations using Venn diagrams. All these aspects shall be explored in real-life contexts. From the activity learners will notice that the members in the category are sets with items called elements which are well defined (same characteristics) and distinct (not repeated).For instance, a set of Natural numbers from 1 up to 7 maybe {1,2,3,4,5,6,7}, a group of vowels could be {a, e, i, o, u}, names of the villages maybe named as {Kasese, Mwangu, Fendi,...}. A set is denoted with a capital letter (A, B, ...) and elements enclosed using curly brackets or braces {} for instance, V= {a, e, i, o, u}. The order of elements in that group or collection may not be important. From the activity: Roster form or listing set of shoe sizes can be (S = {1, 2, 3, 4,,...}or S= {34,35,36, ...}, V= {Kasese, Mwangu, Fendi,...}). Set-builder notation form, since the shoe sizes are recorded using a set of numbers which belong to Natural numbers, thus maybe: {x | x is a Natural number less than 5} or {x| x<5, x\u2208N}. (Numerical elements). Number line: ({x | x is a Whole number less than 5} or {x| x<5, x\u2208N}. (Numerical elements ). A Venn diagram will provide visual representation of the universal set aswell as subcategories and their intersection. (descriptive and Numerical). Sets without any intersection are disjoint sets. The learners reflect on their learning through discussions. Drawing a Venn diagram with i. actual elements will show a point at the beginning of each number. ii. number of elements will not show a point at the beginning of each number. The intersection of sets is the set of all elements which are common to the given sets. From the activity above, the list of the common hobbies in each pair is the intersection ( \u2229) set. This is written as A \u2229B where A is a set of Ann's hobbies and B is a set of Boyd's hobbies and \u2229 is the symbol for intersection. The union (U) of sets is the set of all elements which belong to the sets under consideration. From the activity, the list of all the hobbies for a pair is the Union set. The complement of a set is the set of elements that are in one set but not in the other set. From the activity above, the list of hobbies that are one partners list and are not part of the other partners list is the compliment. Given a set A its compliment is A^c. (All the hobbies,... form the universal (E) set). The sets to be shed should: i. be created by the learners themselves ii. include some combined operations iii. must have operations for upto 3 sets .( A\u2229 (BUC) ).",
+                    "vocabulary": [
+                        {
+                            "term": "Set",
+                            "definition": "A collection of well-defined, distinct items called elements."
+                        },
+                        {
+                            "term": "Elements",
+                            "definition": "Items that belong to a set."
+                        },
+                        {
+                            "term": "Roster form",
+                            "definition": "Listing all elements of a set, typically within curly brackets."
+                        },
+                        {
+                            "term": "Set-builder notation",
+                            "definition": "Describing the elements of a set by their properties, e.g., {x | x is a Natural number less than 5}."
+                        },
+                        {
+                            "term": "Number line",
+                            "definition": "A visual representation of numerical sets."
+                        },
+                        {
+                            "term": "Venn diagram",
+                            "definition": "A visual representation of universal sets, subcategories, and their intersection."
+                        },
+                        {
+                            "term": "Intersection (\u2229)",
+                            "definition": "The set of all elements which are common to the given sets."
+                        },
+                        {
+                            "term": "Union (U)",
+                            "definition": "The set of all elements which belong to the sets under consideration."
+                        },
+                        {
+                            "term": "Complement (A^c)",
+                            "definition": "The set of elements that are in one set but not in the other set, relative to a universal set."
+                        },
+                        {
+                            "term": "Universal set (E)",
+                            "definition": "The set containing all elements under consideration."
+                        }
+                    ],
+                    "assessment": {
+                        "page": 79,
+                        "questions": [],
+                        "expected_standard": "Set operations as applied in real life context correctly."
+                    }
+                }
+            ]
+        }
+    ]
+}

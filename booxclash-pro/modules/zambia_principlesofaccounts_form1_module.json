@@ -1,0 +1,273 @@
+{
+  "subject": "Principles of Accounts",
+  "grade": "Form 1",
+  "term": 2,
+  "topics": [
+    {
+      "topic_id": "1.5",
+      "topic_title": "Books of Prime Entry",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.5.1",
+          "title": "Types of Books of Prime Entry",
+          "page": 1,
+          "competences": [
+            "Record Business Transactions in the Books of Prime Entry",
+            "Post Business Transactions to the Ledger"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Learning Activities 1 & 2",
+              "page": 2,
+              "hook": "ACE Suppliers Limited is a small electronic wholesaler, whose transactions for the month of March 2025 are shown. With the aid of a chart showing types of Books of Prime Entry: a) Identify the Book of Prime Entry in which each transaction will be recorded. b) Explain each of the Books of Prime Entry identified.",
+              "teacher_steps": [
+                "On a chart, draw a table showing types of Books of Prime Entry and their corresponding transactions recorded",
+                "Display the chart in class",
+                "Give learners the scenario and questions",
+                "Clear any misconceptions after learners' presentations"
+              ],
+              "learner_steps": [
+                "Discuss the two questions in their respective groups",
+                "Summarise key points",
+                "Make presentations"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Learning Activity 3",
+              "page": 6,
+              "hook": "State the Source Documents for each Book of Prime Entry",
+              "teacher_steps": [
+                "Organize various sample Source Documents (Invoice, Credit Note, Debit Note, Receipt, Bank Statement, Cheque Counterfoil, Cheque and Petty Cash Voucher)",
+                "On a chart, draw a table showing Source Documents, their purpose and corresponding Books of Prime Entry",
+                "Display the chart",
+                "Put learners in groups",
+                "Distribute sample Source Documents to groups",
+                "Ask learners to identify each source document, match with Book of Prime Entry, explain use, state content, fill in documents, and explain importance",
+                "Clear learners' misconceptions after presentations"
+              ],
+              "learner_steps": [
+                "Answer questions in respective groups",
+                "Make presentations",
+                "Summarise key points"
+              ]
+            }
+          ],
+          "short_notes": "Books of Prime Entry are Books of Accounts used for recording different types of Business Transactions from various source documents. They include: 1) Purchases Day Book - goods bought on credit for resale; 2) Purchases Returns Day Book - goods bought on credit returned to suppliers; 3) Sales Day Book - goods sold on credit; 4) Sales Returns Day Book - goods sold on credit returned by customers; 5) Cash Book (One Column, Two Column, Three Column) - cash/bank receipts and payments; 6) Petty Cash Book - small cash expenditures; 7) General Journal - transactions that cannot be recorded in other Books of Prime Entry. Source Documents provide proof of transactions and include: Invoice (for credit purchases/sales), Credit Note (for returns/overcharges), Debit Note (buyer request for reduction), Receipt (proof of payment), Cheque, Bank Statement, and Petty Cash Voucher.",
+          "vocabulary": [
+            {
+              "term": "Books of Prime Entry",
+              "definition": "Books in which business transactions are first recorded"
+            },
+            {
+              "term": "Source Documents",
+              "definition": "Documents that show proof of a transaction"
+            },
+            {
+              "term": "Purchases",
+              "definition": "Acquisition of goods, services or assets by a firm for resale"
+            },
+            {
+              "term": "Trade Discount",
+              "definition": "The reduction in the price of items on the gross invoice price or list price for bulky buying"
+            },
+            {
+              "term": "Credit Purchases",
+              "definition": "Goods bought on credit from suppliers for resale"
+            },
+            {
+              "term": "Posting",
+              "definition": "Making a second entry in the ledger in order to complete the double entry system"
+            },
+            {
+              "term": "Trial Balance",
+              "definition": "A list of balances extracted from the Ledger"
+            }
+          ],
+          "assessment": {
+            "page": 3,
+            "questions": [
+              "Task 1: Identify and explain Books of Prime Entry for company transactions including cash/credit sales and purchases",
+              "Task 2: Identify where transactions should be recorded and explain identified Books of Prime Entry for QMD Enterprise",
+              "Task 3: Identify Book of Prime Entry for statements like 'Cash discount is shown in the...'",
+              "Task 4: Identify Books of Prime Entry for B & J Retailer and explain importance",
+              "Task 5: Explain types of transactions recorded in each Book of Prime Entry",
+              "Task 6: Complete table showing where transactions will be recorded"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.5.2",
+          "title": "Purchases Day Book",
+          "page": 17,
+          "competences": [
+            "Record Business Transactions in the Books of Prime Entry - Purchases Day Book",
+            "Post Business Transactions to the Ledger"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Learning Activity 4",
+              "page": 17,
+              "hook": "Kay Gee Limited is a retailer that buys and sells goods both for cash and on credit. They have not kept proper record of Books of Prime Entry. As a qualified Accountant, prepare the Purchases Day Book for February 2025.",
+              "teacher_steps": [
+                "Write credit purchases transactions on the board (at least 6 transactions)",
+                "Pick the first 2 transactions and demonstrate how to record them in Purchases Day Book, taking into account trade discount",
+                "Allow learners working in pairs to record remaining transactions",
+                "Mark exercise and correct each pair's work to clear misconceptions",
+                "Give individualized class exercise/homework"
+              ],
+              "learner_steps": [
+                "Work in pairs and prepare the Purchases Day Book from list of credit transactions",
+                "Copy class exercise/homework"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Learning Activity 5",
+              "page": 19,
+              "hook": "TT Traders had challenge to establish total credit purchases. You have been engaged as Accounts Clerk to prepare Purchases Day Book, post to Ledger, and extract Trial Balance for January 2025.",
+              "teacher_steps": [
+                "Write credit purchases transactions on board (at least 6 transactions)",
+                "Pick 2 accounts (one with multiple posting, another with single posting) and demonstrate recording in Accounts Payable Ledger",
+                "Allow learners in pairs to record remaining transactions",
+                "Mark learner's work and clear misconceptions",
+                "Give individualized class exercise/homework"
+              ],
+              "learner_steps": [
+                "Work in pairs and prepare General Ledger and Accounts Payable Ledger from example",
+                "Present work done in pairs",
+                "Copy exercise/homework and continue hands-on during free time"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Learning Activity 6",
+              "page": 23,
+              "hook": "From Ledger Accounts, extract the Trial Balance",
+              "teacher_steps": [
+                "From Ledger Accounts in Learning Activity 5, allow learners to extract Trial Balance working in pairs",
+                "Mark learner's presentations and clear misconceptions"
+              ],
+              "learner_steps": [
+                "Continue working in pairs and extract Trial Balance",
+                "Make presentations",
+                "Copy exercise/homework and continue hands-on during free time"
+              ]
+            }
+          ],
+          "short_notes": "The Purchases Day Book is one of the Books of Prime Entry where all goods bought on credit for resale are recorded. Also known as Purchases Journal, Creditors or Bought Journal. Source document is the Original Invoice. Format includes: Date, Details, Invoice No., Sub-total, Total Amount columns. The total value of each Purchases Invoice is posted to credit side of each Supplier's Account in Purchases Ledger. Total of Purchases Day Book is posted to debit side of Purchases Account in General Ledger. Trade Discount is reduction in list price for bulky buying - used when calculating net invoice price, does not enter accounting records. Cash Discount is reduction for prompt payment (Discount Allowed to customers, Discount Received from suppliers).",
+          "vocabulary": [
+            {
+              "term": "Purchases",
+              "definition": "Acquisition of goods for resale"
+            },
+            {
+              "term": "Credit Purchases",
+              "definition": "Goods bought on credit from suppliers for resale"
+            },
+            {
+              "term": "Posting",
+              "definition": "Making a second entry in the ledger to complete the double entry system"
+            },
+            {
+              "term": "Trial Balance",
+              "definition": "A list of balances extracted from the Ledger"
+            }
+          ],
+          "assessment": {
+            "page": 25,
+            "questions": [
+              "Task 1: Prepare Purchases Day Book, post to Ledger, extract Trial Balance for Bulonga Stores (January 2025)",
+              "Task 2: Prepare Purchases Day Book, post to Ledger, extract Trial Balance for Palauka Enterprise (March 2025)",
+              "Task 3: Prepare Purchases Day Book, post to Ledger, extract Trial Balance for Star Enterprise (January 2025)",
+              "Task 4: Prepare Purchases Day Book, post to Ledger, extract Trial Balance for VXC Traders (December 2024)",
+              "Task 5: Prepare Purchases Day Book, post to Ledger, extract Trial Balance for Mbwete General Dealers (February 2025)",
+              "Task 6: Prepare Purchases Day Book, post to Ledger, extract Trial Balance for TMN Enterprise (November 2024)",
+              "Task 7: Prepare Purchases Day Book, post to Ledger, extract Trial Balance for Mweemba retailer (January 2025)"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.5.3",
+          "title": "Purchases Returns Day Book",
+          "page": 29,
+          "competences": [
+            "Record Business Transactions in the Books of Prime Entry - Purchases Returns Day Book",
+            "Post Business Transactions to the Ledger"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Learning Activity 6",
+              "page": 30,
+              "hook": "TT Traders Limited had some debtors that returned goods during January 2025. You have been requested as qualified Accountant to prepare the Purchases Returns Journal from the transactions.",
+              "teacher_steps": [
+                "Write credit purchases returns transactions on board (at least 2)",
+                "Pick first 2 transactions and demonstrate recording in Purchases Returns Journal",
+                "Allow learners in pairs to record remaining transactions",
+                "Mark exercise and correct each pair's work to clear misconceptions",
+                "Give individualized class exercise/homework"
+              ],
+              "learner_steps": [
+                "Work in pairs and prepare Purchases Returns Journal",
+                "Copy homework and continue hands-on during free time"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Learning Activity 5",
+              "page": 32,
+              "hook": "Refer to Learning Activity 4 to post transactions to Ledger",
+              "teacher_steps": [
+                "Pick first part demonstrated on and post to Purchases Ledger, show Purchases Returns account in General Ledger",
+                "Allow learners in pairs to post remaining part",
+                "Mark their work and clear learners' misconceptions"
+              ],
+              "learner_steps": [
+                "Work in pairs and post Purchases Returns Day Book to appropriate Ledgers",
+                "Submit work for marking",
+                "Copy class exercise/homework"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Learning Activity 5 (Extract Trial Balance)",
+              "page": 34,
+              "hook": "Refer to previous work in Learning Activity 5 for posting to Ledger",
+              "teacher_steps": [
+                "Pick one item and demonstrate extraction of Trial Balance",
+                "Allow learners to finish extracting Trial Balance and balance it up",
+                "Mark learners' books and clear misconceptions",
+                "Give homework"
+              ],
+              "learner_steps": [
+                "Work in pairs and finish extracting Trial Balance",
+                "Make necessary corrections if any",
+                "Copy class exercise/homework"
+              ]
+            }
+          ],
+          "short_notes": "Purchases Returns Day Book (Returns Outwards Journal/Day Book) is where goods once bought but later returned are recorded due to reasons like wrong colour, wrong order, wrong sizes. Source document is Original Credit Note. Format: Date, Details, Credit Note No., Subtotal, Total Amount columns. Posting rules: Debit all Accounts Payable (Creditors Accounts) in Purchases Ledger with total amounts returned. Transfer total of Purchases Returns Journal to credit side of Purchases Returns Account in General Ledger to complete double entry.",
+          "vocabulary": [
+            {
+              "term": "Purchases Returns",
+              "definition": "Goods that were bought and now returned to the Seller"
+            }
+          ],
+          "assessment": {
+            "page": 35,
+            "questions": [
+              "Task 1: Prepare Purchases Returns Day Book, post to Ledgers, extract Trial Balance for EMK (January 2025)",
+              "Task 2: Prepare Purchases Returns Journal, post to Ledgers, extract Trial Balance for J P Limited (March 2025)",
+              "Task 3: Prepare Purchases Returns Day Book, post to Ledger, extract Trial Balance for TJ Enterprises (April 2025)",
+              "Task 4: Prepare Purchases Returns Day Book, post to Ledger, extract Trial Balance for Paka Stores (December 2024)",
+              "Task 5: Prepare Purchases Returns Day Book, Ledger Books, Trial Balance for Maccha Retailers (February 2025)"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

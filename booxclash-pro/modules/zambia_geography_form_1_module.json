@@ -1,0 +1,1199 @@
+{
+    "subject": "Geography",
+    "grade": "Form 1",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "Geography",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Introduction to Geography",
+                    "page": 1,
+                    "competences": [
+                        "Demonstrate understanding of Geography"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 1,
+                            "hook": "Imagine a world where the physical environment we know today no longer exist, how would geography shape the relationships, cultures, and economies of the people living in those regions?",
+                            "teacher_steps": [
+                                "Take learners on field trip to the local environment highlighting unique geographical features, cultures and the environments",
+                                "Cluster the learners in small groups to discuss the concepts of Geography",
+                                "Display World map or globe/pictures or videos of geographical features",
+                                "Let learners identify geographical features",
+                                "Each group to share key ideas to the class",
+                                "Key responses to be written down by grouping similar ideas",
+                                "Learner responses should be connected to cement the concept Geography"
+                            ],
+                            "learner_steps": [
+                                "Participating in small groups discussions about Geography concepts",
+                                "Interacting with globe and maps to identify physical and culture features",
+                                "Identifying geographical features from displayed materials",
+                                "Sharing findings with the class"
+                            ],
+                            "short_notes": "Geography is the study of the Earth's surface, environment and how humans interact with their surroundings. Geography influences human life; where people live, what they eat and how they build communities. Geography uses tools such as Maps, GIS, GPS, and Remote sensing systems as essential tools to help people navigate and understand the world. Every place on Earth is unique shaped by its physical and human characteristics. Geography helps solve real-world problems such as climate change, deforestation and disaster management."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2",
+                            "page": 3,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Arrange desks in pairs or small groups for learners to collaborate",
+                                "Display World map or globe showing features of physical and Human Geography",
+                                "Allow learners to observe the local environment and categorise physical and human features (such as mountains, rivers, farms, towns and waterfalls)"
+                            ],
+                            "learner_steps": [
+                                "Identifying and classifying physical and cultural features",
+                                "Observing local environment",
+                                "Categorizing physical and human features"
+                            ],
+                            "short_notes": "Geography is divided into two main branches: Physical and Human Geography. Physical Geography studies natural features and processes. Some sub-branches of physical Geography include climatology, hydrology, geomorphology. Human Geography studies human activities and their impacts on the environment. Some sub-branches of Human geography include cultural geography, political geography, urban geography, population geography. Physical and human Geography are interconnected in that natural features affect human life and human activities impact the environment."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3",
+                            "page": 3,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Arrange desks in clusters, circles or u-shaped for learners to discuss and collaborate on the importance of studying Geography",
+                                "Use school surroundings such as school gardens, nearby natural parks for field observations on the importance of conservation of the environment"
+                            ],
+                            "learner_steps": [
+                                "Discussing the importance of studying Geography",
+                                "Contributing and applying geographical concepts",
+                                "Conducting field observations"
+                            ],
+                            "short_notes": "Geography helps learners understand current events such as climate change, migration or natural disasters. It enables learners to use maps, globes or images to illustrate geographical concepts. It fosters cultural awareness and global citizenships such as exploring diverse cultures and societies. It develops critical thinking and problem-solving skills. It enhances environmental awareness and sustainability. It connects geographical concepts to learners' daily lives such as weather, food sources and local environments."
+                        }
+                    ],
+                    "short_notes": "Geography is an important subject for secondary school learners, providing them with essential knowledge and skills that are applicable in real-life situations. It fosters critical thinking, global awareness and environmental stewardship, preparing learners to navigate and contribute positively to an interconnected World. By understanding geographical principles, learners are better equipped to face the challenges of the future, making Geography not just an academic subject, but a vital component of informed citizenship and personal development.",
+                    "vocabulary": [
+                        {
+                            "term": "Geography",
+                            "definition": "The study of the Earth's surface, environment and how humans interact with their surroundings"
+                        },
+                        {
+                            "term": "Environment",
+                            "definition": "The surroundings or conditions in which a person, animal, or plant lives or operates"
+                        },
+                        {
+                            "term": "Physical Geography",
+                            "definition": "The branch of geography dealing with natural features and processes"
+                        },
+                        {
+                            "term": "Human Geography",
+                            "definition": "The branch of geography dealing with how human activity affects or is influenced by the earth's surface"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 2,
+                        "questions": [
+                            "Observe learners' participation in small groups as they interact with the globe and maps to identify physical and culture features",
+                            "Observe learners' manipulation of tools such as Maps, GPS and Google maps to identify physical and cultural features",
+                            "Quick quiz question - One thing I learnt about Geography today is……"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "The Solar System",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "The Earth in the Solar System",
+                    "page": 5,
+                    "competences": [
+                        "Demonstrate understanding of the position of the Earth in the solar system"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.1",
+                            "page": 6,
+                            "hook": "Imagine discovering a planet within our own solar system that, despite having extreme conditions, harbors a form of life completely unlike that of the Earth. How would such a discovery reshape our understanding of life's potential adaptability and boundaries of life sustaining environments?",
+                            "teacher_steps": [
+                                "Classroom set up in small groups for the learners to discuss and collaborate as they identify elements of the solar system",
+                                "Learners will work in small groups to observe a poster, chart or diagram of the solar system and discuss the position of the Earth and share their thoughts with the whole class",
+                                "Learners will work in small groups to examine the 2 dimension or 3-dimension diagrams of the solar system to identify the planets in their order from the sun and determine Earths position (3rd from the Sun)",
+                                "Learners will work in small groups and use planet cut-outs and glue or cardboard and paint or balls or clay to create a model of the solar system",
+                                "Each group should explain their model focusing on the Earth's position and its importance"
+                            ],
+                            "learner_steps": [
+                                "Identifying various elements found in the Solar system (Sun, Planets, meteors)",
+                                "Observing solar system posters and diagrams",
+                                "Creating solar system models",
+                                "Explaining Earth's position and importance"
+                            ],
+                            "short_notes": "The Solar system consists of the sun, planets and their moons and smaller objects like asteroids and comets. The Sun is at the centre of the solar system and the Earth is the third planet from it. The Earth is the only planet known to support life due to its right balance of sunlight, temperature, water and atmosphere. All planets including the Earth revolve around the Sun in elliptical orbits. The force of gravity keeps the planets, including the Earth in their orbits around the sun."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.2",
+                            "page": 7,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Set up an astronomy corner in the classroom with charts, books, models, pictures and arrange them for group discussion",
+                                "Discuss what they already know about celestial bodies (sun, moon, stars, planets) and share personal experiences such as seeing a shooting star or an eclipse",
+                                "Discuss concepts such as phases of the moon, constellations and planetary movements",
+                                "Create observation areas or points in school fields or playground away from artificial lights",
+                                "Observe night sky or day sky in order to identify the phases of the moon, planets, meteor showers and constellations",
+                                "Use Binoculars and telescopes if available and ensure safety of learners"
+                            ],
+                            "learner_steps": [
+                                "Engaging in observing celestial activities as a hobby or for educational purposes",
+                                "Recording date, time and weather conditions",
+                                "Sketching objects they observe",
+                                "Identifying interesting patterns or changes such as brightness of planets",
+                                "Providing weekly observations of celestial activities and how they differ from each other"
+                            ],
+                            "short_notes": "Celestial objects are natural entities that exist in the universe such as stars, planets, moons, asteroids, comets, galaxies. These objects are also referred to as heavenly, astronomical, space, cosmic or stellar objects. The celestial bodies appear to move from east to west due to the Earth's rotation. There are eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune. Venus, Mars and Jupiter are the only planets visible to the naked eyes. The brightness of the star in the night sky often depends on its distance from Earth and its size. The moon goes through a repeating cycle of phases every month. The solar eclipse happens when the moon passes between the Earth and the Sun, blocking the Sun's light from reaching the Earth."
+                        }
+                    ],
+                    "short_notes": "The Earth is the third planet from the Sun in the Solar system and is the only known planet to support life. It is a terrestrial planet, consisting of iron, oxygen, silicon, magnesium, and nickel, with a solid and active surface. The Earth's atmosphere is composed of 78% nitrogen, 21% oxygen, and 1% other gases, which provides the perfect conditions for life to thrive. The Earth's distance from the Sun allows it to maintain liquid water, which is essential for life.",
+                    "vocabulary": [
+                        {
+                            "term": "Solar system",
+                            "definition": "The collection of eight planets and their moons in orbit around the sun, together with smaller bodies in the form of asteroids, meteoroids, and comets"
+                        },
+                        {
+                            "term": "Planet",
+                            "definition": "A celestial body moving in an elliptical orbit around a star"
+                        },
+                        {
+                            "term": "Earth",
+                            "definition": "The third planet from the sun and the only known planet to support life"
+                        },
+                        {
+                            "term": "Orbit",
+                            "definition": "The curved path of a celestial object or spacecraft around a star, planet, or moon"
+                        },
+                        {
+                            "term": "Celestial",
+                            "definition": "Positioned in or relating to the sky, or outer space as observed in astronomy"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 7,
+                        "questions": [
+                            "Ask questions to check understanding of: The position of the Earth if it was further away from the sun",
+                            "The position of the Earth in the Solar system and its significance for human habitation",
+                            "Ask learners to write one thing they learned concerning the Earth in the Solar system",
+                            "What are the three planets that are visible without a telescope",
+                            "Constellations and their examples",
+                            "Stars that appear to move across the skies in the night"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "The Size and the Shape of the Earth",
+                    "page": 8,
+                    "competences": [
+                        "Use model of the earth to show the Earth's shape and size"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.1",
+                            "page": 8,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners will work in clusters and use the globe, maps and models to illustrate the Earth's shape",
+                                "Learners to use online maps like Google maps to explore the Earth's shape distances",
+                                "Observe images or Google Earth for real-world visual evidence of the Earth's",
+                                "Use a ball and flashlight in a dark room show the Earth's shape. Place the ball in front of the flashlight and rotate it slowly",
+                                "Let learners observe curved shadow, the lit side and the dark side",
+                                "Let learners walk the scaled model of the Earth's circumference such as (1 meter represents 1000 km)"
+                            ],
+                            "learner_steps": [
+                                "Describing the shape and the size of the Earth",
+                                "Using globe, maps and models to illustrate Earth's shape",
+                                "Observing and explaining what they see",
+                                "Walking measured distance to understand Earth's circumference"
+                            ],
+                            "short_notes": "The Earth is not a perfect sphere but an oblate spheroid (spherical), meaning it is slightly flattened at the poles and bulging at the equator. The term 'geoid' refers to the Earth's shape as defined by mean sea level and the gravitational field. The Earth's circumference is about 40,075 kilometers around the equator. The average diameter of the Earth is about 12,742 kilometers. The equatorial diameter is about 12,756 kilometers, while the polar diameter is about 12,714 kilometers. The total surface area of the Earth is about 510 million square kilometers and its volume is approximately 1 trillion cubic kilometers. The Earth's radius is approximately 6,371 kilometers."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.2",
+                            "page": 9,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Watch a video or images of the lunar eclipse",
+                                "Identify and sketch the round shadow cast by Earth on the moon",
+                                "Use Google Earth or satellite images to observe Earth from space",
+                                "Research how airplanes and ships travel in curved paths",
+                                "In an open area learners observe a distant object (airplane or tall building)",
+                                "Place a stick upright in the ground at noon and measure its shadow",
+                                "Compare results with learners from another distant location and analyse the difference in shadows"
+                            ],
+                            "learner_steps": [
+                                "Analysing evidence of the Earth's shape",
+                                "Observing lunar eclipse videos/images",
+                                "Recording how distant objects disappear from bottom up",
+                                "Discussing findings"
+                            ],
+                            "short_notes": "The Earth's shape is an oblate spheroid, meaning it is approximately spherical in shape but slightly flattened at the poles and bulging at the equator. Evidence of the Earth's Sphericity includes: Ship's visibility over the horizon, the moon's eclipse/lunar eclipse, Aerial Photography, Circumnavigation of the Earth. Analysis of the evidence of the shape of the Earth is important for various reasons, among them include: understanding our planet, confirming scientific theories, for navigation and transportation, for GIS purposes, for climate modelling and weather forecasting. The Earth's spherical shape influences climate and weather patterns, which affect agriculture, water resource and daily life."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.3",
+                            "page": 10,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Use a ball and flashlight to simulate Earths rotation and how it causes day and night",
+                                "Discuss why the sun rises earlier in some places",
+                                "Use a world map to analyse climate differences",
+                                "Discuss how the Earths shape affects seasons, sunlight and climate",
+                                "Use maps or google Earth to trace airplane routes discuss why flights follow curved paths",
+                                "Research how time zones affect foreign business and communication"
+                            ],
+                            "learner_steps": [
+                                "Relating the Earth's spherical shape and size to natural and human activities",
+                                "Observing demonstrations",
+                                "Discussing climate patterns",
+                                "Presenting observations and findings"
+                            ],
+                            "short_notes": "The Earth is approximately spherical in shape, meaning it is roughly circular in shape when viewed from space. The Earth's spherical shape is characterised by its curved surface, with all points on the surface being approximately equal distance from the equator. The Earth's spherical shape plays a crucial role in many natural phenomena such as climate patterns, ocean currents and the behaviour of the atmosphere. The Earth's size affects many aspects of our lives including: climate, geography and the availability of natural resources. Natural activities refer to the processes and events that occur naturally on the Earth without human intervention. Human activities refer to the actions and processes carried out by humans that impacts the Earth's environment, ecosystems, and natural resources."
+                        }
+                    ],
+                    "short_notes": "The Earth our home planet is a vast and complex system that has fascinated humans for centuries. Understanding the size and shape of our planet is essential for grasping various geographical concepts, from navigating and mapping to climate and global connections. The Earth is not a perfect sphere, instead, it has an oblate spheroid shape, meaning it is slightly flattened at the poles and bulging at the equator. This shape is due to the planet's rotation.",
+                    "vocabulary": [
+                        {
+                            "term": "Oblate spheroid",
+                            "definition": "A shape that is approximately spherical but slightly flattened at the poles and bulging at the equator"
+                        },
+                        {
+                            "term": "Geoid",
+                            "definition": "The Earth's shape as defined by mean sea level and the gravitational field"
+                        },
+                        {
+                            "term": "Circumference",
+                            "definition": "The distance around the Earth"
+                        },
+                        {
+                            "term": "Diameter",
+                            "definition": "The distance across the Earth through its center"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 9,
+                        "questions": [
+                            "Quizzes to determine learners understanding of the key concepts such as the Earth's shape, size and circumference",
+                            "Observe learners' participation in groups as they discuss the Earth's shape and size",
+                            "Ask learners to create concept maps or diagrams to illustrate their understanding of the Earth's shape and size",
+                            "Learners to use clay, play dough, or papier Mache or any materials found locally to create the Earth object",
+                            "Observe learners' participation in activities",
+                            "Check if learners can explain their findings clearly",
+                            "Check if learners are able to collect and analyse data"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "Movements of the Earth",
+                    "page": 12,
+                    "competences": [
+                        "Apply knowledge of earth movements in different situations"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3.1",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Display maps and diagrams showing the movement of the earth",
+                                "Learners to study the video showing movement of the earth",
+                                "Learners work in pairs to mimic rotation and revolution of the Earth",
+                                "One learner stands still (representing the sun) and the other one (representing the Earth) spins to show rotation and moves round to show revolution",
+                                "Prepare learners for a rotation relay",
+                                "Select 5-6 learners to represent major locations (Zambia, Kenya, USA, India and Japan)",
+                                "Each learner stands at a different point in a large circle around the sun",
+                                "Create four groups each representing a season (summer, Autumn, winter, spring)"
+                            ],
+                            "learner_steps": [
+                                "Examining the movements of the Earth and their effects",
+                                "Mimicking rotation and revolution",
+                                "Discussing what happens when the earth rotates and revolves",
+                                "Explaining what happens in their season"
+                            ],
+                            "short_notes": "The Earth moves in space in two distinct ways namely Rotation and Revolution. Rotation is the spinning of the Earth on its tilted axis. The Earth rotates from West to East once in every 24 hours. The effects of rotation of the Earth results in day and night, difference in time at different lines of longitude, deflection of winds and ocean currents, revolution of the moon around the earth and tidal changes. Revolution refers to Earth's orbital motion around the Sun every 365¼ days. The effects of revolution of the Earth includes: changes in the length of day and night from day to day, changes in the altitude of the midday sun and changes in seasons. The combined effect of Earth's revolution, rotation, and axial tilt produce seasonal variations in the North and South Hemispheres."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3.2",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners in groups choose an event (planting season, religious festival, international business meeting, sports activity)",
+                                "Using charts and weather charts or calendars learners identify best time of the year",
+                                "Consider time zones if it is an international event",
+                                "Discuss how Earth's movements affect the event's success"
+                            ],
+                            "learner_steps": [
+                                "Using knowledge of Earth movements to plan for specific events",
+                                "Planning events considering seasons and time zones",
+                                "Presenting plans to class"
+                            ],
+                            "short_notes": "Earth's rotations affect time and daily activities. It causes day and night, influencing work schedules, travel and business hours. It creates time zones affecting global communication and event planning. Earths revolution determines seasons and affects farming, influences tourism and outdoor events."
+                        }
+                    ],
+                    "short_notes": "The Earth's primary movements are Rotation (spinning on its axis) from West to East once in every 24 hours causing day and night and Revolution (orbiting around the Sun) once in 365¼ days causing seasons. These movements significantly impact life on Earth by causing day and night cycles, seasons, and variations in the amount of sunlight different regions receive, influencing climate and weather patterns.",
+                    "vocabulary": [
+                        {
+                            "term": "Rotation",
+                            "definition": "The spinning of the Earth on its tilted axis"
+                        },
+                        {
+                            "term": "Revolution",
+                            "definition": "Earth's orbital motion around the Sun"
+                        },
+                        {
+                            "term": "Axis",
+                            "definition": "An imaginary line through the center of Earth around which it rotates"
+                        },
+                        {
+                            "term": "Orbit",
+                            "definition": "The path Earth takes around the Sun"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 13,
+                        "questions": [
+                            "Ask questions to assess understanding of: Rotation and Revolution of the earth",
+                            "Effects of the Rotation and Revolution of the earth",
+                            "Learners to make a model of the Earth depicting its movement",
+                            "Observe in discussions if the learners can explain their observations",
+                            "Monitor learners' engagement and participation in the activities"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.4",
+                    "title": "Earth's Graticule",
+                    "page": 14,
+                    "competences": [
+                        "Use latitudes and longitudes to locate places on the globe",
+                        "Apply calculations of time and longitude in different situations",
+                        "Use latitude to calculate distance",
+                        "Apply calculations of the midday sun in real-life"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.1",
+                            "page": 14,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Display globe or world map or short video to arouse curiosity",
+                                "Learners in groups use rubber bands or strings and markers to conduct a globe or ball activity",
+                                "One learner holds a globe or ball while another wraps a string or rubber band around it horizontally (latitudes)",
+                                "Another wraps a string or rubber band around it vertically (longitude)",
+                                "Learners in groups to make model of the globe showing latitudes and longitudes using locally available materials"
+                            ],
+                            "learner_steps": [
+                                "Describing latitude and longitude",
+                                "Using strings and markers on globe/ball",
+                                "Creating models showing graticule",
+                                "Presenting models to others"
+                            ],
+                            "short_notes": "The Earth's graticule is the network of lines and coordinates that crisscross the globe, providing a framework for mapping, navigation and geographic reference. Latitude is the angular distance of a point on the earth's surface, measured in degrees from the centre of the earth. Lines of latitudes are imaginary lines that run east-west around the Earth, parallel to the equator. Important latitudes: the Arctic Circle (66½°), the tropic of Cancer (23½° N), the Equator (0°), the Tropic of Capricorn (23½°) and the Antarctic Circle (66½°). Longitude is the angular distance measured in degrees along the equator east or west of the Greenwich Meridian (0°). They are lines that run from North Pole to the South Pole. Longitudes are used in determining local time in relation to the Greenwich Meridian Time (GMT)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.2",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Display maps/globe showing International Date Line",
+                                "Learners in groups to identify the international date line and countries or towns near it",
+                                "Learners to be placed in small groups to act out travelers flying between Fiji to Hawaii (gaining a day), New Zealand to the USA (losing a day)",
+                                "They use flight tickets (made in class) showing departure and arrive dates"
+                            ],
+                            "learner_steps": [
+                                "Illustrating the International Date Line (IDL)",
+                                "Role-playing travel across IDL",
+                                "Discussing what happens when crossing the date line"
+                            ],
+                            "short_notes": "The International Date Line is an imaginary line on the Earth's surface that runs North to South through the middle of the Pacific Ocean following 180 degrees Meridian. It separates two consecutive calendar days with locations to the West of the line being one day ahead of the locations to the East. When crossing the date line from East to West one loses a day and by crossing from West to East a day is gained. When travelling eastwards from Greenwich, time is gained by 24 hours until one reaches the Meridian 180° E. Similarly, when going westwards from Greenwich, time is lost by 24 hours when one reaches 180°W."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.3",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Cluster the learners in groups",
+                                "Provide the globe or grid and digital maps for learners to identify latitudes and longitudes",
+                                "Learners to use latitudes and longitudes in locating and pin pointing places on the maps"
+                            ],
+                            "learner_steps": [
+                                "Locating places on the map using latitudes and longitudes",
+                                "Identifying intersection points",
+                                "Creating coordinate grids"
+                            ],
+                            "short_notes": "Places on the Earth's surface can be located using imaginary lines (Latitudes and longitudes). Latitudes runs from west to east, parallel to the equator. Longitudes runs north and south passing through the poles. The intersection of the two set of lines (latitudes and longitudes) pin-point and indicate precise location of a place on the Globe."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.4",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Setting up a computer laboratory (GIS)",
+                                "Pairing of learners to conduct the learning in the computer laboratory",
+                                "Learners to search and locate places on the globe using GIS"
+                            ],
+                            "learner_steps": [
+                                "Locating places on the globe using Geographic Information System (GIS)",
+                                "Using GIS software",
+                                "Creating coordinate grids using GIS"
+                            ],
+                            "short_notes": "GIS is a computer-based system that integrate geographic data with spatial analysis and visualization. It is used in locating places by pinpointing specific locations using geographic coordinates such as latitudes and longitude."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.5",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners clustered to collaborate on the use of gained knowledge",
+                                "Display charts, maps, pictures showing spatial distribution and time zones",
+                                "Learners to identify areas or situations where to use gained knowledge and skills",
+                                "Use GPS to ascertain coordinates of important local areas such as sporting fields, clinic",
+                                "Learners to create plans using GIS knowledge"
+                            ],
+                            "learner_steps": [
+                                "Using knowledge of location of places in various ways (Route planning, reading maps and using GPS, time zone differences)",
+                                "Demonstrating GPS use",
+                                "Calculating different local times"
+                            ],
+                            "short_notes": "Latitudes and longitudes are used to locate places, calculation of time and distance. GPS can be used in planning for route use, search for location when in a new place. Time zoning such as planning for different activities such as conferences, calls, meetings, travel. Generate and read maps. GPS could be used in tracking of cars, animals in a national parks, theft cases."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.6",
+                            "page": 18,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners to be put in small groups to discuss use of longitudes to calculate local and standard time",
+                                "Display maps/charts or globe showing local and foreign cities and their longitudes",
+                                "Learners to make comparisons of time and standard time for each town",
+                                "Using longitude of each town, calculate the local time for some identified towns"
+                            ],
+                            "learner_steps": [
+                                "Calculating local and standard time using longitudes",
+                                "Comparing time differences",
+                                "Calculating local times for different towns"
+                            ],
+                            "short_notes": "Standard time is where each country adopts the local time of its Central Meridian e.g Zambia adopted the 30°E longitude as its Central Meridian. Time Zones are divisions into which the World is divided, that is, 24 belts, each 15° of longitude wide. Longitudes are used to calculate local time of places in relation to the Greenwich Mean Time (GMT). If the GMT is known, local time can easily be found by either adding or subtracting the difference in the number of hours from the given longitudes. Therefore, to the East; Gain = Add (E.G.A) and to the West; Lose = Subtract (W.L.S). The Earth makes one complete rotation of 360° in one day or 24 hours; hence it passes through 15° in every 1 hour. Since the Earth passes through 15° in every 1 hour, this means it passes through 1° every 4 minutes."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.7",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners to be placed in small groups and use a World Time Zone Map to locate their country",
+                                "Compare time differences with other locations",
+                                "Use the stick and sun method (shadow experiment)",
+                                "Place a stick in the ground observe local noon when the shadow is shortest",
+                                "Record exact time when the shadow is shortest",
+                                "Calculate the time difference between their local noon and GMT"
+                            ],
+                            "learner_steps": [
+                                "Calculating longitude using time given",
+                                "Using shadow experiment method",
+                                "Recording observations",
+                                "Using formula: Longitude = Time Difference × 15°"
+                            ],
+                            "short_notes": "Calculating longitudes involve determining the difference between local time and Greenwich Mean Time (GMT). Determine the local time and GMT of a respective location. Find the difference in time between local time and GMT. Convert time difference to longitude by using the formula: Longitude = Time Difference × 15°"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.8",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners to be put in small groups to collaborate on use of time zones in different situations",
+                                "Display Globe, Maps and Charts showing different town zones",
+                                "Learners simulate planning an international flight considering different time zones",
+                                "Learners role play as international business people scheduling meetings across time zones",
+                                "Learners track international news or sports schedules"
+                            ],
+                            "learner_steps": [
+                                "Using time zones in different situations",
+                                "Planning international activities",
+                                "Calculating time differences for meetings and travel"
+                            ],
+                            "short_notes": "Time zones are regions on Earth that follow a uniform standard time at a specific meridian. Time zones facilitate efficient communication, transportation and economic transactions across the Globe. Time zones are integrated in the development of technological advancements especially modern technologies such as GPS systems and computer networks which rely on precise time keeping and coordination. They are vital in Scientific Research, Navigation and mapping."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.9",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Assign groups with cities with different known latitudes",
+                                "Distribute maps with lines of latitudes",
+                                "Provide learners with latitude calculation worksheets for different cities",
+                                "Use GPS devices or smart phones to measure latitude and calculate distances"
+                            ],
+                            "learner_steps": [
+                                "Computing distance using latitudes",
+                                "Using formula: Distance = (Difference in Latitude) × 111km",
+                                "Calculating distances between marked cities"
+                            ],
+                            "short_notes": "The Earth is a sphere with 360° of latitude, 180° N/S from the Equator. One degree of latitude = 111km. The formula for calculating: Distance = (Difference in Latitude) × 111km. Latitudes are used to calculate distances places on different hemispheres and same hemispheres. Pilots, Sailors and hikers use latitudes to estimate distance and navigate."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.10",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners prepare guides, explaining how to use latitudes to calculate distances",
+                                "Practical exercises to help learners reinforce their understanding",
+                                "Using Google Maps and GPS to teach family members",
+                                "Drawing maps to show routes visually",
+                                "Help family members plan their journeys"
+                            ],
+                            "learner_steps": [
+                                "Guiding family and community members to use calculations to arrive at distances, routes, directions",
+                                "Preparing guides for family members",
+                                "Demonstrating GPS use"
+                            ],
+                            "short_notes": "Latitude is used to measure the distance North or South of the equator ranging from 0° to 90°. Learners are encouraged to create a map of local area labelling important landmarks and their latitudes."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.11",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners to be put in pairs",
+                                "Display charts showing position of the sun in different places",
+                                "Provide the Globe to indicate Earth's inclination",
+                                "Display Maps indicating various location of towns",
+                                "Learners to look up at any building or tall tree",
+                                "Learners to estimate Angle of elevation"
+                            ],
+                            "learner_steps": [
+                                "Calculating the position of the midday sun (Angle of Elevation)",
+                                "Estimating angle of elevation between ground and line of sight",
+                                "Using formulas for calculation"
+                            ],
+                            "short_notes": "The angle of elevation is the angle between the horizontal plane and a line of sight to an object above the horizon. Angle of elevation is based on the position of the midday sun and position of the place. When the overhead sun and the place are in the same hemisphere, subtract the overhead sun angle from the place and the difference subtract from 90°. When the sun is overhead at the equator use the formula 90° - N where N is the latitude angle. When the overhead sun and place are in different Hemisphere add the overhead sun angle and the angle of the place then subtract from 90°."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.12",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners to be put in small groups",
+                                "Display a map showing the relationship between latitude, longitude and the midday sun's position",
+                                "Learners to calculate the latitude of a place using the position of the midday sun"
+                            ],
+                            "learner_steps": [
+                                "Calculating the latitude of a place using the position of the midday sun",
+                                "Using sun's elevation angle and declination",
+                                "Using formula: 90° – (Sun Elevation Angle + Sun's Declination) for Southern hemisphere OR 90° – (Sun Elevation Angle - Sun's Declination) for Northern hemisphere"
+                            ],
+                            "short_notes": "Latitudes are calculated by using sun's elevation angle and the sun's declination. Measure the elevation angle between the sun and the vertical at noon when the sun is highest in the sky. Determine the sun's Declination which is angular distance from the equator. Determine the hemisphere whether it is Northern or Southern."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.4.13",
+                            "page": 25,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners put in small groups to discuss the use of the midday sun",
+                                "Display Graphs, Globe, Maps and Charts showing different real-world applications",
+                                "Learners carry a case study of a real-life scenario such as solar Panel installation"
+                            ],
+                            "learner_steps": [
+                                "Using calculations of midday sun in various ways (Estimate time, determine directions, solar panel placement, designing energy efficient buildings)",
+                                "Applying concepts to real-world scenarios",
+                                "Completing projects"
+                            ],
+                            "short_notes": "The angle of elevation helps determine the height of building, mountains or other structures. The angle of elevation is used in navigation systems such as GPS, to calculate positions. In engineering, angle of elevation is used to design and construct buildings, bridges and other infrastructure."
+                        }
+                    ],
+                    "short_notes": "The Globe comprises of a number of imaginary lines that crisscross it. These lines constitute of what is called the Earth's graticule. It is composed of two main sets of lines namely latitudes and longitudes. These lines are used to precisely measure and locate positions on the Earth's surface.",
+                    "vocabulary": [
+                        {
+                            "term": "Latitude",
+                            "definition": "The angular distance of a point on the earth's surface, measured in degrees from the centre of the earth"
+                        },
+                        {
+                            "term": "Longitude",
+                            "definition": "The angular distance measured in degrees along the equator east or west of the Greenwich Meridian"
+                        },
+                        {
+                            "term": "Greenwich Meridian",
+                            "definition": "The prime meridian (0° longitude) passing through Greenwich, England"
+                        },
+                        {
+                            "term": "International Date Line",
+                            "definition": "An imaginary line following 180° meridian where the date changes by one day"
+                        },
+                        {
+                            "term": "GMT",
+                            "definition": "Greenwich Mean Time - the mean solar time at the Royal Observatory in Greenwich, London"
+                        },
+                        {
+                            "term": "GIS",
+                            "definition": "Geographic Information System - a computer-based system for spatial analysis and visualization"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 16,
+                        "questions": [
+                            "Observe learners' participation in small groups as they identify and describe latitudes and longitudes",
+                            "Quick question - I learnt that Latitudes and Longitudes are used for…",
+                            "Observe learners as they demonstrate the crossing of the International Date Line",
+                            "Verify if Learners understand what happens when the International Date Line is crossed",
+                            "Observe learners create a coordinate grid on a piece of paper and plot points using coordinates",
+                            "Observe learners using GIS to create a coordinate grid to locate places",
+                            "Observe learners demonstrate the use of GPS in identification of new locations",
+                            "Ask learners to calculate different local times using identified longitudes",
+                            "Calculate departure and arrival times, taking into account time differences",
+                            "Ascertain the best time to undertake various activities considering time zones",
+                            "Show the relationship between latitude and distance",
+                            "Calculate the distance between two points using latitude",
+                            "Give brief reports on how they were able to guide family members",
+                            "Observe the learner's participation in pairs as they estimate the angle of elevation",
+                            "A city located at latitude of 40°N. Calculate the position of the midday sun on September 22nd, March 21st",
+                            "On June 21st the sun is directly overhead at the Tropic of cancer (23.5°N). Calculate the solar noon angle for a location at 30°N latitude"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.5",
+                    "title": "The Earth's Atmosphere",
+                    "page": 26,
+                    "competences": [
+                        "Protect Earth's atmosphere"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.5.1",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Take the learners outside and let them observe the sky",
+                                "Discuss in pairs what makes up the air and how the atmosphere helps us",
+                                "Learners in small groups, each group representing one layer of the atmosphere",
+                                "They will use textbooks or internet to gather information",
+                                "Each group to present their findings"
+                            ],
+                            "learner_steps": [
+                                "Describing the Earth's Atmosphere (stating the major layers)",
+                                "Observing the sky and describing experiences",
+                                "Researching atmosphere layers",
+                                "Presenting findings"
+                            ],
+                            "short_notes": "The first layer of the Earth's atmosphere is the Troposphere that extends from the surface to between 7km at the poles and 17 km at the equator. The Troposphere is the lowest layer with decreasing temperature with height. It is the layer we live in and where weather happens. The second layer is the Stratosphere found between 12km to 50km above. The temperature in this layer increases with height. The stratosphere houses the ozone layer which absorbs the ultraviolet (UV) rays from the sun. The Mesosphere is the third layer and is above the stratosphere lying between 50km and 80km. The Thermosphere is the next layer after the Mesosphere which lies 80km and above. The Ionosphere is an electrically charged layer which is used for communication and navigation purposes. The Exosphere is the layer without gases and is mainly used in modern artificial satellite launch."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.5.2",
+                            "page": 27,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners in small groups use the prior information to prepare the demonstration on the importance of the atmosphere",
+                                "Each group to demonstrate to the whole class how they will share information with family and community",
+                                "Learners will talk to family members about what they learned in class",
+                                "Learners can organise a short talk with neighbors about air pollution",
+                                "They can create short skits or stories and perform them"
+                            ],
+                            "learner_steps": [
+                                "Sharing with family and community members on the role of the atmosphere",
+                                "Preparing demonstrations",
+                                "Creating skits and stories",
+                                "Discussing with family members"
+                            ],
+                            "short_notes": "The atmosphere provides essential elements that support life on Earth such as gases, water vapour. The atmosphere regulates temperature and protects people from harmful radiation. Family discussions about climate change are a critical factor influencing communities' perceptions and behaviors. Encourage learners to discuss climate change impacts with family members, sharing their knowledge, experiences and concerns."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.5.3",
+                            "page": 28,
+                            "hook": null,
+                            "teacher_steps": [
+                                "The teacher in collaboration with the learners form the conservation club",
+                                "Learners identify the area in the school surrounding where trees can be planted",
+                                "Learners write posters on tree planting, reducing energy use, recycling",
+                                "Learners can organise a day to plant trees at school and home",
+                                "Suggest that friends or families share rides",
+                                "Organise and participate in clean up campaigns"
+                            ],
+                            "learner_steps": [
+                                "Engaging in measures that protect the Earth's atmosphere (planting trees, using sustainable transportation, reducing energy use, recycling)",
+                                "Planting and caring for trees",
+                                "Promoting clean transport",
+                                "Reducing air pollution",
+                                "Participating in cleanup campaigns"
+                            ],
+                            "short_notes": "Solar Energy: Encourage the use of solar lamps and chargers. Tree Planting: Join or start a tree-planting initiative. Sustainable Transportation: Encourage walking or biking to school. Reduce Plastic Use: Use alternatives to plastic. Gardening Projects: Start or join community gardens. Upcycling Workshops: Teach others how to repurpose old items. Renewable Energy Projects: Build solar cookers or wind turbines."
+                        }
+                    ],
+                    "short_notes": "The Earth's atmosphere is a mixture of gases that surrounds the earth. It helps make life possible by providing air, shielding from harmful ultraviolet (UV) radiation coming from the sun, trapping heat to warm the planet and preventing extreme temperature differences between day and night. The Atmosphere is a mixture of nitrogen (78%), Oxygen (21%) and other gases (1%) that surrounds the Earth.",
+                    "vocabulary": [
+                        {
+                            "term": "Atmosphere",
+                            "definition": "The layer of gases surrounding the Earth"
+                        },
+                        {
+                            "term": "Troposphere",
+                            "definition": "The lowest layer of atmosphere where weather occurs"
+                        },
+                        {
+                            "term": "Stratosphere",
+                            "definition": "The layer containing the ozone layer that absorbs UV radiation"
+                        },
+                        {
+                            "term": "Ozone layer",
+                            "definition": "A region of the stratosphere that absorbs harmful ultraviolet radiation"
+                        },
+                        {
+                            "term": "UV radiation",
+                            "definition": "Ultraviolet radiation from the sun that can be harmful to living organisms"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Monitor learner's participation as they discuss the layers of the Atmosphere",
+                            "Research and write a report on the role of the atmosphere",
+                            "Analyse the importance of the Troposphere",
+                            "Observe learners as they give reports on how they shared information with family and community",
+                            "Observe learners' participation in class discussions",
+                            "Observe learners' participation in initiatives that help protect the atmosphere"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "Weather and Climate",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Weather and Climate",
+                    "page": 30,
+                    "competences": [
+                        "Apply knowledge of weather and climate in daily activities"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.1",
+                            "page": 31,
+                            "hook": "Your community is facing frequent floods. What weather related data would you collect to predict future floods, and how would you help the community prepare?",
+                            "teacher_steps": [
+                                "Prepare a resource corner with weather instruments, charts and newspapers",
+                                "Cluster learners for interactive activities such as role plays",
+                                "Learners roleplay where they pretend to be weather forecasters or climate scientists",
+                                "Learners create a T-Chart where they list daily weather observations vs long term climate pattern"
+                            ],
+                            "learner_steps": [
+                                "Distinguishing weather from climate",
+                                "Role-playing as weather forecasters",
+                                "Creating comparison charts",
+                                "Discussing differences"
+                            ],
+                            "short_notes": "Weather refers to the state of the atmosphere at a particular time and place. It is a short term process and can change at any time and affects daily activities. Climate is the average weather conditions of a place over a long period of time. It is long term, consistent over time, affects ecosystems. When we say it is hot, cloudy or windy we are referring to weather. When we say hot summers or cold winters we are referring to climate. These patterns of weather are recorded for many years to come up with climate of the region."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.2",
+                            "page": 31,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners in clusters to conduct inquiry-based research on elements of weather",
+                                "Report to the whole class on the results",
+                                "Conduct a tour to a weather station to observe weather instruments",
+                                "Carry out outdoor weather walks to allow for real-life observation",
+                                "Give learners observation sheets",
+                                "Learners go outside to observe, record and describe current weather conditions",
+                                "Make models of some weather instruments"
+                            ],
+                            "learner_steps": [
+                                "Identifying the various elements of weather and climate (temperature, humidity, rainfall, cloud cover)",
+                                "Conducting research",
+                                "Making weather observations",
+                                "Recording data",
+                                "Creating weather instrument models"
+                            ],
+                            "short_notes": "Temperature: Measure how hot or cold the atmosphere is measured by Thermometer. Rainfall: Water falling from the atmosphere measured by Rain gauge. Wind speed and direction: Air in motion measured by Cup Anemometer and Wind vane. Humidity: The amount of water vapour in the air measured by Hygrometer. Cloud cover: The amount and type of cloud present measured by observation. Sunshine: The intensity and duration of sunlight measured by Sunshine Recorder. Atmospheric air pressure: The weight of air exerted on earth's surface measured by Barometer."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.3",
+                            "page": 32,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Create different activity stations such as research table with books",
+                                "Use school spaces to observe local weather conditions",
+                                "Learners to use weather tools such as thermometers, wind vanes and rain gauges",
+                                "Focus on environmental features such as vegetation, clouds and water bodies",
+                                "Learners to rotate through focus points",
+                                "Note nearby waterbodies, vegetation, buildings, landforms",
+                                "Learners can now gather to discuss what they noticed"
+                            ],
+                            "learner_steps": [
+                                "Identifying factors influencing weather and climate (latitude, altitude, seasons, continentality, prevailing winds)",
+                                "Observing local conditions",
+                                "Recording observations",
+                                "Discussing findings"
+                            ],
+                            "short_notes": "Latitudes: areas near the equator are warmer than those farther away. Altitude: temperatures reduces as one ascends. Water bodies such as lakes and oceans make places cooler or warmer. Vegetation: forest areas cooler than open areas. Areas near the sea are cooler than those in the interior. Winds and ocean currents move heat and moist around the globe. Our environment influences the weather and human activities can also change local climates."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.4",
+                            "page": 34,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners to be in small groups",
+                                "Display map of Zambia showing different climate zones",
+                                "Learners to discuss the climate of Zambia",
+                                "Learners analyse and interpret the map based on temperature and precipitation, vegetation",
+                                "Learners compare and contrast climate patterns",
+                                "Learners to conduct field measurements at a local weather station",
+                                "Conduct a survey of local vegetation"
+                            ],
+                            "learner_steps": [
+                                "Analysing the climate of Zambia (Savanna, winds/Air masses, seasons)",
+                                "Comparing climate patterns",
+                                "Conducting field measurements",
+                                "Surveying vegetation"
+                            ],
+                            "short_notes": "Zambia has Savanna type of vegetation characterized by tall grasses and scattered trees. Zambia has a tropical climate with three distinct seasons: cold season, hot season and rainy season. The South western part is drier and hotter, the Eastern region is cooler and wetter and the Northern region is warmer and more humid. Zambia experiences trade winds from the southeast which bring warm, moist air. During winter, easterly winds bring cool, dry air. Zambia is influenced by the tropical air mass with high temperatures and high humidity."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.5",
+                            "page": 35,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put learners in small groups to prepare recording sheets",
+                                "Learners to prepare and plan for suitable locations for outdoor activities",
+                                "Field trip to weather stations to enable learners observe and record weather patterns",
+                                "Measure wind direction using locally made materials"
+                            ],
+                            "learner_steps": [
+                                "Using knowledge on weather and climate (planning outdoor activities, clothing and preparedness, health and wellbeing, travel, agriculture)",
+                                "Planning activities based on weather",
+                                "Recording weather data",
+                                "Applying knowledge practically"
+                            ],
+                            "short_notes": "Check weather forecasts before engaging in outdoor activities. Encourage learners to dress appropriately for weather. Learners to stay hydrated during outdoor activities. Plan for outdoor games on days with favourable weather. Learners to plant and maintain garden/field by incorporating knowledge of weather and climate. School tours should take into account weather and climate."
+                        }
+                    ],
+                    "short_notes": "Weather changes from time to time. Climate is more stable and involves average atmospheric conditions of a large area over a long period of time. In order to understand weather and climate, one needs to observe and interpret daily atmospheric conditions such as temperature, rainfall, wind and humidity.",
+                    "vocabulary": [
+                        {
+                            "term": "Weather",
+                            "definition": "The state of the atmosphere at a particular time and place"
+                        },
+                        {
+                            "term": "Climate",
+                            "definition": "The average weather conditions of a place over a long period of time"
+                        },
+                        {
+                            "term": "Temperature",
+                            "definition": "A measure of how hot or cold the atmosphere is"
+                        },
+                        {
+                            "term": "Humidity",
+                            "definition": "The amount of water vapour in the air"
+                        },
+                        {
+                            "term": "Precipitation",
+                            "definition": "Water falling from the atmosphere in various forms"
+                        },
+                        {
+                            "term": "Savanna",
+                            "definition": "Vegetation type characterized by tall grasses and scattered trees"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 31,
+                        "questions": [
+                            "Use a quick checklist while observing as learners roleplay",
+                            "Conduct a quiz on weather and climate",
+                            "Making of weather instrument models and create a mini weather station",
+                            "Measure and record weather elements such as temperature, wind and rainfall",
+                            "Use the maps, charts of Zambia to identify climatic regions based on temperature, precipitation and vegetation",
+                            "Observe learners' participation and engagement during outdoor activities",
+                            "Check learners use of knowledge of weather and climate in daily activities"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "Climate Change",
+                    "page": 36,
+                    "competences": [
+                        "Analyse climate change"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.1",
+                            "page": 36,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Put learners in groups",
+                                "Display chart or pictures or show a short video clip of activities such as charcoal burning, agricultural activities and volcanic eruption",
+                                "Learners study and discuss displayed charts, pictures or videos",
+                                "Conduct an observation walk and let learners observe and identify natural features and human activities",
+                                "Regroup and let groups share observations",
+                                "Learners to record and report on the causes of climate change"
+                            ],
+                            "learner_steps": [
+                                "Identifying the causes of climate change (Human causes: burning of fossil fuels, agriculture, deforestation; Natural causes: volcanic eruption)",
+                                "Observing and documenting activities",
+                                "Discussing causes",
+                                "Sharing observations"
+                            ],
+                            "short_notes": "Climate change is as a result of natural and human forces. Human causes include: Burning of fossil fuels, Deforestation, Agriculture activities, Pollution. Natural causes include: El Niño Southern Oscillation (ENSO) effects, Solar irradiance, Volcanic eruptions, Plate tectonics and continental drift."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.2",
+                            "page": 37,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners should sit in circles, groups or u-shaped for face-to-face interaction",
+                                "Show short video/images of climate related risks and disasters",
+                                "Learners to be in breakout spaces for each group to work",
+                                "Provide learners with simple case studies showing climate change impacts in different regions",
+                                "Each group to should make presentations on their case study findings"
+                            ],
+                            "learner_steps": [
+                                "Analysing the impact of climate change on human activity (extreme temperatures, drought, heat waves, loss of habitat)",
+                                "Discussing case studies",
+                                "Analyzing impacts",
+                                "Presenting findings"
+                            ],
+                            "short_notes": "Environmental impacts: Rising temperatures, Extreme weather events, Loss of biodiversity. Human impacts: Respiratory problems due to changes in air quality. Economic impacts: Damage to infrastructure, Agricultural decline, Loss of livestock, Energy crisis, Loss of livelihoods. Social impacts: Displacement of people, Vector borne diseases, Mental health impacts, Heat related illness, Conflicts of resources, Food security."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.3",
+                            "page": 39,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners to share with family members real life experiences on the causes of climate change"
+                            ],
+                            "learner_steps": [
+                                "Sharing information with family and community members on the causes and impact of climate change",
+                                "Discussing with family",
+                                "Participating in community events",
+                                "Acting as climate change ambassadors"
+                            ],
+                            "short_notes": "Family discussions about climate change are a critical factor influencing communities' perceptions and behaviors. Encourage learners to discuss climate change impacts with family members, sharing their knowledge, experiences and concerns. Engage learners and family members in joint projects. Invite learners to share personal stories or family experiences related to climate change. Learners to participate in community events involving climate change affairs."
+                        }
+                    ],
+                    "short_notes": "Climate change refers to long-term shifts in temperatures and weather patterns. Such shifts can be natural, due to changes in the sun's activity or large volcanic eruptions or can be due to human activities such as the burning of fossil fuels like coal, oil and gas.",
+                    "vocabulary": [
+                        {
+                            "term": "Climate change",
+                            "definition": "Long-term shifts in temperatures and weather patterns"
+                        },
+                        {
+                            "term": "Greenhouse gases",
+                            "definition": "Gases that trap heat in the atmosphere"
+                        },
+                        {
+                            "term": "Fossil fuels",
+                            "definition": "Coal, oil, and gas formed from ancient organic matter"
+                        },
+                        {
+                            "term": "Deforestation",
+                            "definition": "The clearing of forests for other land uses"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 39,
+                        "questions": [
+                            "Observe learners' participation in discussions, ability to identify and explain causes",
+                            "Ask learners to report on the causes and effects of climate change",
+                            "Observe learner's participation as they brainstorm on the impacts",
+                            "Check on the leaners' reports as they identify the impacts on environment, human life, economy",
+                            "What did you learn about climate change?",
+                            "How does climate change affects your family and community?",
+                            "What actions can you take to reduce the impact of climate change?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.3",
+                    "title": "Mitigation and Adaptation to Climate Change",
+                    "page": 40,
+                    "competences": [
+                        "Practise mitigation measures to climate change",
+                        "Adapt lifestyles to local climate risks and disasters"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.3.1",
+                            "page": 41,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Arrange learners in small groups for them to collaborate",
+                                "Learners to discuss the mitigation measures to climate change",
+                                "Each small group to share key ideas to the class",
+                                "Key responses should be written down and similar ideas consolidated"
+                            ],
+                            "learner_steps": [
+                                "Identifying mitigation measures to climate change (reducing waste, using renewable energy, conserving water, planting trees)",
+                                "Discussing measures",
+                                "Sharing ideas",
+                                "Consolidating responses"
+                            ],
+                            "short_notes": "Zambia is taking steps to reduce greenhouse gas emissions: Solar Energy - use of solar lamps and chargers. Tree Planting - join tree-planting initiatives. Climate Clubs - participate in climate clubs. Sustainable Transportation - walking or biking. Local Foods - support local farmers. Reduce Plastic Use - use alternatives. Education and Advocacy - spread awareness. Gardening Projects - community gardens. Upcycling Workshops - repurpose old items. Renewable Energy Projects - solar cookers, wind turbines."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.3.2",
+                            "page": 42,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Divide learners into smaller groups",
+                                "Discuss on how to participate in mitigating measures at individual and community levels",
+                                "Learners can work in groups on sample projects: Reduce waste and promote recycling, School and community tree planting, Energy audit and conservation plan, School garden with climate smart farming"
+                            ],
+                            "learner_steps": [
+                                "Engaging in Mitigation measures to Climate change",
+                                "Collecting plastic waste",
+                                "Setting waste segregation bins",
+                                "Planting and caring for trees",
+                                "Conducting energy audits",
+                                "Establishing school gardens"
+                            ],
+                            "short_notes": "Engaging in mitigation measures is essential at individual and community levels. Individual Level: Energy Efficiency & Renewable Energy, Sustainable Transportation, Waste Reduction & Sustainable Consumption, Food & Agriculture Choices. Community level: Participate in tree planting, Advocate for bike lanes and green spaces, Support local sustainability projects."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.3.3",
+                            "page": 43,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Watch documentaries or educational films about climate change",
+                                "Design a climate change bingo game",
+                                "Organize a structured discussion or debate",
+                                "Invite an environmental expert",
+                                "Take a walk in a local park, forest, or nature reserve",
+                                "Host a tree planting or community garden event",
+                                "Take a tour of a local farm or sustainable energy facility"
+                            ],
+                            "learner_steps": [
+                                "Sharing information on climate change with family and community members",
+                                "Watching documentaries",
+                                "Participating in discussions",
+                                "Creating action plans",
+                                "Engaging in outdoor activities"
+                            ],
+                            "short_notes": "Sharing information on climate change means educating those around you about causes, effects, and solutions. It involves explaining the science behind global warming, its impact on environment, economy, and society, and the importance of collective action. This can include discussing carbon emissions, renewable energy, sustainable practices, and how individuals can reduce their carbon footprints. The goal is to raise awareness, inspire action, and encourage positive environmental behaviors."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.3.4",
+                            "page": 45,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Divide learners in small groups",
+                                "Each group represents an area, town or city facing climate change challenges",
+                                "Each group randomly selects or is assigned a climate scenario",
+                                "Groups design a community that incorporates adaptation strategies",
+                                "Learners explore their local environment to identify real-world examples",
+                                "Learners explore and look for adaptation features such as trees, permeable pavement, water-saving systems"
+                            ],
+                            "learner_steps": [
+                                "Identifying ways of adapting to climate risks and disasters (growing drought resistant crops, water harvesting, having emergency plans)",
+                                "Observing local environment",
+                                "Recording effects of disasters",
+                                "Interacting with community leaders"
+                            ],
+                            "short_notes": "Build climate-resilient buildings on higher ground with improved drainage. Develop early warning systems. Keep emergency supplies ready. Water Conservation during dry season. Adjust to food shortages by growing vegetables, preserving food. Promote drought-resistant crops. Cope with extreme heat by planting trees. Protect against climate related diseases. Educate and involve local communities in adaptation strategies."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.3.5",
+                            "page": 46,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Divide participants into small groups representing areas facing climate challenges",
+                                "Each group designs a community incorporating adaptation strategies",
+                                "Groups create visual representation on poster or whiteboard",
+                                "Learners explore local environments to identify real-world examples",
+                                "Document adaptation features"
+                            ],
+                            "learner_steps": [
+                                "Engaging in adaptation measures to climate change",
+                                "Designing climate-resilient communities",
+                                "Documenting local adaptation features",
+                                "Presenting findings"
+                            ],
+                            "short_notes": "Zambia is implementing strategies to adapt to changing climate: Build climate-resilient buildings. Develop early warning systems. Emergency preparedness. Water Conservation. Adjust to food shortages. Promote drought-resistant crops. Cope with extreme heat. Protect against climate related diseases. Educate and involve local communities."
+                        }
+                    ],
+                    "short_notes": "The topic focuses on efforts aimed at coming up with actions and strategies that can reduce or prevent long-term climate change risks. The goal of mitigation is to address the root causes of climate change. To build resilience, individuals and communities must adapt their lifestyles to local climate risks, ensuring they can withstand and recover from environmental hazards more effectively. Adaptation strategies include designing climate-resilient homes, adopting sustainable agricultural practices, modifying daily routines, and leveraging technology for early warnings.",
+                    "vocabulary": [
+                        {
+                            "term": "Mitigation",
+                            "definition": "Actions to reduce or prevent greenhouse gas emissions"
+                        },
+                        {
+                            "term": "Adaptation",
+                            "definition": "Adjustments to reduce vulnerability to climate change impacts"
+                        },
+                        {
+                            "term": "Climate resilience",
+                            "definition": "The ability to withstand and recover from climate-related hazards"
+                        },
+                        {
+                            "term": "Sustainable practices",
+                            "definition": "Methods that meet current needs without compromising future generations"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 42,
+                        "questions": [
+                            "Ask learners to propose measures to climate change",
+                            "Ask learners to practice conservation measures within the school premises",
+                            "Give two examples of how individuals can engage in climate change mitigation",
+                            "How can businessmen contribute to climate change mitigation?",
+                            "Should governments enforce strict laws to reduce carbon emissions?",
+                            "I can personally contribute to climate change mitigation by…",
+                            "Learners to visit community members and interview them then write a report",
+                            "Let learners demonstrate activities on how individuals, families, and communities engage in combating climate change",
+                            "Develop a sustainability action plan for family or community",
+                            "Create a visual representation illustrating the impact of climate change",
+                            "Observe learners as they prepare, plan for climate disaster observation",
+                            "Observe learners as they make report presentations on findings",
+                            "Assess ability to categorize and differentiate between mitigation and adaptation strategies",
+                            "Observe learner participation in local adaptation efforts"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

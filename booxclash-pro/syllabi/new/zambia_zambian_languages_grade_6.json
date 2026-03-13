@@ -1,0 +1,462 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "6",
+    "subject": "Zambian Languages",
+    "philosophy": "Quality, life long education for all which is accessible, inclusive and relevant to individual, national and global needs",
+    "competence_learning": "The Zambian Languages Upper Primary School Syllabus has been developed to facilitate learning that will promote competences in learners from Grade 4 to 6. It has been designed to equip learners with skills to access, criticise, analyse and practically apply knowledge.",
+    "goals": [
+      "Nurture effective communication both in speech and writing",
+      "Acquire knowledge, skills, techniques and positive values",
+      "Develop as individuals and eventually contribute to the wellbeing of society and the nation as a whole"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "6.1.1",
+      "topic_title": "STORIES",
+      "page_number": 45,
+      "subtopics": [
+        "6.1.1.1 Story Telling",
+        "6.1.1.2 Analyse a story",
+        "6.1.1.3 Analyse plays"
+      ],
+      "specific_outcomes": [
+        "Narrate fiction and non-fiction stories",
+        "Analyse a story",
+        "Analyse plays"
+      ]
+    },
+    {
+      "unit": "6.1.2",
+      "topic_title": "INFORMATION AND EXPLANATIONS",
+      "page_number": 45,
+      "subtopics": [
+        "6.1.2.1 Giving and Asking for Information"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to ask and provide information"
+      ]
+    },
+    {
+      "unit": "6.1.3",
+      "topic_title": "EMOTIONS",
+      "page_number": 45,
+      "subtopics": [
+        "6.1.3.1 Expressing Emotions"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to express different emotions"
+      ]
+    },
+    {
+      "unit": "6.1.4",
+      "topic_title": "DRAMATIZING PLAYS",
+      "page_number": 46,
+      "subtopics": [
+        "6.1.4.1 Acting"
+      ],
+      "specific_outcomes": [
+        "Act in plays"
+      ]
+    },
+    {
+      "unit": "6.1.5",
+      "topic_title": "DEBATE",
+      "page_number": 46,
+      "subtopics": [
+        "6.1.5.1 National Values and Principles"
+      ],
+      "specific_outcomes": [
+        "Debate issues on national values and principles"
+      ]
+    },
+    {
+      "unit": "6.1.6",
+      "topic_title": "ORAL REPORTS",
+      "page_number": 46,
+      "subtopics": [
+        "6.1.6.1 Oral Reporting"
+      ],
+      "specific_outcomes": [
+        "Give oral reports on cross-cutting issues"
+      ]
+    },
+    {
+      "unit": "6.1.7",
+      "topic_title": "CUSTOMS AND TRADITIONS",
+      "page_number": 46,
+      "subtopics": [
+        "6.1.7.1 Personal Conduct",
+        "6.1.7.2 Traditional Songs"
+      ],
+      "specific_outcomes": [
+        "Show understanding of cultural norms and values related to personal conduct",
+        "Compose simple traditional songs"
+      ]
+    },
+    {
+      "unit": "6.1.8",
+      "topic_title": "DESCRIPTION",
+      "page_number": 47,
+      "subtopics": [
+        "6.1.8.1 Processes"
+      ],
+      "specific_outcomes": [
+        "Describe processes"
+      ]
+    },
+    {
+      "unit": "6.1.9",
+      "topic_title": "POETRY",
+      "page_number": 47,
+      "subtopics": [
+        "6.1.9.1 Poems",
+        "6.1.9.2 Praises"
+      ],
+      "specific_outcomes": [
+        "Compose and recite simple poems",
+        "Compose and recite simple praises"
+      ]
+    },
+    {
+      "unit": "6.2.1",
+      "topic_title": "READING FLUENCY",
+      "page_number": 48,
+      "subtopics": [
+        "6.2.1.1 Oral Reading"
+      ],
+      "specific_outcomes": [
+        "Read texts aloud with acceptable pronunciation and appropriate expression"
+      ]
+    },
+    {
+      "unit": "6.2.2",
+      "topic_title": "REFERENCES",
+      "page_number": 48,
+      "subtopics": [
+        "6.2.2.1 Books"
+      ],
+      "specific_outcomes": [
+        "Use reference and textbooks"
+      ]
+    },
+    {
+      "unit": "6.3.1",
+      "topic_title": "MEANING",
+      "page_number": 49,
+      "subtopics": [
+        "6.3.1.1 Word Meaning",
+        "6.3.1.2 Spelling"
+      ],
+      "specific_outcomes": [
+        "Use a variety of grade level vocabulary",
+        "Spell words"
+      ]
+    },
+    {
+      "unit": "6.3.2",
+      "topic_title": "WORD RELATIONSHIPS",
+      "page_number": 49,
+      "subtopics": [
+        "6.3.2.1 Homonyms"
+      ],
+      "specific_outcomes": [
+        "Identify and use homonyms"
+      ]
+    },
+    {
+      "unit": "6.3.3",
+      "topic_title": "NUMBERS",
+      "page_number": 49,
+      "subtopics": [
+        "6.3.3.1 Cardinal Numbers"
+      ],
+      "specific_outcomes": [
+        "Count in a Zambian Language"
+      ]
+    },
+    {
+      "unit": "6.3.4",
+      "topic_title": "CALENDAR",
+      "page_number": 49,
+      "subtopics": [
+        "6.3.4.1 Seasons"
+      ],
+      "specific_outcomes": [
+        "Name seasons of the year"
+      ]
+    },
+    {
+      "unit": "6.3.5",
+      "topic_title": "DIRECTIONS",
+      "page_number": 49,
+      "subtopics": [
+        "6.3.5.1 Cardinal Points"
+      ],
+      "specific_outcomes": [
+        "Show directions using cardinal points"
+      ]
+    },
+    {
+      "unit": "6.4.1",
+      "topic_title": "LISTENING COMPREHENSION",
+      "page_number": 51,
+      "subtopics": [
+        "6.4.1.1 Intensive Listening"
+      ],
+      "specific_outcomes": [
+        "Listen to information read out or told"
+      ]
+    },
+    {
+      "unit": "6.4.2",
+      "topic_title": "READING COMPREHENSION",
+      "page_number": 51,
+      "subtopics": [
+        "6.4.2.1 Intensive Reading",
+        "6.4.2.2 Extensive Reading"
+      ],
+      "specific_outcomes": [
+        "Read grade level texts with understanding",
+        "Read different types of materials for different purposes"
+      ]
+    },
+    {
+      "unit": "6.5.1",
+      "topic_title": "HANDWRITING",
+      "page_number": 52,
+      "subtopics": [
+        "6.5.1.1 Cursive Writing"
+      ],
+      "specific_outcomes": [
+        "Write legibly in cursive form"
+      ]
+    },
+    {
+      "unit": "6.5.2",
+      "topic_title": "COMPOSITION",
+      "page_number": 52,
+      "subtopics": [
+        "6.5.2.1 Narrative Writing",
+        "6.5.2.2 Letter Writing",
+        "6.5.2.3 Descriptive Writing",
+        "6.5.2.4 Report Writing"
+      ],
+      "specific_outcomes": [
+        "Write a narrative",
+        "Write a formal letter",
+        "Write a descriptive composition",
+        "Write simple reports"
+      ]
+    },
+    {
+      "unit": "6.5.3",
+      "topic_title": "DICTATION",
+      "page_number": 52,
+      "subtopics": [
+        "6.5.3.1 Writing Paragraphs"
+      ],
+      "specific_outcomes": [
+        "Write dictated paragraphs"
+      ]
+    },
+    {
+      "unit": "6.5.4",
+      "topic_title": "TRANSLATION",
+      "page_number": 53,
+      "subtopics": [
+        "6.5.4.1 Passages"
+      ],
+      "specific_outcomes": [
+        "Translate simple passages from English into a Zambian language"
+      ]
+    },
+    {
+      "unit": "6.5.5",
+      "topic_title": "DOCUMENTS",
+      "page_number": 53,
+      "subtopics": [
+        "6.5.5.1 Forms"
+      ],
+      "specific_outcomes": [
+        "Fill -in forms"
+      ]
+    },
+    {
+      "unit": "6.5.6",
+      "topic_title": "FINANCIAL DOCUMENTS",
+      "page_number": 53,
+      "subtopics": [
+        "6.5.6.1 Simple Business Plan"
+      ],
+      "specific_outcomes": [
+        "Write a simple business plan"
+      ]
+    },
+    {
+      "unit": "6.5.7",
+      "topic_title": "SUMMARY",
+      "page_number": 53,
+      "subtopics": [
+        "6.5.7.1 Note Summary",
+        "6.5.7.2 Prose Summary"
+      ],
+      "specific_outcomes": [
+        "Summarise a given grade level text",
+        "Summarise a given grade level text"
+      ]
+    },
+    {
+      "unit": "6.5.8",
+      "topic_title": "DRAMA",
+      "page_number": 53,
+      "subtopics": [
+        "6.5.8.1 Play writing"
+      ],
+      "specific_outcomes": [
+        "Write a short play"
+      ]
+    },
+    {
+      "unit": "6.6.1",
+      "topic_title": "DIRECT AND INDIRECT SPEECH",
+      "page_number": 54,
+      "subtopics": [
+        "6.6.1.1 Direct Speech",
+        "6.6.1.2 Indirect Speech"
+      ],
+      "specific_outcomes": [
+        "Change direct speech to indirect speech",
+        "Change indirect speech to direct speech"
+      ]
+    },
+    {
+      "unit": "6.6.2",
+      "topic_title": "AFFIXATION",
+      "page_number": 54,
+      "subtopics": [
+        "6.6.2.1 Augmentative Prefixes",
+        "6.6.2.2 Diminutive Prefixes",
+        "6.6.2.3 Pejoratives Prefixes"
+      ],
+      "specific_outcomes": [
+        "Use prefixes to express augmentation",
+        "Use prefixes to express diminutive forms",
+        "Use prefixes to express pejoratives forms"
+      ]
+    },
+    {
+      "unit": "6.6.3",
+      "topic_title": "NOUNS",
+      "page_number": 55,
+      "subtopics": [
+        "6.6.3.1 Collective Nouns"
+      ],
+      "specific_outcomes": [
+        "Use collective nouns"
+      ]
+    },
+    {
+      "unit": "6.6.4",
+      "topic_title": "CONCORD",
+      "page_number": 55,
+      "subtopics": [
+        "6.6.4.1 Subject-verb Concord"
+      ],
+      "specific_outcomes": [
+        "Use subject-verb concord"
+      ]
+    },
+    {
+      "unit": "6.6.5",
+      "topic_title": "PUNCTUATION",
+      "page_number": 55,
+      "subtopics": [
+        "6.6.5.1 Punctuation Marks"
+      ],
+      "specific_outcomes": [
+        "Use punctuation marks"
+      ]
+    },
+    {
+      "unit": "6.6.6",
+      "topic_title": "ADJECTIVES",
+      "page_number": 55,
+      "subtopics": [
+        "6.6.6.1 Types of Adjectives"
+      ],
+      "specific_outcomes": [
+        "Classify adjectives according to type"
+      ]
+    },
+    {
+      "unit": "6.6.7",
+      "topic_title": "ADVERBS",
+      "page_number": 56,
+      "subtopics": [
+        "6.6.7.1 Adverbs of Degree"
+      ],
+      "specific_outcomes": [
+        "Use adverbs of degree"
+      ]
+    },
+    {
+      "unit": "6.6.8",
+      "topic_title": "PRONOUNS",
+      "page_number": 56,
+      "subtopics": [
+        "6.6.8.1 Reflexive Pronouns"
+      ],
+      "specific_outcomes": [
+        "Use reflexive pronouns"
+      ]
+    },
+    {
+      "unit": "6.6.9",
+      "topic_title": "VERBS",
+      "page_number": 56,
+      "subtopics": [
+        "6.6.9.1 Verb Structure",
+        "6.6.9.2 Active and Passive Forms"
+      ],
+      "specific_outcomes": [
+        "Build a verb from its root",
+        "Express active and passive forms of the verb in sentences"
+      ]
+    },
+    {
+      "unit": "6.6.10",
+      "topic_title": "FIGURES OF SPEECH",
+      "page_number": 57,
+      "subtopics": [
+        "6.6.10.1 Personification and Euphemism"
+      ],
+      "specific_outcomes": [
+        "Use figures of speech"
+      ]
+    },
+    {
+      "unit": "6.6.11",
+      "topic_title": "PROVERBS AND SAYINGS",
+      "page_number": 57,
+      "subtopics": [
+        "6.6.11.1 Proverbs for Different Situations"
+      ],
+      "specific_outcomes": [
+        "Apply proverbs and sayings in different situations"
+      ]
+    },
+    {
+      "unit": "6.6.12",
+      "topic_title": "IDIOMS",
+      "page_number": 57,
+      "subtopics": [
+        "6.6.12.1 Idioms for Different Situations"
+      ],
+      "specific_outcomes": [
+        "Apply idioms to different situations"
+      ]
+    }
+  ]
+}

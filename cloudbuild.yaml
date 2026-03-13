@@ -1,0 +1,78 @@
+steps:
+# ==============================================================================
+# BACKEND (Cloud Run Service)
+# ==============================================================================
+
+# 1. Install backend dependencies
+- name: 'gcr.io/cloud-builders/npm' # Use the recommended npm builder
+  dir: 'backend' # Assumes backend code is in a 'backend/' folder
+  args: ['install']
+
+# 2. Build the backend Docker image using the commit SHA as a unique tag
+- name: 'gcr.io/cloud-builders/docker'
+  dir: 'backend'
+  args:
+    - 'build'
+    - '-t'
+    - 'gcr.io/booxclash-learn/backend:$SHORT_SHA'
+    - '.'
+
+# 3. Push the versioned backend image to Google Container Registry
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', 'gcr.io/booxclash-learn/backend:$SHORT_SHA']
+
+# 4. Deploy the new backend image to Cloud Run with a secret
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  entrypoint: gcloud
+  args:
+    - 'run'
+    - 'deploy'
+    - 'backend'
+    - '--image'
+    - 'gcr.io/booxclash-learn/backend:$SHORT_SHA'
+    - '--region'
+    - 'us-central1'
+    - '--platform'
+    - 'managed'
+    - '--allow-unauthenticated'
+    - '--project'
+    - 'booxclash-learn'
+    - '--update-secrets=API_KEY=booxclash-learn:latest'
+
+# ==============================================================================
+# FRONTEND (App Engine Standard Environment Service)
+# ==============================================================================
+
+# 5. Install frontend dependencies
+- name: 'node:22' # Using a modern Node.js image to fix the Vite build issue
+  entrypoint: 'npm'
+  dir: 'frontend'
+  args: ['install']
+
+# 6. Build the production assets for the frontend using Vite
+- name: 'node:22' # Using a modern Node.js image to fix the Vite build issue
+  entrypoint: 'npm'
+  dir: 'frontend'
+  args: ['run', 'build']
+
+# 7. Deploy the frontend to App Engine
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  dir: 'frontend'
+  entrypoint: gcloud
+  args:
+    - 'app'
+    - 'deploy'
+    - 'app.yaml'
+    - '--project'
+    - 'booxclash-learn'
+    - '--quiet'
+
+# ==============================================================================
+# Final Build Configuration
+# ==============================================================================
+
+images:
+  - 'gcr.io/booxclash-learn/backend:$SHORT_SHA'
+
+options:
+  logging: CLOUD_LOGGING_ONLY

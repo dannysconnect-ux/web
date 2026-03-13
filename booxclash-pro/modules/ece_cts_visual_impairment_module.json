@@ -1,0 +1,843 @@
+{
+    "subject": "Creative and Technology Studies (CTS)",
+    "grade": "Early Childhood Education",
+    "age_range": "3-4 years",
+    "special_needs": "Visual Impairment",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "Safety",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Safety in the environment",
+                    "page": 6,
+                    "competences": [
+                        "Safety Practice in the environment"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 6,
+                            "hook": "Imagine you go to play football with friends and you find that the playground is full of all sorts of objects including broken bottles, sticks, stones, etc what can you do before you start playing and why?",
+                            "teacher_steps": [
+                                "Display assorted objects"
+                            ],
+                            "learner_steps": [
+                                "Identify harmful objects"
+                            ],
+                            "short_notes": "Having displayed assorted objects, Learners to identify harmful objects"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 6,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Display different cleaning materials",
+                                "Let Learners identify the cleaning materials by name",
+                                "Let Learners state the functions of various cleaning materials"
+                            ],
+                            "learner_steps": [
+                                "Identify the cleaning materials by name",
+                                "State the functions of various cleaning materials"
+                            ],
+                            "short_notes": "Tidying up their environment (kitchen, bedrooms, playground)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 6,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Display different protective attire",
+                                "Let learner mention the personal protective attire to wear during working/playing",
+                                "Explain how the different protective attires are used",
+                                "Demonstrate wearing protective attire (gloves, face mask)"
+                            ],
+                            "learner_steps": [
+                                "Mention the personal protective attire to wear during working/playing",
+                                "Wear protective attire when cleaning the classroom"
+                            ],
+                            "short_notes": "Wearing personal protective attire during working/playing"
+                        }
+                    ],
+                    "short_notes": "This sub-topic focuses on equipping learners with the ability to use the environment appropriately by practicing safety measures of the environment around them. Understanding and applying proper safety measures of the environment is very important to learners as it gives them, prevents accidents and protects human lives. Children learn well when they are free from fear. A secure environment fosters effective learning and encourages active participation as it enables the learners to navigate the surrounding around them without hurting themselves.",
+                    "vocabulary": [
+                        {
+                            "term": "Environment",
+                            "definition": "refers to any place or situation in which one finds him/herself"
+                        },
+                        {
+                            "term": "Safety",
+                            "definition": "means being free from anything that can cause harm to our bodies or health"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 6,
+                        "questions": [
+                            "Learners to name four harmful objects",
+                            "Learners to mention 3 different cleaning materials",
+                            "Let Learners wear protective attire when cleaning the classroom"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "Hygiene",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Food Hygiene",
+                    "page": 8,
+                    "competences": [
+                        "Demonstrate hygiene practices"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 9,
+                            "hook": "On Saturday and Sunday you were all at home, when you go to school on Monday you find the classroom dirty what can you do before learning?",
+                            "teacher_steps": [
+                                "Teacher presents a variety of food stuffs to the learners",
+                                "Ask each individual learner to say what should be done before touching food",
+                                "Ask learners to state why it is important to wash hands before touching the food",
+                                "Explain to the learners why it is important to wash hands before eating"
+                            ],
+                            "learner_steps": [
+                                "Say what should be done before touching food",
+                                "State why it is important to wash hands before touching the food",
+                                "Mention three items used to wash the hands before eating"
+                            ],
+                            "short_notes": "Washing of hands before touching food"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 9,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Present a variety of food stuffs (fruits, vegetables, etc.) to the learners",
+                                "Ask learners to mention the procedure of cleaning vegetables",
+                                "Ask learners to state what should be done to the fruits before eating them"
+                            ],
+                            "learner_steps": [
+                                "Mention the procedure of cleaning vegetables",
+                                "State what should be done to the fruits before eating them",
+                                "Demonstrate washing food before eating"
+                            ],
+                            "short_notes": "Washing of food (fruits, vegetables…)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 10,
+                            "hook": "Suppose you are given cold food, what should be done to the food before eating?",
+                            "teacher_steps": [
+                                "Discuss the importance of warming leftover/cold food before eating"
+                            ],
+                            "learner_steps": [
+                                "Mention any five things required to warm leftover food"
+                            ],
+                            "short_notes": "Warming leftover /cold food before eating"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 10,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ask learners what should be done to the utensils after eating",
+                                "Learners to state the importance of washing utensils after eating",
+                                "Teacher facilitates the class discussion of the importance of washing utensils after eating"
+                            ],
+                            "learner_steps": [
+                                "State the importance of washing utensils after eating",
+                                "Demonstrate washing of utensils"
+                            ],
+                            "short_notes": "Washing of utensils after eating"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 10,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ask learners to demonstrate the covering of food",
+                                "Ask the importance of covering food",
+                                "Discuss the importance of covering food"
+                            ],
+                            "learner_steps": [
+                                "Demonstrate the covering of food"
+                            ],
+                            "short_notes": "Practicing covering of food"
+                        }
+                    ],
+                    "short_notes": "Food hygiene is the practice of handling, preparing, and storing food to prevent contamination and foodborne illnesses. Food hygiene is important because it helps prevent foodborne illnesses and keeps people safe. It also helps food last longer, which reduces waste and saves money.",
+                    "vocabulary": [
+                        {
+                            "term": "Hygiene",
+                            "definition": "refers to conditions and practices that help maintain health and prevent the spread of diseases"
+                        },
+                        {
+                            "term": "Food",
+                            "definition": "refers to any substance that is consumed by living organisms, including animals, plants to provide nutrition, energy, and support growth and maintenance"
+                        },
+                        {
+                            "term": "Personal hygiene",
+                            "definition": "is taking care of one's physical health and appearance, as well as habits that promote overall wellbeing"
+                        },
+                        {
+                            "term": "Environmental hygiene",
+                            "definition": "is the practice of keeping the environment clean and safe to prevent the spread of diseases"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 9,
+                        "questions": [
+                            "Let Learners mention three items used to wash the hands before eating",
+                            "Let learners state the importance of washing hands before touching the food",
+                            "Demonstrate washing food before eating",
+                            "Mention any five things required to warm leftover food",
+                            "Demonstrate washing of utensils"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Personal hygiene",
+                    "page": 11,
+                    "competences": [
+                        "Practice personal hygiene"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 11,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ask learners what they need to do after using the toilet",
+                                "Ask learners the importance of washing hands with soap/ash after using the toilets",
+                                "Explain the importance of washing hands after using the toilets",
+                                "Learners to demonstrate washing hands with soap/ash after using the toilet"
+                            ],
+                            "learner_steps": [
+                                "Demonstrate washing hands with soap",
+                                "Explain why it is important to wash hands after using the toilet"
+                            ],
+                            "short_notes": "Washing of hands (soap, ash…) after using the toilets"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 11,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ask learners to state the procedure of using the toilet",
+                                "Teacher facilitates a class discussion on the use of the toilet",
+                                "Demonstrate sitting on the toilet, flushing, covering the toilet after use, opening and covering the drop hole",
+                                "Learners to demonstrate using the toilet"
+                            ],
+                            "learner_steps": [
+                                "State the procedure of using the toilet",
+                                "Demonstrate using the toilet",
+                                "Demonstrate, sitting on the toilet, flushing, opening and covering the drop"
+                            ],
+                            "short_notes": "Practicing using toilet facilities; (Flushing and covering the toilet after use, opening and covering the drop hole)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ask learners to mention different toiletries",
+                                "Teacher presents different toiletries to the learners",
+                                "Learners to identify the toiletries by name and state their respective functions",
+                                "Discuss the importance of using the toiletries",
+                                "Demonstrate the use of different toiletries"
+                            ],
+                            "learner_steps": [
+                                "Mention different toiletries",
+                                "Identify the toiletries by name and state their respective functions",
+                                "Mention any 2 toiletries",
+                                "Demonstrate using toiletries"
+                            ],
+                            "short_notes": "Practising using toiletries (tissues, soap…)"
+                        }
+                    ],
+                    "short_notes": "Personal hygiene is taking care of one's physical health and appearance, as well as habits that promote overall wellbeing. Personal hygiene is all about washing the hands with soap and water for at least 20 seconds, especially after using the toilet, brushing the teeth regularly to maintain oral hygiene, bath regularly, wash the hair, clean the nose and ears as well as wearing clean clothes. This sub-topic focuses on equipping learners with the ability to practice keeping the body clean and healthy. Good hygiene practices can help prevent the spread of germs, bacteria and viruses that cause infections and diseases.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 11,
+                        "questions": [
+                            "Learners to demonstrate washing hands with soap",
+                            "Explain why it is important to wash hands after using the toilet",
+                            "Demonstrate, sitting on the toilet, flushing, opening and covering the drop",
+                            "Mention any 2 toiletries",
+                            "Demonstrate using toiletries"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "Environmental hygiene",
+                    "page": 13,
+                    "competences": [
+                        "Demonstrate care for the environment"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ask learners to look around the classroom and mention the state of the classroom in terms of cleanliness",
+                                "Learners mention the state of the classroom in terms cleanliness",
+                                "Take the learners around the school and ask them to observe the environment",
+                                "Learners to mention what they have observed in the environment",
+                                "Ask learners what should be done to make the environment clean",
+                                "Discuss the importance of keeping the environment clean",
+                                "Learners practice cleaning the environment by participating in picking litter"
+                            ],
+                            "learner_steps": [
+                                "Look around the classroom and mention the state of the classroom in terms of cleanliness",
+                                "Mention what they have observed in the environment",
+                                "Practice cleaning the environment by participating in picking litter",
+                                "Respond to oral questions, learners to come with empty boxes to be used as classrooms waste bins"
+                            ],
+                            "short_notes": "Participating in picking used bottles, used plastic bags, litter e.t.c."
+                        }
+                    ],
+                    "short_notes": "Environmental hygiene is the practice of keeping the environment clean and safe to prevent the spread of diseases. A clean and healthy environment is of utmost importance in early childhood education. Environmental hygiene promotes the healthy and well -being of children, reduces the risk of illnesses and accidents, and creates a positive and welcoming atmosphere for learning and development. It involves assessing and controlling environmental factors that can impact health.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 13,
+                        "questions": [
+                            "Respond to oral questions, learners to come with empty boxes to be used as classrooms waste bins"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "Tools",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Hand Tools",
+                    "page": 15,
+                    "competences": [
+                        "Identify tools found in the immediate environment"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Teacher to display different tools found in a home",
+                                "Having displayed assorted tools, individually, learners to identify tools found in the home by naming them and stating their functions"
+                            ],
+                            "learner_steps": [
+                                "Identify tools found in the home by naming them and stating their functions",
+                                "Mention any three tools found in a home",
+                                "State the use of the tools mentioned in question one"
+                            ],
+                            "short_notes": "Identifying tools found in a home (knives, spoon, fork, plates)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Teacher to display different tools found in a classroom",
+                                "Having shown assorted tools, individually, learners recognize tools found in a classroom"
+                            ],
+                            "learner_steps": [
+                                "Recognize tools found in a classroom",
+                                "State the uses of the following tools: Pencil, Crayon, Stylus, Ruler",
+                                "What tools are used to do the following: Measuring, Calculating"
+                            ],
+                            "short_notes": "Recognising tools found in the classroom (pencils, books, crayons, stylus, writing frame, cubes, cuberythm board ….)"
+                        }
+                    ],
+                    "short_notes": "Hand tools are objects or devices powered by hand to perform a specific task/ function to make work easier. There are various types of hand tools used to perform different tasks/ functions. For example, knife used for cutting, hoe used for digging, stylus, braille slate, etc. This sub-topic focuses on equipping learners with the ability to use the hand tools appropriately. Learners will explore and practice the use of hand tools. These tools are important as they can help children develop a variety of skills, including fine motor skills, hand-axe coordination, and problem solving. Hand tools make the work easier thereby saving time for other tasks.",
+                    "vocabulary": [
+                        {
+                            "term": "Tools",
+                            "definition": "are devices, instruments, or software used to perform a specific task to achieve a particular goal, or solve a problem"
+                        },
+                        {
+                            "term": "Stylus",
+                            "definition": "It is a hand held sharp instrument used for embossing"
+                        },
+                        {
+                            "term": "Writing frame",
+                            "definition": "It is a device used to write, a tactile writing system used by visually impaired people"
+                        },
+                        {
+                            "term": "Cubes",
+                            "definition": "Are three dimensional cubes with raised braille dots on each face. They are used to teach and learn Braille, particularly for children who are blind or visually impaired"
+                        },
+                        {
+                            "term": "Cuberythm Board",
+                            "definition": "it is a tactile tool used in education particularly in people who are visually impaired or blind"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 16,
+                        "questions": [
+                            "Mention any three tools found in a home",
+                            "State the use of the tools mentioned in question one",
+                            "State the uses of the following tools: i. Pencil, ii. Crayon iii. Stylus iv. Ruler",
+                            "What tools are used to do the following? i. Measuring ii. Calculating"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "Drama",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Role play",
+                    "page": 18,
+                    "competences": [
+                        "Imitate various roles"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 18,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Prepare a brazier",
+                                "Put a pot of water on the brazier and wait for the water to warm enough",
+                                "Add mealie meal to the warm water and stir until it is light porridge",
+                                "Wait for the porridge to boil enough",
+                                "Continue adding mealie meal and stirring until it becomes thick",
+                                "Leave it to simmer",
+                                "Serve the nshima"
+                            ],
+                            "learner_steps": [
+                                "Learners to imitate the role of cooking nshima",
+                                "State steps involved in the cooking of nshima"
+                            ],
+                            "short_notes": "Playing roles of (cooking, washing, sweeping, and drawing water, teacher's roles…). Note: Let the learners role-play the other roles following the example above."
+                        }
+                    ],
+                    "short_notes": "Role play is a fun and interactive way to engage in creative storytelling. Role play will equip learners with the ability to express their feelings and emotions. Role play also improves social skills and encourages team work. Understanding and applying proper skills in role playing is very important at it promotes social harmony.",
+                    "vocabulary": [
+                        {
+                            "term": "Drama",
+                            "definition": "is a form of storytelling that uses performance, acting, and dialogue to convey emotions, themes, and ideas"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 18,
+                        "questions": [
+                            "State steps involved in the cooking of nshima"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "Light",
+            "sub_topics": [
+                {
+                    "subtopic_id": "5.1",
+                    "title": "Sources of Light",
+                    "page": 20,
+                    "competences": [
+                        "Recognize sources of light"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners to mention different sources of light",
+                                "Having displayed different sources of light, learners to identify them by name"
+                            ],
+                            "learner_steps": [
+                                "Mention different sources of light",
+                                "Identify sources of light by name",
+                                "Mention any four sources of light"
+                            ],
+                            "short_notes": "Identifying sources of light (Sun, moon, bulb, torch, candle, stars, lamp, fire…)"
+                        }
+                    ],
+                    "short_notes": "Source of light refers to anything that gives out light. This sub-topic focuses on equipping learners with the ability to recognize and identify different sources of light. Through this topic, learners will be able to explore different sources of light in their daily lives. Understanding the different sources of light is very important as it allows people to see the world around them.",
+                    "vocabulary": [
+                        {
+                            "term": "Light",
+                            "definition": "is a form of energy that enables us to see things"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 20,
+                        "questions": [
+                            "Mention any four sources of light"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "6.0",
+            "topic_title": "ICT",
+            "sub_topics": [
+                {
+                    "subtopic_id": "6.1",
+                    "title": "ICT Devices",
+                    "page": 22,
+                    "competences": [
+                        "Recognise ICT devices in the immediate environment"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners mention ICT devices they have at home",
+                                "Present a variety of ICT devices to the learners",
+                                "Learners to touch and name the different ICT devices presented to them"
+                            ],
+                            "learner_steps": [
+                                "Mention ICT devices they have at home",
+                                "Touch and name the different ICT devices presented to them",
+                                "Mention any five ICT devices"
+                            ],
+                            "short_notes": "Naming ICT devices from immediate environment (Television (TV), Remote Control, Computers, Phone, Tablet, Radio….)"
+                        }
+                    ],
+                    "short_notes": "ICT devices are electronic instruments that are used to perform specific functions or tasks. These include phone, television sets, computers, etc. This topic will help equip learners with an opportunity to recognise ICT devices. Learners will explore and practice the use of ICT devices in their daily lives. Understanding and applying proper use of the ICT devices is very essential as it equips the people with the skill of accessing information worldwide.",
+                    "vocabulary": [
+                        {
+                            "term": "Information",
+                            "definition": "is knowledge"
+                        },
+                        {
+                            "term": "Communication",
+                            "definition": "is way of sending and receiving message and receiving feedback"
+                        },
+                        {
+                            "term": "Technology",
+                            "definition": "is the application of knowledge aided by modern digital tools to achieve particular goals e.g. computers, phones"
+                        },
+                        {
+                            "term": "Device",
+                            "definition": "is an instrument adapted to perform a specific task or function e.g. a piece of mechanical or electronic equipment"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 22,
+                        "questions": [
+                            "Mention any five ICT devices"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "6.2",
+                    "title": "Operating ICT Devices",
+                    "page": 23,
+                    "competences": [
+                        "Demonstrate switching on and off ICT devices"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Demonstrate the switching on and off of ICT devices",
+                                "Following the demonstration of switching on and off of ICT devices by the teacher. Learners to switch on and off the following devices: TV, radio, phones, etc."
+                            ],
+                            "learner_steps": [
+                                "Switch on and off the following devices: TV, radio, phones, etc.",
+                                "Switch on and off the following devices: T.V, Radio, Computer, Cell phone, etc"
+                            ],
+                            "short_notes": "Demonstrating switching on and off of ICT devices (television, phone, computer and radio)"
+                        }
+                    ],
+                    "short_notes": "ICT devices are electronic instruments that are used to perform specific functions or tasks. These include phone, television sets, computers, etc. This topic will help equip learners with skills to operate ICT devices. Learners will explore and practice operating ICT devices in their daily lives.",
+                    "vocabulary": [
+                        {
+                            "term": "Operate",
+                            "definition": "refers to the application of technical knowhow on any given device"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 24,
+                        "questions": [
+                            "Learners to switch on and off the following devices: T.V, Radio, Computer, Cell phone, etc"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "7.0",
+            "topic_title": "Food",
+            "sub_topics": [
+                {
+                    "subtopic_id": "7.1",
+                    "title": "Types of Food",
+                    "page": 24,
+                    "competences": [
+                        "Identify different types of food in a home"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 25,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ask learners to mention different types of food",
+                                "Present different types of food",
+                                "Learners to identify the different types of food"
+                            ],
+                            "learner_steps": [
+                                "Mention different types of food",
+                                "Identify the different types of food",
+                                "Mention any four types of food",
+                                "(Presented with various food stuffs), learners to identify them by name"
+                            ],
+                            "short_notes": "Naming different types of food (rice, nshima, beans, milk, cassava, maize, groundnuts, fruits.)"
+                        }
+                    ],
+                    "short_notes": "This sub-topic focuses on equipping learners with the types different types of food found in a home. Learners will explore the different types of food found in a home. Knowing the different types of food found in a home is very important for learners as it helps children know the importance of a balanced diet and the role of different nutrients in supporting their growth, development, and overall health. It enables them to make informed choices about the foods they consume and encourages the adoption of healthy eating habits.",
+                    "vocabulary": [
+                        {
+                            "term": "Food",
+                            "definition": "is anything that people and animals eat and drink"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 25,
+                        "questions": [
+                            "Mention any four types of food",
+                            "(Presented with various food stuffs), learners to identify them by name"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "8.0",
+            "topic_title": "Motor Development",
+            "sub_topics": [
+                {
+                    "subtopic_id": "8.1",
+                    "title": "Gross Motor (Loco motor)",
+                    "page": 27,
+                    "competences": [
+                        "Perform simple body movements",
+                        "Play Different Games",
+                        "Perform structural body movements",
+                        "Apply simple rules when playing games"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 27,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners to jump",
+                                "Learners to crawl",
+                                "Learners to walk etc."
+                            ],
+                            "learner_steps": [
+                                "Jump",
+                                "Sit",
+                                "Walk",
+                                "Crawl"
+                            ],
+                            "short_notes": "Performing simple body movement (Jumping. crawling and walking)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 28,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Divide in groups/pairs and take positions",
+                                "Start playing the game at the blow of the whistle"
+                            ],
+                            "learner_steps": [
+                                "Divide in groups/pairs and take positions",
+                                "Start playing the game at the blow of the whistle",
+                                "State the steps involved in playing goalball in the correct order"
+                            ],
+                            "short_notes": "Playing different games that involve (crawling, throwing, catching, kicking, hopping, jumping, goal ball, games such as: hopscotch, build a tunnel, football and hand ball). Following the demonstration of goalball by the teacher. Note: Perform other games with the learners"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 28,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners to line up side by side in a standing position",
+                                "Learners to squat (in a frog position)",
+                                "Learners to frog forward at a blow of the whistle jump"
+                            ],
+                            "learner_steps": [
+                                "Line up side by side in a standing position",
+                                "Squat (in a frog position)",
+                                "Frog forward at a blow of the whistle jump",
+                                "Do frog jumps one by one"
+                            ],
+                            "short_notes": "Performing structural body movements (standing, sitting and jumping). Note: Perform other games with the learners"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 28,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Take positions",
+                                "Learners to hold the buttons in the correct hands (receive with a left hand, pass it to the right hand when running and give the next person using the right hand)"
+                            ],
+                            "learner_steps": [
+                                "Take positions",
+                                "Hold the buttons in the correct hands (receive with a left hand, pass it to the right hand when running and give the next person using the right hand)",
+                                "State the rules involved in the relay race"
+                            ],
+                            "short_notes": "Participating in playing games using simple rules (throw, run, kick, catch). Following demonstration of the race by the teacher. Note: Perform other games with the learners"
+                        }
+                    ],
+                    "short_notes": "Gross motor refers to the large muscle groups and movements that enable us to perform everyday activities, such as walking, running, jumping, and maintaining balance and posture. To equip learners with the ability to use their larger muscles in the arms, legs, and torso. These skills allow children to move around, sit, crawl, walk, run, and jump. Learners will explore and use their larger muscles to perform different activities.",
+                    "vocabulary": [
+                        {
+                            "term": "Motor",
+                            "definition": "refers to a muscle or group of muscles that work together to produce movement or maintain posture"
+                        },
+                        {
+                            "term": "Development",
+                            "definition": "is the process of growth, differentiation and maturation of living organisms including humans from conception to adulthood"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Ask learners to perform the following activities: 1. Jump 2. Sit 3. Walk 4. crawl",
+                            "State the steps involved in playing goalball in the correct order",
+                            "Learners do frog jumps one by one",
+                            "State the rules involved in the relay race"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "9.0",
+            "topic_title": "Music and Dance",
+            "sub_topics": [
+                {
+                    "subtopic_id": "9.1",
+                    "title": "Music and Dance",
+                    "page": 31,
+                    "competences": [
+                        "Explore different sounds",
+                        "Show the skill of singing familiar songs",
+                        "Perform different dancing styles"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 31,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Teacher makes different sounds",
+                                "Learners to imitate",
+                                "Learners to make different sounds"
+                            ],
+                            "learner_steps": [
+                                "Imitate different sounds",
+                                "Make different sounds"
+                            ],
+                            "short_notes": "Imitating different sounds"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 31,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Learners to sing a familiar song",
+                                "Learners to sing and dance"
+                            ],
+                            "learner_steps": [
+                                "Sing a familiar song",
+                                "Sing and dance",
+                                "Play drums",
+                                "Sing familiar songs"
+                            ],
+                            "short_notes": "Singing familiar songs, singing and responding to rhythm, melody and sound"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 32,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Following the demonstration of different styles by the teacher, learners to perform different dancing styles"
+                            ],
+                            "learner_steps": [
+                                "Perform different dancing styles",
+                                "Play drums",
+                                "Sing and dance"
+                            ],
+                            "short_notes": "Displaying different dancing styles"
+                        }
+                    ],
+                    "short_notes": "Music is a form of artistic expression that involves the use of sounds, beats, and tunes to create a unique and meaningful experience for people. Music helps children develop their cognitive skills, such as memory, language and problem-solving. It also assists children in recognizing, expressing, and managing their emotions. Music encourages children to develop social skills, like sharing, taking turn and cooperation. It promotes physical development including gross motor skills, fine motor skills and coordination. It also fosters creativity and self-expression, allowing children to explore and convey their thoughts and feelings. Dance is the movement of the body according to the rhythm. Dance helps children develop their gross motor skills, explore their imagination develop emotional awareness, and promote social skills.",
+                    "vocabulary": [
+                        {
+                            "term": "Music",
+                            "definition": "is a form of artistic expression that involves the use of sounds, beats, and tunes to create a unique and meaningful experience for people"
+                        },
+                        {
+                            "term": "Dance",
+                            "definition": "is the movement of the body according to the rhythm"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 31,
+                        "questions": [
+                            "Learners to make different sounds",
+                            "Learners to play drums",
+                            "Sing familiar songs",
+                            "Sing and dance",
+                            "Perform different dancing styles"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "2",
+    "subject": "Creative and Technology Studies",
+    "philosophy": "Creative and Technology Studies (CTS) is an interdisciplinary field that combines visual arts, performing arts, physical education, health, home economics, technology, and design. It is designed to develop learners' creativity, practical skills, and technological literacy from an early age.",
+    "competence_learning": "The Creative and Technology Studies Syllabus adopts a Competence-Based Approach. It covers Visual Arts, Performing Arts, Technology, Clothing and Textiles, Home Economics, and Physical Education and Health. The syllabus uses pair work, group/team work, individual work, field trips, project method, discussion method, and guest speakers as teaching approaches.",
+    "goals": [
+      "Develop creativity, practical skills and technological literacy in learners.",
+      "Foster collaboration, communication and problem-solving through arts and technology.",
+      "Develop physical fitness and healthy living habits.",
+      "Promote cultural appreciation and environmental awareness.",
+      "Build foundational ICT skills."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "2.1",
+      "topic_title": "VISUAL ARTS",
+      "page_number": 155,
+      "subtopics": [
+        "2.1.1 Drawing",
+        "2.1.2 Painting"
+      ],
+      "specific_outcomes": [
+        "2.1.1.1 Draw familiar objects and scenes",
+        "2.1.2.1 Paint pictures using various techniques"
+      ]
+    },
+    {
+      "unit": "2.2",
+      "topic_title": "HOME ECONOMICS - KITCHEN MANAGEMENT",
+      "page_number": 155,
+      "subtopics": [
+        "2.2.1 Kitchen Equipment",
+        "2.2.2 Food Storage"
+      ],
+      "specific_outcomes": [
+        "2.2.1.1 Identify kitchen equipment",
+        "2.2.2.1 Store kitchen equipment appropriately"
+      ]
+    },
+    {
+      "unit": "2.3",
+      "topic_title": "DRAWING",
+      "page_number": 156,
+      "subtopics": [
+        "2.3.1 Drawing from Observation"
+      ],
+      "specific_outcomes": [
+        "2.3.1.1 Draw from direct observation"
+      ]
+    },
+    {
+      "unit": "2.4",
+      "topic_title": "ENVIRONMENTAL MANAGEMENT",
+      "page_number": 157,
+      "subtopics": [
+        "2.4.1 Waste Management"
+      ],
+      "specific_outcomes": [
+        "2.4.1.1 Manage waste using reduce, reuse and recycle"
+      ]
+    },
+    {
+      "unit": "2.12",
+      "topic_title": "HEALTH AND PHYSICAL EDUCATION",
+      "page_number": 158,
+      "subtopics": [
+        "2.12.1 Fitness",
+        "2.12.2 Games and Sports"
+      ],
+      "specific_outcomes": [
+        "2.12.1.1 Perform fitness exercises",
+        "2.12.2.1 Play various games and sports"
+      ]
+    },
+    {
+      "unit": "2.15",
+      "topic_title": "CONSTRUCTION",
+      "page_number": 159,
+      "subtopics": [
+        "2.15.1 Constructing Familiar Objects"
+      ],
+      "specific_outcomes": [
+        "2.15.1.1 Construct familiar objects using available materials"
+      ]
+    }
+  ]
+}

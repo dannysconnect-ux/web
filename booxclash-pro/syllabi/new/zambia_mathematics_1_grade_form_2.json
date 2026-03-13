@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 2",
+    "subject": "Mathematics I",
+    "philosophy": "The Ordinary Level Mathematics I Syllabus is a comprehensive framework designed to equip learners with the foundational Mathematical competences necessary for their academic journey and beyond. It is crafted with a firm commitment to competence-based education, recognizing the importance of not just acquiring knowledge, but rather the development of critical and analytical thinking, problem-solving skills and conceptual understanding. The syllabus aims to provide an enriching and supportive educational environment where learners can develop a lifelong interest for Mathematics, preparing them for academic success and future roles as informed and responsible citizens in a scientifically advanced society.",
+    "competence_learning": "At the heart of this syllabus, lies the principle of competence-based learning, which prioritizes the mastery of essential skills and concepts over mere coverage of content. Emphasis is placed on developing not only computational skills but also on nurturing Mathematical reasoning, communication, and problem-solving abilities. Mathematical competence is the ability to develop and apply mathematical thinking to solve a range of problems in everyday situations, involving the ability and willingness to use Mathematical modes of thought and presentation.",
+    "goals": [
+      "Basic Skill Development: Ordinary Mathematics provides learners with essential skills and knowledge in numeracy, problem-solving, critical thinking, and logical reasoning. These skills are crucial for success in various academic disciplines, careers, and everyday life",
+      "Foundation for Advanced Studies: Ordinary Mathematics serves as a foundation for more advanced Mathematical studies in disciplines such as calculus, algebra, geometry, statistics, and trigonometry. A solid understanding of basic Mathematical concepts is necessary for pursuing higher-level Mathematics courses.",
+      "Practical Applications: Mathematics is applied in various fields such as science, engineering, technology, finance, and economics. Understanding Ordinary Mathematics enables learners to apply mathematical principles in practical scenarios and make informed decisions based on data and analysis.",
+      "Problem-Solving Skills: Mathematics teaches learners how to analyze problems, break them down into manageable parts, and develop systematic approaches to find solutions. Problem-solving skills cultivated through Ordinary Mathematics are transferable to diverse situations.",
+      "Critical Thinking and Analytical Skills: Studying mathematics helps learners develop critical thinking skills, analytical reasoning, and the ability to evaluate information logically. These skills are valuable for addressing complex challenges and making sound decisions."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "2.1",
+      "topic_title": "COORDINATE GEOMETRY",
+      "page_number": 23,
+      "subtopics": [
+        "2.1.1 Cartesian Plane",
+        "2.1.2 Straight lines on the Cartesian Plane"
+      ],
+      "specific_outcomes": [
+        "2.1.1.1 Use the concept Cartesian Plane to solve problems in real life situations",
+        "2.1.2.1 Use straight lines to solve problems in real life"
+      ]
+    },
+    {
+      "unit": "2.2",
+      "topic_title": "RELATIONS AND FUNCTIONS",
+      "page_number": 24,
+      "subtopics": [
+        "2.2.1 Relations",
+        "2.2.2 Functions"
+      ],
+      "specific_outcomes": [
+        "2.2.1.1Apply relations to model and solve problems",
+        "2.2.2.1Apply functions to model and solve problems"
+      ]
+    },
+    {
+      "unit": "2.3",
+      "topic_title": "ALGEBRA",
+      "page_number": 25,
+      "subtopics": [
+        "2.3.1 Basic Processes of Algebra"
+      ],
+      "specific_outcomes": [
+        "2.3.1.1 Use algebraic expressions in problem solving"
+      ]
+    },
+    {
+      "unit": "2.4",
+      "topic_title": "POLYGONS",
+      "page_number": 26,
+      "subtopics": [
+        "2.4.1 Regular and Irregular Polygons"
+      ],
+      "specific_outcomes": [
+        "2.4.1.1 Create different objects using polygons"
+      ]
+    },
+    {
+      "unit": "2.5",
+      "topic_title": "SYSTEMS OF EQUATIONS",
+      "page_number": 26,
+      "subtopics": [
+        "2.5.1 Simultaneous Equations"
+      ],
+      "specific_outcomes": [
+        "2.5.1.1 Use simultaneous equations in real life situations."
+      ]
+    },
+    {
+      "unit": "2.6",
+      "topic_title": "TRAVEL GRAPHS",
+      "page_number": 26,
+      "subtopics": [
+        "2.6.1 Distance time Graphs",
+        "2.6.2 Velocity time Graphs"
+      ],
+      "specific_outcomes": [
+        "2.6.1.1 Apply distance time graphs in a variety of perspectives",
+        "2.6.2.1 Apply velocity time graphs in a variety of perspectives"
+      ]
+    },
+    {
+      "unit": "2.7",
+      "topic_title": "FINANCIAL ARITHMETIC",
+      "page_number": 27,
+      "subtopics": [
+        "2.7.1 Financial Interest",
+        "2.7.2 Investment"
+      ],
+      "specific_outcomes": [
+        "2.7.1.1 Apply the Financial Interest in everyday life",
+        "2.7.2.1 Apply the concept of Investment in everyday life"
+      ]
+    }
+  ]
+}

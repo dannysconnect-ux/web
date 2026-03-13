@@ -1,0 +1,718 @@
+{
+  "subject": "Physical Education and Sport",
+  "grade": "Form 1",
+  "term": 2,
+  "topics": [
+    {
+      "topic_id": "1.5",
+      "topic_title": "FITNESS ACTIVITIES",
+      "introduction": "Fitness goes beyond physical abilities like sit-ups or running. It's about the body's systems working efficiently to meet every day's demands and adapt to stress. Fitness connects closely to developing overall well-being. It includes physical, social, emotional, spiritual, and mental aspects that enable a learner to participate in various activities and sports effectively.",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.5.1",
+          "title": "Health-Related Components of Fitness",
+          "page": 2,
+          "competences": [
+            "1.5.1.1 Perform health related activities"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Learning Activity 1",
+              "page": 3,
+              "description": "Identifying health-related activities (Endurance, body composition, Flexibility, muscular strength…)",
+              "hook": "What role do you think fitness activities play in maintaining a healthy lifestyle and how can you incorporate Physical Education into your daily routine?",
+              "teacher_steps": [
+                "Guide learners to discuss health related fitness activities in groups",
+                "Consider the table of components and activities to help learners identify physical activities"
+              ],
+              "learner_steps": [
+                "In groups identify and discuss health related fitness activities"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Learning Activity 2",
+              "page": 4,
+              "description": "Discussing the benefits of health-related activities",
+              "teacher_steps": [
+                "Facilitate group discussions on benefits",
+                "Explain additional benefits for comprehension"
+              ],
+              "learner_steps": [
+                "In groups, discuss the benefits of health-related activities",
+                "Share findings with the class"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Learning Activity 3",
+              "page": 6,
+              "description": "Performing various health related activities",
+              "teacher_steps": [
+                "Demonstrate The Cooper 12-minute run test",
+                "Demonstrate Kasch-Boyer step test",
+                "Guide learners through flexibility tests",
+                "Allow learners to perform according to their abilities"
+              ],
+              "learner_steps": [
+                "Perform The Cooper 12-minute run test",
+                "Perform Kasch-Boyer step test",
+                "Perform Sit and Reach test",
+                "Perform Arm and Shoulder reach",
+                "Perform Trunk extension test"
+              ]
+            }
+          ],
+          "short_notes": "Health Related Fitness refer to the aspects of physical fitness that is directly related to an individual's overall health and well-being. An athlete should maintain good health to perform activities with ease and still have sufficient energy to handle forthcoming activities.\n\nComponents of Health-Related Fitness:\n\n1. Cardiovascular Endurance: The ability of the heart, lungs, and blood vessels to supply oxygen to the muscles during sustained physical activity. Activities: Walking, jogging, aerobics, sprint-jog-sprint, shuttle runs, swimming, cycling.\n\n2. Muscular Strength: The ability of muscles to generate force against resistance. Activities: Lifting, pushing, tag of war, arm curls.\n\n3. Muscular Endurance: The ability of muscles to sustain activity over time. Activities: Running, swimming, jogging, sit ups, pushups.\n\n4. Flexibility: The range of motion in joints and muscles. Activities: Sit and reach, back extension, body sideways.\n\n5. Body Composition: The proportion of body fat to lean body mass. Activities: Walking, running, jogging, cycling, skipping, sit ups.\n\nBenefits of Health-Related Activities:\n\nPhysical Health:\n- Improved Cardiovascular Health\n- Enhanced Strength and Endurance\n- Better Weight Management\n- Increased Flexibility and Balance\n- Boosted Immune System\n- Enhanced Bone and Joint Health\n- Higher Energy Levels\n\nMental and Emotional Benefits:\n- Reduced Stress and Anxiety\n- Improved Mood\n- Enhanced Cognitive Function\n- Better Sleep\n\nHealth Promotion:\n- Encourages a Healthy Lifestyle\n- Prevents Chronic Illnesses\n- Supports Community Health\n- Strengthens Mental Resilience\n- Boosts Productivity and Energy\n\nDisease Prevention:\n- Lower Risk of Chronic Illnesses\n- Strengthened Immune System\n- Healthy Weight Management\n- Improved Mental Health\n- Enhanced Bone and Joint Health\n- Prevention of Respiratory Problems",
+          "vocabulary": [
+            {
+              "term": "Aerobic exercise",
+              "definition": "Physical activity that raises the heart rate and improves cardiovascular health"
+            },
+            {
+              "term": "Body Composition",
+              "definition": "The proportion of body fat to lean body mass"
+            },
+            {
+              "term": "Cardiovascular Endurance",
+              "definition": "The ability of the heart, lungs, and blood vessels to supply oxygen to the muscles during prolonged physical activity"
+            },
+            {
+              "term": "Flexibility",
+              "definition": "The range of motion in joints and muscles"
+            },
+            {
+              "term": "Muscular Endurance",
+              "definition": "The ability of muscles to sustain activity over time"
+            },
+            {
+              "term": "Muscular Strength",
+              "definition": "The ability of muscles to exert force against resistance"
+            },
+            {
+              "term": "Fitness",
+              "definition": "The ability to perform physical activity with efficiency and effectiveness"
+            }
+          ],
+          "assessment": {
+            "page": 13,
+            "criteria": [
+              "Multiple-choice quizzes: Accuracy, time management, understanding of concepts",
+              "Short-answer questions: Relevance, completeness, accuracy",
+              "Essay questions: Content and relevance, organization, depth of analysis, examples and support, language and mechanics",
+              "Group project, Research and Field trip reports: Collaboration and contribution, creativity and initiative, presentation",
+              "Class participation and engagement (Debates): Preparation, active participation, critical thinking, communication skills, respect and collaboration",
+              "Practical: Skill execution, application of theory, safety and discipline, participation and effort, progress or improvement"
+            ],
+            "expected_standard": "Health related activities performed correctly"
+          }
+        },
+        {
+          "subtopic_id": "1.5.2",
+          "title": "Isotonic activities",
+          "page": 8,
+          "competences": [
+            "1.5.2.1 Demonstrate isotonic activities"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "discussion",
+              "activity_number": "Learning Activity 1",
+              "page": 9,
+              "description": "Describing the characteristics of isotonic activities",
+              "teacher_steps": [
+                "Guide learners to describe characteristics in groups"
+              ],
+              "learner_steps": [
+                "Describe the characteristics of isotonic activities (Muscle contraction, joint movement, constant tension, dynamic movement)"
+              ]
+            },
+            {
+              "type": "discussion",
+              "activity_number": "Learning Activity 2",
+              "page": 9,
+              "description": "Explaining the benefits of isotonic activities",
+              "teacher_steps": [
+                "Facilitate explanation of benefits",
+                "Provide additional benefits for comprehension"
+              ],
+              "learner_steps": [
+                "Explain the benefits of isotonic activities individually and in small groups"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Learning Activity 3",
+              "page": 10,
+              "description": "Performing various isotonic exercises",
+              "teacher_steps": [
+                "Demonstrate isotonic exercises",
+                "Allow learners to perform different isotonic exercises",
+                "Include other isotonic activities for learners to perform"
+              ],
+              "learner_steps": [
+                "Perform various isotonic exercises in smaller groups",
+                "Practice push-ups",
+                "Practice biceps/dumbbell/arm curls",
+                "Practice walking and climbing stairs"
+              ]
+            }
+          ],
+          "short_notes": "Isotonic activities are a type of exercise that involves muscle contractions and movements, where the muscle length and tension change simultaneously. In other words, isotonic activities require the muscles to contract and move the joints through a range of motion, while maintaining constant tension.\n\nCharacteristics of Isotonic Activities:\n\n1. Muscle Contraction: Isotonic activities involve the contraction of muscles, which generates force to move the joints.\n\n2. Movement: Isotonic activities require movement of the joints, which involves the lengthening and shortening of muscles.\n\n3. Constant Tension: Isotonic activities maintain constant tension in the muscles throughout the range of motion.\n\n4. Dynamic movement: Isotonic activities involve exercises that deal with active, controlled motion through a full range of joint movement with muscles contracting and lengthening against resistance.\n\nBenefits of Isotonic Activities:\n\n- Improved muscular strength and endurance: Isotonic exercises help build muscular strength and endurance by challenging muscles to work against resistance.\n\n- Improved joint mobility and flexibility: Isotonic exercises can help improve joint mobility and flexibility by increasing range of motion and reducing stiffness.\n\n- Improved Body Composition: Isotonic exercises can help reduce body fat percentage and increase lean muscle mass, leading to improved body composition.\n\n- Improved Mental Health and Mood: Isotonic exercises can release endorphins, also known as 'feel-good' hormones, which can help improve mental health and mood.\n\n- Better Sleep Quality: Regular isotonic exercise can help improve sleep quality and duration by reducing stress and anxiety.\n\nExamples of Isotonic Exercises:\n- Push-ups\n- Biceps/dumbbell/arm curls\n- Walking\n- Climbing stairs",
+          "vocabulary": [
+            {
+              "term": "Isotonic Contraction",
+              "definition": "occurs if a muscle changes length while generating force resulting in movement at a joint"
+            },
+            {
+              "term": "Concentric contraction",
+              "definition": "The muscle shortens as it contracts (e.g., lifting a weight)"
+            },
+            {
+              "term": "Eccentric contraction",
+              "definition": "The muscle lengthens as it contracts (e.g., lowering a weight)"
+            },
+            {
+              "term": "Dynamic Movement",
+              "definition": "Movement that involves the contraction and relaxation of muscles to move the joints"
+            },
+            {
+              "term": "Muscle Contraction",
+              "definition": "The process by which muscles generate force to move the joints"
+            }
+          ],
+          "assessment": {
+            "page": 13,
+            "expected_standard": "Isotonic activities performed correctly"
+          }
+        },
+        {
+          "subtopic_id": "1.5.3",
+          "title": "Isometric Activities",
+          "page": 10,
+          "competences": [
+            "1.5.3.1 Perform isometric activities"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "discussion",
+              "activity_number": "Learning Activity 1",
+              "page": 11,
+              "description": "Describing the characteristics of isometric activities",
+              "teacher_steps": [
+                "Guide learners to describe characteristics in pairs and as a class"
+              ],
+              "learner_steps": [
+                "Describe the characteristics of isometric activities in pairs and as a class (Muscle contraction, no joint movement, constant tension, static movement)"
+              ]
+            },
+            {
+              "type": "discussion",
+              "activity_number": "Learning Activity 2",
+              "page": 12,
+              "description": "Explaining the benefits of isometric activities",
+              "teacher_steps": [
+                "Facilitate group explanations",
+                "Provide detailed benefits for learner understanding"
+              ],
+              "learner_steps": [
+                "In groups explain the benefits of isometric activities (Injury rehabilitation, muscle endurance…)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Learning Activity 3",
+              "page": 12,
+              "description": "Performing various isometric activities",
+              "teacher_steps": [
+                "Demonstrate different isometric exercises",
+                "Allow learners to perform various exercises",
+                "Guide learners through wall sits, planks, glute bridges"
+              ],
+              "learner_steps": [
+                "Perform various isometric exercises during a practical lesson",
+                "Practice pushing the wall",
+                "Practice wall sit",
+                "Practice plank",
+                "Practice glute bridge",
+                "Practice crouch position"
+              ]
+            }
+          ],
+          "short_notes": "Isometric activities, also known as isometric exercises or isometrics, are a type of physical activity where the muscles contract and generate force without moving the joints. In other words, the muscle length and joint angle remain constant, while the muscle tension changes.\n\nCharacteristics of Isometric Activities:\n\n1. No Joint Movement: In isometric activities, the joints do not move or change position during the exercise. The joint angle remains constant, and there is no visible movement of the joint.\n\n2. Muscle Contraction: Isometric activities involve the contraction of muscles. The muscle fibers shorten and then maintain a constant length.\n\n3. Constant Muscle Length: During isometric activities, the muscle length remains constant. The muscles contract, but the length of the muscle does not change.\n\n4. Increased Muscle Tension: Isometric activities involve an increase in muscle tension. The muscles contract and generate force, which increases muscle tension.\n\n5. Static Contraction: Isometric activities involve static contractions, where the muscle contracts and then holds the contraction for a period.\n\nBenefits of Isometric Activities:\n\n- Increased Strength: Isometric exercises help build strength without moving your joints, which can be especially beneficial for people with joint problems or injuries.\n\n- Improved Muscle Endurance: Isometric activities enhance muscle endurance, allowing you to sustain contractions for longer periods.\n\n- Injury Rehabilitation: Isometric exercises are often used in physical therapy to help recover injuries, especially those affecting the joints.\n\nExamples of Isometric Exercises:\n- Pushing the wall\n- Wall Sit\n- Plank\n- Glute Bridge\n- Crouch position\n- Scrum",
+          "vocabulary": [
+            {
+              "term": "Isometric Contraction",
+              "definition": "occurs when a muscle generates force without changing its length resulting in no movement at a joint"
+            },
+            {
+              "term": "Static Contraction",
+              "definition": "where the muscle contracts and then holds the contraction for a period"
+            }
+          ],
+          "assessment": {
+            "page": 13,
+            "expected_standard": "Isometric activities performed correctly"
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "1.6",
+      "topic_title": "GYMNASTICS",
+      "introduction": "Gymnastics are sports involving the performance of exercises requiring strength, flexibility, balance, coordination, agility endurance and control. The activities form an important part in Physical Education and make a significant contribution to the set goals. Gymnastics involves systematic and rhythmic exercises on the floor (ground), bars and apparatus.",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.6.1",
+          "title": "Stunts and Tumbling activities",
+          "page": 16,
+          "competences": [
+            "1.6.1.1 Perform Tumbling and stunts activities"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "discussion",
+              "activity_number": "Learning Activity 1",
+              "page": 16,
+              "description": "Discussing the importance of gymnastics",
+              "teacher_steps": [
+                "Facilitate group discussions on importance of gymnastics",
+                "Guide learners to understand flexibility, endurance, agility benefits"
+              ],
+              "learner_steps": [
+                "In smaller groups discuss the importance of gymnastics"
+              ]
+            },
+            {
+              "type": "discussion",
+              "activity_number": "Learning Activity 2",
+              "page": 17,
+              "description": "Applying safety rules of gymnastic activities",
+              "teacher_steps": [
+                "Explain safety rules",
+                "Demonstrate proper warm-up and stretching",
+                "Show proper spotting techniques"
+              ],
+              "learner_steps": [
+                "Apply safety rules of gymnastic activities (Spotting, tuck-in your chin for all rolls, inspecting equipment, follow instructions…)"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Learning Activity 3",
+              "page": 18,
+              "description": "Performing tumbling and stunts activities",
+              "teacher_steps": [
+                "Demonstrate tumbling and stunts activities",
+                "Guide learners through forward rolls, backward rolls, cartwheels",
+                "Ensure safety during all activities"
+              ],
+              "learner_steps": [
+                "In smaller groups perform a variety of stunts and tumbling activities",
+                "Practice forward roll",
+                "Practice backward roll",
+                "Practice cartwheel",
+                "Practice bridge",
+                "Practice astride vault",
+                "Practice hand stand with support"
+              ]
+            }
+          ],
+          "short_notes": "Stunts and tumbling activities refer to the skills performed that often involve lifting or supporting another gymnast and acrobatic movements performed on the ground or a tumbling track respectively.\n\nImportance of Gymnastics:\n\nPhysical fitness: Gymnastics help improve overall physical fitness including strength, flexibility, coordination and endurance.\n\nBody awareness: Through tumbling, gymnasts develop a better understanding of their body's movements in space. This body awareness is important for carrying out difficult routines safely and effectively.\n\nBalance and control: Improves balance and control, which help prevent injuries and improve performance.\n\nBuilding strength: Stunts help develop arms and legs which are essential for overall gymnastics performance.\n\nEnhancing coordination: Performing stunts helps learners to coordinate their movements.\n\nEncouraging fun: Participating in stunts can make practice enjoyable, keeping learners motivated and excited about gymnastics.\n\nAgility: Gymnastics help to control body movement in space with speed and accuracy.\n\nFlexibility: Performing gymnastic activities will help an individual to execute skills more effectively and maintain proper form and body positioning.\n\nSafety Rules:\n\n1. Warm-up and stretching: Always start with a proper warm-up to prepare the body and prevent injuries.\n\n2. Use proper equipment: Ensure that all equipment is in good condition and suitable for the skill level of the gymnast.\n\n3. Know your limits: Gymnasts should only attempt skills they are trained for and comfortable with.\n\n4. Proper attire: Wear appropriate clothing that allows for movement and does not pose a risk of entanglement.\n\n5. Safe landing: Learn how to fall safely to minimize injury risk.\n\n6. Spotting: When learning new skills, a coach or partner should spot to provide support and reduce the risk of falls.\n\nExamples of Tumbling Activities:\n- Forward roll\n- Astride vault\n- Backward roll\n- Hand stand with support\n- Head stand\n\nExamples of Stunts Activities:\n- Forward roll\n- Backward roll\n- Cartwheel\n- Bridge\n- Angel rise\n- Shoulder-knee balance",
+          "vocabulary": [
+            {
+              "term": "Agility",
+              "definition": "Ability to move quickly and with accuracy"
+            },
+            {
+              "term": "Endurance",
+              "definition": "Ability to sustain prolonged physical activity or effort over an extended period of time"
+            },
+            {
+              "term": "Flexibility",
+              "definition": "Range of motion in a person's joints and muscles"
+            },
+            {
+              "term": "Gymnastics",
+              "definition": "Sports involving the performance of exercises requiring strength, flexibility, balance and control"
+            },
+            {
+              "term": "Roll",
+              "definition": "To move with repeated turning or rotating motion"
+            },
+            {
+              "term": "Spotting",
+              "definition": "Practice of assisting a gymnast during a skill or routine to ensure their safety"
+            },
+            {
+              "term": "Stunts",
+              "definition": "Skills or acrobatic routines that are performed on various apparatus"
+            },
+            {
+              "term": "Tumbling",
+              "definition": "Acrobatic movements performed on the ground or a tumbling track"
+            },
+            {
+              "term": "Vault",
+              "definition": "To leap or spring over something, especially by pushing on it with the hands or using a pole"
+            }
+          ],
+          "assessment": {
+            "page": 19,
+            "criteria": [
+              "Multiple-choice quizzes: Accuracy, time management, understanding of concepts",
+              "Short-answer questions: Relevance, completeness, accuracy",
+              "Essay questions: Content and relevance, organization, depth of analysis, examples and support, language and mechanics",
+              "Group project, Research and Field trip reports: Collaboration and contribution, creativity and initiative, presentation",
+              "Class participation and engagement: Preparation, active participation, critical thinking, communication skills, respect and collaboration",
+              "Practical: Skill execution, application of theory, safety and discipline, participation and effort, progress or improvement"
+            ],
+            "expected_standard": "Tumbling and stunts activities performed properly"
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "1.7",
+      "topic_title": "RECREATIONAL GAMES AND ACTIVITIES",
+      "introduction": "Recreational games are a structured form of play, usually undertaken for enjoyment, relaxation, and sometimes competition. They can be physical, mental, or a combination of both, and are always played according to specific rules. These activities play a vital role in promoting physical fitness, mental well-being, and social development.",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.7.1",
+          "title": "Aerobics",
+          "page": 22,
+          "competences": [
+            "1.7.1.1 Perform step and rhythmic patterns of aerobics"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "discussion",
+              "activity_number": "Learning Activity 1",
+              "page": 22,
+              "description": "Demonstrating step and rhythmic patterns of aerobics",
+              "teacher_steps": [
+                "Guide learners to explore various sources of rhythmic accompaniment",
+                "Explain characteristics of rhythmic background (Tempo, Beat, Meter)",
+                "Demonstrate rhythmic patterns"
+              ],
+              "learner_steps": [
+                "In groups, explore various sources of rhythmic accompaniment, their unique characteristics, and the features of rhythmic backgrounds",
+                "Perform various rhythmic patterns of aerobics while applying the three fundamentals of rhythm",
+                "Practice locomotor movements (walking, running, jumping, hopping, skipping, leaping)",
+                "Practice non-locomotor movements (bending, stretching, twisting, swaying, balancing)",
+                "Practice manipulative movements (throwing, catching, kicking, dribbling, striking)"
+              ]
+            }
+          ],
+          "short_notes": "Aerobic dances refer to rhythmic body movements with or without music following a certain rhythmic pattern. Aerobics can be non-locomotor or locomotor, and can be done individually, in pairs or in groups. They can be accompanied by music or routine counts and claps.\n\nSources of Rhythmic Accompaniment:\n- Dance drum\n- Record player\n- C.D. player\n- Cassette player\n- Piano\n- Tape recorder\n- Tambourine\n- Rhythm bands\n- Guitar\n- Clapping or stamping\n- Rattles\n\nCharacteristics of Rhythmic Background:\n\n1. Tempo: This is the speed of the music. It can be constant or show a gradual increase or decrease.\n\n2. Beat: This is the underlying rhythm of music. Sometimes it is referred to as the pulse of the music. Music with pronounced beat is easier to follow.\n\n3. Meter: This refers to the manner in which the beats are put together to form a measure of music. It is typically noted at the beginning of a piece with a time signature which consists of two numbers.\n\nTypes of Rhythmic Movements:\n\n1. Locomotor movements: These are rhythmic movements that enable an individual to move from one place to another. Examples include walking, running, jumping, hopping, skipping and leaping.\n\n2. Non-locomotor movements: These are rhythmic movements that are performed without changing location, only body parts are the ones that move. Examples include bending, stretching, twisting, swaying and balancing.\n\n3. Manipulative movements: These movements involve the control and movement of objects using the body or handling objects. Examples include actions like throwing, catching, kicking dribbling and striking.",
+          "vocabulary": [
+            {
+              "term": "Aerobics",
+              "definition": "Exercises that combine rhythmic activities with stretching and strength training routines"
+            },
+            {
+              "term": "Beat",
+              "definition": "Underlying rhythm of music"
+            },
+            {
+              "term": "Meter",
+              "definition": "Rhythmic structure of music"
+            },
+            {
+              "term": "Tempo",
+              "definition": "Speed pace at which a piece of music is played or performed"
+            },
+            {
+              "term": "Rhythm",
+              "definition": "pattern of sounds and silences in music or speech"
+            }
+          ],
+          "assessment": {
+            "page": 26,
+            "expected_standard": "Step and rhythmic patterns of aerobics performed accurately"
+          }
+        },
+        {
+          "subtopic_id": "1.7.2",
+          "title": "Traditional games",
+          "page": 24,
+          "competences": [
+            "1.7.2.1 Perform traditional games"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Learning Activity 1",
+              "page": 24,
+              "description": "Performing traditional games",
+              "teacher_steps": [
+                "Guide learners to research indigenous Zambian traditional games",
+                "Facilitate performance of various game categories"
+              ],
+              "learner_steps": [
+                "Research and perform the indigenous Zambian Traditional games that are practiced or played in their various communities",
+                "Perform chasing games (Chain tag game…)",
+                "Perform breakthrough games (Sheep-sheep come all…)",
+                "Perform rhythmic games (Musical Chairs…)",
+                "Perform knowledge testing games (Who Am I?...)",
+                "Perform manipulative and calculative games"
+              ]
+            },
+            {
+              "type": "discussion",
+              "activity_number": "Learning Activity 2",
+              "page": 25,
+              "description": "Highlighting the importance of Zambian Traditional Games",
+              "teacher_steps": [
+                "Facilitate group discussions on importance",
+                "Explain cultural, social, physical, mental, and emotional benefits"
+              ],
+              "learner_steps": [
+                "In smaller groups discuss the importance of Zambian Traditional Games"
+              ]
+            }
+          ],
+          "short_notes": "Traditional games are activities passed down through generations, associated with specific ethnic groups or societies. They often feature simple rules, require minimal equipment, and have unknown origins or discoverers.\n\nImportance of Zambian Traditional Games:\n\n1. Preservation of Cultural Heritage:\n- Traditional games are a way of passing down customs, values and stories from one generation to another\n- They reflect Zambia's rich ethnic diversity and promote pride in indigenous identities\n- They promote, preserve and maintain cultural values in society\n- They consolidate historical background of cultures\n- They provide and promote acceptance and appreciation of other cultures from different backgrounds and regions\n\n2. Social Development:\n- Most games are played in groups, promoting teamwork, cooperation, and communication\n- Learners acquire important social skills like turn-taking, fairness, leadership, and conflict resolution\n- They prevent anti-social behavior and vandalism\n- They are a source of enjoyment and fun\n- They act as an agent of socialization in the society\n- They build adolescence belief in their ability to influence or resist their peers\n\n3. Physical Development:\n- Traditional games involving running, jumping, chasing, or balancing help improve motor skills, physical fitness, and coordination\n- They encourage learners to stay active and healthy through play\n\n4. Mental and Cognitive Growth:\n- Traditional games stimulate critical thinking, problem-solving, memory and numeracy\n- Knowledge-based games enhance language development and creativity\n- They help promote self-esteem and confidence in oneself\n\n5. Emotional Well-being:\n- Participating in traditional games boosts confidence and self-esteem as learners learn to win and lose gracefully\n- Traditional games provide a healthy outlet for releasing energy and emotions, reducing stress and anxiety\n- They help to teach good attitudes to learners\n\n6. Education through Informal Learning:\n- Traditional games naturally integrate learning into play, making it easier for learners to grasp academic and life concepts\n- Concepts like counting, strategy, and rhythm are learned in a fun and engaging way\n- They act as informal education process\n\n7. Inclusion and Accessibility:\n- Traditional games require minimal or no equipment, making them accessible to learners in both urban and rural areas\n- They often encourage inclusivity, allowing learners of different ages and abilities to participate\n\n8. Community Bonding:\n- During festivals or communal gatherings, traditional games bring people together across generations, reinforcing a sense of belonging and unity\n- Traditional games help shape children into responsible and respectful adults by teaching important values such as honesty, patience, perseverance, discipline and respect for others",
+          "vocabulary": [
+            {
+              "term": "Culture",
+              "definition": "Shared beliefs, values, customs and behaviors of a group of people"
+            },
+            {
+              "term": "Game",
+              "definition": "Any activity or sport that involves structured play, often with rules and objectives"
+            },
+            {
+              "term": "Recreational",
+              "definition": "Activities that are done for enjoyment, relaxation and leisure"
+            },
+            {
+              "term": "Rules",
+              "definition": "Specific guidelines that dictate how a game is played"
+            }
+          ],
+          "assessment": {
+            "page": 26,
+            "expected_standard": "Zambian Traditional games performed correctly"
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "1.8",
+      "topic_title": "SWIMMING",
+      "introduction": "Swimming refers to the act of moving through water using coordinated movements of the arms and legs typically employing specific strokes. In modern times, swimming is widely recognized for its many benefits. It provides a full-body workout, improving cardiovascular endurance, muscle strength, flexibility and coordination.",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.8.1",
+          "title": "Water Safety",
+          "page": 29,
+          "competences": [
+            "1.8.1.1 Apply water safety practices"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Learning Activity 1",
+              "page": 29,
+              "description": "Creating simulated water safety scenario",
+              "teacher_steps": [
+                "Give roles to learners (Lifeguard, Swimmer in distress, Onlookers, Emergency responders)",
+                "Guide the scenario step-by-step",
+                "Pause at key moments to ask questions",
+                "Encourage reflection and improvement"
+              ],
+              "learner_steps": [
+                "Simulate a pool emergency scenario",
+                "Set up the scene with towels outlining a pool area",
+                "Take up assigned roles",
+                "Execute scenario: Lifeguard observes and responds, Swimmer acts distressed, Onlookers react, Emergency responders provide assistance",
+                "Demonstrate proper rescue techniques without entering water unnecessarily",
+                "Practice CPR if needed"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Learning Activity 2",
+              "page": 31,
+              "description": "Researching and presenting about different water safety topics",
+              "teacher_steps": [
+                "Assign topics to groups",
+                "Guide research on rip currents, pool safety, water-borne illnesses",
+                "Facilitate presentations"
+              ],
+              "learner_steps": [
+                "In small groups, conduct research on assigned water safety topics",
+                "Identify key facts, risks and prevention strategies",
+                "Create visual aids (Poster/slideshow)",
+                "Prepare and deliver brief presentations"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Learning Activity 3",
+              "page": 32,
+              "description": "Demonstrating water safety practices",
+              "teacher_steps": [
+                "Set-up depth quiz with colored markers",
+                "Guide audit of school swimming pool",
+                "Demonstrate life-saving skills",
+                "Practice CPR techniques"
+              ],
+              "learner_steps": [
+                "Practice depth of pool awareness",
+                "Match activities to correct zones (shallow/deep)",
+                "Conduct audit of school swimming pool facilities",
+                "Write report on safety improvements needed",
+                "Practice life-saving skills: Reach, Throw, Don't Go methods",
+                "Perform CPR practice on training models",
+                "Practice passive drowning response rescue"
+              ]
+            }
+          ],
+          "short_notes": "Water safety refers to the practices, precautions and awareness needed to prevent accidents, injuries or drowning in aquatic environments. Participating in water activities requires personal responsibility, respect for safety guidelines and an understanding of water conditions.\n\nKey Water Safety Topics:\n\n1. Rip Currents:\n- These are powerful, fast-moving channels of water that flow from the shore to deep water\n- They appear as darker, uneven water with a noticeable difference in wave pattern\n- They often pull swimmers away from the shore because they flow from the shore toward deeper water in a narrow fast-moving current\n\n2. Pool Safety:\n- Use pool covers when the pool is not in use to prevent accidental falls or drownings\n- Limit the use of alcohol or drugs while swimming\n- All individuals, especially children at an early age must learn to swim to increase safety in the water\n- Know how to administer Cardiopulmonary Resuscitation\n- Regularly keep the pool clean and well maintained to prevent accidents\n- Shallow and deep end safety must be marked clearly so as to prevent swimmers jumping or diving in shallow water\n\n3. Waterborne Illnesses:\n- These are diseases caused by harmful microorganisms (bacteria, viruses and parasites) found in contaminated water which can lead to Bilharzia, typhoid, dysentery, cholera…\n- These can occur when people swim, drink or come into contact with contaminated water, especially in pools, lakes, rivers or even oceans\n\nWater Safety Practices:\n\n1. Pool Depth Awareness:\n- Identify shallow and deep ends using tiles, signs or ropes\n- Practice entering feet first in shallow water and using ladders or steps\n- Test floating in different depths to understand how buoyancy varies\n\n2. Life-Saving Skills:\n- Rescue scenarios: Practice 'Reach, Throw, Don't Go' methods using poles, ropes or floatation devices\n- Cardio-Pulmonary Resuscitation (CPR) Practices: Perform chest compressions and rescue breathing\n- Passive drowning response: Role-play rescuing an unconscious swimmer, securing them face-up and towing them to safety",
+          "vocabulary": [
+            {
+              "term": "Aquatic",
+              "definition": "anything related to water"
+            },
+            {
+              "term": "Buoyancy",
+              "definition": "the force that allows objects to float in a liquid like water"
+            },
+            {
+              "term": "Cardiopulmonary Resuscitation (CPR)",
+              "definition": "A lifesaving technique to restore blood circulation and breathing in someone who has stopped breathing or whose heart has stopped"
+            },
+            {
+              "term": "Conscious",
+              "definition": "Being aware and able to think about one's surroundings, thoughts, and emotions"
+            },
+            {
+              "term": "Micro-organisms",
+              "definition": "Tiny living organisms often too small to be seen with the naked eye"
+            },
+            {
+              "term": "Rescuer",
+              "definition": "A person who saves someone from a dangerous or harmful situation"
+            },
+            {
+              "term": "Rip Currents",
+              "definition": "Powerful, fast-moving waves of water that flow from the shore to deeper waters"
+            },
+            {
+              "term": "Scenario",
+              "definition": "An imagined or planned situation that describes a particular setting"
+            },
+            {
+              "term": "Waterborne Illnesses",
+              "definition": "Diseases caused by harmful microorganisms in contaminated water"
+            }
+          ],
+          "assessment": {
+            "page": 34,
+            "expected_standard": "Water safety practices applied correctly"
+          }
+        },
+        {
+          "subtopic_id": "1.8.2",
+          "title": "Pool",
+          "page": 32,
+          "competences": [
+            "1.8.2.1 Practice pool hygiene"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Learning Activity 1",
+              "page": 33,
+              "description": "Practicing Pool Hygiene",
+              "teacher_steps": [
+                "Guide learners to identify good pool practices",
+                "Facilitate poster design highlighting key hygiene rules",
+                "Display posters as appropriate"
+              ],
+              "learner_steps": [
+                "In smaller groups identify good pool practices",
+                "Design posters highlighting key rules on pool hygiene",
+                "Display posters as guided by the teacher"
+              ]
+            },
+            {
+              "type": "discussion",
+              "activity_number": "Learning Activity 2",
+              "page": 33,
+              "description": "Debating Pool Hygiene Practices",
+              "teacher_steps": [
+                "Provide motions for debate",
+                "Guide learners with different motions to appreciate pool hygiene practices",
+                "Facilitate structured debate"
+              ],
+              "learner_steps": [
+                "Debate for or against motions concerning pool hygiene practices",
+                "Motion 1: Public swimming pools should implement mandatory hygiene checks before opening each day",
+                "Motion 2: Recreational floatation devices should be banned in public swimming pools to improve water hygiene",
+                "Motion 3: Learners should be required to wear approved swimming costumes in public pools"
+              ]
+            }
+          ],
+          "short_notes": "A pool is a specially built area filled with water where people swim, play or learn water skills. To keep the pool safe and enjoyable for everyone, pool hygiene and good practices are very important.\n\nGood Pool Practices:\n\n1. Never swim immediately after a heavy meal. Wait at least 30 minutes after a light meal, or more after a heavy meal.\n\n2. Always shower before swimming. For sanitary reasons it is very important for a person to take a shower before entering the pool. It is also advised to shower after swimming.\n\n3. Always put on the correct swimming costume.\n\n4. Water must always be kept clean by not spitting, urinating, or defecating in the water.\n\n5. Not to chew gum or anything while swimming.\n\n6. Not to eat or drink in the pool premises.\n\nPool Hygiene Importance:\n\nProper pool hygiene is essential for a healthy swimming environment. Maintaining good pool hygiene is a shared responsibility between pool owners and swimmers. Regular cleaning, chemical treatment and adhering to these practices help prevent the spread of waterborne diseases and ensure a safe and pleasant experience for all swimmers.",
+          "vocabulary": [
+            {
+              "term": "Swimming",
+              "definition": "Moving through water by using limbs or floating"
+            },
+            {
+              "term": "Submerging",
+              "definition": "Completely sinking something under the water's surface"
+            }
+          ],
+          "assessment": {
+            "page": 34,
+            "criteria": [
+              "Multiple-choice quizzes: Accuracy, time management, understanding of concepts",
+              "Short-answer questions: Relevance, completeness, accuracy",
+              "Essay questions: Content and relevance, organization, depth of analysis, examples and support, language and mechanics",
+              "Group project, Research and Field trip reports: Collaboration and contribution, creativity and initiative, presentation",
+              "Class participation and engagement (Debates): Preparation, active participation, critical thinking, communication skills, respect and collaboration",
+              "Practical: Skill execution, application of theory, safety and discipline, participation and effort, progress or improvement"
+            ],
+            "expected_standard": "Pool hygiene practices performed effectively"
+          }
+        }
+      ]
+    }
+  ],
+  "general_competences": [
+    "Communication",
+    "Critical thinking",
+    "Problem-solving",
+    "Emotional intelligence",
+    "Teamwork",
+    "Creativity and Innovation",
+    "Analytical thinking",
+    "Adaptability and Flexibility",
+    "Environmental Sustainability"
+  ],
+  "bibliography": [
+    "Bartlett R. (2007) Introduction to sports Biomechanics. New York: Routledge",
+    "Beashel P. Sibson A & Taylor J (1992) Sports Examined. London: Nelsons",
+    "Beashel P. and Taylor J. (Eds). (1996) Advanced Studies in Physical Education and Sport. London: Nelsons",
+    "Davis B. Roscoe J. & Bull Ros (2005) Physical Education and the Study of Sports. London: Elsevier Mosby",
+    "Honeybourne J. Hill M.and Moors H. (2000) Advanced Physical Education. London: Stanley Thornes (publishers) Ltd",
+    "Kakuwa M. (2005) Zambian Traditional Games and Activities. Oslo: Norway",
+    "Mauldon E. and Layson J. (1999) Teaching Gymnastics. New York: Longman",
+    "Robertson A. E (1994) An Introduction to Physical Education. London: Macmillan",
+    "Watson A.W.S. (1990) Physical Fitness and Athletic Performance. New York: Longman"
+  ],
+  "metadata": {
+    "module_type": "Teaching Module",
+    "developed_by": "Curriculum Development Centre",
+    "published_year": 2025,
+    "publisher": "Zambia Educational Publishing House (ZEPH)",
+    "isbn": "978-9982-54-066-7",
+    "total_pages": 48,
+    "document_version": "First Published 2025"
+  }
+}

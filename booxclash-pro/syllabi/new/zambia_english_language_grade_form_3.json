@@ -1,0 +1,398 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 3",
+    "subject": "English Language",
+    "philosophy": "Quality, life long education for all which is accessible, inclusive and relevant to individual, national and global needs. The English Language Syllabus for Ordinary Level (O-Level) Secondary School has been developed to meet the needs of learners in Form 1-4. It is designed to help them develop essential skills in listening, reading, speaking, writing, creating, and reflecting upon increasingly intricate spoken, written, and multimodal texts. The aim is to foster accuracy, fluency, and purpose in communication, aligning with the Competence-Based Curriculum of the 21st Century. Moreover, the syllabus endeavours to instil knowledge, skills, values, and positive attitudes, nurturing children to become productive and beneficial members of both their communities and Zambian society. This syllabus builds upon the foundation laid at Primary School, ensuring a seamless transition into O-Level Secondary Education. It is interconnected with the curriculum offered at lower levels, facilitating continuity and progression. The content outlined in this syllabus is tailored towards enhancing language skills for effective communication and learning across various subjects. The suggested learning activities are carefully designed to immerse learners in linguistic practice, fostering proficiency through consistent engagement.",
+    "competence_learning": "This Syllabus intends to develop the learners’ communicative competence in English Language including other skills of listening and speaking, reading and writing. Teachers are; therefore, encouraged to use methods that can improve the learners’ ability to use English Language accurately and appropriately. The methods should further foster the learners’ creativity, imagination, and problem solving thereby prepare them for real life situations, academic pursuits, and career opportunities.",
+    "goals": [
+      "Analytical Thinking",
+      "Citizenship",
+      "Collaboration",
+      "Communication",
+      "Creativity and innovation",
+      "Critical Thinking",
+      "Digital literacy",
+      "Emotional Intelligence",
+      "Entrepreneurship",
+      "Environmental Sustainability",
+      "Problem Solving"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "3.1.1",
+      "topic_title": "INFORMATION",
+      "page_number": 89,
+      "subtopics": [
+        "3.1.1.1. Verbal Reports",
+        "3.1.1.2. Oral Messages",
+        "3.1.1.3. Inquiry"
+      ],
+      "specific_outcomes": [
+        "Make verbal reports",
+        "Convey oral messages on given topics",
+        "Use appropriate language to make inquiries"
+      ]
+    },
+    {
+      "unit": "3.1.2",
+      "topic_title": "REGISTER",
+      "page_number": 90,
+      "subtopics": [
+        "3.1.2.1. Addressing People of Different classes"
+      ],
+      "specific_outcomes": [
+        "Use appropriate register for different classes of people"
+      ]
+    },
+    {
+      "unit": "3.1.3",
+      "topic_title": "BELIEFS AND OPINIONS",
+      "page_number": 90,
+      "subtopics": [
+        "3.1.3.1. Expressing Beliefs and Opinions"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to express beliefs and opinions"
+      ]
+    },
+    {
+      "unit": "3.1.4",
+      "topic_title": "OPTIONS",
+      "page_number": 91,
+      "subtopics": [
+        "3.1.4.1. Alternatives and Priorities"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to state alternatives and priorities"
+      ]
+    },
+    {
+      "unit": "3.1.5",
+      "topic_title": "INTERVIEWS",
+      "page_number": 91,
+      "subtopics": [
+        "3.1.5.1. Interview"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language for an interview"
+      ]
+    },
+    {
+      "unit": "3.1.6",
+      "topic_title": "RESPONSES",
+      "page_number": 92,
+      "subtopics": [
+        "3.1.6.1. Accepting an Offer or Invitation"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to accept an offer or invitation"
+      ]
+    },
+    {
+      "unit": "3.1.7",
+      "topic_title": "FIGURATIVE LANGUAGE",
+      "page_number": 92,
+      "subtopics": [
+        "3.1.7.1. Figures of Speech"
+      ],
+      "specific_outcomes": [
+        "Use figures of speech in discourse"
+      ]
+    },
+    {
+      "unit": "3.2.1",
+      "topic_title": "COMPREHENSION",
+      "page_number": 93,
+      "subtopics": [
+        "3.2.1.1. Listening Comprehension",
+        "3.2.1.2. Efficient Reading",
+        "3.2.1.3. Intensive Reading",
+        "3.2.1.4. Extensive Reading"
+      ],
+      "specific_outcomes": [
+        "Comprehend spoken Language",
+        "Read texts with understanding",
+        "Read texts with comprehension",
+        "Read wide range of fiction and non-fiction texts"
+      ]
+    },
+    {
+      "unit": "3.3.1",
+      "topic_title": "NARRATIVES",
+      "page_number": 96,
+      "subtopics": [
+        "3.3.1.1. Narrative Writing"
+      ],
+      "specific_outcomes": [
+        "Compose Stories"
+      ]
+    },
+    {
+      "unit": "3.3.2",
+      "topic_title": "DESCRIPTIVE WRITING",
+      "page_number": 97,
+      "subtopics": [
+        "3.3.2.1. Describing Events"
+      ],
+      "specific_outcomes": [
+        "Describe events"
+      ]
+    },
+    {
+      "unit": "3.3.3",
+      "topic_title": "ARTICLE WRITING",
+      "page_number": 97,
+      "subtopics": [
+        "3.3.3.1. News Article",
+        "3.3.3.2. Feature Article"
+      ],
+      "specific_outcomes": [
+        "Write a news article",
+        "Write a feature article"
+      ]
+    },
+    {
+      "unit": "3.3.4",
+      "topic_title": "REPORT WRITING",
+      "page_number": 98,
+      "subtopics": [
+        "3.3.4.1. Detailed or Major Reports"
+      ],
+      "specific_outcomes": [
+        "Write detailed or major reports"
+      ]
+    },
+    {
+      "unit": "3.3.5",
+      "topic_title": "SPEECH WRITING",
+      "page_number": 99,
+      "subtopics": [
+        "3.3.5.1. Main Speech (Keynote)"
+      ],
+      "specific_outcomes": [
+        "Compose a main speech"
+      ]
+    },
+    {
+      "unit": "3.3.6",
+      "topic_title": "MINUTES WRITING",
+      "page_number": 100,
+      "subtopics": [
+        "3.3.6.1. Introduction to Writing Minutes"
+      ],
+      "specific_outcomes": [
+        "Write minutes"
+      ]
+    },
+    {
+      "unit": "3.3.7",
+      "topic_title": "BIOGRAPHY",
+      "page_number": 100,
+      "subtopics": [
+        "3.3.7.1. Auto-biography",
+        "3.3.7.2. Biography"
+      ],
+      "specific_outcomes": [
+        "Write an auto-biography",
+        "Compose a biography"
+      ]
+    },
+    {
+      "unit": "3.3.8",
+      "topic_title": "PROFILE",
+      "page_number": 101,
+      "subtopics": [
+        "3.3.8.1. Professional Profile"
+      ],
+      "specific_outcomes": [
+        "Compose a professional profile"
+      ]
+    },
+    {
+      "unit": "3.3.9",
+      "topic_title": "EXPOSITORY WRITING",
+      "page_number": 102,
+      "subtopics": [
+        "3.3.9.1. Expository Writing"
+      ],
+      "specific_outcomes": [
+        "Write an expository composition"
+      ]
+    },
+    {
+      "unit": "3.3.10",
+      "topic_title": "ARGUMENTATIVE",
+      "page_number": 103,
+      "subtopics": [
+        "3.3.10.1. Argumentative Writing",
+        "3.3.10.2. Discursive Composition"
+      ],
+      "specific_outcomes": [
+        "Write argumentative compositions",
+        "Write a discursive composition"
+      ]
+    },
+    {
+      "unit": "3.3.11",
+      "topic_title": "LETTER WRITING",
+      "page_number": 104,
+      "subtopics": [
+        "3.3.11.1. Formal Letter"
+      ],
+      "specific_outcomes": [
+        "Write Formal Letters"
+      ]
+    },
+    {
+      "unit": "3.4.1",
+      "topic_title": "ADVERBS",
+      "page_number": 105,
+      "subtopics": [
+        "3.4.1.1. Viewpoint Adverbs (Disjuncts)",
+        "3.4.1.2. Linking Adverbs"
+      ],
+      "specific_outcomes": [
+        "Use of viewpoint adverbs in sentences",
+        "Use linking adverbs in sentences"
+      ]
+    },
+    {
+      "unit": "3.4.2",
+      "topic_title": "RELATIVE CLAUSES",
+      "page_number": 105,
+      "subtopics": [
+        "3.4.2.1. Adverbs as Relatives",
+        "3.4.2.2. Using ‘who’ or ‘that’ with Subjects that are People",
+        "3.4.2.3. Using ‘which’ or ‘that’ with Subjects that are Things",
+        "3.4.2.4. Using ‘whom’ ‘who’ or ‘nothing’ with Subjects that are People",
+        "3.4.2.5. Preposition + Relative Pronoun with Objects that are People"
+      ],
+      "specific_outcomes": [
+        "Use adverbs as relative pronouns",
+        "Use relative pronouns with subjects that are people in sentences",
+        "Use relative pronouns with subjects that are things in sentences",
+        "Use relative pronouns with subjects that are people in sentences",
+        "Use preposition + relative pronoun with objects that are people in sentences"
+      ]
+    },
+    {
+      "unit": "3.4.3",
+      "topic_title": "CONDITION",
+      "page_number": 107,
+      "subtopics": [
+        "3.4.3.1. Likely/Probable Conditional Sentences",
+        "3.4.3.2. Unlikely/Improbable Conditional Sentences",
+        "3.4.3.3. Impossible Conditional Sentences",
+        "3.4.3.4. ‘Even if’ Condition"
+      ],
+      "specific_outcomes": [
+        "Compose likely/ probable conditional sentences",
+        "Compose unlikely/ improbable conditional sentences",
+        "Compose impossible conditional sentences",
+        "Use ‘even if’ to indicate condition and"
+      ]
+    },
+    {
+      "unit": "3.4.4",
+      "topic_title": "DIRECT AND INDIRECT SPEECH",
+      "page_number": 109,
+      "subtopics": [
+        "3.4.4.1. Direct Speech",
+        "3.4.4.2. Indirect (Reported) Speech"
+      ],
+      "specific_outcomes": [
+        "Use direct speech in sentences",
+        "Change Direct Speech to Indirect (Reported) Speech"
+      ]
+    },
+    {
+      "unit": "3.4.5",
+      "topic_title": "SUBJECT-VERB AGREEMENT",
+      "page_number": 110,
+      "subtopics": [
+        "3.4.5.1. Indefinite Pronouns Subject-Verb Agreement",
+        "3.4.5.2. Compound Subject-Verb Agreement",
+        "3.4.5.3. Complex Subject-Verb Agreement (with multiple nouns or phrases)",
+        "3.4.5.4. Subject-Verb Agreement with Correlative Conjunctions"
+      ],
+      "specific_outcomes": [
+        "Use indefinite pronouns in subject-verb agreement",
+        "Compose sentences using compound subject-verb agreement",
+        "Construct sentences using complex subject-verb agreement",
+        "Use subject verb agreement with correlative conjunctions"
+      ]
+    },
+    {
+      "unit": "3.4.6",
+      "topic_title": "PHRASAL VERBS",
+      "page_number": 112,
+      "subtopics": [
+        "3.4.6.1. Verb + Preposition",
+        "3.4.6.2. Verb + Adverb Particle"
+      ],
+      "specific_outcomes": [
+        "Use phrasal verbs in sentences",
+        "Use phrasal verbs in sentences"
+      ]
+    },
+    {
+      "unit": "3.4.7",
+      "topic_title": "COMPARISON",
+      "page_number": 113,
+      "subtopics": [
+        "3.4.7.1. Comparatives",
+        "3.4.7.2. Superlatives"
+      ],
+      "specific_outcomes": [
+        "Use comparatives to construct sentences",
+        "Use superlatives to construct sentences"
+      ]
+    },
+    {
+      "unit": "3.5.1",
+      "topic_title": "VERBAL SUMMARY",
+      "page_number": 115,
+      "subtopics": [
+        "3.5.1.1. Short Texts and Conversations"
+      ],
+      "specific_outcomes": [
+        "Summarise short texts and conversations"
+      ]
+    },
+    {
+      "unit": "3.5.2",
+      "topic_title": "TABULATION",
+      "page_number": 115,
+      "subtopics": [
+        "3.5.2.1. Tabulation Skills"
+      ],
+      "specific_outcomes": [
+        "Apply tabulation skills to summarise information"
+      ]
+    },
+    {
+      "unit": "3.5.3",
+      "topic_title": "NOTE SUMMARY",
+      "page_number": 115,
+      "subtopics": [
+        "3.5.3.1. Note Making"
+      ],
+      "specific_outcomes": [
+        "Make notes from given texts"
+      ]
+    },
+    {
+      "unit": "3.5.4",
+      "topic_title": "PROSE SUMMARY",
+      "page_number": 116,
+      "subtopics": [
+        "3.5.4.1. Writing Prose Summaries"
+      ],
+      "specific_outcomes": [
+        "Write Prose Summaries"
+      ]
+    }
+  ]
+}

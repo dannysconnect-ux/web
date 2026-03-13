@@ -1,0 +1,1495 @@
+{
+    "subject": "Luvale",
+    "grade": "ECE Level 1 (Ages 3-4)",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "MAJINA (Names)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Lijina lyamuthu ivene (One's own name)",
+                    "page": 10,
+                    "competences": [
+                        "Kulivuluka majina avo vavene (To say their own names)",
+                        "Kwitava kumajina avo mukwoloka (To introduce themselves by name correctly)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 11,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lweza valongi vetave kumajina avo kuhichila mukwolola mavoko, kwitava ngwavo yami uno, kusakwilila, kulondezeza usocha kufuma hachihela chimwe nakuya hachihela chikwavo nge vanavasanyika",
+                                "Sanyika majina avalongi kukavangiza ndondelo chipwe chiku"
+                            ],
+                            "learner_steps": [
+                                "Vatwame chipwe vemane mumujingulule, valikungulwile hamwe chipwe mumukana",
+                                "Kutumbuka",
+                                "Kumbata chuma (ngunja) nakuchihaka mumwe (chimbokishi)",
+                                "Kulamika muvwimbimbi halivaya",
+                                "Kusakwilila",
+                                "Kwitava nakuhanjika ngwenyi, (yami uno, mwane, nguneza)",
+                                "Valisanyike majina nakulitaviza mwavo mwavo"
+                            ],
+                            "short_notes": "This activity helps learners identify and say their own names as they are called in class. Learners practice introducing themselves through various activities including jumping, passing objects, singing, greeting, and saying their names."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "B",
+                            "page": 11,
+                            "hook": "Lijina lyove yove hiya? (What is your name?)",
+                            "teacher_steps": [
+                                "Hana chitalilo kuzachisa vihula nakumbulwilo yacho: Lijina lyove yove hiya?.... Lijina lyami yami Chilombo. Yove hiya? ……Yami Chilombo. Vakuvuluka ngwavo yovehiya? Vanguvuluka ngwavo Chilombo",
+                                "Linga ngocho navalongi vamwe. Kaha nawa, zachisa myaso mangana uzamikise kunangakana chavo",
+                                "Lweza valongi vakuhule vihula kaha yove nawa kumbulula mwakwoloka"
+                            ],
+                            "learner_steps": [
+                                "Vavali-vavali nge omu mwavalweza mulongeshi chipwe vavene navalihwojola nakulikumbulula vihula vyakufwanange",
+                                "Lijina lyove yove hiya?.... Lijina lyami yami Chilombo",
+                                "Yoveya? …………… Yami Chilombo",
+                                "Vakuvuluka ngwavo yoveya?...... Vanguvuluka ngwavo Chilombo",
+                                "Valivuluke majina mu jijila jakulisezaseza: Kulamika tuthachikijilo twamajina avo halivaya"
+                            ],
+                            "short_notes": "Learners practice saying their names through questions and answers in pairs. They learn to ask 'What is your name?' and respond appropriately, reinforcing name recognition through repetition and song."
+                        }
+                    ],
+                    "short_notes": "This sub-topic focuses on helping learners identify and correctly say their own names through introduction activities. The activities emphasize oral language development, social interaction, and building confidence in self-identification.",
+                    "vocabulary": [
+                        {
+                            "term": "Lijina",
+                            "definition": "Name"
+                        },
+                        {
+                            "term": "Kusakwilila",
+                            "definition": "To greet"
+                        },
+                        {
+                            "term": "Kwitava",
+                            "definition": "To introduce oneself"
+                        },
+                        {
+                            "term": "Kutumbuka",
+                            "definition": "To jump"
+                        },
+                        {
+                            "term": "Kulamika",
+                            "definition": "To sing"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 12,
+                        "questions": [
+                            "Can learners introduce themselves correctly by name?",
+                            "Can learners say their own names clearly?",
+                            "Can learners stand in a circle or line as instructed?",
+                            "Can learners introduce themselves using various methods: jumping, passing objects, singing, greeting?",
+                            "Can learners ask and answer 'What is your name?' correctly in pairs?",
+                            "Can learners say their names in various ways including singing?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Shimbu kanda kutanga - Kukwata mukanda mukwoloka (Pre-reading - Holding books correctly)",
+                    "page": 13,
+                    "competences": [
+                        "Kuthachikiza mwakukwachila mukanda (Demonstrate how to hold a book)",
+                        "Kukwata mukanda mukwoloka (Hold a book correctly)",
+                        "Kutumbika mukanda mukwoloka (Open a book correctly)",
+                        "Kufukununa mapepa mukwoloka (Turn pages correctly)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Longesa mikanda yayivulu ize muzachisa navalongi yakufwana nge: Mikanda yamivwimbimbi yatunyama, vathu, vyuma vyamuzuvo na mitondo",
+                                "Pangila mikanda kuli valongi",
+                                "Haka mangana kuli vino hakukwata mukanda: Mukuchikulula, Muuhengelo, Mukufulumika",
+                                "Tala valongi muka vanakwate mukanda mukwoloka",
+                                "Hulisa valongi nge vanakwate mikanda mujila yakwoloka tahi chiku kaha mwomwo ika? Nge kavakwachile kanawako kaha valumbunwine",
+                                "Mivwimbimbi yatela kupwa yakwimika kechi yakuchikululako"
+                            ],
+                            "learner_steps": [
+                                "Vakwate mukanda wakufwika chipwe wakufukununa oku vanatwame ha chisalo: Mahinji vanatandavala, Mahinji vanakoneka kunyima, Mahinji analisalika kulutwe",
+                                "Vakwate mukanda wakufwika chipwe wakufukununa oku vanatwame ha ndesiki: Hakuhaka minguza, Muwatela kupwa mahinji, Muwatela kutwama mukanda ha ndesiki",
+                                "Vakwate mukanda wakufwika chipwe wakufukununa oku vanatwame ha chitwamo cha likumbu: Hakuhaka minguza, Mwakukwachila mukanda",
+                                "Vakwate mukanda wakufwika chipwe wakufukununa oku vanemana: Mwakukwachila mukanda",
+                                "Kumbata mukanda wakufukununa (nalivoko limwe chipwe avali), wakufwika (haseteko ya mbunda, haseteko ya thulo)"
+                            ],
+                            "short_notes": "This activity teaches learners the correct way to hold books in different positions (sitting at desk, sitting at table, sitting on chair, standing) and whether the book is open or closed. Proper book handling is foundational for developing reading readiness."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "B",
+                            "page": 14,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Hana chitalilo kuli valongi mwakukwachila mukanda mukwoloka uli: Hamesa chipwe handesiki, Hamahinji, Mumavoko"
+                            ],
+                            "learner_steps": [
+                                "Vatumbike mukanda mukwoloka kwanuka jijila jamwakukwachila mukanda valinangulanga lyehi"
+                            ],
+                            "short_notes": "Learners practice opening books correctly based on how they are holding them, reinforcing proper book handling techniques."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "C",
+                            "page": 14,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Pangila mikanda kuli valongi",
+                                "Lweza valongi vafukunune mukanda lipepa limwe limwe swi nakusongo mumeso akuunda",
+                                "Tala valongi vali nakufukununa mapepa mujijila yakuluwa",
+                                "Lumbunwina valongi jijila jakwoloka jakufukunwinamo mapepa: Kufuma kuchilyo nakutwala kuchimoswe, Lipepa limwe limwe halwola, Kufuma kwilu yamumbango yakuchilyo, Kufuma kwishi yambango yakuchilyo, Kanda kuzachisa maleji hakufukununa mapepa"
+                            ],
+                            "learner_steps": [
+                                "Vafukunune mapepa mujila yakwoloka",
+                                "Valumbunune vili mumukanda kuhichila mu: Kukwata mukanda mukwoloka, Kutumbika mukanda mujila yakwoloka, Kufukununa mapepa amukanda mukwoloka",
+                                "Kavatela kuzachisa maleji hakufukununa mapepako"
+                            ],
+                            "short_notes": "This activity focuses on teaching learners the correct way to turn book pages - one at a time, from right to left, without using saliva or crumpling pages. Proper page turning is essential for book care and reading development."
+                        }
+                    ],
+                    "short_notes": "This pre-reading section teaches foundational book handling skills including how to hold books correctly in various positions and how to turn pages properly. These skills prepare learners for future reading activities.",
+                    "vocabulary": [
+                        {
+                            "term": "Mukanda",
+                            "definition": "Book"
+                        },
+                        {
+                            "term": "Lipepa",
+                            "definition": "Page"
+                        },
+                        {
+                            "term": "Kutumbika",
+                            "definition": "To open"
+                        },
+                        {
+                            "term": "Kufukununa",
+                            "definition": "To turn/flip"
+                        },
+                        {
+                            "term": "Chisalo",
+                            "definition": "Desk"
+                        },
+                        {
+                            "term": "Ndesiki",
+                            "definition": "Table"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 15,
+                        "questions": [
+                            "Can learners hold a book correctly while sitting at a desk (feet flat, behind, or to side)?",
+                            "Can learners hold a book correctly while sitting at a table (without resting elbows)?",
+                            "Can learners hold a book correctly while sitting on a chair?",
+                            "Can learners hold a book correctly while standing?",
+                            "Can learners hold an open book with one or both hands?",
+                            "Can learners hold a closed book at waist or chest level?",
+                            "Can learners open a book correctly based on how they are holding it?",
+                            "Can learners turn pages correctly (one at a time, right to left)?",
+                            "Do learners avoid using saliva when turning pages?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "Shimbu kanda kusoneka - Twamiso (Pre-writing - Posture)",
+                    "page": 16,
+                    "competences": [
+                        "Kutwama mwakwoloka (To sit correctly)",
+                        "Kulilongesa twamiso yambwende (To demonstrate good posture)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lweza valongi vatwame mutwamiso oyo vathachikiza",
+                                "Talishisa nakumona jitwamiso valongi nava twama",
+                                "Hana chitalilo nakulumbununa twamiso yambwende: Vatela voloke, Mavoko apwenga hamesa chipwe handesiki, Vipundo vilyate hamavu oku vinoloka"
+                            ],
+                            "learner_steps": [
+                                "Vatwame mutwamiso oyo vathachikiza",
+                                "Vasolole jitwamiso jakulisezaseza",
+                                "Vatale twamiso mwavalweza mulongeshi yambwende: Vatela voloke, Mavoko apwenga hamesa chipwe handesiki, Vipundo vilyate hamavu oku vinoloka",
+                                "Vahakeko kutwama cha ndumba nanjamba, chamwaza nechi chachipi"
+                            ],
+                            "short_notes": "This activity teaches learners proper sitting posture for writing - sitting upright with arms on the table and feet on the ground. Good posture is essential for developing writing skills and preventing fatigue."
+                        }
+                    ],
+                    "short_notes": "This pre-writing section focuses on teaching correct sitting posture in preparation for writing activities. Proper posture supports better concentration and writing development.",
+                    "vocabulary": [
+                        {
+                            "term": "Twamiso",
+                            "definition": "Posture/sitting position"
+                        },
+                        {
+                            "term": "Kuvoloka",
+                            "definition": "To sit upright"
+                        },
+                        {
+                            "term": "Vipundo",
+                            "definition": "Knees"
+                        },
+                        {
+                            "term": "Mavoko",
+                            "definition": "Arms/hands"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 17,
+                        "questions": [
+                            "Can learners sit in correct posture (upright, arms resting on table, knees bent with feet on ground)?",
+                            "Can learners practice sitting both tall and short, wide and narrow while maintaining good posture?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.4",
+                    "title": "Masepa (Places)",
+                    "page": 18,
+                    "competences": [
+                        "Kuvuluka majina amasepa javo (To say the names of their places)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 19,
+                            "hook": "Achi twame ushinganyeke nge muwana muthu nakolo najivwi kumutwe thoo. Atwama kaha ukhawenyi, atambukaukhawenyi, vyuma vyosena alinga ukhawenyi, Alihanjikisa ukhawenyi. Kaha mushinganyeka ngwove ika?",
+                            "teacher_steps": [
+                                "Hana chitalilo kuzachisa vihula nakumbulwilo: Sepalyove lijina lyenyi ikhiye hiya?...sepalyami lijina lyenyi ikhiye Mafwo. Sepalyove ikhiye hiya? … ikhiyeMafwo",
+                                "Lweza valongi valihule vihula khana venevi vavali vavali. Valongi nawa vahulisemulongeshi, kaha yove mulongeshi ukumbululemukwoloka",
+                                "Lumbunwina valongi jijila jikwavo jakukumbulwilamojakufwana nge eji: Kulamika tuthachikijilo twamasepa javo halivaya, Kukwata mukwavo longi kulivoko nakumuvuluka lijina, Kumeneka mukwavo longi halijina lyenyi",
+                                "Linga ngocho navalongi vamwe. kahanawa, Zachisa myaso mangana uzamikise kunangakana chavalongi"
+                            ],
+                            "learner_steps": [
+                                "Vatela kulingamo mwavomwavo jino - Vavalivavali: Sepalyove lijina lyenyi ikhiye hiya?...sepalyami lijina lyenyi ikhiye Mafwo. Sepalyove ikhiye hiya? … ikhiye mafwo",
+                                "Azanga ulombo muka, chihemo muka, kulya muka navyuma vikwavo nawa kwesekesa navavene valongi",
+                                "Hiya sepa lyove ku: kushikola, kwimbo, kuchechi",
+                                "Kulamika tuthachikijilo twamasepa javo halivaya",
+                                "Kukwata mukwavo longi kulivoko nakumuvulukalijina. Kumeneka mukwavo longi halijina lyenyi"
+                            ],
+                            "short_notes": "This activity teaches learners to identify and say the names of places they go to, such as school, home, and church. It develops vocabulary related to familiar places in their community."
+                        }
+                    ],
+                    "short_notes": "This sub-topic helps learners learn the names of familiar places like school, home, and church, building their environmental awareness and vocabulary.",
+                    "vocabulary": [
+                        {
+                            "term": "Sepa",
+                            "definition": "Place"
+                        },
+                        {
+                            "term": "Shikola",
+                            "definition": "School"
+                        },
+                        {
+                            "term": "Kwimbo",
+                            "definition": "Home"
+                        },
+                        {
+                            "term": "Chechi",
+                            "definition": "Church"
+                        },
+                        {
+                            "term": "Ulombo",
+                            "definition": "Prayer/worship"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 20,
+                        "questions": [
+                            "Can learners say the names of their places correctly when asking the teacher or another learner?",
+                            "Can learners answer correctly: 'What is the name of your place? My place is called...'?",
+                            "Can learners identify places they go: to church, to programs, to eat, etc.?",
+                            "Can learners identify their place as: school, home, church?",
+                            "Can learners sing about the names of their places?",
+                            "Can learners hold another learner's hand and say their place name?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.5",
+                    "title": "Shimbu kanda kutanga - Kwivwilila kumijimbu yayashi (Pre-reading - Listening to short stories)",
+                    "page": 21,
+                    "competences": [
+                        "Kwivwilila kumijimbu yayashi nakukumbulula vihula (To listen to short stories and answer questions)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 22,
+                            "hook": "Achishinganyeke nge muwana muthu wamukulwane nambate chisaji chenyi chamijimbu. ana kwivwilila kumijimbu oku alimulizavu lyavathu vanakuneha vyema. kaha kumuhula ngwavo ambulula ovyo unakwivwilila mwavyambulula? Phimbi, mwomwo ali muvyema",
+                            "teacher_steps": [
+                                "Watela kupwa namikanda yakulisezaseza ili namivwimbimbi yavathu, tunyama, mitondo navyuma vyakulisezaseza",
+                                "Sakulaho umwe owo mutangila valongi, kaha lweza valongi vashimutwile hamivwimbimbi ili hamukanda khana",
+                                "Hakamangana kuli evi navashimutwila valongi: Hali muthu, Hali mutondo, Halikawa, navikwavo",
+                                "Hula valongi vakulweze vyuma vanashinganyeka vili mumukanda",
+                                "Hakako lushimbi ngwove: Twivwililenu kumujimbu uli muno mumukanda. Tulihulikenu kulu mwomwo nakupwa vihula hanyima chipwe omu natutanganga uno mujimbu",
+                                "Tangila mujimbu valongi",
+                                "Mwimikila imikila mangana umone nge vanakwivwilila",
+                                "Hula vihulula vyakufwana nge: Mwashinganyeka ngwenu vyumamuka navikavaho? Kahamwalinga ngachili? Mutwe muka wachihande vanatuhane?"
+                            ],
+                            "learner_steps": [
+                                "Kwivwilila kumujimbu oku vanatwame hachisalo: Okuvanatono, Oku vanafwiki hameso, Oku vana savala chakupulumana, Oku vanemana mumujingulule",
+                                "Kukumbulula vihula",
+                                "Vatela kukumbulula vihula oku: Vanatono, vanafwiki hameso, vana savala chakupulumana, vanemana mumujingulule",
+                                "Mumazavu amandende vatela kulilweza mijimbu yayihi nakulihula vihula"
+                            ],
+                            "short_notes": "This activity develops listening skills by having learners listen to short stories and answer comprehension questions in various seating arrangements. It builds foundational literacy skills."
+                        }
+                    ],
+                    "short_notes": "This pre-reading section focuses on developing listening comprehension skills through storytelling, which is essential for literacy development.",
+                    "vocabulary": [
+                        {
+                            "term": "Mujimbu",
+                            "definition": "Story"
+                        },
+                        {
+                            "term": "Kwivwilila",
+                            "definition": "To listen"
+                        },
+                        {
+                            "term": "Kutona",
+                            "definition": "To be close"
+                        },
+                        {
+                            "term": "Kupulumana",
+                            "definition": "To separate/be apart"
+                        },
+                        {
+                            "term": "Chisalo",
+                            "definition": "Desk"
+                        },
+                        {
+                            "term": "Muvwimbimbi",
+                            "definition": "Picture"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 23,
+                        "questions": [
+                            "Can learners listen to stories while sitting at desk in various positions (close, facing forward, apart, in circle)?",
+                            "Can learners answer questions about the story they heard?",
+                            "Can learners maintain attention during storytelling?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.6",
+                    "title": "Shimbu kanda kusoneka - Kuvwovuwisa minwe (Pre-writing - Finger exercises)",
+                    "page": 24,
+                    "competences": [
+                        "Kuhema chipwe kulinga milimo yakuvwovuwisa minwe (To do or perform finger strengthening exercises)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 25,
+                            "hook": "Nge wapwanga nakutambuka kaha muwana mukweze walunga, navwale kahanawa nakavwanda zululu. Mumumona natwame hamesa namapepa amwaza alinakusoneka. Omu muheta mwakamwihi, mumuwana nakwate sonekeso yenyi naminwe yosena itanu. Kaha mushinganyeka ngwove ika? Minwe yenyi kayechi yayivwovuko",
+                            "teacher_steps": [
+                                "Kungulula unonga uze navahemesa valongi",
+                                "Hana valongi unonga vaumbe chose nocho nava sak a",
+                                "Talishisa umone vyuma muka valinakuumba kaha valweze jino vaumbe vyakufwana nge: Jishepu (tilayango, seko, sikweya, lekitango), tunyama (vahembo, vamumusenge), vyuma vyakulisezaseza (kapu, lilonga, ndeho, sipuni)"
+                            ],
+                            "learner_steps": [
+                                "Vatela kuhema naunonga mujijila jajivulu jakufwana nge kuumba: jishepu (tilayango, seko,sikweya, lekitango), tunyama (vahembo, vamumusenge), vyuma vyakulisezaseza (kapu, lilonga, ndeho, sipuni)"
+                            ],
+                            "short_notes": "This activity strengthens finger muscles through clay molding activities, preparing learners for writing. Creating various shapes and objects develops fine motor control."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "B",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Haka valongi mu mazavu amandende chipwe vavali vavali",
+                                "Mumazavu avo, lumbika vyumavyavivulu vyakufwana nge: malolwa, usanga, makunde, jimbatani navifwiko vyakumitumwa",
+                                "Valweze valongi vavihandunune nakuvihaka mumazavu. Atela kupwa mazavu a: vifwiko, malolwa, mikoswa, usanga, jimbatani Kuzachisa minwe"
+                            ],
+                            "learner_steps": [
+                                "Mumazavu avo vatela kuhandununa vyumanavahane mulongeshi nakuvihaka mumazavu a: vifwiko, malolwa, mikoswa, usanga, jimbatani Kuzachisa minwe",
+                                "Valongi vatela cheka kulava evi vyumanakuvihaka mumakapa nakuvifumisamo chimwechimwe kuzachisa minwe. Likapa lya: vifwiko, malolwa, mikoswa, usanga, jimbatani"
+                            ],
+                            "short_notes": "This activity uses sorting and handling small objects to develop fine motor skills and finger dexterity, essential for writing readiness."
+                        }
+                    ],
+                    "short_notes": "This pre-writing section develops finger strength and fine motor skills through molding and manipulating small objects.",
+                    "vocabulary": [
+                        {
+                            "term": "Minwe",
+                            "definition": "Fingers"
+                        },
+                        {
+                            "term": "Unonga",
+                            "definition": "Clay"
+                        },
+                        {
+                            "term": "Malolwa",
+                            "definition": "Beads"
+                        },
+                        {
+                            "term": "Vifwiko",
+                            "definition": "Cloths/fabrics"
+                        },
+                        {
+                            "term": "Mikoswa",
+                            "definition": "Pebbles/stones"
+                        },
+                        {
+                            "term": "Usanga",
+                            "definition": "Seeds"
+                        },
+                        {
+                            "term": "Jishepu",
+                            "definition": "Shapes"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Can learners mold shapes (triangle, circle, square, rectangle) with clay?",
+                            "Can learners mold animals (birds, insects) with clay?",
+                            "Can learners mold objects (cup, spoon, plate, knife) with clay?",
+                            "Can learners sort objects into groups (cloths, beads, pebbles, seeds, buttons) using fingers?",
+                            "Can learners put items in bags and take them out one by one using fingers?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "THANGA (Family)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Majina avathanga (Names of family members)",
+                    "page": 28,
+                    "competences": [
+                        "Kuvuluka majina avathanga yayindende (To say the names of close family members)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 29,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Talisa mivwimbimbi valongi kuzachisa chati chipwe mukanda walongi",
+                                "Hula valongi vavuluke vivanamono hamuvwimbimbi",
+                                "Vatela kuvuluka mazu akufwana nge: Tata, Mama, Yaya, Songo yami"
+                            ],
+                            "learner_steps": [
+                                "Vatale hamivwimbimbi nakuvuluka viliho oku: Vanakuzundula mavoko, Vanatwame mu mujingulule, Vanemana mu mulongo",
+                                "Valilweze ngwavo ngwatwama na: Tata, Mama, Yaya, Songo yami"
+                            ],
+                            "short_notes": "This activity introduces learners to names of family members through picture identification."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "B",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lweza valongi vapwenga vavali vavali",
+                                "Valweke valilweze vathu vatwama navo kwimbo",
+                                "Vatela valilweze ngwavo ngwatwama na: Tata, Mama, Yaya, Songo yami",
+                                "Ivwilila valongi omu navashimutwila havathu vatwama navo"
+                            ],
+                            "learner_steps": [
+                                "Vavali vavali vashimutwile nakulilweza vathu vatwama navo",
+                                "Valilweze ngwavo ngwatwama na: Tata, Mama, Yaya, Songo yami",
+                                "Umwe umwe alweze vakwavo vivanashimutwila"
+                            ],
+                            "short_notes": "Learners practice talking about their family members in pairs."
+                        }
+                    ],
+                    "short_notes": "This sub-topic teaches learners to identify and name close family members like father, mother, older siblings, and friends.",
+                    "vocabulary": [
+                        {
+                            "term": "Tata",
+                            "definition": "Father"
+                        },
+                        {
+                            "term": "Mama",
+                            "definition": "Mother"
+                        },
+                        {
+                            "term": "Yaya",
+                            "definition": "Older sibling"
+                        },
+                        {
+                            "term": "Songo yami",
+                            "definition": "My friend"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 30,
+                        "questions": [
+                            "Can learners look at pictures and say what's there (raising hands, standing in circle, standing in line)?",
+                            "Can learners talk in pairs about who they live with?",
+                            "Can learners say who they live with: Father, Mother, Older sibling, My friend?",
+                            "Can each learner tell their partner what they talked about?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Shimbu kanda kutanga - Ndondelo yakutanga (Pre-reading - Direction sequences)",
+                    "page": 31,
+                    "competences": [
+                        "Kulondezeza kutanga kufuma kuchimoswe nakutwala kuchilyo (To follow direction from left to right)",
+                        "Kulondezeza kutanga kufuma kwilu nakutwala kwishi (To follow direction from top to bottom)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 32,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lweka valongi vemane mumulongo",
+                                "Valweke vachaule kufuma kuchimoswe nakuya chilyo oku vanakwimba mwaso (chimoswe, chilyo) nakutwalililaho likha",
+                                "Imana kulivaya ufunjike mufunda kufuma kuchimoswe nakuya kuchilyo. Linga ngocho: mupeho, hamavu",
+                                "Lumbika mukole chipwe wanda wausuku mumbango ili kuchimoswe chava longi, umwe umwe ajingunune wanda chipwe mukole oku ali nakutambuka kufuma kuchimoswe nakuya kuchilyo"
+                            ],
+                            "learner_steps": [
+                                "Vemane mumulongo nge omu mulongeshi navalweze",
+                                "Vachaule kufuma kuchimoswe nakuya kuchilyo oku vanakwimba mwaso wa, (chimoswe, chilyo) nakutwalililaho likha",
+                                "Vakavangize mifunda mwafunjika mulongeshi ha livaya,mupeho nahamavu kuzachisa meso",
+                                "Umwe umwe ajingunune wanda chipwe mukole oku vali nakutambuka kufuma kuchimoswe nakuya kuchilyo"
+                            ],
+                            "short_notes": "This activity teaches left-to-right directional movement, foundational for reading."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "B",
+                            "page": 33,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Imana kulivaya ufunjike mufunda kufuma kwilu nakuya kwishi. Linga ngocho: Mupeho, hamavu",
+                                "Twala valongi haweluka muze mwakuhemena",
+                                "Valweze vahemene ha silayindi vashikumukenga kufuma helu nakwiza mwishi",
+                                "Zamikisa ngwove vatela kutalishisa omu vakwavo vali nakusulumuka kufuma helu nakwiza mwishi"
+                            ],
+                            "learner_steps": [
+                                "Vakavangize mifunda mwafunjika mulongeshi ha livaya,mupeho nahamavu kuzachisa meso kufuma kwilu nakwiza mwishi",
+                                "Vayenga haweluka kuchihela cha kuhemena",
+                                "Vahemene hasilayindi vashikumukenga kufuma helu nakwiza mwishi",
+                                "Vatela kutalishisa omu vakwavo vali nakusulumuka kufuma helu nakwiza mwishi"
+                            ],
+                            "short_notes": "This activity teaches top-to-bottom directional movement through drawing and sliding activities."
+                        }
+                    ],
+                    "short_notes": "This pre-reading section teaches directional concepts (left-to-right, top-to-bottom) essential for reading readiness.",
+                    "vocabulary": [
+                        {
+                            "term": "Chimoswe",
+                            "definition": "Left"
+                        },
+                        {
+                            "term": "Chilyo",
+                            "definition": "Right"
+                        },
+                        {
+                            "term": "Helu/Kwilu",
+                            "definition": "Top/above"
+                        },
+                        {
+                            "term": "Mwishi/Kwishi",
+                            "definition": "Bottom/below"
+                        },
+                        {
+                            "term": "Mufunda",
+                            "definition": "Line"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 33,
+                        "questions": [
+                            "Can learners stand in line as teacher guided?",
+                            "Can learners walk from left to right while singing the song?",
+                            "Can learners copy lines teacher drew on board, in air and on ground?",
+                            "Can each learner pick up cloth or bead while walking from left to right?",
+                            "Can learners copy lines from top to bottom using eyes?",
+                            "Can learners go outside to play area?",
+                            "Can learners play on slide going from top to bottom?",
+                            "Can learners observe how friends come down from top to bottom?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "Shimbu kanda kusoneka - Kuvwovuwisa minwe (Pre-writing - Finger exercises continued)",
+                    "page": 34,
+                    "competences": [
+                        "Kuzata milimo ya kuvwovuwisa minwe (To do finger strengthening activities)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 35,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kungulula unonga uze navahemesa valongi",
+                                "Hana valongi unonga vaumbe chose nocho navasaka",
+                                "Talishisa umone vyuma muka valinakuumba kaha valweze jino vaumbe vyakufwana nge: jishepu (tilayango, seko,sikweya, lekitango), tunyama (vahembo, vamumusenge), vyuma vyakulisezaseza (kapu, lilonga, ndeho, sipuni)"
+                            ],
+                            "learner_steps": [
+                                "Vatela kuhema naunonga mujijila jajivulu jakufwana nge kuumba: jishepu (tilayango, seko,sikweya, lekitango), tunyama (vahembo, vamumusenge), vyuma vyakulisezaseza (kapu, lilonga, ndeho, sipuni)"
+                            ],
+                            "short_notes": "Repeated activity from earlier topic to continue developing finger strength through clay molding."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "B",
+                            "page": 36,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Haka valongi mu mazavu amandende chipwe vavali vavali",
+                                "Mumazavu avo, lumbika vinoma vyavivulu vyakufwana nge: malolwa, usanga, makunde, jimbatani navifwiko vyakumitumwa",
+                                "Valweze valongi vavihandunune kuvihaka muma zavu. Atela kupwa mazavu a: vifwiko, malolwa, mikoswa, usanga, jimbatani Kuzachisa minwe"
+                            ],
+                            "learner_steps": [
+                                "Mumazavu avo vatela kuhandununa vinoma navahane mulongeshi nakuvihaka mumazavu a: vifwiko, malolwa, mikoswa, usanga, jimbatani Kuzachisa minwe",
+                                "Valongi vatela cheka kulava evi vinoma nakuvihaka mumakapa nakuvifumisamo chimwechimwe kuzachisa minwe. Likapa lya: vifwiko, malolwa, mikoswa, usanga, jimbatani"
+                            ],
+                            "short_notes": "Continued practice with sorting and handling small objects to strengthen fine motor skills."
+                        }
+                    ],
+                    "short_notes": "Repeated pre-writing activities to continue developing finger dexterity and fine motor control.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 37,
+                        "questions": [
+                            "Can learners sort objects and put in groups (cloths, beads, pebbles, seeds, buttons)?",
+                            "Can learners put items in bags and take out one by one using fingers?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "VILYO VYAMUJIMBA (Body Parts)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Majina avilyo vyamujimba wa muthu (Names of human body parts)",
+                    "page": 38,
+                    "competences": [
+                        "Kuvuluka majina avilyo vyamujimba wamuthu (To say names of human body parts)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 39,
+                            "hook": "Kajingili kakandende, kwivwa lizu lyamuthu ngwenyi, mwiji mukawo!! Hahaze vene sepa lyove hikuhosomoka kwilu nakuholokela mumavu lyachi. Aputukile kulila oku alinakulikwata kumatwitwi nakumahinji. Chilyo muka chamujimba wasepa lyove unashinganyeka alikolesele?",
+                            "teacher_steps": [
+                                "Imba mwaso navalongi wakuvuluka vilyo vyamujimba wamuthu (ou mutwe, ndondondondondondondo…)",
+                                "Lweza valongi vatwame hamavu mumujingulule",
+                                "Mbata kandoli chipwe chati yamuvwimbimbi wamujimba wamuthu usolole kuli valongi",
+                                "Valweze vatongole vilyo vyakufwana nge; mutwe, lihinji, livoko, liso oku: Vana Kungongola tumitondo, Vana kusakwila, Vana kutumbuka, Valina kunengula kumutwe",
+                                "Mona ngwove valongi vanakutongola majina avilyo vyakuwelukawamujimba wamuthu mukwoloka",
+                                "Lweza valongi vanungejeke pazo yavilyo vyamujimba wamuthu"
+                            ],
+                            "learner_steps": [
+                                "Kwimba mwaso hamwe namulongeshi wakuvuluka vilyo vyamujimbawamuthu (ou mutwe, ndondondondondondondo…)",
+                                "Vatwame hamavu mumujingulule",
+                                "Vatale hali kandoli chipwe hachati vamone viliho",
+                                "Vatongole vilyo vyakufwana nge; mutwe, lihinji, livoko, liso oku: Vana Kungongola tumitondo, Vana kusakwila, Vana kutumbuka, Valina kunengula kumutwe",
+                                "Vatongole majina avilyo vyamujimba wamuthu mukwoloka",
+                                "Vanungejeke pazo yavilyo vyamujimba wamuthu vavali vavali"
+                            ],
+                            "short_notes": "This activity teaches learners to identify and name basic body parts through songs, movements, and visual aids."
+                        }
+                    ],
+                    "short_notes": "This sub-topic introduces learners to names of basic human body parts like head, leg, arm, and eye.",
+                    "vocabulary": [
+                        {
+                            "term": "Mutwe",
+                            "definition": "Head"
+                        },
+                        {
+                            "term": "Lihinji",
+                            "definition": "Leg"
+                        },
+                        {
+                            "term": "Livoko",
+                            "definition": "Arm/hand"
+                        },
+                        {
+                            "term": "Liso",
+                            "definition": "Eye"
+                        },
+                        {
+                            "term": "Mujimba",
+                            "definition": "Body"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 40,
+                        "questions": [
+                            "Can learners sing song about naming body parts?",
+                            "Can learners identify body parts (head, leg, arm, eye) when: shaking sticks, greeting, jumping, nodding head?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "Shimbu kanda kutanga - Visonejeka (Pre-reading - Pictures)",
+                    "page": 41,
+                    "competences": [
+                        "Kumona na kwinyika visonejeka vyakulisezaseza (To see and recognize various pictures)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 42,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Longesa mivwimbimbi yakulisezaseza hajikhati",
+                                "Talisa valongi mivwimbimbi yakulisezaseza ili hajikhati",
+                                "Sweka jikhati muvihela vyakulisezaseza mushikola",
+                                "Hula valongi vatonde muvwimbimbi muvalweza oku vali nakwimba mwaso wakutonda tonda (tumutondetondee-e mamalelo tumuhane mwoyo)",
+                                "Yatela kupwa mivwimbimbi yakufwana nge: Yavathu, Yavasona chipweyavivumo, Jinambala, Khulusu",
+                                "Lweza valongi kukavangiza lushimbi luno: Vaseze khati yakuluwa muchihela chayo,yakwolokavayimbate nakuyisolola kuli vakwavo valongi kaha vamusangejeke"
+                            ],
+                            "learner_steps": [
+                                "Vatale mivwimbimbi yakulisezaseza ili hajikhati",
+                                "Vatonde mivwimbimbi mulongeshi mwavalweza",
+                                "Vatela kutonda mivwimbimbi yakufwana nge: Yavathu, Yavasona chipwevivumo, Jinambala, Khulusu",
+                                "Vatela kukavangiza lushimbi luze navalweze mulongeshi: Vaseze khati yakuluwa muchihela chayo,yakwolokavayimbate nakuyisolola kuli vakwavo valongi kaha vamusangejeke"
+                            ],
+                            "short_notes": "This activity develops visual recognition skills by having learners observe and identify various pictures."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "B",
+                            "page": 43,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Longesa jikhati javasona vavandende navaze vavanene",
+                                "Talisa valongi mwakupanjikila vasona: Hawanda, Hamavu, Hachati, Halivaya"
+                            ],
+                            "learner_steps": [
+                                "Vapanjike jikhati javasona kutesa nomu navalweze mulongeshi: Hawanda, Hamavu, Hachati, Halivaya"
+                            ],
+                            "short_notes": "This activity teaches spatial organization and classification skills through arranging picture charts."
+                        }
+                    ],
+                    "short_notes": "This pre-reading section develops visual discrimination and recognition skills through picture observation and arrangement activities.",
+                    "vocabulary": [
+                        {
+                            "term": "Mivwimbimbi",
+                            "definition": "Pictures"
+                        },
+                        {
+                            "term": "Visonejeka",
+                            "definition": "Images/illustrations"
+                        },
+                        {
+                            "term": "Kupanjika",
+                            "definition": "To arrange/organize"
+                        },
+                        {
+                            "term": "Kutonda",
+                            "definition": "To look at/observe"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 44,
+                        "questions": [
+                            "Can learners look at various pictures on charts and identify what they see (people, animals/sounds, numbers, clothes)?",
+                            "Can learners arrange animal charts as teacher showed (on cloth, on ground, on chart, on board)?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.3",
+                    "title": "Shimbu kanda kusoneka - Kukwata sonekeso kanawa (Pre-writing - Holding writing tools correctly)",
+                    "page": 45,
+                    "competences": [
+                        "Kukwata kanawa vyakusonekesa vyakulisezasesa (To hold various writing tools correctly)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 46,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Imba mwaso navalongi wakulizanga mwakukwachila vyakusonekesa",
+                                "Lweza valongi volojole minwe",
+                                "Lweza valongi mwakukwachila vyakusonekesa mujindondelo jakulisezaseza jakufwana nge eji jili hamuvwimbimbi"
+                            ],
+                            "learner_steps": [
+                                "Vembenga mwaso namulongeshiwakulizanga mwakukwachila vyakusonekesa",
+                                "Volojole minwe",
+                                "Valondezeze jindondelo mwavalweza mulongeshi jamwakukwachila vyakusonekesa"
+                            ],
+                            "short_notes": "This activity teaches proper pencil/writing tool grip through songs and demonstration."
+                        }
+                    ],
+                    "short_notes": "This pre-writing section focuses on teaching correct grip for holding writing tools.",
+                    "vocabulary": [
+                        {
+                            "term": "Sonekeso",
+                            "definition": "Pencil/writing tool"
+                        },
+                        {
+                            "term": "Kukwata",
+                            "definition": "To hold/grip"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 47,
+                        "questions": [
+                            "Can learners stretch their fingers?",
+                            "Can learners follow the ways teacher showed for holding writing tools?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "VINOMA VYAWENYEMBO (Household Items)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Majina avizachiso vya wenyembo hakanda (Names of items used at home)",
+                    "page": 48,
+                    "competences": [
+                        "Kuvuluka majina avinoma vyawenyembo vyakulisezaseza vize vathu veji kuzachisanga ha hakhanda (To say names of various household items)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 49,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Tanjika vinoma vyahakhanda hamesa chipwe lamika chati yamivwimbimbi ha mbango",
+                                "Hula valongi vakulweze vivanakumona ha chati chipwe ha mesa",
+                                "Vyatela kupwa vinoma chipwe mivwimbimbi yakufwana nge: Vyamutupete twamuzuvo (muchisambwe, mwakushikamina, mwakusavala na mwakulila), Vyakuwahisa nacho hakhanda, Vyakuzachisa kumande"
+                            ],
+                            "learner_steps": [
+                                "Vatalishise vinoma ha mesa chipwe hachati yamivwimbimbi nakuvitongola majina avyo",
+                                "Vatongole vinoma vyakufwana nge: Vyamutupetetwamuzuvo (muchisambwe,(lilonga,ndeho..) mwakushikamina,(chitwamo,TV…) mwakusavala(muhela,lipayi…)namwakulila(mesa,chitwamo…), Vyakuwahisa nacho hakhanda(lukombo,hala…), Vyakuzachisa kumande.(ngimbu, litemo…)"
+                            ],
+                            "short_notes": "This activity introduces learners to names of common household items found in different rooms."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "B",
+                            "page": 50,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Longesa milimo yize valongi navazata kuzachisa vinoma yakufwana nge: Kukomba, Kulondezeza kulima, Kulondezeza kuteleka"
+                            ],
+                            "learner_steps": [
+                                "Vazate milimo ino kuzachisa vinoma: Kukomba, Kulondezeza kulima, Kulondezeza kuteleka"
+                            ],
+                            "short_notes": "Learners practice role-playing household activities using the items they learned about."
+                        }
+                    ],
+                    "short_notes": "This sub-topic teaches learners to identify and name common household items and their uses in different rooms.",
+                    "vocabulary": [
+                        {
+                            "term": "Ndeho",
+                            "definition": "Plate"
+                        },
+                        {
+                            "term": "Lupasa",
+                            "definition": "Spoon/ladle"
+                        },
+                        {
+                            "term": "Chiko",
+                            "definition": "Cup"
+                        },
+                        {
+                            "term": "Mesa",
+                            "definition": "Table"
+                        },
+                        {
+                            "term": "Malonga",
+                            "definition": "Spoons"
+                        },
+                        {
+                            "term": "Lukombo",
+                            "definition": "Hoe"
+                        },
+                        {
+                            "term": "Phoko",
+                            "definition": "Axe"
+                        },
+                        {
+                            "term": "Litemo",
+                            "definition": "Firewood"
+                        },
+                        {
+                            "term": "Chitwamo",
+                            "definition": "Chair"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 51,
+                        "questions": [
+                            "Can learners observe items on table or picture chart and identify their names?",
+                            "Can learners identify items from different room types and their uses?",
+                            "Can learners do activities using items: hoeing, pretending to farm, pretending to cook?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.2",
+                    "title": "Shimbu kanda kutanga - Vivumo (Pre-reading - Sounds)",
+                    "page": 51,
+                    "competences": [
+                        "Kulondezeza vivumo vyakufuma kuvyuma vyakuli handununa (To recognize sounds from various objects)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 52,
+                            "hook": "Achishinganyeke nge muwana muthu wamukulwane nambate chisaji chenyi chamijimbu",
+                            "teacher_steps": [
+                                "Veta hachuma chize nachivuma(ngezo, ngoma, kapyololo)",
+                                "Hula valongi vakulweze vivanevu",
+                                "Haka vyuma vyavivumo hachisalo chipwe muchihela ocho unawahisa",
+                                "Lweza valongi vahemese vyumakhana.(ngoma, chichakachaka, phala...)",
+                                "Valweze vavuluke vivumo vanakwivwa.(ndindindi, chakachaka, polilo...)",
+                                "Vahule vihula vyakufwana nge: 'ngoma yavumu ngachili?....ndindindi', 'nyi ngezo nawa?' ....ngengenge",
+                                "Sweka vyuma muvihela vyakulisezaseza",
+                                "Hana khati yamuvwimbimbi kuli longihilongi",
+                                "Valweze vavitonde, nge vanachiwane valondezeze chuvumo chachuma khana"
+                            ],
+                            "learner_steps": [
+                                "Vahemese vyuma vyavivumo hachisalo chipwe muchihela vanavawahishila",
+                                "Valondezeze vivumo vanakwivwa.(ndindindi, chakachaka, polilo...)",
+                                "Vakumbulule vihula vyakufwana nge: 'ngoma yavumu ngachili?.........ndindindi', 'nyi ngezo nawa?' ..ngengenge....)",
+                                "Kuzachisa jikhati jamuvwimbimbi,vatonde vyuma nasweke mulongeshi.kaha omu navaviwana,valondezeze vivumo vyavyuma khana"
+                            ],
+                            "short_notes": "This activity develops auditory discrimination skills by having learners identify and match sounds to their sources."
+                        }
+                    ],
+                    "short_notes": "This pre-reading section develops listening and sound recognition skills through identification of object sounds.",
+                    "vocabulary": [
+                        {
+                            "term": "Ngoma",
+                            "definition": "Drum"
+                        },
+                        {
+                            "term": "Chichakachaka",
+                            "definition": "Rattle"
+                        },
+                        {
+                            "term": "Ngita",
+                            "definition": "Gong"
+                        },
+                        {
+                            "term": "Phala",
+                            "definition": "Horn/trumpet"
+                        },
+                        {
+                            "term": "Chivumo",
+                            "definition": "Sound"
+                        },
+                        {
+                            "term": "Likembe",
+                            "definition": "Thumb piano"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 53,
+                        "questions": [
+                            "Can learners play with sound-making objects?",
+                            "Can learners identify sounds they hear (boom boom, rattle rattle, gong gong)?",
+                            "Can learners answer questions about how instruments sound?",
+                            "Can learners find objects and identify their sounds?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.3",
+                    "title": "Shimbu kanda kusoneka - Kusoneka jiphatani (Pre-writing - Making patterns)",
+                    "page": 54,
+                    "competences": [
+                        "Kusoneka jiphatani jajashi (To make simple patterns)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 55,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lweza valongi volojole minwe oku valinakwimba mwaso wakutambukisa minwe.(twingo twingo)",
+                                "Kungejeka vinoma vyakuzachisa hakusoneka jiphatani",
+                                "Lweza valongi vasoneke jiphatani kuzachisa vinoma vyakulisezaseza",
+                                "Mona ngwove valongi vanakusoneka jiphatani kuzachisa vinoma vyakulisezaseza: Hamavu, Hamapepa, Hamesa, Halivaya",
+                                "Talishisa umone jiphatani muka valinakusoneka, kaha valweze vasoneke jiphatani nge jino: jishepu (tilayango, seko,sikweya, lekitango), mifunda (zikizaki, wamakhanya, wakwoloka, wakulisetwojoka… )"
+                            ],
+                            "learner_steps": [
+                                "Volojole minwe oku valinakwimba mwaso",
+                                "Vasoneke jiphatani kuzachisa vinoma vyakulisezaseza",
+                                "Vasoneke jiphatani kuzachisa vinoma vyakulisezaseza: Hamavu, Hamapepa, Hamesa, Halivaya",
+                                "Vasoneke jiphatani jino: jishepu (tilayango, seko,sikweya, lekitango), mifunda (zikizaki, wamakhanya, wakwoloka, wakulisetwojoka… )"
+                            ],
+                            "short_notes": "This activity develops pre-writing skills through pattern making with various materials and surfaces."
+                        }
+                    ],
+                    "short_notes": "This pre-writing section teaches pattern creation using different materials and shapes, building fine motor control.",
+                    "vocabulary": [
+                        {
+                            "term": "Jiphatani",
+                            "definition": "Patterns"
+                        },
+                        {
+                            "term": "Kufundulula",
+                            "definition": "To string/thread"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 56,
+                        "questions": [
+                            "Can learners make patterns using various materials (on ground, on papers, on table, on board)?",
+                            "Can learners make patterns like shapes (triangle, circle, square, rectangle) and lines (zigzag, curved, straight, wavy)?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "TUNYAMA (Animals)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "5.1",
+                    "title": "Majina atunyama vakupita (Names of domestic animals)",
+                    "page": 57,
+                    "competences": [
+                        "Kuvuluka majina atunyama vakupita (To say names of domestic animals)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 58,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Imba mwaso watunyama hamwe navalongi.(tunyama twetu vamwaza)",
+                                "Aula mujimbu chipwe chishimo chatunyama vakupita",
+                                "Hula valongi vavuluke majina atunyama vanevu mumujimbu khana",
+                                "Tanjika chati yamivwimbimbi yatunyama chipwe lumbika vifwanyisa vyatunyama hamesa",
+                                "Lweza valongi vatalishise nakumona mivwimbimbi ili hachati chipwe vifwanyisa vili hamesa",
+                                "Vehule vavuluke vivanamono hachati chipwe hamesa: Kawa, Ngombe, Kameshi/pusi, Kasumbi, Phembe",
+                                "Lweza longi umwe umwe ayenga ambate muvwimbimbi chipwe chifwanyisa, achivuluke nakuchisolola kulivakwavo",
+                                "Lweza valongi vavali vavali valilweze tunyama vatwama navo hamemboavo"
+                            ],
+                            "learner_steps": [
+                                "Vatela kwimba mwaso watunyama hamwe namulongishi.(tunyama twetu vamwaza)",
+                                "Kwivwilila kumujimbu chipwe chishimo chatunyama vakupita",
+                                "Kuvuluka majina atunyama vanevu mumujimbu khana",
+                                "Vatalishise nakumona mivwimbimbi ili hachati chipwe vifwanyisa vili hamesa",
+                                "Vavuluke vivanamono hachati chipwe hamesa: Kawa, Ngombe, Kameshi/pusi, Kasumbi, Phembe",
+                                "Umwe umwe vayenga vambate muvwimbimbi chipwe vifwanyisa vachivuluke nakuchisolola kulivakwavo",
+                                "Vavali vavali valilweze tunyama vatwama navo hamembo avo"
+                            ],
+                            "short_notes": "This activity introduces learners to names of common domestic animals through songs, stories, and visual identification."
+                        }
+                    ],
+                    "short_notes": "This sub-topic teaches learners to identify and name common domestic animals like dogs, cows, cats, chickens, and goats.",
+                    "vocabulary": [
+                        {
+                            "term": "Kawa",
+                            "definition": "Dog"
+                        },
+                        {
+                            "term": "Ngombe",
+                            "definition": "Cow"
+                        },
+                        {
+                            "term": "Kameshi/Pusi",
+                            "definition": "Cat"
+                        },
+                        {
+                            "term": "Kasumbi",
+                            "definition": "Chicken"
+                        },
+                        {
+                            "term": "Phembe",
+                            "definition": "Goat"
+                        },
+                        {
+                            "term": "Tunyama",
+                            "definition": "Animals"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 59,
+                        "questions": [
+                            "Can learners say names of domestic animals: Dog, Cow, Cat, Chicken, Goat?",
+                            "Can learners in pairs tell about animals they have at their homes?",
+                            "Can each learner get a picture or toy, say its name and show to others?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "5.2",
+                    "title": "Shimbu kanda kutanga - Vivumo vya tunyama vakupita (Pre-reading - Animal sounds)",
+                    "page": 60,
+                    "competences": [
+                        "Kolondezeza vivumo vechi kuvumisanga tunyama vakupita (To recognize sounds domestic animals make)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 61,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Hema chihemo cha sayimoni ngwenyi: atetele uphembe... meeee, atetele ungombe...mooo, atetele usumbi.....kokoliko...)",
+                                "Lweza valongi vavumise vivumo vyatunyama vakupita vivanevu muufuku unachi oku: vanasavala, vanalalavika, vanemana, vanatwame hachisalo",
+                                "Naufuku ngwevwanga chivumo meee, moo, kokolikoo....) umwe umwe",
+                                "Hana mivwimbimbi chipwe vifwanyisa vyatunyama vakupita kumazavu amandende avalongi",
+                                "Lweza mazavu ngwove, thwamina walizavu atela kumbata khati chipwe chifwanyisa chimwe nakuchisolola, kaha vakwavo valondezeze chivumo chauze kanyama"
+                            ],
+                            "learner_steps": [
+                                "Kuhema chihemo cha sayimoni ngwenyi: atetele uphembe... meeee, atetele ungombe.....mooo, atetele usumbi....kokoliko...)",
+                                "Vavumise vivumo vyatunyama vakupita vivanevu muufuku unachi oku: vanasavala, vanalalavika, vanemana, vanatwame hachisalo",
+                                "Naufuku ngwevwanga chivumo meee, moo, kokolikoo....) umwe umwe",
+                                "Thwamina walizavu atela kumbata khati chipwe chifwanyisa chimwe nakuchisolola, kaha vakwavo valondezeze chivumo chauze kanyama"
+                            ],
+                            "short_notes": "This activity develops sound recognition skills by having learners identify animal sounds through games."
+                        }
+                    ],
+                    "short_notes": "This pre-reading section develops listening skills through animal sound recognition.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 62,
+                        "questions": [
+                            "Can learners play Simon Says with animal sounds (goat-meee, cow-mooo, chicken-kokolikoo)?",
+                            "Can learners sit in circle at desk and make animal sounds when asked?",
+                            "Can leader hold picture/toy and others identify the sound of that animal?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "5.3",
+                    "title": "Shimbu kanda kusoneka - Kufundulula (Pre-writing - Stringing/threading)",
+                    "page": 63,
+                    "competences": [
+                        "Kufundulula mifunda (To string/thread lines)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 64,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Hema vihemo vyakuvwovuwisa minwe navalongi: Twingo twingo, Katambuka chakauvi, Kwalojola minwe",
+                                "Hema cheka vihemo vyakufwendengeza.Funjika mifunda hamavu: Wakwoloka, Wamakhanya, Wazikizaki",
+                                "Tambuka hamufunda himufunda kaha lweza valongi nawa valingemo",
+                                "Fundulula mifunda kuzachisa vinoma: Wanda, Malolwa, Usekeseke, Vifwiko vyamitumwa",
+                                "Lweza valongi vafundulule mifunda kuzachisa vinoma vavali vavali"
+                            ],
+                            "learner_steps": [
+                                "Vaheme vihemo vyakuvwovuwisa minwe: Twingo twingo, Katambuka chakauvi, Kwalojola minwe",
+                                "Vaheme vihemo vyaku fwendengeza",
+                                "Vatambuke hamufunda: Wakwoloka, Wamakhanya, Wazikizaki",
+                                "Vafundulule mifunda kuzachisa vinoma vavali vavali: Wanda, Malolwa, Usekeseke, Vifwiko vyamitumwa"
+                            ],
+                            "short_notes": "This activity develops fine motor skills through stringing and threading activities."
+                        }
+                    ],
+                    "short_notes": "This pre-writing section teaches stringing/threading to develop fine motor control.",
+                    "vocabulary": [
+                        {
+                            "term": "Mufunda",
+                            "definition": "Line/thread"
+                        },
+                        {
+                            "term": "Ndoti",
+                            "definition": "Straight"
+                        },
+                        {
+                            "term": "Makhanya",
+                            "definition": "Curved"
+                        },
+                        {
+                            "term": "Kwoloka",
+                            "definition": "Straight/correct"
+                        },
+                        {
+                            "term": "Kunyotoloka",
+                            "definition": "Wavy/crooked"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 65,
+                        "questions": [
+                            "Can learners do finger warm-up exercises?",
+                            "Can learners do stretching exercises and walk on lines?",
+                            "Can learners string/thread using materials in pairs (cloth, beads, seeds, colored items)?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "6.0",
+            "topic_title": "KULIMENEKA (Spatial Directions)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "6.1",
+                    "title": "Kulimeneka chawenyembo (Directions at home)",
+                    "page": 66,
+                    "competences": [
+                        "Kuzachisa kulimeneka chawenyembo hajilwola jakulisezaseza (To use directions at home in various ways)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 67,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Imba mwaso na valongi wa hakulimeneka",
+                                "Tanjika jikhati jamivwimbimbi yajilola jakulisezaseza",
+                                "Lweza valongi vakulweze vivanakumona hajikhati",
+                                "Hula longi hilongi ambate khati nakulumbununa menekeso yalwola luli hakhati",
+                                "Valongi vavuluke mazu akufwana nge: Chimene mwane – kuchimene, Musana mwane – kumusana, Chingoloshi mwane – kuchingoloshi, Ufuku mwane – kuufuku",
+                                "Talisa chati yamivwimbimbi yavathu vali nakulimeneka hajilwola jakulisezaseza kuli valongi",
+                                "Lweza valongi vapanjike jikhati jamivwimbimbi ya lwola hachati yakulimeneka",
+                                "Haka valongi vavali vavali mangana valilongese mwakulimenekela halikumbi"
+                            ],
+                            "learner_steps": [
+                                "Vembenga mwaso namulongeshi wahakulimeneka",
+                                "Valweze mulongeshi vivanakumona ha jikhati",
+                                "Vambate jikhati nakulumbununa menekeso yalwola luli hajikhati",
+                                "Vavuluke mazu akufwana nge: Chimene mwane – kuchimene, Musana mwane – kumusana, Chingoloshi mwane – kuchingoloshi, Ufuku mwane – kuufuku",
+                                "Vapanjike jikhati jamivwimbimbi yalwola ha chati yakulimeneka",
+                                "Vavali vavali valilongese mwakulimenekela halikumbi"
+                            ],
+                            "short_notes": "This activity teaches spatial directions (in front, behind, beside, above) through songs and visual aids."
+                        }
+                    ],
+                    "short_notes": "This sub-topic teaches learners spatial awareness and directional vocabulary.",
+                    "vocabulary": [
+                        {
+                            "term": "Kulimeneka",
+                            "definition": "Direction/positioning"
+                        },
+                        {
+                            "term": "Lwola",
+                            "definition": "Side/direction"
+                        },
+                        {
+                            "term": "Likumbi",
+                            "definition": "Time/occasion"
+                        },
+                        {
+                            "term": "Kalemesa",
+                            "definition": "Nearby"
+                        },
+                        {
+                            "term": "Chimene",
+                            "definition": "In front"
+                        },
+                        {
+                            "term": "Musana",
+                            "definition": "Behind"
+                        },
+                        {
+                            "term": "Chingoloshi",
+                            "definition": "Beside"
+                        },
+                        {
+                            "term": "Ufuku",
+                            "definition": "Above/up"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 68,
+                        "questions": [
+                            "Can learners sing song about directions?",
+                            "Can learners tell teacher what they see in charts?",
+                            "Can learners hold charts and explain directions shown?",
+                            "Can learners say words like: in front, behind, beside, above?",
+                            "Can learners arrange picture charts of directions?",
+                            "Can learners in pairs demonstrate positioning at different times?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "6.2",
+                    "title": "Shimbu kanda kutanga - Mijimbu yayashi (Pre-reading - Short stories)",
+                    "page": 69,
+                    "competences": [
+                        "Kwivwilila kumujimbu wawashi (To listen to short stories)",
+                        "Kwambulula mijimbu yayashi (To retell short stories)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 70,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Watela kupwa namikanda yakulisezaseza ili namivwimbimbi yavathu, tunyama, mitondo navyuma vyakulisezaseza",
+                                "Sakulaho umwe owo mutangila valongi, kaha lweza valongi vashimutwile ha mivwimbimbi ili ha mukanda",
+                                "Hakamangana kuli evi navashimutwila valongi: Hali muthu, Hali mutondo, Halikawa navikwavo",
+                                "Hula valongi vakulweze vyuma vanashinganyeka vili mu mukanda",
+                                "Tangila mujimbu",
+                                "Mwimikila imikila mangana umone nge vanakwivwilila",
+                                "Hula vihulula vyakufwana nge: Mwashinganyeka ngwenu vyumamuka navikavaho? Kahamwalinga ngachili? Mutwe muka wachihande?"
+                            ],
+                            "learner_steps": [
+                                "Vevwilila mujimbuoku vanatwame hachisalo: Oku vanafwiki hameso, Oku vana savala chakupulumana, Oku vanemana mumujingulule",
+                                "Kukumbulula vihula",
+                                "Mumazavu amandende vatela kulilweza mijimbu yayihi nakulihula vihula"
+                            ],
+                            "short_notes": "This activity develops listening and story comprehension skills."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "B",
+                            "page": 71,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Haka valongi mumazavu",
+                                "Tangila valongi mujimbu wawashi",
+                                "Haka valongi mumazavu vambulule mujimbu unavatangila",
+                                "Hula valongi vihula ha mujimbu unavatangila",
+                                "Hula longi hi longi ambulule vyuma vanatange chipwe vanevu mumujimbu"
+                            ],
+                            "learner_steps": [
+                                "Vazachile hamwe mumazavu avo",
+                                "Vevwilile ku mujimbu mwavatangila mulongeshi",
+                                "Vambulule mujimbu vanavatangila kuli mulongeshi",
+                                "Vakumbululevihula hamujimbu vanavatangila kuli mulongeshi"
+                            ],
+                            "short_notes": "This activity develops story retelling skills in small groups."
+                        }
+                    ],
+                    "short_notes": "This pre-reading section develops listening comprehension and story retelling skills.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 72,
+                        "questions": [
+                            "Can learners listen to stories while sitting at desk (facing forward, apart, in circle)?",
+                            "Can learners answer questions about story heard?",
+                            "Can learners retell story correctly in small groups?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "6.3",
+                    "title": "Shimbu kanda kusoneka - Kukwita ulombo (Pre-writing - Making marks/lines)",
+                    "page": 73,
+                    "competences": [
+                        "Kukwita ulombo ha jishepu na havyakutenga (To make marks/lines on shapes and decorative items)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "A",
+                            "page": 74,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lweza valongi volojole minwe",
+                                "Lweza valongi mwakukwachila vinoma vyakukwichisa ulombo",
+                                "Hana valongi vinoma vyakuzachisa mukukwita ulombo",
+                                "Lweza valongi vakwite ulombo ha jishepu",
+                                "Mona ngwove valongi vali nakukwita ulombo ha jishepu mwakwoloka"
+                            ],
+                            "learner_steps": [
+                                "Volojole minwe",
+                                "Valinangule mwakukwachila vinoma vyakukwichisa ulombo",
+                                "Vakwite ulombo ha jishepu mukwoloka nge omu vanavalweze kuli mulongeshi"
+                            ],
+                            "short_notes": "This activity teaches making marks/lines on shapes."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "B",
+                            "page": 75,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lweza valongi volojole minwe",
+                                "Lweza valongi mwakukwachila vinoma vyakukwichisa ulombo",
+                                "Hana valongi vinoma vyakuzachisa mukukwita ulombo",
+                                "Lweza valongi vakwite ulombo ha vyakutenga",
+                                "Mona ngwove valongi vali nakukwita ulombo ha vyakutenga mukwoloka"
+                            ],
+                            "learner_steps": [
+                                "Volojole minwe",
+                                "Valinangule mwakukwachila vinoma vyakukwichisa ulombo",
+                                "Vakwite ulombo ha vya kutenga mukwoloka nge omu vanavalweze kuli mulongeshi"
+                            ],
+                            "short_notes": "This activity teaches making marks/lines on decorative items."
+                        }
+                    ],
+                    "short_notes": "This pre-writing section teaches making controlled marks and lines on shapes and decorative items.",
+                    "vocabulary": [
+                        {
+                            "term": "Kilayoni",
+                            "definition": "Crayon"
+                        },
+                        {
+                            "term": "Ulombo",
+                            "definition": "Mark/line/stroke"
+                        },
+                        {
+                            "term": "Lipepa",
+                            "definition": "Paper"
+                        },
+                        {
+                            "term": "Mukanda",
+                            "definition": "Book"
+                        },
+                        {
+                            "term": "Kusoneka",
+                            "definition": "To write/draw"
+                        },
+                        {
+                            "term": "Jishepu",
+                            "definition": "Shapes"
+                        },
+                        {
+                            "term": "Kutenga",
+                            "definition": "To decorate"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 75,
+                        "questions": [
+                            "Can learners hold writing tools correctly?",
+                            "Can learners make marks/lines on shapes correctly as teacher showed?",
+                            "Can learners make marks/lines on decorative items correctly as teacher showed?"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

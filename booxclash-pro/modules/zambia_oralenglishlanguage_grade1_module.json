@@ -1,0 +1,870 @@
+{
+  "subject": "Oral English Language",
+  "grade": "Grade 1",
+  "term": 1,
+  "topics": [
+    {
+      "topic_id": "1.1",
+      "topic_title": "Conversations",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.1.1",
+          "title": "Greetings",
+          "page": 10,
+          "competences": [
+            "Use appropriate greetings at different times of the day"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1a",
+              "page": 10,
+              "hook": "Good Morning Greeting",
+              "teacher_steps": [
+                "Introduce the phrase 'Good morning'",
+                "Explain the Good morning greeting is used before noon (12 hours)",
+                "Demonstrate greeting each other in the morning",
+                "Conduct a whole-class choral repetition of 'Good morning'",
+                "Pair learners to practice the greeting in a dialogue format",
+                "Rotate pairs to ensure everyone practices with different partners"
+              ],
+              "learner_steps": [
+                "Listen to teacher's demonstration",
+                "Repeat 'Good morning' as a class",
+                "Practice greeting in pairs using dialogue format",
+                "Rotate partners and practice with different learners",
+                "Role-play morning meeting scenarios in small groups",
+                "Perform dialogue in front of the class",
+                "Sing the 'Good Morning song'"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1b",
+              "page": 12,
+              "hook": "Good Afternoon Greeting",
+              "teacher_steps": [
+                "Introduce the phrase 'Good afternoon'",
+                "Explain the Good afternoon greeting is used after noon (12 hours)",
+                "Demonstrate greeting each other in the afternoon",
+                "Conduct a whole-class choral repetition of 'Good afternoon'",
+                "Pair learners to practice the greeting in a dialogue format",
+                "Rotate pairs to ensure everyone practices with different partners"
+              ],
+              "learner_steps": [
+                "Listen to teacher's demonstration",
+                "Repeat 'Good afternoon' as a class",
+                "Practice greeting in pairs using dialogue format",
+                "Rotate partners and practice with different learners",
+                "Role-play afternoon meeting scenarios in small groups",
+                "Perform dialogue in front of the class",
+                "Sing the 'Good afternoon song'"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1c",
+              "page": 13,
+              "hook": "Good Evening Greeting",
+              "teacher_steps": [
+                "Introduce the phrase 'Good evening'",
+                "Explain the Good evening greetings is used after afternoon (starting from 18 hours)",
+                "Demonstrate greeting each other in the evening",
+                "Conduct a whole-class choral repetition of 'Good evening'",
+                "Pair learners to practice the greeting in a dialogue format",
+                "Rotate pairs to ensure everyone practices with different partners"
+              ],
+              "learner_steps": [
+                "Listen to teacher's demonstration",
+                "Repeat 'Good evening' as a class",
+                "Practice greeting in pairs using dialogue format",
+                "Rotate partners and practice with different learners",
+                "Role-play evening meeting scenarios in small groups",
+                "Perform dialogue in front of the class",
+                "Sing the 'Good evening song'"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2a",
+              "page": 14,
+              "hook": "How are you? I'm fine/not fine. Good/I'm sorry",
+              "teacher_steps": [
+                "Revise greeting at different times (good morning, afternoon, & evening)",
+                "Introduce the phrase 'How are you?' and the various responses (I am fine/ I am not fine)",
+                "Explore meaning of 'fine' and 'not fine'. Tell learners to look happy or look sad as they respond",
+                "If the response 'fine', we say 'Good'. If the response is 'not fine', we say 'I'm sorry'",
+                "Demonstrate common greetings",
+                "Conduct a whole-class choral repetition",
+                "Pair learners to practice the greeting in a dialogue format"
+              ],
+              "learner_steps": [
+                "Review greetings at different times of day",
+                "Learn phrase 'How are you?' and responses",
+                "Practice showing emotions (happy/sad faces)",
+                "Repeat as a class",
+                "Practice in pairs with emotion flashcards",
+                "Pick flashcards and role-play scenarios",
+                "Perform dialogues for the class",
+                "Sing 'How are you my partner?' song"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2b",
+              "page": 16,
+              "hook": "How is home? Home is fine/not fine. Good/I'm sorry",
+              "teacher_steps": [
+                "Revise greeting at different times (good morning, afternoon, & evening)",
+                "Introduce the phrase 'How is home?' and various suitable responses (Home is fine/Home is not fine)",
+                "Demonstrate common greetings",
+                "Pair learners to practice the greeting in a dialogue format",
+                "Rotate pairs to ensure everyone practices with different partners"
+              ],
+              "learner_steps": [
+                "Review greetings at different times",
+                "Learn 'How is home?' phrase and responses",
+                "Practice in pairs",
+                "Use emotion and time flashcards",
+                "Role-play scenarios based on cards picked",
+                "Perform for the class",
+                "Sing 'How is home partner?' song"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2c",
+              "page": 17,
+              "hook": "Consolidation of Greetings content",
+              "teacher_steps": [
+                "Revise greeting at different times and phrases taught earlier in the week",
+                "Demonstrate how to use, and respond to, common greetings",
+                "Pair learners to practice the greeting in a dialogue format",
+                "Put learners in small groups with flashcards",
+                "Ask learners to role-play scenarios",
+                "Provide feedback on dialogues performed"
+              ],
+              "learner_steps": [
+                "Review all greetings learned during the week",
+                "Practice full greeting conversations in pairs",
+                "Use multiple flashcards (emotion, time, home/person)",
+                "Role-play comprehensive scenarios",
+                "Perform dialogues for the class",
+                "Sing 'How are you/How is home my partner?' song"
+              ]
+            }
+          ],
+          "short_notes": "This sub-topic focuses on equipping learners with the ability to use appropriate and respond to greetings for different times of the day. Learners will explore and practice greetings commonly used in the morning, afternoon, and evening and how to respond appropriately. Understanding and applying proper greetings is an essential communication skill that fosters respect, builds relationships, and promotes social harmony. The Good morning greeting is used before noon (12 hours). The Good afternoon greeting is used after noon (12 hours). The Good evening greeting is used after afternoon (starting from 18 hours).",
+          "vocabulary": [
+            {
+              "term": "greeting",
+              "definition": "A polite word or phrase used when meeting or welcoming someone"
+            },
+            {
+              "term": "morning",
+              "definition": "The time of day before noon (12 hours)"
+            },
+            {
+              "term": "afternoon",
+              "definition": "The time of day after noon (12 hours)"
+            },
+            {
+              "term": "evening",
+              "definition": "The time of day after afternoon (starting from 18 hours)"
+            }
+          ],
+          "assessment": {
+            "page": 11,
+            "questions": [
+              {
+                "type": "oral",
+                "format": "Demonstrations, Presentations, Question and Answer",
+                "standard": "Appropriate greetings at different times of the day used correctly"
+              }
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.1.4",
+          "title": "Classroom Rules",
+          "page": 19,
+          "competences": [
+            "Use language to talk about classroom rules"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1a",
+              "page": 19,
+              "hook": "How do rules help us?",
+              "teacher_steps": [
+                "Discuss rules that the learners have at home",
+                "Allow learners to respond and explore other things they are not allowed to do",
+                "Explain that rules are designed to help us live in order and peace",
+                "Emphasise the need for quiet time, whilst listening to teacher/other learners talking",
+                "Demonstrate talking about rules at home and in the classroom",
+                "Practice whole class talking about home rules",
+                "Put learners in pairs to talk about home rules"
+              ],
+              "learner_steps": [
+                "Discuss home rules",
+                "Share what they are not allowed to do at home",
+                "Understand why rules are important",
+                "Practice talking about home rules in pairs",
+                "Look at posters depicting rules being broken",
+                "Discuss in small groups what rules are being broken",
+                "Sing a song on home rules"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1b",
+              "page": 20,
+              "hook": "Form classroom rules with learners",
+              "teacher_steps": [
+                "Prepare the classroom with some dirt/rubbish, messy desks arrangement",
+                "Ask what is wrong with the classroom",
+                "Learners help teacher put things in order",
+                "Thank the class for their help",
+                "Introduce the phrase 'classroom rules'",
+                "Explain the importance of classroom rules",
+                "Talk about classroom rules",
+                "Practice talking about classroom rules as a class"
+              ],
+              "learner_steps": [
+                "Observe the messy classroom",
+                "Help organize and clean the classroom",
+                "Learn about classroom rules",
+                "Practice talking about classroom rules in pairs",
+                "Work in small groups to discuss classroom rules",
+                "As a class, agree on a set of classroom rules",
+                "Write names on classroom rules to show commitment",
+                "Sing a song on classroom rules"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1c",
+              "page": 22,
+              "hook": "Asking permission – 'May I…?'",
+              "teacher_steps": [
+                "Introduce the phrase 'May I…'",
+                "Explain that 'May I…' is the polite way to ask for permission",
+                "Demonstrate polite requests",
+                "Practice asking for permission politely",
+                "Pair learners to practice",
+                "Put learners in small groups with flashcards"
+              ],
+              "learner_steps": [
+                "Learn the phrase 'May I…'",
+                "Practice asking permission politely in pairs",
+                "Use emotion and classroom object flashcards",
+                "Role-play scenarios based on cards picked",
+                "Perform for the class",
+                "Sing a song on classroom rules"
+              ]
+            }
+          ],
+          "short_notes": "This sub-topic focuses on equipping learners with the ability to own and follow classroom rules. Learners will use simple language to talk about classroom rules. Understanding and following classroom rules is an essential communication skill that helps in creating a good learning environment. Rules are designed to help us live in order and peace at home and in the classroom. Classroom rules include: No running in class (We should walk), No fighting (We should be kind to one another), No stealing (We should respect each other's property), No jumping on desks (We should be safe).",
+          "vocabulary": [
+            {
+              "term": "rules",
+              "definition": "Instructions that tell us what we should and should not do"
+            },
+            {
+              "term": "classroom",
+              "definition": "A room where teaching and learning takes place"
+            },
+            {
+              "term": "permission",
+              "definition": "Asking if you are allowed to do something"
+            }
+          ],
+          "assessment": {
+            "page": 20,
+            "questions": [
+              {
+                "type": "oral",
+                "format": "Roleplay, Demonstrations, Presentations, Question and Answer",
+                "standard": "Talking about classroom rules appropriately"
+              }
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.1.2",
+          "title": "Family",
+          "page": 23,
+          "competences": [
+            "Use appropriate language to talk about members of a nuclear family"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1a",
+              "page": 23,
+              "hook": "Mentioning members of a nuclear family (father, mother, child/children)",
+              "teacher_steps": [
+                "Ask learners who is in their family",
+                "Acknowledge that families might look different",
+                "Introduce the phrase 'nuclear family'",
+                "Explain that a nuclear family has a mother, father and children",
+                "Using a poster, identify the mother, father and children",
+                "Point to the picture and identify members of the family",
+                "Conduct a whole-class choral repetition",
+                "Pair learners to practice responding"
+              ],
+              "learner_steps": [
+                "Share who is in their family",
+                "Learn about nuclear family",
+                "Identify family members on poster",
+                "Practice responding 'That is the mother/father/child'",
+                "Role-play a family scenario in small groups",
+                "Say their role in the family",
+                "Perform for the class"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1b",
+              "page": 25,
+              "hook": "Talk about relationships that exist within the nuclear family (parents, brother, sister)",
+              "teacher_steps": [
+                "Revise the phrase 'nuclear family'",
+                "Ask learners to name members of nuclear family",
+                "Introduce the relationships (parents, brother, sister)",
+                "Explain what we mean by parent/brother/sister",
+                "Using a poster, identify the parents, brother and sister",
+                "Conduct a whole-class choral repetition",
+                "Pair learners to practice responding"
+              ],
+              "learner_steps": [
+                "Review nuclear family members",
+                "Learn about family relationships",
+                "Identify relationships on poster",
+                "Practice responding about relationships",
+                "Role-play family scenarios with parents, sister, brother",
+                "Say roles of family members",
+                "Perform for the class"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1c",
+              "page": 26,
+              "hook": "Consolidation of nuclear family content",
+              "teacher_steps": [
+                "Recap on members of nuclear family and relationships",
+                "Highlight that mother and father are also called parents",
+                "Highlight that brother and sister are children of parents",
+                "Using a poster, identify all family members and relationships",
+                "Conduct a whole-class choral repetition",
+                "Pair learners to practice"
+              ],
+              "learner_steps": [
+                "Review all family members and relationships",
+                "Practice full family conversations in pairs",
+                "Role-play comprehensive family scenarios",
+                "Say each member and their relationship",
+                "Perform for the class"
+              ]
+            }
+          ],
+          "short_notes": "This sub-topic focuses on equipping learners with the ability to use appropriate language to talk about the members of the family. Learners will explore and practice words commonly used when talking about members of the family. Understanding and applying proper use of communication skills that foster respect, builds relationships, and promotes social harmony. A nuclear family is a family that has a mother, father and children. The mother and father are called parents. The children can be brothers and sisters.",
+          "vocabulary": [
+            {
+              "term": "family",
+              "definition": "A group of people related to each other, especially parents and children"
+            },
+            {
+              "term": "nuclear family",
+              "definition": "A family that has a mother, father and children"
+            },
+            {
+              "term": "parents",
+              "definition": "The father and mother"
+            },
+            {
+              "term": "brother",
+              "definition": "A male child of the same parents"
+            },
+            {
+              "term": "sister",
+              "definition": "A female child of the same parents"
+            }
+          ],
+          "assessment": {
+            "page": 24,
+            "questions": [
+              {
+                "type": "oral",
+                "format": "Demonstrations, Presentations, Question and Answer",
+                "standard": "Appropriate language to talk about members of a nuclear family used accordingly"
+              }
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.1.3",
+          "title": "Simple commands",
+          "page": 27,
+          "competences": [
+            "Giving and responding to commands"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1a",
+              "page": 28,
+              "hook": "Responding to simple commands (clap your hands, sit down, jump up and down)",
+              "teacher_steps": [
+                "Introduce the word 'command' and what it means",
+                "Demonstrate responding to simple commands",
+                "Perform a whole-class repetition",
+                "Pair learners to practice responding to simple commands",
+                "Rotate pairs to ensure everyone practices with different partners",
+                "Put learners into small groups to give and respond to commands"
+              ],
+              "learner_steps": [
+                "Learn what a command is",
+                "Watch teacher demonstrate",
+                "Practice responding to commands as a class",
+                "Practice in pairs",
+                "Give and respond to commands in small groups",
+                "Perform for the class",
+                "Respond to command 'get your pencil'"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1b",
+              "page": 29,
+              "hook": "Roleplaying in groups giving and responding to simple commands",
+              "teacher_steps": [
+                "Ask learners about people they know that give commands",
+                "Discuss the answers given",
+                "Explain that we are going to pretend to be those people and give/respond to commands",
+                "Put learners into pairs to role-play",
+                "Put learners into small groups to role-play different scenarios"
+              ],
+              "learner_steps": [
+                "Think about people who give commands",
+                "Share examples",
+                "Practice role-playing in pairs (soldier, teacher, etc.)",
+                "Role-play in small groups",
+                "Perform role-play for the class",
+                "Respond to command 'jump up and down'"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1c",
+              "page": 30,
+              "hook": "Playing games on giving and responding to commands (Simon says)",
+              "teacher_steps": [
+                "Explain the rules of the game 'Simon says'",
+                "Demonstrate playing the game",
+                "Put learners into pairs to play games",
+                "Put learners in small groups to play games",
+                "Provide feedback to learners"
+              ],
+              "learner_steps": [
+                "Learn rules of 'Simon says'",
+                "Watch demonstration",
+                "Play game in pairs",
+                "Play games in small groups (Simon says, robot game, command relay race)",
+                "Respond to various commands given by teacher"
+              ]
+            }
+          ],
+          "short_notes": "This sub-topic concentrates on equipping learners with the ability to give and follow simple commands. Learners will analyze and practice giving and responding to simple commands. Comprehending and responding to simple commands is an essential communication skill that allows learners to function effectively across different environments.",
+          "vocabulary": [
+            {
+              "term": "command",
+              "definition": "An instruction to do something"
+            }
+          ],
+          "assessment": {
+            "page": 28,
+            "questions": [
+              {
+                "type": "oral",
+                "format": "Role-play, Demonstrations, Presentations, Question and Answer",
+                "standard": "Simple commands given and followed accordingly"
+              }
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.1.5",
+          "title": "Home Chores and Responsibilities",
+          "page": 31,
+          "competences": [
+            "Use language to discuss chores and responsibilities of family members"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1a",
+              "page": 31,
+              "hook": "Name the chores of family members",
+              "teacher_steps": [
+                "Introduce the phrase 'family chores'",
+                "Explain the meaning of family chores as routine or daily duty/task/piece of work of a household",
+                "Ask learners what chores they do at home",
+                "Using a poster with family members doing different chores, ask learners to identify the chores",
+                "Explain that 'he' is for males, 'she' is for females and 'they' is for more than one person",
+                "Teacher calls learners up to mime a chore",
+                "Put learners into small groups to mime chores"
+              ],
+              "learner_steps": [
+                "Learn what family chores are",
+                "Share chores they do at home",
+                "Identify chores in poster",
+                "Practice saying 'He is sweeping/she is cooking/they are picking papers'",
+                "Mime chores in small groups",
+                "Take turns being teacher asking 'What is he/she/they doing?'",
+                "Perform for the class",
+                "Name home chores"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1b",
+              "page": 33,
+              "hook": "Naming the responsibilities of family members",
+              "teacher_steps": [
+                "Introduce the phrase 'family responsibility'",
+                "Explain family responsibility as the care and support that family members give one another",
+                "Give examples of family responsibilities",
+                "Demonstrate a dialogue where learners ask each other questions",
+                "Conduct a whole class choral repetition",
+                "Learners work in pairs to practice the dialogue"
+              ],
+              "learner_steps": [
+                "Learn what family responsibility means",
+                "Listen to examples (parents protect/provide/care, children respect/obey)",
+                "Practice dialogue in pairs",
+                "Perform dialogue for the class",
+                "Name family responsibilities"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1c",
+              "page": 34,
+              "hook": "Name and discuss the chores and responsibilities of family members",
+              "teacher_steps": [
+                "Review the phrase 'chores and family responsibility'",
+                "Learners recall examples of chores and responsibilities",
+                "Display poster depicting different chores and responsibilities",
+                "Learners mime the various chores and responsibilities",
+                "Learners work in pairs choosing family members to mimic"
+              ],
+              "learner_steps": [
+                "Review all chores and responsibilities learned",
+                "Look at posters",
+                "Mime chores and responsibilities in pairs",
+                "Perform dialogue for the class"
+              ]
+            }
+          ],
+          "short_notes": "This sub-topic focuses on equipping learners with the ability to use appropriate language to discuss chores and responsibilities of family members. Learners will name and discuss chores and responsibilities of family members. Understanding and taking part in home chores and responsibilities, builds unity, respect and a sense of responsibility to yourself, home and family. Family chores are routine or daily duties/tasks of a household such as cooking, washing dishes, sweeping the house/surrounding, table setting, drying utensils. Family responsibilities are the care and support that family members give one another, such as parents supporting/providing for/caring for the family, children obeying family rules and respecting elderly people.",
+          "vocabulary": [
+            {
+              "term": "chores",
+              "definition": "Routine or daily duties/tasks/pieces of work in a household"
+            },
+            {
+              "term": "responsibilities",
+              "definition": "The care and support that family members give one another"
+            }
+          ],
+          "assessment": {
+            "page": 32,
+            "questions": [
+              {
+                "type": "oral",
+                "format": "Demonstrations, Presentations, Question and Answer",
+                "standard": "Appropriate language to discuss chores and responsibilities of family members used accordingly"
+              }
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.1.6",
+          "title": "Time",
+          "page": 35,
+          "competences": [
+            "Use appropriate language to tell time of the day, days of the week and months of the year"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1a",
+              "page": 36,
+              "hook": "Tell time of the day (morning, afternoon and night)",
+              "teacher_steps": [
+                "Recap on the greetings used at different times of the day",
+                "Explain the differences between morning, afternoon and nighttime",
+                "Demonstrate telling times of the day using conversation poster",
+                "Conduct a whole class repetition of telling the time of the day",
+                "Pair learners to practice telling the time of the day"
+              ],
+              "learner_steps": [
+                "Review greetings for different times",
+                "Learn about morning, afternoon and night",
+                "Practice telling time of day in pairs",
+                "Role-play scenarios indicating specific time of day in small groups",
+                "Perform for the class",
+                "Mention activities done at different times of the day"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1b",
+              "page": 37,
+              "hook": "Mention and sequence days of the week",
+              "teacher_steps": [
+                "Recap on the days of the week",
+                "Explain the sequencing of the days of the week",
+                "Ask learners if there are certain activities they do on set days",
+                "Demonstrate mentioning the days of the week using pictorial calendar",
+                "Sing the 'Days of the Weeks' song",
+                "Pair learners to practice sequencing"
+              ],
+              "learner_steps": [
+                "Review days of the week",
+                "Learn sequencing",
+                "Sing 'Days of the Weeks' song",
+                "Practice sequencing in pairs",
+                "Sequence flashcards for each day in small groups",
+                "As a class organize days into correct sequence",
+                "Sing 'the days of the week song'"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1c",
+              "page": 38,
+              "hook": "Mention and sequence months of the year",
+              "teacher_steps": [
+                "Revise the months of the year",
+                "Explain the sequencing of the months of the year",
+                "Demonstrate mentioning the months using pictorial calendar",
+                "Sing 'The months of the year' song",
+                "Conduct whole-class choral repetition of sequencing",
+                "Pair learners to practice sequencing"
+              ],
+              "learner_steps": [
+                "Review months of the year",
+                "Learn sequencing of months",
+                "Sing 'The months of the year' song",
+                "Practice sequencing in pairs",
+                "Sequence flashcards for months in small groups",
+                "As a class organize months into correct sequence",
+                "Sing 'the months of the year song'"
+              ]
+            }
+          ],
+          "short_notes": "In this subtopic learners are going to learn how to tell time of the day and to sequence the days of the week and months of the year. Knowledge about this will enable learners to develop time management skills, making it easier for them to follow daily schedules, sequence events and remember responsibilities. This will further enhance language development and help learners feel more in control of their lives.",
+          "vocabulary": [
+            {
+              "term": "time",
+              "definition": "The measure of when things happen"
+            },
+            {
+              "term": "morning",
+              "definition": "The early part of the day"
+            },
+            {
+              "term": "afternoon",
+              "definition": "The time after noon"
+            },
+            {
+              "term": "evening/night",
+              "definition": "The time after afternoon, when it gets dark"
+            },
+            {
+              "term": "day",
+              "definition": "A period of 24 hours"
+            },
+            {
+              "term": "week",
+              "definition": "A period of seven days"
+            },
+            {
+              "term": "month",
+              "definition": "One of the twelve divisions of the year"
+            },
+            {
+              "term": "year",
+              "definition": "A period of 365 or 366 days"
+            }
+          ],
+          "assessment": {
+            "page": 37,
+            "questions": [
+              {
+                "type": "oral",
+                "format": "Demonstration, Presentations, Question and Answer",
+                "standard": "Appropriate language to tell the times of the day, days of the week and months of the year used correctly"
+              }
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.1.7",
+          "title": "Food and meals",
+          "page": 40,
+          "competences": [
+            "Use language to talk about different foods and meals of the day"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1a",
+              "page": 40,
+              "hook": "Identifying different types of foods (fruits, vegetables, grains)",
+              "teacher_steps": [
+                "Introduce the different types of food (fruits, vegetables, grains)",
+                "Bring different types of food to class",
+                "With learner, identify the different types of food",
+                "Give out picture flashcards with different foods",
+                "In small groups, ask learners to sort and group different foods by their food types"
+              ],
+              "learner_steps": [
+                "Learn about different types of food",
+                "Identify foods brought to class",
+                "Practice in pairs using flashcards saying 'This is a banana. This is a fruit'",
+                "Sort and group foods by type in small groups",
+                "Discuss answers as a class",
+                "Recap on types of food"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1b",
+              "page": 41,
+              "hook": "Mentioning types of meals (breakfast, lunch and supper/dinner)",
+              "teacher_steps": [
+                "Recap on the times of the day and the types of meals",
+                "Explain when to eat breakfast, lunch and supper/dinner",
+                "Demonstrate mentioning the types of meals",
+                "Conduct a whole-class choral repetition",
+                "Pair learners to practice mentioning types of meals"
+              ],
+              "learner_steps": [
+                "Review times of day and types of meals",
+                "Learn when to eat each meal",
+                "Practice in pairs",
+                "Role-play meal scenarios in small groups",
+                "Perform for the class",
+                "Sing 'the types of meals song'"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1c",
+              "page": 42,
+              "hook": "Recite a prayer before meals",
+              "teacher_steps": [
+                "Introduce what prayer is",
+                "Explain why people pray before meals (Thanking God for the food)",
+                "Demonstrate how to pray before meals",
+                "Conduct a whole-class choral repetition of prayer",
+                "Pair learners to practice reciting the prayer"
+              ],
+              "learner_steps": [
+                "Learn about prayer",
+                "Understand why we pray before meals",
+                "Repeat prayer as a class: 'Thank you Lord for the food, Amen'",
+                "Practice reciting prayer in pairs",
+                "Role-play praying before a meal in small groups",
+                "Perform prayer for the class",
+                "Recite the prayer offered before meals"
+              ]
+            }
+          ],
+          "short_notes": "In this sub-topic learners are going to learn about different types of food, meals that are eaten at different times of the day and how to recite a prayer before meals. Food is something that is eaten everyday, therefore it is essential that learners have knowledge about the types of food and to identify the type of meal they are eating at that particular time of the day. Different types of food include fruits (banana, orange, mango), vegetables (cabbage, okra, Chinese cabbage), and grains (maize, rice). Types of meals include breakfast (eaten in the morning), lunch (eaten in the afternoon), and supper/dinner (eaten in the evening). Prayer before meals: Thank you Lord for the food. Amen.",
+          "vocabulary": [
+            {
+              "term": "food",
+              "definition": "Something that people and animals eat to stay alive and healthy"
+            },
+            {
+              "term": "fruits",
+              "definition": "The sweet and fleshy product of a tree or plant that contains seeds"
+            },
+            {
+              "term": "vegetables",
+              "definition": "Plants or parts of plants that are eaten as food"
+            },
+            {
+              "term": "grains",
+              "definition": "Seeds from plants like maize, rice, wheat"
+            },
+            {
+              "term": "breakfast",
+              "definition": "The first meal of the day, eaten in the morning"
+            },
+            {
+              "term": "lunch",
+              "definition": "A meal eaten in the middle of the day, in the afternoon"
+            },
+            {
+              "term": "supper/dinner",
+              "definition": "The last meal of the day, eaten in the evening"
+            },
+            {
+              "term": "prayer",
+              "definition": "Words said to God to give thanks or ask for something"
+            }
+          ],
+          "assessment": {
+            "page": 41,
+            "questions": [
+              {
+                "type": "oral",
+                "format": "Demonstration, Presentations, Question and Answer",
+                "standard": "Appropriate language to talk about different foods and meals used appropriately"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "teaching_materials": [
+    "Puppets",
+    "Conversation Posters illustrating different times of the day",
+    "Emotion Flashcards",
+    "Time of Day Flashcards",
+    "Songs and poems",
+    "Charts",
+    "Illustrated charts (broken classroom rules)",
+    "Toys, door, window, books, pencils, desks, shoes",
+    "Real food items (oranges, mangoes, okra, cabbage, maize)",
+    "Picture flashcards of different food items",
+    "Food Chart/Conversation Posters showing different types of food",
+    "Pictorial Calendar",
+    "Months of the year flashcards",
+    "Plates and examples of real foods"
+  ],
+  "general_competences": [
+    "Effective communication",
+    "Collaboration",
+    "Creativity and innovation",
+    "Critical thinking"
+  ],
+  "key_terms": [
+    "greeting",
+    "family",
+    "responsibilities",
+    "chores",
+    "rules",
+    "commands",
+    "time",
+    "food and meals"
+  ]
+}

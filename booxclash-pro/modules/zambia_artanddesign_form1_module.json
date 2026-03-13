@@ -1,0 +1,675 @@
+{
+    "subject": "Art and Design",
+    "grade": "Form 1",
+    "term": 2,
+    "topics": [
+        {
+            "topic_id": "1.2",
+            "topic_title": "History of Zambian Art",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.2.3",
+                    "title": "Post-Independence Contemporary Art",
+                    "page": 1,
+                    "competences": [
+                        "Explain Post-Independence Contemporary Art"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 1,
+                            "hook": "What do you know about Zambian contemporary artists and their work?",
+                            "teacher_steps": [
+                                "Introduce the concept of Post-Independence Contemporary Art in Zambia",
+                                "Show charts and diagrams on Post-independence Contemporary Art",
+                                "Play videos/documentaries about Post-Independence Contemporary Art",
+                                "Divide learners into groups for research activity",
+                                "Guide learners to research on notable Zambian Post-Independence Contemporary Artists",
+                                "Facilitate pair work for analyzing specific art pieces",
+                                "Write learners answers on the board as they present",
+                                "Outline researched characteristics of Zambian Post-Independence Contemporary Art"
+                            ],
+                            "learner_steps": [
+                                "Research on notable Zambian Post-Independence Contemporary Artists (Agness Buya Yombwe, Flinto Chandia, Caleb Chisha)",
+                                "Identify key galleries (Moto Moto Museum, Lechwe Trust Art Gallery, Wayi Wayi Art Gallery)",
+                                "In pairs, analyse specific art pieces that reflect the characteristics of Post-Independence Contemporary Art in Zambia",
+                                "Present findings to the class",
+                                "Discuss how contemporary art reflects cultural heritage and modern influences"
+                            ],
+                            "short_notes": "Post-Independence Contemporary Art in Zambia reflects the country's cultural heritage and modern influences. Characterized by a blend of traditional and modern styles, Zambian artists address local themes like poverty, inequality, and environmental concerns. Notable artists and galleries promote intergenerational conversations and collaborations. Despite various challenges faced, the art scene continues to grow, driven by individual artists and supporters."
+                        }
+                    ],
+                    "short_notes": "Post-Independence Contemporary Art in Zambia showcases the country's rich cultural identity and its ongoing evolution through a blend of traditional and modern artistic expressions.",
+                    "vocabulary": [
+                        {
+                            "term": "Contemporary Art",
+                            "definition": "Art created in the present time, reflecting current cultural, social, and political contexts"
+                        },
+                        {
+                            "term": "Cultural Heritage",
+                            "definition": "The legacy of physical artifacts and intangible attributes of a group or society inherited from past generations"
+                        },
+                        {
+                            "term": "Post-Independence",
+                            "definition": "The period following Zambia's independence from colonial rule in 1964"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 2,
+                        "questions": [
+                            "Evaluate the significance, impact and contributions of the country's cultural heritage through Post-Independence Contemporary Art",
+                            "Identify and describe notable Zambian contemporary artists and their works",
+                            "Analyze how Post-Independence Contemporary Art reflects Zambian cultural identity"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2.4",
+                    "title": "Traditional Decorations",
+                    "page": 2,
+                    "competences": [
+                        "Make traditional decorations"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 3,
+                            "hook": "What traditional decorations have you seen in your community?",
+                            "teacher_steps": [
+                                "Display charts and diagrams on traditional decorations",
+                                "Show video tutorials on making decorations",
+                                "Guide learners to research different Traditional Decorations found in Zambia",
+                                "Take extra caution to distinguish traditional decorations and where they are locally found",
+                                "Demonstrate how to make traditional decorations (Hand prints, jewellery)",
+                                "Ensure that the traditional decorations made by learners are appropriately crafted",
+                                "Guide learners to state functional uses of their decorations"
+                            ],
+                            "learner_steps": [
+                                "Research the different Traditional Decorations (Hand prints, jewellery) found in Zambia",
+                                "Identify local sources and cultural significance",
+                                "Make traditional decorations (Hand prints, jewellery)",
+                                "Present and explain the functional uses of created decorations"
+                            ],
+                            "short_notes": "Traditional decorations in Zambia are a vibrant reflection of the country's rich cultural heritage and diversity. These decorations feature intricately woven basketry, carved wood items, colourful textiles, and beautiful beadwork. Each decorative form carries significant cultural meanings, often symbolizing stories, traditions, and community values."
+                        }
+                    ],
+                    "short_notes": "Traditional decorations in Zambia showcase diverse cultural practices through basketry, woodwork, textiles, and beadwork. These decorations add beauty to homes and public spaces while playing vital roles in ceremonies, celebrations, and community life.",
+                    "vocabulary": [
+                        {
+                            "term": "Basketry",
+                            "definition": "The craft of making baskets and other objects by weaving flexible materials"
+                        },
+                        {
+                            "term": "Beadwork",
+                            "definition": "Decorative work created using beads, often in patterns with cultural significance"
+                        },
+                        {
+                            "term": "Traditional Decoration",
+                            "definition": "Ornamental items created using traditional methods and materials, carrying cultural meaning"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 3,
+                        "questions": [
+                            "Evaluate the process, product and cultural significance in craftsmanship",
+                            "Assess the making, appreciation of cultural significance and artistic value of traditional decorations",
+                            "Demonstrate technical skills in creating traditional decorations"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2.5",
+                    "title": "Traditional Artifacts",
+                    "page": 3,
+                    "competences": [
+                        "Create traditional Artefacts"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 4,
+                            "hook": "What traditional artifacts are important in your culture?",
+                            "teacher_steps": [
+                                "Show charts and diagrams on traditional Artefacts",
+                                "Display video tutorials on traditional Artefacts",
+                                "Guide learners to research different traditional Artefacts found in Zambia",
+                                "Take extra caution to distinguish among Traditional Artefacts and where they are found locally",
+                                "Demonstrate creation of traditional Artefacts (Basketry, weaving, pottery, beadwork)"
+                            ],
+                            "learner_steps": [
+                                "Research on the different traditional Artefacts (Basketry, weaving, pottery, beadwork) found in Zambia",
+                                "Identify cultural significance and local sources",
+                                "Create traditional Artefacts (Basketry, weaving, pottery, beadwork)",
+                                "Present created artifacts and explain their cultural importance"
+                            ],
+                            "short_notes": "Traditional artefacts in Zambia are physical objects that hold significant cultural, historical, and spiritual value to the country's diverse communities. These artefacts include masks, sculptures, textiles and jewellery with distinct significance in cultural identity, spiritual significance and historical importance."
+                        }
+                    ],
+                    "short_notes": "Traditional artefacts in Zambia are vital parts of the country's cultural heritage. Their preservation and promotion are essential for maintaining rich cultural identity through objects like masks, sculptures, textiles, and jewellery.",
+                    "vocabulary": [
+                        {
+                            "term": "Artefact",
+                            "definition": "An object made by human beings, typically having cultural or historical interest"
+                        },
+                        {
+                            "term": "Pottery",
+                            "definition": "Objects made from clay and hardened by heat, used for functional or decorative purposes"
+                        },
+                        {
+                            "term": "Weaving",
+                            "definition": "The craft of interlacing threads or strips to create fabric or objects"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 4,
+                        "questions": [
+                            "Evaluate the process, product and cultural significance in craftsmanship",
+                            "Assess use of materials in the creation of traditional artefacts",
+                            "Demonstrate technical skills and cultural understanding"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.5",
+            "topic_title": "Graphic Design",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.5.1",
+                    "title": "Poster Making",
+                    "page": 5,
+                    "competences": [
+                        "Design various posters on crosscutting issues to convey messages"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 5,
+                            "hook": "What makes a poster effective in communicating a message?",
+                            "teacher_steps": [
+                                "Provide examples of effective posters (physical or digital)",
+                                "Guide learners to identify and analyse posters that effectively communicate messages on cross-cutting issues",
+                                "Discuss use of colour, imagery and text",
+                                "Demonstrate poster design principles",
+                                "Guide learners to design three types of posters based on cross-cutting issues (informative, advertising, educative)",
+                                "Ensure learners apply upper and lower case typography appropriately",
+                                "Check that designed posters have clear interpretations of given themes",
+                                "Facilitate display and critique of designed posters",
+                                "Ensure posters have clear messages and appropriate use of colours for intended target audience"
+                            ],
+                            "learner_steps": [
+                                "Identify and analyse posters that effectively communicate messages on cross-cutting issues (Gender Based Violence, Betting, Climate change)",
+                                "Focus on what makes posters effective (colour, imagery, text)",
+                                "Design three types of posters based on cross-cutting issues (informative, advertising, educative)",
+                                "Apply upper and lower case typography in poster designs",
+                                "Ensure designed posters have clear interpretations of given themes",
+                                "Display and critique designed posters"
+                            ],
+                            "short_notes": "Poster making is the art of creating visual communications to convey important messages related to cross-cutting issues such as conservation and social activities. Through creative design, learners express ideas visually using composition, color, imagery, and text."
+                        }
+                    ],
+                    "short_notes": "Graphic Design in poster making emphasizes communicating vital messages through visual elements. Learners gain practical skills in poster creation while exploring significant social and environmental issues.",
+                    "vocabulary": [
+                        {
+                            "term": "Typography",
+                            "definition": "The art and technique of arranging type to make written language legible, readable, and appealing"
+                        },
+                        {
+                            "term": "Composition",
+                            "definition": "The arrangement of visual elements in a design"
+                        },
+                        {
+                            "term": "Visual Communication",
+                            "definition": "The conveyance of ideas and information through visual elements"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 6,
+                        "questions": [
+                            "Assess clarity of message in poster designs",
+                            "Evaluate creativity and originality",
+                            "Review effective use of colours and design elements",
+                            "Judge overall aesthetic appeal"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.5.2",
+                    "title": "Computer Aided Design (CAD)",
+                    "page": 6,
+                    "competences": [
+                        "Design various types of cards using a computer"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 7,
+                            "hook": "How can computers help us create better designs?",
+                            "teacher_steps": [
+                                "Define and discuss Computer Aided Design (CAD)",
+                                "Set up computer lab with CAD software",
+                                "Provide sample card designs (printed and digital)",
+                                "Divide learners into groups for exploration",
+                                "Guide learners to make designs using a computer",
+                                "Demonstrate CAD software features",
+                                "Invite guest speaker (Computer Studies Teacher/Expert) to share experiences",
+                                "Guide learners to research and present on careers related to CAD (Architectural Designer, Product Designer, Mechanical Designer)"
+                            ],
+                            "learner_steps": [
+                                "Define and discuss Computer Aided Design (CAD)",
+                                "Explore CAD software interface and tools",
+                                "Make designs using a computer (E-cards, animated cards, Digital invitation, Christmas, anniversary, birthday, graduation, Easter, Kitchen party)",
+                                "Research and present on a career related to CAD (Architectural Designer, Product Designer, Mechanical Designer)",
+                                "Learn about importance of CAD in various professions"
+                            ],
+                            "short_notes": "Computer Aided Design (CAD) is a powerful tool used by designers to create precise drawings and models. This topic introduces learners to CAD fundamentals and its application in designing various types of cards and explores career opportunities in design fields."
+                        }
+                    ],
+                    "short_notes": "CAD provides foundational knowledge and practical skills in computer-aided design, preparing learners for further studies or careers in graphic design and related fields.",
+                    "vocabulary": [
+                        {
+                            "term": "CAD (Computer Aided Design)",
+                            "definition": "The use of computer software to create, modify, analyze, and optimize designs"
+                        },
+                        {
+                            "term": "Digital Design",
+                            "definition": "The creation of visual content using computer software"
+                        },
+                        {
+                            "term": "Software Interface",
+                            "definition": "The visual elements through which users interact with computer programs"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 8,
+                        "questions": [
+                            "Evaluate designs based on creativity, adherence to design principles, and technical execution in CAD",
+                            "Assess group presentations on career research for content and presentation skills",
+                            "Review understanding of CAD applications in various professions"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.6",
+            "topic_title": "Pattern and Design",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.6.1",
+                    "title": "Patterns",
+                    "page": 9,
+                    "competences": [
+                        "Make patterns"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 10,
+                            "hook": "Where do you see patterns in nature and in everyday objects?",
+                            "teacher_steps": [
+                                "Show charts and diagrams on patterns",
+                                "Play videos/documentaries about patterns",
+                                "Display printed motifs/printed fabric (Chitenge)",
+                                "Guide learners to create examples of artificial and natural patterns using various materials",
+                                "Facilitate research and illustration on artificial and natural patterns",
+                                "Guide learners to identify and label examples of artificial and natural patterns in given images",
+                                "Display learner's works to demonstrate knowledge of artificial and natural patterns",
+                                "Facilitate pair work to sort different types of identified Motifs (Geometric, Organic, Abstract)",
+                                "Write learners answers on board and outline correct types of motifs",
+                                "Guide learners to explore various motif designs by creating new designs",
+                                "Encourage learners to create variation of existing motif designs",
+                                "Demonstrate pattern making techniques (potato printing, stencil printing, linocut printing, intaglio printing)",
+                                "Guide learners to incorporate pattern inspirations into their own designs",
+                                "Encourage experimentation with different materials, techniques and patterns"
+                            ],
+                            "learner_steps": [
+                                "Research and make illustrations on artificial and natural patterns",
+                                "Identify and label examples of artificial and natural patterns (stripes and polka dots in fabric, wallpaper, ceramics, geometric shapes in architecture; leaves and flowers for shapes, colours, arrangements; rocks for textures)",
+                                "In pairs, sort different types of identified Motifs (Geometric, Organic, Abstract)",
+                                "Explore various motif designs by creating new designs using materials (paper, paint, fabric)",
+                                "Create variation of existing motif designs, exploring different colours, shapes and patterns",
+                                "Combine two or more motif designs to create new and unique designs",
+                                "Discuss materials used for each technique (potato for potato printing, stencils for shapes, linoleum blocks, intaglio plates, ink and paint, paper and fabric)",
+                                "Make patterns (Random, regular) using various techniques (potato printing, stencil printing, linocut printing, intaglio printing)",
+                                "Incorporate pattern inspirations into own designs",
+                                "Experiment with different materials, techniques and patterns"
+                            ],
+                            "short_notes": "Pattern design is the creation of repeating designs or motifs, often used to add visual interest and beauty to various surfaces, objects and materials. Pattern uses art elements in planned or random repetition to enhance surfaces or paintings or sculptures. Patterns often occur in nature, and artists use similar repeated motifs to create pattern in their work."
+                        }
+                    ],
+                    "short_notes": "Patterns and designs shape our emotions, behaviours and interactions around the environment. They influence experiences through various forms in architecture, fashion, and other applications, showcasing diverse cultural practices.",
+                    "vocabulary": [
+                        {
+                            "term": "Motif",
+                            "definition": "A repeated element or design unit used in a pattern or composition. It can be a shape, symbol, or image that is repeated to create a larger design"
+                        },
+                        {
+                            "term": "Repetition",
+                            "definition": "The repeated use of a motif or element in a design or pattern. It can create rhythm, unity, and emphasis"
+                        },
+                        {
+                            "term": "Rhythm",
+                            "definition": "The creation of a visual tempo or beat through the repetition of elements, such as motifs or colours. It can guide the viewer's eye through the composition"
+                        },
+                        {
+                            "term": "Symmetry",
+                            "definition": "The quality of being balanced and harmonious in terms of shape, size, and position. It occurs when one half of an object or design is a mirror image of the other half"
+                        },
+                        {
+                            "term": "Asymmetry",
+                            "definition": "Occurs when an object or design does not have a mirror image or balance between its parts. Asymmetry can create visual interest and dynamic composition"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 11,
+                        "questions": [
+                            "Observe learners during pattern making activities",
+                            "Review learners' artworks for composition, texture and colour",
+                            "Evaluate understanding of pattern types and techniques"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.7",
+            "topic_title": "Drawing and Painting from Imagination",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.7.1",
+                    "title": "Imaginative Compositions",
+                    "page": 12,
+                    "competences": [
+                        "Compose pictures based on a given theme"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 13,
+                            "hook": "What images come to mind when you think about your family or a busy market?",
+                            "teacher_steps": [
+                                "Introduce concepts of Imaginative composition and its importance to Art",
+                                "Display video/show examples of imaginative compositions from various artists and styles",
+                                "Give learners a list of themes to choose from (My family, market place, hunting)",
+                                "Encourage learners to brainstorm ideas related to chosen theme",
+                                "Guide learners to think about personal experiences, memories or emotions",
+                                "Facilitate creation of artworks using recycled materials depicting environmental issues",
+                                "Engage learners in debate on environmental issues for better interpretation",
+                                "Organize field trip or virtual tour to evoke imaginative experiences",
+                                "Guide learners to draw and paint imaginative pictures based on tour ideas"
+                            ],
+                            "learner_steps": [
+                                "Discuss Imaginative composition",
+                                "View examples of imaginative compositions from various artists and styles",
+                                "Select one theme that resonates appropriately (My family, market place, hunting)",
+                                "Brainstorm ideas related to chosen theme",
+                                "Think about personal experiences, memories or emotions associated with theme",
+                                "Create artworks using recycled materials, depicting environmental issues (climate change, conservation)",
+                                "Participate in debate on environmental issues",
+                                "Go on field trip to nearby park or village scenery/town scape to observe and sketch (landscapes, village scenery, town scape)",
+                                "Draw and paint imaginative pictures based on ideas from tour"
+                            ],
+                            "short_notes": "Imaginative Composition is the creative process of arranging visual elements and principles to convey visual representations, ideas, emotions or stories. It involves imagination and artistic skills to create meaningful images that evoke emotions, convey ideas and engage the viewer's imagination."
+                        }
+                    ],
+                    "short_notes": "Drawing and painting from imagination unlocks the power of imagination, giving learners freedom to explore thoughts, emotions, experiences and express them visually. It cultivates creativity and originality while developing critical thinking and problem-solving skills.",
+                    "vocabulary": [
+                        {
+                            "term": "Creativity",
+                            "definition": "The ability to generate new and original ideas"
+                        },
+                        {
+                            "term": "Imagination",
+                            "definition": "The ability to form mental images or concepts"
+                        },
+                        {
+                            "term": "Abstraction",
+                            "definition": "The process of simplifying forms into essential elements"
+                        },
+                        {
+                            "term": "Expressionism",
+                            "definition": "Art movement that emphasizes expressing emotions and inner experiences"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 14,
+                        "questions": [
+                            "Evaluate creativity and originality in imaginative compositions",
+                            "Assess ability to convey themes through visual elements",
+                            "Review interpretation of ideas and cross-cutting issues"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.8",
+            "topic_title": "Drawing and Painting from Observation",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.8.1",
+                    "title": "Drawing or Painting from Natural or Man-Made Objects",
+                    "page": 15,
+                    "competences": [
+                        "Draw and or paint pictures from observation"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 15,
+                            "hook": "How can we accurately capture what we see in our drawings?",
+                            "teacher_steps": [
+                                "Set up art room with good lighting and easels",
+                                "Provide access to gardens, parks, or urban settings for live observation",
+                                "Guide learners to choose a natural object (tree, flower, fruit) and create detailed drawing or painting from observation",
+                                "Encourage learners to focus on light effect on natural objects (shadow, texture) to enhance realism",
+                                "Guide learners to select a Man-made object (building, piece of furniture) and create complete drawing or painting",
+                                "Emphasise the need to capture foreground, mid-ground and background as part of compositions",
+                                "Evaluate learners' artworks based on accuracy, creativity, and application of techniques",
+                                "Provide constructive feedback during peer reviews"
+                            ],
+                            "learner_steps": [
+                                "Choose a natural object (tree, flower, fruit) and create detailed drawing or painting from observation",
+                                "Focus on light effect on natural objects (shadow, texture) to enhance realism",
+                                "Select a Man-made object (building, piece of furniture) and create complete drawing or painting highlighting its features",
+                                "Focus on light effect on Man-made objects (shadow, texture) to enhance realism",
+                                "Capture foreground, mid-ground and background as part of compositions",
+                                "Participate in peer reviews"
+                            ],
+                            "short_notes": "Drawing and painting from observation is a fundamental skill for artists, allowing them to accurately capture the world around them. By observing and rendering subjects directly, artists develop their ability to see and represent finer details of light, form, texture, and colour."
+                        }
+                    ],
+                    "short_notes": "Drawing and painting from observation helps develop observational skills and attention to detail, improve rendering techniques and artistic expression, and create authentic and realistic representations of the world.",
+                    "vocabulary": [
+                        {
+                            "term": "Observation",
+                            "definition": "The act of carefully studying and noting the details of a subject"
+                        },
+                        {
+                            "term": "Rendering",
+                            "definition": "Creating a detailed and accurate representation of a subject"
+                        },
+                        {
+                            "term": "Proportion",
+                            "definition": "The relationship between the size and scale of different parts of a subject"
+                        },
+                        {
+                            "term": "Perspective",
+                            "definition": "Creating the illusion of three-dimensional space on a two-dimensional surface"
+                        },
+                        {
+                            "term": "Value",
+                            "definition": "The lightness or darkness of a colour or object"
+                        },
+                        {
+                            "term": "Chiaroscuro",
+                            "definition": "Use of strong contrasts between light and dark to create a sense of volume and depth"
+                        },
+                        {
+                            "term": "Colour theory",
+                            "definition": "The study of how colours interact and affect each other"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 16,
+                        "questions": [
+                            "Evaluate learners' artworks based on accuracy, creativity, and application of techniques taught",
+                            "Assess skills acquired in observational drawing",
+                            "Provide constructive feedback during peer reviews"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.9",
+            "topic_title": "Drawing and Painting from Still Life",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.9.1",
+                    "title": "Still Life Drawing and or Painting",
+                    "page": 17,
+                    "competences": [
+                        "Compose pictures from Still life"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 17,
+                            "hook": "What everyday objects around us can become interesting subjects for art?",
+                            "teacher_steps": [
+                                "Set up art room or studio environment",
+                                "Define Still Life (Objects arranged in a specific way to create a composition)",
+                                "Provide constructive feedback based on peer reviews",
+                                "Introduce concepts of Still Life Drawing (composition, shape, light and shadow, form and texture)",
+                                "Demonstrate step by step how to capture a given Still life arrangement",
+                                "Display already made teaching aids or invite expert",
+                                "Show online drawing/painting tutorials",
+                                "Task learners to sketch and draw arranged house-hold objects (pot, cup, dish, sugar bowl)",
+                                "Encourage learners to observe set-up carefully and pay attention to shape, texture, form, value, balance and proportion",
+                                "Go round and guide/encourage learners to work collaboratively",
+                                "Display readily drawn artworks (Curation)",
+                                "Facilitate identifying and critiquing Still Life drawing concepts"
+                            ],
+                            "learner_steps": [
+                                "Provide constructive feedback during peer reviews",
+                                "Brainstorm and highlight concepts of Still life drawing as guided by teacher",
+                                "Sketch and draw a cup by experimenting with different drawing tools (pencils/charcoal)",
+                                "Observe set-up carefully and pay attention to composition, shape, light and shadow, form and texture",
+                                "Work collaboratively and freely to appreciate peer drawing working styles",
+                                "Identify and critique Still Life drawing concepts of readily drawn artworks"
+                            ],
+                            "short_notes": "Still life drawing and painting is an artistic style that captures the aesthetics and essence of static objects, often arranged in deliberate compositions. From everyday household items to symbolic objects, artists use light, colour, texture, proportion and composition to convey meaning and emotion."
+                        }
+                    ],
+                    "short_notes": "Still life drawing and painting offers numerous benefits that enhance skills, creativity and overall artistic growth. Fundamental skills in observation, form rendering and color theory are developed through practice with arranged objects.",
+                    "vocabulary": [
+                        {
+                            "term": "Composition",
+                            "definition": "Arrangement of objects in a still life setup"
+                        },
+                        {
+                            "term": "Proportion",
+                            "definition": "Relationship between the size of objects in the setup"
+                        },
+                        {
+                            "term": "Value",
+                            "definition": "Lightness or darkness of objects, used to create contrast"
+                        },
+                        {
+                            "term": "Colour/Hue",
+                            "definition": "An important art element that defines the reflection of light on an object"
+                        },
+                        {
+                            "term": "Still life arrangement/Drawing motif",
+                            "definition": "Objects arranged in a specific way to create a composition; a recurring theme element or pattern used in a composition to create unity, emphasis or rhythm"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 18,
+                        "questions": [
+                            "Evaluate Still life drawings based on shape, texture, form, value (light and dark), balance and proportion",
+                            "Conduct peer-self assessment to promote critical thinking and constructive criticism",
+                            "Review application of Still Life concepts"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.10",
+            "topic_title": "Figure Drawing",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.10.1",
+                    "title": "Stick Figure Drawing",
+                    "page": 19,
+                    "competences": [
+                        "Compose Stick-Figures"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 19,
+                            "hook": "How can simple lines show movement and action?",
+                            "teacher_steps": [
+                                "Give learners a brief account about the value of Stick Figure Drawing as a prelude to major designing",
+                                "Define and discuss Stick Figure Drawing",
+                                "Demonstrate how to design Stick-figures of Persons in action (Running, Walking, Swimming, Cooking, Bathing)",
+                                "Emphasize the concept of visual storyline in short creation",
+                                "Ensure learners develop deeper comprehension and value of Stick Figure Drawing",
+                                "Prepare tasks and allocate time for practical and oral assessments"
+                            ],
+                            "learner_steps": [
+                                "Define and discuss Stick Figure Drawing",
+                                "Design Stick-figures of Persons in action (Running, Walking, Swimming, Cooking, Bathing)",
+                                "Focus on visual storyline in short creation",
+                                "Demonstrate understanding through practical work"
+                            ],
+                            "short_notes": "Stick Figure Drawing is a creative process that involves generating visual representations on a two-dimensional surface using various techniques including drawing, painting, and digital illustration. It uses lines in various shapes to represent the torso and limbs, leading to more complex designs such as animations, infographics, signage and other defined visual media."
+                        }
+                    ],
+                    "short_notes": "Stick Figure Drawing introduces learners to basics on the use of line and shape to create simple imagery. It offers advantages such as minimal materials, minimal skill required, easy and clear conveyance of actions, poses and basic concepts, and creation of visual notes for easy recall.",
+                    "vocabulary": [
+                        {
+                            "term": "Medium",
+                            "definition": "The material or technique used to create a work of art, such as painting, drawing, sculpture, or digital art"
+                        },
+                        {
+                            "term": "Line",
+                            "definition": "A continuous mark made on a surface by a drawing tool, used to define shape, suggest movement, or create texture"
+                        },
+                        {
+                            "term": "Shape",
+                            "definition": "A self-contained area with height and width, often used to create composition, balance, and harmony in a work of art"
+                        },
+                        {
+                            "term": "Balance",
+                            "definition": "The arrangement of visual elements to create a sense of stability and equilibrium, often achieved through symmetry, asymmetry, or radial composition"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 20,
+                        "questions": [
+                            "Assess learners' development of deeper comprehension and value of Stick Figure Drawing",
+                            "Evaluate practical and oral assessments based on Stick Figure Drawings",
+                            "Review ability to convey action and movement through simple lines"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

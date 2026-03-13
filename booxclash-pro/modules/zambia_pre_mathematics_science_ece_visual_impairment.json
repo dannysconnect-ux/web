@@ -1,0 +1,983 @@
+{
+    "subject": "Pre-Mathematics and Science",
+    "grade": "Early Childhood Education",
+    "age_range": "3-4 years",
+    "special_needs": "Visual Impairment",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "Classification",
+            "page": 6,
+            "general_competences": [
+                "Collaboration",
+                "Critical thinking"
+            ],
+            "vocabulary": [
+                {
+                    "term": "Classification",
+                    "definition": "the allocation of items to groups according to types and the sorting and grouping of items/objects according to their attributes/characteristics"
+                }
+            ],
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Classification",
+                    "page": 6,
+                    "competences": [
+                        "Classify items according to their attributes"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 6,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [
+                                "Go round the school surrounding",
+                                "List what they see/touch",
+                                "Play games with stones, sticks, lid tops in games like 'iciyenga' etc",
+                                "Answer oral questions on mentioning stones used in games of draft, 'iciyenga' etc"
+                            ],
+                            "short_notes": "Exploring the environment"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 6,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Show the items to the Learners according to size quantity"
+                            ],
+                            "learner_steps": [
+                                "Identify list of items in groups according to size and quantity",
+                                "Differentiate items according to quantity and size"
+                            ],
+                            "short_notes": "Identifying of various objects according to given criteria such as quantity and size. Given a list of items e.g. (5 litres of cooking oil, 2.5 litres of cooking oil,1kg of salt, 2kg of mealie meal, 500g of sugar and 500g of salt)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 7,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Present various fruits to the Learners",
+                                "Show the sizes and numbers of the fruits"
+                            ],
+                            "learner_steps": [
+                                "Match sizes and number of the given fruits",
+                                "Match the sizes and number of fruits given correctly"
+                            ],
+                            "short_notes": "Matching familiar objects according to given criteria such as size and number"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 7,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Give each chair to a given child",
+                                "Explain to learners to get only one pencil from 12 pencils displayed on the table in relation to their names",
+                                "Line up learners to get each cup according his/her name",
+                                "Ask questions on how many books, pencils, crayons etc. if the class has only 12 learners"
+                            ],
+                            "learner_steps": [
+                                "Get one chair each",
+                                "Get one pencil each according to their names",
+                                "Get one cup each according to their names"
+                            ],
+                            "short_notes": "Matching objects in one-to-one correspondence e.g. a chair for each child"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 7,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Display different bottle tops on the table",
+                                "Allow all the learners to see/touch the objects on the display",
+                                "Allow the learners to sort out the bottle tops according to size and shape"
+                            ],
+                            "learner_steps": [
+                                "Group objects according to their sizes and shapes"
+                            ],
+                            "short_notes": "Sorting objects according to given criteria such as size and shape"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6",
+                            "page": 8,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Display the assorted bottle tops, lid tops on the table",
+                                "Explain how a given bottle top/lid fits a given bottle",
+                                "Divide the learners into groups and allow them to sort the bottle tops according to the given bottles"
+                            ],
+                            "learner_steps": [
+                                "Sort out the given bottle tops to the given bottles individually"
+                            ],
+                            "short_notes": "Sorting objects using puzzles and games (shoe size, height)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7",
+                            "page": 8,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Display the kitchen utensils on the table",
+                                "Allow learners to come forward to see/touch the utensils",
+                                "Explain the functions of the given utensils to the learners"
+                            ],
+                            "learner_steps": [
+                                "Group the given objects according to their functions and similarities"
+                            ],
+                            "short_notes": "Grouping objects according to the given criteria such as functions and similarities"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "8",
+                            "page": 8,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Arrange assorted items at the table like sticks, cloth, rulers, pencils, balls, shoes etc",
+                                "Explain to the learners the objects displayed on the table that they are of different shapes, height, length and size"
+                            ],
+                            "learner_steps": [
+                                "Arrange the assorted objects according to their length, shapes, height and size",
+                                "List the assorted objects according to their shapes, length, size and height individually"
+                            ],
+                            "short_notes": "Ordering objects according to given criteria such as length, height, size and shape"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "9",
+                            "page": 9,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Find out from pupils which daily routine activities they know",
+                                "Discuss the daily routine activities (Brushing of teeth, combing of hair, eating breakfast, going to school, washing/bathing)"
+                            ],
+                            "learner_steps": [
+                                "Identify the daily routine activities correctly",
+                                "Demonstrate how these daily routine activities are done"
+                            ],
+                            "short_notes": "Ordering daily routine activities"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "10",
+                            "page": 9,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Let the learners mention the days of the week",
+                                "Jumble the days of week and ask them to identify the first and last day of the week",
+                                "Divide learners into groups and then sing the song 'number one, number 2 where are you?' While others mention the days of the week"
+                            ],
+                            "learner_steps": [
+                                "Mention the days of the week",
+                                "Sing the song 'number one, number 2 where are you?' While others mention the days of the week",
+                                "Pair up and revise the numbers and the days of the week"
+                            ],
+                            "short_notes": "Telling number stories"
+                        }
+                    ],
+                    "short_notes": "Classification is the allocation of items to groups according to types. It is important in one's life as it instills a sense of recognition of characteristics of items/objects. It helps us to distinguish between two or more items/objects.",
+                    "assessment": {
+                        "page": 9,
+                        "questions": [
+                            "Classification of objects according to their attributes through observation",
+                            "Question and answer on classification",
+                            "Group work on classification",
+                            "Demonstration of classification",
+                            "Puzzles and games on classification"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "Human Body",
+            "page": 10,
+            "general_competences": [
+                "Collaboration",
+                "Critical thinking"
+            ],
+            "vocabulary": [
+                {
+                    "term": "External parts of the body",
+                    "definition": "parts of the body which are visibly seen. They include hair, eyes, nose, teeth, skin, hands and legs"
+                },
+                {
+                    "term": "Personal hygiene",
+                    "definition": "the practice of keeping your body clean and healthy by washing and grooming yourself"
+                },
+                {
+                    "term": "Human body",
+                    "definition": "the physical substance of the human organism, composed of living cells and extra cellular materials and organized into tissues and organs"
+                }
+            ],
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "External parts of the body",
+                    "page": 10,
+                    "competences": [
+                        "Recognize and name the external parts of the human body"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 10,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Present a toy in the class representing a human body",
+                                "Tell the learners to touch all the parts of that toy while teacher names those parts"
+                            ],
+                            "learner_steps": [
+                                "Mention the parts of the body individually",
+                                "Sing a song naming the parts of the body"
+                            ],
+                            "short_notes": "Identifying the external parts of the human body (Head, eyes, nose, mouth, arms, hands and feet) through games and songs"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 11,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Allow the learners to stand up and mention their parts of the body individually",
+                                "Ask the learners what each part of the body does",
+                                "Explain the functions of each part of the body"
+                            ],
+                            "learner_steps": [
+                                "Sing a song mentioning the function of each part of the body"
+                            ],
+                            "short_notes": "Relating external parts of the human body to their functions through songs and activities such as eyes for seeing, hands for touching/holding, legs for walking"
+                        }
+                    ],
+                    "short_notes": "External parts of the body are parts of the body which are visibly seen. They include hair, eyes, nose, teeth, skin, hands and legs.",
+                    "assessment": {
+                        "page": 11,
+                        "questions": [
+                            "Identification of external parts of human body",
+                            "Relate these parts to their functions"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Personal Hygiene",
+                    "page": 11,
+                    "competences": [
+                        "Practice basic personal hygiene"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Demonstrate to the learners on how to wash the hands",
+                                "Put learners into pairs to practice"
+                            ],
+                            "learner_steps": [
+                                "Follow what the teacher demonstrated"
+                            ],
+                            "short_notes": "Demonstrating proper hand washing using songs or rhymes"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Display materials used for brushing on the table",
+                                "Demonstrate on how to use these materials step by step"
+                            ],
+                            "learner_steps": [
+                                "Do the actual brushing of the teeth"
+                            ],
+                            "short_notes": "Demonstrating how to brush teeth using appropriate materials"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain to the learners the toilet facilities",
+                                "Demonstrate how to use it (Flushing and covering)"
+                            ],
+                            "learner_steps": [
+                                "Demonstrate/practice how to flush and cover the toilet hole in pairs"
+                            ],
+                            "short_notes": "Practicing using toilet facilities (Flushing and covering the toilet after use, opening and covering the drop hole)"
+                        }
+                    ],
+                    "short_notes": "Personal hygiene is the practice of keeping your body clean and healthy by washing and grooming yourself. This includes washing your hands and practicing oral hygiene.",
+                    "assessment": {
+                        "page": 12,
+                        "questions": [
+                            "How to brush their teeth",
+                            "Practice using toilet facilities"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "Nutrition and Health",
+            "page": 13,
+            "general_competences": [
+                "Collaboration",
+                "Critical thinking",
+                "Creativity and innovation"
+            ],
+            "vocabulary": [
+                {
+                    "term": "Food",
+                    "definition": "any substance consumed by an organism for nutritional support. Food is usually of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins or minerals"
+                },
+                {
+                    "term": "Food hygiene",
+                    "definition": "the practice of handling, preparing and storing food to prevent contamination and food borne illness"
+                },
+                {
+                    "term": "Healthy foods",
+                    "definition": "foods that are rich in nutrients"
+                },
+                {
+                    "term": "Unhealthy foods",
+                    "definition": "foods that are high in calories and low in nutrients"
+                },
+                {
+                    "term": "Nutrition and health",
+                    "definition": "a science of human nutrition or science of food, the nutrients and other substances therein, their action, interaction and balance in relation to health and diseases"
+                }
+            ],
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Food",
+                    "page": 13,
+                    "competences": [
+                        "Identify different types of food"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Define fruits, vegetables, grains, proteins and dairy",
+                                "Divide the class into groups, ask the pupils to identify and name various types of food"
+                            ],
+                            "learner_steps": [
+                                "Identify the various types of food"
+                            ],
+                            "short_notes": "Identifying and naming various types of food (fruits, vegetables, grains, and proteins, dairy)"
+                        }
+                    ],
+                    "short_notes": "Food is any substance consumed by an organism for nutritional support. Food is usually of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins or minerals.",
+                    "assessment": {
+                        "page": 14,
+                        "questions": [
+                            "Identification and naming of various types of food"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "Food Hygiene",
+                    "page": 14,
+                    "competences": [
+                        "Practice food hygiene"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 14,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain the importance of food hygiene",
+                                "Display the foodstuffs available and allow learners to come forward to the display table",
+                                "Demonstrate on how foodstuffs should be handled"
+                            ],
+                            "learner_steps": [
+                                "Practice on how to keep food hygienically"
+                            ],
+                            "short_notes": "Demonstrate food hygienic practices of handling foods, such as washing hands, fruits, vegetables and covering food"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Demonstrate to learners on how to remove the utensils from the table",
+                                "Demonstrate on how to clean/wash of the utensils"
+                            ],
+                            "learner_steps": [
+                                "Practice on how to clean/wash the utensils",
+                                "Wipe and clean the surfaces"
+                            ],
+                            "short_notes": "Washing of utensils after eating"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain to the learners about the leftover food",
+                                "Show the leftover food to learners",
+                                "Demonstrate how to warm the food",
+                                "Ask learners on how to warm leftover food orally"
+                            ],
+                            "learner_steps": [
+                                "Answer orally on how to warm leftover food"
+                            ],
+                            "short_notes": "Practising warming leftover food before eating"
+                        }
+                    ],
+                    "short_notes": "Food hygiene is the practice of handling, preparing and storing food to prevent contamination and food borne illness.",
+                    "assessment": {
+                        "page": 15,
+                        "questions": [
+                            "How to keep food hygienically",
+                            "Find ways of not making food (leftover food) to go bad"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.3",
+                    "title": "Healthy and Unhealthy Foods",
+                    "page": 15,
+                    "competences": [
+                        "Identify healthy and unhealthy foods"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ask learners about healthy and unhealthy foods",
+                                "Discuss with learners on healthy and unhealthy foods"
+                            ],
+                            "learner_steps": [
+                                "Mention unhealthy and healthy foods orally in groups"
+                            ],
+                            "short_notes": "Identifying healthy and unhealthy food choices"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain differences between healthy and unhealthy foods",
+                                "Identify healthy and unhealthy foods with learners"
+                            ],
+                            "learner_steps": [
+                                "Identify the unhealthy and healthy foods orally"
+                            ],
+                            "short_notes": "Differentiating between healthy and unhealthy food choices (Vegetables being healthier choices compared to sugary snacks)"
+                        }
+                    ],
+                    "short_notes": "Healthy foods are rich in nutrients, while unhealthy foods are high in calories and low in nutrients.",
+                    "assessment": {
+                        "page": 16,
+                        "questions": [
+                            "Identify healthy and unhealthy foods",
+                            "Show the differences between the two types of foodstuffs"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "Number and Notation",
+            "page": 17,
+            "general_competences": [
+                "Critical thinking",
+                "Problem solving"
+            ],
+            "vocabulary": [
+                {
+                    "term": "Number and Notation",
+                    "definition": "a way to represent numbers using symbols or digits"
+                },
+                {
+                    "term": "Numbers",
+                    "definition": "mathematical objects to count, measure, and label. They can be written as numerals like '1' or as words, like 'one'"
+                }
+            ],
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Numbers",
+                    "page": 17,
+                    "competences": [
+                        "Recognise numbers"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain to the learners that they will count numbers 1-10 and real objects 1-5",
+                                "Demonstrate to the learners on how to count from 1-10 orally, using a song",
+                                "Demonstrate to learners on counting numbers 1-5 using stones"
+                            ],
+                            "learner_steps": [
+                                "Count in pairs using stones, 1-5 and orally using songs"
+                            ],
+                            "short_notes": "Counting orally numbers 1-10, counting concrete or real objects 1-5"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Revise activity one by giving a child a bundle of sticks to get five from these",
+                                "Demonstrate writing numbers using concrete objects from 1-5",
+                                "Ask pupils to practice writing numbers 1-5"
+                            ],
+                            "learner_steps": [
+                                "Count numbers individually 1-5"
+                            ],
+                            "short_notes": "Identifying numbers 1-5 using objects"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 18,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ask individual learners to identify written numbers 1-5 using objects",
+                                "Ask learners to count written numbers 1-5 using objects",
+                                "Heap different objects in 1,2,3,4,5 and ask learners to name numbers according to the heap of numbers",
+                                "Ask pupils to identify written numbers and count numbers 1-5 using objects"
+                            ],
+                            "learner_steps": [
+                                "Identify written numbers 1-5 using objects",
+                                "Count written numbers 1-5 using objects",
+                                "Name numbers according to the heap of objects"
+                            ],
+                            "short_notes": "Identify written numbers 1-5 using objects"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 18,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Give objects to the learners according to the number of object each learner has (1-5)",
+                                "Call out numbers 1-5, and ask learners having the number mentioned to stand and name the number",
+                                "Ask pupils to read the written numbers (1-5) using objects",
+                                "Ask learners to name numbers 1-5 using objects"
+                            ],
+                            "learner_steps": [
+                                "Stand when their number is called and name the number",
+                                "Read the written numbers (1-5) using objects",
+                                "Name numbers 1-5 using objects"
+                            ],
+                            "short_notes": "Naming numbers 1-5 using objects"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 18,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain to the learners how the game is played",
+                                "Demonstrate to the learners how the game is played, eg. Five holes are made and the teacher places a stone in the third hole, then the learner hops to the third hole where the stone is etc",
+                                "Divide learners into pairs to practice the game",
+                                "Divide into groups and do a competition on hopscotch"
+                            ],
+                            "learner_steps": [
+                                "Practice the hopscotch game in pairs",
+                                "Compete in groups on hopscotch"
+                            ],
+                            "short_notes": "Recognizing the value of numbers 1-5 using real objects through hopscotch game"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain to the learners how matching familiar objects according to their value (1-5)",
+                                "Demonstrate by matching the numbers 1 to 1 stone, 2 to 2 books, 3, 3 pencils etc"
+                            ],
+                            "learner_steps": [
+                                "Match familiar objects to 1-5 to bottles, pens, books etc",
+                                "Do individual work on the same work"
+                            ],
+                            "short_notes": "Matching familiar objects according to their value (1-5)"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "7",
+                            "page": 19,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain to the learners on how to write (emboss)",
+                                "Discuss with learners on how to write numeral sign as dot 3 and 456"
+                            ],
+                            "learner_steps": [
+                                "Emboss numeral sign and immediately dot 1, dot 1 2, dots 1 3 etc",
+                                "Write (emboss, 1-5) correctly"
+                            ],
+                            "short_notes": "Embossed numbers 1-5"
+                        }
+                    ],
+                    "short_notes": "Numbers are mathematical objects to count, measure, and label. They can be written as numerals like '1' or as words, like 'one'.",
+                    "assessment": {
+                        "page": 19,
+                        "questions": [
+                            "How to recognize numbers from 1-10",
+                            "Emboss numbers from 1-5 correctly"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "Addition and Subtraction",
+            "page": 20,
+            "general_competences": [
+                "Critical thinking",
+                "Problem solving"
+            ],
+            "vocabulary": [
+                {
+                    "term": "Addition and Subtraction",
+                    "definition": "mathematical operation that involve combining or removing number. They are represented by plus sign (+) and (-)"
+                },
+                {
+                    "term": "Addition",
+                    "definition": "the process of calculating the total of two or more numbers or amounts"
+                },
+                {
+                    "term": "Subtraction",
+                    "definition": "the operation or process of finding the difference between two numbers or quantity"
+                }
+            ],
+            "sub_topics": [
+                {
+                    "subtopic_id": "5.1",
+                    "title": "Addition",
+                    "page": 20,
+                    "competences": [
+                        "Use mathematical operations"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain to the learners the process of adding numbers from 1-5 using concrete objects",
+                                "Demonstrate to the learners using concrete object in showing 1 plus 1, which makes two, 1 plus 2, makes 3 etc",
+                                "Divide learners into groups to add objects to the sum of five"
+                            ],
+                            "learner_steps": [
+                                "Use concrete objects in adding to the sum of five individually"
+                            ],
+                            "short_notes": "Adding concrete objects up to the sum of 5"
+                        }
+                    ],
+                    "short_notes": "Addition is the process of calculating the total of two or more numbers or amounts.",
+                    "assessment": {
+                        "page": 21,
+                        "questions": [
+                            "How to add concrete things up to 5",
+                            "Use the mathematical operation of addition correctly"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "5.2",
+                    "title": "Subtraction",
+                    "page": 21,
+                    "competences": [
+                        "Use mathematical operations"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain the process of subtraction using concrete objects",
+                                "Demonstrate the process using concrete objects eg. 3-2, 4-1, and 3-1 etc"
+                            ],
+                            "learner_steps": [
+                                "Use concrete objects in the subtraction up to the difference of 4",
+                                "Subtract up to the difference of 4 using concrete objects individually"
+                            ],
+                            "short_notes": "Subtracting concrete objects up to the difference of 4"
+                        }
+                    ],
+                    "short_notes": "Subtraction is the operation or process of finding the difference between two numbers or quantity.",
+                    "assessment": {
+                        "page": 21,
+                        "questions": [
+                            "Subtraction up to the difference of 4 using concrete materials"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "6.0",
+            "topic_title": "Shapes",
+            "page": 22,
+            "general_competences": [
+                "Analytical thinking",
+                "Collaboration",
+                "Critical thinking",
+                "Problem solving"
+            ],
+            "vocabulary": [
+                {
+                    "term": "Shapes",
+                    "definition": "in mathematics define the outline or the boundary of an object, the shapes can be classified into different types based on their properties"
+                }
+            ],
+            "sub_topics": [
+                {
+                    "subtopic_id": "6.1",
+                    "title": "Shapes",
+                    "page": 22,
+                    "competences": [
+                        "Create shapes"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Introduce the lesson on making lines using real objects",
+                                "Demonstrate using the material available to make lines"
+                            ],
+                            "learner_steps": [
+                                "Practice making lines using the given materials",
+                                "Make lines using the real objects given correctly individually"
+                            ],
+                            "short_notes": "Making lines using real objects"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 22,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Introduce the lesson by giving out cut outs",
+                                "Demonstrate with the given material on how to make shapes",
+                                "Divide learners into groups to make different shapes"
+                            ],
+                            "learner_steps": [
+                                "Construct shapes using puzzles and other items individually"
+                            ],
+                            "short_notes": "Construct shapes using puzzle and other items"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain the meaning of a 2 dimensional shape (a shape with a length and width that can be drawn on the flat surface)",
+                                "Give examples; shapes, like triangles, circle, rectangle etc",
+                                "Create some 2 dimensional shapes on the flat surface like a paper etc with learners"
+                            ],
+                            "learner_steps": [
+                                "Create at least 2 shapes of 2 dimensional correctly individually"
+                            ],
+                            "short_notes": "Creating 2 dimensional shape diagrams"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain the meaning to the learners that 3 D means solid objects that have length, width and height",
+                                "Discuss names of such shapes like cones, sphere, cylinder etc with learners",
+                                "Demonstrate on how to make such solid shapes like cuboids and cone"
+                            ],
+                            "learner_steps": [
+                                "Make at least 2 3 dimensional shape correctly"
+                            ],
+                            "short_notes": "Making 3 dimensional shapes"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 23,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Revise activity 3 and 4 with the learners",
+                                "Discuss 2 dimensional and 3 dimensional shapes with learners"
+                            ],
+                            "learner_steps": [
+                                "Compare the shapes discussed of 2 dimensional and 3 dimensional",
+                                "Discuss orally on the comparison of the shapes"
+                            ],
+                            "short_notes": "Comparing shapes according to size"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "6",
+                            "page": 24,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain on how to trace shapes",
+                                "Demonstrate on how to trace the shapes, mould and do some cut outs",
+                                "Divide learners into groups and tell them to trace using cut outs"
+                            ],
+                            "learner_steps": [
+                                "Trace the shapes using the cut outs individually"
+                            ],
+                            "short_notes": "Tracing shapes"
+                        }
+                    ],
+                    "short_notes": "Shapes in mathematics define the outline or the boundary of an object, the shapes can be classified into different types based on their properties.",
+                    "assessment": {
+                        "page": 24,
+                        "questions": [
+                            "Creating shapes of 2 dimensional",
+                            "Creating shapes of 3 dimensional",
+                            "Tracing the shapes correctly"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "7.0",
+            "topic_title": "Measurement",
+            "page": 25,
+            "general_competences": [
+                "Creativity and innovations",
+                "Critical thinking",
+                "Problem solving"
+            ],
+            "vocabulary": [
+                {
+                    "term": "Measurement",
+                    "definition": "the process of quantifying the size of an object or event. It is used to compare objects or events to a standard reference"
+                },
+                {
+                    "term": "Measure",
+                    "definition": "to ascertain the size, amount or degree of (something) by using an instrument or device marked in standard units"
+                }
+            ],
+            "sub_topics": [
+                {
+                    "subtopic_id": "7.1",
+                    "title": "Measure",
+                    "page": 25,
+                    "competences": [
+                        "Tell time by activities of the day"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 25,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain to the learners the activities of the day (daily routine)",
+                                "Discuss with the learners on what they do when they wake up",
+                                "List/mention the daily routine for their days with learners"
+                            ],
+                            "learner_steps": [
+                                "Tell time of the activities of their day individually"
+                            ],
+                            "short_notes": "Telling time by activities of the day"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain to the learners that the days of the week are not the same (e.g. Monday)",
+                                "Sing the song on the days of the week (Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday) with learners",
+                                "Discuss on what days they go to school and not (which days are more important than others) in groups",
+                                "Revise on the days of the week with learners"
+                            ],
+                            "learner_steps": [
+                                "Sing the song on the days of the week",
+                                "Discuss in groups on what days they go to school"
+                            ],
+                            "short_notes": "Telling the day of the week"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain to the learners that non-standard unit of measurement is units of measurement that are not typically used. For example, pencil, toothpick etc",
+                                "Demonstrate measuring length and width of different objects using non-standard units",
+                                "Divide learners into pairs and ask them to practice measuring length and width of different objects using non-standard units",
+                                "Revise on measuring lengths and widths of different objects using non-standard units with learners"
+                            ],
+                            "learner_steps": [
+                                "Practice measuring length and width of different objects using non-standard units in pairs"
+                            ],
+                            "short_notes": "Measuring lengths and widths of different objects using non-standard units"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain to learners on comparing lengths and widths of different objects",
+                                "Divide learners into groups and ask them to compare lengths and widths of different objects",
+                                "Revise on comparing lengths and widths of different objects with learners"
+                            ],
+                            "learner_steps": [
+                                "Compare lengths and widths of different objects individually"
+                            ],
+                            "short_notes": "Compare lengths and widths of different objects"
+                        }
+                    ],
+                    "short_notes": "Measurement is the process of quantifying the size of an object or event. It is used to compare objects or events to a standard reference.",
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Telling time by using activities of the day",
+                            "Telling the days of the week",
+                            "Measuring lengths and widths of different objects using non-standard units",
+                            "Comparing lengths and widths of different objects"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

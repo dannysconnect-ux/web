@@ -1,0 +1,652 @@
+{
+    "subject": "Kikaonde",
+    "grade": "Giledi 1",
+    "term": 3,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "KULUMBULULA PA MAPUNZHA .............................................................................................. 8",
+            "sub_topics": []
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "KUYUKA BILUMBULUZHI BYA BYAMBO.................................... Error! Bookmark not defined.",
+            "sub_topics": []
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "KUMVWISHA.......................................................................................... 31KUNEMBA     43",
+            "sub_topics": []
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "KUTELAULA BINTU .............................................................................................................. 46",
+            "sub_topics": []
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "KWANA BICHOMEKO ............................................................................................................. 94",
+            "sub_topics": []
+        },
+        {
+            "topic_id": "6.0",
+            "topic_title": "KUNEMBA ............................................................................................................................ 113",
+            "sub_topics": []
+        },
+        {
+            "topic_id": "7.0",
+            "topic_title": "TUZHONDA NJIMI ................................................................................................................ 118",
+            "sub_topics": []
+        },
+        {
+            "topic_id": "8.0",
+            "topic_title": "KULUMBULULA PA MAPUNZHA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "8.1",
+                    "title": "Mapunzha",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "8.2",
+                    "title": "Ndabijilo Ya Bilulumo",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "8.3",
+                    "title": "Bipimvwa-Byambo",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "8.4",
+                    "title": "Kutanga na mpeyo",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "8.5",
+                    "title": "Mulangwe Mwine",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "8.6",
+                    "title": "Bukishinka Bwa Mu Jishimikila",
+                    "page": 37,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "9.0",
+            "topic_title": "KULUMBULULA BINTU",
+            "sub_topics": [
+                {
+                    "subtopic_id": "9.1",
+                    "title": "Kunemba byambo",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "."
+                        }
+                    ],
+                    "short_notes": ".",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "10.0",
+            "topic_title": "KUKAYA BISELA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "10.1",
+                    "title": "Kukaya (fy, vy, vw, ñw, zh)",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "10.2",
+                    "title": "Ndabijilo ya Bilulumo",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": "II.  Ipuzha bafunda kyambo fyetu kibena kupopwelwa jinga? Jibiji fye-tu.",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 78,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "10.3",
+                    "title": "Bipimvwa-byambo (fya, vya, vwa, ñwa, zha)",
+                    "page": 79,
+                    "competences": [
+                        "kupusanya bishinka ne milanguluko."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 80,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 81,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 85,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 87,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "10.4",
+                    "title": "Kutanga ne Kumvwisha (fya, vya, vwa, ñwa, zha)",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 89,
+                            "hook": " Jishimikila jakwambanga pa ka?",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "10.5",
+                    "title": "Nembelo (fya, vya, vwa, ñwa, zha)",
+                    "page": 90,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "10.6",
+                    "title": "Kunemba byambo",
+                    "page": 0,
+                    "competences": [
+                        "Kunemba bipelu ne kusha mapuzha pa byambo."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 92,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 93,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": ". .",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "11.0",
+            "topic_title": "KWANA BICHOMEKO",
+            "sub_topics": [
+                {
+                    "subtopic_id": "11.1",
+                    "title": "Kutanga na mpeyo",
+                    "page": 0,
+                    "competences": [
+                        "kupusanya bishinka ne milanguluko."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 109,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 110,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "11.2",
+                    "title": "Bishinka Bya Mu Mashimikila",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 111,
+                            "hook": "Buya wayile ku kisankanyi kimye ka?",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kwipuzha ne kukumbuula mepuzho kufuma ku byatangiwa"
+                        }
+                    ],
+                    "short_notes": "Kwipuzha ne kukumbuula mepuzho kufuma ku byatangiwa",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "12.0",
+            "topic_title": "KUNEMBA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "12.1",
+                    "title": "Nembelo",
+                    "page": 113,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "12.2",
+                    "title": "Kulenga Bisopelo",
+                    "page": 113,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 113,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kukopolola bisopelo-kata ne bisopelo-kache"
+                        }
+                    ],
+                    "short_notes": "Kukopolola bisopelo-kata ne bisopelo-kache",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "13.0",
+            "topic_title": "TUZHONDA NJIMI",
+            "sub_topics": [
+                {
+                    "subtopic_id": "13.1",
+                    "title": "Kunemba byambo",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "."
+                        }
+                    ],
+                    "short_notes": ".",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                }
+            ]
+        }
+    ]
+}

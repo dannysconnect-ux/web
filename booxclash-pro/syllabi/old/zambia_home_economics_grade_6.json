@@ -1,0 +1,268 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "6",
+    "subject": "Home Economics",
+    "philosophy": "Home Economics is an interdisciplinary field of study which endeavors to equip students with knowledge, practical and social skills, attitudes that are essential for success in a global society. The program seeks to equip learners with life skills that will help the recipient to cope with changes in a technological, socio-economical, and multi-cultural society.\nHome Economics incorporates the components of Food and Nutrition, Home Management, Health Education, Needlework, and Crafts. New concepts of Hospitality, Gender, Human Rights, Pollution, Entrepreneurship, and HIV and AIDS have been included. Learners engage in problem solving situations which require the application of knowledge and the use of practical skills. These situations take into account such factors as basic needs, lifestyles, financial resources, health, environment, and their effects on the individual, family, and society.\nHome Economics inculcates positive attitudes towards cost effectiveness in the utilization of local and indigenous resources. It also looks closely at the use of other resources. The program teaches learners to be self-reliant, business minded and health conscious. These challenges promote the well-being of the individual, family and the society.\nThis is due to the fact that Home Economics concepts are mainly introduced and taught within the concept of the home, the school, and the local environment therefore, making it easier for learners to easily and immediately apply whatever knowledge and skills at school in various phenomenon in their near environment.",
+    "competence_learning": "Demonstrate basic skills of cooking and garnishing food and preparing simple budgets.\nDemonstrate basic skills in preserving food.\nDemonstrate basic skill in cleaning wall finishes\nDemonstrate basic skills and knowledge in laundering coloured fabrics\nDemonstrate basic skills in applying first aid.\nShow basic skills in cleaning toilets.\nDemonstrate basic skills and knowledge in sewing edge finishes, fasteners and openings.\nDemonstrate basic skills in weaving",
+    "goals": [
+      "Demonstrate the ability to apply principles of Food and Nutrition",
+      "Demonstrate the ability to apply principles of Home management",
+      "Demonstrate the ability to apply principles of Health education.",
+      "Demonstrate the ability to apply principles of Needlework and Crafts."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "6.1",
+      "topic_title": "THE KITCHEN",
+      "page_number": 22,
+      "subtopics": [
+        "6.1.1 Modern Kitchen Equipment"
+      ],
+      "specific_outcomes": [
+        "6.1.1.1 Identify modern kitchen Equipment and their use."
+      ]
+    },
+    {
+      "unit": "6.2",
+      "topic_title": "FOOD",
+      "page_number": 22,
+      "subtopics": [
+        "6.2.1 Deficiency diseases",
+        "6.2.2 Mixed diet",
+        "6.2.3 Food presentation",
+        "6.2.4 Food Budgeting"
+      ],
+      "specific_outcomes": [
+        "6.2.1.1 Identify causes of Scurvy, kwashiorkor, marasmus, beri beri, night blindness",
+        "6.2.2.1 Describe a mixed diet",
+        "6.2.2.2 Plan and prepare a mixed diet",
+        "6.2.3.1 Garnish different dishes",
+        "6.2.4.1. Explain what food budgeting is",
+        "6.2.4.2 Identify foods suitable for short and long term budgeting",
+        "6.2.4.3 Plan and prepare a simple budget"
+      ]
+    },
+    {
+      "unit": "6.3",
+      "topic_title": "COOKING METHODS",
+      "page_number": 22,
+      "subtopics": [
+        "6.3.1 Frying",
+        "6.3.2 Stewing"
+      ],
+      "specific_outcomes": [
+        "6.3.1.1 Describe frying",
+        "6.3.1.2 Identify suitable foods for frying",
+        "6.3.1.3 Fry different foods.",
+        "6.3.2.1 Describe stewing",
+        "6.3.2.2 Identify suitable foods for stewing",
+        "6.3.2.3 Stew different foods"
+      ]
+    },
+    {
+      "unit": "6.4",
+      "topic_title": "MEAL PLANNING",
+      "page_number": 23,
+      "subtopics": [
+        "6.4.1 Meal Patterns",
+        "6.4.2 Meal planning"
+      ],
+      "specific_outcomes": [
+        "6.4.1.1 Describe meal Patterns",
+        "6.4.2.1 Prepare full breakfast",
+        "6.4.2.2 Describe meal planning",
+        "6.4.2.3 Prepare meals for different needs."
+      ]
+    },
+    {
+      "unit": "6.5",
+      "topic_title": "LEFTOVER FOODS",
+      "page_number": 23,
+      "subtopics": [
+        "6.5.2 Left over foods."
+      ],
+      "specific_outcomes": [
+        "6.5.2.1 Explain what leftover foods are.",
+        "6.5.2.2 Describe the rules for leftovers.",
+        "6.5.2.3 Identify suitable dishes that can be made from leftovers.",
+        "6.5.2.4 Prepare different dishes from left over foods."
+      ]
+    },
+    {
+      "unit": "6.6",
+      "topic_title": "PRESERVATION",
+      "page_number": 24,
+      "subtopics": [
+        "6.6.1 Food Preservation"
+      ],
+      "specific_outcomes": [
+        "6.6.1.1 Describe food preservation",
+        "6.6.1.2 Explain reasons for food preservation",
+        "6.6.1.3 Identify suitable foods for preservation",
+        "6.6.1.4 Preserve different foods"
+      ]
+    },
+    {
+      "unit": "6.7",
+      "topic_title": "HOSPITALITY BUSINESS",
+      "page_number": 24,
+      "subtopics": [
+        "6.7.1 Facilities and services in Hospitality business"
+      ],
+      "specific_outcomes": [
+        "6.7.1.1 Describe facilities in hospitality business.",
+        "6.7.1.2 Identify services in hospitality business"
+      ]
+    },
+    {
+      "unit": "6.8",
+      "topic_title": "PESTS",
+      "page_number": 25,
+      "subtopics": [
+        "6.8.1 Household Pests"
+      ],
+      "specific_outcomes": [
+        "6.8.1.1 Explain dangers of Household pests.",
+        "6.8.1.2 Explain prevention and control of household pests"
+      ]
+    },
+    {
+      "unit": "6.9",
+      "topic_title": "HOME",
+      "page_number": 25,
+      "subtopics": [
+        "6.9.1 Walls",
+        "6.9.2 Rooms in the house"
+      ],
+      "specific_outcomes": [
+        "6.9.1.1 Clean different types of walls",
+        "6.9.2.1 Clean different rooms in a house."
+      ]
+    },
+    {
+      "unit": "6.10.1",
+      "topic_title": "TABLE SETTING",
+      "page_number": 26,
+      "subtopics": [
+        "6.10.1 Table laying",
+        "6.10.2 Flower arrangement"
+      ],
+      "specific_outcomes": [
+        "6.10.1.1 Describe table laying",
+        "6.10.1.2 Identify the utensils and materials used for basic table laying",
+        "6.10.1.3 Demonstrate table laying",
+        "6.10.1.4 Lay a table for lunch",
+        "6.10.2.1 Describe flower arrangement",
+        "6.10.2.2 Identify materials used in simple flower arrangement",
+        "6.10.2.3 Explain the simple rules in flower arrangements for a dining table",
+        "6.10.2.4 Arrange flowers for a dining table"
+      ]
+    },
+    {
+      "unit": "6.11",
+      "topic_title": "LAUNDRY",
+      "page_number": 26,
+      "subtopics": [
+        "6.11. 1 Laundry Methods",
+        "6.11.2 The Family Wash",
+        "6.11.3 Laundering coloured cotton fabrics"
+      ],
+      "specific_outcomes": [
+        "6.11.1.1 Explain what laundry is",
+        "6.11.1.2 Describe laundry methods",
+        "6.11.2.1 Explain the procedure for family wash",
+        "6.11.3.1 Explain the procedure for laundering coloured cotton articles",
+        "6.11.3.2.launder different coloured cotton fabrics using appropriate methods"
+      ]
+    },
+    {
+      "unit": "6.12",
+      "topic_title": "GARDENING",
+      "page_number": 27,
+      "subtopics": [
+        "6.12.1 Kitchen Garden"
+      ],
+      "specific_outcomes": [
+        "6.12.1.1. Describe a kitchen garden",
+        "6.12.1.2 Identify suitable crops for a kitchen garden",
+        "6.12.1.3 Explain the reasons for growing vegetables in the kitchen garden",
+        "6.12.1.4 Grow different types of vegetables."
+      ]
+    },
+    {
+      "unit": "6.13",
+      "topic_title": "HUMAN DEVELOPMENT",
+      "page_number": 28,
+      "subtopics": [
+        "6.13.1 Body image"
+      ],
+      "specific_outcomes": [
+        "6.13.1.1 Identify factors influencing physical appearance.",
+        "6.13.1.2 Describe the effect of physical appearance on others."
+      ]
+    },
+    {
+      "unit": "6.14",
+      "topic_title": "SAFETY IN THE HOME/SCHOOL",
+      "page_number": 28,
+      "subtopics": [
+        "6.14.1 First-Aid"
+      ],
+      "specific_outcomes": [
+        "6.14.1.1 Describe accidents in the home",
+        "6.14.1.2 Explain the causes of falls, cuts, and sprains at home and school",
+        "6.14.1.3 Apply First Aid on various accidents."
+      ]
+    },
+    {
+      "unit": "6.15",
+      "topic_title": "SANITATION",
+      "page_number": 28,
+      "subtopics": [
+        "6.15.1 Toilets"
+      ],
+      "specific_outcomes": [
+        "6.15.1.1 Identify types of toilets",
+        "6.15.1.2 Identify cleaning materials for the two types of toilets",
+        "6.15.1.3.Clean toilets and latrines"
+      ]
+    },
+    {
+      "unit": "6.16",
+      "topic_title": "PROCESSES IN NEEDLE WORK",
+      "page_number": 29,
+      "subtopics": [
+        "6.16.1 Edge finishes",
+        "6.16.2 Fasteners",
+        "6.16.3 Openings"
+      ],
+      "specific_outcomes": [
+        "6.16.1.1 Explain what edge finishes are",
+        "6.16.1.2 Identify different edge finishes",
+        "6.16.1.3 Explain the reasons for edge finishes",
+        "6.16.1.4 Cut and sew crossway strips to a raw edge.",
+        "6.16.1.5 Sew Samples of different Edge finishes.",
+        "6.16.2.1 Explain what fasteners are",
+        "6.16.2.2 Identify different types of fasteners",
+        "6.16.2.3 Sew button and buttonhole on a child's dress fasteners",
+        "6.16.3.1 Explain what openings are",
+        "6.16.3.2 Identify different types of openings",
+        "6.16.3.3 Sew the faced opening on a child's dress"
+      ]
+    },
+    {
+      "unit": "6.17",
+      "topic_title": "CRAFTS WORK",
+      "page_number": 29,
+      "subtopics": [
+        "6.17.1 Weaving"
+      ],
+      "specific_outcomes": [
+        "6.16. 4.1 Identify types of weave",
+        "6.16.4.2 Weave simple items"
+      ]
+    }
+  ]
+}

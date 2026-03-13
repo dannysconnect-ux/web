@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "4",
+    "subject": "Science",
+    "philosophy": "Quality, life long education for all which is accessible, inclusive and relevant to individual, national and global needs and value systems",
+    "competence_learning": "Key Competences to be developed are outlined on page 10 of this syllabus, covering Analytical Thinking, Communication, Creativity and Innovation, Collaboration, Critical Thinking, Environmental Sustainability, and Problem Solving.",
+    "goals": [
+      "Foster curiosity to nurture a sense of wonder by encouraging young learners to ask questions, explore their surroundings, and make connections between the scientific concepts they encounter.",
+      "Foster scientific inquiry that promotes a hands-on approach to science by engaging young learners in simple, age-appropriate experiments to observe cause and effect, explore the properties of materials, and develop a keen interest in the world of science.",
+      "Encourage collaborative learning by recognising the importance of social interactions in the learning process. The activities should be designed to promote teamwork, communication, and the sharing of ideas, creating a supportive community of learners.",
+      "Encourage sustainable environmental management practices to evade the impact of climate change."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "4.1",
+      "topic_title": "THE HUMAN BODY",
+      "page_number": 2,
+      "subtopics": [
+        "The Respiratory System",
+        "Blood Circulatory System"
+      ],
+      "specific_outcomes": [
+        "4.1.1.1 Demonstrate understanding of the respiratory system in the human body",
+        "4.1.2.1 Demonstrate understanding of the blood circulatory system in the human body"
+      ]
+    },
+    {
+      "unit": "4.2",
+      "topic_title": "NUTRITION AND HEALTH",
+      "page_number": 4,
+      "subtopics": [
+        "Classification of Food",
+        "Healthy Diets",
+        "Air, Water and Foodborne Diseases"
+      ],
+      "specific_outcomes": [
+        "4.2.1.1 Classify foods based on their nutritional content",
+        "4.2.2.1 Practise eating healthy diets",
+        "4.2.3.1 Show the ability to prevent the transmission of air, water and food-borne diseases"
+      ]
+    },
+    {
+      "unit": "4.3",
+      "topic_title": "THE ENVIRONMENT",
+      "page_number": 6,
+      "subtopics": [
+        "Environmental Management"
+      ],
+      "specific_outcomes": [
+        "4.3.1.1 Manage natural resources and waste in the environment"
+      ]
+    },
+    {
+      "unit": "4.4",
+      "topic_title": "PLANT AND ANIMALS",
+      "page_number": 6,
+      "subtopics": [
+        "Invertebrate Animals",
+        "Pests and Parasites",
+        "Livestock Production in Zambia",
+        "Soil Structure",
+        "Classification of Plants",
+        "Horticulture",
+        "Crop Production"
+      ],
+      "specific_outcomes": [
+        "4.4.1.1 Classify invertebrates found in the local environment",
+        "4.4.1.2 Evaluate the economic importance of invertebrates",
+        "4.4.2.1 Explore ways of controlling pests and parasites in the local environment",
+        "4.4.2.2 Analyse the economic importance of pests and parasites",
+        "4.4.3.1 Evaluate the importance of livestock farming in Zambia",
+        "4.4.4.1 Analyse soil profile",
+        "4.4.4.2 Classify types of soil based on their characteristics",
+        "4.4.5.1 Classify plants into flowering and non-flowering plants",
+        "4.4.6.1 Grow common horticultural plants found in the environment",
+        "4.4.7.1 Grow a variety of field crops"
+      ]
+    },
+    {
+      "unit": "4.5",
+      "topic_title": "MATERIALS AND ENERGY",
+      "page_number": 10,
+      "subtopics": [
+        "Nature of Matter",
+        "Types of Materials",
+        "Measuring Matter and Phenomena",
+        "Nature of Air",
+        "Simple Machines",
+        "Communication Devices",
+        "Light Energy"
+      ],
+      "specific_outcomes": [
+        "4.5.1.1 Analyse the nature of matter",
+        "4.5.2.1 Explore different types materials used in the production of items",
+        "4.5.2.2 Categorise materials as metals and non-metals",
+        "4.5.4.1 Measure quantities of different types of matter and phenomena",
+        "4.5.5.1 Investigate the composition of air",
+        "4.5.6.1 Design simple machines",
+        "4.5.7.1 Utilise different types of communication devices",
+        "4.5.8.1 Explore different sources of light energy"
+      ]
+    }
+  ]
+}

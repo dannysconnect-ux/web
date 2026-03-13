@@ -1,0 +1,562 @@
+{
+    "subject": "Adapted Mathematics and Science",
+    "grade": "Grade 1",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1",
+            "topic_title": "Sets",
+            "introduction": "In Term 1, the topic sets will focus on distinguishing sets by sorting objects according to size, color and shape and other attributes. Sets will contain objects in intervals of 1 – 6, 1 – 9, 1 - 20 and up to 100, Matching sets into one-to-one correspondence, ordering sets according to their ordinal and cardinal numbers, (1st, 2nd, 3rd …), Assigning numerals 0 to 10 to elements in a set, assign numerals in intervals of 0 – 6, 0 – 10 and using cardinal and ordinal numbers. Through these lessons, learners will be able to sort, match and order sets in their everyday life.",
+            "general_competences": [
+                "Analytical Thinking",
+                "Problem solving",
+                "Collaboration"
+            ],
+            "key_terms": [
+                {
+                    "term": "Sets",
+                    "definition": "A collection of items or objects with similar characteristics or elements."
+                },
+                {
+                    "term": "Sorting",
+                    "definition": "This is the manner to group items into categories."
+                },
+                {
+                    "term": "Matching",
+                    "definition": "Comparing two or more objects with characteristics or elements."
+                },
+                {
+                    "term": "Ordering",
+                    "definition": "Arrangement of objects according to their elements in terms of size, shape and color, etc."
+                },
+                {
+                    "term": "Cardinal number",
+                    "definition": "It is a number that tells how many of something in a set such as one, two, three, four and five."
+                },
+                {
+                    "term": "Ordinal number",
+                    "definition": "An ordinal number is a number that tells the position of something in a list such as 1st, 2nd, 3rd, 4th and 5th."
+                }
+            ],
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Distinguishing Sets",
+                    "page": 5,
+                    "introduction": "This sub-topic focuses on equipping learners with the ability to distinguish sets according to their attributes so that they critically develop the skills and knowledge to sort, match and order given items in their everyday lives.",
+                    "competences": [
+                        "Distinguish sets according to their attributes"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1a",
+                            "page": 6,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Introduce the sub-topic by displaying different objects on the table for learners to see.",
+                                "Explain the concept of sorting to the learners (pencils, sticks and stones).",
+                                "Demonstrate on how to sort different objects displayed. For example: group pencils, sticks and stones, then ask learners to group them according to their characteristics or elements."
+                            ],
+                            "learner_steps": [
+                                "Observe different objects displayed on the table",
+                                "Group objects according to their characteristics or elements"
+                            ],
+                            "short_notes": "Sorting objects according to size, color, shape and other elements. Sets to contain objects in intervals of 1 – 6, 1 – 9, 1 - 20 and up to 100"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1b",
+                            "page": 7,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Display different sets and ask learners to match them according their size (equal sets)",
+                                "Put learners into groups and ask them to match sets according to the number and kind of elements in them. For example, one set should have 3 pencils and the other one should have 5 sticks and one with 3 pieces of chalk, then they match. Therefore, a set of 3 pencils matches with 3 pieces of chalk."
+                            ],
+                            "learner_steps": [
+                                "Match sets according to their size",
+                                "Match sets according to the number and kind of elements",
+                                "Form sets that can match"
+                            ],
+                            "short_notes": "Matching sets into one-to-one correspondence. Number of objects can be in intervals of 1 – 6, 1 – 9, 1 - 20 and up to 100"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1c",
+                            "page": 7,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain how the size of the set can be determined by counting the number of elements in them.",
+                                "Divide the learners into groups, then each group is given sets of different sizes for them to order according to their ordinality.",
+                                "Ask each group to present their findings and then consolidate."
+                            ],
+                            "learner_steps": [
+                                "Count the number of elements in sets",
+                                "Order sets according to their ordinality",
+                                "Present findings to the class",
+                                "Order sets according to their size in ascending and descending order"
+                            ],
+                            "short_notes": "Ordering sets according to their ordinal and cardinal numbers (1st, 2nd, 3rd …)"
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 6,
+                        "type": "project",
+                        "questions": [
+                            "Assign learners to collect different items in the local environment and instruct them to sort the collected items according to their specific characteristics and elements."
+                        ]
+                    },
+                    "summary": "This topic focused on distinguishing sets by sorting objects according to size, color and shape and other attributes. The general competences that learners needed to acquire through the learning experience included sorting, matching and ordering to critically develop the skills and knowledge to sort, match and order given items in their day- to- day lives. Additionally, the topic looked at the following key term: set(s), sorting, matching, ordering, cardinal and ordinal numbers respectively. Finally, learners were assessed in order to ascertain their acquisition of knowledge and skills through critical thinking."
+                }
+            ]
+        },
+        {
+            "topic_id": "2",
+            "topic_title": "The Human Body",
+            "introduction": "This topic will focus the human body. Learners will be taught on the external parts of the human body and senses.",
+            "general_competences": [
+                "Creativity and innovation"
+            ],
+            "key_terms": [
+                {
+                    "term": "External",
+                    "definition": "This is an outer part of something"
+                },
+                {
+                    "term": "Structure",
+                    "definition": "This is the arrangement of parts or elements in a particular way to form a whole."
+                },
+                {
+                    "term": "External structure",
+                    "definition": "this is the physical or visible arrangement of parts or components of an object"
+                },
+                {
+                    "term": "Human body",
+                    "definition": "this is the external and internal organs the human being."
+                }
+            ],
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "External Structure of the Human Body",
+                    "page": 8,
+                    "introduction": "This sub-topic focuses on the external parts of the body such as Hair, Nose, Ears, Eyes, Hands, Skin and Legs.",
+                    "competences": [
+                        "Demonstrate awareness of the human body structure"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Step 1",
+                            "page": 9,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ask learners to name the external parts of the human body they know in their local language."
+                            ],
+                            "learner_steps": [
+                                "Name the external parts of the human body in local language"
+                            ],
+                            "short_notes": "Naming the external parts of a human body"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Step 2",
+                            "page": 9,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ask learners to recognize the external parts of the human body through a song 'head, shoulders, knees and toes'."
+                            ],
+                            "learner_steps": [
+                                "Recognize the external parts of the human body through a song"
+                            ],
+                            "short_notes": "Recognize the external parts of the human body"
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 9,
+                        "type": "exercise",
+                        "questions": [
+                            "Exercise 1: Learners to name external parts of the human body",
+                            "Exercise 2: Learners to mold the external parts of the body using plasticine or clay (hair, teeth, nose, ears, eyes, hands, skin, legs)"
+                        ]
+                    },
+                    "summary": null
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "The Senses",
+                    "page": 9,
+                    "introduction": "This sub-topic focuses on the human senses and their uses such as touch/feeling - skin, smelling - nose, taste- tongue, sight- eyes, hearing – ears to explore the environment.",
+                    "competences": [
+                        "Use senses to explore the environment"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Main Activity",
+                            "page": 10,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Divide learners into groups of five to discuss the use of specific sensory organs.",
+                                "Ask learners to make group presentations",
+                                "Display different items on the table such as salt for tasting, a tablet of soap for smelling, a bell for hearing, picture for seeing embossed braille letter for touch.",
+                                "Revise the use of senses to explore the environment."
+                            ],
+                            "learner_steps": [
+                                "Discuss the uses of sensory organs of the human body such as nose, tongue, eyes, skin and ears",
+                                "Make group presentations",
+                                "Identify the smell of different food",
+                                "Identify someone through their voice",
+                                "Test the smoothness and roughness of objects"
+                            ],
+                            "short_notes": "Using the senses such as touch/feeling - skin, smelling - nose, taste- tongue, sight- eyes, hearing – ears to explore the environment."
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 10,
+                        "type": "practical",
+                        "questions": [
+                            "Teacher to ask learners how they can use the five senses. For example, teacher takes the learners near the kitchen and ask them to identify the smell of different food, identify someone through the voice, the smoothness and roughness of the leaf"
+                        ]
+                    },
+                    "summary": "This topic focused the recognizing and naming the external parts of the human body such as; head, neck, chest, arms, knees, abdomen, legs, eyes, nose, mouth, ears. It also looked at the use of senses and their uses such as touch/feeling - skin, smelling - nose, taste- tongue, sight- eyes, hearing – ears to explore the environment."
+                }
+            ]
+        },
+        {
+            "topic_id": "3",
+            "topic_title": "Number and Notation",
+            "introduction": "This topic focuses on demonstrating an understanding of whole numbers by: Counting orally in intervals, counting using real objects in intervals, recognizing numbers in intervals, writing numbers up to 100 (including the meaning of zero), writing and reading numbers in intervals, interpreting numbers using ten as a unit, interpreting numbers using the Ten frame (bundles of ten) in intervals, interpret numbers using place values, ordering numbers in terms of magnitude, using number patterns in intervals (ascending and descending order and counting in tens up to ten tens (100).",
+            "general_competences": [
+                "Problem solving",
+                "Critical thinking",
+                "Communication",
+                "Collaboration"
+            ],
+            "key_terms": [
+                {
+                    "term": "Number",
+                    "definition": "this is the quantity of something"
+                },
+                {
+                    "term": "Notation",
+                    "definition": "the use of symbols to represent operations"
+                },
+                {
+                    "term": "Number and notation",
+                    "definition": "the technique of representing a number in digits or figures."
+                },
+                {
+                    "term": "Whole number",
+                    "definition": "a set of numbers including all-natural number and zero e.g., 0, 1,2, 3……"
+                },
+                {
+                    "term": "Interval",
+                    "definition": "a space of time between numbers. E.g., 5, 10, 15,…."
+                },
+                {
+                    "term": "Magnitude",
+                    "definition": "the size or quantity of a number"
+                },
+                {
+                    "term": "Ascending order",
+                    "definition": "arrangement of numbers starting from the smallest to the biggest."
+                },
+                {
+                    "term": "Descending order",
+                    "definition": "arrangement of numbers starting from the biggest to the smallest."
+                }
+            ],
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Numbers",
+                    "page": 11,
+                    "introduction": "This topic will focus equipping learners and knowledge of writing, counting, reading, interpreting and ordering numbers in both ascending and descending order.",
+                    "competences": [
+                        "Demonstrate an understanding of whole numbers"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Demonstrate counting numbers in intervals of ten (10) from zero to 100. E.g., 10, 20, 30, etc.",
+                                "Ask learners to count numbers orally",
+                                "Demonstrate on how to count using real objects in intervals such as 1 – 6, 1 – 9, 1 - 20 and up to 100."
+                            ],
+                            "learner_steps": [
+                                "Count numbers orally in intervals",
+                                "Count using real objects in intervals"
+                            ],
+                            "short_notes": "Counting orally in intervals such as 1 – 6, 1 – 9, 1 - 20 and up to 100. Counting using real objects in intervals."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Distribute number cards to learners and ask them to read them after the teacher.",
+                                "Ask learners to recognize numbers individually from the number cards individually."
+                            ],
+                            "learner_steps": [
+                                "Read number cards after the teacher",
+                                "Recognize numbers individually from number cards"
+                            ],
+                            "short_notes": "Recognizing numbers in intervals such as 1-3, 1 - 6, 1 – 9 and up to 100. Reading numbers in intervals."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 3",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Demonstrate on how to interpret numbers using the unit of ten (10) using bundles of sticks or stones. For example, one bundle of sticks is equal to ten (1 bundle-10)",
+                                "Write/emboss interpreted numbers",
+                                "Divide learners into pairs and ask them to write the number represented by a given number of bundles of sticks.",
+                                "Teacher and leaners to revise the basic content of the sub-top"
+                            ],
+                            "learner_steps": [
+                                "Observe interpretation of numbers using bundles of ten",
+                                "Write numbers represented by bundles of sticks"
+                            ],
+                            "short_notes": "Interpreting numbers using ten as a unit and writing numbers in intervals. Interpreting numbers using the Ten frame, bundles of ten in intervals such as 10 -20, 20 – 50."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 4",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain the meaning of place value and the symbols used like H for hundreds, T for tens and O for ones.",
+                                "Demonstrate on how to interpret numbers using place values. For example, H T O - 2 5 3 - Where 3 represents three ones, 5 represents five tens and 2 represents two hundreds.",
+                                "Divide learners into three groups and assigns each group to interpret given numbers according to place values.",
+                                "Ask leaners to interpret the numbers using place values according to the explanation. E.g., three ones=3, five tens =50 and two hundred =200 individually."
+                            ],
+                            "learner_steps": [
+                                "Learn about place values (H, T, O)",
+                                "Interpret numbers using place values",
+                                "Work in groups to interpret given numbers"
+                            ],
+                            "short_notes": "Interpreting numbers using place values and ordering them in terms of magnitude."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 5",
+                            "page": 14,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Assign learners to arrange the given numbers in ascending and descending order. For example, 1,5,3,2,4 (1,2,3,4,5).",
+                                "Put learners in pairs to order given numbers ascending and descending order."
+                            ],
+                            "learner_steps": [
+                                "Arrange numbers in ascending order",
+                                "Arrange numbers in descending order",
+                                "Work in pairs to order numbers"
+                            ],
+                            "short_notes": "Ordering numbers in ascending and descending order magnitude according to magnitude. Using number patterns in intervals (ascending and descending order)."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 6",
+                            "page": 14,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ask learners to bundle sticks in tens. Thereafter should start putting together bundles of tens as in one ten, two tens, three tens. Finally, learners should unbundle the sticks to count them correctly in order to come up with 1 whole number as in four tens is equal to forty."
+                            ],
+                            "learner_steps": [
+                                "Bundle sticks in tens",
+                                "Put together bundles of tens",
+                                "Unbundle and count to verify whole numbers",
+                                "Make ten (10) bundles of ten sticks",
+                                "Count in tens using bundles of sticks"
+                            ],
+                            "short_notes": "Counting in tens up to ten tens (100)."
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 14,
+                        "type": "assignment",
+                        "questions": [
+                            "Teacher gives learners an assignment to make ten (10) bundles of ten sticks, then should ask learners to count in tens using bundles of sticks."
+                        ]
+                    },
+                    "summary": "This topic focused on demonstrating an understanding of whole numbers by: Counting orally in intervals, counting using real objects in intervals, recognizing numbers in intervals, writing numbers up to 100 (including the meaning of zero), writing and reading numbers in intervals, interpreting numbers using ten as a unit, interpreting numbers using the Ten frame (bundles of ten) in intervals, interpret numbers using place values, ordering numbers in terms of magnitude, using number patterns in intervals (ascending and descending order and counting in tens up to ten tens)."
+                }
+            ]
+        },
+        {
+            "topic_id": "4",
+            "topic_title": "Health",
+            "introduction": "This topic will look at the aspect of practising personal hygiene, food hygiene, recognizing that clean water is essential for proper hydration and maintaining bodily functions to prevent the spread of waterborne diseases. It also demonstrates awareness of water and foodborne diseases.",
+            "general_competences": [
+                "Creativity and innovation"
+            ],
+            "key_terms": [
+                {
+                    "term": "Hygiene",
+                    "definition": "a set of practices performed to preserve health"
+                },
+                {
+                    "term": "Personal hygiene",
+                    "definition": "taking care of oneself and the environment"
+                },
+                {
+                    "term": "Food",
+                    "definition": "something eatable or drinkable"
+                },
+                {
+                    "term": "Waterborne",
+                    "definition": "diseases spread through dirty water"
+                },
+                {
+                    "term": "Foodborne diseases",
+                    "definition": "diseases spread through dirty food"
+                }
+            ],
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Hygiene",
+                    "page": 15,
+                    "introduction": "This sub-topic will look at personal hygiene and food hygiene.",
+                    "competences": [
+                        "Practice personal and food hygiene"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 15,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Demonstrate on how to wash hands and face thoroughly with water and soap.",
+                                "Ask two pupils, a boy and a girl to demonstrate after the teacher",
+                                "Put the learners in pairs and then asks them to wash their hands and faces thoroughly.",
+                                "Go through the whole process"
+                            ],
+                            "learner_steps": [
+                                "Observe demonstration of washing hands and face",
+                                "Demonstrate washing hands and face",
+                                "Practice washing hands and faces in pairs"
+                            ],
+                            "short_notes": "Practicing personal hygiene by washing the face, hands and feet and brushing the teeth, cleaning nails, and combing hair."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 2",
+                            "page": 16,
+                            "hook": "What are the effects of eating dirty or uncovered food?",
+                            "teacher_steps": [
+                                "Ask learners the effects of eating dirty or uncovered food and pupils to give answers.",
+                                "Discuss food hygiene with learners.",
+                                "Ask learner to demonstrate the effect of not practising food hygiene through role play.",
+                                "Revise with the learners the basic practices of food hygiene such as washing hands before eating, washing vegetables and fruits as well as covering the food."
+                            ],
+                            "learner_steps": [
+                                "Discuss effects of eating dirty or uncovered food",
+                                "Demonstrate effects of poor food hygiene through role play",
+                                "Learn basic food hygiene practices"
+                            ],
+                            "short_notes": "Practicing food hygiene by washing hands, vegetables, fruits and covering it."
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 16,
+                        "type": "role play",
+                        "questions": [
+                            "Teacher to ask learners to demonstrate good and bad eating habits."
+                        ]
+                    },
+                    "summary": null
+                },
+                {
+                    "subtopic_id": "4.2",
+                    "title": "Eating Habits",
+                    "page": 16,
+                    "introduction": "This sub-topic will look at the dos and the don'ts of eating habits before, during and after.",
+                    "competences": [
+                        "Recognizing the importance of observing table manners"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain the meaning of eating habits",
+                                "Ask learners to mention good and bad eating habits before eating. E.g., washing hands with clean and running water before eating.",
+                                "Divide learners in groups and ask them to discuss good and bad eating habits during and after eating.",
+                                "Facilitate the group presentations and consolidate the discussions on the good and bad eating habits."
+                            ],
+                            "learner_steps": [
+                                "Learn about eating habits",
+                                "Mention good and bad eating habits before eating",
+                                "Discuss good and bad eating habits during and after eating in groups",
+                                "Present group findings"
+                            ],
+                            "short_notes": "Recognize the importance of eating habits before, during and after such as washing hands with clean water, touching food with one hand, no talking while eating, no talking with food in the mouth as well as collecting and washing plates after eating."
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 17,
+                        "type": "role play",
+                        "questions": [
+                            "Teacher to ask learners to demonstrate good and bad eating habits."
+                        ]
+                    },
+                    "summary": null
+                },
+                {
+                    "subtopic_id": "4.3",
+                    "title": "Water and Foodborne Diseases",
+                    "page": 17,
+                    "introduction": "This sub-topic focuses on demonstrating awareness of water and foodborne diseases.",
+                    "competences": [
+                        "Demonstrate awareness of Water and Foodborne diseases"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "Activity 1",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Explain to the learners what is meant by water and foodborne diseases.",
+                                "Ask learners to mention the water and foodborne diseases they know.",
+                                "Tell how water and foodborne diseases can be prevented.",
+                                "Consolidate on the best hygiene practices to prevent water and foodborne diseases."
+                            ],
+                            "learner_steps": [
+                                "Learn about water and foodborne diseases",
+                                "Mention water and foodborne diseases they know",
+                                "Learn prevention methods",
+                                "Mention causes of waterborne and foodborne diseases and their prevention"
+                            ],
+                            "short_notes": "Demonstrating awareness of Water and Foodborne diseases such as Diarrhea, Cholera, and Dysentery"
+                        }
+                    ],
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 17,
+                        "type": "oral exercise",
+                        "questions": [
+                            "Teacher to ask learners to mention causes of waterborne and foodborne diseases and their prevention."
+                        ]
+                    },
+                    "summary": "This topic looked at the aspect of practicing personal hygiene, food hygiene, recognizing that clean water is essential for proper hydration and maintaining bodily functions to prevent the spread of waterborne diseases. It also demonstrates awareness of water and foodborne diseases."
+                }
+            ]
+        }
+    ]
+}

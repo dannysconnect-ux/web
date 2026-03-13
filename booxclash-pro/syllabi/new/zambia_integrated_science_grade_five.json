@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "5",
+    "subject": "Science",
+    "philosophy": "The Upper Primary Science Syllabus aims to provide a national age-appropriate curriculum for learners at Grade 4 to 6, aligning with the Competence-Based Curriculum and 21st Century Skills. It seeks to impart knowledge, skills, values, and positive attitudes necessary for learners to become productive members of their communities and the Zambian society. The syllabus is designed to spark curiosity, nurture foundational skills, and instill a love for learning, recognizing children as natural-born scientists who explore through observation, questioning, and experimentation. It aims to harness these innate abilities to provide a solid foundation for Science Technology Engineering and Mathematics (STEM) education and smooth transition to secondary education.",
+    "competence_learning": "The syllabus facilitates hands-on experiences through manipulation of real objects, interaction with nature, and learning through research and practical work, enabling learners to develop desirable lifelong skills, values, and positive attitudes. Learning activities are designed to foster curiosity, scientific inquiry, collaborative learning, and sustainable environmental management practices. Activities encourage asking questions, exploring surroundings, making connections between scientific concepts, engaging in age-appropriate experiments to observe cause and effect, explore material properties, and promote teamwork, communication, and sharing of ideas.",
+    "goals": [
+      "Foster curiosity to nurture a sense of wonder by encouraging young learners to ask questions, explore their surroundings, and make connections between the scientific concepts they encounter.",
+      "Foster scientific inquiry that promotes a hands-on approach to science by engaging young learners in simple, age-appropriate experiments to observe cause and effect, explore the properties of materials, and develop a keen interest in the world of science.",
+      "Encourage collaborative learning by recognising the importance of social interactions in the learning process. The activities should be designed to promote teamwork, communication, and the sharing of ideas, creating a supportive community of learners.",
+      "Encourage sustainable environmental management practices to evade the impact of climate change."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "5.1",
+      "topic_title": "THE HUMAN BODY",
+      "page_number": 24,
+      "subtopics": [
+        "5.1.1 The Skeletal System",
+        "5.1.2 Puberty"
+      ],
+      "specific_outcomes": [
+        "5.1.1.1 Demonstrate understanding of the skeletal system of the human body",
+        "5.1.2.1 Examine changes associated with puberty in girls and boys",
+        "5.1.2.2 Practise personal hygiene at puberty stage",
+        "5.1.2.3 Examine risks associated with puberty"
+      ]
+    },
+    {
+      "unit": "5.2",
+      "topic_title": "NUTRITION AND HEALTH",
+      "page_number": 25,
+      "subtopics": [
+        "5.2.1 Food Nutrients",
+        "5.2.2 Labels on Packaged Foods",
+        "5.2.3 Malnutrition",
+        "5.2.4 Harmful Substances and their Effects",
+        "5.2.5 Parasitic Diseases",
+        "5.2.6 STIs, HIV and AIDS"
+      ],
+      "specific_outcomes": [
+        "5.2.1.1 Classify food nutrients according to their function in the body",
+        "5.2.2.1 Interpret the labels on the packaged foods",
+        "5.2.3.1 Solve triple burdens of malnutrition in the community",
+        "5.2.4.1 Investigate the effects of harmful substances on the health of individuals",
+        "5.2.5.1 Explore ways of preventing the spread of parasitic diseases in the community",
+        "5.2.6.1 Analyse ways of preventing infection of STIs, including HIV"
+      ]
+    },
+    {
+      "unit": "5.3",
+      "topic_title": "THE ENVIRONMENT",
+      "page_number": 28,
+      "subtopics": [
+        "5.3.1 Climate Change",
+        "5.3.2 The Water Cycle"
+      ],
+      "specific_outcomes": [
+        "5.3.1.1 Explore the causes and effects of climate change on the environment",
+        "5.3.2.1 Analyse the water cycle"
+      ]
+    },
+    {
+      "unit": "5.4",
+      "topic_title": "PLANTS AND ANIMALS",
+      "page_number": 29,
+      "subtopics": [
+        "5.4.1 Soil Health",
+        "5.4.2 Vertebrate Animals",
+        "5.4.3 Poultry"
+      ],
+      "specific_outcomes": [
+        "5.4.1.1 Explore ways of improving soil health",
+        "5.4.2.1 Classify vertebrate animals based on their characteristics",
+        "5.4.2.2 Evaluate the economic importance of vertebrate animals",
+        "5.4.3.1 Demonstrate basic understanding of poultry production"
+      ]
+    },
+    {
+      "unit": "5.5",
+      "topic_title": "MATERIALS AND ENERGY",
+      "page_number": 30,
+      "subtopics": [
+        "5.5.1 Harnessing Electrical Energy",
+        "5.5.2 Electricity",
+        "5.5.3 Storage of Energy",
+        "5.5.4 Separation Techniques",
+        "5.5.5 Simple Machines",
+        "5.5.6 Farm Machinery"
+      ],
+      "specific_outcomes": [
+        "5.5.1.1 Explore alternative sources of electrical energy",
+        "5.5.2.1 Construct electric circuits to demonstrate the flow of electricity",
+        "5.5.2.2 Construct a simple Direct Current motor",
+        "5.5.3.1 Explore ways of storing energy",
+        "5.5.4.1 Separate mixtures using an appropriate technique",
+        "5.5.5.1 Construct inclined planes",
+        "5.5.6.1 Use simple farm tools and implements"
+      ]
+    }
+  ]
+}

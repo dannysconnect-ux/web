@@ -1,0 +1,919 @@
+{
+    "subject": "Literature in Kikaonde",
+    "grade": "Form 1",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "Buyuke Bwalamata ku Biñambwanembwa (Understanding Literature Concepts)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Kulumbulula kyambo kya biñambwanembwa (Defining the concept of literature)",
+                    "page": 2,
+                    "competences": [
+                        "Kulumbulula mwatala kyambo kya biñambwanembwa mwapusanapusana (Define the term literature in various ways)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 2,
+                            "hook": "Muntu umo walengele kikope pa selechi, mukwabo wanembele kyambo pakipabi bakaili baimbile lwimbo wantanda. Jibumba ja makayo najo jakaile kisela kisekesha kubanteleki. Ñanyi jizhina jafwainwa kupanyiwa ku mingilo yonse yatelaulwa mukano ka jishimikila?",
+                            "teacher_steps": [
+                                "Kwipuzha mwatala kyambo kya biñambwañembwa",
+                                "Akambizhe bafunda besambepo babiji-babiji",
+                                "Akambezhe bafunda kupana mikumbu yabo",
+                                "Olole mikumbu ya bafunda",
+                                "Abule bafunda amba kyambno kya biñambwanembwa kechi kyapele kwikilumbulula na bulumbuluzhi bumo ine mambo kechi kya shinkamana pa kiintu kimo ine. Nanchi kuji bulumbuluzhi bukwabo byafwainwa kuyukanyikwa",
+                                "Kukambizha bafunda kunemba bulumbuluzhi bwa biñambwanembwa"
+                            ],
+                            "learner_steps": [
+                                "Kwisamba mwatala kyambo kya biñambwanembwa",
+                                "Balumbulule mwatala kyambo kya biñambwanembwa",
+                                "Banembe bulumbuluzhi bwa biñambwanembwa"
+                            ],
+                            "short_notes": "Biñambwanembwa (Literature) is a broad concept that encompasses various forms of written and oral expression. It includes narratives, poetry, drama, and other creative works that convey meaning, ideas, and cultural values."
+                        }
+                    ],
+                    "short_notes": "Introduction to understanding the concept of literature through student exploration and discussion of various definitions.",
+                    "vocabulary": [
+                        {
+                            "term": "Biñambwanembwa",
+                            "definition": "Literature - creative works written or spoken that convey meaning and cultural values"
+                        },
+                        {
+                            "term": "Bulumbuluzhi",
+                            "definition": "Definition or explanation"
+                        },
+                        {
+                            "term": "Kupimapima",
+                            "definition": "To examine or analyze"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 4,
+                        "questions": [
+                            "Kulumbulula kyambo kya biñambwanembwa",
+                            "Pabino byambo byapanyiwa (Lufundo, kashinshijilo ne buntangi) keba bulumbuluzhi busatu bwa biñambwanembwa bwapusana-pusana ne kwibwitanchika",
+                            "Nemba bulumbuluzhi busatu bwa biñambwanembwa ne kwibulondolola"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Kusantaula ndumbululo yapusana-pusana ibena kwamba pa biñambwanembwa (Analyzing different perspectives on literature)",
+                    "page": 5,
+                    "competences": [
+                        "Bafunda basantaule bulumbuluzhi buji mu kyambo kya Litilicha (Learners analyze different aspects of the concept of Literature)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.1",
+                            "page": 5,
+                            "hook": "Mambo ka bulumbuluzhi bwa biñambwanembwa kyo bwa lumbulwiwa mu mashinda apusana-pusana?",
+                            "teacher_steps": [
+                                "Akambizhe bafunda kulumbulula mwaila kyambo kya biñambwanembwa",
+                                "Epuzhe bafunda kupusanya byanembewa ne biñambwañambwa",
+                                "Atundaike bafunda kulumbulula nswañenyo iji mu byanembewa ne biñambwañambwa"
+                            ],
+                            "learner_steps": [
+                                "Batelaulepo bulumbuluzhi bumo bobayuka",
+                                "Batongole bintu bipasha mu bulumbuluzhi bwa panyiwa",
+                                "Besambe pa lupusano lujimo"
+                            ],
+                            "short_notes": "This activity helps learners differentiate between oral literature (biñambwañambwa) and written literature (byanembewa), understanding their distinct characteristics."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.2",
+                            "page": 6,
+                            "hook": "Mashinda ka mukwashisha biñambwanembwa mu bwikalo bwa bantu?",
+                            "teacher_steps": [
+                                "Anengezhe bulumbuluzhi bwa biñambwanembwa bwa kwingijisha mu uno mwingilo",
+                                "Anembe buno bulumbuluzhi bwa biñambwanembwa ne kwibumwesha ku bafunda",
+                                "Ipuzha bafunda umvwe bakonsha kumonamo buwame ne butame mu bulumbuluzhi bwa biñambwanembwa",
+                                "Ambila bafunda besambe pa bulumbuluzhi bukwabo bwakonsha kupanyiwa"
+                            ],
+                            "learner_steps": [
+                                "Banengezhe bulumbuluzhi buji mu biñambwanembwa bwa kwingijisha mu uno mwingilo",
+                                "Ipuzha bafunda umvwe bakonsha kumonamo buwame ne butame mu bulumbuluzhi bwa biñambwanembwa",
+                                "Besambe pa bulumbuluzhi bukwabo bwakonsha kupanyiwa"
+                            ],
+                            "short_notes": "Learners explore the similarities and differences in various definitions of literature, identifying common themes and unique perspectives."
+                        }
+                    ],
+                    "short_notes": "Analysis of different perspectives on literature helps learners develop critical thinking about the nature and purpose of literary works.",
+                    "vocabulary": [
+                        {
+                            "term": "Buwame",
+                            "definition": "Similarities or common features"
+                        },
+                        {
+                            "term": "Butame",
+                            "definition": "Differences or distinct features"
+                        },
+                        {
+                            "term": "Lupusano",
+                            "definition": "Comparison or relationship"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 7,
+                        "questions": [
+                            "Nsantaula bulumbuluzhi bwapusana-pusana bwa biñambwanembwa",
+                            "Telaule mwipashisha bulumbuluzhi bwa biñambwanembwa ne mo bwa pusena"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "Kulenga ndumbululo ya kyambo kya biñambwanembwa (Creating definitions of literature)",
+                    "page": 8,
+                    "competences": [
+                        "Kulenga bulumbuluzhi bwa biñambwanembwa bwa kyabo-kyabo (Create their own definition of literature)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.1",
+                            "page": 8,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ekajike bafunda mubipanyi",
+                                "Apane mukambizho ku bafunda amba kupichila mukwingijila pamo, balenge ne kulumbulula kyambo kya biñambwanembwa kya kyabo-kyabo",
+                                "Apane tubikachi twa ku nembapo",
+                                "Apituluke mumikumbu yabanyike ne kwisambila pamo"
+                            ],
+                            "learner_steps": [
+                                "Bekale mu bipanyi",
+                                "Balenge ne kulumbulula kyambo kya biñambwanembwa kya kyabo-kyabo",
+                                "Bapane mikumbu yabo"
+                            ],
+                            "short_notes": "Learners synthesize their understanding by creating their own definitions of literature based on what they have learned."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.2",
+                            "page": 8,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Lenga bulumbuluzhi bwa biñambwanembwa bwa kyobe-kyobe",
+                                "Ambila banyike bapitulukemo",
+                                "Leka bafunda besambe pa kyalengela kwikala ne kuswisha buno bulumbuluzhi"
+                            ],
+                            "learner_steps": [
+                                "Lenga bulumbuluzhi bwa biñambwanembwa bwa kyobe-kyobe",
+                                "Besambe ne kuswisha bulumbuluzhi bwa biñambwanembwa bwa pusana-pusana"
+                            ],
+                            "short_notes": "Students present and defend their own definitions of literature, demonstrating comprehension and critical thinking."
+                        }
+                    ],
+                    "short_notes": "Creating personal definitions helps learners internalize the concept of literature and apply it to their cultural context.",
+                    "vocabulary": [
+                        {
+                            "term": "Kuswisha",
+                            "definition": "To present or demonstrate"
+                        },
+                        {
+                            "term": "Kulenga",
+                            "definition": "To create or compose"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 9,
+                        "questions": [
+                            "Ntelaula bulumbuluzhi bwa biñambwanembwa bwa pusanapusana",
+                            "Tongola bintu bipasha mu bulumbuluzhi bonse bwapanyiwa",
+                            "Nemba lupusano"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "Mitundu ya Biñambwanembwa (Types of Literature)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Biñambwañambwa (Oral Literature)",
+                    "page": 11,
+                    "competences": [
+                        "Kulumbulula biñambwañambwa byapusana-pusana ne byanembwa byapusana-pusana",
+                        "Kusalapo biñambwañambwa",
+                        "Kwabanye misango ya biñambwañambwa",
+                        "Kutanchika ne kulondolola bishina bya biñambwañambwa",
+                        "Kulondolola biñambwañambwa byapusana-pusana"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.1",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kwipuzha bafunda kulumbulula mwatala kyambo kya biñambwañambwa",
+                                "Akokwezhe biñambañamba byakufunjilako",
+                                "Akambizhe bafunda kwingijisha biñambañamba byoakokwezha",
+                                "Epuzhe bafunda kulumbulula byobafunda ku biñambwañambwa"
+                            ],
+                            "learner_steps": [
+                                "Kulumbulula mwatala kyambo kya biñambwañambwa",
+                                "Kwingijisha biñambañamba byakokwezha mufunjishi",
+                                "Balumbulule byobafunda ku biñambwañambwa"
+                            ],
+                            "short_notes": "Introduction to oral literature, exploring its definition and characteristics through teaching materials."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.2",
+                            "page": 12,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Anengezhe biñambañamba byapusana-pusana byalamata ku biñambwañambwa",
+                                "Akambizhe bafunda kusobololamo biñambañamba byatala ku biñambwañambwa",
+                                "Epuzhe bafunda kutelaula biñambwañambwa"
+                            ],
+                            "learner_steps": [
+                                "Kusobololamo biñambañamba byatala ku biñambwañambwa",
+                                "Kutelaula biñambwañambwa",
+                                "Balondolole mingilo ya biñambwañambwa",
+                                "Baye nakupesa-pesa mingilo ya biñambwañambwa kukebelapo pa byobafunda"
+                            ],
+                            "short_notes": "Learners identify different types of oral literature through examination of various teaching materials."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.3",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Akambizhe bafunda babanye misango ya biñambwañambwa",
+                                "Epuzhe bafunda kuchocheka pa musango umo-umo wa biñambwañambwa byo ba abanya"
+                            ],
+                            "learner_steps": [
+                                "Kwabanye misango ya biñambwañambwa",
+                                "Kuchocheka pa musango umo-umo wa biñambwañambwa byo ba abanya",
+                                "Batolemo bishina mu mingilo ya biñambwañambwa ya londololwa",
+                                "Banembe ne kwitabizha mingilo ya biñambwañambwa"
+                            ],
+                            "short_notes": "Classification of oral literature into different categories, with learners discussing characteristics of each type."
+                        }
+                    ],
+                    "short_notes": "Biñambwañambwa ke lufunjisho lwa byambo bya ambiwatu mukanwa kwa kubulwa kunembwapo paji ponse ine. Bya ambiwa kupichila mu bishimi bya kushimikizhatu, mu nyimbo, bishimpi, bichomeko ne bikwabotu mobyafwainwa kwinginjishiwa mu mashinda apusana-pusana kufuma ku nkulo imo ne kuya ku ikwabo.",
+                    "vocabulary": [
+                        {
+                            "term": "Biñambwañambwa",
+                            "definition": "Oral literature - stories, songs, and traditions passed down orally"
+                        },
+                        {
+                            "term": "Nyimbo",
+                            "definition": "Songs"
+                        },
+                        {
+                            "term": "Bishimpi",
+                            "definition": "Proverbs"
+                        },
+                        {
+                            "term": "Bichomeko",
+                            "definition": "Riddles"
+                        },
+                        {
+                            "term": "Bishimi",
+                            "definition": "Stories or fables"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 15,
+                        "questions": [
+                            "Lumbulula biñambwañambwa mu byambo byobe",
+                            "Lenge kishimpi kifunjishi lufunjisho lwa nema",
+                            "Mambo ka byoulangulukila amba biñambwañambwa bya nemene saba kyangye kwingijisha biñambwanembwa pa kunembe",
+                            "Balondolole mingilo ya biñambwañambwa",
+                            "Baye nakupesa-pesa mingilo ya biñambwañambwa kukebelapo pa byobafunda"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Byanembewa (Written Literature)",
+                    "page": 15,
+                    "competences": [
+                        "Kulumbulula kyambo kya biñambwanembwa",
+                        "Kusalapo byanembewa",
+                        "Kwabanye misango ya byanembewa",
+                        "Kutanchika ne kulondolola buyuke bwa byanembewa",
+                        "Kulondolola byanembewa byapusana-pusana"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.1",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kwipuzha bafunda kulumbulula mwatala kyambo kya biñambwañambwa",
+                                "Akokwezhe biñambañamba byakufunjilako",
+                                "Akambizhe bafunda kwingijisha biñambañamba byoakokwezha",
+                                "Epuzhe bafunda kulumbulula byo bafunda ku biñambwañambwa"
+                            ],
+                            "learner_steps": [
+                                "Balumbulula mwatala kyambo kya biñambwanembwa",
+                                "Balumbulule mwatala kyambo kya biñambwanembwa",
+                                "Bengijisha biñambañamba bya kokwezha mufunjishi",
+                                "Balumbulule byobafunda ku biñambwanembwa"
+                            ],
+                            "short_notes": "Introduction to written literature, exploring its characteristics and forms."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.2",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Anengezhe biñambañamba byapusanapusana byalamata ku biñambwanembwa",
+                                "Akambizhe bafunda kusobololamo biñambwanembwa byatala ku biñambwanembwa",
+                                "Epuzhe bafunda kutelaula biñambwanembwa"
+                            ],
+                            "learner_steps": [
+                                "Kusobololamo biñambwanembwa byatala ku biñambwañambwa",
+                                "Kutelaula biñambwanembwa"
+                            ],
+                            "short_notes": "Learners identify and analyze different types of written literature."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.3",
+                            "page": 17,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Akambizhe bafunda babanye misango ya biñambwanembwa",
+                                "Epuzhe bafunda kuchocheka pa musango umo-umo wa biñambwanembwa byo ba abanya"
+                            ],
+                            "learner_steps": [
+                                "Babanye misango ya biñambwanembwa",
+                                "Bachocheka pa musango umo-umo wa biñambwanembwa"
+                            ],
+                            "short_notes": "Classification and discussion of different categories of written literature."
+                        }
+                    ],
+                    "short_notes": "Byanembewa ke byobya byonse byanembewa mu mabuku biji nobe ponda bobe, ponda bwami, bipepala binemba batapatwambo, mivungilo, bipongo bya byambo ne mashimikila a mu mabuku.",
+                    "vocabulary": [
+                        {
+                            "term": "Byanembewa",
+                            "definition": "Written literature - works recorded in books and documents"
+                        },
+                        {
+                            "term": "Ponda bobe",
+                            "definition": "Autobiography"
+                        },
+                        {
+                            "term": "Ponda bwami",
+                            "definition": "Biography"
+                        },
+                        {
+                            "term": "Mivungilo",
+                            "definition": "Encyclopedia"
+                        },
+                        {
+                            "term": "Nsansawilo",
+                            "definition": "Poetry/Poem"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 18,
+                        "questions": [
+                            "Lumbulula mwatala kyambo kya biñambwanembwa",
+                            "Lumbulula byo wafunda ku biñambwanembwa",
+                            "Nemba nsansawilo ne kwiyamba"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "Lupusano ne Mwipashisha biñambwañambwa ne byanembewa (Comparison and Contrast of Oral and Written Literature)",
+                    "page": 19,
+                    "competences": [
+                        "Kutanchika mwipashisha biñambwañambwa ne byanembewa",
+                        "Kutanchika lupusano luji pakachi ka biñambwañambwa ne byanembewa",
+                        "Kutakaika buneme buji mu biñambwañambwa ne byanembewa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3.1",
+                            "page": 20,
+                            "hook": "Akitalai! Kwikala mu kyalo mwabula byanembewa mu mabuku nangwa kwaikalatu byanembewa byonkatu kwakubula wakushimikizha mashimikila? Bino byonse kechi byafikilamo ine. Ke byoibyo nyi?",
+                            "teacher_steps": [
+                                "Kwabanya bafunda mu tubipanyi tucheche",
+                                "Kwipuzha bafunda umvwe bachomekapo kala bichoneko, bashimikilapo kala bishimi nangwa kwambapo kala nsansawilo",
+                                "Kukambizha bafunda kulumbulula mwatala kyambo kya 'biñambwañambwa'",
+                                "Kuswisha bafunda kutelaula bifwanyikizho bya biñambwañambwa",
+                                "Kwipuzha bafunda kutelaula mitundu ya mabuku obatangapo kala",
+                                "Kutundaika bafunda kulumbulula mwatala kyambo kya 'byanembewa'",
+                                "Kwipuzha bafunda kutelaula bifwanyikizho byanembewa",
+                                "Kukambizha bafunda Kutanchika Mwipashisha biñambwañambwa ne byanembewa",
+                                "Kumwesha biñambañamba ku babena kufunda"
+                            ],
+                            "learner_steps": [
+                                "Kulumbulula mwatala kyambo kya 'biñambwañambwa'",
+                                "Kutelaula mutundu wa mabuku obatangapo kala",
+                                "Kulumbulula mwatala kyambo kya 'byanembewa'",
+                                "Kutelaula bifwanyikizho bya byanembewa",
+                                "Kutanchika Mwipashisha biñambwañambwa ne byanembewa"
+                            ],
+                            "short_notes": "Learners explore the differences and contrasts between oral and written literature forms."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3.2",
+                            "page": 21,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kukambizha bafunda kutelaula banembi ba mabuku mwanembewa mashimikila a mu Kikaonde",
+                                "Kwipuzha bafunda kutelaula buneme bwa kuteleka ku bishimpi, bichomeko ne kutanga byanembewa mu mabuku",
+                                "Kuswisha bafunda kupana mikumbu yabo",
+                                "Kuwamisha mikumbu yapanyiwa"
+                            ],
+                            "learner_steps": [
+                                "Kutelaula banembi ba mabuku mwanembewa mashimikila a mu Kikaonde",
+                                "Kutelaula buneme bwa kuteleka ku bishimi, bishimpi, bichomeko ne kutanga byanembewa mu mabuku",
+                                "Kupana mikumbu yabo"
+                            ],
+                            "short_notes": "Analysis of the importance and benefits of both oral and written literature in preserving culture and knowledge."
+                        }
+                    ],
+                    "short_notes": "Comparing oral and written literature helps learners understand the value of both forms in cultural transmission and education.",
+                    "vocabulary": [
+                        {
+                            "term": "Lupusano",
+                            "definition": "Comparison or similarity"
+                        },
+                        {
+                            "term": "Mwipashisha",
+                            "definition": "Contrast or difference"
+                        },
+                        {
+                            "term": "Buneme",
+                            "definition": "Importance or value"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 22,
+                        "questions": [
+                            "Telaulapo mashinda atanu motufunjila biñambwañambwa",
+                            "Nemba mashinda asatu mwipashisha Biñambwañambwa ne byanembwa",
+                            "Lupusano ka luji pakachi ka Biñambwañambwa ne byanembwa? Nemba mashinda atanu",
+                            "Mwaila milanguluko yobe, lumbulula buneme buji mu biñambwañambwa. Nemba mashinda atanu"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "Mingilo ya Biñambwanembwa (Forms/Genres of Literature)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Mingilo ya Biñambwañambwa (Forms of Oral Literature)",
+                    "page": 24,
+                    "competences": [
+                        "Kutanchika mingilo ya biñambwañambwa",
+                        "Kulondolola mingilo ya biñambwañambwa",
+                        "Kwitabizha mingilo ya biñambwañambwa",
+                        "Kulondolola bingila biñambwañambwa mu kupwisha makatazho abintu bitulamata (mazhikakanwa, lupimpu lwa lubesha, busulu)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.1",
+                            "page": 25,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kukambizha bafunda kutanchika mingilo ya biñambwañambwa",
+                                "Kupitañana ne kumona amba bafunda bonse batolamo lubanji mu kutanchika mingilo ya biñambwañambwa",
+                                "Kutundaika bafunda kwimana kulutwe ne kwamba mikumbu yabo kupichila mu banembeshi ba tubipanyi",
+                                "Olole mikumbu yapana bafunda"
+                            ],
+                            "learner_steps": [
+                                "Kutanchika mingilo ya biñambwañambwa",
+                                "Kutolamo lubanji mu kutanchika mingilo ya biñambwañambwa",
+                                "Kwimana kulutwe ne kwamba mikumbu yabo kupichila mu banembeshi ba tubipanyi"
+                            ],
+                            "short_notes": "Identification and listing of different forms/genres of oral literature."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.2",
+                            "page": 25,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kutundaika bafunda kuvuluka mingilo ya biñambwañambwa yo batanchikile",
+                                "Kukambizha bafunda kulondolola mingilo ya biñambwañambwa",
+                                "Kupitañana ne kumona amba bafunda bonse batolamo lubanji mu kulondolola mingilo ya biñambwañambwa",
+                                "Kukambizha bafunda kwimana kulutwe ne kwamba mikumbu yabo kupichila mu banembeshi ba tubipanyi",
+                                "Olole mikumbu yapana bafunda"
+                            ],
+                            "learner_steps": [
+                                "Kuvuluka mingilo ya biñambwañambwa yo batanchikile",
+                                "Kulondolola mingilo ya biñambwañambwa",
+                                "Kutolamo lubaji mu kulondolola mingilo ya biñambwañambwa",
+                                "Kwimana kulutwe ne kwamba mikumbu yabo kupichila mu banembeshi ba tubipanyi"
+                            ],
+                            "short_notes": "Detailed explanation of each form of oral literature with examples."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.3",
+                            "page": 26,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kwipuzha bafunda kutelaula mingilo ya biñambwañambwa yo bafunjile",
+                                "Kukambizha bafunda kuchocheka pa kwitabizha mingilo ya biñambwañambwa",
+                                "Kutundaika bafunda bapane mikumbu panyuma ya kuchocheka pa kwitabizha mingilo",
+                                "Kolola mikunmbu yapana bafunda"
+                            ],
+                            "learner_steps": [
+                                "Kutelaula mingilo ya biñambwañambwa yo bafunjile",
+                                "Kuchocheka pa kwitabizha mingilo ya biñambwañambwa",
+                                "Kupana mikumbu panyuma ya kuchocheka pa kwitabizha mingilo"
+                            ],
+                            "short_notes": "Application of knowledge through practical use of different oral literature forms."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.4",
+                            "page": 27,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kwipuzha bafunda kutelaula bintu bileta makatazho",
+                                "Kunemba byonse byatelaulwa pa kipabi kya mufunjishi",
+                                "Kukambizha bafunda basobololemo makatazho anyengamina bantu",
+                                "Kutundaika bafunda kulondolola bingila biñambwañambwa mu kupwisha makatazho etunyeñamina"
+                            ],
+                            "learner_steps": [
+                                "Kutelaula bintu bileta makatazho",
+                                "Kusobololemo makatazho anyengamina bantu",
+                                "Kulondolola bingila biñambwañambwa mu kupwisha makatazho etunyeñamina"
+                            ],
+                            "short_notes": "Exploration of how oral literature can address contemporary issues like corruption, climate change, and technology."
+                        }
+                    ],
+                    "short_notes": "Biñambwañambwa ke lufunjisho lwa byambo bya ambiwatu mukanwa. Mingilo includes: nyimbo (songs), bishimpi (proverbs), bichomeko (riddles), bishimi (stories/fables), makayokayo (drama), and others.",
+                    "vocabulary": [
+                        {
+                            "term": "Mingilo",
+                            "definition": "Forms or genres"
+                        },
+                        {
+                            "term": "Mazhikakanwa",
+                            "definition": "Corruption"
+                        },
+                        {
+                            "term": "Lupimpu lwa lubesha",
+                            "definition": "Climate change"
+                        },
+                        {
+                            "term": "Busulu",
+                            "definition": "Technology"
+                        },
+                        {
+                            "term": "Makayokayo",
+                            "definition": "Drama"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 27,
+                        "questions": [
+                            "Biñambwañambwa bingila mingilo yavula bingi. Nembapo mingilo itanu",
+                            "Lumbulula mingilo ya biñambwañambwa yatala ku: i. Kisangajimbwe ii. Lufunjisho lwa mu bwikalo bwa bantu",
+                            "Nemba ulondolola mingilo ya biñambwañambwa",
+                            "Nemba bishinte bitanu witabizhe mingilo ya biñambwañambwa",
+                            "Nembapo, jishinda jimo mwafwainwa kupwishisha ano makatazho: i) Mazhikakanwa ii) Lupimpu lwa lubesha"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "Mingilo ya Byanembewa (Forms of Written Literature)",
+                    "page": 28,
+                    "competences": [
+                        "Kutanchika mingilo ya byanembewa",
+                        "Kulondolola mingilo ya byanembewa",
+                        "Kwitabizha mingilo ya byanembewa",
+                        "Kulondolola bingila byanembewa mu kupwisha makatazho a bintu bitulamata (mazhikakanwa, lupimpu lwa lubesha, busulu)",
+                        "Kulondolola bingila byanembewa mu kukasulula maana a bantu"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.1",
+                            "page": 28,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kukambizha bafunda kutanchika mingilo ya byanembewa",
+                                "Kupitañana ne kumona amba bafunda bonse batolamo lubanji mu kutanchika mingilo ya byanembwa",
+                                "Kutundaika bafunda kwimana kulutwe ne kwamba mikumbu yabo kupichila mu banembeshi ba tubipanyi",
+                                "Olole mikumbu yapana bafunda"
+                            ],
+                            "learner_steps": [
+                                "Kutanchika mingilo ya byanembewa",
+                                "Batolamo lubanji mu kutanchika mingilo ya byanembwa",
+                                "Kwimana kulutwe ne kwamba mikumbu yabo kupichila mu banembeshi ba tubipanyi"
+                            ],
+                            "short_notes": "Identification of different forms of written literature."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.2",
+                            "page": 29,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kutundaika bafunda kuvuluka mingilo ya byanembewa yo batanchikile",
+                                "Kukambizhe bafunda kulondolola mingilo ya byanembewa",
+                                "Kupitañana ne kumona amba bafunda bonse batolamo lubanji mu kulondolola mingilo ya biñambwañambwa",
+                                "Kukambizha bafunda kwimana kulutwe ne kwamba mikumbu yabo kupichila mu banembeshi ba tubipanyi",
+                                "Olole mikumbu yapana bafunda"
+                            ],
+                            "learner_steps": [
+                                "Kuvuluka mingilo ya byanembewa yobatanchikile",
+                                "Kulondolola mingilo ya byanembewa",
+                                "Kutolamo lubaji mu kulondolola mingilo ya byanembewa",
+                                "Kwimana kulutwe ne kwamba mikumbu yabo kupichila mu banembeshi ba tubipanyi"
+                            ],
+                            "short_notes": "Detailed explanation of written literature forms including novels, poetry, drama, biography, etc."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.3",
+                            "page": 30,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kwipuzha bafunda kutelaula mingilo ya byanembewa yo bafunjile",
+                                "Kukambizha bafunda kuchocheka pa kwitabizha mingilo ya byanembewa",
+                                "Kutundaika bafunda bapane mikumbu panyuma ya kuchocheka pa kwitabizha mingilo",
+                                "Kolola mikumbu yapana bafunda"
+                            ],
+                            "learner_steps": [
+                                "Kutelaula mingilo ya byanembewa yo bafunjile",
+                                "Kuchocheka pa kwitabizha mingilo ya byanembewa",
+                                "Kupana mikumbu panyuma ya kuchocheka pa kwitabizha mingilo"
+                            ],
+                            "short_notes": "Practical application of written literature forms in students' own work."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.4",
+                            "page": 31,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Epuzhe bafunda mwatala kyambo kya kabulweteka mulanguluko",
+                                "Akambizhe bafunda kunemba mu mutundu wabo pakuba amba kimweshe amba mitundu yabo yanema kya kumwenako ba Lama Kitungu banemba buuku mu mulaka wabo",
+                                "Abike bafunda mu bipanyi",
+                                "Ambile bafunda basalepo byanembewa pa kushinda milanguluko ya bakubushiya"
+                            ],
+                            "learner_steps": [
+                                "Kulumbulula kyambo kya kabulweteka mulanguluko",
+                                "Kunemba mu mutundu wabo pakuba amba kimweshe amba mitundu yabo yanema",
+                                "Bafunda bekale mu bipanyi",
+                                "Basalepo byanembewa pakushinda milanguluko ya bakubushiya"
+                            ],
+                            "short_notes": "Exploration of decolonizing literature and selecting written works that preserve indigenous knowledge and perspectives."
+                        }
+                    ],
+                    "short_notes": "Byanembewa includes various forms: Baibolo (Bible), ponda bwami (biography), ponda bobe (autobiography), nsansawilo (poetry), makayokayo (drama), and other written works.",
+                    "vocabulary": [
+                        {
+                            "term": "Kabulwetekwa milanguluko",
+                            "definition": "Decolonizing the mind"
+                        },
+                        {
+                            "term": "Bakubushiya",
+                            "definition": "Foreigners or outsiders"
+                        },
+                        {
+                            "term": "Baibolo",
+                            "definition": "Bible"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 32,
+                        "questions": [
+                            "Byanembewa bingila mingilo yavula bingi. Nembapo mingilo itanu",
+                            "Lumbulula mingilo ya byanembewa yatala ku: i) Kisangajimbwe ii) Lufunjisho lwa mu bwikalo bwa bantu",
+                            "Nemba ulondolole mingilo ya byanembewa",
+                            "Nemba bishinte bitanu witabizhe mingilo ya byanembewa",
+                            "Nemba kana kine nangwa bubela: i. Byanembewa mu mulaka wa kina Afilika bikwasheko bantu kunemeka bya kisho ne kisemwa kyabo ii. Buneme ka buji mu kutanga byanembewa bya amba pa bya kisho ne mpito yetu"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "Lufumwa lwa lamata ku mwingilo wa bulumbuluzhi bwa kisho ne kisemwa (Origin related to cultural identity and heritage)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Lufumwa lwa lamata ku mwingilo wa bulumbuluke bwa kisho ne kisemwa (Understanding cultural origins in literature)",
+                    "page": 33,
+                    "competences": [
+                        "Kwisamba pa biñambwanembwa ne byanembwa biji mu buuku, mashimikika, nsansawilo, makayokayo",
+                        "Kushimikila amba pa muntu mwine ne bikwabo byalamata ku bwikalo bwa muntu"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.1",
+                            "page": 34,
+                            "hook": "Langulukapo pa jishimikila jo watemwIsha. Lufunjisho ka luji mukisho nangwa lwa lamata ku mwingilo wa bulumbuluke lwa jishimikila lukwasha kuyuka kilengela bankaizhi kubila mu jojo jishinda",
+                            "teacher_steps": [
+                                "Mufunjishi akambizhe bafunda kusongwesha kishina ku biintu biji, nobe nyimbo, bishimi ne mashimikila a lamata ku bwikalo bwa bantu",
+                                "Mufunishi akambizhe bafunda balondolole nyimbo, bishimpi ne mashimikila alamata ku bwikalo bwa bantu",
+                                "Mufunjishi akambizhe bafunda bembe Nyimbo"
+                            ],
+                            "learner_steps": [
+                                "Basongwesha kishina ku biintu biji, nobe nyimbo, bishimi ne mashimikila a lamata ku bwikalo bwa bantu",
+                                "Balondolole nyimbo, bishimpi ne mashimikila alamata ku bwikalo bwa bantu",
+                                "Bembe Nyimbo"
+                            ],
+                            "short_notes": "Learners explore how literature (stories, songs, proverbs) reflects and preserves cultural identity, customs, and traditions."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.2",
+                            "page": 35,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Mufunjishi akambizhe bafunda kukeba keba bya kisemwa bileta buyukishe mu bya mingilo",
+                                "Mufunjishi ebepuzhe bafunda balondolole mingilo ya bya kisemwa byo baleta"
+                            ],
+                            "learner_steps": [
+                                "Bakekebe bya kisemwa bileta buyukishe mu bya mingilo",
+                                "Balondolole mingilo ya bya kisemwa byo baleta"
+                            ],
+                            "short_notes": "Analysis of how cultural elements are represented in different literary forms."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.3",
+                            "page": 36,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Epuzhe bafunda balumbulule mwatala kyambo kya busendwe",
+                                "Mufunjishi akambizhe bafunda banembe munema wa busendwe",
+                                "Mufunjishi akambizhe bafunda kulumbulula busendwe byo bunungapo mu bya mingilo ne buyukwe bwafikilamo"
+                            ],
+                            "learner_steps": [
+                                "Banembe bya kumwenako bya busendwa",
+                                "Ba lumbulule bya kumwenako bya busendwe bitaanu pa byo batongola"
+                            ],
+                            "short_notes": "Exploration of cultural artifacts and their significance in literature and cultural preservation."
+                        }
+                    ],
+                    "short_notes": "Jishimikila jonse jikala na nsansawilo, nangwa makayokayo biyatu na kisemwa kya bantu. Lufumwa lwa lamata ku mwingilo wabulumbuluke mwamvwangwa bya kisho, kisemwa, lwatabilo kabiji ne mpito ya bankaizhi.",
+                    "vocabulary": [
+                        {
+                            "term": "Kisho",
+                            "definition": "Culture or traditions"
+                        },
+                        {
+                            "term": "Kisemwa",
+                            "definition": "Heritage or cultural identity"
+                        },
+                        {
+                            "term": "Busendwe",
+                            "definition": "Cultural artifacts"
+                        },
+                        {
+                            "term": "Lwitabilo",
+                            "definition": "Customs or practices"
+                        },
+                        {
+                            "term": "Mpito",
+                            "definition": "History"
+                        },
+                        {
+                            "term": "Nkaizhi",
+                            "definition": "Character"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 36,
+                        "questions": [
+                            "Nemba kine nangwa bubela: Bya kisemwa binvwanga na bya kishakulu ne lwitabilo",
+                            "Ipuzhe wa mukisemi kimo pa jishimikila pa bya kishakulu jayukanyikwa",
+                            "Banembe bya kumwenako bya busendwa",
+                            "Ba lumbulule bya kumwenako bya busendwe bitaanu pa byo batongola"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "Misango ya Biñambwañambwa (Categories of Oral Literature)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "5.1",
+                    "title": "Kwabanya misango ya biñambwañambwa (Classifying categories of oral literature)",
+                    "page": 37,
+                    "competences": [
+                        "Kwisamba pa misango ya Biñambwañambwa",
+                        "Kumwesha misango ya biñambwañambwa",
+                        "Kulumbulula misango ya biñambwañambwa",
+                        "Kupana musango wa biñambwañambwa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1.1",
+                            "page": 37,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Mufunjishi akambizhe bafunda bamweshe misango ya biñambwañmbwa",
+                                "Mufunjishi akambizhe bafunda mu tubimpanyi besembe pa biñambwañambwa bya basalapo",
+                                "Mufunjishi akambizhe munembeshi wa pa kipanyi aye ku lutwe na kulumbulula byo besamba"
+                            ],
+                            "learner_steps": [
+                                "Bamweshe misango ya biñambwañmbwa",
+                                "Kwikala mu tubimpanyi besembe pa biñambwañambwa bya basalapo",
+                                "Munembeshi wa pa kipanyi aye ku lutwe na kulumbulula byo besamba"
+                            ],
+                            "short_notes": "Introduction to the main categories of oral literature including narratives, songs, proverbs, riddles, and drama."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1.2",
+                            "page": 38,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Mufunjishi epuzhe bafunda balumbulule misango ya biñambwañambwa",
+                                "Mufunjishi akambizhe bafunda mu tubimpanyi besembe pa biñambwañambwa bya basalapo",
+                                "Mufunjishi akambizhe munembeshi wa pa kipanyi aye ku lutwe na kulumbulula byo besamba",
+                                "Mufunjishi avulule bafunda batongole misango ya biñambwañambwa"
+                            ],
+                            "learner_steps": [
+                                "Balumbulule misango ya biñambwañambwa",
+                                "Mu tubimpanyi besembe pa biñambwañambwa bya basalapo",
+                                "Munembeshi wa pa kipanyi aye ku lutwe na kulumbulula byo besamba",
+                                "Batongole misango ya biñambwañambwa"
+                            ],
+                            "short_notes": "Detailed explanation of each category with examples and characteristics."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1.3",
+                            "page": 39,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Mufunjishi akambizhe bafunda kwikala mutubipanyi bapana misango ya biñambwañambwa bya kumwenako",
+                                "Mufunjishi epuzhe bafunda mubipanyi balondolole misanga ya bin'amwan'ambwa bya kumwenako",
+                                "Mufunjishi akambizhe bafunda bunke-bunke banembe biñambwañambwa byobesambapo"
+                            ],
+                            "learner_steps": [
+                                "Kwikala mu tubipanyi bapana misango ya biñambwañambwa bya kumwenako",
+                                "Mubipanyi balondolole misanga ya bin'amwan'ambwa bya kumwenako",
+                                "Bunke-bunke banembe biñambwañambwa byobesambapo"
+                            ],
+                            "short_notes": "Practical application through creating and presenting examples of different categories."
+                        }
+                    ],
+                    "short_notes": "Biñambwañambwa byafwainwa kunembwa, kwambiwa nangwa bunkaizhi. Main categories include: bichomeko (riddles), bishimpi (proverbs), nyimbo (songs), bishimi/mashimikila (stories), makayokayo (drama), and tubishimi (fables).",
+                    "vocabulary": [
+                        {
+                            "term": "Misango",
+                            "definition": "Categories or types"
+                        },
+                        {
+                            "term": "Tubishimi",
+                            "definition": "Fables or short moral stories"
+                        },
+                        {
+                            "term": "Mashimikila",
+                            "definition": "Narratives or stories"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 40,
+                        "questions": [
+                            "Bafunda batongolepo misango ibiji ya biñambwañambwa",
+                            "Bafunda banembe munema wa biñambwañambwa mu bijiji mo bekala",
+                            "Kwipuzha bafunda kuya ku mazubo abo na kwipuzha babale bishimpi bekinembe bino apa bakekilumbulule kusukulu",
+                            "Batanchike bishimpi byo bayuka ne kunemba bimye mo bebingijisha",
+                            "Tongolapo musango wa biñambwañambwa bisatu",
+                            "Mambo ka bañambwañambwa kyo byanemena mu bisho byetu",
+                            "Kyepi kimo pa bibye byatanchikwa kyabula kwikala musango wa biñambwañambwa?",
+                            "Ñambilo ya maana ipi ifunjisha beita mba ka?",
+                            "Kishimikizho javula kyamba pa kintu byokyatendekele, bwikalo bwa muntu waya nkuwa, byakusekesha, a bya byakatazha kutana mikumbu",
+                            "Biñambwañambwa bifuma ku nkulo imo ne kuya nkulo ikwabo kupichila ku nemba, kwamba, kulenga, kutamba pa mashikopo"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

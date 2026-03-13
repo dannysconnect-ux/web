@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "5",
+    "subject": "Home Economics and Hospitality",
+    "philosophy": "Quality, life long education for all which is accessible, inclusive and relevant to individual, national and global needs and value systems. It is envisaged that the syllabus will make learning at this level more meaningful and enjoyable as it is highly activity oriented and allows for a smooth transition at the primary school level.",
+    "competence_learning": "The Home Economics and Hospitality Syllabus has been developed by the need to provide a national curriculum for Zambia aligned with the competence-based curriculum and 21st Century Skills. Cross-cutting themes and emerging issues such as Life Skills, Entrepreneurship, Climate Change, and Financial Education have been incorporated into the syllabus to ensure that children cultivate a mind-set, skills, values, and positive attitudes that prepare them for sustainability and suitability in the labour market.",
+    "goals": [
+      "To impart the knowledge, skills, values, and positive attitudes that enable children to live and grow into productive and useful members of their communities and the Zambian society.",
+      "To facilitate the holistic development of children's creativity, initiative, problem-solving, physical, mental, and emotional skills among others through suggested activities designed to offer children hands-on experiences through the manipulation of real objects, interaction with nature, and learning through practice, enabling them to develop knowledge, desirable lifelong skills, values, and positive attitudes needed for their personal and national development."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "5.1",
+      "topic_title": "Food",
+      "page_number": 28,
+      "subtopics": [
+        "Methods of Cooking",
+        "Meal Planning",
+        "Food presentation",
+        "Food preservation"
+      ],
+      "specific_outcomes": [
+        "5.1.1.1 Prepare meals using various methods of cooking",
+        "5.1.2.1 Make a Time plan",
+        "5.1.3.1 Decorate food",
+        "5.1.3.1 Preserve foods"
+      ]
+    },
+    {
+      "unit": "5.2",
+      "topic_title": "MEAL AND FLOUR MIXTURES",
+      "page_number": 29,
+      "subtopics": [
+        "Flour mixtures"
+      ],
+      "specific_outcomes": [
+        "5.2.1.1 Prepare flour Mixtures using baking powder and yeast"
+      ]
+    },
+    {
+      "unit": "5.3",
+      "topic_title": "HOUSEKEEPING",
+      "page_number": 31,
+      "subtopics": [
+        "Cleaning",
+        "Customer Service"
+      ],
+      "specific_outcomes": [
+        "5.3.1.1 Clean the kitchen",
+        "5.3.2.1 Apply customer service rules"
+      ]
+    },
+    {
+      "unit": "5.4",
+      "topic_title": "LAUNDRY",
+      "page_number": 31,
+      "subtopics": [
+        "Laundry processes"
+      ],
+      "specific_outcomes": [
+        "5.4.3.1 Launder cotton articles"
+      ]
+    },
+    {
+      "unit": "5.5",
+      "topic_title": "HEALTH",
+      "page_number": 31,
+      "subtopics": [
+        "Puberty",
+        "Practice Oral Hygiene",
+        "Cosmetology"
+      ],
+      "specific_outcomes": [
+        "5.5.1.1 Practice body hygiene",
+        "5.5.2.1 Practice hair styling"
+      ]
+    },
+    {
+      "unit": "5.6",
+      "topic_title": "HUMAN DEVELOPMENT",
+      "page_number": 32,
+      "subtopics": [
+        "Body Image"
+      ],
+      "specific_outcomes": [
+        "4.5.1.1 Develop sense of self-identity"
+      ]
+    },
+    {
+      "unit": "5.7",
+      "topic_title": "TOURISM",
+      "page_number": 34,
+      "subtopics": [
+        "Cultural Awareness"
+      ],
+      "specific_outcomes": [
+        "5.7.1.1 Demonstrate understanding different of cultures"
+      ]
+    },
+    {
+      "unit": "5.8",
+      "topic_title": "SEWING",
+      "page_number": 36,
+      "subtopics": [
+        "Permanent Stitches",
+        "Workout decorative Stitches",
+        "Seams"
+      ],
+      "specific_outcomes": [
+        "5.8.1.1 Work out Neatening stitches",
+        "5.8.2.1 Work out Open and French seams"
+      ]
+    },
+    {
+      "unit": "5.9",
+      "topic_title": "CRAFTS",
+      "page_number": 36,
+      "subtopics": [
+        "Weaving"
+      ],
+      "specific_outcomes": [
+        "5.9.1.1 Weave items using different types of weaves"
+      ]
+    },
+    {
+      "unit": "5.10",
+      "topic_title": "CONSUMER EDUCATION",
+      "page_number": 37,
+      "subtopics": [
+        "Money Management"
+      ],
+      "specific_outcomes": [
+        "5.10.1.1 Apply money management skills in real situations"
+      ]
+    },
+    {
+      "unit": "5.11",
+      "topic_title": "ENTREPRENEURSHIP",
+      "page_number": 37,
+      "subtopics": [
+        "Business Plan",
+        "Mobilise Start-Up Capital",
+        "Make products for running a business"
+      ],
+      "specific_outcomes": [
+        "5.11.1.1 Develop a Business Plan",
+        "5.11.1.2 Mobilise Start-Up Capital",
+        "5.11.1.3 Make products for running a business"
+      ]
+    }
+  ]
+}

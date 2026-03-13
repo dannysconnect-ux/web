@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "5",
+    "subject": "English Language",
+    "philosophy": "The English Language Syllabus for Upper Primary Schools (Grade 4-6) is designed to help learners develop essential skills in listening, reading, speaking, writing, creating, and reflecting upon increasingly intricate spoken, written, and multimodal texts. It aims to foster accuracy, fluency, and purpose in communication, aligning with the Competence-Based Curriculum of the 21st Century. It instils knowledge, skills, values, and positive attitudes, nurturing children to become productive and beneficial members of their communities and Zambian society. The syllabus adopts a Competence-Based Approach, emphasising practical skills and critical thinking, building upon Lower Primary literacy. It focuses on attaining basic communication proficiency in real-life situations and developing language as a tool for learning content subjects, opening doors to higher education and future career prospects.",
+    "competence_learning": "The syllabus adopts a Competence-Based Approach, emphasising the practical skills learners will acquire rather than mere knowledge. It seeks to develop critical thinking skills, encouraging learners to analyse and interpret texts, make connections between ideas, and form opinions based on evidence. The methodology focuses on Communicative Language Teaching (CLT) and Task-Based Language Teaching (TBLT), prioritising real-life communication and practical application through meaningful language tasks and role-play. It also promotes independent and collaborative reading for comprehension and love of reading.",
+    "goals": [
+      "Foster accuracy, fluency, and purpose in communication.",
+      "Instil knowledge, skills, values, and positive attitudes.",
+      "Nurture children to become productive and beneficial members of their communities and Zambian society.",
+      "Enhance language skills for effective communication and learning across various subjects.",
+      "Attain basic communication proficiency in real life situations.",
+      "Develop language as a tool for learning content subjects.",
+      "Develop critical thinking skills, including analysing and interpreting texts, making connections between ideas, and forming opinions based on evidence."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "5.1.1",
+      "topic_title": "DIALOGUES",
+      "page_number": 24,
+      "subtopics": [
+        "Information Sharing"
+      ],
+      "specific_outcomes": [
+        "Share information through conversations"
+      ]
+    },
+    {
+      "unit": "5.1.2",
+      "topic_title": "DEBATE",
+      "page_number": 24,
+      "subtopics": [
+        "Debate Skills"
+      ],
+      "specific_outcomes": [
+        "Debate on topical issues"
+      ]
+    },
+    {
+      "unit": "5.1.3",
+      "topic_title": "LANGUAGE IN A SOCIAL SETTING",
+      "page_number": 24,
+      "subtopics": [
+        "Polite Expressions"
+      ],
+      "specific_outcomes": [
+        "Use polite expressions in various situations"
+      ]
+    },
+    {
+      "unit": "5.1.4",
+      "topic_title": "ETIQUETTE",
+      "page_number": 25,
+      "subtopics": [
+        "Social Etiquette"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language in various situations"
+      ]
+    },
+    {
+      "unit": "5.1.5",
+      "topic_title": "PROCESS",
+      "page_number": 25,
+      "subtopics": [
+        "Simple Processes"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to describe simple processes"
+      ]
+    },
+    {
+      "unit": "5.1.6",
+      "topic_title": "DRAMA",
+      "page_number": 26,
+      "subtopics": [
+        "Short Plays"
+      ],
+      "specific_outcomes": [
+        "Use acceptable language to dramatise short plays"
+      ]
+    },
+    {
+      "unit": "5.1.7",
+      "topic_title": "POETRY",
+      "page_number": 26,
+      "subtopics": [
+        "Reciting Poems"
+      ],
+      "specific_outcomes": [
+        "Recite poems"
+      ]
+    },
+    {
+      "unit": "5.2.1",
+      "topic_title": "LISTENING COMPREHENSION",
+      "page_number": 26,
+      "subtopics": [
+        "Oral Comprehension"
+      ],
+      "specific_outcomes": [
+        "Comprehend spoken language"
+      ]
+    },
+    {
+      "unit": "5.2.2",
+      "topic_title": "READING COMPREHENSION",
+      "page_number": 27,
+      "subtopics": [
+        "Intensive Reading",
+        "Extensive Reading"
+      ],
+      "specific_outcomes": [
+        "Read a variety of texts with comprehension.",
+        "Read texts for enjoyment"
+      ]
+    },
+    {
+      "unit": "5.2.3",
+      "topic_title": "READING FLUENCY",
+      "page_number": 27,
+      "subtopics": [
+        "Reading Aloud"
+      ],
+      "specific_outcomes": [
+        "Read texts aloud with fluency"
+      ]
+    },
+    {
+      "unit": "5.2.4",
+      "topic_title": "SHARED READING",
+      "page_number": 27,
+      "subtopics": [
+        "Fiction and Non-fiction"
+      ],
+      "specific_outcomes": [
+        "Read fiction and non-fiction stories"
+      ]
+    },
+    {
+      "unit": "5.2.5",
+      "topic_title": "REFERENCE BOOKS",
+      "page_number": 27,
+      "subtopics": [
+        "Reference Materials"
+      ],
+      "specific_outcomes": [
+        "Use reference materials"
+      ]
+    },
+    {
+      "unit": "5.2.6",
+      "topic_title": "EXTRACTING INFORMATION",
+      "page_number": 28,
+      "subtopics": [
+        "Print Resources"
+      ],
+      "specific_outcomes": [
+        "Interpret information from print resources"
+      ]
+    },
+    {
+      "unit": "5.3.1",
+      "topic_title": "NARRATIVES",
+      "page_number": 28,
+      "subtopics": [
+        "Story Writing"
+      ],
+      "specific_outcomes": [
+        "Write stories"
+      ]
+    },
+    {
+      "unit": "5.3.2",
+      "topic_title": "DESCRIPTIVE WRITING",
+      "page_number": 28,
+      "subtopics": [
+        "Descriptive Composition"
+      ],
+      "specific_outcomes": [
+        "Describe people"
+      ]
+    },
+    {
+      "unit": "5.3.3",
+      "topic_title": "EXPOSITORY WRITING",
+      "page_number": 28,
+      "subtopics": [
+        "Informative Composition"
+      ],
+      "specific_outcomes": [
+        "Write factual information on given topics"
+      ]
+    },
+    {
+      "unit": "5.3.4",
+      "topic_title": "LETTER WRITING",
+      "page_number": 29,
+      "subtopics": [
+        "Semi-Formal Letter"
+      ],
+      "specific_outcomes": [
+        "Write a semi-formal letter"
+      ]
+    },
+    {
+      "unit": "5.3.5",
+      "topic_title": "SUMMARY",
+      "page_number": 29,
+      "subtopics": [
+        "Note Taking",
+        "Note Making"
+      ],
+      "specific_outcomes": [
+        "Write notes from an oral source",
+        "Make notes from a written source"
+      ]
+    },
+    {
+      "unit": "5.3.6",
+      "topic_title": "PUNCTUATION",
+      "page_number": 29,
+      "subtopics": [
+        "Punctuation Marks"
+      ],
+      "specific_outcomes": [
+        "Use punctuation marks in texts"
+      ]
+    },
+    {
+      "unit": "5.3.7",
+      "topic_title": "GUIDED WRITING",
+      "page_number": 30,
+      "subtopics": [
+        "Guided Composition"
+      ],
+      "specific_outcomes": [
+        "Write short passages using given notes"
+      ]
+    },
+    {
+      "unit": "5.3.8",
+      "topic_title": "SPELLING",
+      "page_number": 30,
+      "subtopics": [
+        "Word Spelling",
+        "Dictation"
+      ],
+      "specific_outcomes": [
+        "Spell words",
+        "Take dictation"
+      ]
+    },
+    {
+      "unit": "5.3.9",
+      "topic_title": "EXTRACTING INFORMATION",
+      "page_number": 30,
+      "subtopics": [
+        "Print Resources"
+      ],
+      "specific_outcomes": [
+        "Interpret information from print resources"
+      ]
+    },
+    {
+      "unit": "5.4.1",
+      "topic_title": "TENSES",
+      "page_number": 31,
+      "subtopics": [
+        "Continuous Tenses"
+      ],
+      "specific_outcomes": [
+        "Use continuous tenses in sentences"
+      ]
+    },
+    {
+      "unit": "5.4.2",
+      "topic_title": "NOUNS",
+      "page_number": 31,
+      "subtopics": [
+        "Countable and Uncountable",
+        "Collective Nouns"
+      ],
+      "specific_outcomes": [
+        "Use countable and uncountable nouns in sentences",
+        "Use collective nouns in sentences"
+      ]
+    },
+    {
+      "unit": "5.4.3",
+      "topic_title": "VERBS",
+      "page_number": 31,
+      "subtopics": [
+        "Regular and Irregular Verbs"
+      ],
+      "specific_outcomes": [
+        "Use regular and irregular verbs in sentences"
+      ]
+    },
+    {
+      "unit": "5.4.4",
+      "topic_title": "PRONOUNS",
+      "page_number": 32,
+      "subtopics": [
+        "Personal Pronouns"
+      ],
+      "specific_outcomes": [
+        "Use personal pronouns in sentences"
+      ]
+    },
+    {
+      "unit": "5.4.5",
+      "topic_title": "ADJECTIVES",
+      "page_number": 32,
+      "subtopics": [
+        "Adjectives as Descriptive Words",
+        "Comparatives"
+      ],
+      "specific_outcomes": [
+        "Use adjectives to describe nouns",
+        "Use comparative forms of adjectives in different situations"
+      ]
+    },
+    {
+      "unit": "5.4.6",
+      "topic_title": "PREPOSITIONS",
+      "page_number": 32,
+      "subtopics": [
+        "Prepositions of Time and Movement"
+      ],
+      "specific_outcomes": [
+        "Use prepositions of time in sentences",
+        "Use prepositions of movement in sentences"
+      ]
+    },
+    {
+      "unit": "5.4.7",
+      "topic_title": "ADVERBS",
+      "page_number": 33,
+      "subtopics": [
+        "Adverbs of Manner"
+      ],
+      "specific_outcomes": [
+        "Use adverbs of manner"
+      ]
+    },
+    {
+      "unit": "5.4.8",
+      "topic_title": "DIRECT AND INDIRECT SPEECH",
+      "page_number": 33,
+      "subtopics": [
+        "Direct Speech",
+        "Indirect Speech"
+      ],
+      "specific_outcomes": [
+        "Use direct speech in writing",
+        "Use indirect speech in writing"
+      ]
+    },
+    {
+      "unit": "5.4.9",
+      "topic_title": "QUESTION TAGS",
+      "page_number": 33,
+      "subtopics": [
+        "Positive Statements",
+        "Negative Statements"
+      ],
+      "specific_outcomes": [
+        "Use positive statements in question tags",
+        "Use negative statements in question tags"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1146 @@
+{
+    "subject": "Cinyanja",
+    "grade": "Form 1",
+    "term": 2,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "KAMBILANO (Debate/Discussion)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Mtsutso (Debate)",
+                    "page": 12,
+                    "competences": [
+                        "Kutsutsana pa nkhani zina zili zonse zopelekedwa (Debate on various given topics)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1",
+                            "page": 13,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Funsani aphunzi zomwe adziwapo pa mabvuto okhuza zozunguza bongo, kusintha kwa nyengo komanso za maufulu a anthu",
+                                "Funsani aphunzi kuchula mndandanda wakacitidwe ka mutsutso monga anthu ofunika kutengako mbali",
+                                "Ikana chati pa bolodi bwino lake akambilane ndi aphunzi ziyenelezo za tsutso ndi mau ofunikila kwambili kugwilitsa nchito"
+                            ],
+                            "learner_steps": [
+                                "Afotokoze zomwe adziwa pa mabvuto okhuza ndi zozunguza bongo, kusintha kwa nyengo ndi za maufulu a anthu",
+                                "Achule zomwe adziwa pa mitu yopatsidwa ya mtsutso",
+                                "Akambilane pa ziyenelezo za mndandanda wa tsutso",
+                                "Afotokoze mau ofunika kugwilitsa nchito potengako mbali nthawi ya mtsutso"
+                            ],
+                            "short_notes": "In this activity, learners practice debating on simple topics like climate change, drug abuse, and human rights. They learn the structure of debates and key vocabulary for effective participation."
+                        }
+                    ],
+                    "short_notes": "Mtsutso ndi kukambilana kwaanthu awiri kapena magulu awiri omwe ali ndi maganizo osiyana pa nkhani yina. Debate involves structured discussion between opposing viewpoints.",
+                    "vocabulary": [
+                        {
+                            "term": "Mtsutso",
+                            "definition": "Debate - structured argument between opposing sides"
+                        },
+                        {
+                            "term": "Mfundo",
+                            "definition": "Point or argument"
+                        },
+                        {
+                            "term": "Ndemanga",
+                            "definition": "Comment or remark"
+                        },
+                        {
+                            "term": "Kufupikitsa",
+                            "definition": "To summarize"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 14,
+                        "questions": [
+                            "Acite mtsutso pa mutu wopatsidwa (Conduct a debate on the given topic)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Matanthauzo a Mau (Word Meanings)",
+                    "page": 14,
+                    "competences": [
+                        "Kugwilitsa nchito matantauzo a mau moyenela (Use word meanings appropriately)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.1",
+                            "page": 16,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Funsani aphunzi kuchula mau osankhidwa",
+                                "Ikani chati pa bolodi ndipo akambilane matanthauzo a mau osankhidwa",
+                                "Funsani aphunzi kuwelenga mau osankidwawo moyenela"
+                            ],
+                            "learner_steps": [
+                                "Achule mau osankhidwa",
+                                "Afotokoze matanthauzo a mau",
+                                "Awelenge mau moyenela"
+                            ],
+                            "short_notes": "Learners explore vocabulary from the story 'Tinkanena Anathila Musiizi' including words like dumbo (fool), okangala (protruding), masanzi (cannabis), kulavula (to insult), mtima bii (completely), kubuka (to erupt), kupika ndende (to imprison), kukwizingidwa (to be handcuffed)."
+                        }
+                    ],
+                    "short_notes": "Understanding vocabulary in context helps learners comprehend narratives and use language appropriately.",
+                    "vocabulary": [
+                        {
+                            "term": "Dumbo",
+                            "definition": "Fool or foolish person"
+                        },
+                        {
+                            "term": "Okangala",
+                            "definition": "Protruding (as in ears)"
+                        },
+                        {
+                            "term": "Masanzi",
+                            "definition": "Cannabis/marijuana"
+                        },
+                        {
+                            "term": "Kulavula",
+                            "definition": "To insult or abuse verbally"
+                        },
+                        {
+                            "term": "Mtima bii",
+                            "definition": "Completely, wholeheartedly"
+                        },
+                        {
+                            "term": "Kubuka",
+                            "definition": "To erupt or break out (as in a fight)"
+                        },
+                        {
+                            "term": "Kupika ndende",
+                            "definition": "To imprison"
+                        },
+                        {
+                            "term": "Kukwizingidwa",
+                            "definition": "To be handcuffed"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 18,
+                        "questions": [
+                            "Pangani ziganizo pogwilitsa nchito mau wosakhidwa moyenela (Make sentences using selected words appropriately)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "Mvetso (Comprehension)",
+                    "page": 18,
+                    "competences": [
+                        "Awelenge nkhani zosiyana siyana momvetsetsa kulingana ndi muyeso wao (Read various stories with comprehension according to their level)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.3.1",
+                            "page": 20,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Awelenge ndime yoyamba ya nkhani",
+                                "Funsani aphunzi awelenge ndime zotsatila mwa m'modzi – modzi kutsatila mawelengendwe abwino a aphunzitsi",
+                                "Patsani aphunzi nthawi yowelengelamo mokuwa mwina mwacinsisi"
+                            ],
+                            "learner_steps": [
+                                "Amvetsele kawelengedwe ka bwino ka mphunzitsi",
+                                "Awelenge nkhani moyenela komanso molondola nthawi yoikidwa"
+                            ],
+                            "short_notes": "Reading comprehension exercise based on the story 'Tinkanena Anathila Musiizi' about a man named Bambo Chimbuma who lost everything due to alcoholism and immoral behavior."
+                        }
+                    ],
+                    "short_notes": "Comprehension involves reading, understanding, answering questions, summarizing, and analyzing vocabulary from texts.",
+                    "vocabulary": [
+                        {
+                            "term": "Kuputa",
+                            "definition": "To beat/strike"
+                        },
+                        {
+                            "term": "Kugwilila",
+                            "definition": "To molest sexually"
+                        },
+                        {
+                            "term": "Zadama",
+                            "definition": "Shameful acts"
+                        },
+                        {
+                            "term": "Kulavula",
+                            "definition": "To insult"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 21,
+                        "questions": [
+                            "Munthu aliyense amapatsidwa mwai koma kusiyana kwake ndi...A. kagwilitsidwe ka mwai uwo B. kucita malonda C. masungidwe a ndalama D. kayendetsedwe ka ndalama",
+                            "Bambo Chimbuma anali ndi makhalidwe wokonda...A. ndeu B. kulima C. kumwa mowa kwambili D. kuba za eni",
+                            "Mkadakhala bambo Chimbuma, mudakapewa bwanji kupita kundende?",
+                            "Pambuyo pokhala ndi mwai wopata ndalama zambili, fotokazani mumene mungadzigwilitsile nchito?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "NKHANI (Stories/Narratives)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Nkhani Zopeka (Fiction Stories)",
+                    "page": 39,
+                    "competences": [
+                        "Kukamba nkhani zopeka kulingana ndi capamutu copatsidwa (Tell fiction stories according to given theme)",
+                        "Kusanthula nkhani (zopeka) (Analyze fiction stories)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.1",
+                            "page": 40,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ikani aphunzi mtimagulu",
+                                "Uzani aphunzi kusankha umodzi pa gulu lao oti alankhulile kaguluko",
+                                "Uzani aphunzi kuti asiyanitse nkhani zopeka ndinso nkhani zeni-zeni",
+                                "Ikani ndemanga pa zotuluka mtimaguluto"
+                            ],
+                            "learner_steps": [
+                                "Akhale mtimagulu ting'ono-ting'ono",
+                                "Asankhe olankhulila kagulu kao",
+                                "Asiyanitse nkhani zopeka ndi nkhani zeni-zeni",
+                                "Amvetsele ndi kukonza pamene sanacite bwino"
+                            ],
+                            "short_notes": "Learners distinguish between fiction (nkhani zopeka) and non-fiction (nkhani zeni-zeni) stories, understanding their characteristics and purposes."
+                        }
+                    ],
+                    "short_notes": "Nkhani zopeka ndi nkhani zopangidwa ndi mmaganizo a munthu. Sizinacitike zenizeni koma zimapangidwa kuti ziphunzitse kapena zisangalatse. Fiction stories are imaginary narratives created to teach or entertain.",
+                    "vocabulary": [
+                        {
+                            "term": "Nkhani zopeka",
+                            "definition": "Fiction stories - imaginary narratives"
+                        },
+                        {
+                            "term": "Nkhani zeni-zeni",
+                            "definition": "Non-fiction stories - true narratives"
+                        },
+                        {
+                            "term": "Santhula",
+                            "definition": "To analyze"
+                        },
+                        {
+                            "term": "Ziyenelezo",
+                            "definition": "Characteristics or features"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 43,
+                        "questions": [
+                            "Siyanitsani nkhani zopeka ku nkhani zeni-zeni (Distinguish fiction from non-fiction)",
+                            "Fotokozani nkhani zopeka ku aphunzi anzanu (Explain fiction stories to your peers)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Matanthauzo a Mau (Vocabulary)",
+                    "page": 43,
+                    "competences": [
+                        "Aphunzi agwilitse nchito m'ndandanda wa mau a muyeso wao (Learners use vocabulary appropriate to their level)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.1",
+                            "page": 44,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Pelekani zowelenga ku aphunzi",
+                                "Uzani aphunzi kuwelenga mau amatanthauzo",
+                                "Uzani aphunzi kupeze matanthauzo a mau"
+                            ],
+                            "learner_steps": [
+                                "Alandile zoti awelenge",
+                                "Awelenge nkhani muli mau amatanthauzo",
+                                "Apeze matanthauzo a mau"
+                            ],
+                            "short_notes": "Vocabulary development through context including terms like mbutuma (drunkard), mtapanje (alcohol), mwana wacisamba (illegitimate child), mphasa za alendo (prostitute), cidamuyabwa citedze (shame abandoned her)."
+                        }
+                    ],
+                    "short_notes": "Building vocabulary through reading stories and using words in context.",
+                    "vocabulary": [
+                        {
+                            "term": "Mbutuma",
+                            "definition": "Drunkard"
+                        },
+                        {
+                            "term": "Mtapanje",
+                            "definition": "Alcohol/liquor"
+                        },
+                        {
+                            "term": "Mwana wacisamba",
+                            "definition": "Illegitimate child"
+                        },
+                        {
+                            "term": "Mphasa za alendo",
+                            "definition": "Prostitute"
+                        },
+                        {
+                            "term": "Cidamuyabwa citedze",
+                            "definition": "Shame abandoned her"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 46,
+                        "questions": [
+                            "Pelekani matanthauzo a mau opatsidwa (Give meanings of provided words)",
+                            "Pangani ziganizo kugwilitsa nchito mau amatanthauzo (Make sentences using vocabulary words)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "Cifupikitso ca ndime (Paragraph Summary)",
+                    "page": 55,
+                    "competences": [
+                        "Kufupikitsa nkhani zifupi-zifupi (Summarize short texts)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3.1",
+                            "page": 56,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Pelekani nkhani yoti aphunzi awelenge",
+                                "Uzani aphunzi kuwelenga funso ndi malamulo a cifupikitso",
+                                "Uzani aphunzi kuwelenga nkhani yapatsidwa",
+                                "Uzani aphunzi akambilane ziyenelezo za cifupikitso ca ndime",
+                                "Uzani aphunzi kupeza Mfundo zikulu-zikulu"
+                            ],
+                            "learner_steps": [
+                                "Alandile nkhani yoti awelenge",
+                                "Awelenge nkhani yapatsidwa",
+                                "Awelenge funso ndi malamulo a cifupikitso ca ndime",
+                                "Akambilane ziyenelezo za cifupikitso ca ndime",
+                                "Apeze Mfundo zikulu-zikulu"
+                            ],
+                            "short_notes": "Summary writing involves identifying main points from paragraphs and condensing them into one paragraph while maintaining the original meaning."
+                        }
+                    ],
+                    "short_notes": "Cifupikitso ndi kulemba mfundo zikulu-zikulu za nkhani mwacidule. Summarizing is writing main points of a text concisely.",
+                    "vocabulary": [
+                        {
+                            "term": "Mfundo",
+                            "definition": "Point or main idea"
+                        },
+                        {
+                            "term": "Mfundo zikulu-zikulu",
+                            "definition": "Main points"
+                        },
+                        {
+                            "term": "Ndime",
+                            "definition": "Paragraph"
+                        },
+                        {
+                            "term": "Cifupikitso",
+                            "definition": "Summary"
+                        },
+                        {
+                            "term": "Lunjika",
+                            "definition": "Arrange or organize"
+                        },
+                        {
+                            "term": "Cidule",
+                            "definition": "Brief or short"
+                        },
+                        {
+                            "term": "Muyeso wa mau",
+                            "definition": "Word count"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 58,
+                        "questions": [
+                            "Fupikitsani nkhani potsatila malamulo oyenela (Summarize the text following appropriate guidelines)"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "ULAMULILO (Governance)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Kambilano pa Ulamulilo (Discussion on Governance)",
+                    "page": 72,
+                    "competences": [
+                        "Kugwilitsa nchito mau oyenelela polankhulilana pa za ulamulilo wa bwino (Use appropriate vocabulary when discussing good governance)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.1",
+                            "page": 72,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ikani aphunzi m'magulu",
+                                "Uzani aphunzi asankhe mlembi pa gulu lili lonse",
+                                "Funsani aphunzi akambilane pa mitundu ya ulamulilo yosiyana-siyana"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'magulu",
+                                "Asankhe mlembi pa gulu lili lonse",
+                                "Akambilane m'magulu pa mitundu ya ulamulilo wabwino"
+                            ],
+                            "short_notes": "Learners discuss different types of governance including democracy (demokilasi), understanding how citizens participate in decision-making through elections and representation."
+                        }
+                    ],
+                    "short_notes": "Ulamulilo wabwino ndi momwe dziko kapena bungwe limayendetsedwa m'njila yolungama. Good governance involves fair and just administration of a country or organization.",
+                    "vocabulary": [
+                        {
+                            "term": "Ulamulilo wabwino",
+                            "definition": "Good governance"
+                        },
+                        {
+                            "term": "Demokilasi",
+                            "definition": "Democracy"
+                        },
+                        {
+                            "term": "Masankho",
+                            "definition": "Elections"
+                        },
+                        {
+                            "term": "Danga",
+                            "definition": "Right or privilege"
+                        },
+                        {
+                            "term": "Nthumwi",
+                            "definition": "Representative"
+                        },
+                        {
+                            "term": "Zipsyinjo",
+                            "definition": "Grievances or complaints"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 73,
+                        "questions": [
+                            "Kukambilana pa mutu wopatsidwa wokhudza pa za ulamulilo (Discuss the given topic on governance)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "Demokalasi (Democracy)",
+                    "page": 73,
+                    "competences": [
+                        "Kugwilitsa nchito mau amuyeso wao (Use vocabulary at their level)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.1",
+                            "page": 75,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Gawani aphunzi m'magulu",
+                                "Pelekani nkhani yofunika kuwelengedwa",
+                                "Uzani aphunzi kupeza matanthauzo a mau"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'magulu",
+                                "Awelenge nkhani",
+                                "Akambilane matanthauzo a mau osankhidwa"
+                            ],
+                            "short_notes": "Reading and analyzing text about democracy, understanding key concepts like participation, representation, and citizen rights."
+                        }
+                    ],
+                    "short_notes": "Demokalasi ndi ulamulilo umene anthu Wamba ali ndi danga lotengako mbali popeleka malingalilo ndi zikhumbo zao m'mene bungwe kapena dziko lao lingafunikile kuyendetsedwela zinthu. Democracy is governance where ordinary people have the right to participate in giving opinions and wishes on how their organization or country should be run.",
+                    "vocabulary": [
+                        {
+                            "term": "Demokalasi",
+                            "definition": "Democracy"
+                        },
+                        {
+                            "term": "Bungwe",
+                            "definition": "Organization"
+                        },
+                        {
+                            "term": "Malingalilo",
+                            "definition": "Opinions or views"
+                        },
+                        {
+                            "term": "Nthumwi",
+                            "definition": "Representative"
+                        },
+                        {
+                            "term": "Cinamtindi",
+                            "definition": "Multitude or crowd"
+                        },
+                        {
+                            "term": "Zikhumbo",
+                            "definition": "Wishes or desires"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 77,
+                        "questions": [
+                            "Gwilitsani nchito matanthauzo a mau mziganizo moyenela (Use vocabulary in appropriate sentences)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.3",
+                    "title": "Zodzilemoyoko (Autobiography)",
+                    "page": 82,
+                    "competences": [
+                        "Aphunzi alembe mbili ya moyo wao (Learners write their autobiography)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.3.1",
+                            "page": 84,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Kumbutsani aphunzi ziyenelezo za kalembedwe ka cimangilizo cakufotokozela mbili ya moyo wao",
+                                "Ongolelani zolakwika zimene aphunzi angapeleke"
+                            ],
+                            "learner_steps": [
+                                "Ayankhe mafunso yopatsidwayo",
+                                "Akonze zolakwika zimene zingapelekedwe"
+                            ],
+                            "short_notes": "Writing autobiography involves describing one's own life story including birth, upbringing, education, and significant life events."
+                        }
+                    ],
+                    "short_notes": "Zodzilemoyoko ndi nkhani yomwe munthu amalemba zakubadwa kwake, mmene adaleleredwa, maphunzilo ake ndi zinthu zina zofunika zimene zinacitika m'moyo wake. Autobiography is a narrative where a person writes about their birth, upbringing, education and other important life events.",
+                    "vocabulary": [
+                        {
+                            "term": "Mutu wa nkhani",
+                            "definition": "Title of the story"
+                        },
+                        {
+                            "term": "Lambulo/ciyambi",
+                            "definition": "Introduction"
+                        },
+                        {
+                            "term": "Dzina lako",
+                            "definition": "Your name"
+                        },
+                        {
+                            "term": "Caka ndi malo obandwila",
+                            "definition": "Year and place of birth"
+                        },
+                        {
+                            "term": "Ndime",
+                            "definition": "Paragraph"
+                        },
+                        {
+                            "term": "Zocitika pa moyo wako",
+                            "definition": "Events in your life"
+                        },
+                        {
+                            "term": "Maphunzilo ndi zina zopata",
+                            "definition": "Education and other achievements"
+                        },
+                        {
+                            "term": "Kulunjika mfundo",
+                            "definition": "Organizing points"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 85,
+                        "questions": [
+                            "Lembani mbili ya moyo wanu (Write your autobiography)"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "KUPANGA ZILAPI (Creating Riddles)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Zilapi (Riddles)",
+                    "page": 101,
+                    "competences": [
+                        "Kupanga zilapi (Create riddles)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.1",
+                            "page": 99,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Funsani aphunzi kuti anene thantauzo la zilapi",
+                                "Pelekani zitsanzo za zilapi",
+                                "Uzani aphunzi ndondomeko zocitila masewela a zilapi",
+                                "Funsani aphunzi kuti akhale m'magulu awili ndi kucita masewela ya kuponyelana zilapi"
+                            ],
+                            "learner_steps": [
+                                "Afotokoze mathantauzo a zilapi",
+                                "Amvetsele zitsanzo za zilapi",
+                                "Amvetsele ndondomeko ya zocitila masewela a zilapi",
+                                "Akhale m'magulu awili ndi kuponyelana zilapi"
+                            ],
+                            "short_notes": "Riddles are traditional oral literature forms that challenge thinking and creativity. Examples include: 'Alendo m'mawa masana apita mame' (Answer: Utsi/smoke), 'Bokosi lotsegula ndi zala' (Answer: mtedza/groundnut)."
+                        }
+                    ],
+                    "short_notes": "Zilapi ndi mafunso amene amafunsidwa m'njira yobisa tanthauzo lake. Zilapi zimafunsa kuti munthu aganize mozama kuti apeze yankho. Riddles are questions asked in a way that hides their meaning, requiring deep thinking to find the answer.",
+                    "vocabulary": [
+                        {
+                            "term": "Zilapi",
+                            "definition": "Riddles"
+                        },
+                        {
+                            "term": "Kuganiza mozama/mwakuya",
+                            "definition": "To think deeply/critically"
+                        },
+                        {
+                            "term": "Kupeka",
+                            "definition": "To imagine or create"
+                        },
+                        {
+                            "term": "Kucenjeletsa",
+                            "definition": "To make clever or sharp"
+                        },
+                        {
+                            "term": "Matanthauzo awili kapena ambili",
+                            "definition": "Double or multiple meanings"
+                        },
+                        {
+                            "term": "Kuponya",
+                            "definition": "To throw or pose (a riddle)"
+                        },
+                        {
+                            "term": "Zobisika",
+                            "definition": "Hidden things"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 101,
+                        "questions": [
+                            "M'magulu awili, aphunzi acite mpikitsano wa zilapi (In two groups, learners compete in a riddle contest)",
+                            "Aphunzi apange zilapi zatsopano (Learners create new riddles)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.2",
+                    "title": "Ubwino wa Ulimi (Benefits of Agriculture)",
+                    "page": 105,
+                    "competences": [
+                        "Awelenge nkhani zosiyana siyana mozama kulingana ndi muyeso wao (Read various stories intensively according to their level)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2.1",
+                            "page": 108,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Funsani mafunso angapo okhudzana ndi nkhani yomwe idzawelengedwa",
+                                "Ikani chati pa bolodi yomwe ili ndi mau amene ayenela kupeza matanthauzo ao",
+                                "Pamodzi ndi aphunzi apeze matanthauzo a mauwo",
+                                "Sankhani aphunzi m'modzi-modzi nthawi ili yonse kuti awelenge ndime",
+                                "Funsani mafunso ngati ndime yawelengedwa"
+                            ],
+                            "learner_steps": [
+                                "Ayankhe mafunso angapo okhudzana ndi nkhani yomwe idzawelengedwa",
+                                "Apenyetsetse chati ili pa bolodi yomwe ili ndi mau amene ayenela kupeza matanthauzo ake",
+                                "Pamodzi ndi aphunzitsi ao apeze matanthauzo a mauwo",
+                                "Auze mphunzi m'modzi awelenge ndime",
+                                "Ayankhe mafunso ngati ndime yawelengedwa"
+                            ],
+                            "short_notes": "Reading comprehension passage about benefits of agriculture, including vocabulary like masiku amake dzana (in the past), tsinzinatole (raggedly dressed), galu wakuda (poverty), upandu (self-employment), mpondamatiki (resourceful), luntha (skill)."
+                        }
+                    ],
+                    "short_notes": "Ulimi ndi msana wa cuma ca maiko ambili. Agriculture is the backbone of many countries' economies.",
+                    "vocabulary": [
+                        {
+                            "term": "Masiku amake dzana",
+                            "definition": "In the past/olden days"
+                        },
+                        {
+                            "term": "Tsinzinatole",
+                            "definition": "Raggedly dressed person"
+                        },
+                        {
+                            "term": "Galu wakuda",
+                            "definition": "Poverty (literally: black dog)"
+                        },
+                        {
+                            "term": "Upandu",
+                            "definition": "Self-employment/independence"
+                        },
+                        {
+                            "term": "Mpondamatiki",
+                            "definition": "Resourceful person"
+                        },
+                        {
+                            "term": "Luntha",
+                            "definition": "Skill or expertise"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 109,
+                        "questions": [
+                            "Masiku amakedzana ulimi unali wodalilika. Masiku amakedzana ndiko kuti...A. kale B. lelo C. mawa D. mkuca",
+                            "Ulimi uli pa mitindu-mitundu monga...A. ulimi wa mitengo B. ulimi wa mbeu C. ulimi wa nsomba D. onse wachulidwa pa mwabapa",
+                            "Chulani mitundu ya ulimi imeme yachulidwa mkhani mwawelenga",
+                            "Pambuyo pogulitsa zaulimi, anthu amacita nciani ndi ndalama zao?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.3",
+                    "title": "Zidziwitso ndi Zikwangani (Notices and Advertisements)",
+                    "page": 115,
+                    "competences": [
+                        "Kulemba zidziwitso ndi zikwangwani (Write notices and advertisements)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.3.1",
+                            "page": 117,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Fotokozani matanthauzo a zidziwitso ndi zikwangwani kwa aphunzi",
+                                "Onetsani zidziwitso ndi zikwangwani pa makhadi zosiyana-siyana",
+                                "Kambilanani nchito za zindziwitso ndi zikwangwani",
+                                "Fusani aphunzi kunena za malo amene amapeza zidziwitso ndi zikwangwani"
+                            ],
+                            "learner_steps": [
+                                "Amvetsele matanthauzo azidziwitso ndi zikwangwani",
+                                "Aone zidziwitso ndi zikwangwani pa makhadi, zosiyana-siyana",
+                                "Akambilane nchito za zindziwitso ndi zikwangwani",
+                                "Anene malo amene amapeza zidziwitso ndi zikwangwani"
+                            ],
+                            "short_notes": "Notices and advertisements are written to inform or persuade people. They should be eye-catching and contain essential information."
+                        }
+                    ],
+                    "short_notes": "Zidziwitso ndi zikwangwani ndi zolemba zomwe zimauza anthu za zinthu zofunikira kapena zowakopa kugula zinthu. Notices and advertisements are writings that inform people about important matters or attract them to buy things.",
+                    "vocabulary": [
+                        {
+                            "term": "Zidziwitso",
+                            "definition": "Notices"
+                        },
+                        {
+                            "term": "Zikwangwani",
+                            "definition": "Advertisements"
+                        },
+                        {
+                            "term": "Kukopa maso",
+                            "definition": "Eye-catching/attractive"
+                        },
+                        {
+                            "term": "Mfundo zofunika",
+                            "definition": "Important points"
+                        },
+                        {
+                            "term": "Zocitika",
+                            "definition": "Events"
+                        },
+                        {
+                            "term": "Zotsatsa",
+                            "definition": "Persuasive elements"
+                        },
+                        {
+                            "term": "Zocenjeza",
+                            "definition": "Warnings"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 118,
+                        "questions": [
+                            "Lembani cikwangwani cosonyeza malo ali wonse wodziwika bwino (Write an advertisement showing any well-known place)",
+                            "Lembani cidziwitso ca malonda (Write a business notice)"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "NYIMBO (Songs)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "5.1",
+                    "title": "Nyimbo zacikhalidwe (Traditional Songs)",
+                    "page": 133,
+                    "competences": [
+                        "Aphunzi afotokozele phindu la nyimbo zacikhalidwe (Learners explain the value of traditional songs)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1.1",
+                            "page": 131,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ikani aphunzi m'timagulu",
+                                "Uzani kuti gulu lili lonse lisankhe mlembi wa gululo",
+                                "Uzani aphunzi akambilane ndi kulemba mfundo zomwe agwirizana ngati gulu",
+                                "Itanani mlembi wagulu lili lonse kupeleka za zotuluka m'kukambilana kwao",
+                                "Wongolelani zolakwika zina zimene aphunzi angapeleke"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'timagulu",
+                                "Asankhe azitsogoleli m'timagulu tao",
+                                "Akambilane ndi kulemba zokambilana zao",
+                                "Atsogoleli a timagulu afotokozele za zotuluka mkukambilana kwao"
+                            ],
+                            "short_notes": "Traditional songs teach cultural values and life lessons. Example: 'Kasamale upitako ndi kwa eni' teaches young women about proper behavior in marriage."
+                        }
+                    ],
+                    "short_notes": "Nyimbo zacikhalidwe ndi nyimbo zimene zimaimba kale kale kuti ziphunzitse miyambo ndi makhalidwe abwino. Traditional songs are old songs sung to teach customs and good behavior.",
+                    "vocabulary": [
+                        {
+                            "term": "Zifunga",
+                            "definition": "Waist beads or traditional covering"
+                        },
+                        {
+                            "term": "Pakamwa",
+                            "definition": "At the mouth/speech"
+                        },
+                        {
+                            "term": "Bvunda",
+                            "definition": "Grinding (grain)"
+                        },
+                        {
+                            "term": "Danitsa",
+                            "definition": "To destroy or ruin"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 133,
+                        "questions": [
+                            "Aphunzi apange ndi kuimba nyimbo zacikhalidwe m'magulu awo (Learners create and sing traditional songs in their groups)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "5.2",
+                    "title": "Mabvalidwe (Clothing/Dress)",
+                    "page": 137,
+                    "competences": [
+                        "Awelenge nkhani zosiyana siyana momvetsetsa kulingana ndi muyeso wao (Read various stories with comprehension according to their level)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5.2.1",
+                            "page": 140,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Funsani mafunso angapo okhudzana ndi nkhani yomwe idzawelengedwa",
+                                "Ikani chati pa bolodi yomwe ili ndi mau amene ayenela kupeza matanthauzo ao",
+                                "Pamodzi ndi aphunzi apeze matanthauzo a mauwo",
+                                "Sankhani aphunzi m'modzi-modzi nthawi iliyonse kuti awelenge ndime",
+                                "Funsani mafunso ngati ndime yawelengedwa"
+                            ],
+                            "learner_steps": [
+                                "Ayankhe mafunso angapo okhudzana ndi nkhani yomwe idzawelengedwa",
+                                "Apenyetsetse chati ili pa bolodi yomwe ili ndi mau amene ayenela kupeza matanthauzo ake",
+                                "Pamodzi ndi aphunzitsi ao apeze matanthauzo a mauwo",
+                                "Awelenge ndime",
+                                "Ayankhe mafunso ngati ndime yawelengedwa"
+                            ],
+                            "short_notes": "Reading comprehension about the evolution of clothing from traditional animal skins to modern dress, discussing cultural changes and their implications."
+                        }
+                    ],
+                    "short_notes": "Mabvalidwe a anthu anasintha kucokela pa zikumba za nyama kufikila pa nsalu ndi zobvala za makono. People's clothing has changed from animal skins to cloth and modern dress.",
+                    "vocabulary": [
+                        {
+                            "term": "Zifunga",
+                            "definition": "Traditional waist covering"
+                        },
+                        {
+                            "term": "Aciyela",
+                            "definition": "White people/foreigners"
+                        },
+                        {
+                            "term": "Danga",
+                            "definition": "Right or privilege"
+                        },
+                        {
+                            "term": "Makono",
+                            "definition": "Modern times"
+                        },
+                        {
+                            "term": "Bilimankhwe",
+                            "definition": "Chameleon (used metaphorically for changeability)"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 142,
+                        "questions": [
+                            "Kodi anthu amapanga zifunga kucokela ku mtengo wotani? A. Nkhuni B. Nkhuyu C. Nkhasi D. Nkhungwa",
+                            "Kusintha kwa mabvalidwe uku kuononga...ya anthu. A. makambidwe B. maonekedwe C. makhalidwe D. macitidwe",
+                            "Ncifukwa ninji azimai ankabvala kusiya mathupi ao pabwalo?",
+                            "Fotokozani mwacidule m'mene azibambo anali kubvalila kalelo"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "5.3",
+                    "title": "Kulemba Mofotokozela Maonekedwe (Descriptive Writing)",
+                    "page": 146,
+                    "competences": [
+                        "Kulemba cimangilizo mwakufotokozela maonekedwe (anthu) (Write descriptive composition about people)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5.3.1",
+                            "page": 148,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Pelekani machati asonyeza munthu kapena malo",
+                                "Kambilanani pa mutu wa cimangilizo",
+                                "Onetsani kalembedwe ka mutu ndi ndime",
+                                "Fotokozani pa kalembedwe wa kauthe-uthe"
+                            ],
+                            "learner_steps": [
+                                "Alandile machati",
+                                "Amvetsele zonenedwa pa mfundo zochulidwa"
+                            ],
+                            "short_notes": "Descriptive writing about people involves detailing physical appearance, behavior, mannerisms, and personal characteristics using vivid language."
+                        }
+                    ],
+                    "short_notes": "Kulemba mofotokozela maonekedwe ndi kufotokoza za munthu, cinthu kapena malo m'njira yomvetsetsa bwino. Descriptive writing is describing a person, thing or place in a clear and understandable way.",
+                    "vocabulary": [
+                        {
+                            "term": "Mutu wacimangilizo",
+                            "definition": "Title of composition"
+                        },
+                        {
+                            "term": "Lambulo/ciyambi",
+                            "definition": "Introduction"
+                        },
+                        {
+                            "term": "Ndime",
+                            "definition": "Paragraph"
+                        },
+                        {
+                            "term": "Kulunjika mfundo",
+                            "definition": "Organizing points"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 149,
+                        "questions": [
+                            "Lembani cimangilizo mofotokozela maonekedwe pa mitu iyi: (i) Munthu wochuka kwambili (ii) Mphunzitsi amene amandisangalatsa",
+                            "Lembani cimangilizo ca kulemba moyo wanu (Write a composition describing your life)"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "6.0",
+            "topic_title": "ZAMALONDA (Entrepreneurship/Business)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "6.1",
+                    "title": "Kukambilana pa Zamalonda (Discussion on Business)",
+                    "page": 164,
+                    "competences": [
+                        "Kugwilitsila nchito cilankhulo moyenela pakukambila pa zamalonda (Use appropriate language when discussing business)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.1.1",
+                            "page": 162,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ikani aphunzi m'timagulu ting'ono-ting'ono",
+                                "Uzani aphunzi kusankha atsogoleli m'timagulu taoto",
+                                "Pacikani chati pamene pali zithunzi-thunzi za malonda osiyana-siyana",
+                                "Uzani aphunzi kuti akambilane pa mitundu ya malonda opezeka zinthuzi-thunzizo ndinso m'mene yacitkila",
+                                "Patsani aphunzi mpata wokambilana pa zomwe alikuwona pazithunzi-thunzipo",
+                                "Pemphani atsogoleli atimagulu tao kufotokozela zopeza zao",
+                                "Konzani zolakwika zimene aphunzi angapeleke"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'timagulu ting'ono-ting'ono",
+                                "Asankhe atsogoleli m'timagulu taoto",
+                                "Apenyetsetse pa chati pomwe pali zithunzi-thunzi za malonda osiyana-siyana",
+                                "Akambilane pa zimene ali kuwona pa za mitunda ya malonda ndi momwe acitidwila",
+                                "Afotokozele anzao zopeza zao kupoyolela muli atsogoleli am'timagulu tao",
+                                "Akonze zolakwika zao zimene angapeleke"
+                            ],
+                            "short_notes": "Discussion on various types of businesses including agriculture, manufacturing, services, and retail. Understanding business vocabulary and concepts."
+                        }
+                    ],
+                    "short_notes": "Malonda ndi kucita zinthu zomwe zimabweletsa phindu. Business involves activities that generate profit.",
+                    "vocabulary": [
+                        {
+                            "term": "Malonda",
+                            "definition": "Business/trade"
+                        },
+                        {
+                            "term": "Nsatso",
+                            "definition": "Profit"
+                        },
+                        {
+                            "term": "Ziweto",
+                            "definition": "Livestock"
+                        },
+                        {
+                            "term": "Ulimi",
+                            "definition": "Agriculture/farming"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 164,
+                        "questions": [
+                            "Mutu wopatsidwa pa zamalonda wakambidwa moyenela (The given business topic discussed appropriately)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "6.2",
+                    "title": "Kuwelenga Nkhani ya Malonda (Reading Business Text)",
+                    "page": 168,
+                    "competences": [
+                        "Kuwelenga nkhani zosiyana-siyana kulingana ndi muyeso wao mozama (Read various texts intensively according to their level)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.2.1",
+                            "page": 171,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Ikani aphunzi m'magulu",
+                                "Gawilani aphunzi mabuku ankhani ofunikilila kuwelengedwa",
+                                "Funsani aphunzi awelenge nkhani",
+                                "Funsani aphunzi mafunso osiyana-siyana okhudzana ndi nkhani yopatsidwayo",
+                                "Wongolelani mayankho ena olakwika amene angapelekedwe ndi aphunzi"
+                            ],
+                            "learner_steps": [
+                                "Akhale m'magulu",
+                                "Alandile mabuku a nkhani ofunikilila kuwelengedwa",
+                                "Awelenge nkhani yopatsidwayo",
+                                "Ayankhe mafunso osiyana-siyana okhudzana ndi nkhani yopatsidwayo",
+                                "Akonze mayankho ao ena olakwika amene angapelekedwe"
+                            ],
+                            "short_notes": "Comprehensive reading passage discussing different types of businesses (ulimi/agriculture, mayededwe/transport, zamamangidwe/construction, etc.), qualities of entrepreneurs, and challenges in business."
+                        }
+                    ],
+                    "short_notes": "Pa umoyo, munthu amalaka-laka zinthu zambili. Zinthuzo zina amazipeza yekha, koma zina nkosatheka kuzipeza yekha. Ndiye pazotele pakhumbika kupeza mwanjira ina. Ndipo njira imodzi mwa iyo ndi ya zamalonda. In life, people desire many things. Some they can obtain by themselves, but others are impossible to get alone. Therefore, it's necessary to find another way, and one such way is through business.",
+                    "vocabulary": [
+                        {
+                            "term": "Kusekedwa",
+                            "definition": "To be mocked or ridiculed"
+                        },
+                        {
+                            "term": "Mpatulo",
+                            "definition": "Separation or distinction"
+                        },
+                        {
+                            "term": "Kudzikuza",
+                            "definition": "To be proud"
+                        },
+                        {
+                            "term": "Danga",
+                            "definition": "Right or opportunity"
+                        },
+                        {
+                            "term": "Molelela",
+                            "definition": "Soft or gentle"
+                        },
+                        {
+                            "term": "Namwino",
+                            "definition": "Initiation ceremony"
+                        },
+                        {
+                            "term": "Cilengedwe",
+                            "definition": "Nature or creation"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 174,
+                        "questions": [
+                            "Welengani ndi kufotokoza nkhani zimene mwawelenga mwacidule (Read and explain the story you read briefly)",
+                            "Fupikitsani nkhani potsatila malamulo oyenela (Summarize the text following appropriate guidelines)"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "6.3",
+                    "title": "Kawelengedwe kamanambala (Reading Numbers)",
+                    "page": 179,
+                    "competences": [
+                        "Kuwelenga kucokela modzi kufikila pa muyanda pena zikwi–zikwi (Read from one to one thousand or thousands)"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.3.1",
+                            "page": 180,
+                            "hook": null,
+                            "teacher_steps": [
+                                "Gwilitsani nchito timakhadi polembedwa manambala",
+                                "Itanani mphunzi mmodzi–mmodzi kuwelenga manambala",
+                                "Funsani aphunzi ena momwe manambalawo achulidwila",
+                                "Ikani cipepala cacikulu polembedwapo manambala akulu-akulu ndipo akambilane ndi aphunzi zachulidwe kamanambalawo",
+                                "Patsani aphunzi zocita"
+                            ],
+                            "learner_steps": [
+                                "Agwilitse nchito timakhadi polembedwapo manambala",
+                                "Awelenge manambala",
+                                "Ayankhe momwe manambalawo achulidwila",
+                                "Aone pa cipepala cacikulu polembwapo manambala akulu-akulu ndipo akambilane ndi aphunzitsi kachulidwe kamanambalawo",
+                                "Apeleke mayankho azopatsidwazo"
+                            ],
+                            "short_notes": "Learning to read and write numbers in Cinyanja from 1 to thousands, essential for business and daily transactions."
+                        }
+                    ],
+                    "short_notes": "Kudziwa kuwelenga manambala m'Cinyanja ndikofunikira kwambiri pa zamalonda ndi moyo watsiku ndi tsiku. Knowing how to read numbers in Cinyanja is very important for business and daily life.",
+                    "vocabulary": [
+                        {
+                            "term": "Nambala",
+                            "definition": "Number"
+                        },
+                        {
+                            "term": "Mphambu",
+                            "definition": "Units/ones"
+                        },
+                        {
+                            "term": "Zokha",
+                            "definition": "Only/alone"
+                        },
+                        {
+                            "term": "Zikwi–zikwi",
+                            "definition": "Thousands"
+                        },
+                        {
+                            "term": "Muyanda",
+                            "definition": "One thousand"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 181,
+                        "questions": [
+                            "Lemba kachulidwe ka manambalawa: i) 3 ii) 11 iii) 92 iv) 523 v) 990",
+                            "Lemba matanthauzo a mauawa m'manambala: i) Khumi ndi mphambu zisanu ndi ziwili ii) Makumi awili ndi mphambu zinai iii) Mazana asanu ndi makumi atatu ndi mphambuzi sanu ndi zinai"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

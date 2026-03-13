@@ -1,0 +1,563 @@
+{
+    "subject": "History",
+    "grade": "Form 1",
+    "term": 2,
+    "topics": [
+        {
+            "topic_id": "1.5",
+            "topic_title": "THE BEGINNING AND SPREAD OF IRON WORKING AND FARMING",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.5.1",
+                    "title": "Development of Iron-Technology and Farming",
+                    "page": 1,
+                    "competences": [
+                        "Analyse impact of Iron technology in farming"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 2,
+                            "hook": "Imagine how life would be without farming and iron tools! How did farming start? Were iron tools always there since the beginning of human life?",
+                            "teacher_steps": [
+                                "Ask learners prior to the lesson to research on early areas of farming and iron working in the Middle East and Africa",
+                                "Ask learners to present their findings",
+                                "Display a map showing early areas of farming and iron working in the Middle East and Africa",
+                                "Ask learners to draw the map",
+                                "Consolidates using the map"
+                            ],
+                            "learner_steps": [
+                                "Research on early areas of farming and iron working in the Middle East and Africa",
+                                "Present findings",
+                                "Study displayed map",
+                                "Draw the map",
+                                "Note key points"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 3,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Brainstorming: Ask learners to mention settlement areas of Iron Age farmers in Zambia",
+                                "Display a map showing settlement areas of Iron Age farmers in Zambia",
+                                "Ask learners to identify settlement areas of Iron Age farmers in Zambia",
+                                "Consolidate key points for the learners",
+                                "Instruct learners to draw the map"
+                            ],
+                            "learner_steps": [
+                                "Mention settlement areas of Iron Age farmers in Zambia",
+                                "Study displayed map",
+                                "Identify settlement areas on map",
+                                "Copy key points",
+                                "Draw the map"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 3,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Display a chart showing trade at Ing'ombe Ilede",
+                                "Ask learners to study the chart",
+                                "Conduct a class discussion based on the chart",
+                                "Ask learners to draw the diagram on the chart",
+                                "Ask learners to refer to the chart to complete the table"
+                            ],
+                            "learner_steps": [
+                                "Study the chart showing trade at Ing'ombe Ilede",
+                                "Participate in class discussion",
+                                "Draw the diagram",
+                                "Complete the table on items found, imported and exported at Ing'ombe Ilede"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 4,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Ask learners to mention the Iron Age tools used in agriculture, fishing, hunting and trading",
+                                "Consolidate learners' responses using pictures",
+                                "Divide learners in groups",
+                                "Ask learners in groups to analyse the importance of iron technology in agriculture, fishing, hunting, trading and construction",
+                                "Ask group representatives to make presentations to the class",
+                                "Write the main points on the board"
+                            ],
+                            "learner_steps": [
+                                "Mention Iron Age tools used in various activities",
+                                "Study pictures of iron tools",
+                                "Work in groups to analyse importance of iron technology",
+                                "Present findings to class",
+                                "Copy main points"
+                            ]
+                        }
+                    ],
+                    "short_notes": "Early Areas of Farming and Iron working in the Middle East: Farming began around 10000 BC in the Middle East between rivers Tigris and Euphrates known as Fertile Crescent or Mesopotamia. Iron working was started by the Hittites of Asia Minor (Turkey) who began the use of iron to make tools around 3000 B.C.\n\nEarly Areas of Farming and Iron working in Africa: From the Middle East, knowledge of farming and iron working spread to Egypt along the Nile Valley around 650 B.C. In Africa, iron working began along the Nile Valley in Egypt and spread to Sudan (Kush) where an iron working centre was established at Meroe. The knowledge of iron working then spread further to Ethiopia (Axum).\n\nSettlement areas of Iron Age farmers in Zambia: Kalundu and Isamu Pati in Kalomo District; Ing'ombe Ilede in Siavonga District.\n\nRelating Ing'ombe Ilede to the Global Trade Environment: Ing'ombe Ilede was an Early Iron Age trading centre located near the confluence of Zambezi and Lusitu rivers in Siavonga District, Southern Province. The people of Ing'ombe Ilede possessed salt and ivory. They imported gold and ivory from the south as far as Zimbabwe. Copper, slaves, ivory and iron objects were imported from the north as far as Katanga. These items attracted foreign traders from Asia and the Middle East. These traders came to Ing'ombe Ilede from the east coast using the Zambezi River. They brought iron objects, beads, sea shells and cloth. This led to the integration of Ing'ombe Ilede into the international trade environment. Similarly, modern Zambia has natural resources which enables it to be involved in global trade. Zambia exports goods such as minerals, maize and electricity to other countries. It also imports goods like oil, machinery, foodstuffs, and other goods.\n\nThe importance of Iron technology: Agriculture - Iron technology led to increased food production. Iron tools like hoes, axes and picks enabled early farmers to cultivate large portions of land. Increased Population - Increased food production led to population increase. Fishing - Iron technology led to increased improved fishing using iron tools such as spears and hooks. Hunting - Iron technology improved hunting through use of spears and arrows made of iron. In modern times guns made of iron components are used to hunt animals by those with licences. Trading - Black smith make iron tools such as hoes, axes, slashers, cutters for sale on the market. Metal fabrication industries also make modern iron equipment and tools for sale for revenue generation. Construction - Iron is used in roofing houses, making window frames, building poles and others to establishment permanent infrastructure. Migration - Iron tools encouraged people to migrate into new areas of settlement.",
+                    "vocabulary": [
+                        {
+                            "term": "Agriculture",
+                            "definition": "refers to crop production and rearing of livestock"
+                        },
+                        {
+                            "term": "Farming",
+                            "definition": "refers growing of crops and rearing of animals"
+                        },
+                        {
+                            "term": "Fertile Crescent",
+                            "definition": "refers to an area between rivers Tigris and Euphrates in the Middle East where farming began in the world"
+                        },
+                        {
+                            "term": "Livestock",
+                            "definition": "Domesticated animals like goats, pigs, chickens, cattle and many more"
+                        },
+                        {
+                            "term": "Iron",
+                            "definition": "refers to a mineral extracted from rocks used to farming tools"
+                        },
+                        {
+                            "term": "Barter system",
+                            "definition": "refers to the exchange of goods for goods among the various groups of people in the past"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 5,
+                        "questions": [
+                            "What challenges would early and modern farmers have faced if Iron-Technology had not been discovered?",
+                            "You have observed a reduction in food production in your community. Using the knowledge of iron technology and farming, how would you promote crop production in your local community?",
+                            "Many young people in Zambia today have remained jobless even after acquiring tertiary education. Explain how young people can utilise iron technology to earn a living."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "1.6",
+            "topic_title": "THE BANTU SPEAKING PEOPLE",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.6.1",
+                    "title": "Early Bantu settlement in Africa",
+                    "page": 6,
+                    "competences": [
+                        "Locate origins of the Bantu Speaking people of Africa"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 7,
+                            "hook": "What language is the word 'Bantu?' Some people say that the Bantu are only found in Zambia.",
+                            "teacher_steps": [
+                                "Divide learners in groups",
+                                "Distribute flash cards bearing the word 'person'",
+                                "Instruct learners to discuss and write the word 'person' in different languages",
+                                "Ask learners to analyse similarities in the words",
+                                "Ask group representatives to present their findings to the class",
+                                "Write and consolidate the points from the learners"
+                            ],
+                            "learner_steps": [
+                                "Work in groups",
+                                "Study flash cards",
+                                "Write the word 'person' in different languages",
+                                "Analyse similarities in the words",
+                                "Present findings to class",
+                                "Copy consolidated points"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 7,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Prior to this lesson, ask learners to carry out a research about the Bantu speaking people",
+                                "Divide learners into groups",
+                                "Distribute maps showing groups of people found in Africa",
+                                "Ask learners to identify the Bantu speaking people from the maps",
+                                "Instruct group representatives to report their findings to the class",
+                                "Write the points on the board"
+                            ],
+                            "learner_steps": [
+                                "Carry out research about Bantu speaking people",
+                                "Work in groups",
+                                "Study maps showing groups of people in Africa",
+                                "Identify Bantu speaking people from maps",
+                                "Report findings to class",
+                                "Copy points from board"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 8,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Divide learners into small groups",
+                                "Distribute blank maps of Africa",
+                                "Ask each group to locate the early Bantu settlement in West Africa on the blank map provided",
+                                "Instruct learners to mark the area settled by Bantu-speaking people in West Africa",
+                                "Ask groups to share their completed maps with the class",
+                                "Display the map showing the Benue Valley in West Africa"
+                            ],
+                            "learner_steps": [
+                                "Work in small groups",
+                                "Study blank map of Africa",
+                                "Locate early Bantu settlement in West Africa",
+                                "Mark the Benue Region on the map",
+                                "Share completed maps with class",
+                                "Study displayed map"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 8,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Ask learners to work in groups",
+                                "Distribute documents explaining reasons for the Bantu migrations from West Africa",
+                                "Ask learners to study the document",
+                                "Tell learners to discuss the reasons for the Bantu migrations from West Africa",
+                                "Ask group representatives to report their findings to the class",
+                                "Write the main points on the board",
+                                "Instruct the learners to copy the points in their books"
+                            ],
+                            "learner_steps": [
+                                "Work in groups",
+                                "Study documents on Bantu migrations",
+                                "Discuss reasons for Bantu migrations from West Africa",
+                                "Report findings to class",
+                                "Copy main points in books"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 9,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Display a map on the course of the Bantu migrations from West Africa",
+                                "Ask learners to study the map",
+                                "Guide learners to discuss the course of the Bantu migrations from West Africa",
+                                "Summarise the main points"
+                            ],
+                            "learner_steps": [
+                                "Study displayed map",
+                                "Discuss the course of Bantu migrations from West Africa",
+                                "Note main points"
+                            ]
+                        }
+                    ],
+                    "short_notes": "The term Bantu: The Bantu are people who speak similar languages. For example, the word 'person' has the root 'ntu' and the prefix 'mu' in various Bantu languages. The term Bantu refers to a large family of languages spoken across central Eastern and Southern Africa.\n\nIdentifying the Bantu Speaking People: There are many groups of Bantu speaking people in Africa. For example, Luba, Lunda, Zulu, Ndebele, Sukuma, Shona, Yao, Kikuyu and many others.\n\nEarly Bantu settlement in West Africa: The early Bantu settled in West Africa in the Benue Region located between Lake Chad and the Cameroon Highlands.\n\nReasons for the Bantu migrations from West Africa: Population increase; Search for fertile land; Drought and climate change; Conflicts and wars; Diseases; Love for adventure and exploration; Iron working technology; Expansion of trade; Witchcraft; Slave trade; Succession disputes; Family quarrels.\n\nThe course of the Bantu migrations from West Africa: The Central route - movements from West Africa into the Congo Basin forming the Luba and Lunda kingdoms. The Eastern route - movements from West Africa into the Great Lakes region such the Baganda, Banyoro, Basoga, and others proceeded southwards such as Tonga, Shona and Nguni groups. The Western route - movement from West Africa into Southern Africa such as Ovambo, Okavango, Herero. Some settled in Angola, Namibia.",
+                    "vocabulary": [
+                        {
+                            "term": "Bantu",
+                            "definition": "refers to a group of Africans found south of the Sahara who have similar languages and culture"
+                        },
+                        {
+                            "term": "Migration",
+                            "definition": "the movement of people from one place to another in search of food or better living conditions"
+                        },
+                        {
+                            "term": "Benue Region",
+                            "definition": "the region in West Africa where the Bantu Speaking people are believed to have originated from"
+                        },
+                        {
+                            "term": "Sub-Saharan Africa",
+                            "definition": "the area of Africa located south of the Saharan desert where the Bantu people migrated and settled"
+                        },
+                        {
+                            "term": "Settlement",
+                            "definition": "the act of establishing communities in new areas"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 10,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.6.2",
+                    "title": "Bantu Migrations into Zambia",
+                    "page": 10,
+                    "competences": [
+                        "Use knowledge of common origins of Zambian people to promote national unity"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 11,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Ask learners to draw table showing causes for migrations in modern day Zambia and complete it",
+                                "Display a chart showing causes of the Bantu migrations into Zambia",
+                                "Ask learners to classify the causes into political, economic and social categories as shown in the table",
+                                "Conduct a whole class discussion to consolidate the causes of the Bantu migrations",
+                                "Instruct learners to write the consolidated points"
+                            ],
+                            "learner_steps": [
+                                "Draw table showing causes for migrations in modern day Zambia",
+                                "Study chart showing causes of Bantu migrations into Zambia",
+                                "Classify causes into political, economic and social categories",
+                                "Participate in class discussion",
+                                "Write consolidated points"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 12,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Display the map showing the course of Bantu migrations into Zambia",
+                                "Ask learners to draw the map",
+                                "Instruct learners to study the map to trace migration routes of the Bantu speaking groups into Zambia",
+                                "Whole class discussion on the course of the Bantu migrations into Zambia"
+                            ],
+                            "learner_steps": [
+                                "Study displayed map",
+                                "Draw the map",
+                                "Trace migration routes on the map",
+                                "Participate in class discussion"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 12,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Display the map showing historical settlements for Bantu speaking people",
+                                "Ask learners to draw the map in their books",
+                                "Consolidates the information on the map"
+                            ],
+                            "learner_steps": [
+                                "Study displayed map",
+                                "Draw map showing historical settlements of Bantu speaking people in Zambia",
+                                "Note key points"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 13,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Ask learners prior to this lesson to find out if the Bantu migrations have contributed to national unity",
+                                "Divide learners into two groups to debate the motion: Bantu migrations brought national unity in Zambia",
+                                "Summarise the debate by analysing the effects of Bantu migrations on national unity. Teacher must emphasise that the Bantu migrations have contributed to national unity"
+                            ],
+                            "learner_steps": [
+                                "Research on whether Bantu migrations contributed to national unity",
+                                "Participate in debate",
+                                "Note summary points on effects of Bantu migrations on national unity"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "5",
+                            "page": 14,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Circulate pictures depicting shared heritage",
+                                "Ask learners to study the pictures",
+                                "Ask learners to analyse how the pictures depict the use of shared heritage to foster national unity",
+                                "Whole class discussion",
+                                "Consolidates and writes the main points"
+                            ],
+                            "learner_steps": [
+                                "Study pictures depicting shared heritage",
+                                "Analyse how pictures show use of shared heritage to foster national unity",
+                                "Participate in class discussion",
+                                "Copy main points"
+                            ]
+                        }
+                    ],
+                    "short_notes": "Causes for the Bantu migrations into Zambia - From Katanga: Conflict over land; Expansion of powerful kingdoms; Internal conflicts and wars; Succession disputes; Shortage of water resources; Desire to receive tribute and control trade; Discovery and use of iron technology; Need for fertile land; Shortage of pasture for animals; Social causes; Adventure; Family quarrels; Overpopulation in their original homeland; Witchcraft. From South Africa - Effects of Mfecane: The wars of Shaka led to a wave of wars and forced migrations across southern Africa. Many groups like the Ngoni, Ndebele and the Kololo migrated to escape Zulu military expansion.\n\nThe course of the Bantu migrations into Zambia: Movement from the Great Lakes Region - The Bantu who migrated in to this group include the Tonga, Lungu and Tabwa. They moved from East Africa and settled Zambia. Movement from Katanga - From Luba include: Bemba, Chewa, Soli, Lenje, Lala, Lamba, Tumbuka and many more. From Lunda include: Lozi, Lunda, Luvale, Chokwe, Mbunda, Kaonde and many. Movement from South Africa - This included the Ngoni and Kololo.\n\nThe Historical settlement for Bantu speaking people in Zambia: Central province- Lala, Lenje, Swaka, Sala and many more; Eastern province – Chewa, Chikunda, Nsenga, Ngoni, Senga, Tumbuka and many more; Luapula province –Lunda, Kabende, Ushi, Chishinga and many more; Muchinga province – Bemba, Bisa, Lambia, Namwanga and many more; Northern province – Bemba, Mambwe, Lungu; North-western – Lunda, Luvale, Chokwe, Kaonde, Luchazi, Mbunda, Ndembu and many more; Southern province – Tonga, Ila, Toka-leya, Ila and many more; Western province – Lozi, Nkoya, Subiya, Nyengo, Kwangwa, Mbunda and many more; Lusaka province- Soli, Lenje; Copperbelt province- Lamba.\n\nEffects of the Bantu migrations on national unity: Shared heritage – common identity promotes national unity. Cultural exchange – as different communities settled they shared customs, traditions and values that fostered national unity. Diverse ethnic groups share same historical experiences based on common origins. This is a unifying factor. Pre-colonial political structures provided early models of leadership and community cohesion that later influenced modern state-building. Intermarriages and social bonds help break ethnic barriers leading to stronger social bonds that contribute to national unity. The need to coexist in a shared territory prompts new social norms and practices. Migrating groups brought with them new innovations in agriculture, iron working and trade which contributed to a shared economy.\n\nUsing shared heritage to foster national unity: Shared heritage refers to common cultural, historical and social elements that different ethnic groups in Zambia have. Examples of shared heritage in Zambia include ceremonies, traditional attire, food, songs, shrines and others. They help to foster appreciation and understanding of each other's culture. Zambian societies emphasise values such as respect, hospitality and communal living which are shared across different ethnic groups. Proverbs and folk tales from different tribes often carry similar messages about unity and cooperation. Language as a unifying factor: some local languages such as Bemba, Nyanja Tonga and Lozi are widely spoken across different regions. Intermarriages and social integration. Shared heritage fosters national unity by promoting mutual respect, encouraging patriotism, building peace, social cohesion and strengthening national pride.",
+                    "vocabulary": [
+                        {
+                            "term": "Paramount chief",
+                            "definition": "a chief who has overall control over sub-chiefs"
+                        },
+                        {
+                            "term": "Tribute",
+                            "definition": "a show of loyalty to the traditional leaders through giving items and labour"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 20,
+                        "questions": [
+                            "In most of the Pre-colonial Centralised societies of Zambia, the Chief controlled the Army. Why is it an important aspect of every society including modern Zambia to have an army centrally controlled?",
+                            "Most Pre-colonial societies in Zambia were located in specific regions of the country. However, people have now changed and different ethnic groups are now settling in any part of the country. What factors have contributed to this change in settlement patterns?",
+                            "How can historical awareness contribute to fostering a sense of understanding, respect and unity among various ethnic and cultural groups within Zambia?"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.6.3",
+                    "title": "Decentralised societies in Pre-colonial Zambia",
+                    "page": 15,
+                    "competences": [
+                        "Analyse features of decentralised societies"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 15,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Display chart showing decentralised societies in Zambia",
+                                "Ask learners to study the dsplayed chart",
+                                "Consolidates the points on decentralised societies",
+                                "Ask learners to write the list in their books"
+                            ],
+                            "learner_steps": [
+                                "Study displayed chart",
+                                "Note points on decentralised societies",
+                                "Write the list in books"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 16,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Display the map",
+                                "Ask learners to draw the map of Zambia and indicate the location of decentralised societies",
+                                "Consolidate the points"
+                            ],
+                            "learner_steps": [
+                                "Study displayed map",
+                                "Draw map of Zambia showing location of decentralised societies",
+                                "Note key points"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 16,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Divide the class into groups",
+                                "Distribute the documents containing information on features of decentralised societies",
+                                "Ask learners to study the documents",
+                                "Instruct learners to discuss and write the features of decentralised societies",
+                                "Ask group representatives to present their findings to the class"
+                            ],
+                            "learner_steps": [
+                                "Work in groups",
+                                "Study documents on features of decentralised societies",
+                                "Discuss and write features of decentralised societies",
+                                "Present findings to class"
+                            ]
+                        }
+                    ],
+                    "short_notes": "Decentralised societies in pre-colonial Zambia were communities or ethnic groups that did not have a centralised form of government. These societies were organised around clans, lineages, or family groups, with leadership distributed across elders or village heads. These were societies that did not have a strong central government and were not ruled by kings or chiefs. Examples of decentralised societies in Zambia include the Tonga, Ila, Lenje, Sala, Soli and others.\n\nAreas of settlement for decentralised societies in Zambia: Southern province – Tonga, Ila; Central province – Lenje, Sala; Lusaka province - Soli.\n\nKey features of decentralised societies in Zambia: Loose political structure – they did not have chiefs and kings, leadership was distributed among village elders, clan leaders or family heads. They were mainly farmers, who grew crops such as millet and sorghum and kept livestock such as cattle goats, sheep and pigs. They also reared chickens. They were involved in local trade. They did not have organised military structure and this exposed them to attack from powerful groups. Societies were organised around extended families with strong kinship ties. Ceremonies, traditions and oral history played a role in maintaining cultural identity and governance.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 17,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.6.4",
+                    "title": "Centralised Societies",
+                    "page": 17,
+                    "competences": [
+                        "Integrate features of centralised societies in modern Zambian society"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 17,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Display chart showing centralised societies in Zambia",
+                                "Ask learners to study the chart",
+                                "Consolidates the points on centralised societies",
+                                "Ask learners to write the points in their books"
+                            ],
+                            "learner_steps": [
+                                "Study displayed chart",
+                                "Note points on centralised societies",
+                                "Write points in books"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 18,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Display the map",
+                                "Ask learners to draw the map of Zambia and indicate the location of centralised societies",
+                                "Consolidate the points"
+                            ],
+                            "learner_steps": [
+                                "Study displayed map",
+                                "Draw map of Zambia showing location of centralised societies",
+                                "Note key points"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 18,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Distribute the documents containing information on features of centralised societies",
+                                "Ask learners to study the documents",
+                                "Instruct learners to discuss and write the features of centralised societies"
+                            ],
+                            "learner_steps": [
+                                "Study documents on features of centralised societies",
+                                "Discuss features of centralised societies",
+                                "Write features in books"
+                            ]
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 19,
+                            "hook": "",
+                            "teacher_steps": [
+                                "Divide learners into groups",
+                                "Ask learners to draw the table",
+                                "Ask learners to complete the table by showing how features of centralised societies have been integrated in the modern Zambian society",
+                                "Ask learners to present their work to the class",
+                                "Display a complete chart showing how features of centralised societies have been integrated in the modern Zambian society",
+                                "Ask learners to copy the completed table in their books"
+                            ],
+                            "learner_steps": [
+                                "Work in groups",
+                                "Draw the table",
+                                "Complete table showing how features of centralised societies have been integrated in modern Zambian society",
+                                "Present work to class",
+                                "Study complete chart",
+                                "Copy completed table in books"
+                            ]
+                        }
+                    ],
+                    "short_notes": "Centralised societies are societies that have a strong central government and are led either by a chief, king or queen. Examples of centralised societies in pre-colonial Zambia include the Bemba, Chewa, Kaonde, Lunda, Luyi, Luvale and Ngoni.\n\nCentralised societies in pre-colonial Zambia: Bemba kingdom – located in northern Zambia ruled by the king known as chief Chitimukulu. The Lozi kingdom - located in western Zambia ruled by the Litunga. The Lunda kingdom – located in the Luapula region led by Chief Mwata Kazembe. The Chewa kingdom – located in the Eastern region led by Chief Gawa Undi. The Ngoni kingdom – located in Eastern Zambia led by Chief Mpezeni.\n\nFeatures of centralised societies: In a centralised society, chiefs had centralised political power. The Chief was helped to rule by the senior chiefs, sub-chiefs and Village headmen. Chiefs controlled trade routes for salt, ivory, copper and slaves. All the centralised societies received tributes in form of food, labour and goods from their subjects and the conquered people. Chiefs also organised traditional ceremonies which brought all the people within the kingdom together. For example, Ukusefya pa Ngwena (Bemba), Kuomboka(Lozi), Ncwala(Ngoni), Umutomboko (Lunda), Likumbi Lya Mize(Luvale) Kulamba(Chewa). Centralised societies had well organised army to defend the kingdom and expand territories. For example, the Ngoni had a warrior based system.\n\nIntegrating features of centralised societies in modern Zambia:\n\nCentralised political power: Zambia being a republic has an elected president who is helped to rule by ministers, members of parliament, councilors and district commissioners. This clearly shows how the Zambian system of governance functions similarly to chiefs and paramount chiefs. Zambian government has embraced traditional leadership through the House of Chiefs established in 1965 to date with 50 members. Chiefs have continued to be in charge of traditional affairs and offer advice the president on traditional matters.\n\nMonopoly of trade: The government manages economies through trade regulations and public services.\n\nTribute system: The government also collects taxes from its citizens through the Zambia Revenue Authority and distributes to different sectors or areas of needy to foster development. This can be likened to the tribute system of pre-colonial Zambia.\n\nTraditional ceremonies: In pre-colonial Zambia, traditional leaders used traditional ceremonies to unite people. Similarly in modern Zambia, successive governments have been using traditional ceremonies to foster national unity.\n\nOrganised military structure: Centralised societies had organised armies to maintain stability. Modern societies rely on defense forces and police for national security. Like the Chiefs and Kings in pre-colonial Zambia, the President of Zambia is the commander of the armed forces.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 20,
+                        "questions": [
+                            "In most of the Pre-colonial Centralised societies of Zambia, the Chief controlled the Army. Why is it an important aspect of every society including modern Zambia to have an army centrally controlled?",
+                            "Most Pre-colonial societies in Zambia were located in specific regions of the country. However, people have now changed and different ethnic groups are now settling in any part of the country. What factors have contributed to this change in settlement patterns?",
+                            "How can historical awareness contribute to fostering a sense of understanding, respect and unity among various ethnic and cultural groups within Zambia?"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

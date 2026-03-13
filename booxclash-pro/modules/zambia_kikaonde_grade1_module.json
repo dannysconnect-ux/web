@@ -1,0 +1,1112 @@
+{
+    "subject": "Kikaonde",
+    "grade": "Giledi 1",
+    "term": 1,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "KUTELEKA KU MASHIMIKILA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Mashimikila",
+                    "page": 1,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Kuteleka Ku Mashimikila",
+                    "page": 1,
+                    "competences": [
+                        "Kukumbula mepuzho panyuma ya kuteleka ku jishimikila."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 2,
+                            "hook": "1. Bantu banga bailenga pa lwendo?",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "b) Tangijila bafunda kukaya kisela Jishimila: Moba ne Kilobo baile pa lwendo Moba watangijileko Kilobo walondejile panyuma Mepuzho 1. Bantu banga bailenga pa lwendo? 2. Ňanyi watangijileko? 3. Ňanyi walondejile Ňanyi"
+                        }
+                    ],
+                    "short_notes": "b) Tangijila bafunda kukaya kisela Jishimila: Moba ne Kilobo baile pa lwendo Moba watangijileko Kilobo walondejile panyuma Mepuzho 1. Bantu banga bailenga pa lwendo? 2. Ňanyi watangijileko? 3. Ňanyi walondejile Ňanyi",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.3",
+                    "title": "Mwakukwachila Ne Kuzhikawila Buuku Mokyafwainwa",
+                    "page": 3,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.4",
+                    "title": "Ntendekelo ya Kunemba",
+                    "page": 11,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.5",
+                    "title": "Mashimikila -",
+                    "page": 0,
+                    "competences": [
+                        "Kubuulañana Mashimikila."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 15,
+                            "hook": "2. Ňanyi watemwa makonde ne myenge?",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "b) Tangijila bafunda bambe mashimikila aabo."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "c)Tangijila bafunda kukaya bisela byakwamba mashimikila abo."
+                        }
+                    ],
+                    "short_notes": "b) Tangijila bafunda bambe mashimikila aabo. c)Tangijila bafunda kukaya bisela byakwamba mashimikila abo.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.6",
+                    "title": "Ndabijilo ya bilulumo (kunungankanya ku kishina ne bilulumo)",
+                    "page": 16,
+                    "competences": [
+                        "Telaula ne kwingijisha bipimvwa- byambo.",
+                        "bipimvwa-byambo bya balaulwa ne kwibikaya mwaf-",
+                        "Kutelaula ne kwingijisha Bilulumo."
+                    ],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.7",
+                    "title": "Bilulumo",
+                    "page": 0,
+                    "competences": [
+                        "Kutelaula bilulumo.",
+                        "Kulamankanya mafumu- tulume ne mafumo ne kulenga",
+                        "Kulamankanya bipimvwa-byambo mu kulenga byambo"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 25,
+                            "hook": "2. loko kupopwela jinga?",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.8",
+                    "title": "Kutanga Kwa pa kanwatu",
+                    "page": 0,
+                    "competences": [
+                        "Kutanga bipimvwa-byambo najiwi jasansuka."
+                    ],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.9",
+                    "title": "Byambo",
+                    "page": 31,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "1.10",
+                    "title": "Kuyuka kyambo",
+                    "page": 31,
+                    "competences": [
+                        "Kuyuka byambo byapeela",
+                        "Kunemba mpezho yapeela.",
+                        "Nemba byambo mwaswishiwa na kunemba kwa na ma-"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 36,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "KWIPUZHA NE KULUMBULULA",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Misambo",
+                    "page": 38,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 39,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Biñambañamba: Bikope, bbanki wa mingilo peji 28"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "ku mukumbu wafwainwa nabiji bino; - Bipimo Bya Ñingijilo Byaketekelwa: bibena kutwala ku mukumbu wafwainwa."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 40,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "c) Mufunjishi"
+                        }
+                    ],
+                    "short_notes": "Biñambañamba: Bikope, bbanki wa mingilo peji 28 ku mukumbu wafwainwa nabiji bino; - Bipimo Bya Ñingijilo Byaketekelwa: bibena kutwala ku mukumbu wafwainwa.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Ndabijilo Ya Bilulumo",
+                    "page": 0,
+                    "competences": [
+                        "Kutelaula bipimvwa byambo ne ñingijisho yabyo.",
+                        "Kutelaula ne kuyuka Ñingijishilo ya bilulumo.",
+                        "Kutelaula bilulumo."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 41,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Biñambañamba"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Biñambañamba Bikaachi bya bilulumo, bipimvwa byambo ne byambo Ndonda ya Lufunjisho ku kipanyi kya bubiji bipanyi. Ø ba ----- la, no ---- na, bu ---- ki, bu ---- ku"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "c) Mufunjishi byambo byalenga bipimvwa byambo nobe bino; Kimwesho: /n/a/k/o/k/a/____ nakoka /b/ /uu/ /k/ /u/ ______ buuku /s/i/s/a/l/a/______sisala /m/ee/m/a/_____ meema"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "B Mulungu mukwabo Pa kilulumo /s/ ne /m/ Kimwesho Kilulumo /s/                  kilulumo /m/"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "a Biñambañamba Bikaachi bya bilulumo, bipimvwa-byambo ne byambo. b) Mufunjishi Tangijila bafunda kutelaula bilulumo biji kumpelo ya byambo byapanyiwa. Kimwesho: Kilullumo /n/ ne / b/"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 46,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 48,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "f) Mufunjishi Tangijila bafunda kukaya kisela kya bipasho-ñumvwino Kimwesho Bilulumo /n/ ne /b/"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 49,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Biñambañamba b) Mufunjishi ya byambo. Kilulumo /n/    kilulumo /b/   kilulumo /s/"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 50,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Biñambañamba: c) Mufunjishi: Tangijila bafunda kusobolola bilulumo bya bafunda pa bilulumo byapanyiwa Kimwesho: Tundaika bafunda kusobolola bilulumo byo bafunda pa bilulumo byapanyiwa Bilulumo i , p, k, l, a, o, m, s, h, b, n, w, z - Bafunda Bafunda basobolole bilulumo byo bafunda mu tubipanyi 1. K, w, a, h, e, I ----- k, a, e, l 2. P, o, h, s, n ---------- o"
+                        }
+                    ],
+                    "short_notes": "Biñambañamba Biñambañamba Bikaachi bya bilulumo, bipimvwa byambo ne byambo Ndonda ya Lufunjisho ku kipanyi kya bubiji bipanyi. Ø ba ----- la, no ---- na, bu ---- ki, bu ---- ku",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "Bipimvwa- Byambo",
+                    "page": 51,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 52,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Biñambañamba: Kikaachi kikatampe kya bipimvwa-byambo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Biñambañamba: Bikaachi bya bipimvwa-byambo ne byambo C) Mufunjishi: Ø Tangijila bafunda kusobolola bipimvwa-byambo byowanengezha. Kimwesho: Bipimvwa-byambo Ø na, no, ba, ne, ka, nu, la, bi, ke"
+                        }
+                    ],
+                    "short_notes": "Biñambañamba: Kikaachi kikatampe kya bipimvwa-byambo Biñambañamba: Bikaachi bya bipimvwa-byambo ne byambo C) Mufunjishi: Ø Tangijila bafunda kusobolola bipimvwa-byambo byowanengezha. Kimwesho: Bipimvwa-byambo Ø na, no, ba, ne, ka, nu, la, bi, ke",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.4",
+                    "title": "3",
+                    "page": 54,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 54,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 55,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Kutelaula Bipimvwa-byambo Mu Byambo Biñambañamba Bikaachi biji na bipimvwa-byambo c) Mufunjishi: Tangijila bafunda kutelaula bipimvwa-byambo byapanyiwa Kimwesho Ø na ________ bana Ø ba ______ kubala Ø bu ________ buka Ø be ________ bubela Ø sa ________ kusala BAFUNDA: Batelaule bipimvwa-byambo mu byambo. BIPIMO BYA ÑINGIJILO BYAKETEKELWA: Bipimvwa-byambo mu byambo byate- laulwa mwafwainwa. LWESEKO: Bafunda batelaule bipimvwa-byambo mu byambo. MINGILO YA LUFUNJISHO kubala bipimvwa-byambo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "f) MUFUNJISHI: Tangijila bafunda kutanga byambo bulongo na jiwi jasansuka. KIMWESHO: Buuku, ana, nuna, bubo, abe, biko, buula"
+                        }
+                    ],
+                    "short_notes": "Kutelaula Bipimvwa-byambo Mu Byambo Biñambañamba Bikaachi biji na bipimvwa-byambo c) Mufunjishi: Tangijila bafunda kutelaula bipimvwa-byambo byapanyiwa Kimwesho Ø na ________ bana Ø ba ______ kubala Ø bu ________ buka Ø be ________ bubela Ø sa ________ kusala BAFUNDA: Batelaule bipimvwa-byambo mu byambo. BIPIMO BYA ÑINGIJILO BYAKETEKELWA: Bipimvwa-byambo mu byambo byate- laulwa mwafwainwa. LWESEKO: Bafunda batelaule bipimvwa-byambo mu byambo. MINGILO YA LUFUNJISHO kubala bipimvwa-byambo f) MUFUNJISHI: Tangijila bafunda kutanga byambo bulongo na jiwi jasansuka. KIMWESHO: Buuku, ana, nuna, bubo, abe, biko, buula",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.5",
+                    "title": "Byambo",
+                    "page": 58,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "g). MUFUNJISHI Ø Tangijila bafunda kuyuka ne kulabijila byambo po byatendekela ne po byapeela mu kipelu. Ø Tundaika bafunda kuyuka kwabanya byambo mukipelu kwingijisha mipaka. KIMWESHO =   Balukabalaala. =   Lonaubenakunokola. =   Bubaleulelebaana. =   Asaulaalelelo. MIKUMBU YAKETEKELWA Ø Ba/luka/balaala. Ø Lona/ubena/kunokola. Ø Bubale/ulele/baana. Ø Asa/ulaale/leelo. BAFUNDA Bafunda babanye byambo mubipelu byapanyiwa kwingijisha mipaka."
+                        }
+                    ],
+                    "short_notes": "g). MUFUNJISHI Ø Tangijila bafunda kuyuka ne kulabijila byambo po byatendekela ne po byapeela mu kipelu. Ø Tundaika bafunda kuyuka kwabanya byambo mukipelu kwingijisha mipaka. KIMWESHO =  Balukabalaala. =  Lonaubenakunokola. =  Bubaleulelebaana. =  Asaulaalelelo. MIKUMBU YAKETEKELWA Ø Ba/luka/balaala. Ø Lona/ubena/kunokola. Ø Bubale/ulele/baana. Ø Asa/ulaale/leelo. BAFUNDA Bafunda babanye byambo mubipelu byapanyiwa kwingijisha mipaka.",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.6",
+                    "title": "Kuteleka Ne Kumvwisha",
+                    "page": 59,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.7",
+                    "title": "Mpezho Yapeele",
+                    "page": 59,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.8",
+                    "title": "Nembelo Ya Kuboko Kwaoloka",
+                    "page": 60,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "2.9",
+                    "title": "Nembelo Ya Bisopelo",
+                    "page": 60,
+                    "competences": [
+                        "Nembelo ya byambo na kuboko kwaoloka."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 61,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "BIÑAMBA-ÑAMBA: kikaachi kikatampe paji biwazhi."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "d) MUFUNJISHI Tangijila bafunda kulenga bisopelo nobe"
+                        }
+                    ],
+                    "short_notes": "BIÑAMBA-ÑAMBA: kikaachi kikatampe paji biwazhi. d) MUFUNJISHI Tangijila bafunda kulenga bisopelo nobe",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "KWISAMBA NA BAKULUMPE.",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Minsambo",
+                    "page": 64,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "Kwisamba",
+                    "page": 64,
+                    "competences": [
+                        "Kutelaula ne kwingijisha Bilulumo."
+                    ],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.3",
+                    "title": "Ndabijilo Ya Bilulumo",
+                    "page": 71,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "3.4",
+                    "title": "Byambo",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "KUTANGA MPEYO",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Byambo",
+                    "page": 79,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.2",
+                    "title": "Kuyuka Kyambo",
+                    "page": 79,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "4.3",
+                    "title": "Biwazhi",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "KWISAMBA NA BAKULUMPE.",
+            "sub_topics": [
+                {
+                    "subtopic_id": "5.1",
+                    "title": "Minsambo",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.2",
+                    "title": "Kwisamba",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 88,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.3",
+                    "title": "Ndabijilo Ya Bilulumo",
+                    "page": 93,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 94,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "b) Mufunjishi"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 94,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "b) Mufunjishi",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "5.4",
+                    "title": "Bipimvwa-Byambo",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 99,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 100,
+                            "hook": "1. patula (bapopwele jisatu) 2. waya (kupopwele jinga?)",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "6.0",
+            "topic_title": "KUTANGA MPEYO",
+            "sub_topics": [
+                {
+                    "subtopic_id": "6.1",
+                    "title": "KUTANGA KWA PA KANWATU",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "6.2",
+                    "title": "Kuyuka kyambo",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 107,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "7.0",
+            "topic_title": "KWISAMBA NA BAKWENU",
+            "sub_topics": [
+                {
+                    "subtopic_id": "7.1",
+                    "title": "Misambo",
+                    "page": 110,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 111,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "7.2",
+                    "title": "Ndabijilo ya Bilulumo",
+                    "page": 112,
+                    "competences": [],
+                    "instructional_blocks": [],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "7.3",
+                    "title": "Ndabijilo Ya Bilulumo",
+                    "page": 112,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 113,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 115,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "BIÑAMBAÑAMBA"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 121,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 123,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "BIÑAMBAÑAMBA",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "7.4",
+                    "title": "Bipimvwa- Byambo",
+                    "page": 0,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 125,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Biñambañamba: Kikaachi kikatampe kya bipimvwa-byambo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Biñambañamba: Bikaachi bya bipimvwa-byambo ne byambo"
+                        }
+                    ],
+                    "short_notes": "Biñambañamba: Kikaachi kikatampe kya bipimvwa-byambo Biñambañamba: Bikaachi bya bipimvwa-byambo ne byambo",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "7.5",
+                    "title": "Byambo",
+                    "page": 128,
+                    "competences": [
+                        "Kuyuka byambo byapeela."
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Biñambañamba: Bikaachi bya bipimvwa-byambo ne byambo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "3",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": "Biñambañamba Bikaachi biji na bipimvwa-byambo"
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "4",
+                            "page": 131,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "Biñambañamba: Bikaachi bya bipimvwa-byambo ne byambo Biñambañamba Bikaachi biji na bipimvwa-byambo",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                },
+                {
+                    "subtopic_id": "7.6",
+                    "title": "Kuteleka Ne Kumvwisha",
+                    "page": 136,
+                    "competences": [],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": "1. Ňanyi wakuya kukupeezha-?",
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2",
+                            "page": 0,
+                            "hook": null,
+                            "teacher_steps": [],
+                            "learner_steps": [],
+                            "short_notes": ""
+                        }
+                    ],
+                    "short_notes": "",
+                    "vocabulary": [],
+                    "assessment": {
+                        "page": 0,
+                        "questions": []
+                    }
+                }
+            ]
+        }
+    ]
+}

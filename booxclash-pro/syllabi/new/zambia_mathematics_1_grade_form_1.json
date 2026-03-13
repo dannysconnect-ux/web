@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 1",
+    "subject": "Mathematics I",
+    "philosophy": "This syllabus is committed to providing an enriching and supportive educational environment where learners can develop a lifelong interest for Mathematics. By promoting inquiry, curiosity, and a passion for Mathematics, we aim to prepare learners not only for academic success but also for their future roles as informed and responsible citizens in a scientifically advanced society. We are confident that this Mathematics syllabus will inspire and empower learners to achieve their full potential, equipping them with the knowledge and skills necessary to navigate and contribute to the world around them. This syllabus is designed to ensure learners develop a deep understanding of Mathematical concepts while also acquiring practical skills and competencies needed for further education and careers in Mathematics. The Form 1-4 Ordinary Mathematics I syllabus is designed to provide you with a comprehensive overview and understanding of fundamental Mathematical concepts based on their interconnectedness. The syllabus has been prepared and produced against the background of the need to set high standards for Mathematics education and actualize the country's vision from Early Childhood to tertiary education. Some topics have been revised to suit the 21\" Century learners to help them gain competencies that they can utilize in life beyond school. A wide range of concepts including Numbers, Algebra, Measures, Geometry, Relations & Functions, Trigonometry, Statistics & Probability among others have been included in this syllabus.",
+    "competence_learning": "Mathematical competence is the ability to develop and apply mathematical thinking in order to solve a range of problems in everyday situations. Mathematical competences involve the ability and willingness to use Mathematical modes of thought (logical and spatial thinking) and presentation (formulas, models, constructions, graphs, charts). The mathematics competence is developed step-by step over a period of instruction after learning a set of specific competencies. In mathematics, a specific competence refers to a particular skill, value, or knowledge and attitude that enables learners to perform a specific mathematical task, solve a particular type of problem, or demonstrate understanding of a distinct mathematical concept. This may be achieved after performing several learning activities for a specific instruction.",
+    "goals": [
+      "Basic Skill Development: Ordinary Mathematics provides learners with essential skills and knowledge in numeracy, problem-solving, critical thinking, and logical reasoning. These skills are crucial for success in various academic disciplines, careers, and everyday life",
+      "Foundation for Advanced Studies: Ordinary Mathematics serves as a foundation for more advanced Mathematical studies in disciplines such as calculus, algebra, geometry, statistics, and trigonometry. A solid understanding of basic Mathematical concepts is necessary for pursuing higher-level Mathematics courses.",
+      "Practical Applications: Mathematics is applied in various fields such as science, engineering, technology, finance, and economics. Understanding Ordinary Mathematics enables learners to apply mathematical principles in practical scenarios and make informed decisions based on data and analysis.",
+      "Problem-Solving Skills: Mathematics teaches learners how to analyze problems, break them down into manageable parts, and develop systematic approaches to find solutions. Problem-solving skills cultivated through Ordinary Mathematics are transferable to diverse situations.",
+      "Critical Thinking and Analytical Skills: Studying mathematics helps learners develop critical thinking skills, analytical reasoning, and the ability to evaluate information logically. These skills are valuable for addressing complex challenges and making sound decisions."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "1.1",
+      "topic_title": "NUMBERS",
+      "page_number": 16,
+      "subtopics": [
+        "1.1.1 Classification of Numbers",
+        "1.1.2 Combined Operations on Real Numbers"
+      ],
+      "specific_outcomes": [
+        "1.1.1.1 Aply classification of numbers in real life context",
+        "1.1.2.1 Aply combined Operations on real numbers in real life situations"
+      ]
+    },
+    {
+      "unit": "1.2",
+      "topic_title": "INTEGERS",
+      "page_number": 16,
+      "subtopics": [
+        "1.2.1 The Four Operations on Integers"
+      ],
+      "specific_outcomes": [
+        "1.2.1.1 Use Integers in real life"
+      ]
+    },
+    {
+      "unit": "1.3",
+      "topic_title": "APPROXIMATIONS AND ESTIMATION",
+      "page_number": 17,
+      "subtopics": [
+        "1.3.1 Approximation",
+        "1.3.2 Estimations"
+      ],
+      "specific_outcomes": [
+        "1.3.1.1 Use approximation to make informed decisions in real life",
+        "1.3.2.1 Use Estimation to make informed decisions in real life"
+      ]
+    },
+    {
+      "unit": "1.4",
+      "topic_title": "SETS",
+      "page_number": 18,
+      "subtopics": [
+        "1.4.1 Operations on Sets"
+      ],
+      "specific_outcomes": [
+        "1.4.1.1 Apply set operations in real life context"
+      ]
+    },
+    {
+      "unit": "1.5",
+      "topic_title": "ALGEBRA",
+      "page_number": 19,
+      "subtopics": [
+        "1.5.1 Algebraic Expressions"
+      ],
+      "specific_outcomes": [
+        "1.5.1.1 Apply algebraic expressions in real life"
+      ]
+    },
+    {
+      "unit": "1.6",
+      "topic_title": "MATRICES",
+      "page_number": 19,
+      "subtopics": [
+        "1.6.1 Operations on Matrices"
+      ],
+      "specific_outcomes": [
+        "1.6.1.1 Apply Matrices to real life situations"
+      ]
+    },
+    {
+      "unit": "1.7",
+      "topic_title": "ANGLES",
+      "page_number": 20,
+      "subtopics": [
+        "1.7.1 Angles associated with straight lines",
+        "1.7.2 Angle of Elevation and Depression"
+      ],
+      "specific_outcomes": [
+        "1.7.1.1 Use angles associated with straight lines in everyday life",
+        "1.7.2.1 Use Angle of Elevation and Depression everyday life"
+      ]
+    },
+    {
+      "unit": "1.8",
+      "topic_title": "TRIGONOMETRY",
+      "page_number": 20,
+      "subtopics": [
+        "1.8.1 Pythagoras Theorem"
+      ],
+      "specific_outcomes": [
+        "1.8.1.1 Use the Pythagoras theorem to solve problems in different contexts"
+      ]
+    },
+    {
+      "unit": "1.9",
+      "topic_title": "STATISTICS",
+      "page_number": 21,
+      "subtopics": [
+        "1.9.1 Statistical Presentations and Measures of central tendency"
+      ],
+      "specific_outcomes": [
+        "1.9.1.1 Apply statistics in making informed decisions in real life"
+      ]
+    }
+  ]
+}

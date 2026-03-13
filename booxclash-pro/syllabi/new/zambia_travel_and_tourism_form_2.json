@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "FORM 2",
+    "subject": "Travel and Tourism",
+    "philosophy": "The Travel and Tourism Syllabus has been developed by the need to provide a national curriculum for Zambia that is aligned with the Competence-Based Curriculum and 21st Century Skills. It aims to impart the knowledge, skills, values and positive attitudes that are aimed at enabling children to live and grow into productive and useful members of their communities and the Zambian society.",
+    "competence_learning": "The O Level Travel and Tourism syllabus, which is Competence-Based, encourages learners to appreciate the scale and scope of the Travel and Tourism industry in Zambia and the SADC region, thus recognizing the positive and negative impacts the industry may have on host communities and economies. Learners will discover that the Travel and Tourism industry is dynamic and how the industry responds to changing consumer needs and expectations.",
+    "goals": [
+      "Enable learners locate tourism regions and analyse tourism destination and attractions in Zambia.",
+      "Enable learners plan tourism destination packages and assess carrying capacity.",
+      "Enable learners demonstrate skills used by intermediaries in the Tourism Industry.",
+      "Enable learners plan events and tours according to seasons.",
+      "Enable learners manage the impacts of tourism."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "2.1",
+      "topic_title": "Tourism Destination Zambia",
+      "page_number": 21,
+      "subtopics": [
+        "2.1.1. Tourism destination and attractions in Zambia"
+      ],
+      "specific_outcomes": [
+        "2.1.1.1. Locate tourism regions",
+        "2.1.1.2. Analyse attraction centres"
+      ]
+    },
+    {
+      "unit": "2.2",
+      "topic_title": "Tourism Destination Planning",
+      "page_number": 22,
+      "subtopics": [
+        "2.2.1. Destination planning",
+        "2.2.2. Carrying capacity"
+      ],
+      "specific_outcomes": [
+        "2.2.1.1. Plan tourism destination packages",
+        "2.2.2.1. Assess the carrying capacity of tourism destinations"
+      ]
+    },
+    {
+      "unit": "2.3",
+      "topic_title": "Intermediaries in Tourism",
+      "page_number": 25,
+      "subtopics": [
+        "2.3.1. Intermediaries in the Tourism industry - Travel Agents and Tour Operators"
+      ],
+      "specific_outcomes": [
+        "2.3.1.1. Demonstrate skills used by intermediaries in Tourism industry"
+      ]
+    },
+    {
+      "unit": "2.4",
+      "topic_title": "Seasonality in Tourism",
+      "page_number": 26,
+      "subtopics": [
+        "2.4.1. Seasonality in Tourism"
+      ],
+      "specific_outcomes": [
+        "2.4.1.1. Plan events and tours according to seasons"
+      ]
+    },
+    {
+      "unit": "2.5",
+      "topic_title": "Impacts of Tourism",
+      "page_number": 27,
+      "subtopics": [
+        "2.5.1. Impacts of Tourism"
+      ],
+      "specific_outcomes": [
+        "2.5.1.1. Manage the impacts of tourism"
+      ]
+    }
+  ]
+}

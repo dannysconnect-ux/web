@@ -1,0 +1,783 @@
+{
+  "subject": "Travel and Tourism",
+  "grade": "Form 1",
+  "term": 1,
+  "topics": [
+    {
+      "topic_id": "1.1",
+      "topic_title": "Introduction to Travel and Tourism Industry",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.1.1",
+          "title": "Travel and Tourism in Zambia",
+          "page": 12,
+          "competences": [
+            "Interpret the history of Tourism in Zambia",
+            "Explore forms of Tourism",
+            "Analyse career development in the Tourism industry"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 13,
+              "hook": "Begin by asking some guiding questions: Have you ever travelled to another town or country? What comes to your mind when you hear the words 'travel' and 'tourism'? Who do you think a tourist is?",
+              "teacher_steps": [
+                "Display pictures or videos showing different types of tourists and tourism activities in Zambia",
+                "Assign learners different travel-related scenarios",
+                "Facilitate role play activities",
+                "Lead discussion on domestic and international tourists in Zambia"
+              ],
+              "learner_steps": [
+                "Pair Work: Classify if person is a tourist, excursionist, host, or guest",
+                "Role Play: Act as tourists and hosts (hotel receptionist, safari guide, local vendor)",
+                "Discuss and share examples of domestic and international tourist in Zambia"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 16,
+              "hook": "What comes to mind when you think of tourism? Have you ever visited any tourist attraction in Zambia? Where?",
+              "teacher_steps": [
+                "Show images of Zambia's top tourist attractions (Victoria Falls, South Luangwa, Lower Zambezi)",
+                "Explain tourism evolution from early explorers to modern tourism industry",
+                "Divide class into groups for research and presentation",
+                "Facilitate role play and quiz game"
+              ],
+              "learner_steps": [
+                "Group Work: Research and present on early history, national parks, attractions, packages, or modern tourism",
+                "Role Play: Act as tourists or tour guides explaining Zambia's attractions",
+                "Participate in quiz on Zambia's tourism history and attractions"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3",
+              "page": 18,
+              "hook": "Research a specific historical site in Zambia",
+              "teacher_steps": [
+                "Suggest key historical sites (Victoria Falls, Livingstone Museum, Shiwa Ng'andu Estate, Mwela Rock Paintings, etc.)",
+                "Guide research process using books, articles, internet",
+                "Facilitate interviews with teachers, parents, or community elders",
+                "Review presentations and provide feedback"
+              ],
+              "learner_steps": [
+                "Research assigned historical site",
+                "Gather information on location, historical background, significance, key events/figures, current status",
+                "Create presentation (written report, poster, oral presentation, or creative project)",
+                "Present findings to class"
+              ]
+            }
+          ],
+          "short_notes": "Tourism in Zambia started with wildlife conservation. The establishment of national parks and game reserves (South Luangwa, Kafue, Lower Zambezi) marked early development. Post-independence saw growth of local tourism. Modern tourism includes development of lodges, hotels, adventure tourism, and eco-tourism. Traditional ceremonies (Kuomboka, Nc'wala) play important roles in attracting tourists.\n\nHistorical Evolution: Tourism in early times included hunters and explorers like David Livingstone. The Colonial era saw game reserves and national parks established. Post-independence brought growth of local tourism. Modern tourism features lodges, hotels, adventure tourism, and eco-tourism.\n\nZambia's Tourist Attractions include: Natural attractions (national parks, waterfalls, lakes, rivers like Victoria Falls, Chishimba falls), Cultural attractions (traditional ceremonies, historical sites like Mukuni Village, Choma Museum), and Man-made attractions (hotels, lodges, safari camps).\n\nTourist Packages: Adventure tourism (bungee jumping, safaris, white-water rafting), Cultural tourism (visiting traditional ceremonies, museums), Eco-tourism (national parks, birdwatching, nature walks), and Luxury tourism (five-star lodges, cruises on the Zambezi River).\n\nModern Tourism Trends in Zambia: Increased use of social media and online bookings, Sustainable tourism (wildlife conservation, eco-lodges), Domestic tourism promotion by government, and Event-based tourism (festivals, sports events, Mosi Day of Thunder).",
+          "vocabulary": [
+            {
+              "term": "Tourism",
+              "definition": "Activities of people traveling to and staying in places outside their usual environment for leisure, business, or other purposes"
+            },
+            {
+              "term": "Industry",
+              "definition": "Businesses and organizations involved in providing goods and services to tourists"
+            },
+            {
+              "term": "History",
+              "definition": "The past of tourism in Zambia, from its early beginnings to its current state"
+            },
+            {
+              "term": "Evolution",
+              "definition": "Changes and transformations that have occurred within the tourism industry in Zambia over time"
+            },
+            {
+              "term": "Attractions",
+              "definition": "Places and activities that draw tourists to a destination"
+            },
+            {
+              "term": "Packages",
+              "definition": "Pre-arranged travel arrangements combining various travel components at a discounted price"
+            },
+            {
+              "term": "Modern",
+              "definition": "Contemporary trends, technologies, and practices within the tourism industry"
+            },
+            {
+              "term": "Career",
+              "definition": "Job opportunities and professional development paths available within the tourism industry"
+            },
+            {
+              "term": "Itinerary",
+              "definition": "A detailed plan or schedule of activities, events, travel arrangement"
+            },
+            {
+              "term": "Travel",
+              "definition": "Moving from one place to another"
+            },
+            {
+              "term": "Tourist",
+              "definition": "A person who travels away from home for at least 24 hours for leisure, business, or other reasons"
+            },
+            {
+              "term": "Excursionist",
+              "definition": "A person who visits a place for less than 24 hours"
+            },
+            {
+              "term": "Domestic Tourist",
+              "definition": "A person travelling within their own country"
+            },
+            {
+              "term": "International Tourist",
+              "definition": "A person from another country visiting a destination"
+            },
+            {
+              "term": "Hosts",
+              "definition": "People who provide services to tourists"
+            },
+            {
+              "term": "Guests",
+              "definition": "Traveller who engages into sleeping accommodation and uses other services of the host"
+            }
+          ],
+          "assessment": {
+            "page": 23,
+            "questions": [
+              {
+                "type": "practical",
+                "description": "Tour Guide Role-Play: Learners act as tour guides, explaining a selected Zambian tourist attraction to a group. Deliver a 5-10 minutes guided tour with storytelling and factual details."
+              },
+              {
+                "type": "written",
+                "description": "Write a 2-3 page research report on a selected historical site in Zambia: Describe the site's historical background, explain its role in tourism development, discuss its importance to Zambia's economy and cultural heritage, identify challenges and suggest improvements for tourism."
+              },
+              {
+                "type": "field_trip",
+                "description": "Visit a local tourist attraction or historical site. Write a report on its tourism significance and visitor experience."
+              }
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.1.1.2",
+          "title": "Explore forms of tourism",
+          "page": 24,
+          "competences": [
+            "Explore forms of Tourism"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 24,
+              "hook": "Have you or someone you know ever traveled to another place for fun, work, or learning? What was the purpose of the trip? Do you think all tourists travel for the same reasons?",
+              "teacher_steps": [
+                "Take note of learners' responses and categorize them under different types of tourism",
+                "Introduce the concept of Tourism",
+                "Divide learners into small groups and assign topics",
+                "Summarize and clarify key points with real-life examples from Zambia and beyond"
+              ],
+              "learner_steps": [
+                "Participate in brainstorming session",
+                "Research assigned topic in groups",
+                "Prepare short explanations with examples",
+                "Present findings to class"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 28,
+              "hook": "Why do people travel for tourism? How does tourism benefit a country?",
+              "teacher_steps": [
+                "Let learners discuss in pairs and share their ideas",
+                "Take note key points (jobs, income, culture, environment)",
+                "Divide class into groups for research",
+                "Summarize and clarify key points after each presentation"
+              ],
+              "learner_steps": [
+                "Discuss in pairs about tourism benefits",
+                "Research assigned topic (Economic, Cultural Exchange, or Environmental Impact)",
+                "Present findings to class"
+              ]
+            }
+          ],
+          "short_notes": "Tourism refers to the movement of people from one place to another for leisure, business, or other purposes, usually for a short period.\n\nTypes of Tourism:\n- Domestic Tourism: When people travel within their own country (e.g., family from Lusaka visiting Victoria Falls)\n- International Tourism: When people travel to a different country (e.g., tourist from South Africa visiting Zambia)\n- Inbound Tourism: When tourists from other countries visit a particular country (e.g., German tourist visiting Zambia)\n- Outbound Tourism: When people from a country travel to another country (e.g., Zambian traveling to Dubai)\n\nForms of Tourism:\n- Leisure/Holiday Tourism: Travel for relaxation and enjoyment (beach, safari trips, adventure tourism)\n- Business Tourism: Travel for work-related purposes (trade, meetings, incentive travel, conventions)\n- Cultural Tourism: Travel to experience different cultures, traditions, and historical sites (museums, landmarks, ceremonies)\n- Ecotourism: Travel focusing on natural environments and conservation efforts (game parks, nature reserves, birdwatching)\n\nImportance of Tourism:\nEconomic: Creates employment, generates income through foreign exchange, supports local businesses, encourages infrastructure development\nSocial and Cultural: Promotes cultural exchange, helps preserve cultural heritage, enhances national pride\nEnvironmental: Supports conservation efforts, encourages sustainable tourism practices, raises awareness about environmental protection\nPolitical and Educational: Strengthens international relations, provides learning opportunities about history, geography, and different cultures",
+          "vocabulary": [
+            {
+              "term": "Leisure tourism",
+              "definition": "Travel for relaxation and enjoyment"
+            },
+            {
+              "term": "Business tourism",
+              "definition": "Travel for work-related purposes such as trade, meetings, or conferences"
+            },
+            {
+              "term": "Cultural tourism",
+              "definition": "Travel to experience different cultures, traditions, and historical sites"
+            },
+            {
+              "term": "Ecotourism",
+              "definition": "Travel that focuses on natural environments and conservation efforts"
+            }
+          ],
+          "assessment": {
+            "page": 28,
+            "questions": []
+          }
+        },
+        {
+          "subtopic_id": "1.1.1.3",
+          "title": "Analyse Career Development in the Tourism Industry",
+          "page": 30,
+          "competences": [
+            "Analyse Career Development in the Tourism industry"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 30,
+              "hook": "What do you think are some jobs in the tourism industry?",
+              "teacher_steps": [
+                "Take note of learner responses",
+                "Briefly introduce the tourism industry as a major employer",
+                "Divide class into small groups and assign sectors",
+                "Summarize and clarify any misconceptions"
+              ],
+              "learner_steps": [
+                "Brainstorm about tourism jobs",
+                "Group Work: Research/discuss jobs in assigned sector",
+                "Identify careers, roles, responsibilities, and required skills",
+                "Present findings to class"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Field Tour",
+              "page": 31,
+              "hook": "Visit tourism industry locations for real-world observation",
+              "teacher_steps": [
+                "Arrange field visits to hotels, airports, tourist attractions, or restaurants",
+                "Facilitate learner interaction with professionals",
+                "Organize Q&A sessions with industry workers",
+                "Guide post-tour reflection and discussion"
+              ],
+              "learner_steps": [
+                "Observe professionals performing duties on-site",
+                "Take notes on job activities",
+                "Ask workers about jobs, required skills, and challenges",
+                "Write report or create presentation on field experience"
+              ]
+            }
+          ],
+          "short_notes": "Job/Business Opportunities in Tourism:\n\nTour and Travel Services: Tour Guide, Travel Consultant, Travel Agent, Meeting/Event Planner, Tour Operator, Heritage Site Manager, Tourism Entrepreneur, Eco-Tourism Guide\n\nTravel and Transportation: Airline Pilot, Flight Attendant, Cruise Ship Crew, Cabin Crew Supervisor, Ticketing and Reservation Officer, Chauffeur/Limousine Driver, Car Rental Agent, Railway Services Manager, Logistics Manager\n\nLodging (Hotels, Resorts, Lodges): Receptionist, Concierge, Housekeeper, Hotel Manager, Front Desk Supervisor, Bellhop/Porter, Resort Animator/Entertainment Coordinator, Room Service Attendant, Laundry Services Manager\n\nFood and Beverage Services: Waiter/Waitress, Chef, Bartender, Restaurant Manager, Catering Manager, Pastry Chef/Baker, Sommelier (Wine Steward), Barista, Food Vendor, Food Safety Inspector",
+          "vocabulary": [
+            {
+              "term": "Tour Guide",
+              "definition": "Leads tourists and provides information about attractions"
+            },
+            {
+              "term": "Travel Agent",
+              "definition": "Books flights, accommodations, and packages for travelers"
+            },
+            {
+              "term": "Tour Operator",
+              "definition": "Designs and sells tour packages"
+            },
+            {
+              "term": "Concierge",
+              "definition": "Assists guests with local activities, reservations, and recommendations"
+            },
+            {
+              "term": "Sommelier",
+              "definition": "Wine steward who advises on and serves wine"
+            }
+          ],
+          "assessment": {
+            "page": 34,
+            "questions": [
+              {
+                "type": "project",
+                "description": "Research and create a timeline of the major events in the history of tourism in Zambia, from pre-colonial times to the present day"
+              },
+              {
+                "type": "project",
+                "description": "Imagine you are a tourism developer in Zambia in the 1960s. Create a plan for developing tourism in the country, including infrastructure and attractions"
+              },
+              {
+                "type": "practical",
+                "description": "Showcase and demonstrate a tourist guide, providing information on historical sites and attractions in Zambia"
+              },
+              {
+                "type": "written",
+                "description": "Write an essay on evolution of Tourism in Zambia"
+              },
+              {
+                "type": "written",
+                "description": "Case study on the development of Victoria falls as a tourist attraction"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "1.2",
+      "topic_title": "Travel and Tourism Elements",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.2.1",
+          "title": "Demonstrate understanding of travel and tourism elements",
+          "page": 35,
+          "competences": [
+            "Demonstrate understanding of travel and tourism elements"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 35,
+              "hook": "What do you think are the most important things needed for tourism to happen?",
+              "teacher_steps": [
+                "Take note of learner responses",
+                "Mention the five core elements",
+                "Divide learners into small groups",
+                "Assign each group one element to discuss",
+                "Summarize and clear misconceptions"
+              ],
+              "learner_steps": [
+                "Discuss assigned element in groups",
+                "Provide real-life examples from Zambia and beyond",
+                "Present findings to class"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2",
+              "page": 40,
+              "hook": "What do you think makes a place attractive for tourists?",
+              "teacher_steps": [
+                "Guide learners towards identifying aspects related to accessibility, attractions, accommodation, amenities, and activities",
+                "Introduce the Five 'A's of tourism",
+                "Divide class into small groups",
+                "Clear misconceptions and consolidate findings"
+              ],
+              "learner_steps": [
+                "Brainstorm about what makes places attractive",
+                "Research or brainstorm examples of assigned 'A' using local sites",
+                "Present findings to class"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3 - Tourism Map Challenge",
+              "page": 44,
+              "hook": "Identify and label tourism components on a map",
+              "teacher_steps": [
+                "Provide blank map of Zambia",
+                "Guide learners to identify examples of each 'A'"
+              ],
+              "learner_steps": [
+                "Label at least one example of each 'A' on the map",
+                "Identify Attraction, Accessibility, Accommodation, Amenities, and Activities"
+              ]
+            }
+          ],
+          "short_notes": "Travel and tourism consist of key elements that work together to create a complete tourism experience:\n\nTransportation: Enables movement of tourists via air, road, rail, and water. Includes Air Transport (Airlines, chartered flights), Land Transport (Buses, trains, taxis, rental cars, bikes, bicycles), Water Transport (Cruises, ferries, boats), Specialty Transport (Cable cars, bicycles, animal-drawn transport). Importance: Provides accessibility, determines ease and comfort, influences cost of travel.\n\nAccommodation: Place where tourists stay during their trip. Types include Hotels (budget to luxury), Motels (roadside lodgings), Resorts (leisure-focused with entertainment), Lodges and Guesthouses (smaller, family-run), Hostels and Camping Sites (budget-friendly). Role: Provides comfort and security, contributes to tourism experience, generates employment and revenue.\n\nAttractions: Places or events that draw visitors. Types include Natural Attractions (national parks, waterfalls, beaches), Cultural Attractions (museums, historical sites, festivals), Built Attractions (theme parks, skyscrapers, monuments), Events and Festivals (music concerts, sporting events, religious gatherings). Importance: Boosts tourism, preserves culture and history, generates income.\n\nTour Operators and Travel Agencies: Intermediaries assisting in planning and booking. Roles include designing travel itineraries, offering guided tours, providing transportation and accommodation arrangements, booking flights and hotels, providing travel advice and visa assistance, selling travel insurance.\n\nTourism Services and Hospitality: Support services enhancing traveler's experience. Examples include Hospitality Services (restaurants, catering, customer care), Banking and Currency Exchange, Safety and Security Services, Entertainment and Leisure. Importance: Ensures customer satisfaction, provides necessary support, enhances tourism experience.\n\nCompetitive Components of Tourism (The Five 'A's):\n1. Attractions: Main reasons tourists visit (natural, cultural, man-made)\n2. Accessibility: How easy it is to reach destination (transport modes, travel documents)\n3. Accommodation: Lodging options (hotels, lodges, budget accommodations)\n4. Amenities: Essential services and facilities (food & drink, healthcare, banking, security, shopping, communication)\n5. Activities: Things tourists can do (wildlife safaris, water activities, cultural experiences, adventure sports)",
+          "vocabulary": [
+            {
+              "term": "Destination",
+              "definition": "Locations that tourists visit for leisure, business, or cultural experiences"
+            },
+            {
+              "term": "Attractions",
+              "definition": "Places or activities that draw tourists to visit a destination"
+            },
+            {
+              "term": "Hospitality",
+              "definition": "The friendly and welcoming treatment of guests or tourists"
+            },
+            {
+              "term": "Accommodation",
+              "definition": "Lodging or places where tourists stay during their trip"
+            },
+            {
+              "term": "Transportation",
+              "definition": "The means of moving people from one place to another"
+            },
+            {
+              "term": "Leisure",
+              "definition": "Free time when people relax and enjoy activities of their choice"
+            },
+            {
+              "term": "Recreation",
+              "definition": "Activities that people do for enjoyment and relaxation"
+            },
+            {
+              "term": "Tour Operators",
+              "definition": "Companies or individuals who organize and sell travel packages"
+            },
+            {
+              "term": "Amenities",
+              "definition": "Essential services and facilities available to tourists"
+            },
+            {
+              "term": "Accessibility",
+              "definition": "How easy it is for tourists to reach a destination"
+            }
+          ],
+          "assessment": {
+            "page": 44,
+            "questions": [
+              {
+                "type": "practical",
+                "description": "Design and create a poster/brochure on a destination of choice with information about attraction, accommodation, amenities, accessibility and activities"
+              },
+              {
+                "type": "written",
+                "description": "Essay questions interpreting the history of Travel and Tourism"
+              },
+              {
+                "type": "written",
+                "description": "Written exercise on core elements of Travel and Tourism"
+              },
+              {
+                "type": "quiz",
+                "description": "Quiz on the forms of Tourism"
+              },
+              {
+                "type": "written",
+                "description": "Short answers on 5A's of Tourism"
+              }
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.2.2",
+          "title": "Describing skills needed in the tourism industry",
+          "page": 45,
+          "competences": [
+            "Describe skills needed in the tourism industry"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Think-Pair-Share",
+              "page": 45,
+              "hook": "Imagine you are working in a hotel or tour company. What skills do you think you would need to be successful?",
+              "teacher_steps": [
+                "Have learners discuss in pairs and share answers",
+                "Take note of responses",
+                "Introduce Interpersonal Skills and Intrapersonal Skills",
+                "Use real-life tourism scenarios to explain each skill",
+                "Facilitate role-playing activity",
+                "Present problem-solving scenario"
+              ],
+              "learner_steps": [
+                "Discuss skills needed in pairs",
+                "Share answers with class",
+                "Participate in role-playing as tourist and tour guide",
+                "Practice good and poor communication",
+                "Discuss solutions to problem-solving scenario in small groups"
+              ]
+            }
+          ],
+          "short_notes": "Skills needed in tourism industry fall into two categories:\n\nInterpersonal Skills (Working with others effectively):\n- Communication: Clear speaking, listening, and writing (e.g., helping tourists with directions)\n- Teamwork: Collaborating with colleagues in hotels, airlines, or tour companies\n- Cultural Sensitivity: Understanding different customs and traditions to serve tourists better\n- Customer Service: Being friendly and helpful to ensure customer satisfaction\n\nIntrapersonal Skills (Managing oneself effectively):\n- Self-Awareness: Understanding personal strengths and weaknesses in tourism roles\n- Adaptability: Being flexible when plans change (e.g., flight delays or weather disruptions)\n- Self-Management: Being responsible and professional at work",
+          "vocabulary": [
+            {
+              "term": "Interpersonal skills",
+              "definition": "Skills for working with others effectively"
+            },
+            {
+              "term": "Intrapersonal skills",
+              "definition": "Skills for managing oneself effectively"
+            },
+            {
+              "term": "Communication",
+              "definition": "Clear speaking, listening, and writing"
+            },
+            {
+              "term": "Teamwork",
+              "definition": "Collaborating with colleagues"
+            },
+            {
+              "term": "Cultural Sensitivity",
+              "definition": "Understanding different customs and traditions"
+            },
+            {
+              "term": "Self-Awareness",
+              "definition": "Understanding personal strengths and weaknesses"
+            },
+            {
+              "term": "Adaptability",
+              "definition": "Being flexible when plans change"
+            }
+          ],
+          "assessment": {
+            "page": 46,
+            "questions": [
+              {
+                "type": "exit_ticket",
+                "description": "Write down one interpersonal and one intrapersonal skill you need to improve and why"
+              }
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.2.3",
+          "title": "Practicing planning a tourism itinerary",
+          "page": 46,
+          "competences": [
+            "Practice planning a tourism itinerary based on specific types of tourism"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Itinerary Development",
+              "page": 47,
+              "hook": "If you had visitors coming to your town, what interesting places would you take them to?",
+              "teacher_steps": [
+                "Take note of responses",
+                "Introduce different types of tourism",
+                "Discuss importance of planning",
+                "Form groups of 3-5 learners",
+                "Assign each group a type of tourism",
+                "Provide feedback on itineraries",
+                "Discuss challenges faced in planning"
+              ],
+              "learner_steps": [
+                "Share ideas about local interesting places",
+                "Create 3-day itinerary in groups",
+                "Include transport, accommodation, meals, and activities",
+                "Cover Day 1 (arrival, welcome, accommodation), Day 2 (main activities), Day 3 (final activities, departure)",
+                "Present itinerary to class",
+                "Exchange itineraries for peer review"
+              ]
+            }
+          ],
+          "short_notes": "Importance of Planning for a Smooth Tourist Experience:\n\n1. Ensures Proper Budgeting: Helps determine needed money, prevents overspending, allows for discounts\n\n2. Saves Time: Effective scheduling, reduces wasted time looking for services\n\n3. Ensures Availability of Services: Guarantees accommodation and attraction bookings, avoids disappointment\n\n4. Enhances Safety and Security: Research safe destinations, prepare vaccinations and insurance, have emergency contacts\n\n5. Allows for Better Experience: Plan activities matching interests, select best restaurants and locations\n\n6. Helps Understanding Local Culture and Laws: Research traditions and customs, prevents misunderstandings\n\n7. Ensures Balanced Itinerary: Avoids overloading schedule, creates mix of relaxation and adventure",
+          "vocabulary": [
+            {
+              "term": "Itinerary",
+              "definition": "A detailed plan or schedule of activities, events, and travel arrangements"
+            },
+            {
+              "term": "Cultural Tourism",
+              "definition": "Visiting historical and cultural sites"
+            },
+            {
+              "term": "Eco-Tourism",
+              "definition": "Nature-based travel"
+            },
+            {
+              "term": "Adventure Tourism",
+              "definition": "Exciting activities like bungee jumping and rafting"
+            },
+            {
+              "term": "Religious Tourism",
+              "definition": "Traveling to religious sites for spiritual reasons"
+            },
+            {
+              "term": "Medical Tourism",
+              "definition": "Travelling for medical treatment or wellness therapies"
+            }
+          ],
+          "assessment": {
+            "page": 50,
+            "questions": [
+              {
+                "type": "peer_review",
+                "description": "Groups exchange itineraries and provide feedback on clarity, organization, and creativity"
+              },
+              {
+                "type": "self_reflection",
+                "description": "What was the most challenging part of planning the itinerary? How does this itinerary meet the needs of tourists? What improvements would you make next time?"
+              },
+              {
+                "type": "teacher_observation",
+                "description": "Were all group members engaged? Did students effectively incorporate tourism concepts? Was the itinerary practical and realistic?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "topic_id": "1.2",
+      "topic_title": "Tourist",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.2.1",
+          "title": "Tourists' codes of behaviour",
+          "page": 52,
+          "competences": [
+            "Practice Responsible Travel Behaviour"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "Activity 1",
+              "page": 53,
+              "hook": "What comes to mind when you think of tourism? Have you ever visited any tourist attraction in Zambia? Where?",
+              "teacher_steps": [
+                "Discuss behaviors expected in different cultural and tourist settings",
+                "Create a list of do's and don'ts for responsible tourism",
+                "Facilitate group discussion on respecting local cultures",
+                "Share examples of cultural misunderstandings",
+                "Conduct risk awareness exercise",
+                "Examine case studies of irresponsible tourist behavior",
+                "Facilitate special needs consideration discussion"
+              ],
+              "learner_steps": [
+                "Brainstorm expected behaviors in different settings",
+                "Create do's and don'ts list",
+                "Discuss importance of respecting local cultures",
+                "Share examples of cultural misunderstandings",
+                "Identify common travel risks",
+                "Suggest ways to minimize risks",
+                "Examine real-life scenarios",
+                "Research travel challenges for special needs tourists"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 2 - Cultural Immersion",
+              "page": 54,
+              "hook": "Visit a local cultural site to observe customs and traditions",
+              "teacher_steps": [
+                "Organize field trip to cultural site, museum, or traditional village",
+                "Guide observation and documentation",
+                "Facilitate presentation of learnings",
+                "Organize cultural dress and etiquette simulation",
+                "Arrange cultural food tasting workshop"
+              ],
+              "learner_steps": [
+                "Visit cultural site and observe customs",
+                "Document cultural norms and traditions",
+                "Present what was learned",
+                "Dress in traditional clothing",
+                "Demonstrate cultural greetings and gestures",
+                "Sample foods from different cultures",
+                "Learn proper table manners and dining customs"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 3 - Travel Risks",
+              "page": 57,
+              "hook": "Identify and solve travel risk scenarios",
+              "teacher_steps": [
+                "Provide scenarios of travelers facing risks",
+                "Divide learners into groups",
+                "Assign roles for role-playing",
+                "Guide scenario analysis",
+                "Discuss best practices"
+              ],
+              "learner_steps": [
+                "Analyze travel risk scenarios",
+                "Identify risks and suggest preventive measures",
+                "Present findings to class",
+                "Role-play dealing with travel risks",
+                "Act out scenarios (tourist robbed, ill, emergency)",
+                "Discuss how to handle situations"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 4 - Special Needs",
+              "page": 61,
+              "hook": "Design travel solutions for special needs tourists",
+              "teacher_steps": [
+                "Facilitate group discussions on challenges",
+                "Provide case scenarios",
+                "Guide design of inclusive travel brochure",
+                "Arrange guest speaker or virtual interview"
+              ],
+              "learner_steps": [
+                "Discuss potential challenges in small groups",
+                "Present solutions for different scenarios",
+                "Design inclusive travel brochure",
+                "Include special services, recommendations, and healthcare facilities",
+                "Prepare questions for industry professionals",
+                "Engage in Q&A session"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "Activity 5 - Tourist Code Research",
+              "page": 64,
+              "hook": "Explore ethical codes of behavior for tourists",
+              "teacher_steps": [
+                "Facilitate role-playing scenarios",
+                "Assign research project on tourism destination",
+                "Guide case study examination",
+                "Facilitate group project on responsible travel guide"
+              ],
+              "learner_steps": [
+                "Role-play scenarios demonstrating respect",
+                "Research tourism destination's ethical practices",
+                "Present findings and suggest improvements",
+                "Examine over-tourism case study",
+                "Create responsible travel guide for specific destination"
+              ]
+            }
+          ],
+          "short_notes": "Responsible tourism is about respecting places visited and people who live there. Tourist Code of Behavior provides guidelines for traveling responsibly and sustainably.\n\nRespect for Local Culture: Preserves identity, traditions, and values. Key considerations include: Understanding local customs (dress codes, greetings, table manners), Cultural sensitivity (avoid offensive behaviors), Participating respectfully in cultural events, Learning basic local language phrases, Supporting local culture (engage with arts, crafts, traditions).\n\nSignificance of Respecting Local Cultures and Traditions:\n- Promotes Mutual Understanding and Respect\n- Enhances the Tourist Experience\n- Preserves Cultural Heritage\n- Supports Ethical and Sustainable Tourism\n- Builds a Positive Image of Tourists\n\nWays to Respect Local Cultures: Learn about culture before traveling, Dress modestly and appropriately, Use local language basics, Respect religious and social practices, Be mindful of photography, Follow local dining etiquette, Support local businesses and artisans.\n\nConsequences of Disrespecting: Offending local community, Legal consequences, Negative tourist reputation, Cultural erosion.\n\nRisks and Concerns While Traveling:\n\n1. Crime and Personal Security: Common crimes include pickpocketing, scams, identity theft, assault, kidnapping. How to reduce: Avoid displaying valuables, Use secure bags, Be cautious of strangers, Research common scams, Stay in well-lit areas, Keep copies of documents.\n\n2. Financial Risks: Losing money/cards, Overspending, Unexpected costs. How to reduce: Carry multiple payment forms, Store emergency cash separately, Set daily budget, Use travel insurance, Avoid public Wi-Fi for banking.\n\n3. Health Concerns: Food poisoning, Infectious diseases, Allergies, Fatigue/jet lag. How to reduce: Get vaccinations, Drink bottled water, Carry first aid kit, Wear appropriate clothing, Maintain hygiene, Have health insurance.\n\n4. Travel Logistics: Missing transportation, Lost luggage, Getting lost, Unsafe transport. How to reduce: Plan and book in advance, Arrive early, Keep document copies, Use navigation apps, Choose reputable services.\n\n5. Emergency Situations: Political instability, Natural disasters, Terrorist attacks. How to reduce: Stay informed, Register with embassy, Learn emergency contacts, Follow authorities' instructions.\n\nTourists with Special Needs:\n\nElderly Travelers: Need mobility assistance (wheelchairs, ramps, elevators), Health & safety (medical services, clear signage), Spacious accommodation with grab bars, Priority seating in transportation, Clear communication (large fonts), Relaxing activities.\n\nPregnant Women: Need comfortable seating, Medical support nearby, Healthy food options, Extra transportation assistance, Accessible accommodation.\n\nChildren and Infants: Need child-friendly facilities (cribs, high chairs, play areas), Safety measures (child-proofing), Transportation needs (strollers, booster seats), Age-appropriate entertainment, Children's menus, Child-friendly medical services. For infants: Baby essentials allowed, Changing tables, Quiet feeding areas.\n\nGeneral Tips: Ensure staff training in communication, Use accessible booking systems, Inclusive marketing materials.\n\nTourist's Codes of Behaviour:\n\n1. Respect for Local Culture: Understanding customs, Cultural sensitivity, Respectful participation, Language and communication, Supporting local culture\n\n2. Respect for Human Rights: Avoid exploitation, Respect dignity of all people, Support ethical businesses, Awareness of social issues\n\n3. Environmental Responsibility: Reduce waste, Conserve resources, Respect natural environments, Support sustainable businesses, Minimize carbon footprint\n\n4. Promoting Responsible Tourism: Educate fellow tourists, Choose sustainable souvenirs, Volunteer and give back, Respect local laws",
+          "vocabulary": [
+            {
+              "term": "Traveller",
+              "definition": "A person who moves from one place to another for work, leisure, or other purposes"
+            },
+            {
+              "term": "Backpacker",
+              "definition": "A budget-conscious traveler who carries a backpack and explores destinations independently"
+            },
+            {
+              "term": "Adventure Seeker",
+              "definition": "A tourist who seeks thrilling and challenging experiences"
+            },
+            {
+              "term": "Responsible Tourism",
+              "definition": "Travel that respects places visited and people who live there"
+            },
+            {
+              "term": "Cultural Sensitivity",
+              "definition": "Understanding different customs and traditions to serve tourists better"
+            },
+            {
+              "term": "Sustainable Tourism",
+              "definition": "Tourism that minimizes negative impacts and supports conservation"
+            }
+          ],
+          "assessment": {
+            "page": 68,
+            "questions": [
+              {
+                "type": "observation",
+                "description": "During Activity: Group Participation and Contribution - Observe engagement and contribution. Peer Feedback after presentations. Observation Checklist on understanding of key concepts."
+              },
+              {
+                "type": "written",
+                "description": "Written Reflection or Report summarizing learnings: Key behaviors expected in different cultural settings, Importance of respecting local cultures, Risks and concerns with reduction strategies, Significance of Tourist's Codes of behavior, Considerations for special needs tourists"
+              },
+              {
+                "type": "presentation",
+                "description": "Class Presentation/Discussion - Evaluate ability to present and explain findings, articulate cultural norms, explain behavior codes, provide solutions for travel risks"
+              },
+              {
+                "type": "written",
+                "description": "Essay questions on: Significance of respecting local cultures and traditions, Risks and concerns while traveling and how to reduce them"
+              },
+              {
+                "type": "written",
+                "description": "Written exercise from all activities covered"
+              },
+              {
+                "type": "quiz",
+                "description": "Quiz on the Tourist's Codes of behaviour"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

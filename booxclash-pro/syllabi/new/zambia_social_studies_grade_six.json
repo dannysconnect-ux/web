@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "6",
+    "subject": "Social Studies",
+    "philosophy": "The Upper Primary Social Studies Syllabus, Grade 4 to 6, covers components of Civic Education, Geography, History and Religious Education. The Syllabus integrates cross-cutting issues such as national values and principles, life skills and health education, corruption, governance which are aimed at shaping the moral up-bringing of a leaner. Education is a vehicle through which a morally democratic learner should be developed. Thus, Social Studies is expected to be the mirror through which Zambian society should see itself in its quest and dedication to promote and perpetuate its social skills, beliefs, values, and traditions. Social Studies is a learning area that covers a number of aspects that include human behaviour, relationships, institutions, and resources. The learning area enables learners to use the acquired knowledge and skills to enable greater understanding of themselves, others, societies, institutions, nations, and environments. This new curriculum emphasises that the learner should be at the centre of the education process. Therefore, it is envisioned that the learners should acquire essential competences; and think reflectively, logically, scientifically, creatively and critically so as to promote the formation of positive social behaviour and a socially desirable attitude. It is desired that the learner should have an education that will shape the development of a personally held set of civic, moral, and spiritual values as well as further the acquisition of knowledge and understanding of Zambia's democratic and cultural institutions.",
+    "competence_learning": "At the beginning of each grade level (4, 5, and 6), there are competences and descriptors to be developed by the learners. For easy reference, the syllabus is arranged as follows; the topic, sub-topic, specific competences, learning activities, and expected standard.",
+    "goals": [
+      "Quality, life long education for all which is accessible, inclusive and relevant to individual, national and global needs and value systems",
+      "Providing quality education that is aligned with the Competence-Based Curriculum and 21st century skills",
+      "Imparting knowledge, skills, values, and positive attitudes that are aimed at enabling children to live and grow into productive and useful members of their communities and the Zambian society."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "6.1",
+      "topic_title": "TO GETHERNESS",
+      "page_number": 20,
+      "subtopics": [
+        "Togetherness in the Community",
+        "Factors that Promote Living Together",
+        "Importance of Living Together",
+        "Living Together in Different Religions"
+      ],
+      "specific_outcomes": [
+        "Demonstrate sense of belonging",
+        "Practise living together",
+        "Examine importance of living together",
+        "Examine activities that promote living together"
+      ]
+    },
+    {
+      "unit": "6.2",
+      "topic_title": "GOVERNANCE",
+      "page_number": 21,
+      "subtopics": [
+        "Democratic Governance",
+        "Organs of Government",
+        "Government Ministries",
+        "Constitution",
+        "Child Abuse",
+        "Corruption",
+        "School Related Gender-Based Violence"
+      ],
+      "specific_outcomes": [
+        "Practise democratic governance",
+        "Examine different organs of government",
+        "Demonstrate understanding of government ministries",
+        "Obey laws of the country",
+        "Practise protecting oneself from being abused",
+        "Practise ways of fighting corruption",
+        "Practise ways of protecting oneself against School Related Gender-Based Violence"
+      ]
+    },
+    {
+      "unit": "6.3",
+      "topic_title": "LEARNING ABOUT THE PAST",
+      "page_number": 24,
+      "subtopics": [
+        "The Bantu Speaking People in Zambia"
+      ],
+      "specific_outcomes": [
+        "Explore way of life of the Bantu speaking people"
+      ]
+    },
+    {
+      "unit": "6.4",
+      "topic_title": "TRANSPORT AND COMMUNICATION",
+      "page_number": 24,
+      "subtopics": [
+        "Transport and Communication Services in the SADC and COMESA Countries",
+        "Road Safety"
+      ],
+      "specific_outcomes": [
+        "Analyse benefits of improved transport and communication services",
+        "Practise road safety when cycling"
+      ]
+    },
+    {
+      "unit": "6.5",
+      "topic_title": "CLIMATE CHANGE",
+      "page_number": 25,
+      "subtopics": [
+        "Mitigating Climate Change",
+        "Adapting to Climate Change"
+      ],
+      "specific_outcomes": [
+        "Practise ways that help reduce climate change",
+        "Adapt to extreme weather conditions and disasters"
+      ]
+    },
+    {
+      "unit": "6.6",
+      "topic_title": "ENVIRONMENT",
+      "page_number": 25,
+      "subtopics": [
+        "Keeping the environment clean"
+      ],
+      "specific_outcomes": [
+        "Practise ways of keeping the environment clean"
+      ]
+    },
+    {
+      "unit": "6.7",
+      "topic_title": "LEARNING ABOUT MONEY",
+      "page_number": 25,
+      "subtopics": [
+        "Saving Money"
+      ],
+      "specific_outcomes": [
+        "Evaluate different ways of saving money"
+      ]
+    },
+    {
+      "unit": "6.8",
+      "topic_title": "THE WORLD",
+      "page_number": 26,
+      "subtopics": [
+        "Continents"
+      ],
+      "specific_outcomes": [
+        "Locate continents on the World map"
+      ]
+    },
+    {
+      "unit": "6.9",
+      "topic_title": "AFRICAN CHALLENGES",
+      "page_number": 27,
+      "subtopics": [
+        "Population Growth",
+        "Rural - Urban Migration",
+        "Food Shortages",
+        "HIV and AIDS",
+        "War"
+      ],
+      "specific_outcomes": [
+        "Examine causes of rapid population growth",
+        "Evaluate effects of rapid population growth",
+        "Analyse rural-urban migration",
+        "Practise ways of contributing to food security",
+        "Demonstrate understanding of ways to prevent HIV and AIDS",
+        "Analyse causes and effects of war in Africa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "4",
+    "subject": "English Language",
+    "philosophy": "The New English Language Syllabus adopts a Competence-Based Approach, emphasising the practical skills learners will acquire rather than mere knowledge. It is designed to build upon lower primary literacy skills, aiming to develop critical thinking, text analysis, and evidence-based opinion formation. The syllabus focuses on attaining basic communication proficiency in real-life situations and developing English as a tool for learning content subjects, opening doors to higher education and future career prospects.",
+    "competence_learning": "The English Language Syllabus provides a holistic development of language skills, encompassing Listening and Speaking, Reading, Writing, and Structure, with each component featuring topics, specific competences, learning activities, and expected standards. The methodology employs a multifaceted approach, specifically Communicative Language Teaching (CLT) and Task-Based Language Teaching (TBLT), prioritizing real-life communication and practical application. Role-play provides diverse communication contexts, while reading lessons emphasize independent and collaborative reading for comprehension and fostering a love for reading.",
+    "goals": [
+      "Develop essential skills in listening, reading, speaking, writing, creating, and reflecting upon increasingly intricate spoken, written, and multimodal texts.",
+      "Foster accuracy, fluency, and purpose in communication, aligning with the Competence-Based Curriculum of the 21st Century.",
+      "Instil knowledge, skills, values, and positive attitudes, nurturing children to become productive and beneficial members of their communities and Zambian society.",
+      "Build upon foundations laid at Lower Primary level to enhance language skills.",
+      "Enhance language skills for effective communication and learning across various subjects.",
+      "Expose learners to linguistic practice, fostering proficiency through consistent engagement.",
+      "Develop critical thinking skills, including analysing and interpreting texts, making connections between ideas, and forming opinions based on evidence.",
+      "Attain basic communication proficiency in real-life situations and develop language as a tool for learning content subjects.",
+      "Enrich the learning experience at the Upper Primary School level, making it more meaningful and enjoyable.",
+      "Promote engagement and pave the way for a seamless transition into secondary education through an activity-oriented approach."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "4.1.1",
+      "topic_title": "DIALOGUES",
+      "page_number": 5,
+      "subtopics": [
+        "4.1.1.1. Personal Information"
+      ],
+      "specific_outcomes": [
+        "4.1.1.1.1. Share personal information in a conversation"
+      ]
+    },
+    {
+      "unit": "4.1.2",
+      "topic_title": "DEBATE",
+      "page_number": 5,
+      "subtopics": [
+        "4.1.2.1. Simple Arguments"
+      ],
+      "specific_outcomes": [
+        "4.1.2.1.1. Use appropriate language to argue for or against a given topic"
+      ]
+    },
+    {
+      "unit": "4.1.3",
+      "topic_title": "LANGUAGE IN A SOCIAL SETTING",
+      "page_number": 5,
+      "subtopics": [
+        "4.1.3.1. Polite Expressions",
+        "4.1.3.2. Proverbs"
+      ],
+      "specific_outcomes": [
+        "4.1.3.1.1. Use polite expressions in different social settings",
+        "4.1.3.2.1. Use proverbs in different contexts"
+      ]
+    },
+    {
+      "unit": "4.1.4",
+      "topic_title": "PROCESSES",
+      "page_number": 6,
+      "subtopics": [
+        "4.1.4.1. Simple Processes"
+      ],
+      "specific_outcomes": [
+        "4.1.4.1.1. Use appropriate language to describe simple processes"
+      ]
+    },
+    {
+      "unit": "4.1.5",
+      "topic_title": "THE CALENDAR",
+      "page_number": 6,
+      "subtopics": [
+        "4.1.5.1. Calendar Vocabulary"
+      ],
+      "specific_outcomes": [
+        "4.1.5.1.1. Use appropriate calendar vocabulary"
+      ]
+    },
+    {
+      "unit": "4.1.6",
+      "topic_title": "STORIES",
+      "page_number": 6,
+      "subtopics": [
+        "4.1.6.1. Story Analysis",
+        "4.1.6.2. Story Telling"
+      ],
+      "specific_outcomes": [
+        "4.1.6.1.1. Analyse simple stories orally",
+        "4.1.6.2.1. Tell stories in logical order"
+      ]
+    },
+    {
+      "unit": "4.1.7",
+      "topic_title": "DRAMA",
+      "page_number": 6,
+      "subtopics": [
+        "4.1.7.1. Role Playing",
+        "4.1.7.2. Simple Plays"
+      ],
+      "specific_outcomes": [
+        "4.1.7.1.1. Use appropriate language to role play",
+        "4.1.7.2.1. Analyse simple plays"
+      ]
+    },
+    {
+      "unit": "4.1.8",
+      "topic_title": "POETRY",
+      "page_number": 7,
+      "subtopics": [
+        "4.1.8.1. Simple Poems"
+      ],
+      "specific_outcomes": [
+        "4.1.8.1.1. Recite simple poems"
+      ]
+    },
+    {
+      "unit": "4.2.1",
+      "topic_title": "LISTENING COMPREHENSION",
+      "page_number": 7,
+      "subtopics": [
+        "4.2.1.1. Oral Comprehension"
+      ],
+      "specific_outcomes": [
+        "4.2.1.1.1. Comprehend spoken language"
+      ]
+    },
+    {
+      "unit": "4.2.2",
+      "topic_title": "READING COMPREHENSION",
+      "page_number": 7,
+      "subtopics": [
+        "4.2.2.1. Intensive Reading",
+        "4.2.2.2. Extensive Reading"
+      ],
+      "specific_outcomes": [
+        "4.2.2.1.1. Read a variety of texts with comprehension",
+        "4.2.2.2.1. Read a variety of texts for enjoyment"
+      ]
+    },
+    {
+      "unit": "4.2.3",
+      "topic_title": "READING FLUENCY",
+      "page_number": 7,
+      "subtopics": [
+        "4.2.3.1. Fluency"
+      ],
+      "specific_outcomes": [
+        "4.2.3.1.1. Read texts with fluency"
+      ]
+    },
+    {
+      "unit": "4.2.4",
+      "topic_title": "SHARED READING",
+      "page_number": 8,
+      "subtopics": [
+        "4.2.4.1. Fiction and Non-Fiction"
+      ],
+      "specific_outcomes": [
+        "4.2.4.1.1. Read fiction and non-fiction stories"
+      ]
+    },
+    {
+      "unit": "4.2.5",
+      "topic_title": "REFERENCE BOOKS",
+      "page_number": 8,
+      "subtopics": [
+        "4.2.5.1. The dictionary"
+      ],
+      "specific_outcomes": [
+        "4.2.5.1.1. Use a dictionary"
+      ]
+    },
+    {
+      "unit": "4.2.6",
+      "topic_title": "EXTRACTING INFORMATION",
+      "page_number": 8,
+      "subtopics": [
+        "4.2.6.1. Print Resources"
+      ],
+      "specific_outcomes": [
+        "4.2.6.1.1. Interpret information from print resources"
+      ]
+    },
+    {
+      "unit": "4.3.1",
+      "topic_title": "NARRATIVES",
+      "page_number": 8,
+      "subtopics": [
+        "4.3.1.1. Story Writing"
+      ],
+      "specific_outcomes": [
+        "4.3.1.1.1. Write stories"
+      ]
+    },
+    {
+      "unit": "4.3.2",
+      "topic_title": "DESCRIPTIVE WRITING",
+      "page_number": 8,
+      "subtopics": [
+        "4.3.2.1. Descriptive Composition"
+      ],
+      "specific_outcomes": [
+        "4.3.2.1.1. Use descriptive language to write compositions"
+      ]
+    },
+    {
+      "unit": "4.3.3",
+      "topic_title": "EXPOSITORY WRITING",
+      "page_number": 9,
+      "subtopics": [
+        "4.3.3.1. Expository Composition"
+      ],
+      "specific_outcomes": [
+        "4.3.3.1.1. Write factual information on different topics"
+      ]
+    },
+    {
+      "unit": "4.3.4",
+      "topic_title": "LETTER WRITING",
+      "page_number": 9,
+      "subtopics": [
+        "4.3.4.1. Informal Letter"
+      ],
+      "specific_outcomes": [
+        "4.3.4.1.1. Write informal letters"
+      ]
+    },
+    {
+      "unit": "4.3.5",
+      "topic_title": "SUMMARY",
+      "page_number": 9,
+      "subtopics": [
+        "4.3.5.1. Note Taking",
+        "4.3.5.2. Note Making"
+      ],
+      "specific_outcomes": [
+        "4.3.5.1.1. Write notes from oral sources",
+        "4.3.5.2.1. Make notes from written sources"
+      ]
+    },
+    {
+      "unit": "4.3.6",
+      "topic_title": "GUIDED WRITING",
+      "page_number": 9,
+      "subtopics": [
+        "4.3.6.1. Guided Composition"
+      ],
+      "specific_outcomes": [
+        "4.3.6.1.1. Write short passages using given notes"
+      ]
+    },
+    {
+      "unit": "4.3.7",
+      "topic_title": "SPELLING",
+      "page_number": 9,
+      "subtopics": [
+        "4.3.7.1. Word Spelling"
+      ],
+      "specific_outcomes": [
+        "4.3.7.1.1. Spell words"
+      ]
+    },
+    {
+      "unit": "4.3.8",
+      "topic_title": "PUNCTUATION",
+      "page_number": 10,
+      "subtopics": [
+        "4.3.7.2. Dictation",
+        "4.3.8.1. Punctuation Marks"
+      ],
+      "specific_outcomes": [
+        "4.3.7.2.1. Take dictation",
+        "4.3.8.1.1. Use different punctuation marks"
+      ]
+    },
+    {
+      "unit": "4.4.1",
+      "topic_title": "TENSES",
+      "page_number": 10,
+      "subtopics": [
+        "4.4.1.1. Present and Past Tense"
+      ],
+      "specific_outcomes": [
+        "4.4.1.1.1. Change word forms to suitable tenses"
+      ]
+    },
+    {
+      "unit": "4.4.2",
+      "topic_title": "TYPES OF NOUNS",
+      "page_number": 10,
+      "subtopics": [
+        "4.4.2.1. Common Nouns",
+        "4.4.2.2. Proper Nouns",
+        "4.4.2.3. Countable Nouns",
+        "4.4.2.4. Uncountable Nouns",
+        "4.4.2.5. Collective Nouns"
+      ],
+      "specific_outcomes": [
+        "4.4.2.1.1. Use common nouns in sentences",
+        "4.4.2.2.1. Use proper nouns in sentences",
+        "4.4.2.3.1. Use countable nouns in sentences",
+        "4.4.2.4.1. Use uncountable nouns in sentences",
+        "4.4.2.5.1. Use collective nouns in sentences"
+      ]
+    },
+    {
+      "unit": "4.4.3",
+      "topic_title": "PREPOSITIONS",
+      "page_number": 11,
+      "subtopics": [
+        "4.4.3.1. Prepositions"
+      ],
+      "specific_outcomes": [
+        "4.4.3.1.1. Use prepositions appropriately in various contexts"
+      ]
+    },
+    {
+      "unit": "4.4.4",
+      "topic_title": "CONJUNCTIONS",
+      "page_number": 11,
+      "subtopics": [
+        "4.4.4.1. Connecting Phrases"
+      ],
+      "specific_outcomes": [
+        "4.4.4.1.1. Use conjunctions to connect phrases"
+      ]
+    },
+    {
+      "unit": "4.4.5",
+      "topic_title": "VERBS",
+      "page_number": 11,
+      "subtopics": [
+        "4.4.5.1. Action Verbs",
+        "4.4.5.2. Linking Verbs",
+        "4.4.5.3. Adverbs"
+      ],
+      "specific_outcomes": [
+        "4.4.5.1.1. Use action verbs in sentences",
+        "4.4.5.2.1. Use linking verbs in sentences",
+        "4.4.5.3.1. Use adverbs of place in sentences"
+      ]
+    },
+    {
+      "unit": "4.4.6",
+      "topic_title": "ARTICLES",
+      "page_number": 12,
+      "subtopics": [
+        "4.4.6.1. Definite and Indefinite Articles"
+      ],
+      "specific_outcomes": [
+        "4.4.6.1.1. Use articles in different contexts"
+      ]
+    },
+    {
+      "unit": "4.4.7",
+      "topic_title": "AGREEMENT",
+      "page_number": 12,
+      "subtopics": [
+        "4.4.7.1. Subject -Verb Agreement"
+      ],
+      "specific_outcomes": [
+        "4.4.7.1.1. Apply appropriate verb forms based on the subject"
+      ]
+    }
+  ]
+}

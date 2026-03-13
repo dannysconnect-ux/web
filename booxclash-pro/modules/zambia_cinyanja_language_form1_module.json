@@ -1,0 +1,1024 @@
+{
+    "subject": "Cinyanja Language",
+    "grade": "Form 1",
+    "term": 2,
+    "topics": [
+        {
+            "topic_id": "1.0",
+            "topic_title": "Kuwerengera ndi Kumvetsetsa (Reading and Comprehension)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "1.1",
+                    "title": "Kuwerengera mawu ndi zilembo (Reading words and sentences)",
+                    "page": 10,
+                    "competences": [
+                        "Read words and sentences fluently",
+                        "Demonstrate understanding of written text",
+                        "Apply reading strategies for comprehension"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.1",
+                            "page": 11,
+                            "hook": "What strategies do you use when reading unfamiliar words?",
+                            "teacher_steps": [
+                                "Introduce the activity by displaying sample texts with varying difficulty levels",
+                                "Demonstrate proper reading techniques including pronunciation and intonation",
+                                "Divide learners into groups for shared reading activities",
+                                "Provide reading materials appropriate for Form 1 level",
+                                "Guide learners through word recognition and decoding strategies",
+                                "Model fluent reading with expression and proper pacing",
+                                "Ask comprehension questions to check understanding",
+                                "Provide feedback on reading performance",
+                                "Encourage learners to read independently"
+                            ],
+                            "learner_steps": [
+                                "Practice reading aloud individually and in groups",
+                                "Identify unfamiliar words and use context clues",
+                                "Apply word attack skills to decode new vocabulary",
+                                "Read with appropriate expression and fluency",
+                                "Answer comprehension questions about the text",
+                                "Discuss the meaning of what was read with peers",
+                                "Practice reading different types of texts"
+                            ],
+                            "short_notes": "This activity focuses on developing fundamental reading skills in Cinyanja. Learners will practice reading various texts, from simple sentences to more complex passages, building fluency and comprehension. The emphasis is on accurate pronunciation, understanding context, and developing confidence in reading Cinyanja texts."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "1.1.2",
+                            "page": 14,
+                            "hook": "How can you improve your reading speed while maintaining comprehension?",
+                            "teacher_steps": [
+                                "Introduce timed reading exercises",
+                                "Explain the relationship between speed and comprehension",
+                                "Provide texts of graduated difficulty",
+                                "Demonstrate skimming and scanning techniques",
+                                "Set reading goals with learners",
+                                "Monitor reading progress and provide individual support",
+                                "Conduct reading assessments",
+                                "Provide constructive feedback"
+                            ],
+                            "learner_steps": [
+                                "Practice reading at different speeds",
+                                "Use skimming techniques to get main ideas",
+                                "Apply scanning to find specific information",
+                                "Time their reading and track improvement",
+                                "Balance speed with understanding",
+                                "Self-assess reading comprehension",
+                                "Set personal reading goals"
+                            ],
+                            "short_notes": "This activity helps learners develop both reading fluency and comprehension. Through timed exercises and various reading strategies, learners improve their ability to read Cinyanja texts efficiently while maintaining understanding of the content."
+                        }
+                    ],
+                    "short_notes": "Reading and comprehension form the foundation of language learning. In Cinyanja, learners must develop the ability to decode written text, understand its meaning, and read with fluency. This involves recognizing word patterns, understanding sentence structure, and applying comprehension strategies to extract meaning from various types of texts.",
+                    "vocabulary": [
+                        {
+                            "term": "Kuwerengera",
+                            "definition": "The act of reading; the process of looking at and understanding written words and text"
+                        },
+                        {
+                            "term": "Kumvetsetsa",
+                            "definition": "To understand or comprehend; the ability to grasp the meaning of what is read or heard"
+                        },
+                        {
+                            "term": "Mawu",
+                            "definition": "Words; the basic units of language used to express ideas"
+                        },
+                        {
+                            "term": "Zilembo",
+                            "definition": "Sentences; groups of words that express a complete thought"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 17,
+                        "questions": [
+                            "Read the following passage aloud and demonstrate proper pronunciation and intonation",
+                            "Identify and explain the meaning of five unfamiliar words from the text using context clues",
+                            "Answer comprehension questions about the main ideas and details of the passage",
+                            "Demonstrate reading fluency by reading a timed passage",
+                            "Explain the strategies you used to understand difficult sections of the text"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "1.2",
+                    "title": "Kumvetsetsa nkhani (Understanding narratives/stories)",
+                    "page": 20,
+                    "competences": [
+                        "Identify elements of a narrative",
+                        "Understand plot development and character roles",
+                        "Analyze themes and messages in stories"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "1.2.1",
+                            "page": 21,
+                            "hook": "What makes a good story? What elements should every story have?",
+                            "teacher_steps": [
+                                "Introduce narrative elements: setting, characters, plot, conflict, resolution",
+                                "Read a sample Cinyanja story to the class",
+                                "Guide learners in identifying story elements",
+                                "Discuss character development and motivations",
+                                "Explain plot structure and story arc",
+                                "Encourage learners to share their interpretations",
+                                "Facilitate discussion about themes and morals",
+                                "Assess understanding through questioning"
+                            ],
+                            "learner_steps": [
+                                "Listen to or read the narrative carefully",
+                                "Identify the main characters and their traits",
+                                "Describe the setting of the story",
+                                "Follow the plot development from beginning to end",
+                                "Identify the conflict and how it was resolved",
+                                "Discuss the theme or moral of the story",
+                                "Share personal responses to the narrative"
+                            ],
+                            "short_notes": "Understanding narratives is crucial for developing comprehension skills. Learners analyze Cinyanja stories to identify key elements such as characters, setting, plot, and theme. This helps them develop critical thinking skills and deeper appreciation for Cinyanja literature and oral traditions."
+                        }
+                    ],
+                    "short_notes": "Narratives are a fundamental part of Cinyanja culture and language instruction. Through stories, learners develop comprehension skills, cultural understanding, and analytical abilities. They learn to identify narrative structures, understand character development, and extract themes and messages from texts.",
+                    "vocabulary": [
+                        {
+                            "term": "Nkhani",
+                            "definition": "A story or narrative; an account of events, either real or fictional"
+                        },
+                        {
+                            "term": "Anthu a m'nkhani",
+                            "definition": "Characters; the people or beings in a story"
+                        },
+                        {
+                            "term": "Malo",
+                            "definition": "Setting; the time and place where a story occurs"
+                        },
+                        {
+                            "term": "Chochitika",
+                            "definition": "Event or incident; something that happens in a story"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 25,
+                        "questions": [
+                            "Who are the main characters in the story and what are their key characteristics?",
+                            "Describe the setting of the narrative",
+                            "Summarize the plot in your own words",
+                            "What was the main conflict and how was it resolved?",
+                            "What is the theme or moral of this story?",
+                            "How do the characters change throughout the story?"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "2.0",
+            "topic_title": "Kulemba (Writing)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "2.1",
+                    "title": "Kulemba zilembo (Writing sentences)",
+                    "page": 30,
+                    "competences": [
+                        "Construct grammatically correct sentences in Cinyanja",
+                        "Use proper punctuation and capitalization",
+                        "Write sentences with varied structure and complexity"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.1",
+                            "page": 31,
+                            "hook": "What makes a sentence complete? How do we write clear sentences in Cinyanja?",
+                            "teacher_steps": [
+                                "Review the components of a complete sentence: subject, verb, object",
+                                "Demonstrate proper sentence structure in Cinyanja",
+                                "Explain punctuation rules and capitalization",
+                                "Provide examples of simple, compound, and complex sentences",
+                                "Guide learners in sentence construction activities",
+                                "Correct common grammatical errors",
+                                "Encourage creativity while maintaining grammatical accuracy",
+                                "Provide individual feedback on written work"
+                            ],
+                            "learner_steps": [
+                                "Identify subjects and verbs in sentences",
+                                "Practice writing simple sentences",
+                                "Combine sentences to create compound structures",
+                                "Use appropriate punctuation marks",
+                                "Apply capitalization rules correctly",
+                                "Revise and edit their own sentences",
+                                "Share written work with peers for feedback"
+                            ],
+                            "short_notes": "Sentence construction is a fundamental writing skill. Learners practice creating grammatically correct sentences in Cinyanja, paying attention to word order, agreement, punctuation, and capitalization. They progress from simple to more complex sentence structures."
+                        },
+                        {
+                            "type": "activity",
+                            "activity_number": "2.1.2",
+                            "page": 34,
+                            "hook": "How can we make our writing more interesting by varying sentence types?",
+                            "teacher_steps": [
+                                "Introduce different sentence types: declarative, interrogative, imperative, exclamatory",
+                                "Demonstrate how to vary sentence beginnings and lengths",
+                                "Show how sentence variety improves writing",
+                                "Provide practice exercises",
+                                "Guide revision of monotonous writing",
+                                "Assess understanding through written assignments"
+                            ],
+                            "learner_steps": [
+                                "Identify different sentence types",
+                                "Practice writing various sentence forms",
+                                "Vary sentence beginnings in their writing",
+                                "Mix short and long sentences for effect",
+                                "Revise writing to improve sentence variety",
+                                "Read their work aloud to check flow"
+                            ],
+                            "short_notes": "This activity teaches learners to create variety in their writing through different sentence types and structures. They learn that good writing uses a mix of sentence forms to maintain reader interest and convey ideas effectively."
+                        }
+                    ],
+                    "short_notes": "Writing clear, grammatically correct sentences is essential for effective communication in Cinyanja. Learners must understand sentence structure, punctuation rules, and how to create variety in their writing. This foundation supports all other writing tasks.",
+                    "vocabulary": [
+                        {
+                            "term": "Kulemba",
+                            "definition": "To write; the act of forming letters and words on paper or other medium"
+                        },
+                        {
+                            "term": "Chilembo",
+                            "definition": "A sentence; a group of words that expresses a complete thought"
+                        },
+                        {
+                            "term": "Zizindikiro",
+                            "definition": "Punctuation marks; symbols used to organize and clarify written language"
+                        },
+                        {
+                            "term": "Zilembo zokwanira",
+                            "definition": "Complete sentences; sentences that contain all necessary elements"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 37,
+                        "questions": [
+                            "Write five simple sentences about your daily activities",
+                            "Combine two simple sentences into a compound sentence",
+                            "Write examples of declarative, interrogative, and exclamatory sentences",
+                            "Correct the punctuation and capitalization errors in the given passage",
+                            "Revise this paragraph to include more sentence variety"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.2",
+                    "title": "Kulemba ndime (Writing paragraphs)",
+                    "page": 40,
+                    "competences": [
+                        "Organize ideas into coherent paragraphs",
+                        "Use topic sentences effectively",
+                        "Develop supporting details",
+                        "Maintain unity and coherence in paragraphs"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.2.1",
+                            "page": 41,
+                            "hook": "What is the difference between a group of sentences and a well-organized paragraph?",
+                            "teacher_steps": [
+                                "Define paragraph structure: topic sentence, supporting details, concluding sentence",
+                                "Demonstrate paragraph unity - all sentences relate to one main idea",
+                                "Show how to use transition words for coherence",
+                                "Provide examples of well-written paragraphs",
+                                "Guide learners in outlining before writing",
+                                "Model the paragraph writing process",
+                                "Facilitate peer review activities",
+                                "Provide feedback on paragraph structure and content"
+                            ],
+                            "learner_steps": [
+                                "Identify topic sentences in sample paragraphs",
+                                "Brainstorm ideas for paragraph topics",
+                                "Create outlines for their paragraphs",
+                                "Write topic sentences that clearly state the main idea",
+                                "Develop supporting details with examples and evidence",
+                                "Use transition words to connect ideas",
+                                "Write concluding sentences that summarize or reinforce the main idea",
+                                "Revise paragraphs for unity and coherence"
+                            ],
+                            "short_notes": "Paragraph writing builds on sentence construction skills. Learners organize related sentences around a central idea, using topic sentences to introduce the main point and supporting details to develop it. They learn to maintain unity by ensuring all sentences relate to the topic and coherence through logical organization and transitions."
+                        }
+                    ],
+                    "short_notes": "Paragraph writing is a key organizational skill in Cinyanja composition. A well-written paragraph has a clear topic sentence, relevant supporting details, and a concluding sentence. Learners must understand unity (all sentences relate to one idea) and coherence (logical flow and connection between sentences).",
+                    "vocabulary": [
+                        {
+                            "term": "Ndime",
+                            "definition": "A paragraph; a group of related sentences that develop a single main idea"
+                        },
+                        {
+                            "term": "Chilembo cha mutu",
+                            "definition": "Topic sentence; the sentence that states the main idea of a paragraph"
+                        },
+                        {
+                            "term": "Zothandizira",
+                            "definition": "Supporting details; sentences that explain, describe, or provide evidence for the main idea"
+                        },
+                        {
+                            "term": "Kulumikizana",
+                            "definition": "Coherence; the quality of having parts logically connected"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 45,
+                        "questions": [
+                            "Write a paragraph about your favorite subject at school with a clear topic sentence",
+                            "Identify the topic sentence, supporting details, and concluding sentence in the given paragraph",
+                            "Reorganize these sentences into a coherent paragraph",
+                            "Add appropriate transition words to improve this paragraph's coherence",
+                            "Write a paragraph describing your community, ensuring all sentences relate to the main idea"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "2.3",
+                    "title": "Kulemba kalata (Letter writing)",
+                    "page": 50,
+                    "competences": [
+                        "Write formal and informal letters in Cinyanja",
+                        "Use appropriate letter format and conventions",
+                        "Adapt tone and language to purpose and audience"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "2.3.1",
+                            "page": 51,
+                            "hook": "What are the differences between writing a letter to a friend and writing a letter to your headteacher?",
+                            "teacher_steps": [
+                                "Explain the difference between formal and informal letters",
+                                "Teach letter format: heading, greeting, body, closing, signature",
+                                "Demonstrate appropriate language for different audiences",
+                                "Provide examples of various letter types",
+                                "Guide learners through the letter writing process",
+                                "Emphasize cultural conventions in Cinyanja correspondence",
+                                "Facilitate practice with different letter purposes",
+                                "Assess letters for format, content, and appropriateness"
+                            ],
+                            "learner_steps": [
+                                "Identify the parts of a letter",
+                                "Choose appropriate greetings and closings",
+                                "Write informal letters to friends or family",
+                                "Write formal letters for specific purposes",
+                                "Use respectful language in formal contexts",
+                                "Organize content logically within the letter",
+                                "Revise letters for clarity and appropriateness",
+                                "Share letters with peers for feedback"
+                            ],
+                            "short_notes": "Letter writing in Cinyanja requires understanding of both format and cultural conventions. Learners practice writing different types of letters, adjusting their language and tone based on the relationship with the recipient and the purpose of communication. Formal letters require more respectful language and proper format."
+                        }
+                    ],
+                    "short_notes": "Letter writing is an important functional writing skill. In Cinyanja, learners must master both formal and informal letter formats, understanding how to adjust their language, tone, and style based on the audience and purpose. This includes proper greetings, organizational structure, and culturally appropriate expressions.",
+                    "vocabulary": [
+                        {
+                            "term": "Kalata",
+                            "definition": "A letter; written communication sent to a person or organization"
+                        },
+                        {
+                            "term": "Moni",
+                            "definition": "Greeting; the opening salutation in a letter"
+                        },
+                        {
+                            "term": "Thupi la kalata",
+                            "definition": "Body of the letter; the main content or message"
+                        },
+                        {
+                            "term": "Zotseka",
+                            "definition": "Closing; the polite phrase used to end a letter before the signature"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 55,
+                        "questions": [
+                            "Write an informal letter to a friend describing your school holiday experiences",
+                            "Write a formal letter to your headteacher requesting permission to organize a school event",
+                            "Identify and correct the formatting errors in the sample letter",
+                            "Explain the differences between formal and informal letter language using examples",
+                            "Write an appropriate greeting and closing for: (a) a letter to your grandmother (b) a letter to the District Education Board Secretary"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "3.0",
+            "topic_title": "Grammar (Grammar)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "3.1",
+                    "title": "Mitu ya mawu (Parts of speech)",
+                    "page": 60,
+                    "competences": [
+                        "Identify and classify different parts of speech",
+                        "Use parts of speech correctly in sentences",
+                        "Understand the function of each part of speech"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.1.1",
+                            "page": 61,
+                            "hook": "How do different types of words work together to create meaning in sentences?",
+                            "teacher_steps": [
+                                "Introduce the concept of parts of speech in Cinyanja",
+                                "Explain nouns (maina), verbs (ntchito), adjectives (mafotokozedwe), adverbs, pronouns, prepositions, conjunctions",
+                                "Provide examples of each part of speech",
+                                "Demonstrate how to identify parts of speech in sentences",
+                                "Guide practice activities for classification",
+                                "Show how parts of speech function in sentence structure",
+                                "Conduct exercises on correct usage",
+                                "Assess understanding through various activities"
+                            ],
+                            "learner_steps": [
+                                "Listen to explanations and take notes",
+                                "Identify nouns, verbs, and adjectives in sample sentences",
+                                "Classify words according to their parts of speech",
+                                "Practice using different parts of speech in sentences",
+                                "Complete exercises identifying parts of speech",
+                                "Create sentences demonstrating understanding",
+                                "Correct errors in part of speech usage"
+                            ],
+                            "short_notes": "Understanding parts of speech is fundamental to mastering Cinyanja grammar. Each word category has specific functions and rules. Learners identify nouns (naming words), verbs (action or state words), adjectives (describing words), and other parts of speech, learning how they work together to create meaningful sentences."
+                        }
+                    ],
+                    "short_notes": "Parts of speech are the building blocks of language. In Cinyanja, understanding the different categories of words and their functions enables learners to construct grammatically correct sentences and comprehend the language structure. Each part of speech has specific rules and usage patterns.",
+                    "vocabulary": [
+                        {
+                            "term": "Mitu ya mawu",
+                            "definition": "Parts of speech; categories of words based on their grammatical function"
+                        },
+                        {
+                            "term": "Dzina",
+                            "definition": "Noun; a word that names a person, place, thing, or idea"
+                        },
+                        {
+                            "term": "Ntchito",
+                            "definition": "Verb; a word that expresses action or state of being"
+                        },
+                        {
+                            "term": "Mafotokozedwe",
+                            "definition": "Adjectives; words that describe or modify nouns"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 65,
+                        "questions": [
+                            "Identify the nouns in the following sentences",
+                            "Underline the verbs and circle the adjectives in the given paragraph",
+                            "Write three sentences, labeling each part of speech used",
+                            "Replace the nouns in these sentences with appropriate pronouns",
+                            "Explain the function of each part of speech with examples"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.2",
+                    "title": "Kugwirizanitsa (Agreement - concord)",
+                    "page": 70,
+                    "competences": [
+                        "Apply subject-verb agreement rules",
+                        "Use correct noun-adjective agreement",
+                        "Maintain grammatical concord in sentences"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.2.1",
+                            "page": 71,
+                            "hook": "Why must subjects and verbs 'agree' with each other in Cinyanja?",
+                            "teacher_steps": [
+                                "Explain the concept of grammatical agreement in Cinyanja",
+                                "Teach subject-verb agreement with singular and plural subjects",
+                                "Demonstrate noun class system and its effect on agreement",
+                                "Show agreement between nouns and adjectives",
+                                "Provide examples of correct and incorrect agreement",
+                                "Guide learners through agreement exercises",
+                                "Correct common concord errors",
+                                "Assess understanding through practical application"
+                            ],
+                            "learner_steps": [
+                                "Identify subjects and their corresponding verbs",
+                                "Determine if subjects are singular or plural",
+                                "Match verbs to their subjects correctly",
+                                "Apply noun class agreement rules",
+                                "Practice adjective agreement with nouns",
+                                "Correct sentences with agreement errors",
+                                "Create sentences demonstrating proper concord"
+                            ],
+                            "short_notes": "Agreement or concord is a crucial aspect of Cinyanja grammar. The verb must agree with its subject in number and noun class. Similarly, adjectives must agree with the nouns they modify. Understanding the noun class system in Cinyanja is essential for maintaining proper grammatical agreement throughout sentences."
+                        }
+                    ],
+                    "short_notes": "Grammatical agreement (concord) ensures consistency within sentences. In Cinyanja, this involves subject-verb agreement, noun-adjective agreement, and understanding the noun class system. Proper concord is essential for grammatically correct and meaningful communication.",
+                    "vocabulary": [
+                        {
+                            "term": "Kugwirizanitsa",
+                            "definition": "Agreement or concord; the correspondence between different parts of a sentence"
+                        },
+                        {
+                            "term": "Mutu wa chilembo",
+                            "definition": "Subject; the part of the sentence that performs the action"
+                        },
+                        {
+                            "term": "Magulu a maina",
+                            "definition": "Noun classes; categories of nouns that determine agreement patterns"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 75,
+                        "questions": [
+                            "Choose the correct verb form to agree with each subject",
+                            "Correct the agreement errors in these sentences",
+                            "Write sentences with proper subject-verb agreement for: singular subjects, plural subjects, compound subjects",
+                            "Match adjectives with nouns ensuring proper agreement",
+                            "Explain why certain verbs must change form based on their subjects"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "3.3",
+                    "title": "Nthawi (Tense)",
+                    "page": 80,
+                    "competences": [
+                        "Identify and use different tenses correctly",
+                        "Understand time relationships in language",
+                        "Maintain consistent tense in writing"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "3.3.1",
+                            "page": 81,
+                            "hook": "How do we show when something happened - past, present, or future?",
+                            "teacher_steps": [
+                                "Introduce the concept of tense in Cinyanja",
+                                "Teach past, present, and future tenses",
+                                "Explain tense markers and verb modifications",
+                                "Demonstrate tense consistency in narratives",
+                                "Provide examples of each tense in context",
+                                "Guide practice with tense conversion exercises",
+                                "Show how tense affects meaning",
+                                "Assess tense usage through writing tasks"
+                            ],
+                            "learner_steps": [
+                                "Identify tense markers in sentences",
+                                "Recognize whether actions occurred in past, present, or future",
+                                "Practice forming verbs in different tenses",
+                                "Convert sentences from one tense to another",
+                                "Maintain tense consistency in their writing",
+                                "Use appropriate tense for different contexts",
+                                "Correct tense errors in given passages"
+                            ],
+                            "short_notes": "Tense indicates when an action occurs. In Cinyanja, verbs change form or use tense markers to show past, present, or future time. Understanding and correctly using tenses is essential for clear communication and accurate expression of time relationships in both speech and writing."
+                        }
+                    ],
+                    "short_notes": "Tense is a grammatical feature that locates actions in time. Cinyanja uses verb modifications and tense markers to indicate whether something happened in the past, is happening now, or will happen in the future. Consistent and correct use of tense is important for clarity in communication.",
+                    "vocabulary": [
+                        {
+                            "term": "Nthawi",
+                            "definition": "Tense; the form of a verb that shows when an action happens"
+                        },
+                        {
+                            "term": "Nthawi yakale",
+                            "definition": "Past tense; indicates actions that have already happened"
+                        },
+                        {
+                            "term": "Nthawi yapano",
+                            "definition": "Present tense; indicates actions happening now or generally"
+                        },
+                        {
+                            "term": "Nthawi ya mtsogolo",
+                            "definition": "Future tense; indicates actions that will happen"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 85,
+                        "questions": [
+                            "Rewrite these sentences in past tense",
+                            "Rewrite these sentences in future tense",
+                            "Identify the tense of each underlined verb",
+                            "Correct the tense errors in this paragraph",
+                            "Write a short paragraph about your weekend using past tense consistently",
+                            "Write about your plans for next year using future tense"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "4.0",
+            "topic_title": "Mawu ndi Matanthauzo awo (Vocabulary and Meanings)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "4.1",
+                    "title": "Mawu atsopano (New vocabulary)",
+                    "page": 90,
+                    "competences": [
+                        "Learn and use new vocabulary words",
+                        "Determine word meanings from context",
+                        "Apply vocabulary in speaking and writing"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.1.1",
+                            "page": 91,
+                            "hook": "What strategies can you use to learn and remember new words?",
+                            "teacher_steps": [
+                                "Introduce new vocabulary in meaningful contexts",
+                                "Explain word meanings with examples",
+                                "Teach vocabulary learning strategies",
+                                "Demonstrate use of words in sentences",
+                                "Provide practice activities for word usage",
+                                "Encourage use of vocabulary in speaking",
+                                "Guide vocabulary journal keeping",
+                                "Assess vocabulary acquisition through various methods"
+                            ],
+                            "learner_steps": [
+                                "Learn meanings of new words",
+                                "Use context clues to determine unfamiliar words",
+                                "Create sentences using new vocabulary",
+                                "Keep a personal vocabulary journal",
+                                "Practice using new words in discussions",
+                                "Apply vocabulary in writing assignments",
+                                "Review and reinforce learned vocabulary regularly"
+                            ],
+                            "short_notes": "Vocabulary development is essential for language proficiency. Learners expand their Cinyanja vocabulary through exposure to new words in various contexts, active practice, and systematic learning strategies. Building a strong vocabulary improves both comprehension and expression."
+                        }
+                    ],
+                    "short_notes": "Vocabulary knowledge is fundamental to language ability. Learning new words in Cinyanja involves understanding their meanings, proper usage, and how they relate to other words. Consistent practice and application in real contexts help learners retain and effectively use new vocabulary.",
+                    "vocabulary": [
+                        {
+                            "term": "Mawu atsopano",
+                            "definition": "New vocabulary; words that are being learned for the first time"
+                        },
+                        {
+                            "term": "Tanthauzo",
+                            "definition": "Meaning; the idea or concept that a word represents"
+                        },
+                        {
+                            "term": "Kugwiritsa ntchito mawu",
+                            "definition": "Word usage; the correct application of words in context"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 95,
+                        "questions": [
+                            "Define the following vocabulary words",
+                            "Use each new word in an original sentence",
+                            "Match words with their correct definitions",
+                            "Determine the meaning of underlined words using context clues",
+                            "Replace common words in these sentences with more precise vocabulary"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "4.2",
+                    "title": "Mawu ofanana ndi mawu osiyana (Synonyms and antonyms)",
+                    "page": 100,
+                    "competences": [
+                        "Identify synonyms and antonyms",
+                        "Use synonyms to vary word choice",
+                        "Understand relationships between words"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "4.2.1",
+                            "page": 101,
+                            "hook": "Why is it useful to know different words that mean the same or opposite things?",
+                            "teacher_steps": [
+                                "Define synonyms and antonyms",
+                                "Provide examples of word pairs",
+                                "Explain nuances in synonym meanings",
+                                "Teach how synonyms improve writing variety",
+                                "Demonstrate opposite relationships",
+                                "Guide practice with synonym/antonym identification",
+                                "Show application in context",
+                                "Assess understanding through exercises"
+                            ],
+                            "learner_steps": [
+                                "Identify synonyms for given words",
+                                "Find antonyms for vocabulary words",
+                                "Distinguish between similar words",
+                                "Replace repeated words with synonyms",
+                                "Use antonyms to show contrast",
+                                "Create word pairs showing opposite meanings",
+                                "Apply synonyms and antonyms in writing"
+                            ],
+                            "short_notes": "Understanding synonyms (words with similar meanings) and antonyms (words with opposite meanings) enriches vocabulary and improves communication. Synonyms allow for word variety and precise expression, while antonyms help in showing contrasts and understanding word relationships."
+                        }
+                    ],
+                    "short_notes": "Synonyms and antonyms are important vocabulary relationships. Knowing multiple words with similar or opposite meanings allows learners to express themselves more precisely and vary their word choice. This knowledge enhances both comprehension and expression in Cinyanja.",
+                    "vocabulary": [
+                        {
+                            "term": "Mawu ofanana",
+                            "definition": "Synonyms; words that have similar or nearly the same meanings"
+                        },
+                        {
+                            "term": "Mawu osiyana",
+                            "definition": "Antonyms; words that have opposite meanings"
+                        },
+                        {
+                            "term": "Kusiyana kwa tanthauzo",
+                            "definition": "Nuance in meaning; subtle differences between similar words"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 105,
+                        "questions": [
+                            "Provide two synonyms for each of the following words",
+                            "Write the antonym for each word",
+                            "Rewrite this paragraph replacing underlined words with appropriate synonyms",
+                            "Complete the sentences using antonyms of the words in brackets",
+                            "Explain the difference in nuance between these synonym pairs"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "5.0",
+            "topic_title": "Kulankhula (Speaking/Oral Communication)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "5.1",
+                    "title": "Kulankhulirana (Conversations and discussions)",
+                    "page": 110,
+                    "competences": [
+                        "Participate effectively in conversations",
+                        "Express ideas clearly in Cinyanja",
+                        "Listen actively and respond appropriately"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5.1.1",
+                            "page": 111,
+                            "hook": "What makes a good conversation? How do we communicate effectively in Cinyanja?",
+                            "teacher_steps": [
+                                "Model effective conversation skills",
+                                "Teach turn-taking and active listening",
+                                "Explain cultural norms in Cinyanja communication",
+                                "Provide conversation starters and topics",
+                                "Facilitate pair and group discussions",
+                                "Guide learners in expressing opinions",
+                                "Encourage use of appropriate language register",
+                                "Assess oral communication skills through observation"
+                            ],
+                            "learner_steps": [
+                                "Practice greeting and introducing themselves",
+                                "Engage in conversations with peers",
+                                "Take turns speaking and listening",
+                                "Ask and answer questions appropriately",
+                                "Express opinions and ideas clearly",
+                                "Use polite language and respect cultural norms",
+                                "Participate in group discussions",
+                                "Respond appropriately to others' comments"
+                            ],
+                            "short_notes": "Oral communication skills are essential for effective interaction. Learners practice conversing in Cinyanja, learning to express themselves clearly, listen actively, and engage appropriately in discussions. Cultural conventions and respectful communication are emphasized."
+                        }
+                    ],
+                    "short_notes": "Speaking and listening are fundamental language skills. Through conversations and discussions in Cinyanja, learners develop fluency, cultural awareness, and the ability to communicate effectively in various social contexts. Active participation and respectful interaction are key components.",
+                    "vocabulary": [
+                        {
+                            "term": "Kulankhula",
+                            "definition": "To speak; the act of verbal communication"
+                        },
+                        {
+                            "term": "Kulankhulirana",
+                            "definition": "Conversation; exchange of spoken words between people"
+                        },
+                        {
+                            "term": "Kumvetsera",
+                            "definition": "To listen carefully; paying attention to what is being said"
+                        },
+                        {
+                            "term": "Ulemu",
+                            "definition": "Respect; showing consideration and honor in communication"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 115,
+                        "questions": [
+                            "Participate in a conversation about a given topic",
+                            "Demonstrate appropriate greeting and introduction",
+                            "Ask and answer questions during a class discussion",
+                            "Express your opinion on a topic clearly and respectfully",
+                            "Show active listening by responding appropriately to peers' comments",
+                            "Conduct a short interview with a partner using Cinyanja"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "5.2",
+                    "title": "Kufotokoza (Descriptions and explanations)",
+                    "page": 120,
+                    "competences": [
+                        "Describe people, places, and things clearly",
+                        "Explain processes and concepts",
+                        "Use descriptive language effectively"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "5.2.1",
+                            "page": 121,
+                            "hook": "How can we paint a picture with words when describing something?",
+                            "teacher_steps": [
+                                "Teach descriptive vocabulary and adjectives",
+                                "Model detailed descriptions",
+                                "Explain how to organize descriptive information",
+                                "Demonstrate explaining processes step-by-step",
+                                "Provide opportunities for oral descriptions",
+                                "Guide use of sensory details",
+                                "Encourage vivid and specific language",
+                                "Assess descriptive speaking skills"
+                            ],
+                            "learner_steps": [
+                                "Use adjectives to describe nouns",
+                                "Describe people's appearance and character",
+                                "Describe places in detail",
+                                "Explain how to do something step-by-step",
+                                "Use sensory language (sight, sound, smell, touch, taste)",
+                                "Organize descriptions logically",
+                                "Practice describing objects for others to identify"
+                            ],
+                            "short_notes": "Descriptive speaking allows learners to convey detailed information about people, places, objects, and processes. Using rich vocabulary, adjectives, and sensory details, learners paint verbal pictures and explain concepts clearly to their audience."
+                        }
+                    ],
+                    "short_notes": "Description and explanation are important oral skills. Learners develop the ability to convey detailed information clearly and vividly in Cinyanja, using appropriate descriptive language, logical organization, and effective communication techniques.",
+                    "vocabulary": [
+                        {
+                            "term": "Kufotokoza",
+                            "definition": "To describe or explain; giving detailed information about something"
+                        },
+                        {
+                            "term": "Mafotokozedwe",
+                            "definition": "Descriptions; detailed accounts or representations"
+                        },
+                        {
+                            "term": "Tsatanetsatane",
+                            "definition": "Details; specific pieces of information"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 125,
+                        "questions": [
+                            "Describe your favorite place using vivid sensory details",
+                            "Explain how to prepare a traditional Zambian dish",
+                            "Describe a family member so others can identify them",
+                            "Give directions from school to your home clearly",
+                            "Explain a school routine or process to someone unfamiliar with it"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "topic_id": "6.0",
+            "topic_title": "Chikhalidwe ndi Miyambo (Culture and Traditions)",
+            "sub_topics": [
+                {
+                    "subtopic_id": "6.1",
+                    "title": "Miyambo ya Cinyanja (Cinyanja customs and traditions)",
+                    "page": 130,
+                    "competences": [
+                        "Understand Cinyanja cultural practices",
+                        "Appreciate traditional values and customs",
+                        "Express cultural knowledge in Cinyanja"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.1.1",
+                            "page": 131,
+                            "hook": "What are some important traditions in Cinyanja culture? Why are they important?",
+                            "teacher_steps": [
+                                "Introduce key Cinyanja cultural practices",
+                                "Discuss traditional ceremonies and their significance",
+                                "Explain cultural values and beliefs",
+                                "Share proverbs and their meanings",
+                                "Invite community members or elders to speak",
+                                "Facilitate cultural research activities",
+                                "Guide discussions on preserving traditions",
+                                "Assess cultural knowledge and understanding"
+                            ],
+                            "learner_steps": [
+                                "Research Cinyanja traditions and customs",
+                                "Interview elders about cultural practices",
+                                "Learn traditional proverbs and sayings",
+                                "Discuss the importance of various customs",
+                                "Present information about specific traditions",
+                                "Compare traditional and modern practices",
+                                "Reflect on their own cultural identity"
+                            ],
+                            "short_notes": "Understanding Cinyanja culture deepens language learning and identity. Learners explore traditional practices, ceremonies, values, and proverbs, gaining appreciation for their cultural heritage while developing vocabulary and expressions specific to cultural contexts."
+                        }
+                    ],
+                    "short_notes": "Culture and language are deeply interconnected. Learning about Cinyanja customs, traditions, ceremonies, and values provides context for language use and helps learners appreciate their cultural heritage. This knowledge enriches communication and strengthens cultural identity.",
+                    "vocabulary": [
+                        {
+                            "term": "Chikhalidwe",
+                            "definition": "Culture; the customs, traditions, and way of life of a people"
+                        },
+                        {
+                            "term": "Miyambo",
+                            "definition": "Traditions and customs; practices passed down through generations"
+                        },
+                        {
+                            "term": "Mwambo",
+                            "definition": "A ceremony or ritual; a traditional event or practice"
+                        },
+                        {
+                            "term": "Makolo",
+                            "definition": "Elders or ancestors; respected older members of the community"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 135,
+                        "questions": [
+                            "Describe an important Cinyanja traditional ceremony",
+                            "Explain the meaning of three traditional proverbs",
+                            "Discuss the role of elders in Cinyanja society",
+                            "Compare a traditional practice with its modern equivalent",
+                            "Present research about a specific aspect of Cinyanja culture",
+                            "Write about how traditional values are still relevant today"
+                        ]
+                    }
+                },
+                {
+                    "subtopic_id": "6.2",
+                    "title": "Nthano ndi Miyambo (Folktales and oral traditions)",
+                    "page": 140,
+                    "competences": [
+                        "Understand and retell traditional folktales",
+                        "Recognize moral lessons in stories",
+                        "Appreciate oral literature traditions"
+                    ],
+                    "instructional_blocks": [
+                        {
+                            "type": "activity",
+                            "activity_number": "6.2.1",
+                            "page": 141,
+                            "hook": "What can we learn from traditional Cinyanja stories and folktales?",
+                            "teacher_steps": [
+                                "Share traditional Cinyanja folktales",
+                                "Discuss storytelling techniques",
+                                "Explain moral lessons and themes",
+                                "Teach traditional story opening and closing formulas",
+                                "Guide analysis of characters and plot",
+                                "Encourage retelling and dramatization",
+                                "Facilitate creative story adaptations",
+                                "Assess comprehension and storytelling skills"
+                            ],
+                            "learner_steps": [
+                                "Listen to traditional folktales",
+                                "Identify main characters and events",
+                                "Discuss moral lessons from stories",
+                                "Practice retelling stories in their own words",
+                                "Perform stories dramatically",
+                                "Create their own stories using traditional patterns",
+                                "Compare different versions of similar tales"
+                            ],
+                            "short_notes": "Folktales are an important part of Cinyanja oral tradition. Through these stories, learners engage with cultural values, develop narrative skills, and understand how communities pass down wisdom and entertainment through generations. The moral lessons remain relevant today."
+                        }
+                    ],
+                    "short_notes": "Oral traditions, including folktales, proverbs, and songs, are fundamental to Cinyanja culture. These narratives convey cultural values, teach life lessons, and preserve history. Engaging with oral literature helps learners appreciate their heritage while developing language and analytical skills.",
+                    "vocabulary": [
+                        {
+                            "term": "Nthano",
+                            "definition": "Folktale or traditional story; narratives passed down orally through generations"
+                        },
+                        {
+                            "term": "Mphuzitso",
+                            "definition": "Moral or lesson; the teaching or message in a story"
+                        },
+                        {
+                            "term": "Kufotokozera nthano",
+                            "definition": "Storytelling; the art of narrating traditional tales"
+                        },
+                        {
+                            "term": "Nyama za m'nthano",
+                            "definition": "Animal characters; animals that speak and act like humans in folktales"
+                        }
+                    ],
+                    "assessment": {
+                        "page": 145,
+                        "questions": [
+                            "Retell a traditional Cinyanja folktale you have learned",
+                            "What is the moral lesson of this story? Explain how it applies to modern life",
+                            "Perform a folktale dramatically with a group",
+                            "Compare two folktales and discuss their similarities and differences",
+                            "Create your own story following traditional folktale patterns",
+                            "Explain why oral traditions are important for preserving culture"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

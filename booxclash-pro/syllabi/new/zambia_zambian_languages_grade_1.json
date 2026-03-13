@@ -1,0 +1,493 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "1",
+    "subject": "Zambian Languages",
+    "philosophy": "The focus of teaching Literacy and Language in Zambian Languages from Grade 1 to 3 is to develop the learners’ basic reading and writing skills as well as to enhance their listening and speaking skills. These components will enhance the development of listening, speaking, reading and writing skills. The competences acquired at this level will prepare learners for learning at subsequent levels. Although the components are presented separately in this syllabus, teachers are required to integrate them at lesson delivery. This entails that at preparation stage the syllabus should be broken down into schemes of work and weekly forecast which will contain these components – listening and speaking, reading, vocabulary, comprehension and writing. The teaching of Literacy and Language will follow Constructivist principles, where the teacher provides learners with experiences that allow them to hypothesise, predict, manipulate objects, pose questions, research, investigate, imagine, and invent. It will make use of systematic synthetic phonics, which involves the explicit teaching of key literacy skills: phonological and phonemic awareness, phonics, vocabulary, reading, comprehension and writing skills. In synthetic phonics, learners are taught letter sounds that they blend to be able to read as opposed to analytic phonics where learners are taught to recognise whole words by sight, and later to break down the word into the smaller units. Generally, lesson delivery should follow the Gradual Release Model (GRM), where the teacher starts by demonstrating the activity, then doing the activity with the learners and finally learners doing the activity independently. Furthermore, a variety of teaching techniques should be employed in order to meet different learning needs of learners.",
+    "competence_learning": "1. Analytical Thinking: Identify patterns. 2. Communication: Demonstrate good listening, speaking and writing skills; Use appropriate language in different situations; Express oneself clearly and effectively; Take turns in conversing with others. 3. Creativity And Innovation: Communicate one’s ideas to others; Ask questions. 4. Collaboration: Work with peers in group work. 5. Critical Thinking: Ask questions; Work in groups and engage in discussion; Classify items according to their attributes; Manipulate different objects. 6. Digital Literacy: Develop simple hand-eye coordination with digital devices. 7. Emotional Intelligence: Communicate with others; Work together; Show sympathy. 8. Entrepreneurship: Use language to demonstrate simple economic concepts like buying and selling; Role – play simple entrepreneurial activities. 9. PROBLEM SOLVING: Use knowledge of the alphabet to construct new words.",
+    "goals": [
+      "Develop learners' basic reading and writing skills as well as enhance their listening and speaking skills.",
+      "Prepare learners for learning at subsequent levels through acquired competences."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "1.1",
+      "topic_title": "STORIES",
+      "page_number": 65,
+      "subtopics": [
+        "1.1.1 Listening to Stories"
+      ],
+      "specific_outcomes": [
+        "1.1.1.1 Listen to stories"
+      ]
+    },
+    {
+      "unit": "1.1",
+      "topic_title": "STORIES",
+      "page_number": 65,
+      "subtopics": [
+        "1.1.2 Story Telling"
+      ],
+      "specific_outcomes": [
+        "1.1.2.1 Tell stories creatively"
+      ]
+    },
+    {
+      "unit": "1.2",
+      "topic_title": "CONVERSATIONS",
+      "page_number": 65,
+      "subtopics": [
+        "1.2.1 Information and Explanations"
+      ],
+      "specific_outcomes": [
+        "1.2.1.1 Use complete sentences to communicate information",
+        "1.1.2.2 Ask relevant questions to get better understanding and knowledge"
+      ]
+    },
+    {
+      "unit": "1.2",
+      "topic_title": "CONVERSATIONS",
+      "page_number": 65,
+      "subtopics": [
+        "1.2.2 Discussions"
+      ],
+      "specific_outcomes": [
+        "1.2.2.1 Use appropriate language when talking to adults and friends"
+      ]
+    },
+    {
+      "unit": "1.2",
+      "topic_title": "CONVERSATIONS",
+      "page_number": 66,
+      "subtopics": [
+        "1.2.2 Discussions"
+      ],
+      "specific_outcomes": [
+        "1.2.2.2 Participate in discussions using complete sentences"
+      ]
+    },
+    {
+      "unit": "1.2",
+      "topic_title": "CONVERSATIONS",
+      "page_number": 66,
+      "subtopics": [
+        "1.2.3 Greetings"
+      ],
+      "specific_outcomes": [
+        "1.2.3.1 Use appropriate greetings"
+      ]
+    },
+    {
+      "unit": "1.2",
+      "topic_title": "CONVERSATIONS",
+      "page_number": 66,
+      "subtopics": [
+        "1.2.4 Debate"
+      ],
+      "specific_outcomes": [
+        "1.2.4.1 Participate in simple debates"
+      ]
+    },
+    {
+      "unit": "1.3",
+      "topic_title": "DESCRIPTIONS",
+      "page_number": 67,
+      "subtopics": [
+        "1.3.1 People"
+      ],
+      "specific_outcomes": [
+        "1.3.1.1 Give physical descriptions of people"
+      ]
+    },
+    {
+      "unit": "1.3",
+      "topic_title": "DESCRIPTIONS",
+      "page_number": 67,
+      "subtopics": [
+        "1.3.2 Places"
+      ],
+      "specific_outcomes": [
+        "1.3.2.1 Give descriptions of places"
+      ]
+    },
+    {
+      "unit": "1.3",
+      "topic_title": "DESCRIPTIONS",
+      "page_number": 67,
+      "subtopics": [
+        "1.3.3 Objects"
+      ],
+      "specific_outcomes": [
+        "1.3.3.1 Give descriptions of objects"
+      ]
+    },
+    {
+      "unit": "1.4",
+      "topic_title": "DRAMA",
+      "page_number": 68,
+      "subtopics": [
+        "1.4.1 Role Play"
+      ],
+      "specific_outcomes": [
+        "1.4.1.1 Participate in role play using appropriate vocabulary"
+      ]
+    },
+    {
+      "unit": "1.5",
+      "topic_title": "RIDDLES AND TONGUE TWISTERS",
+      "page_number": 68,
+      "subtopics": [
+        "1.5.1 Riddles"
+      ],
+      "specific_outcomes": [
+        "1.5.1.1 Say and respond to riddles"
+      ]
+    },
+    {
+      "unit": "1.5",
+      "topic_title": "RIDDLES AND TONGUE TWISTERS",
+      "page_number": 68,
+      "subtopics": [
+        "1.5.2 Tongue twisters"
+      ],
+      "specific_outcomes": [
+        "1.5.2.1 Recite tongue twisters"
+      ]
+    },
+    {
+      "unit": "1.6",
+      "topic_title": "PRINT CONCEPTS",
+      "page_number": 69,
+      "subtopics": [
+        "1.6.1 Book Handling"
+      ],
+      "specific_outcomes": [
+        "1.6.1.1 Handle books"
+      ]
+    },
+    {
+      "unit": "1.6",
+      "topic_title": "PRINT CONCEPTS",
+      "page_number": 69,
+      "subtopics": [
+        "1.6.2 Print Identification"
+      ],
+      "specific_outcomes": [
+        "1.6.2.1 Discriminate print",
+        "1.6.2.2 Interpret pictures"
+      ]
+    },
+    {
+      "unit": "1.7",
+      "topic_title": "PHONOLOGICAL AWARENESS",
+      "page_number": 69,
+      "subtopics": [
+        "1.7.1 Phonemic Awareness"
+      ],
+      "specific_outcomes": [
+        "1.7.1.1 Identify and manipulate phonemes"
+      ]
+    },
+    {
+      "unit": "1.7",
+      "topic_title": "PHONOLOGICAL AWARENESS",
+      "page_number": 70,
+      "subtopics": [
+        "1.7.2 Syllables"
+      ],
+      "specific_outcomes": [
+        "1.7.2.1 Identify and manipulate syllables"
+      ]
+    },
+    {
+      "unit": "1.7",
+      "topic_title": "PHONOLOGICAL AWARENESS",
+      "page_number": 70,
+      "subtopics": [
+        "1.7.3 Word Awareness"
+      ],
+      "specific_outcomes": [
+        "1.7.3.1 Identify words in spoken sentences"
+      ]
+    },
+    {
+      "unit": "1.8",
+      "topic_title": "PHONICS",
+      "page_number": 70,
+      "subtopics": [
+        "1.8.1 Letter Sounds"
+      ],
+      "specific_outcomes": [
+        "1.8.1.1 Sound out letters"
+      ]
+    },
+    {
+      "unit": "1.8",
+      "topic_title": "PHONICS",
+      "page_number": 70,
+      "subtopics": [
+        "1.8.2 Syllables"
+      ],
+      "specific_outcomes": [
+        "1.8.2.1 Blend consonants and vowels to form syllables"
+      ]
+    },
+    {
+      "unit": "1.8",
+      "topic_title": "PHONICS",
+      "page_number": 71,
+      "subtopics": [
+        "1.8.3 Words"
+      ],
+      "specific_outcomes": [
+        "1.8.3.1 Blend syllables to form words"
+      ]
+    },
+    {
+      "unit": "1.9",
+      "topic_title": "READING FLUENCY",
+      "page_number": 71,
+      "subtopics": [
+        "1.9.1 Oral Reading"
+      ],
+      "specific_outcomes": [
+        "1.9.1.1 Read syllables aloud",
+        "1.9.1.2 Read words aloud with correct pronunciation",
+        "1.9.1.3 Read texts aloud with correct pronunciation and expression",
+        "1.9.1.4 Read own writing fluently"
+      ]
+    },
+    {
+      "unit": "1.10",
+      "topic_title": "WORDS",
+      "page_number": 72,
+      "subtopics": [
+        "1.10.1 Word Recognition"
+      ],
+      "specific_outcomes": [
+        "1.10.1.1 Recognise simple words"
+      ]
+    },
+    {
+      "unit": "1.11",
+      "topic_title": "NOUNS",
+      "page_number": 72,
+      "subtopics": [
+        "1.11.1 Proper and Common Nouns"
+      ],
+      "specific_outcomes": [
+        "1.11.1.1 Identify proper and common nouns"
+      ]
+    },
+    {
+      "unit": "1.11",
+      "topic_title": "NOUNS",
+      "page_number": 72,
+      "subtopics": [
+        "1.11.2 Singular and Plural Nouns"
+      ],
+      "specific_outcomes": [
+        "1.11.2.1 Form plural and singular nouns"
+      ]
+    },
+    {
+      "unit": "1.12",
+      "topic_title": "LISTENING COMPREHENSION",
+      "page_number": 73,
+      "subtopics": [
+        "1.12.1 Simple Inferences"
+      ],
+      "specific_outcomes": [
+        "1.12.1.1 Draw simple inferences from the information they have heard"
+      ]
+    },
+    {
+      "unit": "1.12",
+      "topic_title": "LISTENING COMPREHENSION",
+      "page_number": 73,
+      "subtopics": [
+        "1.12.2 Main Idea"
+      ],
+      "specific_outcomes": [
+        "1.12.2.1 Identify and express the main idea of the information they have listened to"
+      ]
+    },
+    {
+      "unit": "1.12",
+      "topic_title": "LISTENING COMPREHENSION",
+      "page_number": 73,
+      "subtopics": [
+        "1.12.3 Fact and Opinion"
+      ],
+      "specific_outcomes": [
+        "1.12.3.1 Differentiate fact from opinion."
+      ]
+    },
+    {
+      "unit": "1.12",
+      "topic_title": "LISTENING COMPREHENSION",
+      "page_number": 73,
+      "subtopics": [
+        "1.12.4 Life Experiences"
+      ],
+      "specific_outcomes": [
+        "1.12.4.1 Link their own life experiences to what they listen to"
+      ]
+    },
+    {
+      "unit": "1.12",
+      "topic_title": "LISTENING COMPREHENSION",
+      "page_number": 73,
+      "subtopics": [
+        "1.12.5 Word Meaning"
+      ],
+      "specific_outcomes": [
+        "1.12.5.1 Deduce meaning of unfamiliar grade level words"
+      ]
+    },
+    {
+      "unit": "1.13",
+      "topic_title": "READING COMPREHENSION",
+      "page_number": 74,
+      "subtopics": [
+        "1.13.1 Story Facts"
+      ],
+      "specific_outcomes": [
+        "1.13.1.1 Provide explicitly stated information in a given text"
+      ]
+    },
+    {
+      "unit": "1.13",
+      "topic_title": "READING COMPREHENSION",
+      "page_number": 74,
+      "subtopics": [
+        "1.13.2 Simple Inferences"
+      ],
+      "specific_outcomes": [
+        "1.13.2.1 Make simple inferences of what they read"
+      ]
+    },
+    {
+      "unit": "1.13",
+      "topic_title": "READING COMPREHENSION",
+      "page_number": 74,
+      "subtopics": [
+        "1.13.3 Predictions"
+      ],
+      "specific_outcomes": [
+        "1.13.3.1 Make predictions based on given information"
+      ]
+    },
+    {
+      "unit": "1.14",
+      "topic_title": "PRE-WRITING",
+      "page_number": 75,
+      "subtopics": [
+        "1.14.1 Sitting Posture"
+      ],
+      "specific_outcomes": [
+        "1.14.1.1 Demonstrate correct posture when writing"
+      ]
+    },
+    {
+      "unit": "1.14",
+      "topic_title": "PRE-WRITING",
+      "page_number": 75,
+      "subtopics": [
+        "1.14.2 Writing Tools"
+      ],
+      "specific_outcomes": [
+        "1.14.2.1 Handle writing tools"
+      ]
+    },
+    {
+      "unit": "1.14",
+      "topic_title": "PRE-WRITING",
+      "page_number": 75,
+      "subtopics": [
+        "1.14.3 Drawing"
+      ],
+      "specific_outcomes": [
+        "1.14.3.1 Draw different objects."
+      ]
+    },
+    {
+      "unit": "1.15",
+      "topic_title": "HANDWRITING",
+      "page_number": 75,
+      "subtopics": [
+        "1.15.1 Letter Formation"
+      ],
+      "specific_outcomes": [
+        "1.15.1.1 Write letters"
+      ]
+    },
+    {
+      "unit": "1.15",
+      "topic_title": "HANDWRITING",
+      "page_number": 75,
+      "subtopics": [
+        "1.15.2 Manuscript Handwriting"
+      ],
+      "specific_outcomes": [
+        "1.15.2.1 Write words legibly in manuscript form"
+      ]
+    },
+    {
+      "unit": "1.15",
+      "topic_title": "HANDWRITING",
+      "page_number": 75,
+      "subtopics": [
+        "1.15.3 Word Spacing"
+      ],
+      "specific_outcomes": [
+        "1.15.3.1 Spacing words"
+      ]
+    },
+    {
+      "unit": "1.16",
+      "topic_title": "COMPOSITION",
+      "page_number": 75,
+      "subtopics": [
+        "1.16.1 Drawing"
+      ],
+      "specific_outcomes": [
+        "1.16.1.1 Communicate ideas through drawing"
+      ]
+    },
+    {
+      "unit": "1.16",
+      "topic_title": "COMPOSITION",
+      "page_number": 76,
+      "subtopics": [
+        "1.16.2 Punctuation Marks"
+      ],
+      "specific_outcomes": [
+        "1.16.2.1 Use the main punctuation marks (capital letters and full stop)"
+      ]
+    },
+    {
+      "unit": "1.16",
+      "topic_title": "COMPOSITION",
+      "page_number": 76,
+      "subtopics": [
+        "1.16.3 Sentences"
+      ],
+      "specific_outcomes": [
+        "1.16.3.1 Write a complete sentence"
+      ]
+    },
+    {
+      "unit": "1.16",
+      "topic_title": "COMPOSITION",
+      "page_number": 76,
+      "subtopics": [
+        "1.16.4 Simple Story"
+      ],
+      "specific_outcomes": [
+        "1.16.4.1 Write a simple story of 2 to 3 sentences"
+      ]
+    }
+  ]
+}

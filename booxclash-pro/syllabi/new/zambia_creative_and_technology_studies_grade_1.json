@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "1",
+    "subject": "Creative and Technology Studies",
+    "philosophy": "Creative and Technology Studies (CTS) is an interdisciplinary field that combines creativity, technology and innovation to develop practical solutions. Hence this CTS Syllabus is a combination of Expressive Arts, Home Economics and Hospitality (HEH), Information and Communication Technology (ICT) and Technology Studies. The learning area also includes some aspects of Social Studies and Cross -cutting issues such as financial education, entrepreneurship, environmental health and pollution management. This integration has been necessitated in order to provide learners with a unique experience of appreciating the concepts that the various learning areas endeavor to provide. This syllabus will help learners to apply critical thinking and creativity in order to meet various societal needs. The CTS syllabus provides a platform on which learners acquire background knowledge on the various subject disciplines that learners will have to do at higher grade levels. It places emphasis on the development of practical skills and enhancement of talents, creativity, self expression and sense of aesthetic. With this in mind, it is important that the subject is introduced to learners at a tender age. This is the best time because at this age, learners have delight in exploring their surroundings; enjoy making, dismantling, examining and experimenting. The main thrust of this learning area is to provide an opportunity for learners to use available materials, put their capability to work and to develop products that meet their real needs and wants.",
+    "competence_learning": "Collaboration; Analytical thinking; Critical thinking; Communication; Creativity and innovation; Digital literacy; Problem solving; Environmental sustainability; Entrepreneurship; Financial Literacy; Emotional Intelligence; Citizenship",
+    "goals": [
+      "This syllabus will help learners to apply critical thinking and creativity in order to meet various societal needs.",
+      "It places emphasis on the development of practical skills and enhancement of talents, creativity, self expression and sense of aesthetic.",
+      "The main thrust of this learning area is to provide an opportunity for learners to use available materials, put their capability to work and to develop products that meet their real needs and wants."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "1.1",
+      "topic_title": "SAFETY",
+      "page_number": 137,
+      "subtopics": [
+        "Safety in the immediate environment",
+        "Body Posture"
+      ],
+      "specific_outcomes": [
+        "1.1.1.1 Apply safety in the immediate environment",
+        "1.1.2.1 Demonstrate correct"
+      ]
+    },
+    {
+      "unit": "1.2",
+      "topic_title": "DRAWING AND COLOURING",
+      "page_number": 138,
+      "subtopics": [
+        "Free Hand Sketching",
+        "Free Drawing",
+        "Colouring"
+      ],
+      "specific_outcomes": [
+        "1.2.1.1 Sketch simple objects",
+        "1.2.2.1 Draw pictures of objects",
+        "1.2.3.1 Draw pictures showing activities",
+        "1.2.3.2 Paint pictures based on given themes"
+      ]
+    },
+    {
+      "unit": "1.3",
+      "topic_title": "TOOLS AND EQUIPMENT",
+      "page_number": 138,
+      "subtopics": [
+        "Hand Tools",
+        "Kitchen Utensils"
+      ],
+      "specific_outcomes": [
+        "1.3.1.1 Use hand tools",
+        "1.3.2.1 Use kitchen utensils"
+      ]
+    },
+    {
+      "unit": "1.4",
+      "topic_title": "MATERIALS",
+      "page_number": 139,
+      "subtopics": [
+        "Sources of Materials",
+        "Material Conservation",
+        "Use of Materials"
+      ],
+      "specific_outcomes": [
+        "1.4.1.1 Identify sources of materials used to make things",
+        "1.4.2.1 Practise ways of conserving materials",
+        "1.4.3.1 Use locally available materials to make products"
+      ]
+    },
+    {
+      "unit": "1.5",
+      "topic_title": "PATTERNS",
+      "page_number": 140,
+      "subtopics": [
+        "Simple Patterns"
+      ],
+      "specific_outcomes": [
+        "1.5.1.1 Make simple patterns"
+      ]
+    },
+    {
+      "unit": "1.6",
+      "topic_title": "SOUNDS",
+      "page_number": 140,
+      "subtopics": [
+        "Exploration of Sounds"
+      ],
+      "specific_outcomes": [
+        "1.6.1.1 Produce different sounds"
+      ]
+    },
+    {
+      "unit": "1.7",
+      "topic_title": "DRAMA",
+      "page_number": 140,
+      "subtopics": [
+        "Drama"
+      ],
+      "specific_outcomes": [
+        "1.6.1.2 Practise simple plays."
+      ]
+    },
+    {
+      "unit": "1.8",
+      "topic_title": "HOSPITALITY",
+      "page_number": 140,
+      "subtopics": [
+        "Customer Service",
+        "Cleaning"
+      ],
+      "specific_outcomes": [
+        "1.8.1.1 Perform customer service skills",
+        "1.8.2.1 Clean rooms using different items."
+      ]
+    },
+    {
+      "unit": "1.9",
+      "topic_title": "ICT DEVICES IN EVERYDAY LIFE",
+      "page_number": 141,
+      "subtopics": [
+        "ICT Devices"
+      ],
+      "specific_outcomes": [
+        "1.9.1.1 Use ICT devices"
+      ]
+    },
+    {
+      "unit": "1.10",
+      "topic_title": "COMPUTER SOFTWARE",
+      "page_number": 141,
+      "subtopics": [
+        "Computer Educational Games"
+      ],
+      "specific_outcomes": [
+        "1.10.1.1.Play computer educational games"
+      ]
+    },
+    {
+      "unit": "1.11",
+      "topic_title": "HEALTH AND FITNESS MANAGEMENT",
+      "page_number": 141,
+      "subtopics": [
+        "Fitness and health",
+        "Educational Gymnastics"
+      ],
+      "specific_outcomes": [
+        "1.11.1.1 Perform fitness and health activities",
+        "1.11.2.1 Perform tumbling activities",
+        "1.11.2.2 Perform stunt activities"
+      ]
+    },
+    {
+      "unit": "1.12",
+      "topic_title": "TOURISM",
+      "page_number": 142,
+      "subtopics": [
+        "Cultures and Landmarks"
+      ],
+      "specific_outcomes": [
+        "1.12.1.1Explore different cultures in the community.",
+        "1.12.1.2Locate landmarks using cardinal points"
+      ]
+    },
+    {
+      "unit": "1.13",
+      "topic_title": "SPORTS SKILLS DEVELOPMENT",
+      "page_number": 142,
+      "subtopics": [
+        "Games",
+        "Field and Track Events"
+      ],
+      "specific_outcomes": [
+        "1.13.1.1.Perform games",
+        "1.13.2.1Perform Field and Track Events"
+      ]
+    },
+    {
+      "unit": "1.14",
+      "topic_title": "NEEDLEWORK",
+      "page_number": 143,
+      "subtopics": [
+        "Needlework Tools"
+      ],
+      "specific_outcomes": [
+        "1.14.1.1 Use small needlework tools"
+      ]
+    },
+    {
+      "unit": "1.15",
+      "topic_title": "GRAPHIC COMMUNICATION",
+      "page_number": 144,
+      "subtopics": [
+        "Lines"
+      ],
+      "specific_outcomes": [
+        "1.15.1.1 Draw different types of lines"
+      ]
+    },
+    {
+      "unit": "1.16",
+      "topic_title": "CRAFTS",
+      "page_number": 144,
+      "subtopics": [
+        "Paper Crafts",
+        "Modeling"
+      ],
+      "specific_outcomes": [
+        "1.16.1.1Make items using paper",
+        "1.16.1.2 Make different pictures using collage technique",
+        "1.16.2.1 Model objects using clay"
+      ]
+    },
+    {
+      "unit": "1.17",
+      "topic_title": "LETTERING",
+      "page_number": 145,
+      "subtopics": [
+        "Letters of the Alphabet"
+      ],
+      "specific_outcomes": [
+        "1.17.1.1 Design letters of the alphabet"
+      ]
+    },
+    {
+      "unit": "1.18",
+      "topic_title": "SWIMMING",
+      "page_number": 145,
+      "subtopics": [
+        "Pool Hygiene"
+      ],
+      "specific_outcomes": [
+        "1.18.1.1 Apply rules on pool hygiene"
+      ]
+    },
+    {
+      "unit": "1.19",
+      "topic_title": "STRUCTURES",
+      "page_number": 145,
+      "subtopics": [
+        "Types of Structures"
+      ],
+      "specific_outcomes": [
+        "1.19.1.1 Identify types of structures"
+      ]
+    },
+    {
+      "unit": "1.20",
+      "topic_title": "ENTREPRENEURSHIP",
+      "page_number": 145,
+      "subtopics": [
+        "Entrepreneur"
+      ],
+      "specific_outcomes": [
+        "1.20.1.1.Demonstrate knowledge on the roles of an entrepreneur"
+      ]
+    }
+  ]
+}

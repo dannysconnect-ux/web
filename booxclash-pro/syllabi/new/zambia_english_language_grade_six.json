@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "6",
+    "subject": "English Language",
+    "philosophy": "The English Language Syllabus for Upper Primary Schools has been developed to meet the needs of learners in Grade 4 to 6. It is designed to help them develop essential skills in listening, reading, speaking, writing, creating, and reflecting upon increasingly intricate spoken, written, and multimodal texts. The aim is to foster accuracy, fluency, and purpose in communication, aligning with the Competence-Based Curriculum of the 21st Century. Moreover, the syllabus endeavours to instil knowledge, skills, values, and positive attitudes, nurturing children to become productive and beneficial members of both their communities and Zambian society. This syllabus builds upon the foundations laid at Lower Primary level. The content outlined in this syllabus is tailored towards enhancing language skills for effective communication and learning across various subjects. The suggested learning activities are carefully designed to expose learners to linguistic practice, fostering proficiency through consistent engagement. It is envisioned that this syllabus will enrich the learning experience at the Upper Primary School level, making it more meaningful and enjoyable. Its activity-oriented approach is intended to promote engagement and pave the way for a seamless transition into secondary education.",
+    "competence_learning": "The New English Language Syllabus adopts a Competence-Based Approach, emphasising the practical skills learners will acquire rather than mere knowledge. Specifically designed to build upon the literacy skills developed in Lower Primary Grades (1-3), the Upper Primary English syllabus covers Grade 4 to 6. English Language teaching at Upper Primary level seeks to develop critical thinking skills, among others. At this level, learners are encouraged to analyse and interpret texts, make connections between ideas, and form opinions based on evidence. The focus of this Syllabus is the attainment of basic communication proficiency in real life situations, and development of language as a tool for learning content subjects. As learners progress through their education, proficiency in English becomes increasingly important. Learning of English Language opens doors to higher education opportunities and future career prospects.",
+    "goals": [
+      "Foster accuracy, fluency, and purpose in communication, aligning with the Competence-Based Curriculum of the 21st Century.",
+      "Instil knowledge, skills, values, and positive attitudes, nurturing children to become productive and beneficial members of both their communities and Zambian society."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "6.1.1",
+      "topic_title": "DIALOGUE",
+      "page_number": 36,
+      "subtopics": [
+        "6.1.1.1. Interviews"
+      ],
+      "specific_outcomes": [
+        "6.1.1.2. Use appropriate language in an interview"
+      ]
+    },
+    {
+      "unit": "6.1.2",
+      "topic_title": "DEBATE",
+      "page_number": 36,
+      "subtopics": [
+        "6.1.2.1. Debate Presentation"
+      ],
+      "specific_outcomes": [
+        "6.1.2.1.1. Use appropriate language to argue for or against a given topic"
+      ]
+    },
+    {
+      "unit": "6.1.3",
+      "topic_title": "LANGUAGE IN A SOCIAL SETTING",
+      "page_number": 37,
+      "subtopics": [
+        "6.1.3.1. Polite Expressions"
+      ],
+      "specific_outcomes": [
+        "6.1.3.1.1. Use polite expressions in various social settings"
+      ]
+    },
+    {
+      "unit": "6.1.4",
+      "topic_title": "DRAMA",
+      "page_number": 37,
+      "subtopics": [
+        "6.1.4.1. Short Plays"
+      ],
+      "specific_outcomes": [
+        "6.1.4.1.1. Use acceptable language to dramatise short plays"
+      ]
+    },
+    {
+      "unit": "6.1.5",
+      "topic_title": "POETRY",
+      "page_number": 37,
+      "subtopics": [
+        "6.1.5.1. Reciting Poems"
+      ],
+      "specific_outcomes": [
+        "6.1.5.1.1. Recite poems"
+      ]
+    },
+    {
+      "unit": "6.2.1",
+      "topic_title": "LISTENING COMPREHENSION",
+      "page_number": 37,
+      "subtopics": [
+        "6.2.1.1. Oral Comprehension"
+      ],
+      "specific_outcomes": [
+        "6.2.1.1.1. Comprehend spoken language"
+      ]
+    },
+    {
+      "unit": "6.2.2",
+      "topic_title": "READING COMPREHENSION",
+      "page_number": 38,
+      "subtopics": [
+        "6.2.2.1. Intensive Reading",
+        "6.2.2.2. Extensive Reading"
+      ],
+      "specific_outcomes": [
+        "6.2.2.1.1. Read a variety of texts with comprehension",
+        "6.2.2.2.1. Read a variety of texts for enjoyment"
+      ]
+    },
+    {
+      "unit": "6.2.3",
+      "topic_title": "READING FLUENCY",
+      "page_number": 38,
+      "subtopics": [
+        "6.2.3.1. Reading Aloud"
+      ],
+      "specific_outcomes": [
+        "6.2.3.1.1. Read texts aloud with fluency"
+      ]
+    },
+    {
+      "unit": "6.2.4",
+      "topic_title": "SHARED READING",
+      "page_number": 38,
+      "subtopics": [
+        "6.2.4.1. Fiction and Non-fiction"
+      ],
+      "specific_outcomes": [
+        "6.2.4.1.1. Read fiction and non-fiction stories"
+      ]
+    },
+    {
+      "unit": "6.2.5",
+      "topic_title": "USING REFERENCES",
+      "page_number": 38,
+      "subtopics": [
+        "6.2.5.1. Reference Materials"
+      ],
+      "specific_outcomes": [
+        "6.2.5.1.1. Use reference materials"
+      ]
+    },
+    {
+      "unit": "6.2.6",
+      "topic_title": "INTERPRETING INFORMATION",
+      "page_number": 39,
+      "subtopics": [
+        "6.2.6.1. Print Resources"
+      ],
+      "specific_outcomes": [
+        "6.2.6.1.1. Interpret information from print resources"
+      ]
+    },
+    {
+      "unit": "6.3.1",
+      "topic_title": "NARRATIVES",
+      "page_number": 39,
+      "subtopics": [
+        "6.3.1.1. Story Writing"
+      ],
+      "specific_outcomes": [
+        "6.3.1.1.1. Write stories"
+      ]
+    },
+    {
+      "unit": "6.3.2",
+      "topic_title": "ARGUMENTATIVE WRITING",
+      "page_number": 40,
+      "subtopics": [
+        "6.3.2.1. Argumentative Composition"
+      ],
+      "specific_outcomes": [
+        "6.3.2.1.1. Write argumentative compositions"
+      ]
+    },
+    {
+      "unit": "6.3.3",
+      "topic_title": "EXPOSITORY WRITING",
+      "page_number": 40,
+      "subtopics": [
+        "6.3.3.1. Informative Composition"
+      ],
+      "specific_outcomes": [
+        "6.3.3.1.1. Write factual information on given topics"
+      ]
+    },
+    {
+      "unit": "6.3.4",
+      "topic_title": "LETTER WRITING",
+      "page_number": 40,
+      "subtopics": [
+        "6.3.4.1. Formal Letter"
+      ],
+      "specific_outcomes": [
+        "6.3.4.1.1. Write a formal letter"
+      ]
+    },
+    {
+      "unit": "6.3.5",
+      "topic_title": "SUMMARY",
+      "page_number": 41,
+      "subtopics": [
+        "6.3.5.1. Note Summary"
+      ],
+      "specific_outcomes": [
+        "6.3.5.1.1. Write note summary"
+      ]
+    },
+    {
+      "unit": "6.3.6",
+      "topic_title": "PUNCTUATION",
+      "page_number": 41,
+      "subtopics": [
+        "6.3.6.1. Punctuation Marks"
+      ],
+      "specific_outcomes": [
+        "6.3.6.1.1. Use different punctuation marks in texts"
+      ]
+    },
+    {
+      "unit": "6.3.7",
+      "topic_title": "GUIDED WRITING",
+      "page_number": 41,
+      "subtopics": [
+        "6.3.7.1. Guided Composition"
+      ],
+      "specific_outcomes": [
+        "6.3.7.1.1. Write short passages using given notes"
+      ]
+    },
+    {
+      "unit": "6.3.8",
+      "topic_title": "SPELLING",
+      "page_number": 41,
+      "subtopics": [
+        "6.3.8.1. Word Spelling",
+        "6.3.8.2. Dictation"
+      ],
+      "specific_outcomes": [
+        "6.3.8.1.1. Spell words",
+        "6.3.8.2.1. Take dictation"
+      ]
+    },
+    {
+      "unit": "6.3.9",
+      "topic_title": "EXTRACTING INFORMATION",
+      "page_number": 42,
+      "subtopics": [
+        "6.3.9.1. Print Resources"
+      ],
+      "specific_outcomes": [
+        "6.3.9.1.1. Interpret information from print resources"
+      ]
+    },
+    {
+      "unit": "6.4.1",
+      "topic_title": "TENSES",
+      "page_number": 42,
+      "subtopics": [
+        "6.4.1.1. Perfect Tense"
+      ],
+      "specific_outcomes": [
+        "6.4.1.1.1. Use perfect tense in sentences."
+      ]
+    },
+    {
+      "unit": "6.4.2",
+      "topic_title": "NOUNS",
+      "page_number": 42,
+      "subtopics": [
+        "6.4.2.1. Different types of Nouns"
+      ],
+      "specific_outcomes": [
+        "6.4.2.1.1. Use different types of nouns in sentences"
+      ]
+    },
+    {
+      "unit": "6.4.3",
+      "topic_title": "VERBS",
+      "page_number": 43,
+      "subtopics": [
+        "6.4.3.1. Interrogative Verbs"
+      ],
+      "specific_outcomes": [
+        "6.4.3.1.1. Use interrogative verbs in sentences."
+      ]
+    },
+    {
+      "unit": "6.4.4",
+      "topic_title": "PRONOUNS",
+      "page_number": 43,
+      "subtopics": [
+        "6.4.4.1. Different Types of Pronouns"
+      ],
+      "specific_outcomes": [
+        "6.4.4.1.1. Use pronouns in sentences"
+      ]
+    },
+    {
+      "unit": "6.4.5",
+      "topic_title": "ADJECTIVES",
+      "page_number": 43,
+      "subtopics": [
+        "6.4.5.1. Superlatives"
+      ],
+      "specific_outcomes": [
+        "6.4.5.1.1. Use the superlative forms of adjectives in different situations"
+      ]
+    },
+    {
+      "unit": "6.4.6",
+      "topic_title": "PREPOSITIONS",
+      "page_number": 43,
+      "subtopics": [
+        "6.4.6.1. Prepositions of Measure and Possession"
+      ],
+      "specific_outcomes": [
+        "6.4.6.1.1. Use prepositions in various contexts"
+      ]
+    },
+    {
+      "unit": "6.4.7",
+      "topic_title": "CONJUNCTIONS",
+      "page_number": 44,
+      "subtopics": [
+        "6.4.7.1. Use of Conjunctions"
+      ],
+      "specific_outcomes": [
+        "6.4.7.1.1. Use conjunctions in sentences"
+      ]
+    },
+    {
+      "unit": "6.4.8",
+      "topic_title": "ADVERBS",
+      "page_number": 44,
+      "subtopics": [
+        "6.4.8.1. Adverbs of Frequency"
+      ],
+      "specific_outcomes": [
+        "6.4.8.1.1. Use adverbs of frequency in various contexts"
+      ]
+    },
+    {
+      "unit": "6.4.9",
+      "topic_title": "ACTIVE AND PASSIVE VOICE",
+      "page_number": 44,
+      "subtopics": [
+        "6.4.9.1. Active Voice",
+        "6.4.9.2. Passive Voice"
+      ],
+      "specific_outcomes": [
+        "6.4.9.1.1. Use active voice in sentences",
+        "6.4.9.2.1. Use passive voice in sentences"
+      ]
+    },
+    {
+      "unit": "6.4.10",
+      "topic_title": "AGREEMENT",
+      "page_number": 44,
+      "subtopics": [
+        "6.4.10.1. Subject Verb Agreement"
+      ],
+      "specific_outcomes": [
+        "6.4.10.1.1. Apply subject verb agreement in sentences"
+      ]
+    }
+  ]
+}

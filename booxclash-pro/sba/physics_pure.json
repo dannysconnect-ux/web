@@ -1,0 +1,175 @@
+{
+  "curriculum": "Zambia ECZ Physics Syllabus (5054) (Grades 10-12)",
+  "grades": [
+    {
+      "grade": 10,
+      "topics": [
+        {
+          "topic": "10.1 General Physics",
+          "subtopics": [
+            "10.1.1 International System of Units (SI)",
+            "10.1.2 Length and time",
+            "10.1.3 Mass and weight",
+            "10.1.4 Density"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate the use of various measuring instruments (e.g., rules, vernier calipers, and micrometer screw gauges) to determine length.",
+            "Demonstrate the use of clocks and devices for measuring an interval of time.",
+            "Investigate factors that affect the period of a simple pendulum.",
+            "Determine the density of irregularly shaped objects using the displacement method."
+          ]
+        },
+        {
+          "topic": "10.2 Mechanics",
+          "subtopics": [
+            "10.2.1 Scalars and vectors",
+            "10.2.2 Linear motion",
+            "10.2.3 Forces",
+            "10.2.4 Moment of forces",
+            "10.2.5 Work, Energy and Power",
+            "10.2.6 Simple machines",
+            "10.2.7 Pressure"
+          ],
+          "practical_and_experimental_content": [
+            "Investigate the relationship between mass and acceleration using trolleys and ticker tape timers.",
+            "Investigate the effect of force on a spring (Hooke's Law).",
+            "Demonstrate the effects of friction on the motion of a body.",
+            "Investigate the turning effect of a force (Principle of Moments).",
+            "Measure pressure using a mercury barometer and manometers."
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 11,
+      "topics": [
+        {
+          "topic": "11.3 Thermal Physics",
+          "subtopics": [
+            "11.3.1 Simple kinetic theory of Matter",
+            "11.3.2 Measurement of temperature",
+            "11.3.3 Expansion of solids, liquids and gases",
+            "11.3.4 The Engine",
+            "11.3.5 Heat transfer by conduction, convection and radiation",
+            "11.3.6 Measurements of heat"
+          ],
+          "practical_and_experimental_content": [
+            "Calibrate and use thermometers.",
+            "Experiment with the thermal expansion of solids, liquids, and gases.",
+            "Observe and demonstrate heat transfer in fluids (convection currents).",
+            "Experiment to distinguish between good and bad absorbers/emitters of radiant heat (e.g., shiny vs. dull surfaces).",
+            "Measure the specific heat capacity of solids and liquids experimentally (e.g., using the electrical method or method of mixtures)."
+          ]
+        },
+        {
+          "topic": "11.4 Wave Motion",
+          "subtopics": [
+            "11.4.1 Simple ideas of the wave motion theory",
+            "11.4.2 Propagation of waves",
+            "11.4.3 Electromagnetic spectrum"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate the propagation of waves using ripple tanks, springs, and ropes."
+          ]
+        },
+        {
+          "topic": "11.5 Sound",
+          "subtopics": [
+            "11.5.1 Properties of sound"
+          ],
+          "practical_and_experimental_content": [
+            "Investigate the properties of sound using tuning forks and sonometers.",
+            "Determine the speed of sound in air experimentally."
+          ]
+        },
+        {
+          "topic": "11.6 Light",
+          "subtopics": [
+            "11.6.1 Rectilinear propagation of light",
+            "11.6.2 Refraction of light"
+          ],
+          "practical_and_experimental_content": [
+            "Investigate the reflection of light using plane mirrors.",
+            "Perform experiments to trace the path of light through a rectangular glass block and a triangular prism.",
+            "Investigate the focal length of converging and diverging lenses using optical pins and ray boxes."
+          ]
+        },
+        {
+          "topic": "11.7 Magnetism",
+          "subtopics": [
+            "11.7.1 Simple phenomenon of magnetism"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate the making (magnetisation) and destroying (demagnetisation) of magnets.",
+            "Investigate induced magnetism.",
+            "Demonstrate the plotting of magnetic field lines using iron filings and plotting compasses."
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 12,
+      "topics": [
+        {
+          "topic": "12.8 Static Electricity",
+          "subtopics": [
+            "12.8.1 Static Electricity"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate the existence of static charges using ebonite and polythene rods.",
+            "Investigate the detection of electric charges using a gold-leaf electroscope."
+          ]
+        },
+        {
+          "topic": "12.9 Current Electricity",
+          "subtopics": [
+            "12.9.1 Electric charge, current, and potential difference",
+            "12.9.2 Electric cells",
+            "12.9.3 Electrical resistance",
+            "12.9.4 Heating effect of an electric current",
+            "12.9.5 Magnetic effects of electric currents"
+          ],
+          "practical_and_experimental_content": [
+            "Experimentally measure potential difference (P.D.) and current using voltmeters and ammeters.",
+            "Demonstrate the charging and discharging of a lead-acid accumulator.",
+            "Demonstrate how to determine resistance in a simple circuit (Ohm's Law).",
+            "Experiment with the magnetic field patterns of electric currents.",
+            "Demonstrate the practical application of electromagnets (e.g., electric bells and relay switches)."
+          ]
+        },
+        {
+          "topic": "12.10 Electromagnetic Induction",
+          "subtopics": [
+            "12.10.1 The phenomenon of electromagnetic induction",
+            "12.10.2 The simple A.C. and D.C. generators",
+            "12.10.3 Transformers"
+          ],
+          "practical_and_experimental_content": [
+            "Demonstrate the phenomenon of electromagnetic induction using coils and magnets.",
+            "Investigate the principles of step-up and step-down transformers."
+          ]
+        },
+        {
+          "topic": "12.11 Basic Electronics",
+          "subtopics": [
+            "12.11.1 Thermionic emission and electrons",
+            "12.11.3 Simple Electronic Systems"
+          ],
+          "practical_and_experimental_content": [
+            "Investigate the properties of cathode rays by using a Cathode Ray Oscilloscope (CRO)."
+          ]
+        },
+        {
+          "topic": "12.12 Atomic Physics",
+          "subtopics": [
+            "12.12.1 Nuclear atom",
+            "12.12.2 Radioactivity"
+          ],
+          "practical_and_experimental_content": [
+            "Investigate the nature of radioactivity and demonstrate safety precautions when handling radioactive substances (using appropriate models or Geiger-Muller counters if available)."
+          ]
+        }
+      ]
+    }
+  ]
+}

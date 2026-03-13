@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 2",
+    "subject": "Physical Education and Sport",
+    "philosophy": "This Physical Education and Sport Syllabus focuses on fostering creativity, analytical thinking, problem-solving, interpersonal and intrapersonal skills, as well as investigations and aesthetics in learners. Physical Education and Sport offer individuals and groups engaging, developmental, and educational activities, leading to an appreciation of cultural heritage, and promoting social, mental, and emotional growth. It also encourages healthy habits, teamwork, determination, and critical thinking.",
+    "competence_learning": "The approach to teaching and learning is competence based. This is best achieved when learners are actively involved in the learning process. Teaching strategies must be varied and flexible within well-structured sequence of lessons and should include: Demonstration, Direct instruction, Independent study, Project work, Enquiry/exploration, Observation, Excursions, Field work, Research, Practical, Portfolio, Group work, Pair work.",
+    "goals": [
+      "Foster creativity, analytical thinking, problem-solving, interpersonal and intrapersonal skills.",
+      "Enable learners to participate in sports both for leisure and competition, potentially as a means of livelihood.",
+      "Provide equal opportunities for all learners, including those with different abilities, to reach their highest potential and acquire lifelong skills.",
+      "Link education to real life experiences that give learners skills to access, criticise, analyse and practically apply knowledge.",
+      "Equip learners with vital knowledge, values and skills of 21st Century Competences necessary to contribute to the attainment of Vision 2030."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "2.1",
+      "topic_title": "HISTORY OF PHYSICAL EDUCATION AND SPORT",
+      "page_number": 13,
+      "subtopics": [
+        "2.1.1 History of Physical Education in ancient Greece",
+        "2.1.2 Beliefs and origin of Olympic Games"
+      ],
+      "specific_outcomes": [
+        "2.1.1.1 Exhibit knowledge of the history of Physical Education in ancient Greece",
+        "2.1.2.1 Demonstrate understanding of the beliefs and the origin of Olympic Games"
+      ]
+    },
+    {
+      "unit": "2.2",
+      "topic_title": "PHYSICAL EDUCATION AND HEALTH",
+      "page_number": 13,
+      "subtopics": [
+        "2.2.1 First-aid",
+        "2.2.2 Reproductive Health"
+      ],
+      "specific_outcomes": [
+        "2.2.1.1 Exhibit knowledge on the types of sports injuries",
+        "2.2.1.2 Exhibit knowledge on causes and prevention of sports injuries",
+        "2.2.2.1 Demonstrate knowledge of reproductive health",
+        "2.2.2.2 Explore ways in which HIV and AIDS can be transmitted during sports and games"
+      ]
+    },
+    {
+      "unit": "2.3",
+      "topic_title": "FITNESS ACTIVITIES",
+      "page_number": 14,
+      "subtopics": [
+        "2.3.1 Skill related components"
+      ],
+      "specific_outcomes": [
+        "2.3.1.1 Perform skill related activities"
+      ]
+    },
+    {
+      "unit": "2.4",
+      "topic_title": "GYMNASTICS",
+      "page_number": 15,
+      "subtopics": [
+        "2.4.1 Complex gymnastics"
+      ],
+      "specific_outcomes": [
+        "2.4.1.1 Perform stunts on Apparatus"
+      ]
+    },
+    {
+      "unit": "2.5",
+      "topic_title": "RECREATIONAL GAMES AND ACTIVITIES",
+      "page_number": 15,
+      "subtopics": [
+        "2.5.1 Traditional games"
+      ],
+      "specific_outcomes": [
+        "2.5.1.1 Perform traditional games"
+      ]
+    },
+    {
+      "unit": "2.6",
+      "topic_title": "ORGANISATION AND MANAGEMENT OF GAMES AND SPORTS EVENTS",
+      "page_number": 15,
+      "subtopics": [
+        "2.6.1 The Sports Structure in Zambia",
+        "2.6.2 Sports associations in Zambia",
+        "2.6.3 International Sports bodies"
+      ],
+      "specific_outcomes": [
+        "2.6.1.1 Design a model of the sports structure in Zambia",
+        "2.6.2.1 Demonstrate understanding of Sports associations in Zambia",
+        "2.6.3.1 Demonstrate knowledge of International Sports Bodies"
+      ]
+    },
+    {
+      "unit": "2.7",
+      "topic_title": "SWIMMING",
+      "page_number": 17,
+      "subtopics": [
+        "2.7.1 Strokes",
+        "2.7.2 Basic competitive swimming and diving",
+        "2.7.3 Survival skills in swimming"
+      ],
+      "specific_outcomes": [
+        "2.7.1.1 Perform different swimming strokes",
+        "2.7.2.1 Apply competitive swimming and diving skills",
+        "2.7.3.1 Apply survival skills in swimming"
+      ]
+    },
+    {
+      "unit": "2.8",
+      "topic_title": "SPORTS SKILLS AND ACTIVITIES DEVELOPMENT",
+      "page_number": 18,
+      "subtopics": [
+        "2.8.1 Athletics",
+        "2.8.2 Ball games",
+        "2.8.3 Board games",
+        "2.8.4 Racquet games"
+      ],
+      "specific_outcomes": [
+        "2.8.1.1 Perform field events",
+        "2.8.2.1 Use skills in Volleyball and Handball",
+        "2.8.3.1 Utilise skills in Ludo and Snakes and Ladders",
+        "2.8.4.1 Use skills in Table and Lawn Tennis"
+      ]
+    },
+    {
+      "unit": "2.9",
+      "topic_title": "ANATOMY AND PHYSIOLOGY",
+      "page_number": 18,
+      "subtopics": [
+        "2.9.1 Human muscular system"
+      ],
+      "specific_outcomes": [
+        "2.9.1.1 Demonstrate Knowledge of muscular system"
+      ]
+    },
+    {
+      "unit": "2.10",
+      "topic_title": "SPORTS BIOMECHANICS",
+      "page_number": 18,
+      "subtopics": [
+        "2.10.1 Lever System"
+      ],
+      "specific_outcomes": [
+        "2.10.1.1 Apply the lever system in physical activities and sports"
+      ]
+    },
+    {
+      "unit": "2.11",
+      "topic_title": "ENTREPRENEURSHIP IN SPORTS",
+      "page_number": 19,
+      "subtopics": [
+        "2.11.1 Sport Marketing",
+        "2.11.2 Sport Branding"
+      ],
+      "specific_outcomes": [
+        "2.11.1.1 Apply marketing skills",
+        "2.11.2.1 Align specific features of branding in the sports industry"
+      ]
+    }
+  ]
+}

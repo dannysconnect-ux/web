@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "5",
+    "subject": "Integrated Science"
+  },
+  "topics": [
+    {
+      "unit": "UNIT1: The Human Body",
+      "topic_title": "5.1.0 The human body",
+      "page_number": 43,
+      "subtopics": [
+        "5.1.1 The Heart"
+      ],
+      "learning_outcomes": [
+        "5.1.1.1 State the function of the heart.",
+        "5.1.1.2 Describe the structure of the heart",
+        "5.1.1.4 Demonstrate how to take the pulse."
+      ]
+    },
+    {
+      "unit": "UNIT1: The Human Body",
+      "topic_title": "5.1.0 The human body",
+      "page_number": 44,
+      "subtopics": [
+        "5.1.2 Puberty"
+      ],
+      "learning_outcomes": [
+        "5.1.1.1 Identify male and female parts of the body.",
+        "5.1.1.2 Describe changes that occur at puberty in human beings."
+      ]
+    },
+    {
+      "unit": "UNIT2: Health",
+      "topic_title": "5.2.0 Health",
+      "page_number": 45,
+      "subtopics": [
+        "5.2.1 Fresh Air"
+      ],
+      "learning_outcomes": [
+        "5.2.1.1 Explain the importance of good ventilation",
+        "5.2.1.2 Explain ways of providing good ventilation in buildings",
+        "5.2.1.3 Demonstrate ways of treating a suffocated person."
+      ]
+    },
+    {
+      "unit": "UNIT2: Health",
+      "topic_title": "5.2.0 Health",
+      "page_number": 45,
+      "subtopics": [
+        "5.2.2 Air and water borne Diseases"
+      ],
+      "learning_outcomes": [
+        "5.2.2.1 Name common airborne and water borne diseases in Zambia",
+        "5.2.2.2 Describe symptoms of common air borne and water borne diseases.",
+        "5.2.2.3 Describe how to prevent air and water borne diseases"
+      ]
+    },
+    {
+      "unit": "UNIT2: Health",
+      "topic_title": "5.2.0 Health",
+      "page_number": 46,
+      "subtopics": [
+        "5.2.3 Malaria"
+      ],
+      "learning_outcomes": [
+        "5.2.3.1 Identify causes of malaria",
+        "5.2.3.2 State the symptoms of malaria",
+        "5.2.3.3 Describe ways of preventing and treating of malaria"
+      ]
+    },
+    {
+      "unit": "UNIT2: Health",
+      "topic_title": "5.2.0 Health",
+      "page_number": 46,
+      "subtopics": [
+        "5.2.6 HIV and AIDS and STIs"
+      ],
+      "learning_outcomes": [
+        "5.2.6.1 Describe ways in which STIs and HIV are transmitted.",
+        "5.2.6.2 Identify ways of preventing the spread of HIV and STIs",
+        "5.2.6.3 Describe the care and treatment for AIDS patients."
+      ]
+    },
+    {
+      "unit": "UNIT2: Health",
+      "topic_title": "5.2.0 Health",
+      "page_number": 46,
+      "subtopics": [
+        "5.2.7 Harmful Substances"
+      ],
+      "learning_outcomes": [
+        "5.2.7.1 Mention the substances which are harmful to the human body."
+      ]
+    },
+    {
+      "unit": "UNIT2: Health",
+      "topic_title": "5.2.0 Health",
+      "page_number": 47,
+      "subtopics": [
+        "5.2.7 Harmful Substances"
+      ],
+      "learning_outcomes": [
+        "5.2.7.2 State the harmful effects of substance abuse on the body.",
+        "5.2.7.3 Explain the effects of drinking alcohol"
+      ]
+    },
+    {
+      "unit": "UNIT3: The Environment",
+      "topic_title": "5.3.0 The Environment",
+      "page_number": 47,
+      "subtopics": [
+        "5.3.1 Soil"
+      ],
+      "learning_outcomes": [
+        "5.3.1.1 Explain the importance of water in the soil.",
+        "5.3.1.2 Mention ways in which water can be retained in the soil.",
+        "5.3.1.3 Demonstrate the drainage rates of soils."
+      ]
+    },
+    {
+      "unit": "UNIT3: The Environment",
+      "topic_title": "5.3.0 The Environment",
+      "page_number": 47,
+      "subtopics": [
+        "5.3.2 Fertilizers"
+      ],
+      "learning_outcomes": [
+        "5.3.2.1 Explain what organic and inorganic fertilizers are."
+      ]
+    },
+    {
+      "unit": "UNIT3: The Environment",
+      "topic_title": "5.3.0 The Environment",
+      "page_number": 48,
+      "subtopics": [
+        "5.3.2 Fertilizers"
+      ],
+      "learning_outcomes": [
+        "5.3.2.2 Demonstrate how to prepare compost manure.",
+        "5.3.2.3 Explain the importance of maintaining a supply of composted materials.",
+        "5.3.2.4 Explain the advantages and disadvantages of chemical fertilizers in agriculture."
+      ]
+    },
+    {
+      "unit": "UNIT4: Plants and Animals",
+      "topic_title": "5.4.0 Plants and Animals",
+      "page_number": 48,
+      "subtopics": [
+        "5.4.1 Non Flowering Plants"
+      ],
+      "learning_outcomes": [
+        "5.4.1.1 Identify different types of non-flowering plants.",
+        "5.4.1.2 Identify use of ferns and fungi."
+      ]
+    },
+    {
+      "unit": "UNIT4: Plants and Animals",
+      "topic_title": "5.4.0 Plants and Animals",
+      "page_number": 48,
+      "subtopics": [
+        "5.4.2 Invertebrate Animals"
+      ],
+      "learning_outcomes": [
+        "5.4.2.1 Identify the different types of invertebrate animals",
+        "5.4.2.2 Investigate the basic structure of Insects"
+      ]
+    },
+    {
+      "unit": "UNIT4: Plants and Animals",
+      "topic_title": "5.4.0 Plants and Animals",
+      "page_number": 49,
+      "subtopics": [
+        "5.4.2 Invertebrate Animals"
+      ],
+      "learning_outcomes": [
+        "5.4.2.3 Explain the difference between insects and spiders",
+        "5.4.2.4 State ways in which insects are useful."
+      ]
+    },
+    {
+      "unit": "UNIT4: Plants and Animals",
+      "topic_title": "5.4.0 Plants and Animals",
+      "page_number": 49,
+      "subtopics": [
+        "5.4.3 Pest and Parasites"
+      ],
+      "learning_outcomes": [
+        "5.4.1.3 Identify common pests and parasites in the local environment.",
+        "5.4.1.4 Describe the harm caused by pests and parasites on plants and animals.",
+        "5.4.1.5 Explain how pests and parasites can be controlled using local plant materials and commercial chemicals.",
+        "5.4.1.6 Explain how chemical pesticides can cause harm to the environment."
+      ]
+    },
+    {
+      "unit": "UNIT5: Materials and Energy",
+      "topic_title": "5.5.0 Materials and energy",
+      "page_number": 50,
+      "subtopics": [
+        "5.5.1 Electricity"
+      ],
+      "learning_outcomes": [
+        "5.5.1.1 State what electricity can do.",
+        "5.5.1.2 Identify sources of electricity",
+        "5.5.1.3 Identify electrical appliances used at home, school and in the community.",
+        "5.5.1.4 Identify good and bad conductors of electricity",
+        "5.5.1.5 Describe the uses of good and bad conductors of electricity.",
+        "5.5.1.6 Explain methods of conserving electricity in homes and schools."
+      ]
+    },
+    {
+      "unit": "UNIT5: Materials and Energy",
+      "topic_title": "5.5.0 Materials and energy",
+      "page_number": 50,
+      "subtopics": [
+        "5.5.2 Heat Conductors"
+      ],
+      "learning_outcomes": [
+        "5.5.2.1 Describe what heat is",
+        "5.5.2.2 Determine the temperature of human body; boiling water; and air inside and outside the classroom."
+      ]
+    },
+    {
+      "unit": "UNIT5: Materials and Energy",
+      "topic_title": "5.5.0 Materials and energy",
+      "page_number": 51,
+      "subtopics": [
+        "5.5.2 Heat Conductors"
+      ],
+      "learning_outcomes": [
+        "5.5.3.2 Distinguish good and bad conductors of heat.",
+        "5.5.3.3 Identify materials which are good insulators.",
+        "5.5.3.4 Explain the uses of good and bad conductors of heat."
+      ]
+    },
+    {
+      "unit": "UNIT5: Materials and Energy",
+      "topic_title": "5.5.0 Materials and energy",
+      "page_number": 51,
+      "subtopics": [
+        "5.5.3 Measuring Matter"
+      ],
+      "learning_outcomes": [
+        "5.5.4.1 Identify instruments used to compare how heavy objects are",
+        "5.5.4.2 Demonstrate the effect of gravity on objects",
+        "5.5.4.3 Distinguish between mass and weight"
+      ]
+    },
+    {
+      "unit": "UNIT5: Materials and Energy",
+      "topic_title": "5.5.0 Materials and energy",
+      "page_number": 52,
+      "subtopics": [
+        "5.5.4 Volume"
+      ],
+      "learning_outcomes": [
+        "5.5.3.1 Identify various instruments and apparatus used to measure volume",
+        "5.5.3.2 Measure the volume of liquids.",
+        "5.5.3.3 Measure the volume of various regular and irregular solid objects."
+      ]
+    },
+    {
+      "unit": "UNIT5: Materials and Energy",
+      "topic_title": "5.5.0 Materials and energy",
+      "page_number": 52,
+      "subtopics": [
+        "5.5.5 Simple Machines"
+      ],
+      "learning_outcomes": [
+        "5.5.5.1 Explain what simple machine is."
+      ]
+    }
+  ]
+}

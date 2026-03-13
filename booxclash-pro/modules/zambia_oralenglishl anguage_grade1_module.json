@@ -1,0 +1,979 @@
+{
+  "subject": "Oral English Language",
+  "grade": "Grade 1",
+  "term": 2,
+  "topics": [
+    {
+      "topic_id": "1.1",
+      "topic_title": "Conversations",
+      "sub_topics": [
+        {
+          "subtopic_id": "1.1.7",
+          "title": "Food and Meals",
+          "page": 11,
+          "competences": [
+            "Use appropriate language to talk about different foods and meals of the day"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1a",
+              "activity_title": "Identifying different types of food",
+              "page": 11,
+              "hook": "Activate learners' prior knowledge by asking them to mention the food they eat at home",
+              "teacher_steps": [
+                "Activate learners' prior knowledge by asking them to mention the food they eat at home",
+                "Explain that the food they have mentioned is in different types",
+                "Display the picture/chart showing the different types of food",
+                "Referring to the picture/chart, explain the types of food (fruits, vegetables, meat, grains, legumes and dairy)",
+                "Demonstrate saying the different foods found in each type"
+              ],
+              "learner_steps": [
+                "Mention the food they eat at home",
+                "Conduct a conversation in pairs about types of food",
+                "Practice the conversation in pairs using structure: 'Some of the … are ……'",
+                "Practice in small groups standing in a circle",
+                "Put thumbs up or down to agree/disagree with statements about food types"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1b",
+              "activity_title": "Mentioning types of meals",
+              "page": 13,
+              "hook": "Activate learners' prior knowledge by asking them to mention the meals that they eat at home",
+              "teacher_steps": [
+                "Activate learners' prior knowledge by asking them to mention the meals that they eat at home",
+                "Explain that there are three main meals (breakfast, lunch and supper) in a day",
+                "Ask learners to share what other meals that they eat apart from the three main meals",
+                "Explain that there are also other meals known as snacks that are taken in-between the main meals",
+                "Explain the different times of day when each meal is taken",
+                "Demonstrate asking and answering questions about meals"
+              ],
+              "learner_steps": [
+                "Mention the meals they eat at home",
+                "Share other meals eaten apart from three main meals",
+                "Conduct a conversation in pairs about when meals are taken",
+                "Practice the conversation in pairs taking turns",
+                "Showcase dialogue in front of class",
+                "Mention the types of meals"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1c",
+              "activity_title": "Reciting a prayer before meals",
+              "page": 15,
+              "hook": "Display a picture showing people praying before having a meal",
+              "teacher_steps": [
+                "Display a picture showing people praying before having a meal",
+                "Ask learners to explain what is happening in the picture",
+                "Consolidate their ideas by explaining the importance of praying before meals",
+                "Teach the learners to recite a simple prayer before meals"
+              ],
+              "learner_steps": [
+                "Explain what is happening in the picture",
+                "Recite the prayer after teacher as a whole class",
+                "Recite the prayer as individuals, in pairs and small groups",
+                "Recite the prayer in small groups, pairs or individuals in front of the class",
+                "Recite the prayer independently"
+              ]
+            }
+          ],
+          "short_notes": "This sub-topic emphasises on enabling learners to differentiate types of food, various meals and say a prayer before meals. Learners will use simple language to talk about different foods and meals of the day. The types of food include fruits, vegetables, meat, grains, legumes and dairy. The main meals are breakfast (taken in the morning), lunch (taken around mid-day), and supper (taken in the evening). Snacks are meals taken in-between the main meals. A simple prayer before meals is: 'Thank you God for the food, in Jesus name. Amen'",
+          "vocabulary": [
+            {
+              "term": "breakfast",
+              "definition": "The first meal of the day, eaten in the morning"
+            },
+            {
+              "term": "lunch",
+              "definition": "A meal eaten around mid-day"
+            },
+            {
+              "term": "supper",
+              "definition": "A meal eaten in the evening"
+            },
+            {
+              "term": "snacks",
+              "definition": "Small meals eaten in-between main meals"
+            },
+            {
+              "term": "fruits",
+              "definition": "Type of food including mangoes, oranges, masuku"
+            },
+            {
+              "term": "vegetables",
+              "definition": "Type of food including cabbage, rape, pumpkin leaves"
+            },
+            {
+              "term": "grains",
+              "definition": "Type of food including rice, porridge"
+            },
+            {
+              "term": "legumes",
+              "definition": "Type of food including beans, nuts"
+            },
+            {
+              "term": "dairy",
+              "definition": "Type of food including milk, yoghurt"
+            },
+            {
+              "term": "meat",
+              "definition": "Type of food including fish, beef"
+            }
+          ],
+          "assessment": {
+            "page": 12,
+            "questions": [
+              "Ask learners to identify a food and its type",
+              "Ask learners to mention the different meals and the time of day they are taken",
+              "Ask learners to recite a prayer used before meals"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.1.8",
+          "title": "Occupations",
+          "page": 16,
+          "competences": [
+            "Use appropriate language to talk about occupations in the community"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1a",
+              "activity_title": "Naming occupations in the community",
+              "page": 16,
+              "hook": "Introduce the term occupation and describe what this means",
+              "teacher_steps": [
+                "Introduce the term occupation and describe what this means",
+                "Ask learners to mention occupations in the community (teachers, nurses, farmers, watchmen)",
+                "Display a picture showing different occupations",
+                "Mention the occupations shown in the picture",
+                "Ask learners to mention the occupations shown in the picture",
+                "Demonstrate how to converse about occupations in the community"
+              ],
+              "learner_steps": [
+                "Mention occupations in the community",
+                "Mention occupations shown in the picture",
+                "Conduct conversations in pairs or small groups using picture cards",
+                "Practice the conversation with different partners",
+                "Showcase dialogue in front of class",
+                "Mention different occupations in the community"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1b",
+              "activity_title": "Stating the role played by people in different occupations",
+              "page": 17,
+              "hook": "Display the chart showing different occupations in the community",
+              "teacher_steps": [
+                "Display the chart showing different occupations in the community",
+                "Ask learners to mention the different occupations shown in the picture",
+                "Discuss the roles of people in different occupations in the community",
+                "Demonstrate pair work about what different occupations do"
+              ],
+              "learner_steps": [
+                "Mention different occupations shown in the picture",
+                "Conduct a conversation in pairs about what occupations do",
+                "Practice with different partners",
+                "Present practiced conversation to whole class",
+                "Pick picture card and say occupation and what it does"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1c",
+              "activity_title": "Exploring occupations through role-play",
+              "page": 18,
+              "hook": "Ask learners to mention the different roles played by people in various occupations",
+              "teacher_steps": [
+                "Ask learners to mention the different roles played by people in various occupations",
+                "Explain to the learners that they will play roles for different occupations in the community",
+                "Demonstrate the role of an occupation (e.g., carpenter planing wood)"
+              ],
+              "learner_steps": [
+                "Mention different roles played by people in various occupations",
+                "Conduct conversations in pairs or small groups pretending to do occupation actions",
+                "Practice with different partners taking turns",
+                "Present role-play and conversation to whole class",
+                "Respond to teacher pointing at occupations on chart"
+              ]
+            }
+          ],
+          "short_notes": "This sub-topic focuses on equipping learners with the ability to use appropriate language to talk about occupations in the community. Learners will explore and practice words commonly used when talking about occupations in the community. An occupation is the work or job that a person does. Examples include: teachers (teach people), nurses (help sick people), farmers (grow food), carpenters (make chairs, tables), police (protect people), drivers (drive vehicles). This topic is important as it provides learners with opportunities to explore, build, and apply appropriate vocabulary in different contexts.",
+          "vocabulary": [
+            {
+              "term": "occupation",
+              "definition": "The work or job that a person does"
+            },
+            {
+              "term": "teacher",
+              "definition": "A person who teaches people"
+            },
+            {
+              "term": "nurse",
+              "definition": "A person who helps sick people"
+            },
+            {
+              "term": "farmer",
+              "definition": "A person who grows food"
+            },
+            {
+              "term": "carpenter",
+              "definition": "A person who makes chairs, tables and other wooden items"
+            },
+            {
+              "term": "police",
+              "definition": "A person who protects people"
+            },
+            {
+              "term": "driver",
+              "definition": "A person who drives vehicles"
+            }
+          ],
+          "assessment": {
+            "page": 17,
+            "questions": [
+              "Ask learners to name different occupations in their community",
+              "Ask learners to say different roles that are played by different occupations in the community",
+              "Ask learners to role-play appropriate actions that different occupations do"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.1.9",
+          "title": "Things found in a home",
+          "page": 20,
+          "competences": [
+            "Use appropriate language to talk about things found at home"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1a",
+              "activity_title": "Parts of a house",
+              "page": 20,
+              "hook": "Ask learners to describe their house (bring out the number of rooms)",
+              "teacher_steps": [
+                "Ask learners to describe their house (bring out the number of rooms)",
+                "Explain that different rooms make the parts of a house",
+                "Ask learners to mention the parts of a house (kitchen, bedroom, toilet, bathroom, sitting room)",
+                "Explain the uses of each part of the house (a bedroom is for sleeping)",
+                "Demonstrate a conversation on parts of the house and their use"
+              ],
+              "learner_steps": [
+                "Describe their house",
+                "Mention the parts of a house",
+                "Conduct whole class choral repetition of 'Where do we …?'",
+                "Practice dialogue in pairs about where activities happen",
+                "Rotate pairs to practice with different partners",
+                "Perform dialogue in front of class",
+                "Name parts of a house and their uses"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1b",
+              "activity_title": "Things found in a home",
+              "page": 21,
+              "hook": "Ask learners to name things found in their home",
+              "teacher_steps": [
+                "Ask learners to name things found in their home (plates, spoon, sofas/chairs, television, tables, beds, blankets)",
+                "Display a poster showing the parts of a house and different things found in each part",
+                "Identify the different things from each part of the house",
+                "Ask learners to mention other things and the part of the house where they are found",
+                "Demonstrate a conversation on things found in a home and where they are found"
+              ],
+              "learner_steps": [
+                "Name things found in their home",
+                "Conduct whole class choral repetition of 'Where is the …?'",
+                "Practice dialogue in pairs about where things are found",
+                "Rotate pairs to practice with different partners",
+                "Present dialogue in front of class",
+                "Name things found in a home and where they are found"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1c",
+              "activity_title": "Uses of things found in a home",
+              "page": 23,
+              "hook": "Revise things found in a home and where they are found",
+              "teacher_steps": [
+                "Revise things found in a home and the part of the house where they are found",
+                "Using a chart with different types of things found in a home, discuss the use of each thing",
+                "Ask learners to mention other things found in a home and their use",
+                "Demonstrate a conversation on uses of things found in a home"
+              ],
+              "learner_steps": [
+                "Conduct whole class choral repetition of 'We use'",
+                "Practice dialogue in pairs (one to start, one to finish)",
+                "Rotate pairs to practice with different partners",
+                "Stand in two lines to complete sentences about uses",
+                "Mention the use of things found in a home"
+              ]
+            }
+          ],
+          "short_notes": "This sub-topic focuses on equipping learners with the ability to use appropriate language to discuss things found in a home. Learners will name parts of a house, things found in a home and their uses. Different rooms make the parts of a house including: kitchen (for cooking), bedroom (for sleeping), toilet, bathroom (for bathing), sitting room (for sitting/watching TV). Things found in different parts include: Kitchen - spoons, pans, plates; Bedroom - bed, blanket; Sitting room - sofas/chairs, television, tables. Uses of things: Spoons for eating, pots for cooking, bed for sleeping, chairs for sitting, soap for bathing.",
+          "vocabulary": [
+            {
+              "term": "kitchen",
+              "definition": "A room used for cooking"
+            },
+            {
+              "term": "bedroom",
+              "definition": "A room used for sleeping"
+            },
+            {
+              "term": "bathroom",
+              "definition": "A room used for bathing"
+            },
+            {
+              "term": "sitting room",
+              "definition": "A room used for sitting and relaxation"
+            },
+            {
+              "term": "toilet",
+              "definition": "A room with a facility for disposal of human waste"
+            }
+          ],
+          "assessment": {
+            "page": 21,
+            "questions": [
+              "Ask learners to name the parts of a house and their uses",
+              "Ask learners to identify things in a home and where they are found",
+              "Ask learners to mention the use of things found at home"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.1.10",
+          "title": "Things found at school",
+          "page": 24,
+          "competences": [
+            "Use appropriate language to talk about things found at school"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1a",
+              "activity_title": "Things found in a classroom",
+              "page": 24,
+              "hook": "Ask learners to identify things found in the classroom",
+              "teacher_steps": [
+                "Ask learners to identify things found in the classroom",
+                "Tell learners to point and say the names of things found in the classroom",
+                "Demonstrate how to ask and respond correctly: 'What is this?' 'This is a chair, table, desk'"
+              ],
+              "learner_steps": [
+                "Identify things found in the classroom",
+                "Point and say names of things in classroom",
+                "Participate in whole class choral repetition of 'What is this?'",
+                "Practice dialogue in pairs",
+                "Rotate pairs to practice with different partners",
+                "Role-play scenarios in small groups",
+                "Perform dialogue in front of class",
+                "Name things found in classroom when teacher points"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1b",
+              "activity_title": "Uses of things found in a classroom",
+              "page": 26,
+              "hook": "Ask learners to mention things found in the classroom",
+              "teacher_steps": [
+                "Ask learners to mention things found in the classroom",
+                "Display a chart showing different things found in the classroom or real objects",
+                "Discuss the use of things on the chart",
+                "Demonstrate how to ask and respond correctly using pictures on the chart"
+              ],
+              "learner_steps": [
+                "Mention things found in the classroom",
+                "Conduct whole class choral repetition of 'We use'",
+                "Practice dialogue in pairs (one to start, one to finish)",
+                "Rotate pairs to practice with different partners",
+                "Stand in two lines to complete sentences",
+                "Point at items and mention name and use"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1c",
+              "activity_title": "Keeping the classroom clean",
+              "page": 27,
+              "hook": "Display a chart showing how we keep our classroom clean",
+              "teacher_steps": [
+                "Display a chart showing how we keep our classroom clean",
+                "Tell learners to say what is happening in the picture",
+                "Discuss how to keep the classroom clean with learners (sweeping, mopping, dusting, shining, throwing litter in the bin)",
+                "Demonstrate how to ask and respond correctly"
+              ],
+              "learner_steps": [
+                "Say what is happening in the picture",
+                "Conduct whole class choral repetition of 'we should… the classroom?'",
+                "Practice dialogue in pairs about keeping classroom clean",
+                "Rotate pairs to practice with different partners",
+                "Role-play scenarios in small groups",
+                "Perform play in front of class",
+                "State at least one way of keeping the classroom clean"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2a",
+              "activity_title": "Things found at school",
+              "page": 29,
+              "hook": "Introduce the phrase 'things found at school'",
+              "teacher_steps": [
+                "Introduce the phrase 'things found at school'",
+                "Explain and give examples (playground, library, field, classroom, garden, office, flag pole, bathrooms)",
+                "Display a chart showing things found at school",
+                "Demonstrate how to ask and respond correctly: 'What is this?' 'This is a playground'"
+              ],
+              "learner_steps": [
+                "Conduct whole class choral repetition of 'This is a …'",
+                "Practice dialogue in pairs asking 'what is this?' and responding",
+                "Rotate pairs to practice with different partners",
+                "Practice in small groups",
+                "Present dialogue to class",
+                "Mention at least one thing found at school"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2b",
+              "activity_title": "Uses of things found at school",
+              "page": 30,
+              "hook": "Revise the things found at school",
+              "teacher_steps": [
+                "Revise the things found at school",
+                "Display a chart showing things found at school (playgrounds, swings, taps, flag, library, playparks, flowers, trees, bins)",
+                "Explain the use of things found at school",
+                "Demonstrate how to ask and respond correctly"
+              ],
+              "learner_steps": [
+                "Conduct whole class choral repetition of 'We use... for...'",
+                "Practice dialogue in pairs or small groups",
+                "Rotate pairs to practice with different partners",
+                "Role-play scenarios in small groups",
+                "Present dialogue to class",
+                "Mention use of one thing found at school"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1a",
+              "activity_title": "Keeping the school clean",
+              "page": 32,
+              "hook": "Prepare school surroundings to be in a mess and ask 'Look at our school. What is wrong?'",
+              "teacher_steps": [
+                "Recap on the things found at school",
+                "Prepare the school surrounding to be in a mess with dirt/rubbish and leaves/litters",
+                "Tell the learners: 'Look at our school. What is wrong?'",
+                "Let the learners pick the dirt and put the space in order",
+                "Explain the importance of keeping the school clean",
+                "Display a conversation poster showing things done to keep the school clean",
+                "Demonstrate the conversation on how to keep the school clean"
+              ],
+              "learner_steps": [
+                "Pick dirt and put space in order",
+                "Conduct whole class choral repetition of 'What is he/she doing?'",
+                "Practice conversation in pairs",
+                "Rotate pairs to practice with different partners",
+                "Role-play scenarios in small groups",
+                "Perform activities in front of class",
+                "Sing song about keeping school clean"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1b",
+              "activity_title": "What do you like doing?",
+              "page": 33,
+              "hook": "Ask learners to mention what they like doing at school",
+              "teacher_steps": [
+                "Recap on keeping the school clean",
+                "Ask learners to mention what they like doing at school",
+                "Display a conversation poster showing different activities done at school",
+                "Demonstrate the conversation about what learners like doing at school"
+              ],
+              "learner_steps": [
+                "Mention what they like doing at school",
+                "Conduct whole class choral repetition of 'What do you like doing?'",
+                "Practice dialogue in pairs",
+                "Rotate pairs to practice with different partners",
+                "Role-play scenarios in small groups",
+                "Perform activity in front of class",
+                "Sit down when teacher mentions activity they like"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1c",
+              "activity_title": "Let us play",
+              "page": 35,
+              "hook": "Ask learners to mention games they like playing",
+              "teacher_steps": [
+                "Recap on the phrase 'What do you like doing?'",
+                "Ask learners to mention games they like playing",
+                "Display a conversation poster showing different games",
+                "Introduce the words: hop, jump, skip, kick, march, catch, run",
+                "Demonstrate the conversation on games learners like playing"
+              ],
+              "learner_steps": [
+                "Mention games they like playing",
+                "Conduct whole class choral repetition of 'What games do you like?'",
+                "Practice dialogue in pairs",
+                "Rotate pairs to practice with different partners",
+                "Play games they like in small groups",
+                "Perform activity in front of class",
+                "Play 'Simon says' game as whole class"
+              ]
+            }
+          ],
+          "short_notes": "This sub-topic focuses on equipping learners with the ability to use appropriate language to talk about things found at school. Things found in a classroom include: desks, chairs, tables, pencils, books, chalkboard, crayons, rulers. Uses: pencils for writing, desks for sitting, books for writing, crayons for coloring, rulers for measuring. Ways to keep classroom clean: sweeping, mopping, dusting, shining, throwing litter in bin. Things found at school: playground, library, field, classroom, garden, office, flag pole, bathrooms, swings, taps. Uses: library for keeping books/reading, bins for throwing litter, swings for playing, taps for drinking water. Activities done at school: reading, writing, playing, singing, drawing, eating. Games: hop, jump, skip, kick, march, catch, run. Ways to keep school clean: slashing, sweeping, mopping, picking litter, weeding.",
+          "vocabulary": [
+            {
+              "term": "desk",
+              "definition": "A piece of furniture used for sitting while writing or reading"
+            },
+            {
+              "term": "chalkboard",
+              "definition": "A board used by teachers for writing with chalk"
+            },
+            {
+              "term": "playground",
+              "definition": "An area at school where children play"
+            },
+            {
+              "term": "library",
+              "definition": "A place where books are kept for reading"
+            },
+            {
+              "term": "hop",
+              "definition": "To jump on one foot"
+            },
+            {
+              "term": "skip",
+              "definition": "To move by hopping on alternate feet"
+            },
+            {
+              "term": "march",
+              "definition": "To walk with regular steps"
+            }
+          ],
+          "assessment": {
+            "page": 26,
+            "questions": [
+              "Ask learners to mention things found in the classroom",
+              "Ask learners to mention the uses of things found in the classroom",
+              "Ask learners to mention ways of keeping the classroom clean",
+              "Ask learners to mention things found at school",
+              "Ask learners to mention the use of things found at school",
+              "Ask learners to mention things that they like doing at school",
+              "Ask learners to mention games they like playing at school"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.1.11",
+          "title": "Domestic animals",
+          "page": 36,
+          "competences": [
+            "Use appropriate language to describe domestic animals"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1a",
+              "activity_title": "Identifying domestic animals",
+              "page": 37,
+              "hook": "Ask learners to mention animals they keep at home",
+              "teacher_steps": [
+                "Ask learners to mention animals they keep at home",
+                "Introduce the phrase 'domestic animals' as animals we keep at home",
+                "Display a conversation poster showing different types of domestic animals (pig, dog, cat, cow, goat, hen, duck, pigeon, guinea fowl)",
+                "Demonstrate the conversation about domestic animals"
+              ],
+              "learner_steps": [
+                "Mention animals they keep at home",
+                "Conduct whole class choral repetition of 'No, it is not. Yes, it is'",
+                "Practice dialogue in pairs identifying domestic animals",
+                "Rotate pairs to practice with different partners",
+                "Practice in small groups",
+                "Present dialogue to class",
+                "Play game identifying animals by their sounds"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1b",
+              "activity_title": "Describing domestic animals",
+              "page": 38,
+              "hook": "Recap on the names of different domestic animals",
+              "teacher_steps": [
+                "Recap on the names of the different domestic animals",
+                "Identify the sounds that different domestic animals make",
+                "Display a conversation poster showing different domestic animals",
+                "Ask learners to say the colour or size of different animals on chart",
+                "Demonstrate the conversation describing domestic animals by colour and size"
+              ],
+              "learner_steps": [
+                "Identify sounds of domestic animals",
+                "Say colour or size of animals on chart",
+                "Conduct whole class choral repetition describing animals",
+                "Practice dialogue in pairs",
+                "Rotate pairs to practice with different partners",
+                "Practice in small groups",
+                "Present dialogue to class",
+                "Sing song describing domestic animals"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1c",
+              "activity_title": "Uses of domestic animals",
+              "page": 39,
+              "hook": "Ask learners to explain the uses of animals they keep at home",
+              "teacher_steps": [
+                "Recap on 'describing domestic animals'",
+                "Ask learners to explain the uses of animals they keep at home",
+                "Display a conversation poster showing domestic animals",
+                "Explain the different uses for domestic animals (food - goat, transport - cow, labour - cow, security - dogs)",
+                "Demonstrate the conversation on the uses of domestic animals"
+              ],
+              "learner_steps": [
+                "Explain uses of animals kept at home",
+                "Conduct whole class choral repetition on uses",
+                "Practice dialogue in pairs",
+                "Rotate pairs to practice with different partners",
+                "Practice in small groups",
+                "Present dialogue to class",
+                "Sing song about domestic animals"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2a",
+              "activity_title": "Food we get from domestic animals",
+              "page": 41,
+              "hook": "Review the uses of domestic animals",
+              "teacher_steps": [
+                "Review the uses of domestic animals",
+                "Explain that we get food from different domestic animals",
+                "Mention the food we get from animals (Meat, milk, eggs, sausage, butter, yogurt, cheese, oil)",
+                "Ask learners to mention other foods we get from animals",
+                "Demonstrate talking about food we get from domestic animals"
+              ],
+              "learner_steps": [
+                "Practice whole class talking about food from animals",
+                "Practice dialogue in pairs",
+                "Rotate pairs to practice with different partners",
+                "Look at pictures and identify foods",
+                "Present dialogue practiced",
+                "Sing song on food from animals"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2b",
+              "activity_title": "Homes of domestic animals",
+              "page": 42,
+              "hook": "Arrange desks with pictures showing homes of four domestic animals",
+              "teacher_steps": [
+                "Arrange desks in classroom with pictures of animal homes",
+                "Tell learners to identify which domestic animal lives in each home",
+                "Explain why domestic animals need homes",
+                "Talk about homes for domestic animals (Dog house, goat house, barn, shed, cage, pond)",
+                "Demonstrate talking about homes for domestic animals"
+              ],
+              "learner_steps": [
+                "Identify which animals live in each home",
+                "Practice talking about homes for animals",
+                "Practice dialogue in pairs",
+                "Rotate pairs to practice with different partners",
+                "Practice in small groups",
+                "Look at pictures and present dialogue",
+                "Role-play animals and locate their home"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "2c",
+              "activity_title": "Taking care of domestic animals",
+              "page": 43,
+              "hook": "Introduce the word 'care' and explain it means being kind and helping others",
+              "teacher_steps": [
+                "Introduce the word 'care'",
+                "Explain that 'care' is being kind and helping others",
+                "Give example: When you feed domestic animals, you are taking care of them",
+                "Demonstrate talking about taking care of domestic animals"
+              ],
+              "learner_steps": [
+                "Practice conversation about caring for animals",
+                "Practice dialogue in pairs",
+                "Rotate pairs to practice with different partners",
+                "Practice in small groups with picture flashcards",
+                "Pick flashcards and say way of caring shown",
+                "Share dialogue on flashcards picked",
+                "Sing song on taking care of animals"
+              ]
+            }
+          ],
+          "short_notes": "This sub-topic focuses on equipping learners with knowledge about domestic animals. Domestic animals are animals we keep at home and they are important as they contribute to food security, economic benefits and environmental sustainability. Types of domestic animals include: pig, dog, cat, cow, goat, hen, duck, pigeon, guinea fowl. Animals can be described by colour and size. Uses of domestic animals: food (goat, chicken), transport (cow), labour (cow), security (dogs). Food we get from animals: meat, milk, eggs, sausage, butter, yogurt, cheese, oil. Homes of animals: dog house, goat house, barn, shed, cage, pond. Ways to care for animals: give them food, water, medicine, home.",
+          "vocabulary": [
+            {
+              "term": "domestic animals",
+              "definition": "Animals we keep at home"
+            },
+            {
+              "term": "care",
+              "definition": "Being kind and helping others"
+            },
+            {
+              "term": "barn",
+              "definition": "A large building where cows and other farm animals are kept"
+            },
+            {
+              "term": "shed",
+              "definition": "A small building used for storing things or keeping animals"
+            },
+            {
+              "term": "cage",
+              "definition": "A structure made of bars where birds or small animals are kept"
+            },
+            {
+              "term": "pond",
+              "definition": "A small area of water where fish and ducks can live"
+            }
+          ],
+          "assessment": {
+            "page": 37,
+            "questions": [
+              "Ask learners to identify the different domestic animals",
+              "Ask learners to describe the size and colour of different domestic animals",
+              "Ask learners to mention the uses of domestic animals",
+              "Ask learners to mention the foods we get from domestic animals",
+              "Ask learners to mention the homes of different domestic animals",
+              "Ask learners to mention ways of caring for domestic animals"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.1.12",
+          "title": "At the Market",
+          "page": 45,
+          "competences": [
+            "Use appropriate language for buying and selling"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1a",
+              "activity_title": "Identify items found at the market",
+              "page": 45,
+              "hook": "Introduce the word 'market' as a place where people buy and sell things",
+              "teacher_steps": [
+                "Introduce the word 'market' and explain it's a place where people buy and sell things",
+                "Display a chart showing some items found at the market",
+                "Tell learners to identify items from the chart (salt, chicken, soap, rice, maize, oil, vegetables, tomatoes, onions, fish, fruits, clothes, shoes)",
+                "Ask learners to mention more items found at the market",
+                "Demonstrate having a conversation about items found at the market"
+              ],
+              "learner_steps": [
+                "Identify items from chart",
+                "Mention more items found at market",
+                "Practice dialogue in pairs naming items",
+                "Rotate pairs to practice with different partners",
+                "Visit market stand and ask/respond about items",
+                "Identify items found at market"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1b",
+              "activity_title": "Identify people found at the market",
+              "page": 46,
+              "hook": "Ask learners to mention people found at the market",
+              "teacher_steps": [
+                "Revise the items found at the market",
+                "Ask learners to mention people found at the market (buyers, sellers, vendors, porters, guards)",
+                "Ask learners to mention more people found at the market",
+                "Explain what we mean by buyers and sellers",
+                "Display a chart showing people buying and selling",
+                "Tell learners to identify people on the chart, who is buying and who is selling",
+                "Demonstrate the conversation on who is buying and selling at the market"
+              ],
+              "learner_steps": [
+                "Mention people found at market",
+                "Practice dialogue in pairs naming people from chart",
+                "Rotate pairs to practice with different partners",
+                "Present dialogue to class",
+                "Mention people found at market"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1c",
+              "activity_title": "Buying and selling",
+              "page": 47,
+              "hook": "Explain that buying is giving seller money for item and selling is getting money from buyer",
+              "teacher_steps": [
+                "Review the phrases 'buying and selling'",
+                "Explain that buying is giving the seller money for the item and selling is getting money from the buyer for the item",
+                "Display a chart showing items and their prices",
+                "Demonstrate the conversation used for buying and selling"
+              ],
+              "learner_steps": [
+                "Practice dialogue in pairs buying and selling",
+                "Rotate pairs to have turn at buying and selling",
+                "Visit market stand and present dialogue",
+                "Mention language used when buying and selling"
+              ]
+            }
+          ],
+          "short_notes": "This sub-topic focuses on equipping learners with the ability to use appropriate language for buying and selling at the market. A market is a place where people buy and sell things. Items found at the market include: salt, chicken, soap, rice, maize, oil, vegetables, tomatoes, onions, fish, fruits, clothes, shoes. People found at the market include: buyers (people who buy things), sellers (people who sell things), vendors, porters, guards. Language for buying and selling includes asking 'What is this?', 'How much is it?', 'May I have one?', and responding with item names and prices.",
+          "vocabulary": [
+            {
+              "term": "market",
+              "definition": "A place where people buy and sell things"
+            },
+            {
+              "term": "buyer",
+              "definition": "A person who buys things"
+            },
+            {
+              "term": "seller",
+              "definition": "A person who sells things"
+            },
+            {
+              "term": "vendor",
+              "definition": "A person who sells goods at the market"
+            },
+            {
+              "term": "buying",
+              "definition": "Giving the seller money for the item"
+            },
+            {
+              "term": "selling",
+              "definition": "Getting money from the buyer for the item"
+            }
+          ],
+          "assessment": {
+            "page": 46,
+            "questions": [
+              "Ask learners to identify the items at a market",
+              "Ask learners to mention the people found at the market",
+              "Ask learners to mention the language used to buy and sell at the market"
+            ]
+          }
+        },
+        {
+          "subtopic_id": "1.1.13",
+          "title": "Community practices",
+          "page": 48,
+          "competences": [
+            "Use appropriate language to talk about community practices"
+          ],
+          "instructional_blocks": [
+            {
+              "type": "activity",
+              "activity_number": "1a",
+              "activity_title": "Good community practices",
+              "page": 49,
+              "hook": "Explain that community practices is when people work together to help everyone",
+              "teacher_steps": [
+                "Introduce the phrases 'community and practices'",
+                "Explain that community practices is when people work together to help everyone",
+                "Use a poster or chart showing people working together (sweeping, sharing, planting trees)",
+                "Ask learners to mention good community practices including others not on the chart",
+                "Demonstrate the conversation used to talk about good community practices"
+              ],
+              "learner_steps": [
+                "Practice conversations in pairs or small groups",
+                "Supervise to ensure everyone practices",
+                "Present dialogue in front of class",
+                "Mention good community practices"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1b",
+              "activity_title": "How we live together in harmony",
+              "page": 50,
+              "hook": "Explain that harmony is when people work together to make something better",
+              "teacher_steps": [
+                "Introduce the word 'harmony'",
+                "Explain that harmony is when people work together to make something better",
+                "Describe how we live together in harmony",
+                "Explain that we work together in harmony by sharing work fairly, supporting each other, appreciating, respecting and tolerating each other",
+                "Display a poster showing people living in harmony (kind, sharing, caring, honest)",
+                "Explain each picture and how the action relates to living in harmony",
+                "Demonstrate talking about how we live together in harmony"
+              ],
+              "learner_steps": [
+                "Practice conversations in pairs or small groups",
+                "Rotate pairs to practice with different partners",
+                "Create role-play in small groups",
+                "Present to class",
+                "Mention words describing living in harmony"
+              ]
+            },
+            {
+              "type": "activity",
+              "activity_number": "1c",
+              "activity_title": "Keeping our Community Clean",
+              "page": 51,
+              "hook": "Explain that community is a group of people who live, work and help each other",
+              "teacher_steps": [
+                "Revise the word 'community'",
+                "Explain that a community is a group of people who live, work and help each other",
+                "Ask learners to mention how they keep the community clean",
+                "Demonstrate the conversation on how to keep the community clean"
+              ],
+              "learner_steps": [
+                "Mention how to keep community clean",
+                "Practice dialogue in pairs",
+                "Rotate pairs to practice with different partners",
+                "Go to school grounds in small groups",
+                "Demonstrate one way to keep community clean",
+                "Mention ways to keep community clean"
+              ]
+            }
+          ],
+          "short_notes": "This sub-topic focuses on equipping learners with the ability to use appropriate language to talk about community practices. Community practices is when people work together to help everyone. Good community practices include: sweeping, sharing, planting trees, helping each other. Harmony is when people work together to make something better. We live together in harmony by: sharing work fairly, supporting each other in chores, appreciating each other, respecting each other, tolerating each other. We can describe living in harmony with words like: kind, fair, honest, caring, sharing, helping. Community is a group of people who live, work and help each other. Ways to keep community clean: slashing, putting litter in bin, sweeping, weeding, picking rubbish.",
+          "vocabulary": [
+            {
+              "term": "community",
+              "definition": "A group of people who live, work and help each other"
+            },
+            {
+              "term": "practices",
+              "definition": "Activities or behaviors that people do regularly"
+            },
+            {
+              "term": "harmony",
+              "definition": "When people work together to make something better"
+            },
+            {
+              "term": "care",
+              "definition": "Being kind and helping others"
+            }
+          ],
+          "assessment": {
+            "page": 49,
+            "questions": [
+              "Ask learners to mention some good community practices",
+              "Ask learners to mention how people live together in harmony",
+              "Ask learners to mention ways of keeping the community clean"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 2",
+    "subject": "Civic Education",
+    "philosophy": "The Civic Education Syllabus has been reviewed by the need to provide a national age-appropriate curriculum for learners from Form 1 to 4. The syllabi aim to provide quality education that is aligned with the Competence-Based Curriculum and twenty-first Century Skills. It also aims to impart the knowledge, skills, values and positive attitudes that are aimed at enabling learners to live and grow into productive and useful members of their communities and the Zambian society.",
+    "competence_learning": "Learners are at the centre of all teaching and learning activities and this is the primary focus of learner-centred teaching. Learners are encouraged to actively and independently engage in their education. The teacher facilitates learning by building on a learner's past knowledge, skills, values, attitudes and experiences. Recommended methodologies include: Individual work, Teamwork/Group work, Question and answer, Field trips, Exploration, Discussion, Inquiry, Pairs, Project work, Research.",
+    "goals": [
+      "Analyse process of Constitution making and adoption in Zambia",
+      "Describe the role of Electoral Commission of Zambia (ECZ)",
+      "Respect human dignity and examine categories of Human Rights",
+      "Differentiate between local and international trade",
+      "Describe Regional Organisations",
+      "Justify significance of selecting leaders in any organisation",
+      "Justify existence of International Organisations",
+      "Participate in paying appropriate tax",
+      "Use banking and financial services offered by commercial banks",
+      "Resolve conflict in society"
+    ]
+  },
+  "topics": [
+    {
+      "unit": "2.1",
+      "topic_title": "CONSTITUTION",
+      "page_number": 30,
+      "subtopics": [
+        "Constitution",
+        "The Zambian Constitution",
+        "Importance of Constitution"
+      ],
+      "specific_outcomes": [
+        "Demonstrate understanding of the Constitution",
+        "Analyse process of Constitution making and adoption in Zambia",
+        "Examine structure of Zambian Constitution",
+        "Explain importance of Constitution"
+      ]
+    },
+    {
+      "unit": "2.2",
+      "topic_title": "ELECTIONS",
+      "page_number": 31,
+      "subtopics": [
+        "Elections",
+        "Electoral Commission of Zambia (ECZ)",
+        "Electoral Systems"
+      ],
+      "specific_outcomes": [
+        "Justify significance of electing leaders",
+        "Analyse the role of the Electoral Commission of Zambia (ECZ)",
+        "Examine electoral systems"
+      ]
+    },
+    {
+      "unit": "2.3",
+      "topic_title": "ECONOMIC AND SOCIAL DEVELOPMENT",
+      "page_number": 33,
+      "subtopics": [
+        "The concept of Economic and Social Development",
+        "The role of Informal Sector to National Development"
+      ],
+      "specific_outcomes": [
+        "Devise solutions in dealing with life challenges",
+        "Demonstrate understanding of the role of Informal Sector to National Development"
+      ]
+    },
+    {
+      "unit": "2.4",
+      "topic_title": "TRADE",
+      "page_number": 34,
+      "subtopics": [
+        "Local and International Trade"
+      ],
+      "specific_outcomes": [
+        "Differentiate between local and international trade"
+      ]
+    },
+    {
+      "unit": "2.5",
+      "topic_title": "HUMAN RIGHTS",
+      "page_number": 35,
+      "subtopics": [
+        "History of Human Rights",
+        "Categories of Human Rights",
+        "The Bill of Rights"
+      ],
+      "specific_outcomes": [
+        "Promote human dignity",
+        "Examine categories of Human Rights",
+        "Examine concept of Bill of Rights"
+      ]
+    },
+    {
+      "unit": "2.6",
+      "topic_title": "PEACE AND CONFLICT",
+      "page_number": 36,
+      "subtopics": [
+        "Culture of Peace",
+        "Conflict in society",
+        "Role of the United Nations in promoting peace"
+      ],
+      "specific_outcomes": [
+        "Promote peace and non-violence in society",
+        "Resolve conflict in society",
+        "Examine the role of United Nations in promoting peace"
+      ]
+    },
+    {
+      "unit": "2.7",
+      "topic_title": "REGIONAL ORGANISATIONS",
+      "page_number": 38,
+      "subtopics": [
+        "Regional Organisations"
+      ],
+      "specific_outcomes": [
+        "Analyse roles of Regional Organisations"
+      ]
+    },
+    {
+      "unit": "2.8",
+      "topic_title": "INTERNATIONAL ORGANISATIONS",
+      "page_number": 38,
+      "subtopics": [
+        "International Organisations",
+        "Specialised Agencies of the United Nations"
+      ],
+      "specific_outcomes": [
+        "Justify existence of International Organisations",
+        "Demonstrate understanding of Specialised Agencies of the United Nations Organisations"
+      ]
+    },
+    {
+      "unit": "2.9",
+      "topic_title": "PERSONAL FINANCE MANAGEMENT",
+      "page_number": 39,
+      "subtopics": [
+        "Borrowing",
+        "Investment"
+      ],
+      "specific_outcomes": [
+        "Interpret terms of conditions of borrowing",
+        "Apply knowledge of investment in real life"
+      ]
+    },
+    {
+      "unit": "2.10",
+      "topic_title": "TAXATION",
+      "page_number": 40,
+      "subtopics": [
+        "The Concept of Taxation"
+      ],
+      "specific_outcomes": [
+        "Practise paying tax"
+      ]
+    },
+    {
+      "unit": "2.11",
+      "topic_title": "BANKING SERVICES",
+      "page_number": 40,
+      "subtopics": [
+        "Financial Services offered by Commercial Banks"
+      ],
+      "specific_outcomes": [
+        "Use banking and financial services",
+        "Use E-Banking services"
+      ]
+    },
+    {
+      "unit": "2.12",
+      "topic_title": "BUSINESS PLAN",
+      "page_number": 41,
+      "subtopics": [
+        "Business Idea",
+        "Marketing Plan",
+        "Financial Plan",
+        "Finalising a Business Plan",
+        "Business Startup Capital"
+      ],
+      "specific_outcomes": [
+        "Evaluate different investment opportunities",
+        "Generate business ideas",
+        "Develop a marketing plan",
+        "Prepare a financial plan",
+        "Consolidate components of a business plan",
+        "Mobilise startup capital"
+      ]
+    }
+  ]
+}

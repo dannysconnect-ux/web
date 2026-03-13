@@ -1,0 +1,612 @@
+{
+  "meta": {
+    "curriculum": "Zambia",
+    "grade": "Form 1",
+    "subject": "English Language",
+    "philosophy": "Quality, life long education for all which is accessible, inclusive and relevant to individual, national and global needs",
+    "competence_learning": "Analytical Thinking: Grasp and breakdown information and effectively share with others; Break down problem; Test hypothesis; Apply SWOT analysis; Evaluate solution. Citizenship: Display orderliness in one’s actions; Analyse the impact of policy decisions on prevailing conditions in the community; Resolve conflict and build consensus in a group; Prepare for further education, career opportunities, and global citizenship. Collaboration: Respect the views of group members while working together; Listen to other group members and make meaningful contribution to a given task. Communication: Use appropriate language (verbal and non-verbal) in different situations; Apply good listening, speaking, reading, and writing skills; Express oneself using different media and symbols; Effectively share one’s thoughts and emotions and understand others; Express oneself (spoken and written) clearly and effectively; Manage one’s emotions; Speak effectively in public; Ask for feedback. Creativity and innovation: Organise information and ideas; Justify one’s reasoning and procedures; Ask thoughtful questions; Understand connections between seemingly unrelated subject matter. Critical Thinking: Solve complex problems; Analyse texts, to improve the ability to understand; Ensure opinions are based on facts; Become more open minded towards different views; Participate in debates and discussions on global issues. Digital literacy: Analyse and synthesise complex digital information; Communicate responsibly using social media. Emotional Intelligence: Express empathy for others; Work effectively with others; Demonstrate self-control; Communicate and relate effectively with others; Collaborate with others; Negotiate and resolve differences amicably. Entrepreneurship: Exhibit leadership skills; Understand the importance of ethical business practices, social responsibility, and sustainability. Environmental Sustainability: Understand appropriate mitigation to climate change. Problem Solving: Make sense of the gathered information from diverse sources by identifying misconceptions, main and supporting ideas, conflicting information, point of view or biases.",
+    "goals": [
+      "Develop essential skills in listening, reading, speaking, writing, creating, and reflecting upon increasingly intricate spoken, written, and multimodal texts.",
+      "Foster accuracy, fluency, and purpose in communication, aligning with the Competence-Based Curriculum of the 21st Century.",
+      "Instil knowledge, skills, values, and positive attitudes, nurturing children to become productive and beneficial members of both their communities and Zambian society.",
+      "Ensure a seamless transition into O-Level Secondary Education.",
+      "Enhance language skills for effective communication and learning across various subjects.",
+      "Immerse learners in linguistic practice, fostering proficiency through consistent engagement.",
+      "Develop the learners’ ability to communicate effectively and confidently in English language both orally and in writing.",
+      "Enable learners to think critically as well as analyse and evaluate information to form informed opinions and decisions.",
+      "Develop the learners’ communicative competence in English Language including other skills of listening and speaking, reading and writing.",
+      "Improve the learners’ ability to use English Language accurately and appropriately.",
+      "Foster the learners’ creativity, imagination, and problem solving.",
+      "Prepare them for real life situations, academic pursuits, and career opportunities."
+    ]
+  },
+  "topics": [
+    {
+      "unit": "1.1.1",
+      "topic_title": "GREETINGS",
+      "page_number": 2,
+      "subtopics": [
+        "Formal and Informal Greetings"
+      ],
+      "specific_outcomes": [
+        "Use appropriate greetings in different contexts"
+      ]
+    },
+    {
+      "unit": "1.1.2",
+      "topic_title": "REQUESTS",
+      "page_number": 2,
+      "subtopics": [
+        "Polite Requests"
+      ],
+      "specific_outcomes": [
+        "Make polite requests in different contexts"
+      ]
+    },
+    {
+      "unit": "1.1.3",
+      "topic_title": "INTRODUCTIONS",
+      "page_number": 3,
+      "subtopics": [
+        "Personal Introduction"
+      ],
+      "specific_outcomes": [
+        "Make introductions of oneself"
+      ]
+    },
+    {
+      "unit": "1.1.4",
+      "topic_title": "INVITATIONS",
+      "page_number": 3,
+      "subtopics": [
+        "Extending and Responding to Invitations"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language when extending and responding to invitations"
+      ]
+    },
+    {
+      "unit": "1.1.5",
+      "topic_title": "APOLOGIES AND COMPLIMENTS",
+      "page_number": 4,
+      "subtopics": [
+        "Expressing Apologies and Compliments"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language when apologising and complimenting"
+      ]
+    },
+    {
+      "unit": "1.1.6",
+      "topic_title": "LANGUAGE IN SOCIAL SETTINGS",
+      "page_number": 5,
+      "subtopics": [
+        "Language Use in Different Social Settings"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language in different social settings"
+      ]
+    },
+    {
+      "unit": "1.1.7",
+      "topic_title": "PHONE CONVERSATIONS",
+      "page_number": 6,
+      "subtopics": [
+        "Making and Receiving Phone Calls"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language when making or receiving phone calls"
+      ]
+    },
+    {
+      "unit": "1.1.8",
+      "topic_title": "MAKING AN OFFER",
+      "page_number": 6,
+      "subtopics": [
+        "Making and Accepting an Offer"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language when making and responding to an offer"
+      ]
+    },
+    {
+      "unit": "1.1.9",
+      "topic_title": "PUBLIC SPEAKING",
+      "page_number": 7,
+      "subtopics": [
+        "Debate"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to debate on different cross cutting issues"
+      ]
+    },
+    {
+      "unit": "1.1.10",
+      "topic_title": "DRAMA",
+      "page_number": 7,
+      "subtopics": [
+        "Short Plays"
+      ],
+      "specific_outcomes": [
+        "Use appropriate language to dramatise short plays"
+      ]
+    },
+    {
+      "unit": "1.1.11",
+      "topic_title": "PROCESS",
+      "page_number": 8,
+      "subtopics": [
+        "Describing a Process"
+      ],
+      "specific_outcomes": [
+        "Describe simple processes"
+      ]
+    },
+    {
+      "unit": "1.1.12",
+      "topic_title": "POETRY",
+      "page_number": 8,
+      "subtopics": [
+        "Reciting Poems"
+      ],
+      "specific_outcomes": [
+        "Recite poems"
+      ]
+    },
+    {
+      "unit": "1.1.13",
+      "topic_title": "DIRECTIONS",
+      "page_number": 9,
+      "subtopics": [
+        "Giving Directions"
+      ],
+      "specific_outcomes": [
+        "Give directions"
+      ]
+    },
+    {
+      "unit": "1.1.14",
+      "topic_title": "FIGURATIVE LANGUAGE",
+      "page_number": 9,
+      "subtopics": [
+        "Proverbs",
+        "Riddles",
+        "Idiomatic Expressions"
+      ],
+      "specific_outcomes": [
+        "Use proverbs in various social contexts",
+        "Use Riddles in various social contexts",
+        "Use idiomatic expressions in speech"
+      ]
+    },
+    {
+      "unit": "1.2.1",
+      "topic_title": "COMPREHENSION",
+      "page_number": 12,
+      "subtopics": [
+        "Listening Comprehension",
+        "Reading Comprehension"
+      ],
+      "specific_outcomes": [
+        "Listen and comprehend information",
+        "Read and comprehend information",
+        "Read a variety of texts extensively"
+      ]
+    },
+    {
+      "unit": "1.3.1",
+      "topic_title": "BASIC WRITING SKILLS",
+      "page_number": 14,
+      "subtopics": [
+        "The Sentence",
+        "Spelling",
+        "Punctuation",
+        "Paragraphing"
+      ],
+      "specific_outcomes": [
+        "Write correct sentences",
+        "Apply spelling rules",
+        "Use appropriate punctuation marks in sentences",
+        "Write paragraphs"
+      ]
+    },
+    {
+      "unit": "1.3.2",
+      "topic_title": "NARRATIVE WRITING",
+      "page_number": 16,
+      "subtopics": [
+        "Story Writing"
+      ],
+      "specific_outcomes": [
+        "Write stories"
+      ]
+    },
+    {
+      "unit": "1.3.3",
+      "topic_title": "DESCRIPTIVE WRITING",
+      "page_number": 16,
+      "subtopics": [
+        "Describing a Person, an Animal or an Object"
+      ],
+      "specific_outcomes": [
+        "Write a description of a person, an animal or an object"
+      ]
+    },
+    {
+      "unit": "1.3.4",
+      "topic_title": "LETTER WRITING",
+      "page_number": 17,
+      "subtopics": [
+        "Informal Letter"
+      ],
+      "specific_outcomes": [
+        "Write Informal Letters"
+      ]
+    },
+    {
+      "unit": "1.3.5",
+      "topic_title": "EXPOSITORY WRITING",
+      "page_number": 17,
+      "subtopics": [
+        "Writing Expository Essays"
+      ],
+      "specific_outcomes": [
+        "Write expository essays"
+      ]
+    },
+    {
+      "unit": "1.3.6",
+      "topic_title": "PERSUASIVE WRITING",
+      "page_number": 18,
+      "subtopics": [
+        "An Argumentative Composition",
+        "Discursive Composition"
+      ],
+      "specific_outcomes": [
+        "Write an argumentative composition",
+        "Write a discursive composition"
+      ]
+    },
+    {
+      "unit": "1.3.7",
+      "topic_title": "DIARY WRITING",
+      "page_number": 19,
+      "subtopics": [
+        "Introduction to Writing Diary Entries"
+      ],
+      "specific_outcomes": [
+        "Write diary entries"
+      ]
+    },
+    {
+      "unit": "1.4.1",
+      "topic_title": "PARTS OF SPEECH",
+      "page_number": 20,
+      "subtopics": [
+        "Introduction to Parts of Speech"
+      ],
+      "specific_outcomes": [
+        "Use parts of speech in sentences"
+      ]
+    },
+    {
+      "unit": "1.4.2",
+      "topic_title": "TENSES",
+      "page_number": 20,
+      "subtopics": [
+        "Present Simple Tense",
+        "Present Continuous Tense",
+        "Past Simple Tense",
+        "Past Continuous Tense",
+        "The Future Simple Tense",
+        "Future Continuous Tenses",
+        "The Present Perfect Tense",
+        "The Present Perfect Continuous Tense",
+        "Past Perfect Tense",
+        "Past Perfect Continuous Tense",
+        "Future Perfect Tense",
+        "Future Perfect Continuous Tense"
+      ],
+      "specific_outcomes": [
+        "Use Present Simple Tense in sentences",
+        "Use Present Continuous Tense in sentences",
+        "Use the Past Simple Tense in sentences",
+        "Use the Past Continuous Tense in Sentences",
+        "Use Future Simple Tense in sentences",
+        "Use Future Continuous Tense in sentences",
+        "Use Present Perfect Tense in sentences",
+        "Use Present Perfect Continuous Tense in sentences",
+        "Use Past Perfect Tense in sentences",
+        "Use Past Perfect Continuous Tense in sentences",
+        "Use Future Perfect Tense in sentences",
+        "Use Future Perfect Continuous Tense in sentences"
+      ]
+    },
+    {
+      "unit": "1.4.3",
+      "topic_title": "NOUNS",
+      "page_number": 26,
+      "subtopics": [
+        "Possessive Nouns",
+        "Irregular Nouns",
+        "Countable Nouns",
+        "Uncountable Nouns",
+        "Collective Nouns"
+      ],
+      "specific_outcomes": [
+        "Use possessive nouns in sentences",
+        "Change irregular nouns from singular to plural",
+        "Use countable nouns in sentences",
+        "Use uncountable nouns in sentences",
+        "Construct sentences using collective nouns"
+      ]
+    },
+    {
+      "unit": "1.4.4",
+      "topic_title": "ARTICLES",
+      "page_number": 27,
+      "subtopics": [
+        "Definite and Indefinite Articles"
+      ],
+      "specific_outcomes": [
+        "Use articles in sentences"
+      ]
+    },
+    {
+      "unit": "1.4.5",
+      "topic_title": "INTENSIFIERS",
+      "page_number": 28,
+      "subtopics": [
+        "Using Intensifiers"
+      ],
+      "specific_outcomes": [
+        "Use intensifiers in sentences"
+      ]
+    },
+    {
+      "unit": "1.4.6",
+      "topic_title": "ADJECTIVES",
+      "page_number": 28,
+      "subtopics": [
+        "Order of Adjectives"
+      ],
+      "specific_outcomes": [
+        "Use the correct order of adjectives in sentences"
+      ]
+    },
+    {
+      "unit": "1.4.7",
+      "topic_title": "VERBS",
+      "page_number": 29,
+      "subtopics": [
+        "Linking Verbs"
+      ],
+      "specific_outcomes": [
+        "Use linking verbs in sentences"
+      ]
+    },
+    {
+      "unit": "1.4.8",
+      "topic_title": "AGREEMENT",
+      "page_number": 29,
+      "subtopics": [
+        "Subject -Verb Agreement"
+      ],
+      "specific_outcomes": [
+        "Use correct verb forms with the subject in a sentence"
+      ]
+    },
+    {
+      "unit": "1.4.9",
+      "topic_title": "REASON",
+      "page_number": 30,
+      "subtopics": [
+        "Expressing Reason"
+      ],
+      "specific_outcomes": [
+        "Use expressions of reason in sentences"
+      ]
+    },
+    {
+      "unit": "1.4.10",
+      "topic_title": "PURPOSE",
+      "page_number": 30,
+      "subtopics": [
+        "Different Ways of Expressing Purpose"
+      ],
+      "specific_outcomes": [
+        "Use different expressions to show purpose in sentences"
+      ]
+    },
+    {
+      "unit": "1.4.11",
+      "topic_title": "RESULT",
+      "page_number": 31,
+      "subtopics": [
+        "Different Ways of Expressing Result"
+      ],
+      "specific_outcomes": [
+        "Use different expressions of result in sentences"
+      ]
+    },
+    {
+      "unit": "1.4.12",
+      "topic_title": "ADVERBS",
+      "page_number": 31,
+      "subtopics": [
+        "Position of Adverbs"
+      ],
+      "specific_outcomes": [
+        "Use adverbs in different positions in sentences"
+      ]
+    },
+    {
+      "unit": "1.4.13",
+      "topic_title": "PREPOSITIONS",
+      "page_number": 31,
+      "subtopics": [
+        "Types of Prepositions"
+      ],
+      "specific_outcomes": [
+        "Use prepositions in sentences"
+      ]
+    },
+    {
+      "unit": "1.4.14",
+      "topic_title": "PHRASAL VERBS",
+      "page_number": 32,
+      "subtopics": [
+        "Phrasal Verbs"
+      ],
+      "specific_outcomes": [
+        "Use phrasal verbs in sentences"
+      ]
+    },
+    {
+      "unit": "1.4.15",
+      "topic_title": "QUESTION TAGS",
+      "page_number": 33,
+      "subtopics": [
+        "Question Tags and Short Answers"
+      ],
+      "specific_outcomes": [
+        "Add question tags to statements"
+      ]
+    },
+    {
+      "unit": "1.4.16",
+      "topic_title": "CONTRAST",
+      "page_number": 33,
+      "subtopics": [
+        "Use ‘But’ and ‘Yet’ in Sentences to Show Contrast"
+      ],
+      "specific_outcomes": [
+        "Use ‘but’ and ‘yet’ to show contrast in sentences"
+      ]
+    },
+    {
+      "unit": "1.4.17",
+      "topic_title": "CONDITION",
+      "page_number": 34,
+      "subtopics": [
+        "Types of Condition",
+        "Tense Changes in Conditional Clause and Main Clause"
+      ],
+      "specific_outcomes": [
+        "Use conditional sentences",
+        "Use appropriate tenses in conditional sentences"
+      ]
+    },
+    {
+      "unit": "1.4.18",
+      "topic_title": "ABILITY",
+      "page_number": 35,
+      "subtopics": [
+        "Expressing Ability"
+      ],
+      "specific_outcomes": [
+        "Express ability in sentences"
+      ]
+    },
+    {
+      "unit": "1.4.19",
+      "topic_title": "THE GERUND AND PRESENT PARTICIPLE",
+      "page_number": 36,
+      "subtopics": [
+        "Difference between Gerunds and Present Participles"
+      ],
+      "specific_outcomes": [
+        "Use gerunds and present participles in sentences"
+      ]
+    },
+    {
+      "unit": "1.4.20",
+      "topic_title": "SENSE RELATIONS",
+      "page_number": 36,
+      "subtopics": [
+        "Antonyms",
+        "Synonyms",
+        "Homonyms",
+        "Homophones"
+      ],
+      "specific_outcomes": [
+        "Use Antonyms",
+        "Use Synonyms",
+        "Use Homonyms",
+        "Use Homophones"
+      ]
+    },
+    {
+      "unit": "1.5.1",
+      "topic_title": "INTRODUCTION TO SUMMARY",
+      "page_number": 38,
+      "subtopics": [
+        "Types of Summaries",
+        "Title Summary",
+        "Sentence Summary",
+        "Paragraph Summary"
+      ],
+      "specific_outcomes": [
+        "Identify types of summaries",
+        "Choose best title summary",
+        "Choose the best sentence summary",
+        "Choose the best paragraph summary"
+      ]
+    },
+    {
+      "unit": "1.5.2",
+      "topic_title": "ABBREVIATIONS",
+      "page_number": 39,
+      "subtopics": [
+        "Types of Abbreviations"
+      ],
+      "specific_outcomes": [
+        "Apply abbreviations in writing"
+      ]
+    },
+    {
+      "unit": "1.5.3",
+      "topic_title": "SHORT MESSAGES",
+      "page_number": 40,
+      "subtopics": [
+        "Short Message System (SMS)"
+      ],
+      "specific_outcomes": [
+        "Use short message system in summary"
+      ]
+    },
+    {
+      "unit": "1.5.4",
+      "topic_title": "ADVERTISEMENTS",
+      "page_number": 40,
+      "subtopics": [
+        "Types of Advertisements"
+      ],
+      "specific_outcomes": [
+        "Write advertisements"
+      ]
+    },
+    {
+      "unit": "1.5.5",
+      "topic_title": "NOTE SUMMARY",
+      "page_number": 40,
+      "subtopics": [
+        "Types of Note Summaries"
+      ],
+      "specific_outcomes": [
+        "Write Note Summaries"
+      ]
+    },
+    {
+      "unit": "1.5.6",
+      "topic_title": "TABULATION",
+      "page_number": 41,
+      "subtopics": [
+        "Tabulation Skills"
+      ],
+      "specific_outcomes": [
+        "Apply tabulation skills"
+      ]
+    }
+  ]
+}

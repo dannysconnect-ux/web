@@ -1,0 +1,611 @@
+{
+  "levels": [
+    {
+      "level_name": "Level 1: Beginner & Single Digit Numbers",
+      "activities": [
+        {
+          "activity_name": "Clap and Snap",
+          "outcome": "To understand the concept of place value for ones, tens and hundreds.",
+          "materials_needed": [],
+          "steps": [
+            "Teacher explains that snapping fingers denotes ones, clapping hands denotes tens, and stamping feet denotes hundreds.",
+            "Teacher claps two times and snaps three times; learners say the number (e.g., 23).",
+            "Teacher gives another demonstration, starting with the largest value.",
+            "After at least two demonstrations, a learner demonstrates while others identify the number.",
+            "Note: At a later stage, introduce hundreds, tens, and ones using stamping (hundreds), clapping (tens), and snapping (ones)."
+          ]
+        },
+        {
+          "activity_name": "Number Circle",
+          "outcome": "To understand the concept of place value for ones, tens, hundreds, thousands and ten thousand.",
+          "materials_needed": ["Stones", "Chalk/Marker (for drawing circles and frame)"],
+          "steps": [
+            "Teacher draws two concentric circles on the ground/floor, labeling the inner ring 'ones' and outer ring 'tens'.",
+            "Teacher shows learners nine stones and instructs them to be on one side for safety.",
+            "Teacher throws stones into the rings, stating rules: exclude stones on a line or beyond the rings.",
+            "Teacher groups stones in each ring.",
+            "Teacher draws a frame of tens and ones (and other place values if more circles are used) and writes in the number.",
+            "Teacher gives stones to a learner to try, then asks groups to try the activity to get the highest number.",
+            "Note: For Beginner/Level 1, start with two circles (ones and tens). For Level 2/3, use three circles (ones, tens, hundreds) and quickly move to four/five circles."
+          ]
+        },
+        {
+          "activity_name": "Number Chart Reading",
+          "outcome": "Recognise, count, and read numbers from 1 to 100. Recognise number patterns.",
+          "materials_needed": ["Number chart (small for learners, large for teacher)", "Pointer"],
+          "steps": [
+            "Teacher reads the chart clearly; learners only listen.",
+            "Teacher reads some numbers two or three more times.",
+            "Distribute small number charts to learners, who place fingers on numbers as teacher reads.",
+            "Give 2-3 individual learners opportunity to read numbers from the chart.",
+            "Divide learners into small groups (4-5), give a number chart, and ask them to practice.",
+            "Withdraw number charts; ask learners to practice writing numbers focused on that day (e.g., 7, 9, 19).",
+            "Note: Place pointer under numbers, read loudly. Read by consecutive groups (1-20, 1-40 etc.). Read in different ways (top-bottom, zig-zag, random). Conduct daily for 10 minutes."
+          ]
+        },
+        {
+          "activity_name": "Activities with Sticks (Number Recognition)",
+          "outcome": "Associate numbers with objects.",
+          "materials_needed": ["Sticks", "Number cards"],
+          "steps": [
+            "Teacher narrates a 4-line story about a number.",
+            "Learners identify things around them that are as many as that number.",
+            "Learners count sticks corresponding to the number discussed.",
+            "Ask 2-3 other learners to demonstrate counting sticks.",
+            "Use number cards to build association with number symbols.",
+            "Ask learners to read that number in the number chart.",
+            "Learners write the number in their notebooks.",
+            "Introduce zero: Teacher picks 9 sticks, asks how many, places all on ground, asks again (none/zero). Discuss the concept of zero.",
+            "Ask about things not around them that represent zero.",
+            "Show the zero (0) number card and ask learners to write it. Use the same method to teach numbers from 1 to 9."
+          ]
+        },
+        {
+          "activity_name": "Bundle and Sticks Activity",
+          "outcome": "Interpret numbers using ten as a unit. Identify place values of digits in given numbers. Understand the concept of ones and place value.",
+          "materials_needed": ["Sticks", "Rubber bands", "Number chart card", "Chalk/Marker (for drawing frames)"],
+          "steps": [
+            "Teacher picks a fistful of sticks and counts them.",
+            "Introduce rule: count 10 sticks, tie with rubber band, make a bundle (1 bundle = 10 sticks).",
+            "Teacher makes bundles from remaining sticks; asks why a bundle can't be made if less than 10 sticks.",
+            "After bundles are made, ask how many bundles and loose sticks there are.",
+            "Draw a frame for bundles and sticks on the floor/ground.",
+            "Place bundles in 'bundles' column and sticks in 'stick' column, then write the number. Learners match this number to the larger chart.",
+            "Divide learners into small groups (3-4 learners), distribute sticks, rubber bands, and a number chart card, and ask them to do the activity.",
+            "Comparison: Invite two learners, ask one to pick 34 sticks, the other 25 sticks. Ask each how many.",
+            "Ask both to use bundles and sticks to represent their numbers and write them next to each other.",
+            "Ask learners to point out the larger number, giving a reason and discussing the logic (if bundles are same, compare sticks).",
+            "Introduce concepts of equal, greater than, and less than (=,>,<).",
+            "If bundles and sticks are same in number, compare bundles with bundles and sticks with sticks (e.g., 34 > 25).",
+            "Note: Explain bundles are 'tens' and sticks are 'ones'. Discuss expansion (34 = 30 + 4). Use same type/size sticks. Hold counted sticks in one hand."
+          ]
+        },
+        {
+          "activity_name": "Division Using Sticks",
+          "outcome": "Express division as repeated subtraction or sharing. Divide up to 18 by single-digit numbers.",
+          "materials_needed": ["Sticks"],
+          "steps": [
+            "Divide learners into small groups.",
+            "Give 18 sticks to each group.",
+            "Instruct groups to distribute sticks equally into a certain number of smaller groups (e.g., 3 groups, 6 groups, 2 groups).",
+            "Ask how many sticks are in each group and if any remain.",
+            "Explain that equal distribution is denoted by the division (÷) symbol.",
+            "Give examples like 18 divided by 3, 18 divided by 6, and 18 divided by 2.",
+            "Note: Use examples that may result in a remainder (e.g., 18 divided by 7)."
+          ]
+        },
+        {
+          "activity_name": "Division Using Objects (Mangoes)",
+          "outcome": "Understand division as equal sharing for small numbers.",
+          "materials_needed": ["Chalk/Marker (for drawing)"],
+          "steps": [
+            "Draw a set of 8 mangoes on the board.",
+            "Ask learners how many mangoes are in the set.",
+            "Ask how the mangoes would be split into 2 equal parts. Draw a line to show the split.",
+            "Draw 2 smaller sets outside the main set with 4 mangoes in each.",
+            "Use arrows to show the relationship between the smaller sets and the main set.",
+            "Explain that 8 ÷ 2 = 4."
+          ]
+        },
+        {
+          "activity_name": "Picture Matching (Counting and Matching)",
+          "outcome": "To practice counting and matching numbers to quantities.",
+          "materials_needed": ["Picture cards", "Exercise books", "Flip chart paper", "Markers"],
+          "steps": [
+            "Teacher draws a table on a flip chart paper using numbers already taught, ensuring it's prepared before class.",
+            "Stick the flip chart paper on the chalkboard.",
+            "Learners count objects in boxes on the left column.",
+            "Learners match that number with the corresponding number of black dots in the box on the right column.",
+            "Teacher matches the first one as an example.",
+            "Repeat the activity with different tables. Note: Be creative with illustrations.",
+            "Modification 1: Learners draw pictures and write numbers in their exercise books/paper.",
+            "Modification 2: Use tallies, simple shapes (stars, triangles, fruits) instead of complex pictures."
+          ]
+        },
+        {
+          "activity_name": "Fill in the Blanks (Number Sequence)",
+          "outcome": "To help learners understand number sequence and identification of missing numbers.",
+          "materials_needed": ["Flip chart", "Markers", "Paper/exercise books", "Number cards"],
+          "steps": [
+            "Put learners into groups of three and give each group a set of number cards.",
+            "Teacher copies numbers in sequence (with blanks) on the chalkboard (e.g., 0,1,2,3,_,_). Read numbers aloud with learners.",
+            "Ask learners to copy the numbers into their exercise books.",
+            "Ask groups to find the missing numbers that go on the empty line.",
+            "Call individual learners to fill up the missing numbers on the chalkboard.",
+            "Repeat the activity with different sets of numbers, starting with 1-digit and progressively moving to 2-digit numbers."
+          ]
+        },
+        {
+          "activity_name": "Number Lines (Number Sequence)",
+          "outcome": "To help learners understand number sequence and placement on a number line.",
+          "materials_needed": ["Exercise books", "Chalk/Marker (for drawing)"],
+          "steps": [
+            "Teacher draws a number line on the chalkboard and writes the first number.",
+            "Learners copy the number line into their exercise books and are guided to assign numbers.",
+            "Call a few learners to come to the chalkboard to complete the number line."
+          ]
+        },
+        {
+          "activity_name": "Pictures, Numbers and Words (Counting and Matching)",
+          "outcome": "To associate quantities with numerals and number words.",
+          "materials_needed": ["Chalkboard", "Chalk/Marker", "Sticks", "Exercise books", "Flashcards (optional)"],
+          "steps": [
+            "Teacher copies a table with pictures, numbers, and words on the chalkboard, using numbers already taught.",
+            "Teacher reads numbers out loud with learners, engaging them by asking them to count sticks and write numbers as pictures are drawn.",
+            "Call learners to the chalkboard to match the numeral to the number in word and the bundle image.",
+            "Match the first set as an example.",
+            "Modification 1: Make flashcards with pictures, numbers in words, and numerals. Learners find their matches.",
+            "Modification 2: Learners sit together with their matches and write the number in words, picture, and numeral in their exercise books."
+          ]
+        },
+        {
+          "activity_name": "Comparing Numbers (Symbols)",
+          "outcome": "To compare numbers using symbols (>, <, =).",
+          "materials_needed": ["Paper", "Exercise books", "Sticks/stones (optional)", "Chalkboard", "Chalk/Marker"],
+          "steps": [
+            "Teacher writes any numbers between 1 and 20 on the chalkboard (e.g., 5 _ 11).",
+            "Learners copy numbers onto paper or exercise books.",
+            "Put learners in pairs. They first circle the bigger number and then insert < or > signs. Provide sticks/stones if needed for counting and comparison.",
+            "Learners come to the chalkboard to circle the answer and insert the correct sign.",
+            "Repeat activity with different numbers.",
+            "Circle the bigger number and place < or > sign as appropriate.",
+            "Circle the smaller number and place < or > sign as appropriate.",
+            "Note: Introduce and explain '>' (greater than) and '<' (less than) signs. Explain that the open side faces the larger number."
+          ]
+        }
+      ]
+    },
+    {
+      "level_name": "Level 2: 2 & 3 Digit Numbers ",
+      "activities": [
+        {
+          "activity_name": "Expansion Chart Reading",
+          "outcome": "Identify place value of digits in given numbers. Write numbers in expanded notation.",
+          "materials_needed": ["Chalkboard", "Chalk/Marker", "Expansion Chart (example provided in document)"],
+          "steps": [
+            "Process 1: Teacher writes the first line of the expansion chart on the board.",
+            "Invite learners to write numbers in every column in a straight line.",
+            "Process 2: Teacher reads 1-90 numbers loudly and clearly.",
+            "Give 2-3 individual learners an opportunity to read numbers from the expansion chart.",
+            "Teachers place their finger below the number being read; all learners read together.",
+            "Every learner reads in the same manner one by one. Others follow along and help.",
+            "Choose a favourite number; learners discuss it (e.g., 'What is 6000? How many zeroes after 6? Where is the comma placed?').",
+            "Note: Read the chart in different ways (top-bottom, right-left, zero after one, using times, units/tens)."
+          ]
+        },
+        {
+          "activity_name": "Activities with Play Money (Number Recognition)",
+          "outcome": "To develop the concept of place value and number recognition.",
+          "materials_needed": ["Play money notes (1000s, 100s, 10s, 1s)"],
+          "steps": [
+            "Introduction: Teacher places a set of play money notes for learners to see.",
+            "Teacher asks a few learners to pick each type of play money and identify/read its value.",
+            "Divide learners into small groups of 5-6.",
+            "Learners pick one note of each type and render change (e.g., 1000 kwacha note to 100 or 10 kwacha denominations).",
+            "Use currency notes to teach ones, tens, and hundreds.",
+            "Main Activities: Ask learners to count and pick a specific amount (e.g., 427 kwacha).",
+            "Teacher draws a frame, writes the number, and discusses place value and expansion (e.g., '4 notes of 100 kwacha make 400').",
+            "Learners depict the value using arrows in the frame.",
+            "Ask learners to place notes in the frame.",
+            "Further Activities: Ask about the largest note. Match notes to the expansion chart. Write amount in figures and words. Make number patterns. Arrange notes in order. Flip play money."
+          ]
+        },
+        {
+          "activity_name": "Addition with Bundle & Sticks",
+          "outcome": "Identify place values of digits in given numbers. Add whole numbers with sums not exceeding 50, including carrying. Apply addition to real life up to 50.",
+          "materials_needed": ["Sticks", "Rubber bands", "Chalkboard/Floor", "Chalk/Marker"],
+          "steps": [
+            "Teacher writes an addition word problem on the board and reads it simultaneously. Learners only listen.",
+            "Teacher reads the problem clearly again.",
+            "Give individual learners an opportunity to read the problem.",
+            "Ask four guided questions: What information is given? What is being asked? What will you do? Why?",
+            "Draw a frame on the floor/ground. Involve two learners to demonstrate solving the word problem using bundles and sticks.",
+            "Remind learners the rule of making a bundle of 10 sticks.",
+            "For Richard's 26 pineapples: Richard picks 26 sticks. Anne picks 15 sticks. Learners make bundles for both.",
+            "Place bundles in 'bundle' column and sticks in 'stick' column.",
+            "Rule: Start by placing the addition symbol. Add loose sticks first, then bundles. Carry forward any bundle of 10 sticks.",
+            "After Anne gives her sticks to Richard, add 6 and 5 sticks to make one bundle and one stick (11 sticks). Write 1 in tens carry forward column, 1 in sticks column.",
+            "Add 2 bundles + 1 bundle + 1 carried bundle to make 4 bundles.",
+            "Richard now has 4 bundles and 1 stick (41). Read '26 plus 15 is 41'. Answer the word problem in a full sentence.",
+            "Note: Talk to learners during each step. After demo, divide into small groups (4-5), give sticks and a level-appropriate word problem."
+          ]
+        },
+        {
+          "activity_name": "Addition with Play Money",
+          "outcome": "Add whole numbers vertically including with carrying. Carry out addition of quantities in real life situations.",
+          "materials_needed": ["Play money notes (1s, 10s, 100s, etc.)", "Chalkboard/Floor", "Chalk/Marker"],
+          "steps": [
+            "Teacher writes an addition word problem on the board and reads it simultaneously (e.g., Henry has 246, Lizzy gives 382). Learners only listen.",
+            "Teacher reads the problem clearly again.",
+            "Give individual learners an opportunity to read the problem.",
+            "Ask four guided questions: What information is given? What is being asked? What will you do? Why?",
+            "Draw a frame on the floor/ground. Involve two learners to demonstrate solving the word problem using Play Money.",
+            "Henry counts 246 kwacha, Lizzy counts 382 kwacha, and numbers are written in the frame.",
+            "Remind addition rule: always add one's place first, then introduce addition symbol.",
+            "If Lizzy gives 2 one-kwacha notes to Henry, Henry has 8 one-kwacha notes.",
+            "If Lizzy gives 8 ten-kwacha notes to Henry, Henry has 12 ten-kwacha notes. Explain this makes 1 hundred-kwacha note and 2 ten-kwacha notes. Place 1 hundred in hundreds column and 2 tens in tens column.",
+            "If Lizzy gives 3 hundred-kwacha notes to Henry, Henry has 6 hundred-kwacha notes. Write 6 in hundreds column.",
+            "Henry counts all notes (6 hundred-kwacha, 2 ten-kwacha, 8 one-kwacha = 628). Read '246 and 382 added together we get 628'. Write answer in full sentence."
+          ]
+        },
+        {
+          "activity_name": "Subtraction with Bundle & Sticks",
+          "outcome": "Subtract whole numbers vertically up to 50. Apply subtraction to real life up to 50.",
+          "materials_needed": ["Sticks", "Rubber bands", "Chalkboard/Floor", "Chalk/Marker"],
+          "steps": [
+            "Teacher writes a subtraction word problem on the board and reads it simultaneously (e.g., Samuel has 32 balloons, gives Nella 13). Learners only listen.",
+            "Teacher reads the problem clearly again.",
+            "Give individual learners an opportunity to read the problem.",
+            "Ask four guided questions: What information is given? What is being asked? What will you do? Why?",
+            "Draw a frame on the floor/ground. Involve two learners to demonstrate solving the word problem using bundles and sticks.",
+            "Remind learners the rule of making a bundle of 10 sticks.",
+            "Samuel picks 32 sticks. Ask learners if they can make bundles from 32 sticks. Place bundles in 'bundle' column and sticks in 'stick' column.",
+            "Nella needs to take 13 sticks. Ask how many bundles and sticks make 13. Write that number in columns.",
+            "Rule: Start with subtraction symbol. Subtract loose sticks first. If not enough sticks (e.g., 3 from 2), borrow 1 bundle from the bundles column and unbundle it into 10 sticks. (e.g., 3 bundles become 2, 2 sticks become 12).",
+            "Subtract 3 sticks from 12 sticks (9 remain). Subtract 1 bundle from 2 bundles (1 remains). Samuel has 1 bundle and 9 sticks (19).",
+            "Read 'When 13 is subtracted from 32, we get 19'. Answer the word problem in a full sentence."
+          ]
+        },
+        {
+          "activity_name": "Subtraction with Play Money",
+          "outcome": "Subtract whole numbers vertically with regrouping. Carry out subtraction in real life.",
+          "materials_needed": ["Play money notes (1s, 10s, 100s)", "Chalkboard/Floor", "Chalk/Marker"],
+          "steps": [
+            "Teacher writes a subtraction word problem on the board and reads it simultaneously (e.g., Rosa has 321, buys goods worth 165). Learners only listen.",
+            "Teacher reads the problem clearly again.",
+            "Give individual learners an opportunity to read the problem.",
+            "Ask four guided questions: What information is given? What is being asked? What will you do? Why?",
+            "Draw hundreds, tens, and ones frame on the floor/ground. Involve two learners to demonstrate solving using play money.",
+            "Rosa takes 321 kwacha, writes the appropriate numbers in the frame. Robert needs 165 kwacha.",
+            "Start solving from the ones column. Rosa cannot give 5 kwacha from 1 one-kwacha note.",
+            "Rosa gets 1 ten-kwacha note and changes it to 10 one-kwacha notes (now 11 one-kwacha notes). Gives 5, 6 remain.",
+            "From 2 ten-kwacha notes, 1 was picked, 1 remains.",
+            "Rosa cannot give 6 ten-kwacha notes from 1 ten-kwacha note. Gets 1 hundred-kwacha note, changes to 10 ten-kwacha notes (now 11 ten-kwacha notes). Gives 6, 5 remain.",
+            "From 3 hundred-kwacha notes, 1 was picked, 2 remain. Rosa gives 1 hundred-kwacha note, 1 remains.",
+            "Rosa counts remaining notes (1 hundred, 5 tens, 6 ones = 156). Answer in a full sentence: 'Rosa has 156 kwacha left'."
+          ]
+        },
+        {
+          "activity_name": "Learning Tables Using the Ladder Method",
+          "outcome": "To develop the pre-multiplication concept by using concrete objects.",
+          "materials_needed": ["Chalkboard", "Chalk/Marker"],
+          "steps": [
+            "Teacher discusses the multiplication table with all learners.",
+            "Demonstrate the ladder method for the table of 2: draw two vertical lines, then draw horizontal lines to intersect them, count the points where lines intersect (e.g., 2 vertical x 1 horizontal = 2 points = 2x1=2).",
+            "Demonstrate 2-3 additional examples (e.g., 2x2=4, 2x3=6).",
+            "Divide learners into small groups and ask them to create multiplication tables for any number they like.",
+            "After group practice, ask learners to practice in pairs or individually."
+          ]
+        },
+        {
+          "activity_name": "Multiplication of 2-Digit by 1-Digit Numbers (Using Frame)",
+          "outcome": "Apply multiplication to real life situations. Multiply two- and three-digit numbers vertically. Solve problems using multiplication box and the frame. Multiply numbers by 10, 100, 1000, etc.",
+          "materials_needed": ["Chalkboard/Floor", "Chalk/Marker"],
+          "steps": [
+            "Teacher introduces the concept of multiplication. Writes word problem (e.g., one ball cost 24 kwacha, Susan buys 3 balls) and reads it.",
+            "Discuss four questions: information given, asked, what to do, why.",
+            "Teacher draws a frame on the floor/blackboard. Ask how many tens/ones in 24.",
+            "Write 3 under 24 in the frame, introduce multiplication (X) sign.",
+            "Multiply 4 (ones) by 3: Result is 12 (1 ten, 2 ones). Write 2 in ones column, 1 in tens carry-forward column.",
+            "Multiply 2 tens (20) by 3: Result is 60 (6 tens, 0 ones). Write 0 in ones column, 6 in tens column.",
+            "Add ones with ones (2+0=2). Add tens with tens (1+6=7). Total is 72.",
+            "Teacher writes the answer and states: 'Susan will pay 72 kwacha to the shopkeeper.'"
+          ]
+        },
+        {
+          "activity_name": "Long Division",
+          "outcome": "Express division as repeated subtraction or sharing. Divide two- and three-digit numbers by single digit numbers.",
+          "materials_needed": ["Chalkboard", "Chalk/Marker"],
+          "steps": [
+            "Introduce concept of division.",
+            "Write a division word problem (e.g., Alex distributed 72 kwacha equally among 3 friends) on chalkboard and read it simultaneously.",
+            "Discuss four questions: information given, asked, what to do, why.",
+            "Draw the division frame on chalkboard/floor. Write 72 (7 tens, 2 ones) in the frame.",
+            "Divide 7 (tens) by 3: 3 friends get 2 notes of 10 kwacha each (total 6 notes distributed). Write 2 in the tens place of the quotient, write 6 under 7 and subtract (1 ten remains).",
+            "Change the 1 remaining 10-kwacha note into 10 one-kwacha notes (now 12 one-kwacha notes).",
+            "Distribute 12 one-kwacha notes among 3 friends: each gets 4 notes. Write 4 in the ones place of the quotient, write 12 under 12 and subtract (0 remains).",
+            "All notes distributed, nothing left.",
+            "Write the answer: 'Alex's friends will get 24 kwacha each.'",
+            "Note: Write multiplication table beside the calculation to help learners."
+          ]
+        },
+        {
+          "activity_name": "Using an Abacus",
+          "outcome": "To understand place value (hundreds, tens, ones) using an abacus.",
+          "materials_needed": ["Beads", "Sticks", "Paper/exercise books", "Abacus (homemade or drawn)"],
+          "steps": [
+            "Make an abacus for each pair of learners (or draw a three-column box for hundreds, tens, ones).",
+            "Explain the columns: first is hundreds, second is tens, third is ones.",
+            "Write a number on the board (e.g., 164).",
+            "Learners represent the number on their abacus using beads (or bottle caps, foam pieces). (e.g., 1 bead in hundreds, 6 in tens, 4 in ones for 164).",
+            "Give learners about a minute, then ask one pair to demonstrate.",
+            "Repeat the activity with different numbers.",
+            "Note: For modification, use string/sticks for threading beads and different bead colours for place values."
+          ]
+        }
+      ]
+    },
+    {
+      "level_name": "Level 3: 4 & 5 Digit Numbers",
+      "activities": [
+        {
+          "activity_name": "Expansion Chart Reading",
+          "outcome": "Identify place value of digits in given numbers. Write numbers in expanded notation.",
+          "materials_needed": ["Chalkboard", "Chalk/Marker", "Expansion Chart (example provided in document)"],
+          "steps": [
+            "Process 1: Teacher writes the first line of the expansion chart on the board.",
+            "Invite learners to write numbers in every column in a straight line.",
+            "Process 2: Teacher reads 1-90 numbers loudly and clearly.",
+            "Give 2-3 individual learners an opportunity to read numbers from the expansion chart.",
+            "Teachers place their finger below the number being read; all learners read together.",
+            "Every learner reads in the same manner one by one. Others follow along and help.",
+            "Choose a favourite number; learners discuss it (e.g., 'What is 6000? How many zeroes after 6? Where is the comma placed?').",
+            "Note: Read the chart in different ways (top-bottom, right-left, zero after one, using times, units/tens)."
+          ]
+        },
+        {
+          "activity_name": "Activities with Play Money (Number Recognition)",
+          "outcome": "To develop the concept of place value and number recognition.",
+          "materials_needed": ["Play money notes (1000s, 100s, 10s, 1s)"],
+          "steps": [
+            "Introduction: Teacher places a set of play money notes for learners to see.",
+            "Teacher asks a few learners to pick each type of play money and identify/read its value.",
+            "Divide learners into small groups of 5-6.",
+            "Learners pick one note of each type and render change (e.g., 1000 kwacha note to 100 or 10 kwacha denominations).",
+            "Use currency notes to teach ones, tens, and hundreds.",
+            "Main Activities: Ask learners to count and pick a specific amount (e.g., 427 kwacha).",
+            "Teacher draws a frame, writes the number, and discusses place value and expansion (e.g., '4 notes of 100 kwacha make 400').",
+            "Learners depict the value using arrows in the frame.",
+            "Ask learners to place notes in the frame.",
+            "Further Activities: Ask about the largest note. Match notes to the expansion chart. Write amount in figures and words. Make number patterns. Arrange notes in order. Flip play money."
+          ]
+        },
+        {
+          "activity_name": "Addition with Bundle & Sticks",
+          "outcome": "Identify place values of digits in given numbers. Add whole numbers with sums not exceeding 50, including carrying. Apply addition to real life up to 50.",
+          "materials_needed": ["Sticks", "Rubber bands", "Chalkboard/Floor", "Chalk/Marker"],
+          "steps": [
+            "Teacher writes an addition word problem on the board and reads it simultaneously. Learners only listen.",
+            "Teacher reads the problem clearly again.",
+            "Give individual learners an opportunity to read the problem.",
+            "Ask four guided questions: What information is given? What is being asked? What will you do? Why?",
+            "Draw a frame on the floor/ground. Involve two learners to demonstrate solving the word problem using bundles and sticks.",
+            "Remind learners the rule of making a bundle of 10 sticks.",
+            "For Richard's 26 pineapples: Richard picks 26 sticks. Anne picks 15 sticks. Learners make bundles for both.",
+            "Place bundles in 'bundle' column and sticks in 'stick' column.",
+            "Rule: Start by placing the addition symbol. Add loose sticks first, then bundles. Carry forward any bundle of 10 sticks.",
+            "After Anne gives her sticks to Richard, add 6 and 5 sticks to make one bundle and one stick (11 sticks). Write 1 in tens carry forward column, 1 in sticks column.",
+            "Add 2 bundles + 1 bundle + 1 carried bundle to make 4 bundles.",
+            "Richard now has 4 bundles and 1 stick (41). Read '26 plus 15 is 41'. Answer the word problem in a full sentence.",
+            "Note: Talk to learners during each step. After demo, divide into small groups (4-5), give sticks and a level-appropriate word problem."
+          ]
+        },
+        {
+          "activity_name": "Addition with Play Money",
+          "outcome": "Add whole numbers vertically including with carrying. Carry out addition of quantities in real life situations.",
+          "materials_needed": ["Play money notes (1s, 10s, 100s, etc.)", "Chalkboard/Floor", "Chalk/Marker"],
+          "steps": [
+            "Teacher writes an addition word problem on the board and reads it simultaneously (e.g., Henry has 246, Lizzy gives 382). Learners only listen.",
+            "Teacher reads the problem clearly again.",
+            "Give individual learners an opportunity to read the problem.",
+            "Ask four guided questions: What information is given? What is being asked? What will you do? Why?",
+            "Draw a frame on the floor/ground. Involve two learners to demonstrate solving the word problem using Play Money.",
+            "Henry counts 246 kwacha, Lizzy counts 382 kwacha, and numbers are written in the frame.",
+            "Remind addition rule: always add one's place first, then introduce addition symbol.",
+            "If Lizzy gives 2 one-kwacha notes to Henry, Henry has 8 one-kwacha notes.",
+            "If Lizzy gives 8 ten-kwacha notes to Henry, Henry has 12 ten-kwacha notes. Explain this makes 1 hundred-kwacha note and 2 ten-kwacha notes. Place 1 hundred in hundreds column and 2 tens in tens column.",
+            "If Lizzy gives 3 hundred-kwacha notes to Henry, Henry has 6 hundred-kwacha notes. Write 6 in hundreds column.",
+            "Henry counts all notes (6 hundred-kwacha, 2 ten-kwacha, 8 one-kwacha = 628). Read '246 and 382 added together we get 628'. Write answer in full sentence."
+          ]
+        },
+        {
+          "activity_name": "Subtraction with Bundle & Sticks",
+          "outcome": "Subtract whole numbers vertically up to 50. Apply subtraction to real life up to 50.",
+          "materials_needed": ["Sticks", "Rubber bands", "Chalkboard/Floor", "Chalk/Marker"],
+          "steps": [
+            "Teacher writes a subtraction word problem on the board and reads it simultaneously (e.g., Samuel has 32 balloons, gives Nella 13). Learners only listen.",
+            "Teacher reads the problem clearly again.",
+            "Give individual learners an opportunity to read the problem.",
+            "Ask four guided questions: What information is given? What is being asked? What will you do? Why?",
+            "Draw a frame on the floor/ground. Involve two learners to demonstrate solving the word problem using bundles and sticks.",
+            "Remind learners the rule of making a bundle of 10 sticks.",
+            "Samuel picks 32 sticks. Ask learners if they can make bundles from 32 sticks. Place bundles in 'bundle' column and sticks in 'stick' column.",
+            "Nella needs to take 13 sticks. Ask how many bundles and sticks make 13. Write that number in columns.",
+            "Rule: Start with subtraction symbol. Subtract loose sticks first. If not enough sticks (e.g., 3 from 2), borrow 1 bundle from the bundles column and unbundle it into 10 sticks. (e.g., 3 bundles become 2, 2 sticks become 12).",
+            "Subtract 3 sticks from 12 sticks (9 remain). Subtract 1 bundle from 2 bundles (1 remains). Samuel has 1 bundle and 9 sticks (19).",
+            "Read 'When 13 is subtracted from 32, we get 19'. Answer the word problem in a full sentence."
+          ]
+        },
+        {
+          "activity_name": "Subtraction with Play Money",
+          "outcome": "Subtract whole numbers vertically with regrouping. Carry out subtraction in real life.",
+          "materials_needed": ["Play money notes (1s, 10s, 100s)", "Chalkboard/Floor", "Chalk/Marker"],
+          "steps": [
+            "Teacher writes a subtraction word problem on the board and reads it simultaneously (e.g., Rosa has 321, buys goods worth 165). Learners only listen.",
+            "Teacher reads the problem clearly again.",
+            "Give individual learners an opportunity to read the problem.",
+            "Ask four guided questions: What information is given? What is being asked? What will you do? Why?",
+            "Draw hundreds, tens, and ones frame on the floor/ground. Involve two learners to demonstrate solving using play money.",
+            "Rosa takes 321 kwacha, writes the appropriate numbers in the frame. Robert needs 165 kwacha.",
+            "Start solving from the ones column. Rosa cannot give 5 kwacha from 1 one-kwacha note.",
+            "Rosa gets 1 ten-kwacha note and changes it to 10 one-kwacha notes (now 11 one-kwacha notes). Gives 5, 6 remain.",
+            "From 2 ten-kwacha notes, 1 was picked, 1 remains.",
+            "Rosa cannot give 6 ten-kwacha notes from 1 ten-kwacha note. Gets 1 hundred-kwacha note, changes to 10 ten-kwacha notes (now 11 ten-kwacha notes). Gives 6, 5 remain.",
+            "From 3 hundred-kwacha notes, 1 was picked, 2 remain. Rosa gives 1 hundred-kwacha note, 1 remains.",
+            "Rosa counts remaining notes (1 hundred, 5 tens, 6 ones = 156). Answer in a full sentence: 'Rosa has 156 kwacha left'."
+          ]
+        },
+        {
+          "activity_name": "Multiplication Patterns",
+          "outcome": "Understand multiplication patterns, especially with numbers ending in zero.",
+          "materials_needed": ["Chalkboard", "Chalk/Marker"],
+          "steps": [
+            "Give learners practice finding patterns in different multiplication problems (e.g., 4x3=12, 40x3=120, 400x3=1200).",
+            "Ask learners to observe the problems and identify patterns (e.g., multiplying non-zero numbers and adding the total number of zeros at the end).",
+            "Give practice in solving mentally (e.g., 40x30 = 4x3 + two zeros = 1200).",
+            "Give practice for problems like 24x30: explain splitting into tens and ones (24=20+4, 30=30+0).",
+            "Multiply parts: 0x4=0, 0x20=0, 30x4=120, 30x20=600.",
+            "Note: Remind that if 0 is a multiplier or multiplicand, the product is 0. When multiplying numbers with zeros, multiply non-zero parts and add all zeros to the right."
+          ]
+        },
+        {
+          "activity_name": "Multiplication Box Method",
+          "outcome": "Enhance multiplication skill for 2-digit numbers, helping with place values.",
+          "materials_needed": ["Chalkboard/Floor", "Chalk/Marker"],
+          "steps": [
+            "Explain and demonstrate the method of solving multiplication using a box (e.g., for 24x30).",
+            "Draw a grid to break down numbers into tens and ones (e.g., 24 as 20 and 4; 30 as 30 and 0).",
+            "Multiply each component (20x30=600, 4x30=120, 0x20=0, 0x4=0).",
+            "Add the results from the box to get the final product (600+120+0+0 = 720).",
+            "Ask learners to do practice problems using this method."
+          ]
+        },
+        {
+          "activity_name": "Multiplication of 2-Digit by 1-Digit Numbers (Using Frame)",
+          "outcome": "Apply multiplication to real life situations. Multiply two- and three-digit numbers vertically. Solve problems using multiplication box and the frame. Multiply numbers by 10, 100, 1000, etc.",
+          "materials_needed": ["Chalkboard/Floor", "Chalk/Marker"],
+          "steps": [
+            "Teacher introduces the concept of multiplication. Writes word problem (e.g., one ball cost 24 kwacha, Susan buys 3 balls) and reads it.",
+            "Discuss four questions: information given, asked, what to do, why.",
+            "Teacher draws a frame on the floor/blackboard. Ask how many tens/ones in 24.",
+            "Write 3 under 24 in the frame, introduce multiplication (X) sign.",
+            "Multiply 4 (ones) by 3: Result is 12 (1 ten, 2 ones). Write 2 in ones column, 1 in tens carry-forward column.",
+            "Multiply 2 tens (20) by 3: Result is 60 (6 tens, 0 ones). Write 0 in ones column, 6 in tens column.",
+            "Add ones with ones (2+0=2). Add tens with tens (1+6=7). Total is 72.",
+            "Teacher writes the answer and states: 'Susan will pay 72 kwacha to the shopkeeper.'"
+          ]
+        },
+        {
+          "activity_name": "Long Division",
+          "outcome": "Express division as repeated subtraction or sharing. Divide two- and three-digit numbers by single digit numbers.",
+          "materials_needed": ["Chalkboard", "Chalk/Marker"],
+          "steps": [
+            "Introduce concept of division.",
+            "Write a division word problem (e.g., Alex distributed 72 kwacha equally among 3 friends) on chalkboard and read it simultaneously.",
+            "Discuss four questions: information given, asked, what to do, why.",
+            "Draw the division frame on chalkboard/floor. Write 72 (7 tens, 2 ones) in the frame.",
+            "Divide 7 (tens) by 3: 3 friends get 2 notes of 10 kwacha each (total 6 notes distributed). Write 2 in the tens place of the quotient, write 6 under 7 and subtract (1 ten remains).",
+            "Change the 1 remaining 10-kwacha note into 10 one-kwacha notes (now 12 one-kwacha notes).",
+            "Distribute 12 one-kwacha notes among 3 friends: each gets 4 notes. Write 4 in the ones place of the quotient, write 12 under 12 and subtract (0 remains).",
+            "All notes distributed, nothing left.",
+            "Write the answer: 'Alex's friends will get 24 kwacha each.'",
+            "Note: Write multiplication table beside the calculation to help learners."
+          ]
+        },
+        {
+          "activity_name": "Using an Abacus",
+          "outcome": "To understand place value (hundreds, tens, ones) using an abacus.",
+          "materials_needed": ["Beads", "Sticks", "Paper/exercise books", "Abacus (homemade or drawn)"],
+          "steps": [
+            "Make an abacus for each pair of learners (or draw a three-column box for hundreds, tens, ones).",
+            "Explain the columns: first is hundreds, second is tens, third is ones.",
+            "Write a number on the board (e.g., 164).",
+            "Learners represent the number on their abacus using beads (or bottle caps, foam pieces). (e.g., 1 bead in hundreds, 6 in tens, 4 in ones for 164).",
+            "Give learners about a minute, then ask one pair to demonstrate.",
+            "Repeat the activity with different numbers.",
+            "Note: For modification, use string/sticks for threading beads and different bead colours for place values."
+          ]
+        }
+      ]
+    },
+    {
+      "level_name": "All Levels",
+      "activities": [
+        {
+          "activity_name": "Activity with 9 Sticks (Mental Mathematics)",
+          "outcome": "To introduce the concepts of operations using different terms or vocabulary related to those operations.",
+          "materials_needed": ["9 sticks per group/pair"],
+          "steps": [
+            "Teacher asks learners to be in groups or pairs.",
+            "Teacher gives 9 sticks to learners and asks them how many they have.",
+            "Subtraction: Teacher asks learners to remove a certain number of sticks (e.g., 'remove 3 sticks') and asks how many remained.",
+            "Addition: Teacher asks learners to mix a certain number of sticks with the remaining ones and asks how many they have now.",
+            "Teacher repeats these activities using different words for 'take away,' 'add,' 'remove,' 'mix,' 'put together.'",
+            "Multiplication: Teacher asks learners in groups to arrange the 9 sticks so each group has an equal number of sticks (e.g., 9x1, 3x3, 1x9).",
+            "Division: Teacher asks learners in groups to distribute the 9 sticks equally among parts (e.g., 9/2, 9/3, 9/4).",
+            "Note: Teacher can contextualize words/terms. This activity is conducted without writing anything and daily initially to enhance mental addition and subtraction."
+          ]
+        },
+        {
+          "activity_name": "Oral Chart Activity (Mental Maths)",
+          "outcome": "To practice basic addition and subtraction facts quickly and accurately.",
+          "materials_needed": ["Chalkboard", "Chalk/Marker", "Notebooks"],
+          "steps": [
+            "Teacher draws a blank oral addition/subtraction chart on the board.",
+            "Learners draw the same chart in their notebooks.",
+            "Teacher demonstrates 1-2 times how to fill up the charts.",
+            "Teacher invites two learners to fill parts of the chart on the board as quickly as possible.",
+            "Simultaneously, other learners fill up the chart in their notebooks.",
+            "Encourage learners to finish the chart quickly.",
+            "Discuss the solution, with seated learners verifying answers."
+          ]
+        },
+        {
+          "activity_name": "Mind Map (Mental Maths)",
+          "outcome": "To improve understanding and recall of number bonds (addition).",
+          "materials_needed": ["Chalkboard", "Chalk/Marker", "Notebooks"],
+          "steps": [
+            "Teacher selects a number for the mind map (e.g., 12).",
+            "Teacher says two numbers that add to the selected number and writes them on the mind map (e.g., 6+6=12).",
+            "Teacher asks learners for other number pairs that make the target number (e.g., 9+3, 4+8, 7+5). Learners write these in their notebooks."
+          ]
+        },
+        {
+          "activity_name": "Throw the Ball (Mental Maths)",
+          "outcome": "To help learners develop speed and accuracy in solving Maths problems (addition, subtraction, multiplication).",
+          "materials_needed": ["Ball (optional)"],
+          "steps": [
+            "Teacher asks learners to stand in a circle.",
+            "Teacher throws a ball at a learner and asks an addition question (e.g., 'What is 5+9?').",
+            "The learner gives the answer and throws the ball to another child, who then gives a new addition question.",
+            "Teacher demonstrates the activity and motivates learners to ask and answer quickly.",
+            "Note: This activity is important for all levels, but conducted after practice in oral charts. The content will differ for addition, subtraction, or multiplication operations.",
+            "Modification: Teacher can point at learners and ask problems without a ball for larger groups."
+          ]
+        },
+        {
+          "activity_name": "Reading the Table Chart (Multiplication)",
+          "outcome": "To learn and practice multiplication tables.",
+          "materials_needed": ["Multiplication Chart (1-10)"],
+          "steps": [
+            "Teacher places pointer on any one multiplication table and reads it loudly and clearly (e.g., 3 times 4).",
+            "Teacher shows learners the rows and columns, explaining that their intersection is the product.",
+            "Give learners an opportunity to read.",
+            "Divide learners into small groups and ask each group to read in the manner described.",
+            "Note: Reading can also be done in patterns."
+          ]
+        },
+        {
+          "activity_name": "Practise with Multiplication Table (Various Methods)",
+          "outcome": "To enhance multiplication table recall and fluency.",
+          "materials_needed": ["Multiplication Table (12x12)"],
+          "steps": [
+            "Say Times Table from the beginning (e.g., 'Three ones is three, three twos is six').",
+            "Start in the middle: Teacher gives a product (e.g., 24) and asks for factors (e.g., 4x6, 3x8, 8x3, 6x4). Then gives one factor (e.g., 6x6=36) and asks for another factor to make a different product (e.g., 3x9=?).",
+            "Random practice: Teacher gives a random product and asks for factors (e.g., 'Five fours is twenty')."
+          ]
+        }
+      ]
+    }
+  ]
+}
