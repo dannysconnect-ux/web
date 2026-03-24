@@ -290,10 +290,16 @@ export const useTeacherDashboard = () => {
             } 
             else if (toolType === 'scheme') {
                 endpoint = `${API_BASE}${apiPrefix}/generate-scheme`;
+                
+                // 🆕 Safely extract an array of topics exactly like the exam generator does
+                const topicsArray = formData.topics || [formData.topic, formData.subtopic].filter(Boolean);
+
                 payload = {
                     ...payload,
                     weeks: parseInt(String(formData.weeks || '13')),
-                    startDate: formData.startDate || null
+                    startDate: formData.startDate || null,
+                    topics: topicsArray.length > 0 ? topicsArray : [], // Send array of topics to backend
+                    topic: formData.topic || "" // Keep single topic for backend backwards compatibility if needed
                 };
             } 
             else if (toolType === 'record') {

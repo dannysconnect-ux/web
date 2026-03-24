@@ -134,7 +134,6 @@ def get_locked_template_context(uid: str, plan_type: str, grade: str, subject: s
 # ------------------------------------------------------------------
 # 1. Generate Scheme of Work
 # ------------------------------------------------------------------
-# NOTE: Removed `response_model=List[SchemeRow]` to allow returning credits in a dictionary
 @router.post("/generate-scheme")
 async def generate_scheme(
     request: SchemeRequest,
@@ -154,7 +153,6 @@ async def generate_scheme(
         print("✅ Using cached scheme (No credit deduction)")
         ai_scheme_list = cached
         
-        # We still want to return current credits even if we didn't deduct
         try:
             user_doc = db.collection("users").document(uid).get()
             if user_doc.exists:
@@ -175,9 +173,33 @@ async def generate_scheme(
         # 3️⃣ Fetch Locked Template context
         locked_context = get_locked_template_context(uid, "scheme_old_format", request.grade, request.subject)
         
-        # 4️⃣ Generate
+        # 4️⃣ Generate & Filter Syllabus
         syllabus_data = load_syllabus("Zambia", request.grade, request.subject)
+        
+        # 🎯 NEW LOGIC: Filter syllabus down to ONLY the selected topics from the frontend
+        selected_topics = getattr(request, "topics", [])
+        if not selected_topics:
+            # Fallback if the frontend sends a single topic
+            single_topic = getattr(request, "topic", "")
+            if single_topic:
+                selected_topics = [single_topic]
+
+        if selected_topics and syllabus_data:
+            print(f"🎯 Filtering syllabus specifically for selected topics: {selected_topics}")
+            if isinstance(syllabus_data, dict):
+                items = syllabus_data.get("topics", syllabus_data.get("units", []))
+                filtered_items = [item for item in items if item.get("title", item.get("topic", "")) in selected_topics]
+                if filtered_items:
+                    syllabus_data = {"topics": filtered_items}
+            elif isinstance(syllabus_data, list):
+                filtered_items = [item for item in syllabus_data if item.get("title", item.get("topic", "")) in selected_topics]
+                if filtered_items:
+                    syllabus_data = filtered_items
+        else:
+            print("⚠️ No specific topics provided. Proceeding with full syllabus mapping.")
+
         try:
+            # The AI now only receives the exact topics requested!
             ai_scheme = await generate_scheme_with_ai(
                 syllabus_data=syllabus_data,
                 subject=request.subject,

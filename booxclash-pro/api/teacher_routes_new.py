@@ -227,9 +227,31 @@ async def generate_scheme(
     real_syllabus_data = load_syllabus(country="Zambia", grade=request.grade, subject=request.subject)
     locked_context = get_locked_template_context(user_id, "scheme_of_work", request.grade, request.subject)
 
+    # 🎯 NEW LOGIC: Filter syllabus down to ONLY the selected topics from the frontend
+    selected_topics = getattr(request, "topics", [])
+    if not selected_topics:
+        # Fallback if the frontend sends a single topic
+        single_topic = getattr(request, "topic", "")
+        if single_topic:
+            selected_topics = [single_topic]
+
+    if selected_topics and real_syllabus_data:
+        print(f"🎯 Filtering syllabus specifically for selected topics: {selected_topics}")
+        if isinstance(real_syllabus_data, dict):
+            items = real_syllabus_data.get("topics", real_syllabus_data.get("units", []))
+            filtered_items = [item for item in items if item.get("title", item.get("topic", "")) in selected_topics]
+            if filtered_items:
+                real_syllabus_data = {"topics": filtered_items}
+        elif isinstance(real_syllabus_data, list):
+            filtered_items = [item for item in real_syllabus_data if item.get("title", item.get("topic", "")) in selected_topics]
+            if filtered_items:
+                real_syllabus_data = filtered_items
+    else:
+        print("⚠️ No specific topics provided. Proceeding with full syllabus mapping.")
+
     try:
         ai_result = await generate_scheme_with_ai(
-            syllabus_data=real_syllabus_data,
+            syllabus_data=real_syllabus_data,  # Now filtered!
             subject=request.subject,
             grade=request.grade,
             term=request.term,

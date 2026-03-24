@@ -282,7 +282,7 @@ export default function Schemes() {
 
     doc.setFontSize(12);
     doc.setTextColor(79, 70, 229); // Indigo
-    doc.text(`${subject.toUpperCase()} - GRADE ${displayGrade}`, centerX, yPos, { align: "center" });
+    doc.text(`${subject.toUpperCase()} - ${displayGrade}`, centerX, yPos, { align: "center" });
     yPos += 6;
 
     doc.setFontSize(10);

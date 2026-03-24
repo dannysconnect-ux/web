@@ -197,7 +197,7 @@ export default function Schemes() {
     doc.text(displaySchool.toUpperCase(), centerX, yPos, { align: "center" }); yPos += 7;
 
     doc.setFontSize(12); doc.setTextColor(79, 70, 229);
-    doc.text(`${subject.toUpperCase()} - GRADE ${displayGrade}`, centerX, yPos, { align: "center" }); yPos += 6;
+    doc.text(`${subject.toUpperCase()} - ${displayGrade}`, centerX, yPos, { align: "center" }); yPos += 6;
 
     doc.setFontSize(10); doc.setTextColor(100, 116, 139);
     doc.text(`${term} • SCHEME OF WORK`, centerX, yPos, { align: "center" }); yPos += 10;

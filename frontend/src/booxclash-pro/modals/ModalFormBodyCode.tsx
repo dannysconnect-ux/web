@@ -82,8 +82,8 @@ const ModalFormBody: React.FC<ModalFormBodyProps> = ({
   const showLogistics = ['lesson'].includes(type);
   const showBlooms = type === 'lesson'; 
   
-  // EXAM SPECIFIC SWITCHES
-  const showExamTopics = type === 'exam';
+  // 🆕 MULTI-TOPIC SELECTION (Now enabled for both Exams AND Schemes)
+  const showMultiTopicSelection = ['exam', 'scheme'].includes(type);
   const showExamBlueprint = type === 'exam';
 
   // If it's weekly and we have schemes, use the Scheme Selectors
@@ -140,7 +140,6 @@ const ModalFormBody: React.FC<ModalFormBodyProps> = ({
           const subtopicStr = s.subtopic;
           const contentStr = s.content ? (Array.isArray(s.content) ? s.content[0] : s.content) : null;
           
-          // Use week or week_number fallback
           const sTitle = outcomesStr || subtopicStr || contentStr || `Week ${s.week || s.week_number}`;
           
           return s.topic === formData.topic && sTitle === selectedSubtopic;
@@ -167,8 +166,8 @@ const ModalFormBody: React.FC<ModalFormBodyProps> = ({
     if (!isNaN(num) && num <= max) { setFormData({ ...formData, [field]: num }); }
   };
 
-  // HANDLERS FOR EXAMS
-  const handleExamTopicToggle = (topicName: string) => {
+  // 🆕 UNIFIED HANDLER FOR EXAMS & SCHEMES TOPICS
+  const handleTopicToggle = (topicName: string) => {
     const currentTopics = formData.topics || [];
     const newTopics = currentTopics.includes(topicName)
         ? currentTopics.filter((t: string) => t !== topicName)
@@ -178,8 +177,6 @@ const ModalFormBody: React.FC<ModalFormBodyProps> = ({
 
   const handleBlueprintChange = (field: string, val: string) => {
     const num = parseInt(val) || 0;
-    
-    // Auto-initialize defaults if missing
     const currentBlueprint = formData.blueprint || {};
     EXAM_QUESTION_TYPES.forEach(t => {
         if (currentBlueprint[t.id] === undefined) currentBlueprint[t.id] = t.default;
@@ -187,10 +184,7 @@ const ModalFormBody: React.FC<ModalFormBodyProps> = ({
 
     setFormData({
         ...formData,
-        blueprint: {
-            ...currentBlueprint,
-            [field]: num
-        }
+        blueprint: { ...currentBlueprint, [field]: num }
     });
   };
 
@@ -270,7 +264,7 @@ const ModalFormBody: React.FC<ModalFormBodyProps> = ({
                   <select 
                       className="w-full appearance-none bg-slate-50 border border-slate-200 rounded-lg p-3 text-slate-900 focus:ring-2 focus:ring-[#ffa500] outline-none"
                       value={formData.subject}
-                      onChange={(e) => setFormData({...formData, subject: e.target.value, lessonTitle: '', topic: ''})}
+                      onChange={(e) => setFormData({...formData, subject: e.target.value, lessonTitle: '', topic: '', topics: []})}
                   >
                       <option value="">-- Select Subject --</option>
                       {subjectOptions.map((sub, idx) => (
@@ -285,7 +279,7 @@ const ModalFormBody: React.FC<ModalFormBodyProps> = ({
                   placeholder={formData.grade ? "Type subject..." : "Select Grade first"}
                   className="w-full bg-slate-50 border border-slate-200 rounded-lg p-3 text-slate-900 focus:ring-2 focus:ring-[#ffa500] outline-none placeholder:text-slate-400"
                   value={formData.subject}
-                  onChange={(e) => setFormData({...formData, subject: e.target.value, lessonTitle: '', topic: ''})}
+                  onChange={(e) => setFormData({...formData, subject: e.target.value, lessonTitle: '', topic: '', topics: []})}
                 />
             )}
           </div>
@@ -605,16 +599,18 @@ const ModalFormBody: React.FC<ModalFormBodyProps> = ({
       )}
 
       {/* ========================================================================= */}
-      {/* 9. EXAM ASSISTANT TOPICS & BLUEPRINT */}
+      {/* 9. TOPICS SELECTION (EXAMS & SCHEMES) */}
       {/* ========================================================================= */}
-      {showExamTopics && (
-        <div className="space-y-4 bg-rose-50/50 p-4 border border-rose-200 rounded-xl animate-in fade-in">
+      {showMultiTopicSelection && (
+        <div className={`space-y-4 p-4 border rounded-xl animate-in fade-in ${type === 'exam' ? 'bg-rose-50/50 border-rose-200' : 'bg-blue-50/50 border-blue-200'}`}>
             <div className="flex justify-between items-center mb-2">
                 <div className="flex items-center gap-2">
-                    <Layers size={16} className="text-rose-600" />
-                    <span className="text-xs font-bold text-rose-700 uppercase tracking-wider">Select Syllabus Topics</span>
+                    <Layers size={16} className={type === 'exam' ? 'text-rose-600' : 'text-blue-600'} />
+                    <span className={`text-xs font-bold uppercase tracking-wider ${type === 'exam' ? 'text-rose-700' : 'text-blue-700'}`}>
+                        {type === 'exam' ? 'Select Exam Topics' : 'Select Scheme Topics'}
+                    </span>
                 </div>
-                <span className="text-[10px] font-bold text-rose-700 bg-rose-100 px-2 py-1 rounded-full">
+                <span className={`text-[10px] font-bold px-2 py-1 rounded-full ${type === 'exam' ? 'text-rose-700 bg-rose-100' : 'text-blue-700 bg-blue-100'}`}>
                     {formData.topics?.length || 0} Selected
                 </span>
             </div>
@@ -635,8 +631,8 @@ const ModalFormBody: React.FC<ModalFormBodyProps> = ({
                                     <input
                                         type="checkbox"
                                         checked={isChecked}
-                                        onChange={() => handleExamTopicToggle(topicName)}
-                                        className="w-4 h-4 rounded text-rose-500 focus:ring-rose-500 border-slate-300 bg-white"
+                                        onChange={() => handleTopicToggle(topicName)}
+                                        className={`w-4 h-4 rounded border-slate-300 bg-white ${type === 'exam' ? 'text-rose-500 focus:ring-rose-500' : 'text-blue-500 focus:ring-blue-500'}`}
                                     />
                                 </div>
                                 <span className="text-sm font-medium text-slate-700 group-hover:text-slate-900 leading-tight">
@@ -650,7 +646,9 @@ const ModalFormBody: React.FC<ModalFormBodyProps> = ({
                 <div className="text-xs text-amber-800 p-4 border border-amber-200 rounded-xl bg-amber-50 flex flex-col items-center text-center gap-2">
                     <AlertTriangle size={16} className="text-amber-600" />
                     <p>No official syllabus topics found for <b className="font-bold">{formData.grade} {formData.subject}</b>.</p>
-                    <p className="text-amber-700/80">You can still generate the exam, and the AI will create a generalized assessment for this level.</p>
+                    <p className="text-amber-700/80">
+                        You can still generate the {type === 'exam' ? 'exam' : 'scheme'}, and the AI will create a generalized {type === 'exam' ? 'assessment' : 'plan'} for this level.
+                    </p>
                 </div>
             )}
         </div>
@@ -685,7 +683,7 @@ const ModalFormBody: React.FC<ModalFormBodyProps> = ({
         </div>
       )}
 
-      {/* 10. Topics - DYNAMIC SCHEME, SYLLABUS, OR MANUAL */}
+      {/* 10. Topics - SYLLABUS, WEEKLY, OR MANUAL (Skipped for Schemes & Exams now) */}
       {(showManualTopic || showLessonTitle || showSyllabusSelectors || showSchemeSelectors) && (
          <div className="space-y-4 bg-white p-4 border border-slate-200 shadow-sm rounded-xl">
            <div className="flex items-center gap-2 mb-2">
@@ -725,14 +723,10 @@ const ModalFormBody: React.FC<ModalFormBodyProps> = ({
                            >
                                <option value="">-- Choose Subtopic --</option>
                                {schemeSubtopics.map((s: any, idx: number) => {
-                                   // 1. Try to get the first outcome
                                    const outcomesStr = s.outcomes ? (Array.isArray(s.outcomes) ? s.outcomes[0] : s.outcomes) : null;
-                                   // 2. Fallback to subtopic
                                    const subtopicStr = s.subtopic;
-                                   // 3. Fallback to content
                                    const contentStr = s.content ? (Array.isArray(s.content) ? s.content[0] : s.content) : null;
                                    
-                                   // Pick the highest priority available!
                                    const optionValue = outcomesStr || subtopicStr || contentStr || `Week ${s.week || s.week_number}`;
 
                                    return (

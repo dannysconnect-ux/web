@@ -17,6 +17,8 @@ import TeacherSBAManager from './booxclash-pro/school/TeacherSBAManager';
 import StudentPerformanceDashboard from './booxclash-pro/school/StudentPerformanceDashboard';
 import ExamView from './booxclash-pro/ExamView';
 import CatchupView from './booxclash-pro/CatchupView';
+import AgentDashboard from './booxclash-pro/AgentDashboard';
+import StudentDashboard from './booxclash-pro/StudentDashboard';
 
 // --- 2. LAZY IMPORTS (Heavy "App" pages load only on demand) ---
 const TeacherDashboard = lazy(() => import('./booxclash-pro/TeacherDashboard'));
@@ -124,11 +126,12 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
           <Route path="/upgrade" element={<UpgradePage />} />
           <Route path="/exam-view" element={<ExamView />} />
           <Route path="/catchup-view" element={<CatchupView />} />
-
+          <Route path="/agent-dashboard" element={<AgentDashboard />} />
           {/* Legacy Tools */}
           <Route path="/old-schemes" element={<OldSchemes />} />
           <Route path="/old-lesson-plan-view" element={<OldLessonPlanView />} />
           <Route path="/old-weekly-view" element={<OldWeeklyView />} />
+          <Route path="/students" element={<StudentDashboard />} />
 
 
           {/* ========================================= */}

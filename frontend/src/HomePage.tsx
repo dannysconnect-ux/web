@@ -1,4 +1,4 @@
-import { lazy, useState, useEffect, ReactNode } from "react";
+import { lazy, useState, useEffect, ReactNode, Suspense } from "react";
 import { Link } from "react-router-dom";
 import {
   CheckCircle,
@@ -9,6 +9,8 @@ import {
   Zap,
   Clock,
   ChevronRight,
+  GraduationCap,
+  BookOpen,
 } from 'lucide-react';
 
 const Navbar = lazy(() => import("./Navbar"));
@@ -76,8 +78,6 @@ const HeroAnimation = () => {
 
   return (
     <div className="relative w-full max-w-md mx-auto aspect-[4/5] md:aspect-square perspective-1000">
-      {/* Removed the purple gradient blob from here */}
-
       <div className="relative z-10 w-full h-full bg-white/95 backdrop-blur-xl rounded-2xl shadow-2xl border border-slate-200 overflow-hidden flex flex-col transition-all duration-500">
         <div className="px-6 py-4 border-b border-slate-100 flex justify-between items-center bg-white/50">
           <div className="flex gap-2">
@@ -100,25 +100,15 @@ const HeroAnimation = () => {
               <div className="grid grid-cols-2 gap-3">
                 <div className="space-y-1">
                   <label className="text-xs font-bold text-slate-400 uppercase tracking-wider">Grade</label>
-                  <div className="p-3 bg-slate-50 border border-slate-200 rounded-lg text-slate-700 font-medium text-sm">Grade 10</div>
+                  <div className="p-3 bg-slate-50 border border-slate-200 rounded-lg text-slate-700 font-medium text-sm">Grade 12</div>
                 </div>
                 <div className="space-y-1">
                   <label className="text-xs font-bold text-slate-400 uppercase tracking-wider">Subject</label>
-                  <div className="p-3 bg-slate-50 border border-slate-200 rounded-lg text-slate-700 font-medium text-sm">Physics</div>
-                </div>
-              </div>
-              <div className="grid grid-cols-2 gap-3">
-                <div className="space-y-1">
-                  <label className="text-xs font-bold text-slate-400 uppercase tracking-wider">Term</label>
-                  <div className="p-3 bg-slate-50 border border-slate-200 rounded-lg text-slate-700 font-medium text-sm">Term 2</div>
-                </div>
-                <div className="space-y-1">
-                  <label className="text-xs font-bold text-slate-400 uppercase tracking-wider">Duration</label>
-                  <div className="p-3 bg-slate-50 border border-slate-200 rounded-lg text-slate-700 font-medium text-sm">12 Weeks</div>
+                  <div className="p-3 bg-slate-50 border border-slate-200 rounded-lg text-slate-700 font-medium text-sm">Mathematics</div>
                 </div>
               </div>
               <button className="w-full mt-4 bg-slate-900 text-white font-bold py-3 rounded-lg shadow-lg flex items-center justify-center gap-2 group transition-all">
-                Generate Scheme <ChevronRight size={16} className="group-hover:translate-x-1 transition-transform" />
+                Generate Analytics <ChevronRight size={16} className="group-hover:translate-x-1 transition-transform" />
               </button>
             </div>
           )}
@@ -130,43 +120,30 @@ const HeroAnimation = () => {
                 <div className="absolute inset-0 border-4 border-[#6c2dc7] border-t-transparent rounded-full animate-spin"></div>
                 <Brain className="absolute inset-0 m-auto text-[#6c2dc7] animate-pulse" size={24} />
               </div>
-              <h3 className="text-lg font-bold text-slate-800 mb-1">Analyzing Syllabus...</h3>
-              <p className="text-sm text-slate-500 max-w-[200px]">Matching topics to Ministry Standards.</p>
-              <div className="mt-6 w-full bg-slate-50 rounded p-3 text-left space-y-2 font-mono text-[10px] text-slate-500 opacity-80">
-                <div className="animate-pulse">{`> Fetching Topic: Mechanics...`}</div>
-                <div className="animate-pulse delay-75">{`> Calculating Weekly Load...`}</div>
-                <div className="animate-pulse delay-150 text-[#ffa500]">{`> Compliance Check: PASSED`}</div>
-              </div>
+              <h3 className="text-lg font-bold text-slate-800 mb-1">Mapping Curriculum...</h3>
+              <p className="text-sm text-slate-500 max-w-[200px]">Aligning with ECZ Standards.</p>
             </div>
           )}
 
           {step === 2 && (
             <div className="h-full flex flex-col animate-in slide-in-from-bottom-8 duration-700 fade-in">
               <div className="flex items-center justify-between mb-4">
-                <h2 className="font-bold text-lg text-slate-900">Scheme of Work</h2>
+                <h2 className="font-bold text-lg text-slate-900">Weekly Forecast</h2>
                 <span className="bg-[#ffa500]/10 text-[#ffa500] text-xs font-bold px-2 py-1 rounded flex items-center gap-1">
-                  <CheckCircle size={10} /> Ready
+                  <CheckCircle size={10} /> Live
                 </span>
               </div>
               <div className="bg-white border border-slate-200 rounded-lg shadow-sm flex-1 p-4 relative overflow-hidden">
-                <div className="flex border-b border-slate-100 pb-2 mb-2 gap-2">
-                  <div className="w-1/6 h-3 bg-slate-200 rounded"></div>
-                  <div className="w-3/6 h-3 bg-slate-200 rounded"></div>
-                  <div className="w-2/6 h-3 bg-slate-200 rounded"></div>
-                </div>
                 <div className="space-y-4">
-                  {[1, 2, 3, 4].map((i) => (
-                    <div key={i} className="flex gap-2 items-start" style={{ animation: `fadeIn 0.5s ease-out forwards ${i * 0.2}s`, opacity: 0 }}>
-                      <div className="w-8 h-8 rounded bg-[#6c2dc7]/10 flex items-center justify-center text-xs font-bold text-[#6c2dc7] shrink-0">W{i}</div>
+                  {[1, 2, 3].map((i) => (
+                    <div key={i} className="flex gap-2 items-start opacity-0 animate-in fade-in slide-in-from-left-4 fill-mode-forwards" style={{ animationDelay: `${i * 0.2}s` }}>
+                      <div className="w-8 h-8 rounded bg-[#6c2dc7]/10 flex items-center justify-center text-xs font-bold text-[#6c2dc7] shrink-0">{i}</div>
                       <div className="flex-1 space-y-2">
                         <div className="w-full h-3 bg-slate-100 rounded"></div>
                         <div className="w-2/3 h-2 bg-slate-50 rounded"></div>
                       </div>
                     </div>
                   ))}
-                </div>
-                <div className="absolute bottom-4 right-4 rotate-[-15deg] border-2 border-[#ffa500] text-[#ffa500] font-black text-xs uppercase px-2 py-1 opacity-0 animate-in zoom-in duration-500 delay-1000 fill-mode-forwards">
-                  APPROVED
                 </div>
               </div>
             </div>
@@ -187,40 +164,44 @@ const HomePage = () => {
         .fill-mode-forwards { animation-fill-mode: forwards; }
       `}</style>
 
-      {/* Changed background to #f0fff0 */}
       <div className="relative min-h-screen w-full bg-[#f0fff0] text-slate-900 font-sans selection:bg-[#6c2dc7]/20 selection:text-[#6c2dc7]">
         
-        {/* Removed the dark background overlay from here */}
-
         <div className="relative z-10 flex flex-col items-center w-full">
-          <Navbar />
+          <Suspense fallback={<div className="h-20 w-full" />}>
+            <Navbar />
+          </Suspense>
 
           <section className="pt-32 pb-20 px-6 w-full max-w-7xl mx-auto flex flex-col lg:flex-row items-center gap-12 lg:gap-20">
             <div className="flex-1 text-center lg:text-left">
-              {/* Changed text-white to text-slate-900 for visibility on light bg */}
               <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight text-slate-900 tracking-tight">
-                Stop writing <br />
-                <span className="text-[#ffa500]">Schemes of Work.</span>
+                Modern Schooling <br />
+                <span className="text-[#6c2dc7]">Simplified by AI.</span>
               </h1>
-              {/* Changed text-slate-300 to text-slate-600 */}
               <p className="text-lg md:text-xl text-slate-600 mb-8 leading-relaxed max-w-2xl mx-auto lg:mx-0">
-                Teachers waste 15+ hours/week on compliance paperwork. 
-                Let BooxClash generate <strong>Ministry Compliant</strong> documents in seconds.
+                From <strong>Ministry Compliance</strong> for schools to <strong>Exam Success</strong> for students. 
+                BooxClash is the all-in-one engine for Zambian education.
               </p>
               
-              <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
+              <div className="flex flex-col sm:flex-row flex-wrap gap-4 justify-center lg:justify-start">
                 <Link 
                   to="/" 
                   className="px-8 py-4 bg-[#6c2dc7] hover:bg-[#6c2dc7]/90 text-white font-bold text-lg rounded-lg transition-all shadow-lg flex items-center justify-center gap-2"
                 >
                   For Schools <ArrowRight size={20} />
                 </Link>
-                {/* Updated button styling for light background */}
+
                 <Link 
                   to="/home-booxclash-pro" 
                   className="px-8 py-4 bg-white border border-slate-200 text-slate-900 hover:bg-slate-50 font-semibold text-lg rounded-lg transition-all flex items-center justify-center gap-2 shadow-sm"
                 >
                   For Teachers <Zap size={18} className="text-[#ffa500]" />
+                </Link>
+
+                <Link 
+                  to="/students" 
+                  className="px-8 py-4 bg-[#ffa500] hover:bg-[#e69500] text-white font-bold text-lg rounded-lg transition-all shadow-lg flex items-center justify-center gap-2"
+                >
+                  For Students <GraduationCap size={20} />
                 </Link>
               </div>
             </div>
@@ -232,45 +213,50 @@ const HomePage = () => {
 
           <section className="py-20 px-6 w-full bg-white text-slate-900">
             <div className="max-w-5xl mx-auto text-center mb-16">
-              <h2 className="text-3xl font-bold mb-4">The Compliance Trap</h2>
-              <p className="text-slate-600 text-lg">Why great teachers are leaving the profession.</p>
+              <h2 className="text-3xl font-bold mb-4">The Education Ecosystem</h2>
+              <p className="text-slate-600 text-lg">Empowering every stakeholder in the learning journey.</p>
             </div>
             <div className="max-w-5xl mx-auto grid md:grid-cols-3 gap-8 text-center">
-              <StatCard value="10 hrs" label="Lost Weekly" desc="Time spent on admin instead of teaching." color="orange" />
-              <StatCard value="40%" label="Burnout Rate" desc="Caused by excessive reporting requirements." color="orange" />
-              <StatCard value="1 Click" label="The Solution" desc="Instant outputs from your syllabus." color="purple" featured />
+              <StatCard value="100%" label="Compliance" desc="Documents aligned with MoE standards." color="purple" />
+              <StatCard value="70%" label="Faster Planning" desc="AI generates forecasts and plans in seconds." color="orange" />
+              <StatCard value="7 & 12" label="Exam Ready" desc="Specialized drilling for key national grades." color="purple" featured />
             </div>
           </section>
 
-          {/* Changed this section's background to match the top to blend nicely or kept it slightly off-white */}
           <section className="py-24 px-6 w-full bg-[#f0fff0] border-t border-slate-200/50">
             <div className="max-w-7xl mx-auto">
               <div className="text-center mb-12">
                 <h2 className="text-3xl md:text-5xl font-bold text-slate-900">
-                  Complete <span className="text-[#6c2dc7]">School Operating System</span>
+                  Built for the <span className="text-[#6c2dc7]">Zambian Classroom</span>
                 </h2>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <FeatureCard 
                   title="Curriculum-Aware AI" 
-                  desc="Trained on the National Curriculum. It knows exactly which topics are required for each grade."
+                  desc="Trained on the National Curriculum. Automatically maps topics to the correct term and week."
                   icon={<Brain size={24} />}
                   className="md:col-span-2"
                 />
                 <FeatureCard 
+                  title="Exam Prep Mode" 
+                  desc="Simplest Way explanations for Grades 7 & 12. Bridge the gap between theory and exam success."
+                  icon={<BookOpen size={24} />}
+                  className="bg-orange-50 border-orange-200"
+                />
+                <FeatureCard 
                   title="Format Cloning" 
-                  desc="Upload your template; we fill it perfectly. No formatting changes required."
+                  desc="Upload your school's unique template; we fill it perfectly. No messy reformatting."
                   icon={<FileText size={24} />}
                   dark
                 />
                 <FeatureCard 
-                  title="Admin Dashboard" 
-                  desc="Track syllabus coverage in real-time across all departments."
+                  title="Live Admin Dashboard" 
+                  desc="Real-time oversight for Headteachers to track syllabus coverage and SBA marks."
                   icon={<LayoutDashboard size={24} />}
                 />
                 <FeatureCard 
-                  title="Automated Weekly Planning" 
-                  desc="Missed a topic? The system automatically rolls it over to the next week."
+                  title="Automated Record Keeping" 
+                  desc="Digital Weekly Forecasts and Schemes that roll over and update automatically."
                   icon={<Clock size={24} />}
                   className="md:col-span-2"
                 />
@@ -280,24 +266,16 @@ const HomePage = () => {
 
           <footer className="bg-white text-slate-500 py-12 w-full border-t border-slate-200">
             <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6">
-                
                 <div className="flex items-center gap-3">
-                <img 
-                    src="/icon.png" 
-                    alt="BooxClash Logo" 
-                    className="w-8 h-8 object-contain"
-                />
-                <span className="text-slate-900 font-bold text-xl tracking-tight">BooxClash</span>
+                  <span className="text-slate-900 font-bold text-xl tracking-tight">BooxClash</span>
                 </div>
-                
                 <div className="flex gap-8 text-sm font-medium">
-                <Link to="/about" className="hover:text-slate-900 transition-colors">About</Link>
-                <Link to="/pricing" className="hover:text-slate-900 transition-colors">Pricing</Link>
-                <Link to="/contact" className="hover:text-slate-900 transition-colors">Contact</Link>
+                  <Link to="/about" className="hover:text-slate-900 transition-colors">About</Link>
+                  <Link to="/pricing" className="hover:text-slate-900 transition-colors">Pricing</Link>
+                  <Link to="/contact" className="hover:text-slate-900 transition-colors">Contact</Link>
                 </div>
-
                 <div className="text-sm">
-                &copy; {new Date().getFullYear()} BooxClash.
+                  &copy; {new Date().getFullYear()} BooxClash.
                 </div>
             </div>
           </footer>

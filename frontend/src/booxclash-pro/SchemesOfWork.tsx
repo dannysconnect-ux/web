@@ -154,7 +154,7 @@ const SchemesOfWork: React.FC<SchemesOfWorkProps> = ({
             </h1>
             <div className="h-1 w-16 md:w-24 bg-indigo-600 mb-3 rounded-full"></div>
             <p className="text-indigo-600 font-bold text-xs md:text-base tracking-widest uppercase text-center break-words px-2">
-               {subject} • Grade {grade} • Scheme of Work
+               {subject} • {grade} • Scheme of Work
             </p>
             <div className="mt-3 inline-block bg-slate-100 px-3 md:px-4 py-1 rounded-full text-slate-600 text-[10px] md:text-xs font-bold uppercase tracking-wider border border-slate-200 text-center">
                 {termInfo} • {new Date().getFullYear()}

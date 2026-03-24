@@ -9,7 +9,7 @@ from fastapi import FastAPI, Request, UploadFile, File, HTTPException, Backgroun
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from dotenv import load_dotenv
-from api.catch_up import router as catchup_router
+
 # 1. Load Environment Variables
 load_dotenv()
 
@@ -34,8 +34,13 @@ from api.school_settings import router as settings_router
 from api.relay_routes import router as relay_router 
 from api.exams import router as exams_router
 from api.school_routes import router as school_engine_router
-from api.sba import router as sba_router # 👈 ADDED THIS: IMPORT SBA ROUTER
-from services.notification_service import send_whatsapp_invite # 👈 IMPORT SERVICE
+from api.sba import router as sba_router 
+from api.catch_up import router as catchup_router
+from services.notification_service import send_whatsapp_invite
+
+# 👇 ADDED THIS: Import the Internal Command Center (Architect & Sales)
+from agent import router as internal_router 
+# Note: Ensure internal_api.py is saved inside your 'api' folder (or 'routes' folder, adjust import accordingly)
 
 # 2. Setup Logging
 logging.basicConfig(
@@ -98,7 +103,7 @@ def get_subjects_for_grade(grade_input: str):
     logger.info(f"🔍 [Subject Scanner] Scanning for grade: '{grade_input}'")
     found_subjects = set()
     clean_grade = grade_input.lower().replace("grade", "").strip()
-    logger.info(f"   🎯 Parsed clean grade number: '{clean_grade}'")
+    logger.info(f"  🎯 Parsed clean grade number: '{clean_grade}'")
 
     base_paths = [
         os.path.join("syllabi", "new"),
@@ -109,10 +114,10 @@ def get_subjects_for_grade(grade_input: str):
         if not os.path.exists(folder):
             folder = os.path.join("..", folder)
             if not os.path.exists(folder): 
-                logger.warning(f"   ⚠️ Folder not found: {folder}")
+                logger.warning(f"  ⚠️ Folder not found: {folder}")
                 continue
             
-        logger.info(f"   📂 Scanning folder: {folder}")
+        logger.info(f"  📂 Scanning folder: {folder}")
         files = glob.glob(os.path.join(folder, "*.json"))
         
         for file_path in files:
@@ -176,9 +181,13 @@ app.include_router(admin_router, prefix="/api/v1/admin", tags=["Admin"])
 app.include_router(school_engine_router, prefix="/api/school", tags=["School Engine"])
 app.include_router(settings_router, prefix="/api/school", tags=["School Settings"]) 
 app.include_router(relay_router, prefix="/api/relay", tags=["Smart Dispatcher"]) 
-app.include_router(sba_router, prefix="/api/sba", tags=["School-Based Assessment"]) # 👈 ADDED THIS: REGISTER SBA ROUTER
+app.include_router(sba_router, prefix="/api/sba", tags=["School-Based Assessment"]) 
 app.include_router(exams_router)
 app.include_router(catchup_router)
+
+# 👇 ADDED THIS: Register Internal Command Center Routes
+app.include_router(internal_router, tags=["Internal Command Center"])
+
 # 7. Startup Event & Health Check
 @app.on_event("startup")
 async def startup_event():
@@ -186,6 +195,7 @@ async def startup_event():
     logger.info("🚀 SYSTEM STARTUP COMPLETE")
     logger.info(f"📚 Syllabi Loaded: {s_count}")
     logger.info(f"📦 Modules Loaded: {m_count}")
+    logger.info("🤖 AI Architect & Sales Engine Online") # Log that internal tools are active
 
 @app.get("/")
 def health_check():
@@ -202,7 +212,9 @@ def health_check():
             "/api/v1/teacher/new", 
             "/api/school/update-settings", 
             "/api/relay/dispatch/generate",
-            "/api/welcome-email" 
+            "/api/welcome-email",
+            "/api/internal-agent/chat", # Added to health check
+            "/api/sales/generate"       # Added to health check
         ] 
     }
 

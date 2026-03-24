@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Shield, Mail } from 'lucide-react'; 
+import { Shield, Mail, Bot } from 'lucide-react'; // 👈 Added 'Bot' icon here
 import { collection, getDocs } from 'firebase/firestore';
 import { onAuthStateChanged } from 'firebase/auth'; 
 import { useNavigate } from 'react-router-dom';
@@ -151,6 +151,15 @@ export default function AdminDashboard() {
                 <Shield className="text-[#6c2dc7]" /> Booxclash Command Center
             </h1>
             <div className="flex gap-4 items-center">
+                
+                {/* 👇 NEW BUTTON: AI Agent Dashboard */}
+                <button 
+                  onClick={() => navigate('/agent-dashboard')} 
+                  className="flex items-center gap-2 px-4 py-2.5 bg-white border-2 border-[#6c2dc7] text-[#6c2dc7] hover:bg-[#6c2dc7] hover:text-white rounded-xl font-bold transition-all shadow-sm active:scale-95"
+                >
+                    <Bot size={18} /> AI Agents
+                </button>
+
                 <button 
                   onClick={() => navigate('/admin/emails')} 
                   className="flex items-center gap-2 px-4 py-2.5 bg-[#6c2dc7] hover:bg-[#6c2dc7]/90 text-white rounded-xl font-bold transition-all shadow-[0_4px_14px_rgba(108,45,199,0.3)] active:scale-95"
