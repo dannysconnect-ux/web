@@ -90,7 +90,7 @@ async def generate_scheme_with_ai(
     locked_context: Optional[Dict[str, Any]] = None
 ) -> List[dict]:
     
-    print(f"\n📘 [Scheme Generator] Processing {subject} Grade {grade} - Using exact provided topics...")
+    print(f"\n📘 [Scheme Generator] Processing {subject} Grade {grade} - Paced for End of Term...")
     
     # 1. Extract Topics
     full_topic_list = []
@@ -138,7 +138,7 @@ async def generate_scheme_with_ai(
 
     model = get_model()
 
-    # 3. PROMPT: Force AI to cover the WHOLE list across the weeks
+    # 3. PROMPT: Force AI to cover the WHOLE list across the teaching weeks
     prompt = f"""
     Act as a Senior Head Teacher in Zambia. Create a Scheme of Work for {term}.
     Duration: {num_weeks} Weeks.
@@ -146,11 +146,15 @@ async def generate_scheme_with_ai(
     SYLLABUS DATA TO COVER: 
     {json.dumps(target_topics)}
 
+    STRICT CALENDAR RULES:
+    1. **WEEK {num_weeks - 1}**: This week is strictly for "REVISION". Do not assign new teaching topics here.
+    2. **WEEK {num_weeks}**: This week is strictly for "END OF TERM TESTS".
+    3. **TEACHING WEEKS**: Distribute the PROVIDED syllabus data across Weeks 1 to {num_weeks - 2}.
+    4. **COMPLETE COVERAGE**: Ensure all provided topics and subtopics are condensed logically into the available teaching weeks.
+
     INSTRUCTIONS:
-    1. **COMPLETE COVERAGE**: You must distribute the PROVIDED syllabus data across exactly {num_weeks} weeks. 
-    2. **PACING**: Spread the subtopics logically. Do not skip any provided topics.
-    3. **REFERENCES**: For each week, the first reference MUST be: "{subject} Syllabus Grade {grade} Pg [Page Number from Data]".
-    4. **CONSISTENCY**: Use the exact terminology from the source data.
+    - **REFERENCES**: For teaching weeks, the first reference MUST be: "{subject} Syllabus Grade {grade} Pg [Page Number from Data]".
+    - **CONSISTENCY**: Use the exact terminology from the source data.
 
     {format_instruction}
     """
@@ -169,25 +173,37 @@ async def generate_scheme_with_ai(
             week_num = i + 1
             if week_num > num_weeks: break
 
-            # Validate against original data to ensure correct references/titles
-            ai_topic = str(item.get('topic', '')).strip().lower()
-            ai_unit = str(item.get('unit', '')).strip().lower()
-            
-            # Find the match in our source list
-            match = syllabus_lookup.get(ai_topic) or syllabus_lookup.get(ai_unit)
-            
-            if match:
-                # Sync strict details
-                item['topic'] = match.get('topic_title') or match.get('topic') or item.get('topic')
-                page = str(match.get('page_number', match.get('syllabus_page', '')))
-                ref = f"{subject} Syllabus Grade {grade}"
-                if page and page.lower() not in ["", "nan", "none"]:
-                    ref += f" Pg {page}"
+            # Hard-override for the final two weeks to ensure absolute compliance
+            if week_num == num_weeks - 1:
+                item['topic'] = "REVISIONS"
+                item['unit'] = "N/A"
+                item['content'] = ["General Revision of Termly Topics"]
+                item['outcomes'] = ["Learners should be able to recall and apply covered topics"]
+            elif week_num == num_weeks:
+                item['topic'] = "END OF TERM TESTS"
+                item['unit'] = "N/A"
+                item['content'] = ["Summative Assessment"]
+                item['outcomes'] = ["Learners should be able to accurately answer test questions"]
+            else:
+                # Validate teaching weeks against original data to ensure correct references/titles
+                ai_topic = str(item.get('topic', '')).strip().lower()
+                ai_unit = str(item.get('unit', '')).strip().lower()
                 
-                # Ensure the primary reference is the syllabus
-                current_refs = item.get('references', [])
-                if not any(ref in r for r in current_refs):
-                    item['references'] = [ref] + current_refs
+                # Find the match in our source list
+                match = syllabus_lookup.get(ai_topic) or syllabus_lookup.get(ai_unit)
+                
+                if match:
+                    # Sync strict details
+                    item['topic'] = match.get('topic_title') or match.get('topic') or item.get('topic')
+                    page = str(match.get('page_number', match.get('syllabus_page', '')))
+                    ref = f"{subject} Syllabus Grade {grade}"
+                    if page and page.lower() not in ["", "nan", "none"]:
+                        ref += f" Pg {page}"
+                    
+                    # Ensure the primary reference is the syllabus
+                    current_refs = item.get('references', [])
+                    if not any(ref in r for r in current_refs):
+                        item['references'] = [ref] + current_refs
 
             # Metadata & Dates
             date_info = calculate_week_dates(start_date, week_num)

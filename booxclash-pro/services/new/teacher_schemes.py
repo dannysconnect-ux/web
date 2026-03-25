@@ -9,7 +9,7 @@ except ImportError:
     from services.new.teacher_shared import get_model, extract_json_string, calculate_week_dates
 
 # =====================================================
-# 1. PROFESSIONAL SCHEME GENERATOR
+# 1. PROFESSIONAL SCHEME GENERATOR (NEW CURRICULUM FORMAT)
 # =====================================================
 async def generate_scheme_with_ai(
     syllabus_data: Union[List[dict], Dict[str, Any]], 
@@ -21,7 +21,7 @@ async def generate_scheme_with_ai(
     locked_context: Optional[Dict[str, Any]] = None 
 ) -> Dict[str, Any]:
     
-    print(f"\n📘 [Scheme Generator] Processing {subject} {grade} - Using Selected Topics...")
+    print(f"\n📘 [Scheme Generator] Processing {subject} {grade} - Paced for End of Term...")
     
     # Extract Topics and Intro Data Safely
     topics_list = []
@@ -114,11 +114,16 @@ async def generate_scheme_with_ai(
     PROVIDED INTRO DATA: {json.dumps(provided_intro)}
     SYLLABUS DATA: {json.dumps(syllabus_summary)}
 
+    STRICT CALENDAR RULES:
+    1. **WEEK {num_weeks - 1}**: This MUST be strictly for "REVISIONS". Do not assign teaching topics here.
+    2. **WEEK {num_weeks}**: This MUST be strictly for "END OF TERM TESTS".
+    3. **TEACHING WEEKS**: Distribute the PROVIDED syllabus data evenly across Weeks 1 to {num_weeks - 2}.
+    4. **COMPLETE COVERAGE**: Ensure all provided topics and subtopics are compressed into the teaching weeks.
+
     INSTRUCTIONS:
     1. Create exactly {num_weeks} weeks.
-    2. Map the provided Topics to weeks sequentially. Since there are {len(syllabus_summary)} topics for {num_weeks} weeks, distribute them evenly.
-    3. Use a Zambian context (local names/examples).
-    4. REFERENCES: Use 'forced_references' from the data.
+    2. Use a Zambian context (local names/examples).
+    3. REFERENCES: Use 'forced_references' from the data.
 
     {format_instruction}
     """
@@ -153,28 +158,51 @@ async def generate_scheme_with_ai(
             else:
                  item['week_display'] = f"Week {week_num}"
             
-            # Fallbacks
-            fallbacks = {
-                "topic": "Topic Review",
-                "content": ["Consolidation of covered work"],
-                "prescribed_competences": ["Critical Thinking"],
-                "specific_competences": ["Learners should demonstrate understanding."],
-                "learning_activities": ["Discussion", "Group Work"],
-                "methods": ["Learner-Centered Approach"],
-                "assessment": ["Continuous Assessment"],
-                "resources": ["Textbook", "Chalkboard"]
-            }
-            for key, val in fallbacks.items():
-                if not item.get(key): item[key] = val
-            
-            if i < len(syllabus_summary):
-                strict_refs = syllabus_summary[i].get("forced_references", [])
-                ai_refs = item.get("references")
-                if not ai_refs or ai_refs == [""]:
-                    item['references'] = strict_refs
-                elif isinstance(ai_refs, list) and strict_refs:
-                    if not any(strict_refs[0] in r for r in ai_refs):
-                        item['references'] = strict_refs + ai_refs
+            # --- HARD OVERRIDES FOR THE LAST TWO WEEKS ---
+            if week_num == num_weeks - 1:
+                item['topic'] = "REVISIONS"
+                item['content'] = ["General Revision of Termly Topics"]
+                item['prescribed_competences'] = ["Consolidation of skills"]
+                item['specific_competences'] = ["Learners should be able to recall and apply covered topics."]
+                item['learning_activities'] = ["Past paper revision", "Group discussion"]
+                item['methods'] = ["Question and Answer", "Group Work"]
+                item['assessment'] = ["Mock tests", "Oral questioning"]
+                item['resources'] = ["Past papers", "Study guides", "Chalkboard"]
+                item['references'] = [f"{subject} Syllabus Grade {grade}"]
+            elif week_num == num_weeks:
+                item['topic'] = "END OF TERM TESTS"
+                item['content'] = ["Summative Assessment"]
+                item['prescribed_competences'] = ["Evaluation of learning"]
+                item['specific_competences'] = ["Learners should be able to accurately answer test questions."]
+                item['learning_activities'] = ["Writing exams"]
+                item['methods'] = ["Written Examination"]
+                item['assessment'] = ["End of Term Exam"]
+                item['resources'] = ["Exam papers", "Answer sheets"]
+                item['references'] = ["Assessment Framework"]
+            else:
+                # --- Normal Teaching Weeks Fallbacks ---
+                fallbacks = {
+                    "topic": "Topic Review",
+                    "content": ["Consolidation of covered work"],
+                    "prescribed_competences": ["Critical Thinking"],
+                    "specific_competences": ["Learners should demonstrate understanding."],
+                    "learning_activities": ["Discussion", "Group Work"],
+                    "methods": ["Learner-Centered Approach"],
+                    "assessment": ["Continuous Assessment"],
+                    "resources": ["Textbook", "Chalkboard"]
+                }
+                for key, val in fallbacks.items():
+                    if not item.get(key): item[key] = val
+                
+                # Strict references injection for normal teaching weeks
+                if i < len(syllabus_summary):
+                    strict_refs = syllabus_summary[i].get("forced_references", [])
+                    ai_refs = item.get("references")
+                    if not ai_refs or ai_refs == [""]:
+                        item['references'] = strict_refs
+                    elif isinstance(ai_refs, list) and strict_refs:
+                        if not any(strict_refs[0] in r for r in ai_refs):
+                            item['references'] = strict_refs + ai_refs
             
             cleaned_weeks.append(item)
             
