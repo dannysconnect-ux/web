@@ -55,7 +55,7 @@ const AboutUs = () => {
         content="Learn about BooxClash's mission to digitize Zambian education through AI-powered administration and curriculum tools."
       />
       
-      {/* --- LIGHT THEME BACKGROUND --- */}
+      {/* --- LIGHT THEME BACKGRND --- */}
       <div className="relative min-h-screen w-full bg-[#f0fff0] font-sans selection:bg-[#6c2dc7]/20 selection:text-[#6c2dc7]">
 
          {/* CONTENT WRAPPER */}
