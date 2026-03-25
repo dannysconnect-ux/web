@@ -95,7 +95,7 @@ def read_local_file(filepath: str) -> str:
         return f"Error reading file {full_path}: {str(e)}"
 
 
-# 👇 NEW ENDPOINT: Frontend polls 
+# 👇 NEW ENDPOINT: Frontend polls this every 500ms to get the live status
 @router.get("/api/internal-agent/status")
 async def get_agent_status():
     return {"status": CURRENT_AGENT_STATUS}
