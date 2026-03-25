@@ -1,13 +1,14 @@
 import json
+import asyncio
 from .new.teacher_shared import get_model, extract_json_string
+from .image_service import generate_fast_image  # 🆕 Import your image service
 
 async def generate_localized_exam(grade: str, subject: str, topics: list, blueprint: dict) -> dict:
     """
-    Generates a syllabus-aligned exam using simple Zambian English context.
-    blueprint example: {"mcq": 10, "one_word": 5, "essay": 2}
+    Generates a syllabus-aligned exam and creates AI diagrams for required questions.
     """
     
-    print(f"\n📝 [Exam Generator] Generating {grade} {subject} Test...")
+    print(f"\n📝 [Exam Generator] Generating {grade} {subject} Test with Diagrams...")
     
     topics_str = ", ".join(topics) if topics else "General Review"
     
@@ -16,49 +17,30 @@ Your task is to generate a comprehensive test for {grade} students in {subject}.
 
 STRICT RULES FOR LANGUAGE & CONTEXT:
 1. Simplicity: Keep sentences under 15 words. Use a {grade} reading level.
-2. Local Context: Use ONLY common Zambian names (e.g., Mutale, Chanda). 
-3. Local Settings: Use local scenarios (e.g., a minibus, a maize field, Victoria Falls).
+2. Local Context: Use ONLY common Zambian names (e.g., Mutale, Chanda, Mwape). 
+3. Local Settings: Use local scenarios (e.g., a minibus, a maize field, Kariba Dam).
 4. Metrics: Always use Zambian Kwacha (ZMW) and metric system (km, kg, liters).
 5. Alignment: Questions MUST strictly relate to these topics: {topics_str}.
 
-EXAM BLUEPRINT:
-Please generate EXACTLY:
-- {blueprint.get('mcq', 0)} Multiple Choice Questions
-- {blueprint.get('true_false', 0)} True/False Questions
-- {blueprint.get('matching', 0)} Matching Blocks (Each block must have exactly 5 pairs to match)
-- {blueprint.get('short_answer', 0)} Short Answer / Fill-in-the-Blank Questions
-- {blueprint.get('computational', 0)} Computational / Problem-Solving Questions (Show working)
-- {blueprint.get('essay', 0)} Essay/Explanation Questions
-- {blueprint.get('case_study', 0)} Case Study Scenarios (A short story followed by 2-3 questions)
-
-IMPORTANT - IMAGES & DIAGRAMS:
-If a question requires a visual diagram (e.g., a map, a plant cell, a circuit, a solid shape), you MUST do two things:
-1. Start the "question" text with phrases like "Look at the diagram below:", "Based on the picture:", or "Study the image:".
-2. Provide a highly descriptive, visual 3-5 word "image_prompt" describing EXACTLY what to draw (e.g., "A solid wooden block" or "A simple electrical circuit"). DO NOT just repeat the question as the image prompt!
+STRICT VISUAL REQUIREMENT (MANDATORY):
+This exam MUST contain AT LEAST 3 questions that require a diagram or visual aid.
+- For these questions, set "needs_image": true.
+- Start the question text with "Study the diagram below:" or "Look at the image:".
+- Provide a "image_prompt" that describes a clear, simple educational illustration.
 
 OUTPUT JSON FORMAT:
 {{
   "exam_title": "{grade} {subject} Test",
   "multiple_choice": [
-    {{"question": "Look at the diagram below. What state of matter is this?", "options": ["A. Solid", "B. Liquid", "C. Gas", "D. Plasma"], "answer": "A. Solid", "needs_image": true, "image_prompt": "A solid wooden block"}}
+    {{"question": "...", "options": [], "answer": "...", "needs_image": true, "image_prompt": "..."}}
   ],
-  "true_false": [
-    {{"question": "...", "answer": "True", "needs_image": false, "image_prompt": ""}}
-  ],
-  "matching": [
-    {{"instruction": "Match the items in Column A with Column B.", "pairs": [{{"stem": "Term A", "match": "Definition A"}}, {{"stem": "Term B", "match": "Definition B"}}], "needs_image": false, "image_prompt": ""}}
-  ],
-  "short_answer": [
-    {{"question": "...", "answer": "...", "needs_image": false, "image_prompt": ""}}
-  ],
-  "computational": [
-    {{"question": "Calculate...", "solution_steps": "1. ...\\n2. ...", "final_answer": "...", "needs_image": false, "image_prompt": ""}}
-  ],
-  "essay": [
-    {{"question": "...", "points_allocated": 5, "grading_rubric": "...", "needs_image": false, "image_prompt": ""}}
-  ],
+  "true_false": [],
+  "matching": [],
+  "short_answer": [],
+  "computational": [],
+  "essay": [],
   "case_study": [
-    {{"scenario": "A short story about a farmer...", "questions": [{{"question": "...", "answer": "..."}}], "needs_image": false, "image_prompt": ""}}
+    {{"scenario": "...", "questions": [{{"question": "...", "answer": "...", "needs_image": false, "image_prompt": ""}}]}}
   ]
 }}
 """
@@ -66,21 +48,47 @@ OUTPUT JSON FORMAT:
     response_text = ""
     try:
         model = get_model()
-        
         response = await model.generate_content_async(
             prompt,
-            generation_config={"response_mime_type": "application/json"}
+            generation_config={"response_mime_type": "application/json", "temperature": 0.7}
         )
         
         response_text = response.text
         json_str = extract_json_string(response_text)
         exam_json = json.loads(json_str)
+
+        # 🎨 --- IMAGE GENERATION LOGIC --- 🎨
+        print("🎨 [Exam Generator] Processing diagrams...")
         
-        print(f"✅ [Exam Generator] Successfully generated: {exam_json.get('exam_title')}")
+        sections_to_process = [
+            "multiple_choice", "true_false", "matching", 
+            "short_answer", "computational", "essay"
+        ]
+
+        # 1. Process standard sections
+        for section in sections_to_process:
+            if section in exam_json and isinstance(exam_json[section], list):
+                for item in exam_json[section]:
+                    if item.get("needs_image") and item.get("image_prompt"):
+                        # Generate the image and store the base64 string
+                        img_data = await generate_fast_image(item["image_prompt"])
+                        item["image_url"] = img_data 
+        
+        # 2. Process nested Case Study questions
+        if "case_study" in exam_json and isinstance(exam_json["case_study"], list):
+            for study in exam_json["case_study"]:
+                # Check if the scenario itself needs an image
+                if study.get("needs_image") and study.get("image_prompt"):
+                    study["image_url"] = await generate_fast_image(study["image_prompt"])
+                
+                # Check individual questions within the case study
+                for q in study.get("questions", []):
+                    if q.get("needs_image") and q.get("image_prompt"):
+                        q["image_url"] = await generate_fast_image(q["image_prompt"])
+
+        print(f"✅ [Exam Generator] Successfully generated exam with integrated diagrams.")
         return exam_json
         
     except Exception as e:
-        print(f"❌ [Exam Generator] LLM Generation Error: {e}")
-        if response_text:
-            print(f"❌ RAW AI RESPONSE: {response_text[:500]}...") 
-        return {"error": "Failed to generate test."}
+        print(f"❌ [Exam Generator] Error: {e}")
+        return {"error": f"Failed to generate test: {str(e)}"}

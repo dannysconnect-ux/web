@@ -1,24 +1,26 @@
-import google.generativeai as genai
+# Change the import from 'google.generativeai' to 'google'
+from google import genai 
 from google.genai import types
 from core.config import settings
 import base64
 
+# This will now work with the google-genai package
 client = genai.Client(api_key=settings.GEMINI_API_KEY)
 
 async def generate_fast_image(prompt: str) -> str:
     print(f"🎨 Painting: {prompt}")
     try:
-        # CORRECT METHOD: Use the Image Generation model, not the text model
+        # Corrected method for the new SDK
         response = client.models.generate_images(
-            model='imagen-3.0-generate-001',
+            model='imagen-4.0-generate-001',
             prompt=prompt,
             config=types.GenerateImagesConfig(
                 number_of_images=1,
-                aspect_ratio="16:9"
+                aspect_ratio="1:1", # Exams usually look better with 1:1 or 4:3
+                output_mime_type="image/jpeg"
             )
         )
         
-        # Imagen returns a generated_image object
         image_bytes = response.generated_images[0].image.image_bytes
         base64_img = base64.b64encode(image_bytes).decode('utf-8')
         
@@ -26,5 +28,4 @@ async def generate_fast_image(prompt: str) -> str:
         
     except Exception as e:
         print(f"❌ Image Gen Error: {e}")
-        # Fallback to a placeholder if it fails (keeps app from crashing)
         return "https://placehold.co/600x400?text=Image+Generation+Failed"

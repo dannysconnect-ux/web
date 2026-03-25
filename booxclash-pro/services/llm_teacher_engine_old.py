@@ -7,7 +7,13 @@ from typing import List, Optional, Dict, Any
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
 import google.generativeai as genai
-from .new.teacher_shared import find_structured_module_content
+
+# Try to handle relative imports based on your file structure
+try:
+    from .new.teacher_shared import find_structured_module_content
+except ImportError:
+    # Fallback if structure differs
+    def find_structured_module_content(data, query): return None
 
 load_dotenv()
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
@@ -16,6 +22,7 @@ genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 DEFAULT_LOGO = "https://res.cloudinary.com/dchkrvf4b/image/upload/v1727734157/coat_of_arms_zambia.png"
 
 def get_model():
+    # Using the latest stable model
     return genai.GenerativeModel("gemini-2.5-flash")
 
 # =====================================================
@@ -66,13 +73,12 @@ def extract_json_string(text: str) -> str:
             if end_idx != -1:
                 clean_text = clean_text[start_brace : end_idx + 1]
         
-        clean_text = re.sub(r'(?<!\\)\n', '\\n', clean_text)
         return clean_text
     except Exception:
         return text
 
 # =====================================================
-# 1. PROFESSIONAL SCHEME GENERATOR (PACED DISTRIBUTION)
+# 1. PROFESSIONAL SCHEME GENERATOR (NO SPLITTING)
 # =====================================================
 async def generate_scheme_with_ai(
     syllabus_data: Any,
@@ -84,8 +90,9 @@ async def generate_scheme_with_ai(
     locked_context: Optional[Dict[str, Any]] = None
 ) -> List[dict]:
     
-    print(f"\n📘 [Scheme Generator] Processing {subject} Grade {grade} for Term {term}...")
+    print(f"\n📘 [Scheme Generator] Processing {subject} Grade {grade} - Using exact provided topics...")
     
+    # 1. Extract Topics
     full_topic_list = []
     if isinstance(syllabus_data, dict):
         full_topic_list = (syllabus_data.get("topics") or syllabus_data.get("content") or syllabus_data.get("units") or [])
@@ -93,133 +100,111 @@ async def generate_scheme_with_ai(
         full_topic_list = syllabus_data
     
     if not full_topic_list:
+        print("⚠️ No topics found for scheme generation.")
         return []
 
-    chunk_size = math.ceil(len(full_topic_list) / 3)
-    term_int = 1
-    if "2" in str(term): term_int = 2
-    elif "3" in str(term): term_int = 3
-
-    start_index = (term_int - 1) * chunk_size
-    end_index = start_index + chunk_size
-    term_syllabus_slice = full_topic_list[start_index:end_index]
+    # 🔥 NO SPLITTING LOGIC HERE 🔥
+    # Use exactly what was passed in.
+    target_topics = full_topic_list
     
-    # Lookup dictionary
+    # Create lookup for strict page numbers and validation
     syllabus_lookup = {}
-    for item in term_syllabus_slice:
-        title_key = str(item.get('topic_title', item.get('topic', ''))).strip().lower()
-        if title_key: syllabus_lookup[title_key] = item
-        
-        unit_key = str(item.get('unit', '')).strip().lower()
-        if unit_key and unit_key not in syllabus_lookup:
-            syllabus_lookup[unit_key] = item
+    for item in target_topics:
+        if not isinstance(item, dict): continue
+        t_title = str(item.get('topic_title', item.get('topic', ''))).strip().lower()
+        u_code = str(item.get('unit', '')).strip().lower()
+        if t_title: syllabus_lookup[t_title] = item
+        if u_code: syllabus_lookup[u_code] = item
 
     format_instruction = """
-    OUTPUT JSON:
+    OUTPUT JSON (Strict Array of Objects):
     [
       {
         "week_number": 1,
-        "unit": "7.1",
-        "topic": "GOVERNANCE", 
-        "content": ["7.1.1 Democratic Governance", "7.1.2 Organs of Government"], 
-        "outcomes": ["Describe democracy", "Identify the organs of government"],
-        "methods": ["Group Work", "Demonstration"], 
-        "resources": ["Charts", "Realia"]
+        "unit": "Unit Code",
+        "topic": "Topic Name", 
+        "content": ["Subtopic 1", "Subtopic 2"], 
+        "outcomes": ["Outcome 1", "Outcome 2"],
+        "methods": ["Method"], 
+        "resources": ["Resource"],
+        "references": ["Syllabus Reference"]
       }
     ]
     """
     
     if locked_context and locked_context.get("customColumns"):
         custom_keys = [c["key"] for c in locked_context["customColumns"]]
-        format_instruction = f"""
-        🚨 CRITICAL TEMPLATE LOCK: The teacher uses a custom spreadsheet. 
-        Instead of the standard format, your JSON objects inside the array MUST use EXACTLY these keys:
-        {json.dumps(custom_keys)}
-        Map your generated content logically to these keys.
-        """
+        format_instruction = f"🚨 CRITICAL: Use EXACTLY these keys: {json.dumps(custom_keys)}"
 
     model = get_model()
-    data_context = json.dumps(term_syllabus_slice)
 
-    # ✅ PROMPT UPDATED TO FORCE PACING AND SPREAD
+    # 3. PROMPT: Force AI to cover the WHOLE list across the weeks
     prompt = f"""
-    Act as a Senior Head Teacher. Create a Scheme of Work for **Term {term_int}**.
+    Act as a Senior Head Teacher in Zambia. Create a Scheme of Work for {term}.
+    Duration: {num_weeks} Weeks.
     
-    DETAILS: 
-    - Subject: {subject}, Grade: {grade}, Duration: {num_weeks} Weeks
-    
-    SOURCE DATA (Pay close attention to 'page_number'): 
-    {data_context}
+    SYLLABUS DATA TO COVER: 
+    {json.dumps(target_topics)}
 
     INSTRUCTIONS:
-    1. **PACING & SPREAD (CRITICAL)**: Distribute the `subtopics` logically across the {num_weeks} weeks. DO NOT cram all subtopics of a large unit into one week. Assign 1 or 2 subtopics per week.
-    2. **OUTCOMES ALIGNMENT**: For each week, ONLY select the `learning_outcomes` from the Source Data that match the specific `subtopics` assigned to that week.
-    3. **References**: You MUST create a `references` array for every week. The first item MUST be the syllabus reference using the exact `page_number` from the SOURCE DATA (e.g. "{subject} Syllabus Grade {grade} Pg 45").
-    4. **Methods & Resources**: Recommend specific, practical pedagogical methods and learning resources.
-    5. **COMPLIANCE**: Return the `topic`, `unit`, `content` (subtopics), and `outcomes` EXACTLY as they are phrased in the SOURCE DATA. Do not hallucinate or invent new ones.
+    1. **COMPLETE COVERAGE**: You must distribute the PROVIDED syllabus data across exactly {num_weeks} weeks. 
+    2. **PACING**: Spread the subtopics logically. Do not skip any provided topics.
+    3. **REFERENCES**: For each week, the first reference MUST be: "{subject} Syllabus Grade {grade} Pg [Page Number from Data]".
+    4. **CONSISTENCY**: Use the exact terminology from the source data.
 
     {format_instruction}
     """
     
     try:
-        response = await model.generate_content_async(prompt)
-        json_str = extract_json_string(response.text)
-        data = json.loads(json_str)
+        response = await model.generate_content_async(
+            prompt, 
+            generation_config={"response_mime_type": "application/json"}
+        )
+        data = json.loads(extract_json_string(response.text))
 
         if not isinstance(data, list): return []
 
         cleaned_data = []
         for i, item in enumerate(data):
-            week_num = item.get('week_number', item.get('week_num', i + 1))
-            if int(week_num) > num_weeks: continue
+            week_num = i + 1
+            if week_num > num_weeks: break
 
-            ai_topic_key = str(item.get('topic', '')).strip().lower()
-            ai_unit_key = str(item.get('unit', '')).strip().lower()
+            # Validate against original data to ensure correct references/titles
+            ai_topic = str(item.get('topic', '')).strip().lower()
+            ai_unit = str(item.get('unit', '')).strip().lower()
             
-            original_data = syllabus_lookup.get(ai_topic_key)
-            if not original_data: original_data = syllabus_lookup.get(ai_unit_key)
-            if not original_data and i < len(term_syllabus_slice):
-                original_data = term_syllabus_slice[i]
-
-            if original_data:
-                # 1. Exact Topic Title
-                source_topic = original_data.get('topic_title') or original_data.get('topic')
-                if source_topic: item['topic'] = source_topic
+            # Find the match in our source list
+            match = syllabus_lookup.get(ai_topic) or syllabus_lookup.get(ai_unit)
+            
+            if match:
+                # Sync strict details
+                item['topic'] = match.get('topic_title') or match.get('topic') or item.get('topic')
+                page = str(match.get('page_number', match.get('syllabus_page', '')))
+                ref = f"{subject} Syllabus Grade {grade}"
+                if page and page.lower() not in ["", "nan", "none"]:
+                    ref += f" Pg {page}"
                 
-                # ✅ FIX: DO NOT overwrite the AI's chunked subtopics and outcomes!
-                # Only provide a fallback if the AI failed to generate them entirely.
-                if not item.get('content') and not item.get('subtopics'):
-                    item['content'] = original_data.get('subtopics') or original_data.get('content') or original_data.get('topics')
+                # Ensure the primary reference is the syllabus
+                current_refs = item.get('references', [])
+                if not any(ref in r for r in current_refs):
+                    item['references'] = [ref] + current_refs
 
-                if not item.get('outcomes'):
-                    item['outcomes'] = original_data.get('learning_outcomes') or original_data.get('specific_outcomes') or original_data.get('outcomes')
-                
-                # 4. Strict Syllabus Reference Construction
-                official_page = str(original_data.get('page_number', original_data.get('syllabus_page', '')))
-                strict_ref = f"{subject} Syllabus Grade {grade}"
-                if official_page and official_page.lower() not in ["", "nan", "none"]:
-                    strict_ref += f" Pg {official_page}"
-                
-                item['references'] = [strict_ref]
-            else:
-                item['references'] = [f"{subject} Syllabus Grade {grade}"]
-
-            if 'external_ref' in item: del item['external_ref']
-
-            # Generate accurate dates
-            date_info = calculate_week_dates(start_date, int(week_num))
-            item['week'] = week_num
+            # Metadata & Dates
+            date_info = calculate_week_dates(start_date, week_num)
+            item['week_number'] = week_num
+            item['week'] = f"Week {week_num}"
             item['date_range'] = date_info['range_display'] 
             item['month'] = date_info['month']
+            item['date_start'] = date_info['start_iso']
+            item['date_end'] = date_info['end_iso']
             
             cleaned_data.append(item)
 
         return cleaned_data
 
     except Exception as e:
-        print(f"❌ Error: {e}")
+        print(f"❌ Scheme Error: {e}")
         return []
-
 # =====================================================
 # 2. WEEKLY PLAN GENERATOR (OLD FORMAT)
 # =====================================================

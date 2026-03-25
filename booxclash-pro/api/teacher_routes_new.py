@@ -59,7 +59,7 @@ class WeeklyPlanRequest(BaseModel):
     startDate: str = "2026-01-12"
     schoolId: Optional[str] = None
     lessonTitle: Optional[str] = None 
-    topic: Optional[str] = None         
+    topic: Optional[str] = None          
     references: Optional[str] = None
     schoolLogo: Optional[str] = None  
 
@@ -227,31 +227,45 @@ async def generate_scheme(
     real_syllabus_data = load_syllabus(country="Zambia", grade=request.grade, subject=request.subject)
     locked_context = get_locked_template_context(user_id, "scheme_of_work", request.grade, request.subject)
 
-    # 🎯 NEW LOGIC: Filter syllabus down to ONLY the selected topics from the frontend
+    # 🎯 UPDATED LOGIC: Filter syllabus specifically for Zambian format (topic_title)
     selected_topics = getattr(request, "topics", [])
     if not selected_topics:
-        # Fallback if the frontend sends a single topic
         single_topic = getattr(request, "topic", "")
         if single_topic:
             selected_topics = [single_topic]
 
     if selected_topics and real_syllabus_data:
         print(f"🎯 Filtering syllabus specifically for selected topics: {selected_topics}")
+        
+        # Handle Dictionary structure (Zambia JSON style)
         if isinstance(real_syllabus_data, dict):
             items = real_syllabus_data.get("topics", real_syllabus_data.get("units", []))
-            filtered_items = [item for item in items if item.get("title", item.get("topic", "")) in selected_topics]
+            # Match against topic_title, topic, or title
+            filtered_items = [
+                item for item in items 
+                if item.get("topic_title") in selected_topics or 
+                   item.get("topic") in selected_topics or 
+                   item.get("title") in selected_topics
+            ]
             if filtered_items:
-                real_syllabus_data = {"topics": filtered_items}
+                real_syllabus_data = {**real_syllabus_data, "topics": filtered_items}
+        
+        # Handle List structure
         elif isinstance(real_syllabus_data, list):
-            filtered_items = [item for item in real_syllabus_data if item.get("title", item.get("topic", "")) in selected_topics]
+            filtered_items = [
+                item for item in real_syllabus_data 
+                if item.get("topic_title") in selected_topics or 
+                   item.get("topic") in selected_topics or 
+                   item.get("title") in selected_topics
+            ]
             if filtered_items:
                 real_syllabus_data = filtered_items
     else:
-        print("⚠️ No specific topics provided. Proceeding with full syllabus mapping.")
+        print("⚠️ No specific topics provided or syllabus not found. Proceeding with full mapping.")
 
     try:
         ai_result = await generate_scheme_with_ai(
-            syllabus_data=real_syllabus_data,  # Now filtered!
+            syllabus_data=real_syllabus_data,  # Now robustly filtered!
             subject=request.subject,
             grade=request.grade,
             term=request.term,
@@ -566,7 +580,7 @@ async def generate_notes(
     print(f"📝 GENERATING NOTES | Subject: {request.subject} | Topic: {request.topic}")
     
     try:
-        # Added a 1-credit deduction here so users can't generate notes endlessly for free
+        # Notes generation cost: 1 credit
         credit_status = check_and_deduct_credit(user_id, cost=1, school_id=school_id)
 
         notes_data = await generate_lesson_notes(

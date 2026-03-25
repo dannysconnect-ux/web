@@ -1,4 +1,5 @@
 import re
+import traceback
 from typing import List, Optional, Dict, Any
 
 from fastapi import APIRouter, Header, HTTPException
@@ -132,7 +133,7 @@ def get_locked_template_context(uid: str, plan_type: str, grade: str, subject: s
         return None
 
 # ------------------------------------------------------------------
-# 1. Generate Scheme of Work
+# 1. Generate Scheme of Work (DEBUG VERSION)
 # ------------------------------------------------------------------
 @router.post("/generate-scheme")
 async def generate_scheme(
@@ -140,6 +141,16 @@ async def generate_scheme(
     x_user_id: Optional[str] = Header(None, alias="X-User-ID"),
     x_school_id: Optional[str] = Header(None, alias="X-School-ID")
 ):
+    # =========================
+    # 🚀 FULL REQUEST DEBUG
+    # =========================
+    print("\n================= 🚀 INCOMING SCHEME REQUEST =================")
+    print("📦 RAW REQUEST OBJECT:", request)
+    print("📦 REQUEST DICT:", request.dict())
+    print("📦 HEADERS UID:", x_user_id)
+    print("📦 HEADERS SCHOOL:", x_school_id)
+    print("=============================================================\n")
+
     uid = resolve_user_id(x_user_id, request.uid)
     school_id = x_school_id or getattr(request, "schoolId", None)
 
@@ -173,33 +184,90 @@ async def generate_scheme(
         # 3️⃣ Fetch Locked Template context
         locked_context = get_locked_template_context(uid, "scheme_old_format", request.grade, request.subject)
         
-        # 4️⃣ Generate & Filter Syllabus
+        # 4️⃣ Load syllabus
         syllabus_data = load_syllabus("Zambia", request.grade, request.subject)
-        
-        # 🎯 NEW LOGIC: Filter syllabus down to ONLY the selected topics from the frontend
-        selected_topics = getattr(request, "topics", [])
-        if not selected_topics:
-            # Fallback if the frontend sends a single topic
+
+        print("\n📚 SYLLABUS DEBUG")
+        print("📚 TYPE:", type(syllabus_data))
+        if isinstance(syllabus_data, dict):
+            print("📚 KEYS:", syllabus_data.keys())
+        elif isinstance(syllabus_data, list):
+            print("📚 LENGTH:", len(syllabus_data))
+
+        # =========================
+        # 🎯 TOPICS DEBUG
+        # =========================
+        selected_topics = getattr(request, "topics", None)
+
+        print("\n📥 TOPICS DEBUG")
+        print("request.topics:", request.topics if hasattr(request, "topics") else "❌ NOT IN SCHEMA")
+        print("getattr topics:", selected_topics)
+        print("fallback topic:", getattr(request, "topic", None))
+
+        if not selected_topics or len(selected_topics) == 0:
+            print("⚠️ topics is EMPTY or NOT RECEIVED")
             single_topic = getattr(request, "topic", "")
             if single_topic:
+                print("🔁 Falling back to single topic:", single_topic)
                 selected_topics = [single_topic]
 
-        if selected_topics and syllabus_data:
-            print(f"🎯 Filtering syllabus specifically for selected topics: {selected_topics}")
+        # Normalize
+        normalized_topics = [str(t).strip().lower() for t in selected_topics if t]
+        print("🧠 NORMALIZED TOPICS:", normalized_topics)
+
+        # =========================
+        # 🎯 FILTERING
+        # =========================
+        if normalized_topics and syllabus_data:
+            print(f"\n🎯 Filtering syllabus for topics: {normalized_topics}")
+
+            def is_match(item):
+                title = item.get("topic_title") or item.get("topic") or item.get("title", "")
+                
+                print("🔍 Checking item:", title)
+
+                if not title:
+                    return False
+                
+                title_clean = title.strip().lower()
+
+                # 🔥 FLEXIBLE MATCH (VERY IMPORTANT)
+                match = any(t in title_clean for t in normalized_topics)
+
+                if match:
+                    print("✅ MATCH FOUND:", title)
+
+                return match
+
+            filtered_items = []
+
             if isinstance(syllabus_data, dict):
-                items = syllabus_data.get("topics", syllabus_data.get("units", []))
-                filtered_items = [item for item in items if item.get("title", item.get("topic", "")) in selected_topics]
-                if filtered_items:
-                    syllabus_data = {"topics": filtered_items}
+                key = "topics" if "topics" in syllabus_data else "units" if "units" in syllabus_data else None
+                if key:
+                    filtered_items = [item for item in syllabus_data.get(key, []) if is_match(item)]
+                    print("📊 FILTERED COUNT:", len(filtered_items))
+
+                    if filtered_items:
+                        syllabus_data[key] = filtered_items
+                    else:
+                        print(f"❌ NO MATCH FOUND for topics: {normalized_topics}")
+
             elif isinstance(syllabus_data, list):
-                filtered_items = [item for item in syllabus_data if item.get("title", item.get("topic", "")) in selected_topics]
+                filtered_items = [item for item in syllabus_data if is_match(item)]
+                print("📊 FILTERED COUNT:", len(filtered_items))
+
                 if filtered_items:
                     syllabus_data = filtered_items
-        else:
-            print("⚠️ No specific topics provided. Proceeding with full syllabus mapping.")
+                else:
+                    print(f"❌ NO MATCH FOUND for topics: {normalized_topics}")
 
+        else:
+            print("⚠️ No topics provided OR syllabus missing")
+
+        # =========================
+        # 🤖 GENERATE
+        # =========================
         try:
-            # The AI now only receives the exact topics requested!
             ai_scheme = await generate_scheme_with_ai(
                 syllabus_data=syllabus_data,
                 subject=request.subject,
@@ -209,7 +277,6 @@ async def generate_scheme(
                 locked_context=locked_context 
             )
 
-            # ✅ FIXED: Firestore throws ValueError if we pass a List. Wrap it in a Dictionary!
             if isinstance(ai_scheme, dict):
                 ai_scheme_list = ai_scheme.get("scheme", ai_scheme.get("weeks", []))
                 data_to_save = ai_scheme
@@ -218,7 +285,6 @@ async def generate_scheme(
                 data_to_save = {"weeks": ai_scheme_list}
 
             if ai_scheme_list:
-                # Safely extract school name to avoid AttributeError
                 school_name_val = getattr(request, "school", getattr(request, "schoolName", "Unknown School"))
                 save_generated_scheme(
                     uid=uid,
@@ -230,12 +296,13 @@ async def generate_scheme(
                 )
 
         except Exception as e:
-            import traceback
             traceback.print_exc()
             print(f"❌ Scheme generation failed: {e}")
             return []
 
-    # 5️⃣ Normalize for frontend
+    # =========================
+    # 📤 FORMAT RESPONSE
+    # =========================
     rows: List[SchemeRow] = []
     
     def ensure_list(val: Any) -> List[str]:
@@ -250,12 +317,11 @@ async def generate_scheme(
     for item in ai_scheme_list or []:
         week_num = extract_week_number(item.get("week_number") or item.get("week"))
         
-        # --- Handle References ---
         raw_refs = item.get("references", "")
         final_refs = ensure_list(raw_refs)
-        if not final_refs: final_refs = ["Syllabus Ref"]
+        if not final_refs:
+            final_refs = ["Syllabus Ref"]
 
-        # --- Handle Content ---
         t_content = item.get("topic_content")
         if not t_content:
             raw_topic = item.get("topic", "")
@@ -263,7 +329,6 @@ async def generate_scheme(
             c_str = "\n- ".join(raw_content) if isinstance(raw_content, list) else str(raw_content)
             t_content = f"**{raw_topic}**\n- {c_str}"
 
-        # Initialize base data
         row_data = {
             "week": str(item.get("week", week_num)),
             "date_range": item.get("date_range", ""),
@@ -278,20 +343,17 @@ async def generate_scheme(
             "content": ensure_list(item.get("content", []))
         }
 
-        # Dynamically append custom columns 
         for key, val in item.items():
             if key.startswith("custom_") and key not in row_data:
                 row_data[key] = val
 
         rows.append(SchemeRow(**row_data))
 
-    # 📥 Return the rows AND the credit info wrapped in a dictionary!
     return {
         "data": rows,
         "credits_remaining": credit_status.get("remaining_credits"),
         "expires_at": credit_status.get("expires_at")
     }
-
 
 # ------------------------------------------------------------------
 # 2. Generate Weekly Plan 
@@ -377,7 +439,6 @@ async def generate_weekly_plan(
     except HTTPException:
         raise
     except Exception as e:
-        import traceback
         traceback.print_exc()
         raise HTTPException(status_code=500, detail=str(e))
 
@@ -476,7 +537,6 @@ async def generate_notes(
         )
         return {"status": "success", "data": notes_data}
     except Exception as e:
-        import traceback
         traceback.print_exc()
         raise HTTPException(status_code=500, detail=str(e))
 
@@ -513,6 +573,5 @@ async def capture_teacher_edits(
         return {"status": "success", "message": "Edits captured for fine-tuning"}
 
     except Exception as e:
-        import traceback
         traceback.print_exc()
         raise HTTPException(status_code=500, detail=str(e))

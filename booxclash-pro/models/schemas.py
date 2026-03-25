@@ -18,7 +18,9 @@ class SchemeRequest(BaseModel):
     grade: str
     term: str = "Term 1"
     weeks: int
-    
+        # ✅ ADD THIS
+    topics: Optional[List[str]] = []
+    topic: Optional[str] = ""
     # Optional / Context Fields
     startDate: Optional[str] = None
     uid: Optional[str] = None
