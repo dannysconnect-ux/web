@@ -46,12 +46,12 @@ const bloomsLevels = [
 
 // DEFINED ALL EXAM QUESTION TYPES
 const EXAM_QUESTION_TYPES = [
-  { id: 'mcq', label: 'Multiple Choice', default: 10, max: 50 },
+  { id: 'mcq', label: 'Multiple Choice', default: 0, max: 50 },
   { id: 'true_false', label: 'True / False', default: 0, max: 30 },
   { id: 'matching', label: 'Matching Pairs', default: 0, max: 5 }, // 1 matching question = 1 block of 5 pairs
-  { id: 'short_answer', label: 'Short Answer', default: 5, max: 30 },
+  { id: 'short_answer', label: 'Short Answer', default: 0, max: 30 },
   { id: 'computational', label: 'Problem Solving', default: 0, max: 20 },
-  { id: 'essay', label: 'Essay / Open', default: 2, max: 10 },
+  { id: 'essay', label: 'Essay / Open', default: 0, max: 10 },
   { id: 'case_study', label: 'Case Study', default: 0, max: 5 }
 ];
 

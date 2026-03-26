@@ -284,13 +284,15 @@ class RemedialLessonRequest(BaseModel):
 # 📝 EXAM ASSISTANT REQUEST (NEW)
 # ==========================================
 class ExamBlueprint(BaseModel):
-    mcq: int = 10
+    # ✅ FIX: Set ALL defaults to 0 so the backend never forces unwanted questions
+    mcq: int = 0
     true_false: int = 0
     matching: int = 0
-    short_answer: int = 5
+    short_answer: int = 0
     computational: int = 0
-    essay: int = 2
+    essay: int = 0
     case_study: int = 0
+    
     model_config = STRICT_IGNORE_EXTRA
 
 class ExamRequest(BaseModel):

@@ -34,7 +34,6 @@ export const useTeacherDashboard = () => {
   const [isGenerating, setIsGenerating] = useState(false);
   const [activeModal, setActiveModal] = useState<any>(null);
   
-  // 🆕 Added 'catchup' to activeFilter types
   const [activeFilter, setActiveFilter] = useState<'all' | 'lesson' | 'weekly' | 'scheme' | 'exam' | 'record' | 'catchup'>('all');
 
   useEffect(() => {
@@ -122,7 +121,7 @@ export const useTeacherDashboard = () => {
             { name: "generated_lesson_plans", type: "lesson" },
             { name: "generated_records_of_work", type: "record" },
             { name: "generated_exams", type: "exam" },
-            { name: "generated_catchup", type: "catchup" }, // 🆕 Now accurately matching the backend save location
+            { name: "generated_catchup", type: "catchup" }, 
             { name: "ai_training_flywheel", type: "flywheel" } 
         ];
         
@@ -258,7 +257,6 @@ export const useTeacherDashboard = () => {
                 term: formData.term
             };
 
-            // Setup endpoints and payloads based on toolType
             if (toolType === 'weekly') {
                 endpoint = `${API_BASE}${apiPrefix}/generate-weekly-plan`;
                 payload = {
@@ -290,16 +288,14 @@ export const useTeacherDashboard = () => {
             } 
             else if (toolType === 'scheme') {
                 endpoint = `${API_BASE}${apiPrefix}/generate-scheme`;
-                
-                // 🆕 Safely extract an array of topics exactly like the exam generator does
                 const topicsArray = formData.topics || [formData.topic, formData.subtopic].filter(Boolean);
 
                 payload = {
                     ...payload,
                     weeks: parseInt(String(formData.weeks || '13')),
                     startDate: formData.startDate || null,
-                    topics: topicsArray.length > 0 ? topicsArray : [], // Send array of topics to backend
-                    topic: formData.topic || "" // Keep single topic for backend backwards compatibility if needed
+                    topics: topicsArray.length > 0 ? topicsArray : [], 
+                    topic: formData.topic || "" 
                 };
             } 
             else if (toolType === 'record') {
@@ -318,17 +314,35 @@ export const useTeacherDashboard = () => {
             }
             else if (toolType === 'exam') {
                 endpoint = `${API_BASE}/api/exams/generate`; 
-                
                 const topicsArray = formData.topics || [formData.topic, formData.subtopic].filter(Boolean);
-                const defaultBlueprint = { mcq: 10, one_word: 5, essay: 2 };
+                
+                // 🚨 FIX: Force explicitly send 0 for any field the user didn't choose, 
+                // overriding the backend defaults.
+                const providedBlueprint = formData.blueprint || {};
+                const safeBlueprint = {
+                    mcq: parseInt(String(providedBlueprint.mcq || 0)),
+                    true_false: parseInt(String(providedBlueprint.true_false || 0)),
+                    matching: parseInt(String(providedBlueprint.matching || 0)),
+                    short_answer: parseInt(String(providedBlueprint.short_answer || providedBlueprint.one_word || 0)),
+                    computational: parseInt(String(providedBlueprint.computational || 0)),
+                    essay: parseInt(String(providedBlueprint.essay || 0)),
+                    case_study: parseInt(String(providedBlueprint.case_study || 0))
+                };
+
+                // Fallback ONLY if the form sent literally 0 for everything
+                const totalQuestions = Object.values(safeBlueprint).reduce((sum, val) => sum + val, 0);
+                if (totalQuestions === 0) {
+                    safeBlueprint.mcq = 0;
+                    safeBlueprint.short_answer = 0;
+                    safeBlueprint.essay = 0;
+                }
 
                 payload = {
                     ...payload,
                     topics: topicsArray.length > 0 ? topicsArray : ["General Review"],
-                    blueprint: formData.blueprint || defaultBlueprint
+                    blueprint: safeBlueprint
                 };
             }
-            // 🆕 CATCH-UP PAYLOAD
             else if (toolType === 'catchup') {
                 endpoint = `${API_BASE}/api/v1/catchup/generate-catchup-plan`; 
                 payload = {
@@ -371,31 +385,18 @@ export const useTeacherDashboard = () => {
 
             // Routing Logic after generation
             if (toolType === 'weekly') {
-                 navigate(currType === 'new' ? '/weekly-view' : '/old-weekly-view', { 
-                     state: { planData: result.data, meta: metaWithLogo } 
-                 });
-             } else if (toolType === 'lesson') {
-                 navigate(currType === 'new' ? '/lesson-view' : '/old-lesson-plan-view', { 
-                     state: { lessonData: result.data || result, meta: metaWithLogo } 
-                 });
-             } else if (toolType === 'scheme') {
-                 navigate(currType === 'new' ? '/schemes' : '/old-schemes', { 
-                     state: { schemeData: result.data || result.rows || result, introInfo: result.intro, ...formData } 
-                 });
-             } else if (toolType === 'record') {
-                 navigate('/record-view', {
-                     state: { recordData: result.data || result, meta: metaWithLogo }
-                 });
-             } else if (toolType === 'exam') {
-                 navigate('/exam-view', {
-                     state: { examData: result.data || result, meta: metaWithLogo }
-                 });
-             } else if (toolType === 'catchup') { 
-                 // ✅ FIXED: Passed using `planData` so CatchupView.tsx recognizes it seamlessly
-                 navigate('/catchup-view', {
-                     state: { planData: result.data || result, meta: metaWithLogo }
-                 });
-             }
+                 navigate(currType === 'new' ? '/weekly-view' : '/old-weekly-view', { state: { planData: result.data, meta: metaWithLogo } });
+            } else if (toolType === 'lesson') {
+                 navigate(currType === 'new' ? '/lesson-view' : '/old-lesson-plan-view', { state: { lessonData: result.data || result, meta: metaWithLogo } });
+            } else if (toolType === 'scheme') {
+                 navigate(currType === 'new' ? '/schemes' : '/old-schemes', { state: { schemeData: result.data || result.rows || result, introInfo: result.intro, ...formData } });
+            } else if (toolType === 'record') {
+                 navigate('/record-view', { state: { recordData: result.data || result, meta: metaWithLogo } });
+            } else if (toolType === 'exam') {
+                 navigate('/exam-view', { state: { examData: result.data || result, meta: metaWithLogo } });
+            } else if (toolType === 'catchup') { 
+                 navigate('/catchup-view', { state: { planData: result.data || result, meta: metaWithLogo } });
+            }
 
         } catch (error: any) {
             console.error("Generation Error:", error);
@@ -432,65 +433,21 @@ export const useTeacherDashboard = () => {
     };
 
     if (docData.type === 'record') {
-        navigate('/record-view', { 
-            state: { 
-                recordData: docData.data || docData.recordData, 
-                meta: metaData,
-                isLocked: docData.isLocked,
-                customColumns: docData.customColumns 
-            } 
-        });
+        navigate('/record-view', { state: { recordData: docData.data || docData.recordData, meta: metaData, isLocked: docData.isLocked, customColumns: docData.customColumns } });
     } else if (docData.type === 'scheme') {
         const currType = getCurriculumType(docData.grade || "");
         let rows = docData.schemeData?.rows || docData.schemeData || docData.rows || [];
-        navigate(currType === 'new' ? '/schemes' : '/old-schemes', { 
-            state: { 
-                ...docData, 
-                schemeData: rows, 
-                schoolName: finalSchoolName, 
-                isViewMode: true, 
-                meta: metaData,
-                isLocked: docData.isLocked,
-                customColumns: docData.customColumns 
-            } 
-        });
+        navigate(currType === 'new' ? '/schemes' : '/old-schemes', { state: { ...docData, schemeData: rows, schoolName: finalSchoolName, isViewMode: true, meta: metaData, isLocked: docData.isLocked, customColumns: docData.customColumns } });
     } else if (docData.type === 'weekly') {
         const currType = getCurriculumType(docData.grade || "");
-        navigate(currType === 'new' ? '/weekly-view' : '/old-weekly-view', { 
-            state: { 
-                planData: docData.planData || docData.weeklyData, 
-                meta: metaData,
-                isLocked: docData.isLocked,
-                customColumns: docData.customColumns 
-            } 
-        });
+        navigate(currType === 'new' ? '/weekly-view' : '/old-weekly-view', { state: { planData: docData.planData || docData.weeklyData, meta: metaData, isLocked: docData.isLocked, customColumns: docData.customColumns } });
     } else if (docData.type === 'lesson') {
         const currType = getCurriculumType(docData.grade || "");
-        navigate(currType === 'new' ? '/lesson-view' : '/old-lesson-plan-view', { 
-            state: { 
-                lessonData: docData.planData || docData.lessonData, 
-                meta: metaData,
-                isLocked: docData.isLocked,
-                customColumns: docData.customColumns  
-            } 
-        });
+        navigate(currType === 'new' ? '/lesson-view' : '/old-lesson-plan-view', { state: { lessonData: docData.planData || docData.lessonData, meta: metaData, isLocked: docData.isLocked, customColumns: docData.customColumns } });
     } else if (docData.type === 'exam') {
-        navigate('/exam-view', { 
-            state: { 
-                examData: docData.examData || docData.data, 
-                meta: metaData 
-            } 
-        });
+        navigate('/exam-view', { state: { examData: docData.examData || docData.data, meta: metaData } });
     } else if (docData.type === 'catchup') { 
-        // ✅ FIXED: Sending data through `planData` so CatchupView correctly mounts it
-        navigate('/catchup-view', { 
-            state: { 
-                planData: docData.planData || docData.catchupData || docData.data, 
-                meta: metaData,
-                isLocked: docData.isLocked,
-                customColumns: docData.customColumns  
-            } 
-        });
+        navigate('/catchup-view', { state: { planData: docData.planData || docData.catchupData || docData.data, meta: metaData, isLocked: docData.isLocked, customColumns: docData.customColumns } });
     }
   };
 

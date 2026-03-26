@@ -12,6 +12,15 @@ async def generate_localized_exam(grade: str, subject: str, topics: list, bluepr
     
     topics_str = ", ".join(topics) if topics else "General Review"
     
+    # Safely extract blueprint counts
+    mcq_count = int(blueprint.get('mcq', 0))
+    tf_count = int(blueprint.get('true_false', 0))
+    matching_count = int(blueprint.get('matching', 0))
+    short_count = int(blueprint.get('short_answer', 0))
+    comp_count = int(blueprint.get('computational', 0))
+    essay_count = int(blueprint.get('essay', 0))
+    case_count = int(blueprint.get('case_study', 0))
+    
     prompt = f"""You are an expert Zambian curriculum developer. 
 Your task is to generate a comprehensive test for {grade} students in {subject}.
 
@@ -26,7 +35,19 @@ STRICT VISUAL REQUIREMENT (MANDATORY):
 This exam MUST contain AT LEAST 3 questions that require a diagram or visual aid.
 - For these questions, set "needs_image": true.
 - Start the question text with "Study the diagram below:" or "Look at the image:".
-- Provide a "image_prompt" that describes a clear, simple educational illustration.
+- Provide an "image_prompt" that describes a clear, simple educational illustration.
+
+EXAM BLUEPRINT (CRITICAL INSTRUCTION):
+You MUST generate EXACTLY the number of questions specified below. 
+If a section says "0", you MUST return an empty array [] for that JSON key. DO NOT generate questions for sections with 0.
+
+- multiple_choice: {mcq_count} questions
+- true_false: {tf_count} questions
+- matching: {matching_count} matching blocks
+- short_answer: {short_count} questions
+- computational: {comp_count} questions
+- essay: {essay_count} questions
+- case_study: {case_count} scenarios
 
 OUTPUT JSON FORMAT:
 {{
@@ -50,7 +71,7 @@ OUTPUT JSON FORMAT:
         model = get_model()
         response = await model.generate_content_async(
             prompt,
-            generation_config={"response_mime_type": "application/json", "temperature": 0.7}
+            generation_config={"response_mime_type": "application/json", "temperature": 0.5}
         )
         
         response_text = response.text

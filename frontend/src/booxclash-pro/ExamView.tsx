@@ -62,9 +62,14 @@ export default function ExamView() {
   let currentGlobalQNum = 1;
   const sectionsWithMeta = activeSections.map((sec, idx) => {
       const startQ = currentGlobalQNum;
-      let count = sec.type === 'matching' ? sec.data.reduce((sum: number, m: any) => sum + m.pairs.length, 0)
-                : sec.type === 'case' ? sec.data.reduce((sum: number, cs: any) => sum + cs.questions.length, 0)
-                : sec.data.length;
+      
+      // ✅ FIX: Added optional chaining (?.) and fallbacks (|| 0) to prevent undefined length crashes
+      let count = sec.type === 'matching' 
+          ? sec.data.reduce((sum: number, m: any) => sum + (m.pairs?.length || 0), 0)
+          : sec.type === 'case' 
+          ? sec.data.reduce((sum: number, cs: any) => sum + (cs.questions?.length || 0), 0)
+          : (sec.data?.length || 0);
+                
       currentGlobalQNum += count;
       return { ...sec, letter: String.fromCharCode(65 + idx), startQ };
   });
@@ -247,7 +252,8 @@ export default function ExamView() {
                 
                 await drawPdfImageIfAny(`${section.type}_${i}`); 
 
-                q.options.forEach((opt: string) => {
+                // ✅ FIX: Added fallback for q.options
+                (q.options || []).forEach((opt: string) => {
                     checkPageBreak(10);
                     const isCorrect = showAnswers && opt.startsWith(q.answer);
                     if (isCorrect) doc.setFont("times", "bold");
@@ -280,8 +286,11 @@ export default function ExamView() {
                 doc.setFont("times", "normal");
                 await drawPdfImageIfAny(`${section.type}_${i}`);
 
-                const sortedMatches = [...q.pairs].sort((a,b) => a.match.localeCompare(b.match));
-                q.pairs.forEach((pair: any, pIdx: number) => {
+                // ✅ FIX: Added fallback for q.pairs
+                const safePairs = q.pairs || [];
+                const sortedMatches = [...safePairs].sort((a,b) => (a.match || '').localeCompare(b.match || ''));
+                
+                safePairs.forEach((pair: any, pIdx: number) => {
                     checkPageBreak(10);
                     if (showAnswers) {
                         const correctMatchIndex = sortedMatches.findIndex(m => m.match === pair.match);
@@ -291,7 +300,7 @@ export default function ExamView() {
                     } else {
                         doc.text(`[    ] ${qNum}. ${pair.stem}`, margin, yPos);
                     }
-                    const splitMatch = doc.splitTextToSize(`${String.fromCharCode(65 + pIdx)}. ${sortedMatches[pIdx].match}`, (pageWidth/2) - margin);
+                    const splitMatch = doc.splitTextToSize(`${String.fromCharCode(65 + pIdx)}. ${sortedMatches[pIdx]?.match || ''}`, (pageWidth/2) - margin);
                     doc.text(splitMatch, pageWidth / 2, yPos);
                     yPos += Math.max(1, splitMatch.length) * 6; qNum++;
                 });
@@ -576,7 +585,11 @@ export default function ExamView() {
 
                             {section.type === 'matching' && section.data.map((block: any, i: number) => {
                                 const isEditing = editingQ?.sectionKey === section.sectionKey && editingQ?.qIdx === i;
-                                const sortedMatches = [...(block.pairs||[])].sort((a,b) => a.match.localeCompare(b.match));
+                                
+                                // ✅ FIX: Added optional chaining and fallback for rendering
+                                const safePairs = block.pairs || [];
+                                const sortedMatches = [...safePairs].sort((a,b) => (a.match || '').localeCompare(b.match || ''));
+                                
                                 return (
                                 <div key={i} className="break-inside-avoid relative bg-slate-50 p-4 rounded-xl border border-slate-200 print:bg-transparent print:border-none print:p-0 group/tool">
                                     {renderActionButtons(section.sectionKey, i, isEditing)}
@@ -592,7 +605,7 @@ export default function ExamView() {
                                             {renderImageTools(block, `${section.type}_${i}`)}
                                             <div className="grid grid-cols-2 gap-4 text-sm">
                                                 <div className="space-y-4 pr-4 border-r border-slate-200 print:border-transparent">
-                                                    {block.pairs?.map((pair: any, pIdx: number) => {
+                                                    {safePairs.map((pair: any, pIdx: number) => {
                                                         const currentQ = qNumReact++;
                                                         const correctMatchIndex = sortedMatches.findIndex(m => m.match === pair.match);
                                                         return <div key={pIdx} className="flex items-center gap-3">{showAnswers ? <span className="text-emerald-600 font-bold w-6 text-center print:text-black">[{String.fromCharCode(65 + correctMatchIndex)}]</span> : <span className="border-b border-slate-400 w-6 inline-block"></span>}<span>{currentQ}. {pair.stem}</span></div>;
@@ -672,7 +685,8 @@ export default function ExamView() {
                                     {renderImageTools(cs, `${section.type}_scenario_${i}`)}
                                     
                                     <div className="space-y-6 pl-4 border-l-2 border-slate-200 print:border-transparent">
-                                        {cs.questions?.map((q: any, qIdx: number) => {
+                                        {/* ✅ FIX: Added fallback for cs.questions */}
+                                        {(cs.questions || []).map((q: any, qIdx: number) => {
                                             const currentQ = qNumReact++;
                                             return <div key={qIdx} className="group/subtool">
                                                 <p className="font-semibold text-slate-900 flex gap-2"><span>{currentQ}.</span><span>{q.question}</span></p>
