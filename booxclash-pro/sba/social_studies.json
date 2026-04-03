@@ -1,0 +1,36 @@
+{
+  "curriculum": "Zambia ECZ Social Studies Syllabus",
+  "grades": [
+    {
+      "grade": 5,
+      "topics": [
+        { "topic": "Living Together", "subtopics": ["5.1.1.1", "5.1.1.2", "5.1.1.3", "5.1.1.5"], "practical_and_experimental_content": [] },
+        { "topic": "Governance", "subtopics": ["5.2.1.4", "5.2.1.1", "5.2.1.2", "5.2.1.3"], "practical_and_experimental_content": [] },
+        { "topic": "Learning About Money", "subtopics": ["5.5.1.1", "5.5.1.2", "5.5.1.3"], "practical_and_experimental_content": [] },
+        { "topic": "Entrepreneurship", "subtopics": ["5.6.1.2", "5.6.1.1"], "practical_and_experimental_content": [] }
+      ]
+    },
+    {
+      "grade": 6,
+      "topics": [
+        { "topic": "Living Together", "subtopics": ["6.1.1.1", "6.1.1.2", "6.1.1.3", "6.1.1.5"], "practical_and_experimental_content": [] },
+        { "topic": "Governance", "subtopics": ["6.2.2.1"], "practical_and_experimental_content": [] },
+        { "topic": "Learning About Money", "subtopics": ["6.3.1.2"], "practical_and_experimental_content": [] },
+        { "topic": "Religion", "subtopics": ["6.4.1.2", "6.4.1.3"], "practical_and_experimental_content": [] },
+        { "topic": "Weather And Climate", "subtopics": ["6.5.1.1"], "practical_and_experimental_content": [] },
+        { "topic": "Environment", "subtopics": ["6.6.1.3"], "practical_and_experimental_content": [] },
+        { "topic": "Transport And Communication", "subtopics": ["6.7.1.1"], "practical_and_experimental_content": [] }
+      ]
+    },
+    {
+      "grade": 7,
+      "topics": [
+        { "topic": "Governance", "subtopics": ["7.1.3.1", "7.1.1.1", "7.1.1.3", "7.1.1.4", "7.1.1.5", "7.1.1.6", "7.1.2.2", "7.1.4.1"], "practical_and_experimental_content": [] },
+        { "topic": "The World", "subtopics": ["7.2.1.1", "7.2.2.1"], "practical_and_experimental_content": [] },
+        { "topic": "Religion", "subtopics": ["7.4.1.1", "7.4.1.2"], "practical_and_experimental_content": [] },
+        { "topic": "Learning About Money", "subtopics": ["7.5.2.1", "7.5.2.2", "7.5.1.1", "7.5.1.2", "7.5.1.4", "7.5.1.3"], "practical_and_experimental_content": [] },
+        { "topic": "Transport And Communication", "subtopics": ["7.7.2.1", "7.7.1.1", "7.7.2.2"], "practical_and_experimental_content": [] }
+      ]
+    }
+  ]
+}

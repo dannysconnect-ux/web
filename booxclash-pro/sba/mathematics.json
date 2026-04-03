@@ -1,0 +1,58 @@
+{
+  "curriculum": "Zambia ECZ Mathematics Syllabus",
+  "grades": [
+    {
+      "grade": 5,
+      "topics": [
+        { "topic": "Numbers and Notation", "subtopics": ["5.1.2", "5.1.3"], "practical_and_experimental_content": [] },
+        { "topic": "Addition", "subtopics": ["5.2.2"], "practical_and_experimental_content": [] },
+        { "topic": "Subtraction", "subtopics": ["5.3.2"], "practical_and_experimental_content": [] },
+        { "topic": "Combined Operations", "subtopics": ["5.4.2"], "practical_and_experimental_content": [] },
+        { "topic": "Sets", "subtopics": ["5.5.1", "5.5.3"], "practical_and_experimental_content": [] },
+        { "topic": "Factors and Multiples", "subtopics": ["5.6.2", "5.6.4"], "practical_and_experimental_content": [] },
+        { "topic": "Fractions", "subtopics": ["5.7.3", "5.7.4"], "practical_and_experimental_content": [] },
+        { "topic": "Decimals", "subtopics": ["5.8.3", "5.8.5"], "practical_and_experimental_content": [] },
+        { "topic": "Social and Commercial Arithmetic", "subtopics": ["5.9.1", "5.9.2", "5.9.3"], "practical_and_experimental_content": [] },
+        { "topic": "Plane Shapes", "subtopics": ["5.10.1", "5.10.3"], "practical_and_experimental_content": [] },
+        { "topic": "Solid Shapes", "subtopics": ["5.11.2", "5.11.3"], "practical_and_experimental_content": [] },
+        { "topic": "Measures", "subtopics": ["5.12.3", "5.12.8", "5.12.2", "5.12.7"], "practical_and_experimental_content": [] },
+        { "topic": "Statistics", "subtopics": ["5.13.2"], "practical_and_experimental_content": [] },
+        { "topic": "Relations and Mapping", "subtopics": ["5.14.1", "5.14.2"], "practical_and_experimental_content": [] }
+      ]
+    },
+    {
+      "grade": 6,
+      "topics": [
+        { "topic": "Index Notation", "subtopics": ["6.1.3"], "practical_and_experimental_content": [] },
+        { "topic": "Sets", "subtopics": ["6.2.2", "6.2.3"], "practical_and_experimental_content": [] },
+        { "topic": "Prime factors", "subtopics": ["6.3.2"], "practical_and_experimental_content": [] },
+        { "topic": "Fractions", "subtopics": ["6.4.2", "6.4.5", "6.4.6"], "practical_and_experimental_content": [] },
+        { "topic": "Decimals", "subtopics": ["6.5.2", "6.5.4"], "practical_and_experimental_content": [] },
+        { "topic": "Approximation", "subtopics": ["6.6.3"], "practical_and_experimental_content": [] },
+        { "topic": "Ratio and Proportion", "subtopics": ["6.7.3", "6.7.4"], "practical_and_experimental_content": [] },
+        { "topic": "Social and Commercial Arithmetic", "subtopics": ["6.8.3", "6.8.4"], "practical_and_experimental_content": [] },
+        { "topic": "Statistics", "subtopics": ["6.9.2"], "practical_and_experimental_content": [] },
+        { "topic": "Linear Equations in one variable", "subtopics": ["6.10.2"], "practical_and_experimental_content": [] },
+        { "topic": "Plane Shapes", "subtopics": ["6.11.1", "6.11.2"], "practical_and_experimental_content": [] },
+        { "topic": "Measures", "subtopics": ["6.12.1", "6.12.2", "6.12.4"], "practical_and_experimental_content": [] }
+      ]
+    },
+    {
+      "grade": 7,
+      "topics": [
+        { "topic": "Decimals", "subtopics": ["7.2.2", "7.2.3"], "practical_and_experimental_content": [] },
+        { "topic": "Percentages", "subtopics": ["7.3.4"], "practical_and_experimental_content": [] },
+        { "topic": "Ratio and Proportion", "subtopics": ["7.4.4"], "practical_and_experimental_content": [] },
+        { "topic": "Social and Commercial Arithmetic", "subtopics": ["7.5.1", "7.5.2"], "practical_and_experimental_content": [] },
+        { "topic": "Integers", "subtopics": ["7.6.2", "7.6.3"], "practical_and_experimental_content": [] },
+        { "topic": "Number bases", "subtopics": ["7.7.5", "7.7.6"], "practical_and_experimental_content": [] },
+        { "topic": "Number and Sequences", "subtopics": ["7.8.4", "7.8.5"], "practical_and_experimental_content": [] },
+        { "topic": "Inequations", "subtopics": ["7.9.2"], "practical_and_experimental_content": [] },
+        { "topic": "Plane shapes", "subtopics": ["7.10.2", "7.10.3"], "practical_and_experimental_content": [] },
+        { "topic": "Measurements", "subtopics": ["7.11.1", "7.11.2"], "practical_and_experimental_content": [] },
+        { "topic": "Solid Shapes", "subtopics": ["7.12.2", "7.12.3"], "practical_and_experimental_content": [] },
+        { "topic": "Statistics", "subtopics": ["7.13.1", "7.13.2", "7.13.3", "7.13.4"], "practical_and_experimental_content": [] }
+      ]
+    }
+  ]
+}

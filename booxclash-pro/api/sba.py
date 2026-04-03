@@ -3,7 +3,7 @@ import os
 import io # 👈 Added for handling the PDF file in memory
 from pathlib import Path
 from typing import List, Optional
-
+import re
 import pdfplumber # 👈 Added for reading PDFs
 from fastapi import APIRouter, HTTPException, UploadFile, File # 👈 Added UploadFile and File
 from pydantic import BaseModel
@@ -21,7 +21,6 @@ router = APIRouter(tags=["School Based Assessments"])
 
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
-# Base directory → /backend
 BASE_DIR = Path(__file__).resolve().parent.parent
 SBA_DATA_DIR = BASE_DIR / "sba"
 
@@ -104,42 +103,163 @@ async def get_sba_config(level: str):
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
-
 # ==========================================
-# 2️⃣ 🆕 FETCH DETAILED SYLLABUS CONTENT
+# 2️⃣ 🆕 DYNAMIC SYLLABUS CONTENT MATCHER
 # ==========================================
-
 @router.get("/syllabus/{subject}")
 async def get_subject_syllabus(subject: str):
     """
-    Fetches the detailed syllabus (topics, subtopics, practicals) for a given subject.
-    Expects files like /backend/sba/physics.json, /backend/sba/biology.json, etc.
+    DYNAMIC MATCHING (Bulletproof Hybrid Version):
+    - Handles syllabi WITH outcome numbers (Integrated Science)
+    - Handles syllabi WITHOUT outcome numbers (English, Social Studies, CTS)
+    - Supports both 'Syllabus_Outcomes' and 'Syllabus_Topics' (Mathematics) formats.
     """
-    # Normalize subject name (e.g., "Computer Studies" -> "computer_studies")
-    clean_subject = subject.lower().replace(" ", "_")
-    file_path = SBA_DATA_DIR / f"{clean_subject}.json"
+    clean_subject = subject.lower().replace(" ", "_").replace("&", "and")
+    response_data = {
+        "curriculum": f"Zambia ECZ {subject} Syllabus", 
+        "grades": []
+    }
 
-    if not file_path.exists():
-        # Return a safe, empty structure so the frontend doesn't crash 
-        # if a specific subject hasn't been uploaded yet.
-        return {
-            "curriculum": f"Zambia ECZ {subject} Syllabus", 
-            "grades": []
-        }
+    # 1. Load both primary and secondary config files
+    sba_configs = {}
+    for level in ["primary", "secondary"]:
+        path = SBA_DATA_DIR / f"sba_{level}.json"
+        if path.exists():
+            try:
+                with open(path, "r", encoding="utf-8") as f:
+                    sba_configs[level] = json.load(f)
+            except Exception as e:
+                print(f"⚠️ Error reading sba_{level}.json: {e}")
 
-    try:
-        with open(file_path, "r", encoding="utf-8") as f:
-            return json.load(f)
+    # 2. Iterate through grades 1 to 12
+    for grade_num in range(1, 13):
+        level = "primary" if grade_num <= 7 else "secondary"
+        config = sba_configs.get(level, {})
+        
+        if level == "primary":
+            subjects_dict = config.get("Primary_SBA_Comprehensive_Guidelines", {}).get("Subjects", {})
+        else:
+            subjects_dict = config.get("Secondary_SBA_Comprehensive_Guidelines", {}).get("Subjects", {}) or config.get("Subjects", {})
 
-    except json.JSONDecodeError:
-        raise HTTPException(
-            status_code=500,
-            detail=f"The syllabus JSON file for {subject} is corrupted."
-        )
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+        # Flexible Subject Name Matching (e.g., "CTS" matches "Creative_and_Technology_Studies_CTS")
+        target_subject_key = None
+        for k in subjects_dict.keys():
+            k_lower = k.lower()
+            if clean_subject in k_lower or k_lower in clean_subject or clean_subject == k_lower.replace("_cts", ""):
+                target_subject_key = k
+                break
+                
+        grade_key = f"Grade_{grade_num}"
+        required_topics = set()
+        required_codes = set()
 
-import re
+        # 3. Extract BOTH Topic Names and Specific Codes
+        if target_subject_key and grade_key in subjects_dict[target_subject_key]:
+            grade_data = subjects_dict[target_subject_key][grade_key]
+            
+            # A. Support for "Syllabus_Outcomes" (English, Science, Social Studies, CTS)
+            outcomes_dict = grade_data.get("Syllabus_Outcomes", {})
+            for topic_key, value in outcomes_dict.items():
+                required_topics.add(topic_key.replace("_", " ").lower())
+                
+            # B. Support for "Syllabus_Topics" (Mathematics)
+            for t in grade_data.get("Syllabus_Topics", []):
+                required_topics.add(t.get("topic", "").lower())
+                for code in t.get("outcomes", []):
+                    required_codes.add(str(code).strip())
+
+            # C. Recursively extract all outcome codes (e.g., "5.1.1.1")
+            def extract_codes(obj):
+                if isinstance(obj, dict):
+                    for v in obj.values(): extract_codes(v)
+                elif isinstance(obj, list):
+                    for item in obj: extract_codes(item)
+                elif isinstance(obj, str):
+                    if re.match(r'^\d+\.\d+', obj.strip()):
+                        required_codes.add(obj.strip())
+            extract_codes(outcomes_dict)
+
+        # 4. Fetch the actual syllabus JSON
+        full_syllabus_data = load_syllabus("Zambia", f"Grade {grade_num}", subject)
+        if not full_syllabus_data:
+            continue
+
+        full_syllabus = full_syllabus_data.get("topics", []) if isinstance(full_syllabus_data, dict) else full_syllabus_data
+
+        # 5. Hybrid Filtering
+        grouped_topics = {}
+
+        for item in full_syllabus:
+            raw_unit = item.get("unit", "")
+            raw_topic = item.get("topic_title", item.get("topic", ""))
+            
+            # Check if this topic is required based on its name
+            search_text = (raw_unit + " " + raw_topic).lower()
+            topic_is_required = False
+            
+            if not required_topics:
+                topic_is_required = True # Fallback if no rules exist
+            else:
+                for req_topic in required_topics:
+                    if req_topic in search_text or search_text in req_topic:
+                        topic_is_required = True
+                        break
+
+            outcomes = item.get("learning_outcomes", [])
+            matched_outcomes = []
+
+            for outcome in outcomes:
+                match = re.match(r'^(\d+\.\d+(\.\d+)*[a-z]?)\b', outcome.strip())
+                if match:
+                    # SCENARIO A: Sentence HAS A NUMBER (e.g., Integrated Science)
+                    code = match.group(1)
+                    is_code_required = False
+                    if not required_codes:
+                        is_code_required = True
+                    else:
+                        # Allow partial matches (e.g. SBA requires "5.1.2", Syllabus has "5.1.2.1")
+                        for req_code in required_codes:
+                            if code.startswith(req_code) or req_code.startswith(code):
+                                is_code_required = True
+                                break
+                    
+                    if is_code_required:
+                        matched_outcomes.append(outcome)
+                else:
+                    # SCENARIO B: Sentence HAS NO NUMBER (e.g., English, Social Studies, CTS)
+                    # If the topic name matched, we safely include all outcomes in this section
+                    if topic_is_required:
+                        matched_outcomes.append(outcome)
+
+            # Fallback: If 'learning_outcomes' is completely empty but 'subtopics' exist
+            if not outcomes and topic_is_required:
+                matched_outcomes.extend(item.get("subtopics", []))
+
+            # 6. Grouping and formatting
+            if matched_outcomes:
+                display_name = raw_topic if raw_topic else raw_unit
+                display_name = display_name.split(":")[-1].strip() if ":" in display_name else display_name
+
+                if display_name not in grouped_topics:
+                    grouped_topics[display_name] = {
+                        "topic": display_name,
+                        "subtopics": [],
+                        "practical_and_experimental_content": []
+                    }
+                # Use a set to prevent duplicates, then convert back to list
+                for m in matched_outcomes:
+                    if m not in grouped_topics[display_name]["subtopics"]:
+                        grouped_topics[display_name]["subtopics"].append(m)
+
+        # 7. Append to final payload
+        filtered_topics = list(grouped_topics.values())
+        if filtered_topics:
+            response_data["grades"].append({
+                "grade": grade_num,
+                "topics": filtered_topics
+            })
+
+    return response_data
 
 @router.get("/subjects/{grade}")
 async def get_available_secondary_subjects(grade: str):
