@@ -56,7 +56,7 @@ app = FastAPI(title="BooxClash Tutor API")
 origins = [
     "http://localhost:5173", 
     "http://localhost:3000",
-    "https://booxclash-pro.onrender.com", 
+    "https://web-76nr.onrender.com", 
     "https://www.booxclash.com",
     "https://booxclash.com",
 ]
