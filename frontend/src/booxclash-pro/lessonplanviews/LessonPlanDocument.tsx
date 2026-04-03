@@ -23,11 +23,10 @@ const EditableArrayCell = ({ value, onChange, isArray = false, className = "", p
     setLocalValue(isArray ? toSafeArray(value).join("\n") : String(value || ""));
   }, [value, isArray]);
 
-  // 🪄 THE MAGIC: Auto-resize the height based on scrollHeight
   useEffect(() => {
     if (textareaRef.current) {
-      textareaRef.current.style.height = 'auto'; // Reset height briefly
-      textareaRef.current.style.height = `${textareaRef.current.scrollHeight}px`; // Expand to fit content
+      textareaRef.current.style.height = 'auto'; 
+      textareaRef.current.style.height = `${textareaRef.current.scrollHeight}px`; 
     }
   }, [localValue]);
 
@@ -46,7 +45,7 @@ const EditableArrayCell = ({ value, onChange, isArray = false, className = "", p
   return (
     <textarea
       ref={textareaRef}
-      rows={1} // Start small, let the useEffect scale it up
+      rows={1}
       className={`w-full overflow-hidden min-h-[60px] md:min-h-[40px] p-2 md:p-1 bg-transparent border border-transparent md:hover:border-slate-200 focus:border-blue-400 focus:bg-blue-50/50 outline-none resize-none transition-all rounded print:resize-none print:border-none print:p-0 ${className}`}
       value={localValue}
       onChange={handleChange}
@@ -68,33 +67,22 @@ interface LessonPlanDocumentProps {
   notesData: any;
   coatOfArmsUrl: string;
   
-  // Standard Edit Handlers
   handleFieldChange: (field: string, val: any) => void;
   handleStepChange: (index: number, field: string, val: any) => void;
   handleInsertRow: (index: number) => void;
   handleDeleteRow: (index: number) => void;
   handleAddRowToBottom: () => void;
 
-  // Lifecycle Handlers
   diagramPrompt: string;
   setDiagramPrompt: (val: string) => void;
   generatingDiagram: boolean;
   onGenerateDiagram: () => void;
-  evaluationFeedback: string;
-  setEvaluationFeedback: (val: string) => void;
-  evaluating: boolean;
-  evaluationData: any;
-  onEvaluateLesson: () => void;
-  generatingRemedial: boolean;
-  onGenerateRemedial: () => void;
 }
 
 export default function LessonPlanDocument({
   planData, meta, schoolName, columns, displaySubtopic, notesData, coatOfArmsUrl,
   handleFieldChange, handleStepChange, handleInsertRow, handleDeleteRow, handleAddRowToBottom,
-  diagramPrompt, setDiagramPrompt, generatingDiagram, onGenerateDiagram,
-  evaluationFeedback, setEvaluationFeedback, evaluating, evaluationData, onEvaluateLesson,
-  generatingRemedial, onGenerateRemedial
+  diagramPrompt, setDiagramPrompt, generatingDiagram, onGenerateDiagram
 }: LessonPlanDocumentProps) {
 
   const renderEditableBlock = (label: string, field: string, content: any, isArray: boolean = false) => {
@@ -182,7 +170,6 @@ export default function LessonPlanDocument({
         <div className="space-y-4 mb-8 text-justify">
             {renderEditableBlock("Expected Standard", "expected_standard", planData.expected_standard, true)}
             
-            {/* 🆕 RATIONALE BLOCK ADDED HERE */}
             {planData.rationale && renderEditableBlock("Rationale", "rationale", planData.rationale, true)}
             
             {planData.learning_environment && (
@@ -201,8 +188,8 @@ export default function LessonPlanDocument({
         </div>
 
         {/* ⚡️ THE DYNAMIC EDITABLE TABLE */}
-        <div className="w-full max-w-full">
-            <table className="w-full text-left md:border-collapse block md:table border-none md:border border-black mb-8 text-[10pt] print:table print:border-collapse print:border">
+        <div className="w-full max-w-full mb-8">
+            <table className="w-full text-left md:border-collapse block md:table border-none md:border border-black text-[10pt] print:table print:border-collapse print:border">
                 <thead className="hidden md:table-header-group print:table-header-group">
                     <tr>
                         {columns.map((col, i) => (
@@ -216,7 +203,6 @@ export default function LessonPlanDocument({
                     {(planData.steps || []).map((step: any, idx: number) => (
                         <tr key={idx} className="block md:table-row bg-white border border-slate-200 md:border-none rounded-xl md:rounded-none shadow-sm md:shadow-none mb-6 md:mb-0 relative group print:table-row print:border-none print:shadow-none print:rounded-none print:mb-0">
                             
-                            {/* 📱 MOBILE-ONLY CARD HEADER */}
                             <div className="md:hidden flex justify-between items-center p-3 bg-slate-50 border-b border-slate-100 rounded-t-xl print:hidden">
                                 <span className="font-bold text-slate-800 uppercase tracking-widest text-[10px]">Row {idx + 1}</span>
                                 <div className="flex gap-2">
@@ -225,247 +211,120 @@ export default function LessonPlanDocument({
                                 </div>
                             </div>
 
-                            {columns.map((col) => {
-                                if (col.key === 'stage_time') {
-                                    return (
-                                        <td key={col.key} className="block md:table-cell p-4 md:p-1 border-b border-slate-100 md:border-b-0 md:border border-black align-top bg-transparent md:bg-gray-50 relative md:w-[15%] print:table-cell print:border print:bg-gray-50 print:p-1">
-                                            <div className="md:hidden text-[10px] font-bold text-indigo-600 uppercase mb-2 tracking-wider print:hidden">
-                                                {col.label}
+                            {columns.map((col, cIdx) => (
+                                <td key={cIdx} className="block md:table-cell p-3 md:p-2 border-b md:border border-slate-100 md:border-black align-top last:border-b-0 print:table-cell print:border print:border-black">
+                                    <div className="md:hidden text-xs font-bold text-slate-400 mb-1 uppercase print:hidden">{col.label}</div>
+                                    <div className="bg-slate-50 md:bg-transparent rounded md:rounded-none overflow-hidden">
+                                        {col.key === 'stage_time' ? (
+                                            <div className="flex flex-col gap-2">
+                                                <EditableArrayCell value={step.stage} onChange={(val: any) => handleStepChange(idx, 'stage', val)} placeholder="Stage" className="font-bold uppercase text-xs" />
+                                                <EditableArrayCell value={step.time} onChange={(val: any) => handleStepChange(idx, 'time', val)} placeholder="Time" className="text-xs italic text-slate-600" />
                                             </div>
-                                            
-                                            <div className="flex flex-col h-full gap-2 p-1 bg-slate-50 md:bg-transparent rounded-lg md:rounded-none overflow-hidden print:border-none print:bg-transparent print:rounded-none">
-                                                <EditableArrayCell value={step.stage} onChange={(val: any) => handleStepChange(idx, 'stage', val)} className="font-bold md:text-center h-auto min-h-0 py-1" />
-                                                <EditableArrayCell value={step.time} onChange={(val: any) => handleStepChange(idx, 'time', val)} className="text-xs md:text-center h-auto min-h-0 py-1" />
-                                            </div>
+                                        ) : (
+                                            <EditableArrayCell value={step[col.key]} onChange={(val: any) => handleStepChange(idx, col.key, val)} isArray={true} />
+                                        )}
+                                    </div>
+                                </td>
+                            ))}
 
-                                            <div className="hidden md:flex absolute -left-10 top-2 flex-col gap-1 opacity-0 group-hover:opacity-100 transition-opacity print:hidden">
-                                                <button onClick={() => handleInsertRow(idx)} className="p-1 text-slate-500 hover:bg-slate-200 rounded" title="Insert Row Below"><Plus size={14} /></button>
-                                                <button onClick={() => handleDeleteRow(idx)} className="p-1 text-rose-500 hover:bg-rose-100 rounded" title="Delete Row"><Trash2 size={14} /></button>
-                                            </div>
-                                        </td>
-                                    )
-                                }
-                                return (
-                                    <td key={col.key} className={`block md:table-cell p-4 md:p-0 border-b border-slate-100 md:border-b-0 md:border border-black align-top last:border-b-0 print:table-cell print:border print:p-0 ${col.key === 'assessment_criteria' ? 'italic' : ''}`}>
-                                        <div className="md:hidden text-[10px] font-bold text-indigo-600 uppercase mb-2 tracking-wider print:hidden">
-                                            {col.label}
-                                        </div>
-                                        <div className="min-h-[60px] md:min-h-full h-full flex items-stretch bg-slate-50 border border-slate-100 md:border-none md:bg-transparent rounded-lg md:rounded-none overflow-hidden print:border-none print:bg-transparent print:rounded-none">
-                                           <EditableArrayCell value={step[col.key]} onChange={(val: any) => handleStepChange(idx, col.key, val)} />
-                                        </div>
-                                    </td>
-                                )
-                            })}
+                            <div className="hidden md:flex absolute top-1/2 -right-10 -translate-y-1/2 opacity-0 group-hover:opacity-100 transition-opacity flex-col gap-1 print:hidden">
+                                <button onClick={() => handleInsertRow(idx)} className="p-1.5 bg-white border border-slate-200 text-slate-500 rounded-full shadow-sm hover:bg-slate-100" title="Insert Below"><Plus size={14}/></button>
+                                <button onClick={() => handleDeleteRow(idx)} className="p-1.5 bg-rose-50 border border-rose-100 text-rose-500 rounded-full shadow-sm hover:bg-rose-100" title="Delete Row"><Trash2 size={14}/></button>
+                            </div>
                         </tr>
                     ))}
-                    {/* BOTTOM ROW ADD BUTTON */}
-                    <tr className="block md:table-row print:hidden">
-                        <td colSpan={columns.length} className="block md:table-cell p-0 md:p-2 bg-transparent md:bg-gray-50 border-none md:border border-black text-center print:hidden">
-                            <button onClick={handleAddRowToBottom} className="w-full md:w-auto inline-flex justify-center items-center gap-2 px-6 py-4 md:py-1.5 bg-indigo-50 md:bg-slate-200 text-indigo-700 md:text-slate-700 font-bold rounded-xl md:rounded-lg border-2 border-dashed border-indigo-200 md:border-none hover:bg-indigo-100 md:hover:bg-slate-300 transition-colors text-sm md:text-xs">
-                                <PlusCircle size={14} className="md:w-[14px] md:h-[14px]" /> Add New Row
-                            </button>
-                        </td>
-                    </tr>
                 </tbody>
             </table>
-        </div>
 
-        {/* Homework Section */}
-        <div className="mt-4 p-4 border border-slate-300 rounded bg-slate-50 mb-4">
-            <strong className="uppercase block mb-2 text-sm text-slate-700">Homework:</strong>
-            <div className="bg-white md:bg-transparent rounded md:rounded-none overflow-hidden flex items-stretch">
-                <EditableArrayCell 
-                    value={planData.homework || planData.homework_content} 
-                    onChange={(val: any) => handleFieldChange('homework', val)} 
-                    className="font-handwriting text-slate-600 leading-relaxed min-h-[60px]"
-                />
-            </div>
-        </div>
-
-        {/* ========================================================================= */}
-        {/* 🎨 NEW: CHALKBOARD DIAGRAM GENERATOR UI */}
-        {/* ========================================================================= */}
-        <div className="mt-6 mb-8 p-5 border-2 border-dashed border-slate-200 rounded-xl bg-white print:hidden">
-            <strong className="uppercase block mb-3 text-sm text-slate-800 flex items-center gap-2">
-                <ImageIcon size={18} className="text-emerald-600" /> Chalkboard Diagram Generator
-            </strong>
-            <p className="text-xs text-slate-500 mb-3">
-              Need to draw something complex on the board? Tell the AI what to draw, and it will generate a simple, high-contrast outline diagram.
-            </p>
-            <div className="flex flex-col sm:flex-row gap-3">
-                <input
-                    type="text"
-                    placeholder="e.g., The Human Digestive System, Water Cycle"
-                    value={diagramPrompt}
-                    onChange={(e) => setDiagramPrompt(e.target.value)}
-                    className="flex-1 p-3 rounded-lg border border-slate-300 focus:border-emerald-500 focus:ring-1 focus:ring-emerald-500 outline-none"
-                />
-                <button
-                    onClick={onGenerateDiagram}
-                    disabled={generatingDiagram || !diagramPrompt.trim()}
-                    className="px-6 py-3 bg-slate-900 text-white font-bold rounded-lg hover:bg-slate-800 disabled:opacity-50 flex items-center justify-center gap-2 transition-all shadow-md active:scale-95"
-                >
-                    {generatingDiagram ? <Loader2 size={16} className="animate-spin"/> : <PenTool size={16}/>}
-                    {generatingDiagram ? "Drawing..." : "Generate Diagram"}
+            <div className="mt-4 flex justify-center print:hidden">
+                <button onClick={handleAddRowToBottom} className="flex items-center gap-2 px-4 py-2 text-sm font-bold text-[#6c2dc7] bg-[#6c2dc7]/10 hover:bg-[#6c2dc7]/20 rounded-full transition-colors">
+                    <PlusCircle size={16} /> Add Next Step
                 </button>
             </div>
+        </div>
 
-            {planData.diagrams && planData.diagrams.length > 0 && (
-                <div className="mt-6 grid grid-cols-1 sm:grid-cols-2 gap-4">
-                    {planData.diagrams.map((diag: any, i: number) => (
-                        <div key={i} className="border-2 border-slate-100 p-4 bg-white rounded-xl shadow-sm flex flex-col items-center group relative">
-                            <p className="text-xs font-bold text-slate-400 mb-3 uppercase tracking-wider">{diag.prompt}</p>
-                            
-                            <div 
-                              dangerouslySetInnerHTML={{ __html: diag.svg }} 
-                              className="w-full max-w-sm flex items-center justify-center p-4 bg-slate-50 rounded-lg"
-                            />
+        {/* Homework & Evaluation Blocks */}
+        <div className="space-y-4 mb-8 text-justify">
+            {renderEditableBlock("Homework", "homework_content", planData.homework || planData.homework_content, true)}
+            
+            {/* 🚀 THE EVALUATION BLOCK (Updates instantly when cards are clicked) */}
+            {renderEditableBlock("Evaluation", "evaluation", planData.evaluation || planData.evaluation_footer || "..................................................................................", true)}
+        </div>
 
-                            <button 
-                                onClick={() => {
-                                  const updated = planData.diagrams.filter((_: any, idx: number) => idx !== i);
-                                  handleFieldChange('diagrams', updated);
-                                }}
-                                className="absolute top-2 right-2 p-1.5 bg-rose-50 text-rose-500 rounded hover:bg-rose-100 opacity-0 group-hover:opacity-100 transition-opacity"
-                            >
-                                <Trash2 size={14} />
-                            </button>
-                        </div>
-                    ))}
+        {/* Chalkboard Diagrams */}
+        {planData.diagrams && planData.diagrams.map((diag: any, idx: number) => (
+            <div key={idx} className="mt-8 border-t-2 border-dashed border-slate-200 pt-6">
+                <h4 className="font-bold text-slate-800 uppercase tracking-widest mb-4">Chalkboard Diagram: {diag.prompt}</h4>
+                <div className="w-full bg-[#1e293b] rounded-xl p-4 flex justify-center shadow-inner">
+                    <img src={diag.base64 || diag.content} alt={diag.prompt} className="max-w-full h-auto rounded filter contrast-125 brightness-110" />
                 </div>
-            )}
-        </div>
-
-        {/* ========================================================================= */}
-        {/* 🧠 NEW: LESSON EVALUATION & REMEDIAL LOOP UI (PDF UPDATED) */}
-        {/* ========================================================================= */}
-        <div className="mt-8 p-5 border-2 border-slate-200 print:border-none print:p-0 rounded-xl bg-slate-50 print:bg-transparent break-inside-avoid">
-            <div className="flex flex-col sm:flex-row gap-2 sm:items-center mb-4 print:mb-2">
-                <strong className="uppercase text-sm font-black text-slate-800">Post-Lesson Evaluation:</strong>
-                <span className="text-xs text-slate-500 print:hidden">What did students struggle to understand?</span>
             </div>
+        ))}
 
-            {/* 💻 WEB VIEW: Interactive Textarea (Hidden on PDF) */}
-            <textarea
-                value={evaluationFeedback}
-                onChange={(e) => setEvaluationFeedback(e.target.value)}
-                placeholder="e.g., Most of the class didn't understand how to find the common denominator..."
-                className="w-full p-4 border border-slate-300 rounded-xl min-h-[100px] mb-4 outline-none focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 bg-white shadow-inner transition-all print:hidden"
-            />
-
-            {/* 🖨️ PRINT VIEW: Clean Text Block (Visible only on PDF) */}
-            <div className="hidden print:block w-full text-black font-serif text-[10pt] sm:text-[11pt] whitespace-pre-wrap min-h-[40px]">
-                {evaluationFeedback || "........................................................................................................................................................"}
-            </div>
-
-            {/* AI Action Buttons wrapped in print:hidden so they never show on paper */}
-            <div className="print:hidden">
-                {!evaluationData ? (
-                    <button
-                        onClick={onEvaluateLesson}
-                        disabled={evaluating || !evaluationFeedback.trim()}
-                        className="px-6 py-3 bg-indigo-600 text-white font-bold rounded-xl hover:bg-indigo-700 disabled:opacity-50 transition-all shadow-md active:scale-95 flex items-center gap-2"
-                    >
-                        {evaluating ? <Loader2 size={18} className="animate-spin" /> : <Sparkles size={18} />}
-                        {evaluating ? "Analyzing Feedback..." : "Analyze & Troubleshoot"}
-                    </button>
-                ) : (
-                    <div className="bg-white p-5 rounded-xl border border-indigo-100 shadow-sm mt-4 animate-in fade-in zoom-in-95">
-                        <h4 className="font-bold text-indigo-800 mb-3 flex items-center gap-2 border-b border-indigo-50 pb-3">
-                            <Sparkles size={18} className="text-indigo-500"/> Pedagogical Advice
-                        </h4>
-                        <p className="text-slate-700 text-sm mb-5 italic border-l-4 border-indigo-200 pl-3">
-                            "{evaluationData.empathy_statement}"
-                        </p>
-                        
-                        <strong className="text-xs text-slate-500 uppercase tracking-wider block mb-3">Suggested Quick Fixes for Tomorrow:</strong>
-                        <ul className="space-y-3 mb-6 bg-slate-50 p-4 rounded-lg border border-slate-100">
-                            {evaluationData.quick_fixes?.map((fix: string, idx: number) => (
-                                <li key={idx} className="text-sm text-slate-800 flex items-start gap-3">
-                                    <span className="bg-indigo-100 text-indigo-700 w-5 h-5 rounded-full flex items-center justify-center text-[10px] font-bold shrink-0 mt-0.5">{idx + 1}</span>
-                                    <span>{fix}</span>
-                                </li>
-                            ))}
-                        </ul>
-
-                        {evaluationData.suggest_remedial && (
-                            <div className="pt-5 border-t border-slate-200">
-                                <div className="flex items-center gap-3 mb-4 p-3 bg-amber-50 border border-amber-200 rounded-lg">
-                                    <span className="text-2xl">💡</span>
-                                    <p className="text-sm text-amber-800 font-medium">This learning gap is significant. Would you like me to generate a highly-targeted Remedial Lesson Plan for tomorrow using alternative teaching methods?</p>
-                                </div>
-                                
-                                <button
-                                    onClick={onGenerateRemedial}
-                                    disabled={generatingRemedial}
-                                    className="w-full sm:w-auto px-6 py-3 bg-amber-500 text-white font-bold rounded-xl hover:bg-amber-600 disabled:opacity-50 transition-all flex items-center justify-center gap-2 shadow-lg shadow-amber-500/20 active:scale-95"
-                                >
-                                    {generatingRemedial ? <Loader2 size={18} className="animate-spin" /> : <RefreshCcw size={18} />}
-                                    {generatingRemedial ? "Drafting Remedial Plan..." : "Generate Remedial Lesson Now"}
-                                </button>
-                            </div>
-                        )}
-                    </div>
-                )}
+        {/* Generate Diagram Form */}
+        <div className="mt-8 p-4 bg-slate-50 border border-slate-200 rounded-xl print:hidden text-center">
+            <h4 className="font-bold text-slate-700 flex items-center justify-center gap-2 mb-2"><ImageIcon size={18}/> Need a Chalkboard Diagram?</h4>
+            <div className="flex gap-2 max-w-md mx-auto">
+                <input type="text" placeholder="e.g. A plant cell with labels..." className="flex-1 px-3 py-2 text-sm border border-slate-300 rounded focus:outline-none focus:border-[#ffa500]" value={diagramPrompt} onChange={(e) => setDiagramPrompt(e.target.value)} />
+                <button onClick={onGenerateDiagram} disabled={generatingDiagram} className="px-4 py-2 bg-[#ffa500] hover:bg-[#ffa500]/90 text-slate-900 font-bold text-sm rounded transition-colors flex items-center gap-2 disabled:opacity-50">
+                    {generatingDiagram ? <Loader2 size={16} className="animate-spin" /> : <PenTool size={16} />} Draw
+                </button>
             </div>
         </div>
 
-        {/* ========================================================================= */}
-        {/* 📚 LESSON NOTES (BLACKBOARD PREVIEW) */}
-        {/* ========================================================================= */}
+        {/* Black Board Notes */}
         {notesData && (
-             <div className="mt-12 pt-8 border-t-4 border-double border-slate-300 break-before-page">
-                <div className="bg-slate-900 text-white p-3 sm:p-4 rounded-t-lg flex items-center gap-2 sm:gap-3">
-                    <BookOpen className="text-yellow-400 shrink-0" size={20} />
-                    <h2 className="text-base sm:text-xl font-bold tracking-wide truncate">LESSON NOTES (Blackboard)</h2>
+            <div className="mt-12 pt-8 border-t-4 border-double border-slate-300 text-left">
+                <div className="flex items-center gap-3 mb-6">
+                    <BookOpen size={24} className="text-[#6c2dc7]" />
+                    <h3 className="text-xl font-bold text-slate-800 uppercase tracking-widest">Lesson Notes (Blackboard)</h3>
                 </div>
-                <div className="bg-white border-x border-b border-slate-300 p-4 sm:p-6 rounded-b-lg shadow-sm font-sans text-slate-800">
-                    
-                    <h3 className="text-base sm:text-lg font-bold border-b border-slate-200 pb-2 mb-4 text-center uppercase text-slate-900 break-words">
-                        {notesData.topic_heading}
-                    </h3>
-                    
+                
+                <div className="space-y-6 bg-white border border-slate-200 rounded-xl p-5 sm:p-8 shadow-sm">
+                    {notesData.topic_heading && (
+                        <div className="text-center border-b-2 border-slate-800 pb-4 mb-6">
+                            <h4 className="font-black text-lg uppercase tracking-wider">{notesData.topic_heading}</h4>
+                        </div>
+                    )}
+
                     {notesData.key_definitions && notesData.key_definitions.length > 0 && (
-                        <div className="mb-6">
+                        <div>
                             <h4 className="font-bold text-slate-700 mb-2 uppercase text-xs sm:text-sm bg-slate-100 p-1 pl-2">Key Definitions</h4>
-                            <ul className="space-y-3 text-sm">
+                            <ul className="list-disc pl-4 sm:pl-5 space-y-1 text-sm break-words">
                                 {notesData.key_definitions.map((def: any, i: number) => (
-                                    <li key={i} className="pl-3 sm:pl-4 border-l-4 border-yellow-400 break-words">
-                                        <span className="font-bold text-slate-900">{def.term}:</span> {def.definition}
-                                    </li>
+                                    <li key={i}><strong>{def.term}:</strong> {def.definition}</li>
                                 ))}
                             </ul>
                         </div>
                     )}
 
-                    {notesData.explanation_points && (
-                        <div className="mb-6">
+                    {notesData.explanation_points && notesData.explanation_points.length > 0 && (
+                        <div>
                             <h4 className="font-bold text-slate-700 mb-2 uppercase text-xs sm:text-sm bg-slate-100 p-1 pl-2">Explanation</h4>
                             <ul className="list-disc pl-4 sm:pl-5 space-y-1 text-sm break-words">
-                                {notesData.explanation_points.map((pt: string, i: number) => (
-                                    <li key={i}>{pt}</li>
+                                {notesData.explanation_points.map((point: string, i: number) => (
+                                    <li key={i}>{point}</li>
                                 ))}
                             </ul>
                         </div>
                     )}
-                    
+
                     {notesData.worked_examples && notesData.worked_examples.length > 0 && (
-                        <div className="mb-6">
+                        <div>
                             <h4 className="font-bold text-slate-700 mb-2 uppercase text-xs sm:text-sm bg-slate-100 p-1 pl-2">Worked Examples</h4>
                             <div className="space-y-3">
                                 {notesData.worked_examples.map((ex: any, i: number) => (
-                                    <div key={i} className="bg-slate-50 p-3 rounded border border-slate-200 text-sm break-words">
-                                        <p className="font-bold text-slate-800 mb-1">Example {i+1}:</p>
-                                        <p className="mb-2">{ex.question}</p>
-                                        <p className="text-slate-600 italic border-t pt-2 mt-2 border-slate-200">Solution: {ex.solution}</p>
+                                    <div key={i} className="text-sm bg-slate-50 p-3 rounded border border-slate-200 break-words">
+                                        <p className="font-bold mb-1 text-slate-800">Q: {ex.question}</p>
+                                        <p className="pl-4 border-l-2 border-[#ffa500] text-slate-700 whitespace-pre-wrap">{ex.solution}</p>
                                     </div>
                                 ))}
                             </div>
                         </div>
                     )}
 
-                    {notesData.class_exercise && (
-                        <div className="mb-6">
+                    {notesData.class_exercise && notesData.class_exercise.length > 0 && (
+                        <div>
                             <h4 className="font-bold text-slate-700 mb-2 uppercase text-xs sm:text-sm bg-slate-100 p-1 pl-2">Class Exercise</h4>
                             <ol className="list-decimal pl-4 sm:pl-5 space-y-1 text-sm break-words">
                                 {notesData.class_exercise.map((q: string, i: number) => (

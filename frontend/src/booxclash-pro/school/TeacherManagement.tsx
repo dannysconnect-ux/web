@@ -33,7 +33,7 @@ const API_BASE =
   import.meta.env?.VITE_API_BASE ||
   (window.location.hostname === 'localhost'
     ? 'http://localhost:8000'
-    : 'https://web-938159032176.us-central1.run.app');
+    : 'https://web-76nr.onrender.com');
 
 interface TeacherManagerProps {
   schoolId: string;
@@ -97,13 +97,13 @@ export default function TeacherManagement({
     let rate = 0;
     
     if (cycle === 'monthly') {
-        rate = isBulk ? 35 : 50; 
+        rate = isBulk ? 35 : 50; // K50 for monthly
     } else {
-        rate = isBulk ? 105 : 120;
+        rate = isBulk ? 105 : 120; // K120 for termly
     }
 
     const totalCost = count * rate;
-    const creditsPerTeacher = cycle === 'monthly' ? 80 : 300;
+    const creditsPerTeacher = cycle === 'monthly' ? 60 : 200;
     const totalCredits = count * creditsPerTeacher;
 
     return {
@@ -198,7 +198,6 @@ export default function TeacherManagement({
       const prefix = formData.name.slice(0, 2).toUpperCase();
       const rand = Math.floor(1000 + Math.random() * 9000);
       
-      // 🆕 Create the typed object
       const newTeacher: Omit<TeacherData, 'id'> = {
         schoolId: schoolId,
         name: formData.name,
@@ -210,7 +209,6 @@ export default function TeacherManagement({
         createdAt: serverTimestamp()
       };
       
-      // 🆕 Save directly into the school's subcollection
       await addDoc(collection(db, `schools/${schoolId}/teachers`), newTeacher);
 
       setFormData({ name: '', email: '', grade: '', subjects: [] });
@@ -225,7 +223,6 @@ export default function TeacherManagement({
 
   const handleDelete = async (teacherId: string) => {
     if (confirm("Remove this teacher?")) {
-      // 🆕 Target the subcollection document for deletion
       await deleteDoc(doc(db, `schools/${schoolId}/teachers`, teacherId));
     }
   };
@@ -305,9 +302,11 @@ export default function TeacherManagement({
                 className="w-full h-2 bg-slate-200 rounded-lg appearance-none cursor-pointer accent-indigo-600"
               />
               <div className="text-xs text-slate-400 flex flex-col gap-1">
-                 <div className="flex justify-between">
+                 <div className="flex justify-between items-center">
                     <span>Includes <strong>{plan.totalCredits} Credits</strong></span>
-                    <span className="text-indigo-500 font-bold">({plan.creditsPerTeacher} per teacher)</span>
+                    <span className="text-indigo-500 font-bold flex items-center">
+                       ({plan.creditsPerTeacher} per teacher)
+                    </span>
                  </div>
                  {plan.isBulk && <span className="text-green-600 font-bold flex items-center gap-1"><Check size={10}/> Bulk Discount Active (K{plan.ratePerTeacher}/teacher)</span>}
               </div>
@@ -328,7 +327,7 @@ export default function TeacherManagement({
                 </div>
                 <div className="text-right">
                   <p className="text-xs text-slate-500 font-bold uppercase">Total Credits</p>
-                  <span className="text-xl font-bold text-indigo-600 flex items-center justify-end gap-1">
+                  <span className="text-xl font-bold text-indigo-600 flex items-center justify-end gap-1 leading-tight mt-1">
                     <Zap size={16} fill="currentColor"/> {plan.totalCredits}
                   </span>
                 </div>

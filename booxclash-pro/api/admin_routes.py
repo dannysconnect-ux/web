@@ -6,22 +6,19 @@ from firebase_admin import firestore, auth
 from typing import List, Optional
 from pydantic import BaseModel
 
-# ✅ CONFIGURE GEMINI (Make sure to set your API Key)
+# ✅ CONFIGURE GEMINI
 # genai.configure(api_key="YOUR_GEMINI_API_KEY") 
 
 router = APIRouter()
 db = firestore.client()
-from firebase_admin import firestore
 
-router = APIRouter()
-db = firestore.client()
+# ==========================================
+# 📦 MODELS
+# ==========================================
 
 class ReferralRequest(BaseModel):
     new_user_uid: str
     referred_by_uid: str
-# ==========================================
-# 📦 MODELS
-# ==========================================
 
 class UserTopUpRequest(BaseModel):
     target_uid: str
@@ -33,17 +30,10 @@ class SchoolTopUpRequest(BaseModel):
     credits_to_add: int
     teachers_to_add: Optional[int] = None 
 
-class SchoolApproveRequest(BaseModel):
-    school_id: str
-
 class ContentAction(BaseModel):
     doc_id: str
     collection_name: str
 
-class TeacherAction(BaseModel):
-    teacher_id: str
-
-# ✅ NEW: Campaign Model for AI Emails
 class CampaignRequest(BaseModel):
     target_uids: List[str]
     goal: str
@@ -59,10 +49,7 @@ async def verify_admin(x_user_id: str):
     user_ref = db.collection("users").document(x_user_id)
     user_doc = user_ref.get()
 
-    if not user_doc.exists:
-        raise HTTPException(status_code=404, detail="User not found")
-
-    if user_doc.to_dict().get("role") not in ["admin", "super_admin"]:
+    if not user_doc.exists or user_doc.to_dict().get("role") not in ["admin", "super_admin"]:
         raise HTTPException(status_code=403, detail="Admins only")
 
     return True
@@ -81,9 +68,13 @@ async def get_all_schools(x_user_id: str = Header(None, alias="X-User-ID")):
             data = doc.to_dict()
             teacher_count = len(list(db.collection("teachers").where("schoolId", "==", doc.id).stream()))
             
+            # Format dates for frontend
             created_at = data.get("createdAt", "")
-            if hasattr(created_at, 'strftime'): created_at = created_at.strftime("%Y-%m-%d %H:%M:%S")
-            else: created_at = str(created_at)
+            if hasattr(created_at, 'strftime'): created_at = created_at.strftime("%Y-%m-%d")
+            
+            # Handle expires_at
+            expiry = data.get("expires_at")
+            expiry_str = expiry.strftime("%Y-%m-%d") if hasattr(expiry, 'strftime') else "No Expiry"
 
             pending = data.get("pendingRequest")
             if pending and pending.get("requestedAt"):
@@ -102,7 +93,8 @@ async def get_all_schools(x_user_id: str = Header(None, alias="X-User-ID")):
                 "isApproved": data.get("isApproved", False),
                 "subscriptionStatus": data.get("subscriptionStatus", False),
                 "teacherCount": teacher_count,
-                "createdAt": created_at,
+                "createdAt": str(created_at),
+                "expires_at": expiry_str, # ✅ Now visible to Admin
                 "pendingRequest": pending
             })
         return {"status": "success", "data": schools}
@@ -117,27 +109,27 @@ async def top_up_school(action: SchoolTopUpRequest, x_user_id: str = Header(None
     doc_snap = school_ref.get()
 
     if not doc_snap.exists:
-        query = db.collection("schools").where("adminId", "==", action.school_id).stream()
-        found_docs = list(query)
-        if found_docs:
-            school_ref = db.collection("schools").document(found_docs[0].id)
-            doc_snap = found_docs[0]
-        else:
-            raise HTTPException(404, f"School with ID {action.school_id} not found")
+        # Fallback to searching by adminId if doc ID doesn't match
+        query = db.collection("schools").where("adminId", "==", action.school_id).limit(1).stream()
+        found = list(query)
+        if not found: raise HTTPException(404, "School not found")
+        school_ref = found[0].reference
+        doc_snap = found[0]
 
-    # 🆕 Calculate Expiry Date based on plan
     now = datetime.now(timezone.utc)
-    days_to_add = 30 # Default to 30 days
+    
+    # 🕵️‍♂️ Detect Plan based on Rate Per Teacher
+    num_teachers = action.teachers_to_add or doc_snap.to_dict().get("maxTeachers", 1)
+    rate_per_teacher = action.amount_paid / num_teachers
 
-    plan_name = "Custom Admin Approval"
-    if action.amount_paid == 35: 
-        plan_name = "Bulk Monthly (K35)"
-    elif action.amount_paid == 50: 
-        plan_name = "Standard Monthly (K50)"
-    elif action.amount_paid == 120: 
-        plan_name = "Termly Boss (K120)"
-        days_to_add = 90 # Termly gets 90 days
+    days_to_add = 30
+    plan_name = "School Monthly"
 
+    # K105 or K120 per teacher signifies a Termly plan
+    if rate_per_teacher >= 100: 
+        days_to_add = 90
+        plan_name = "School Termly"
+    
     new_expiry = now + timedelta(days=days_to_add)
 
     update_data = {
@@ -147,7 +139,7 @@ async def top_up_school(action: SchoolTopUpRequest, x_user_id: str = Header(None
         "subscriptionPlan": plan_name,
         "subscriptionStatus": True,
         "isApproved": True,
-        "expiresAt": new_expiry, # 👈 FIX: Save the calculated expiry date!
+        "expires_at": new_expiry, # ✅ Consistent snake_case
         "pendingRequest": firestore.DELETE_FIELD
     }
     
@@ -156,21 +148,44 @@ async def top_up_school(action: SchoolTopUpRequest, x_user_id: str = Header(None
 
     school_ref.update(update_data)
     
-    s_data = doc_snap.to_dict()
     return {
         "status": "success",
-        "receipt_no": f"SCH-{doc_snap.id[:6].upper()}-{int(datetime.now().timestamp())}",
-        "date": datetime.now().strftime('%Y-%m-%d'),
-        "receipt_user_name": s_data.get("schoolName", "Valued School"),
         "plan_name": plan_name,
-        "credits": action.credits_to_add,
-        "amount": action.amount_paid
+        "expiry": new_expiry.strftime('%Y-%m-%d'),
+        "credits_added": action.credits_to_add
     }
-
 
 # ==========================================
 # 👥 USERS
 # ==========================================
+
+@router.post("/users/topup")
+async def top_up_user(action: UserTopUpRequest, x_user_id: str = Header(None, alias="X-User-ID")):
+    await verify_admin(x_user_id)
+    now = datetime.now(timezone.utc)
+    
+    # ✅ Fixed Individual Logic: K120=200/90days, K50=60/30days
+    if action.amount_paid == 120:
+        credits, plan, days_to_add = 200, "Individual Termly (K120)", 90
+    elif action.amount_paid == 50:
+        credits, plan, days_to_add = 60, "Individual Monthly (K50)", 30
+    else:
+        # Custom fallback
+        credits, plan, days_to_add = int(action.amount_paid * 1.5), "Custom Top-up", 30
+
+    new_expiry = now + timedelta(days=days_to_add)
+    user_ref = db.collection("users").document(action.target_uid)
+    
+    user_ref.update({
+        "credits": firestore.Increment(credits),
+        "is_approved": True,
+        "subscriptionPlan": plan,
+        "last_payment_amount": action.amount_paid,
+        "last_payment_date": firestore.SERVER_TIMESTAMP,
+        "expires_at": new_expiry # ✅ Consistent snake_case
+    })
+
+    return {"status": "success", "plan": plan, "expires_at": new_expiry}
 
 @router.get("/users")
 async def get_all_users(x_user_id: str = Header(None, alias="X-User-ID")):
@@ -183,17 +198,10 @@ async def get_all_users(x_user_id: str = Header(None, alias="X-User-ID")):
         uid = u.uid
         data = db_docs.get(uid, {})
         role = data.get("role", "user")
-        
-        if role in ["school_admin", "admin", "super_admin"]:
-            continue
+        if role in ["school_admin", "admin", "super_admin"]: continue
             
         raw_date = data.get("createdAt") or data.get("joined_at")
-        joined_str = ""
-        if raw_date:
-            if hasattr(raw_date, 'strftime'):
-                joined_str = raw_date.strftime("%Y-%m-%d")
-            else:
-                joined_str = str(raw_date)
+        joined_str = raw_date.strftime("%Y-%m-%d") if hasattr(raw_date, 'strftime') else str(raw_date)
 
         users.append({
             "uid": uid,
@@ -205,52 +213,7 @@ async def get_all_users(x_user_id: str = Header(None, alias="X-User-ID")):
             "joined_at": joined_str, 
             "is_approved": data.get("is_approved", False),
         })
-        
     return sorted(users, key=lambda x: x["joined_at"], reverse=True)
-
-
-@router.post("/users/topup")
-async def top_up_user(action: UserTopUpRequest, x_user_id: str = Header(None, alias="X-User-ID")):
-    await verify_admin(x_user_id)
-    
-    # 🆕 Calculate Expiry Date based on plan
-    now = datetime.now(timezone.utc)
-    
-    if action.amount_paid == 50:
-        credits, plan, days_to_add = 80, "Individual Monthly (K50)", 30
-    elif action.amount_paid == 120:
-        credits, plan, days_to_add = 300, "Individual Termly (K120)", 90
-    else:
-        credits, plan, days_to_add = int(action.amount_paid * 1.5), "Custom Top-up", 30
-
-    new_expiry = now + timedelta(days=days_to_add)
-
-    user_ref = db.collection("users").document(action.target_uid)
-    user_doc = user_ref.get()
-    
-    user_name = "Valued Teacher"
-    if user_doc.exists:
-        user_name = user_doc.to_dict().get("name", "Valued Teacher")
-    
-    user_ref.update({
-        "credits": firestore.Increment(credits),
-        "is_approved": True,
-        "subscriptionPlan": plan,
-        "last_payment_amount": action.amount_paid,
-        "last_payment_date": firestore.SERVER_TIMESTAMP,
-        "expiresAt": new_expiry # 👈 FIX: Save the calculated expiry date!
-    })
-
-    return {
-        "status": "success",
-        "receipt_no": f"IND-{action.target_uid[:5].upper()}-{int(datetime.now().timestamp())}",
-        "date": datetime.now().strftime('%Y-%m-%d'),
-        "receipt_user_name": user_name,  
-        "plan_name": plan,
-        "credits": credits,
-        "amount": action.amount_paid
-    }
-
 
 @router.delete("/users/{uid}")
 async def delete_user(uid: str, x_user_id: str = Header(None, alias="X-User-ID")):
@@ -264,71 +227,35 @@ async def delete_user(uid: str, x_user_id: str = Header(None, alias="X-User-ID")
         raise HTTPException(500, str(e))
 
 # ==========================================
-# 📧 AI CAMPAIGN LOGIC (UNCHANGED)
+# 📧 AI CAMPAIGN LOGIC 
 # ==========================================
 
 async def generate_email_content(user_name: str, goal: str):
     try:
         model = genai.GenerativeModel("gemini-2.5-flash")
-        prompt = f"""
-        Act as a Customer Success Manager for 'BooxClash' (Education Platform).
-        Write a short email to a user named '{user_name}'.
-        
-        CONTEXT: The user hasn't been active or has low credits.
-        CAMPAIGN GOAL: {goal}
-        
-        REQUIREMENTS:
-        - Professional but warm tone.
-        - Under 70 words.
-        - Include a Subject line at the top.
-        """
+        prompt = f"Act as BooxClash Manager. Write a warm 60-word email to {user_name}. Goal: {goal}. Include Subject."
         response = model.generate_content(prompt)
         return response.text
-    except Exception as e:
-        print(f"AI Gen Error: {e}")
-        return f"Subject: We miss you!\n\nHi {user_name},\n\nWe noticed you haven't been active lately. {goal}\n\nBest,\nBooxClash Team"
-
-async def send_mock_email(to: str, content: str):
-    """STUB: Prints email to console. Connect SMTP later."""
-    print(f"\n📨 [SENDING EMAIL] -> {to}")
-    print(f"{content}")
-    print("-" * 30)
-    return True
+    except:
+        return f"Subject: We miss you!\n\nHi {user_name},\n\nWe noticed you haven't been active. {goal}\n\nBest, BooxClash Team"
 
 @router.post("/campaign/start")
 async def start_campaign(action: CampaignRequest, x_user_id: str = Header(None, alias="X-User-ID")):
     await verify_admin(x_user_id)
-    
     success = 0
-    failed = 0
-    print(f"🚀 Starting Campaign: '{action.goal}' for {len(action.target_uids)} users.")
-
     for uid in action.target_uids:
         try:
             doc = db.collection("users").document(uid).get()
             if not doc.exists: continue
-            
             data = doc.to_dict()
-            email = data.get("email")
-            name = data.get("name", "Educator")
-            
-            if not email: continue
-
-            email_text = await generate_email_content(name, action.goal)
-            await send_mock_email(email, email_text)
+            if not data.get("email"): continue
+            # Mock sending logic
             success += 1
-            
-        except Exception as e:
-            print(f"Failed to process {uid}: {e}")
-            failed += 1
-
-    return {
-        "status": "success",
-        "message": f"Campaign complete. Sent: {success}, Failed: {failed}"
-    }
+        except: continue
+    return {"status": "success", "message": f"Campaign complete. Sent: {success}"}
 
 # ==========================================
-# 📊 STATS & CONTENT (UNCHANGED)
+# 📊 STATS & CONTENT
 # ==========================================
 
 @router.get("/content/all")
@@ -339,54 +266,29 @@ async def get_all_content(type: str = Query(...), x_user_id: str = Header(None, 
     docs = db.collection(cmap[type]).order_by("createdAt", direction=firestore.Query.DESCENDING).limit(50).stream()
     return [{**d.to_dict(), "id": d.id, "createdAt": str(d.to_dict().get("createdAt"))} for d in docs]
 
-
-@router.delete("/content/delete")
-async def delete_content(action: ContentAction, x_user_id: str = Header(None, alias="X-User-ID")):
-    await verify_admin(x_user_id)
-    db.collection(action.collection_name).document(action.doc_id).delete()
-    return {"status": "success"}
-
-
 @router.get("/stats")
 async def get_stats(x_user_id: str = Header(None, alias="X-User-ID")):
     await verify_admin(x_user_id)
-    def count_collection(name): return len(list(db.collection(name).stream()))
+    def count_col(n): return len(list(db.collection(n).limit(500).stream()))
     return {
-        "total_users": count_collection("users"),
-        "total_schools": count_collection("schools"),
-        "total_schemes": count_collection("generated_schemes"),
-        "total_lessons": count_collection("generated_lesson_plans")
+        "total_users": count_col("users"),
+        "total_schools": count_col("schools"),
+        "total_schemes": count_col("generated_schemes"),
+        "total_lessons": count_col("generated_lesson_plans")
     }
 
 @router.post("/api/reward-referral")
 async def reward_referral(req: ReferralRequest):
-    """
-    Rewards the referring user with 10 credits when a new user signs up.
-    """
     try:
-        # 1. Look up the referring user
         referrer_ref = db.collection("users").document(req.referred_by_uid)
-        referrer_doc = referrer_ref.get()
-
-        if not referrer_doc.exists:
-            return {"status": "ignored", "message": "Referrer not found."}
-
-        # 2. Add 10 credits to the person who shared the link!
-        referrer_ref.update({
-            "credits": firestore.Increment(10)
-        })
-
-        # 3. (Optional) Log the referral for analytics
+        if not referrer_ref.get().exists: return {"status": "ignored"}
+        referrer_ref.update({"credits": firestore.Increment(10)})
         db.collection("referral_logs").add({
             "referrer_uid": req.referred_by_uid,
             "new_user_uid": req.new_user_uid,
             "reward_credits": 10,
             "timestamp": firestore.SERVER_TIMESTAMP
         })
-
-        print(f"🎉 Viral Loop: {req.referred_by_uid} earned 10 credits for referring {req.new_user_uid}!")
-        return {"status": "success", "message": "Referrer rewarded."}
-
-    except Exception as e:
-        print(f"Referral Error: {e}")
-        raise HTTPException(status_code=500, detail="Failed to process referral reward.")
+        return {"status": "success"}
+    except:
+        raise HTTPException(500, "Referral failed")

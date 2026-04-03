@@ -265,6 +265,7 @@ export const useTeacherDashboard = () => {
                     days: parseInt(String(formData.days || '5')),
                     startDate: formData.startDate,
                     topic: formData.topic,
+                    subtopic: formData.subtopic || "", 
                     references: formData.references || "",
                     objectives: formData.objectives || []
                 };
@@ -286,7 +287,14 @@ export const useTeacherDashboard = () => {
                     bloomsLevel: formData.bloomsLevel || ""
                 };
             } 
+            // 🚀 SCHEME LOGIC UPDATED TO INCLUDE MULTIPLE SUBTOPICS AND CONSOLE LOGS
             else if (toolType === 'scheme') {
+                // 🆕 DEBUGGING LOGS ADDED HERE
+                console.log("🚀 --- INITIATING SCHEME GENERATION (useTeacherLogic.ts) ---");
+                console.log("📚 Selected Topics Payload:", formData.topics);
+                console.log("📑 Selected Subtopics Payload:", formData.subtopics);
+                console.log("📦 Full FormData received in handleGenerate:", formData);
+
                 endpoint = `${API_BASE}${apiPrefix}/generate-scheme`;
                 const topicsArray = formData.topics || [formData.topic, formData.subtopic].filter(Boolean);
 
@@ -295,7 +303,9 @@ export const useTeacherDashboard = () => {
                     weeks: parseInt(String(formData.weeks || '13')),
                     startDate: formData.startDate || null,
                     topics: topicsArray.length > 0 ? topicsArray : [], 
-                    topic: formData.topic || "" 
+                    subtopics: formData.subtopics || [], // 👈 ADDED MULTIPLE SUBTOPICS
+                    topic: formData.topic || "Full Term Scheme",
+                    subtopic: formData.subtopic || formData.lessonTitle || ""
                 };
             } 
             else if (toolType === 'record') {
@@ -308,16 +318,16 @@ export const useTeacherDashboard = () => {
                     days: parseInt(String(formData.days || '5')),
                     startDate: formData.startDate,
                     topic: formData.topic,
+                    subtopic: formData.subtopic || "",
                     references: formData.references || "",
                     objectives: formData.objectives || []
                 };
             }
+            // 🚀 EXAM LOGIC UPDATED TO INCLUDE MULTIPLE SUBTOPICS
             else if (toolType === 'exam') {
                 endpoint = `${API_BASE}/api/exams/generate`; 
                 const topicsArray = formData.topics || [formData.topic, formData.subtopic].filter(Boolean);
                 
-                // 🚨 FIX: Force explicitly send 0 for any field the user didn't choose, 
-                // overriding the backend defaults.
                 const providedBlueprint = formData.blueprint || {};
                 const safeBlueprint = {
                     mcq: parseInt(String(providedBlueprint.mcq || 0)),
@@ -329,7 +339,6 @@ export const useTeacherDashboard = () => {
                     case_study: parseInt(String(providedBlueprint.case_study || 0))
                 };
 
-                // Fallback ONLY if the form sent literally 0 for everything
                 const totalQuestions = Object.values(safeBlueprint).reduce((sum, val) => sum + val, 0);
                 if (totalQuestions === 0) {
                     safeBlueprint.mcq = 0;
@@ -340,6 +349,7 @@ export const useTeacherDashboard = () => {
                 payload = {
                     ...payload,
                     topics: topicsArray.length > 0 ? topicsArray : ["General Review"],
+                    subtopics: formData.subtopics || [], // 👈 ADDED MULTIPLE SUBTOPICS
                     blueprint: safeBlueprint
                 };
             }
@@ -349,6 +359,7 @@ export const useTeacherDashboard = () => {
                     ...payload,
                     teacherName: teacherName,
                     topic: formData.topic,
+                    subtopic: formData.subtopic || "",
                     activityName: formData.lessonTitle,
                     catchupLevel: formData.catchupLevel,
                     weekNumber: parseInt(String(formData.weekNumber || '1')),
@@ -411,6 +422,46 @@ export const useTeacherDashboard = () => {
     }
   };
 
+  // ADD THIS FUNCTION inside useTeacherDashboard hook
+  const submitEvaluation = async (lessonId: string, meta: any, status: 'success' | 'failed', customFeedback?: string) => {
+    try {
+        const user = auth.currentUser;
+        if (!user) throw new Error("Not authenticated");
+        const token = await user.getIdToken();
+        
+        const currType = getCurriculumType(meta.grade);
+        const apiPrefix = currType === 'new' ? '/api/v1/new' : '/api/v1/old';
+        
+        // Map UI clicks to backend triggers
+        const feedbackString = customFeedback || (status === 'success' ? '5_stars_success' : '1_star_needs_help');
+
+        const response = await fetch(`${API_BASE}${apiPrefix}/evaluate-lesson`, {
+            method: 'POST',
+            headers: {
+                "Content-Type": "application/json",
+                "Authorization": `Bearer ${token}`,
+                "X-User-ID": user.uid,
+                "X-School-ID": localStorage.getItem('schoolId') || ""
+            },
+            body: JSON.stringify({
+                uid: user.uid,
+                lesson_id: lessonId,
+                grade: meta.grade,
+                subject: meta.subject,
+                topic: meta.topic || meta.main_topic || "General Topic",
+                subtopic: meta.subtopic || meta.sub_topic || "",
+                feedback: feedbackString,
+                schoolId: localStorage.getItem('schoolId') || null
+            })
+        });
+
+        if (!response.ok) throw new Error("Evaluation failed to submit");
+        return await response.json();
+    } catch (error) {
+        console.error("Error submitting evaluation:", error);
+        throw error;
+    }
+  };
   const handleOpenRecent = (docData: any) => {
     if (docData.custom_html || (docData.data && docData.data.html) || docData.html_content) {
         navigate('/smart-view', {
@@ -469,6 +520,6 @@ export const useTeacherDashboard = () => {
     handleGenerate,
     handleOpenRecent,
     handleLogout,
-    navigate
+    navigate,submitEvaluation
   };
 };

@@ -5,7 +5,7 @@ from fastapi import APIRouter, Header, HTTPException
 from typing import List, Dict, Any, Optional
 from pydantic import BaseModel
 from firebase_admin import firestore 
-
+import copy  
 # Models
 from models.schemas import SchemeRequest, SchemeRow, SchemeResponse
 
@@ -227,51 +227,66 @@ async def generate_scheme(
     real_syllabus_data = load_syllabus(country="Zambia", grade=request.grade, subject=request.subject)
     locked_context = get_locked_template_context(user_id, "scheme_of_work", request.grade, request.subject)
 
-    # 🎯 UPDATED LOGIC: Filter syllabus specifically for Zambian format (topic_title)
+    # 🎯 UPDATED LOGIC: Extract both Topics and Subtopics
     selected_topics = getattr(request, "topics", [])
+    selected_subtopics = getattr(request, "subtopics", [])
+    
     if not selected_topics:
         single_topic = getattr(request, "topic", "")
         if single_topic:
             selected_topics = [single_topic]
 
     if selected_topics and real_syllabus_data:
-        print(f"🎯 Filtering syllabus specifically for selected topics: {selected_topics}")
+        print(f"🎯 Filtering syllabus for topics: {selected_topics} | subtopics: {selected_subtopics}")
         
-        # Handle Dictionary structure (Zambia JSON style)
+        items = []
         if isinstance(real_syllabus_data, dict):
             items = real_syllabus_data.get("topics", real_syllabus_data.get("units", []))
-            # Match against topic_title, topic, or title
-            filtered_items = [
-                item for item in items 
-                if item.get("topic_title") in selected_topics or 
-                   item.get("topic") in selected_topics or 
-                   item.get("title") in selected_topics
-            ]
-            if filtered_items:
-                real_syllabus_data = {**real_syllabus_data, "topics": filtered_items}
-        
-        # Handle List structure
         elif isinstance(real_syllabus_data, list):
-            filtered_items = [
-                item for item in real_syllabus_data 
-                if item.get("topic_title") in selected_topics or 
-                   item.get("topic") in selected_topics or 
-                   item.get("title") in selected_topics
-            ]
-            if filtered_items:
-                real_syllabus_data = filtered_items
+            items = real_syllabus_data
+
+        filtered_items = []
+        for item in items:
+            topic_name = item.get("topic_title") or item.get("topic") or item.get("title")
+            if topic_name in selected_topics:
+                # Deep copy to prevent modifying the cached syllabus in memory
+                item_copy = copy.deepcopy(item)
+                
+                # 🚀 Filter subtopics inside the matched topic
+                if selected_subtopics:
+                    for sub_key in ["subtopics", "sub_topics", "content"]:
+                        if sub_key in item_copy and isinstance(item_copy[sub_key], list):
+                            filtered_subs = []
+                            for sub in item_copy[sub_key]:
+                                sub_name = sub if isinstance(sub, str) else sub.get("name", sub.get("title", ""))
+                                if sub_name in selected_subtopics:
+                                    filtered_subs.append(sub)
+                            
+                            # Replace the syllabus content with ONLY the selected subtopics
+                            if filtered_subs:
+                                item_copy[sub_key] = filtered_subs
+
+                filtered_items.append(item_copy)
+
+        if isinstance(real_syllabus_data, dict) and filtered_items:
+            real_syllabus_data = {**real_syllabus_data, "topics": filtered_items}
+        elif isinstance(real_syllabus_data, list) and filtered_items:
+            real_syllabus_data = filtered_items
     else:
         print("⚠️ No specific topics provided or syllabus not found. Proceeding with full mapping.")
 
     try:
         ai_result = await generate_scheme_with_ai(
-            syllabus_data=real_syllabus_data,  # Now robustly filtered!
+            syllabus_data=real_syllabus_data,  # Now strictly filtered to checked topics & subtopics!
             subject=request.subject,
             grade=request.grade,
             term=request.term,
             num_weeks=request.weeks,
             start_date=request.startDate or "2026-01-13",
-            locked_context=locked_context
+            locked_context=locked_context,
+            # Pass them to AI if your function supports it (Optional)
+            topics=selected_topics,
+            subtopics=selected_subtopics
         )
 
         intro_data = ai_result.get("intro_info", {})
@@ -303,6 +318,7 @@ async def generate_scheme(
                 "week_number": item.get("week_number", i+1), 
                 "unit": unit_val,  
                 "topic": topic_text if not is_last_week else "End of Term",
+                "subtopic": item.get("subtopic", ""), # 🚀 Ensures subtopic saves to DB
                 "prescribed_competences": item.get("prescribed_competences", []),
                 "specific_competences": item.get("specific_competences", item.get("outcomes", [])), 
                 "content": item.get("content", []) if not is_last_week else ["Examinations"],
@@ -639,6 +655,7 @@ async def generate_diagram_route(
 # ==========================================
 # 🆕 LESSON EVALUATION & TROUBLESHOOTER
 # ==========================================
+# REPLACE your current /evaluate-lesson route with this:
 @router.post("/evaluate-lesson")
 async def evaluate_lesson_route(
     request: LessonEvaluationRequest,
@@ -647,27 +664,56 @@ async def evaluate_lesson_route(
 ):
     user_id = resolve_user_id(x_user_id, request.uid)
     school_id = x_school_id or request.schoolId
-    print(f"🧠 EVALUATING LESSON | User: {user_id} | Topic: {request.topic}")
+    print(f"🧠 EVALUATING LESSON | User: {user_id} | Topic: {request.topic} | Status: {request.feedback}")
     
     try:
-        # 💰 Standard feature: Costs 1 credit
-        credit_status = check_and_deduct_credit(user_id, cost=1, school_id=school_id)
+        # We don't deduct credits for evaluating, we want to encourage this!
+        
+        # 1. Determine status
+        is_successful = "5" in request.feedback or "success" in request.feedback.lower() or "good" in request.feedback.lower()
+        new_status = "completed" if is_successful else "needs_remedial"
 
+        # 2. Update the actual Lesson Plan in Firestore
+        if request.lesson_id:
+            lesson_ref = db.collection("generated_lesson_plans").document(request.lesson_id)
+            lesson_ref.update({
+                "evaluation_status": new_status,
+                "teacher_feedback": request.feedback,
+                "evaluated_at": firestore.SERVER_TIMESTAMP
+            })
+
+        # 3. THE SENSOR TRIGGER: If failed, push to the Remedial Queue
+        if new_status == "needs_remedial":
+            db.collection("remedial_action_queue").add({
+                "uid": user_id,
+                "school_id": school_id,
+                "original_lesson_id": request.lesson_id,
+                "grade": request.grade,
+                "subject": request.subject,
+                "topic": request.topic,
+                "subtopic": request.subtopic,
+                "teacher_feedback": request.feedback,
+                "status": "pending_ai_generation", # The background worker will look for this
+                "created_at": firestore.SERVER_TIMESTAMP
+            })
+
+        # 4. Give the teacher instant AI tips on what to do next
         result = await evaluate_lesson_feedback(
             topic=request.topic,
             subtopic=request.subtopic,
             grade=request.grade,
             teacher_feedback=request.feedback
         )
+        
         return {
             "status": "success", 
             "data": result,
-            "credits_remaining": credit_status.get("remaining_credits"),
-            "expires_at": credit_status.get("expires_at")
+            "action_taken": "queued_for_remedial" if new_status == "needs_remedial" else "topic_completed"
         }
     except Exception as e:
+        import traceback
         traceback.print_exc()
-        raise HTTPException(status_code=403 if "credits" in str(e).lower() else 500, detail=str(e))
+        raise HTTPException(status_code=500, detail=str(e))
 
 
 @router.post("/capture-teacher-edits")

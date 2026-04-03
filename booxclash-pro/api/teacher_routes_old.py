@@ -7,7 +7,7 @@ from pydantic import BaseModel
 from firebase_admin import firestore
 
 # 1. Import Shared Models
-from models.schemas import SchemeRequest, SchemeRow, WorksheetResponse, WorksheetRequest
+from models.schemas import SchemeRequest, SchemeRow, WorksheetResponse,LessonEvaluationRequest, WorksheetRequest
 
 # 2. Import Services
 from services.llm_teacher_engine_old import (
@@ -141,6 +141,8 @@ async def generate_scheme(
     x_user_id: Optional[str] = Header(None, alias="X-User-ID"),
     x_school_id: Optional[str] = Header(None, alias="X-School-ID")
 ):
+    import copy # Added inline for safety, ensure it's at top of file
+
     # =========================
     # 🚀 FULL REQUEST DEBUG
     # =========================
@@ -195,13 +197,15 @@ async def generate_scheme(
             print("📚 LENGTH:", len(syllabus_data))
 
         # =========================
-        # 🎯 TOPICS DEBUG
+        # 🎯 TOPICS & SUBTOPICS DEBUG
         # =========================
-        selected_topics = getattr(request, "topics", None)
+        selected_topics = getattr(request, "topics", [])
+        selected_subtopics = getattr(request, "subtopics", []) # 👈 Extract Subtopics
 
         print("\n📥 TOPICS DEBUG")
         print("request.topics:", request.topics if hasattr(request, "topics") else "❌ NOT IN SCHEMA")
         print("getattr topics:", selected_topics)
+        print("getattr subtopics:", selected_subtopics)
         print("fallback topic:", getattr(request, "topic", None))
 
         if not selected_topics or len(selected_topics) == 0:
@@ -213,7 +217,9 @@ async def generate_scheme(
 
         # Normalize
         normalized_topics = [str(t).strip().lower() for t in selected_topics if t]
+        normalized_subtopics = [str(s).strip().lower() for s in selected_subtopics if s]
         print("🧠 NORMALIZED TOPICS:", normalized_topics)
+        print("🧠 NORMALIZED SUBTOPICS:", normalized_subtopics)
 
         # =========================
         # 🎯 FILTERING
@@ -223,44 +229,61 @@ async def generate_scheme(
 
             def is_match(item):
                 title = item.get("topic_title") or item.get("topic") or item.get("title", "")
-                
                 print("🔍 Checking item:", title)
-
                 if not title:
                     return False
-                
                 title_clean = title.strip().lower()
-
                 # 🔥 FLEXIBLE MATCH (VERY IMPORTANT)
                 match = any(t in title_clean for t in normalized_topics)
-
                 if match:
                     print("✅ MATCH FOUND:", title)
-
                 return match
 
             filtered_items = []
+            items_to_process = []
+            key_used = None
 
             if isinstance(syllabus_data, dict):
-                key = "topics" if "topics" in syllabus_data else "units" if "units" in syllabus_data else None
-                if key:
-                    filtered_items = [item for item in syllabus_data.get(key, []) if is_match(item)]
-                    print("📊 FILTERED COUNT:", len(filtered_items))
-
-                    if filtered_items:
-                        syllabus_data[key] = filtered_items
-                    else:
-                        print(f"❌ NO MATCH FOUND for topics: {normalized_topics}")
-
+                key_used = "topics" if "topics" in syllabus_data else "units" if "units" in syllabus_data else None
+                if key_used:
+                    items_to_process = syllabus_data.get(key_used, [])
             elif isinstance(syllabus_data, list):
-                filtered_items = [item for item in syllabus_data if is_match(item)]
-                print("📊 FILTERED COUNT:", len(filtered_items))
+                items_to_process = syllabus_data
 
+            # 🚀 Apply filtering with deep copy for subtopics
+            for item in items_to_process:
+                if is_match(item):
+                    item_copy = copy.deepcopy(item)
+                    
+                    # If specific subtopics are selected, filter internal subtopic arrays
+                    if normalized_subtopics:
+                        for sub_key in ["subtopics", "sub_topics", "content"]:
+                            if sub_key in item_copy and isinstance(item_copy[sub_key], list):
+                                filtered_subs = []
+                                for sub in item_copy[sub_key]:
+                                    sub_name = sub if isinstance(sub, str) else sub.get("name", sub.get("title", ""))
+                                    if sub_name and str(sub_name).strip().lower() in normalized_subtopics:
+                                        filtered_subs.append(sub)
+                                
+                                # Replace array with ONLY selected subtopics
+                                if filtered_subs:
+                                    item_copy[sub_key] = filtered_subs
+
+                    filtered_items.append(item_copy)
+
+            print("📊 FILTERED COUNT:", len(filtered_items))
+
+            # Reassign to syllabus_data
+            if isinstance(syllabus_data, dict) and key_used:
+                if filtered_items:
+                    syllabus_data[key_used] = filtered_items
+                else:
+                    print(f"❌ NO MATCH FOUND for topics: {normalized_topics}")
+            elif isinstance(syllabus_data, list):
                 if filtered_items:
                     syllabus_data = filtered_items
                 else:
                     print(f"❌ NO MATCH FOUND for topics: {normalized_topics}")
-
         else:
             print("⚠️ No topics provided OR syllabus missing")
 
@@ -268,13 +291,20 @@ async def generate_scheme(
         # 🤖 GENERATE
         # =========================
         try:
+            # 👈 Safely extract startDate from the request payload, fallback to January if missing
+            provided_start_date = getattr(request, "startDate", "2026-01-12")
+
+            # Note: We pass topics and subtopics down in case the AI function utilizes them as kwargs
             ai_scheme = await generate_scheme_with_ai(
                 syllabus_data=syllabus_data,
                 subject=request.subject,
                 grade=request.grade,
                 term=request.term,
                 num_weeks=request.weeks,
-                locked_context=locked_context 
+                start_date=provided_start_date,    # 👈 Added dynamic start date here
+                locked_context=locked_context,
+                topics=selected_topics,
+                subtopics=selected_subtopics
             )
 
             if isinstance(ai_scheme, dict):
@@ -299,7 +329,6 @@ async def generate_scheme(
             traceback.print_exc()
             print(f"❌ Scheme generation failed: {e}")
             return []
-
     # =========================
     # 📤 FORMAT RESPONSE
     # =========================
@@ -340,6 +369,7 @@ async def generate_scheme(
             "isSpecialRow": item.get("isSpecialRow", False),
             "month": item.get("month") or get_month_name(week_num),
             "topic": item.get("topic", ""),
+            "subtopic": item.get("subtopic", ""), # 👈 Ensures Subtopic maps over to output
             "content": ensure_list(item.get("content", []))
         }
 
@@ -354,7 +384,6 @@ async def generate_scheme(
         "credits_remaining": credit_status.get("remaining_credits"),
         "expires_at": credit_status.get("expires_at")
     }
-
 # ------------------------------------------------------------------
 # 2. Generate Weekly Plan 
 # ------------------------------------------------------------------
@@ -573,5 +602,66 @@ async def capture_teacher_edits(
         return {"status": "success", "message": "Edits captured for fine-tuning"}
 
     except Exception as e:
+        traceback.print_exc()
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+# REPLACE your current /evaluate-lesson route with this:
+@router.post("/evaluate-lesson")
+async def evaluate_lesson_route(
+    request: LessonEvaluationRequest,
+    x_user_id: str = Header(None, alias="X-User-ID"),
+    x_school_id: str = Header(None, alias="X-School-ID")
+):
+    user_id = resolve_user_id(x_user_id, request.uid)
+    school_id = x_school_id or request.schoolId
+    print(f"🧠 EVALUATING LESSON | User: {user_id} | Topic: {request.topic} | Status: {request.feedback}")
+    
+    try:
+        # We don't deduct credits for evaluating, we want to encourage this!
+        
+        # 1. Determine status
+        is_successful = "5" in request.feedback or "success" in request.feedback.lower() or "good" in request.feedback.lower()
+        new_status = "completed" if is_successful else "needs_remedial"
+
+        # 2. Update the actual Lesson Plan in Firestore
+        if request.lesson_id:
+            lesson_ref = db.collection("generated_lesson_plans").document(request.lesson_id)
+            lesson_ref.update({
+                "evaluation_status": new_status,
+                "teacher_feedback": request.feedback,
+                "evaluated_at": firestore.SERVER_TIMESTAMP
+            })
+
+        # 3. THE SENSOR TRIGGER: If failed, push to the Remedial Queue
+        if new_status == "needs_remedial":
+            db.collection("remedial_action_queue").add({
+                "uid": user_id,
+                "school_id": school_id,
+                "original_lesson_id": request.lesson_id,
+                "grade": request.grade,
+                "subject": request.subject,
+                "topic": request.topic,
+                "subtopic": request.subtopic,
+                "teacher_feedback": request.feedback,
+                "status": "pending_ai_generation", # The background worker will look for this
+                "created_at": firestore.SERVER_TIMESTAMP
+            })
+
+        # 4. Give the teacher instant AI tips on what to do next
+        result = await evaluate_lesson_feedback(
+            topic=request.topic,
+            subtopic=request.subtopic,
+            grade=request.grade,
+            teacher_feedback=request.feedback
+        )
+        
+        return {
+            "status": "success", 
+            "data": result,
+            "action_taken": "queued_for_remedial" if new_status == "needs_remedial" else "topic_completed"
+        }
+    except Exception as e:
+        import traceback
         traceback.print_exc()
         raise HTTPException(status_code=500, detail=str(e))

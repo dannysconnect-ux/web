@@ -87,7 +87,9 @@ async def generate_scheme_with_ai(
     term: str,
     num_weeks: int,
     start_date: str = "2026-01-12",
-    locked_context: Optional[Dict[str, Any]] = None
+    locked_context: Optional[Dict[str, Any]] = None,
+    topics: Optional[List[str]] = None,      # 👈 Safely handles the missing param
+    subtopics: Optional[List[str]] = None    # 👈 Safely handles the missing param
 ) -> List[dict]:
     
     print(f"\n📘 [Scheme Generator] Processing {subject} Grade {grade} - Paced for End of Term...")
@@ -136,6 +138,13 @@ async def generate_scheme_with_ai(
         custom_keys = [c["key"] for c in locked_context["customColumns"]]
         format_instruction = f"🚨 CRITICAL: Use EXACTLY these keys: {json.dumps(custom_keys)}"
 
+    # 👇 STRICT COMPLIANCE INSTRUCTIONS: Build constraints based on what the user selected
+    compliance_instruction = ""
+    if topics and len(topics) > 0:
+        compliance_instruction += f"\n    MANDATORY TOPICS ALLOWED: {json.dumps(topics)}"
+    if subtopics and len(subtopics) > 0:
+        compliance_instruction += f"\n    MANDATORY SUBTOPICS TO COVER: {json.dumps(subtopics)}"
+
     model = get_model()
 
     # 3. PROMPT: Force AI to cover the WHOLE list across the teaching weeks
@@ -145,6 +154,9 @@ async def generate_scheme_with_ai(
     
     SYLLABUS DATA TO COVER: 
     {json.dumps(target_topics)}
+
+    🔥 ANTI-HALLUCINATION RULES 🔥
+    You MUST strictly limit your generated content to the exact topics and subtopics provided. Do NOT invent, assume, or add outside topics.{compliance_instruction}
 
     STRICT CALENDAR RULES:
     1. **WEEK {num_weeks - 1}**: This week is strictly for "REVISION". Do not assign new teaching topics here.
@@ -164,6 +176,8 @@ async def generate_scheme_with_ai(
             prompt, 
             generation_config={"response_mime_type": "application/json"}
         )
+        
+        # Ensure extract_json_string is imported in your actual file
         data = json.loads(extract_json_string(response.text))
 
         if not isinstance(data, list): return []

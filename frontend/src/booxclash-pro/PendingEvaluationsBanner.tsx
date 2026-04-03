@@ -1,117 +1,138 @@
 import { useState, useEffect } from 'react';
+import { collection, query, where, orderBy, limit, getDocs } from 'firebase/firestore';
+import { db, auth } from './firebase'; 
 import { useNavigate } from 'react-router-dom';
-import { AlertTriangle, Clock, ChevronRight, PenTool } from 'lucide-react';
-import { collection, query, where, getDocs } from 'firebase/firestore';
-import { db, auth } from './firebase'; // Adjust path to your firebase config
+import { AlertCircle, ChevronRight, BookOpen, Clock, CheckCircle2 } from 'lucide-react';
 
 export default function PendingEvaluationsBanner() {
-  const [pendingLessons, setPendingLessons] = useState<any[]>([]);
+  const [recentLessons, setRecentLessons] = useState<any[]>([]);
+  const [loading, setLoading] = useState(true);
   const navigate = useNavigate();
 
   useEffect(() => {
-    const fetchPendingEvaluations = async () => {
+    const fetchEvaluations = async () => {
       const user = auth.currentUser;
       if (!user) return;
 
       try {
-        // Fetch all lesson plans for this user
-        const q = query(
-          collection(db, 'generated_lesson_plans'),
-          where('userId', '==', user.uid),
-          where('type', '==', 'Lesson Plan')
-        );
+        const lessonsRef = collection(db, 'generated_lesson_plans');
         
-        const querySnapshot = await getDocs(q);
-        const now = new Date();
-        const pending: any[] = [];
+        // Note: Check your database if you use 'uid' or 'userId' to save the user's ID.
+        // I kept 'userId' as fallback just in case based on standard setups.
+        const q = query(
+          lessonsRef,
+          where('userId', '==', user.uid), 
+          orderBy('createdAt', 'desc'),
+          limit(15) 
+        );
 
-        querySnapshot.forEach((doc) => {
+        const snapshot = await getDocs(q);
+        const fetchedLessons: any[] = [];
+
+        snapshot.forEach((doc) => {
           const data = doc.data();
-          const planData = data.planData;
+          const type = data.type || '';
           
-          // Skip if it's already evaluated
-          if (data.isEvaluated) return;
-
-          // Attempt to parse the date and time End
-          try {
-            // Expected format: date "YYYY-MM-DD", timeEnd "10:40"
-            if (planData?.date) {
-              const timeString = planData.timeEnd || "12:00"; 
-              const lessonEndTime = new Date(`${planData.date}T${timeString}:00`);
-              
-              // Check if the lesson's end time is in the past!
-              if (lessonEndTime < now) {
-                pending.push({ id: doc.id, ...data });
-              }
-            }
-          } catch (e) {
-             // Fallback: If date parsing fails, check if the document is older than 24 hours
-             const createdAt = data.createdAt?.toDate();
-             if (createdAt && (now.getTime() - createdAt.getTime()) > (24 * 60 * 60 * 1000)) {
-                 pending.push({ id: doc.id, ...data });
-             }
+          // Only pull in documents that are actually lesson plans
+          if (type === 'lesson' || type === 'Lesson Plan' || type === 'Remedial Lesson Plan') {
+             fetchedLessons.push({ id: doc.id, ...data });
           }
         });
 
-        // Sort by oldest first so they evaluate the oldest lessons first
-        setPendingLessons(pending);
+        // If 'userId' query fails and returns 0, you might be using 'uid' in your database. 
+        // If so, change 'userId' back to 'uid' in the query above!
+        setRecentLessons(fetchedLessons);
       } catch (error) {
-        console.error("Error fetching pending evaluations:", error);
+        console.error("Error fetching evaluations:", error);
+      } finally {
+        setLoading(false);
       }
     };
 
-    fetchPendingEvaluations();
+    fetchEvaluations();
   }, []);
 
-  if (pendingLessons.length === 0) return null;
+  if (loading || recentLessons.length === 0) return null;
+
+  const handleReviewClick = (lesson: any) => {
+    const gradeStr = lesson.grade || "";
+    const oldGrades = ["3", "5", "6", "7", "10", "11", "12"];
+    const normalized = gradeStr.toString().trim().toLowerCase().replace(/[^0-9]/g, '');
+    const isOld = oldGrades.includes(normalized);
+
+    const route = isOld ? '/old-lesson-plan-view' : '/lesson-view';
+    
+    navigate(route, {
+      state: {
+        lessonData: lesson.planData || lesson.lessonData || lesson.data || lesson,
+        meta: { docId: lesson.id, ...lesson },
+        isLocked: lesson.isLocked,
+        customColumns: lesson.customColumns
+      }
+    });
+  };
+
+  const pendingCount = recentLessons.filter(l => !l.isEvaluated && (!l.evaluation_status || l.evaluation_status === 'pending')).length;
 
   return (
-    <div className="bg-rose-500/10 border-2 border-rose-500/30 backdrop-blur-md rounded-2xl p-5 mb-8 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 shadow-lg animate-in fade-in slide-in-from-top-4">
-      <div className="flex items-start sm:items-center gap-4 text-rose-100">
-        <div className="p-3 bg-rose-500/20 rounded-full shrink-0 animate-pulse">
-          <AlertTriangle size={28} className="text-rose-400" />
+    <div className="mb-8 bg-slate-50 border border-slate-200 rounded-2xl p-4 sm:p-6 shadow-sm">
+      <div className="flex items-center gap-3 mb-4">
+        <div className={`p-2 rounded-lg ${pendingCount > 0 ? 'bg-orange-100 text-orange-600' : 'bg-emerald-100 text-emerald-600'}`}>
+          {pendingCount > 0 ? <AlertCircle size={24} /> : <CheckCircle2 size={24} />}
         </div>
         <div>
-          <h3 className="font-black text-rose-500 text-base sm:text-lg flex items-center gap-2">
-            ⚠️ {pendingLessons.length} Lesson{pendingLessons.length > 1 ? 's' : ''} Pending Evaluation
+          <h3 className="font-bold text-slate-900 text-lg">
+            Lesson Evaluations {pendingCount > 0 && <span className="text-orange-600">({pendingCount} Pending)</span>}
           </h3>
-          <p className="text-sm text-slate-400 mt-1 max-w-xl">
-            You have taught lessons that have not been evaluated. Continuous evaluation is required to track student progress and generate remedial plans.
-          </p>
+          <p className="text-sm text-slate-600">Track your recent lessons and provide AI feedback.</p>
         </div>
       </div>
-      
-      <div className="w-full sm:w-auto flex flex-col gap-2 shrink-0">
-        {pendingLessons.slice(0, 2).map((lesson, idx) => (
-          <button 
-            key={idx}
-            onClick={() => {
-              // Navigate to the lesson plan view, passing the loaded document data
-              navigate('/lesson-view', { 
-                state: { 
-                  lessonData: lesson.planData, 
-                  meta: lesson, 
-                  isLocked: lesson.isLocked,
-                  customColumns: lesson.customColumns 
-                } 
-              });
-            }}
-            className="w-full flex items-center justify-between gap-3 px-4 py-2 bg-rose-500 text-white text-sm font-bold rounded-xl hover:bg-rose-600 transition-colors shadow-md"
-          >
-            <div className="flex items-center gap-2 text-left truncate">
-                <PenTool size={14} />
-                <span className="truncate max-w-[150px]">{lesson.planData?.topic || "Untitled Lesson"}</span>
+
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+        {recentLessons.map((lesson) => {
+          // Check if it is evaluated
+          const isEvaluated = lesson.isEvaluated === true || 
+                              lesson.evaluation_status === 'success' || 
+                              lesson.evaluation_status === 'needs_remedial' || 
+                              lesson.evaluation_status === 'failed';
+
+          // Set dynamic styles based on status
+          const cardStyle = isEvaluated 
+            ? "bg-emerald-50 border border-emerald-100 hover:border-emerald-300 hover:shadow-md transition-shadow cursor-pointer flex justify-between items-center group"
+            : "bg-white border border-orange-200 hover:border-orange-400 hover:shadow-md transition-shadow cursor-pointer flex justify-between items-center group";
+
+          const iconColor = isEvaluated ? "text-emerald-500" : "text-orange-500";
+          const statusTextColor = isEvaluated ? "text-emerald-600" : "text-orange-600";
+          const chevronColor = isEvaluated ? "text-emerald-300 group-hover:text-emerald-600" : "text-orange-300 group-hover:text-orange-600";
+
+          return (
+            <div 
+              key={lesson.id} 
+              onClick={() => handleReviewClick(lesson)}
+              className={`p-4 rounded-xl ${cardStyle}`}
+            >
+              <div className="overflow-hidden">
+                <div className={`flex items-center gap-2 text-xs font-bold mb-1 ${iconColor}`}>
+                  <BookOpen size={14} />
+                  {lesson.subject} • {lesson.grade}
+                </div>
+                <p className="font-semibold text-slate-800 truncate text-sm">
+                  {lesson.topic || lesson.planData?.topic || "Untitled Lesson"}
+                </p>
+                
+                {/* Dynamic Status Indicator */}
+                <p className={`text-xs mt-1 flex items-center gap-1 font-bold ${statusTextColor}`}>
+                  {isEvaluated ? (
+                    <><CheckCircle2 size={12} /> Evaluated</>
+                  ) : (
+                    <><Clock size={12} /> Pending Evaluation</>
+                  )}
+                </p>
+              </div>
+              <ChevronRight className={`transition-colors ${chevronColor}`} />
             </div>
-            <div className="flex items-center gap-1 text-rose-200 text-xs">
-                <Clock size={12}/> Evaluate <ChevronRight size={14} />
-            </div>
-          </button>
-        ))}
-        {pendingLessons.length > 2 && (
-            <div className="text-xs text-center text-rose-400 font-bold mt-1">
-                + {pendingLessons.length - 2} more pending
-            </div>
-        )}
+          );
+        })}
       </div>
     </div>
   );

@@ -1,113 +1,120 @@
-import { BookOpen, Calendar, Layers, ClipboardCheck, Plus, Sparkles, FileQuestion, GraduationCap } from 'lucide-react';
+import { 
+  BookOpen, 
+  Calendar, 
+  Layers, 
+  ClipboardCheck, 
+  Sparkles, 
+  FileQuestion, 
+  GraduationCap, 
+  Award, 
+  ClipboardList, 
+  Library 
+} from 'lucide-react';
 
 interface ToolsGridProps {
   onOpenModal: (type: any) => void;
-  hasSchoolId: boolean;
+  hasSchoolId: boolean; // Kept in interface so the parent component doesn't break
   onNavigateSBA: () => void;
 }
 
-export const ToolsGrid = ({ onOpenModal, hasSchoolId, onNavigateSBA }: ToolsGridProps) => {
+export const ToolsGrid = ({ onOpenModal, onNavigateSBA }: ToolsGridProps) => {
+  // We removed 'desc' to maintain a clean OS app look, but increased the icon sizes to 36!
+  // Alternating between Purple and Orange themes
   const tools = [
     {
       title: "Schemes of Work",
-      desc: "Generate termly or yearly curriculum breakdowns.",
-      icon: <Layers size={28} className="text-[#6c2dc7]" />,
-      color: "bg-white border-slate-200 hover:border-[#6c2dc7]/30 hover:shadow-[0_8px_30px_rgba(108,45,199,0.12)]",
-      glow: "bg-[#6c2dc7]/10",
-      iconBox: "bg-[#6c2dc7]/10 border-[#6c2dc7]/20",
-      actionText: "text-[#6c2dc7]",
+      icon: <Layers size={36} className="text-[#6c2dc7]" />,
+      color: "hover:shadow-[0_12px_30px_rgba(108,45,199,0.2)]",
+      iconBox: "bg-gradient-to-br from-white to-[#6c2dc7]/10 border border-[#6c2dc7]/20",
       action: () => onOpenModal('scheme') 
     },
     {
       title: "Lesson Plans",
-      desc: "Create detailed step-by-step guides.",
-      icon: <BookOpen size={28} className="text-[#ffa500]" />,
-      color: "bg-white border-slate-200 hover:border-[#ffa500]/40 hover:shadow-[0_8px_30px_rgba(255,165,0,0.15)]",
-      glow: "bg-[#ffa500]/15",
-      iconBox: "bg-[#ffa500]/10 border-[#ffa500]/20",
-      actionText: "text-[#ffa500]",
+      icon: <BookOpen size={36} className="text-[#ffa500]" />,
+      color: "hover:shadow-[0_12px_30px_rgba(255,165,0,0.25)]",
+      iconBox: "bg-gradient-to-br from-white to-[#ffa500]/15 border border-[#ffa500]/20",
       action: () => onOpenModal('lesson')
     },
     {
       title: "Weekly Forecasts",
-      desc: "Plan your week's topics and objectives.",
-      icon: <Calendar size={28} className="text-[#6c2dc7]" />,
-      color: "bg-white border-slate-200 hover:border-[#6c2dc7]/30 hover:shadow-[0_8px_30px_rgba(108,45,199,0.12)]",
-      glow: "bg-[#6c2dc7]/10",
-      iconBox: "bg-[#6c2dc7]/10 border-[#6c2dc7]/20",
-      actionText: "text-[#6c2dc7]",
+      icon: <Calendar size={36} className="text-[#6c2dc7]" />,
+      color: "hover:shadow-[0_12px_30px_rgba(108,45,199,0.2)]",
+      iconBox: "bg-gradient-to-br from-white to-[#6c2dc7]/10 border border-[#6c2dc7]/20",
       action: () => onOpenModal('weekly')
     },
     {
       title: "Record of Work",
-      desc: "Track daily progress and evaluations.",
-      icon: <ClipboardCheck size={28} className="text-[#ffa500]" />,
-      color: "bg-white border-slate-200 hover:border-[#ffa500]/40 hover:shadow-[0_8px_30px_rgba(255,165,0,0.15)]",
-      glow: "bg-[#ffa500]/15",
-      iconBox: "bg-[#ffa500]/10 border-[#ffa500]/20",
-      actionText: "text-[#ffa500]",
+      icon: <ClipboardCheck size={36} className="text-[#ffa500]" />,
+      color: "hover:shadow-[0_12px_30px_rgba(255,165,0,0.25)]",
+      iconBox: "bg-gradient-to-br from-white to-[#ffa500]/15 border border-[#ffa500]/20",
       action: () => onOpenModal('record')
     },
     {
       title: "Exam Assistant",
-      desc: "Generate local syllabus-aligned assessments.",
-      icon: <FileQuestion size={28} className="text-[#6c2dc7]" />,
-      color: "bg-white border-slate-200 hover:border-[#6c2dc7]/30 hover:shadow-[0_8px_30px_rgba(108,45,199,0.12)]",
-      glow: "bg-[#6c2dc7]/10",
-      iconBox: "bg-[#6c2dc7]/10 border-[#6c2dc7]/20",
-      actionText: "text-[#6c2dc7]",
+      icon: <FileQuestion size={36} className="text-[#6c2dc7]" />,
+      color: "hover:shadow-[0_12px_30px_rgba(108,45,199,0.2)]",
+      iconBox: "bg-gradient-to-br from-white to-[#6c2dc7]/10 border border-[#6c2dc7]/20",
       action: () => onOpenModal('exam')
     },
-    // 🆕 CATCH-UP ASSISTANT TOOL
     {
-      title: "Catch-Up Assistant",
-      desc: "Foundational Literacy & Numeracy (TaRL) plans.",
-      icon: <Sparkles size={28} className="text-[#ffa500]" />,
-      color: "bg-white border-slate-200 hover:border-[#ffa500]/40 hover:shadow-[0_8px_30px_rgba(255,165,0,0.15)]",
-      glow: "bg-[#ffa500]/15",
-      iconBox: "bg-[#ffa500]/10 border-[#ffa500]/20",
-      actionText: "text-[#ffa500]",
+      title: "Catch-Up",
+      icon: <Sparkles size={36} className="text-[#ffa500]" />,
+      color: "hover:shadow-[0_12px_30px_rgba(255,165,0,0.25)]",
+      iconBox: "bg-gradient-to-br from-white to-[#ffa500]/15 border border-[#ffa500]/20",
       action: () => onOpenModal('catchup')
+    },
+    {
+      title: "SBA Manager",
+      icon: <GraduationCap size={36} className="text-[#6c2dc7]" />,
+      color: "hover:shadow-[0_12px_30px_rgba(108,45,199,0.2)]",
+      iconBox: "bg-gradient-to-br from-white to-[#6c2dc7]/10 border border-[#6c2dc7]/20",
+      action: onNavigateSBA 
+    },
+    {
+      title: "Report Cards Assistant",
+      icon: <Award size={36} className="text-[#ffa500]" />,
+      color: "hover:shadow-[0_12px_30px_rgba(255,165,0,0.25)]",
+      iconBox: "bg-gradient-to-br from-white to-[#ffa500]/15 border border-[#ffa500]/20",
+      action: () => onOpenModal('report')
+    },
+    {
+      title: "Attendance Register Assistant",
+      icon: <ClipboardList size={36} className="text-[#6c2dc7]" />,
+      color: "hover:shadow-[0_12px_30px_rgba(108,45,199,0.2)]",
+      iconBox: "bg-gradient-to-br from-white to-[#6c2dc7]/10 border border-[#6c2dc7]/20",
+      action: () => onOpenModal('attendance')
+    },
+    {
+      title: "Courses",
+      icon: <Library size={36} className="text-[#ffa500]" />,
+      color: "hover:shadow-[0_12px_30px_rgba(255,165,0,0.25)]",
+      iconBox: "bg-gradient-to-br from-white to-[#ffa500]/15 border border-[#ffa500]/20",
+      action: () => onOpenModal('courses')
     }
   ];
 
-  // SBA tool conditionally added if they have a school ID
-  if (hasSchoolId) {
-    tools.push({
-      title: "SBA Manager",
-      desc: "Join classes & generate AI rubrics.",
-      icon: <GraduationCap size={28} className="text-[#6c2dc7]" />,
-      color: "bg-white border-slate-200 hover:border-[#6c2dc7]/30 hover:shadow-[0_8px_30px_rgba(108,45,199,0.12)]",
-      glow: "bg-[#6c2dc7]/10",
-      iconBox: "bg-[#6c2dc7]/10 border-[#6c2dc7]/20",
-      actionText: "text-[#6c2dc7]",
-      action: onNavigateSBA 
-    });
-  }
-
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 max-w-6xl mx-auto">
+    // Updated grid to support an "app drawer" style (more columns, tighter gaps)
+    <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-x-4 gap-y-10 max-w-5xl mx-auto px-4 py-8">
       {tools.map((tool, idx) => (
         <button 
           key={idx} 
           onClick={tool.action} 
-          className={`group text-left p-6 sm:p-8 rounded-3xl border transition-all duration-300 relative overflow-hidden shadow-sm hover:-translate-y-1 ${tool.color}`}
+          className="group flex flex-col items-center outline-none transition-all duration-300"
         >
-          {/* Subtle brand-colored glow on hover */}
-          <div className={`absolute top-0 right-0 w-32 h-32 rounded-full blur-3xl -translate-y-1/2 translate-x-1/2 opacity-0 group-hover:opacity-100 transition-opacity duration-500 ${tool.glow}`} />
-          
-          <div className="relative z-10 flex flex-col h-full justify-between">
-            <div className={`mb-6 w-fit p-3.5 rounded-2xl border ${tool.iconBox}`}>
-              {tool.icon}
-            </div>
-            <div>
-              <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:translate-x-1 transition-transform tracking-tight">{tool.title}</h3>
-              <p className="text-slate-600 text-sm leading-relaxed">{tool.desc}</p>
-            </div>
-            <div className={`mt-6 flex items-center gap-2 text-sm font-bold opacity-0 group-hover:opacity-100 transition-all transform translate-y-2 group-hover:translate-y-0 ${tool.actionText}`}>
-              {tool.title === "SBA Manager" ? "Open Dashboard" : "Create New"} <Plus size={16} strokeWidth={2.5} />
-            </div>
+          {/* App Icon Container (Squircle) */}
+          <div className={`relative flex items-center justify-center w-20 h-20 sm:w-24 sm:h-24 rounded-[22px] sm:rounded-3xl shadow-sm transition-all duration-300 group-hover:-translate-y-2 group-active:scale-95 ${tool.iconBox} ${tool.color}`}>
+            
+            {/* Glossy Reflection Effect (Makes it look like a real OS icon!) */}
+            <div className="absolute inset-0 bg-white/30 rounded-[22px] sm:rounded-3xl opacity-0 group-hover:opacity-100 transition-opacity duration-500 pointer-events-none" style={{ clipPath: 'polygon(0 0, 100% 0, 100% 30%, 0 60%)' }} />
+            
+            {tool.icon}
           </div>
+          
+          {/* App Title */}
+          <span className="mt-3 text-sm sm:text-base font-semibold text-slate-700 group-hover:text-slate-900 text-center tracking-tight px-2 leading-tight drop-shadow-sm">
+            {tool.title}
+          </span>
         </button>
       ))}
     </div>

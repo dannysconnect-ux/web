@@ -3,6 +3,7 @@ import { useLocation, useNavigate } from 'react-router-dom';
 import jsPDF from 'jspdf';
 import autoTable from 'jspdf-autotable';
 import axios from 'axios'; 
+import { ThumbsUp, ThumbsDown, Loader2, CheckCircle2 } from 'lucide-react'; 
 
 import { db, auth } from './firebase'; 
 import { collection, addDoc, doc, updateDoc, serverTimestamp } from 'firebase/firestore'; 
@@ -10,8 +11,7 @@ import { collection, addDoc, doc, updateDoc, serverTimestamp } from 'firebase/fi
 import LessonPlanHeader from './lessonplanviews/LessonPlanHeader';
 import LessonPlanDocument from './lessonplanviews/LessonPlanDocument';
 import ManageColumnsModal from './lessonplanviews/ManageColumnsModal';
-
-// Import the CreditModal 
+import { useTeacherDashboard } from './dashboard-component/useTeacherLogic'; 
 import CreditModal from './CreditWarningModal'; 
 
 export const COAT_OF_ARMS_URL = "/Coat_of_arms_of_Zambia.svg"; 
@@ -19,7 +19,7 @@ const API_BASE =
   import.meta.env?.VITE_API_BASE ||
   (window.location.hostname === 'localhost'
     ? 'http://localhost:8000'
-    : 'https://web-938159032176.us-central1.run.app');
+    : 'https://web-76nr.onrender.com');
 
 export interface TableColumn {
   key: string;
@@ -49,20 +49,15 @@ export default function LessonPlanView() {
   const [columns, setColumns] = useState<TableColumn[]>(DEFAULT_COLUMNS);
   const [isLocked, setIsLocked] = useState(false); 
   const [isColumnModalOpen, setIsColumnModalOpen] = useState(false);
+  
+  const { submitEvaluation } = useTeacherDashboard();
 
-  // =====================================================================
-  // 🆕 LIFECYCLE STATE: DIAGRAMS, EVALUATION & REMEDIALS
-  // =====================================================================
   const [diagramPrompt, setDiagramPrompt] = useState("");
   const [generatingDiagram, setGeneratingDiagram] = useState(false);
-  
-  // 🆕 State for the Credit Modal
   const [isDiagramModalOpen, setIsDiagramModalOpen] = useState(false);
 
-  const [evaluationFeedback, setEvaluationFeedback] = useState("");
   const [evaluating, setEvaluating] = useState(false);
-  const [evaluationData, setEvaluationData] = useState<any>(null);
-
+  const [localEvaluationStatus, setLocalEvaluationStatus] = useState<'success' | 'failed' | null>(null);
   const [generatingRemedial, setGeneratingRemedial] = useState(false);
 
   useEffect(() => {
@@ -72,6 +67,10 @@ export default function LessonPlanView() {
       if (passedLock) setIsLocked(true);
       if (customColumns && Array.isArray(customColumns) && customColumns.length > 0) {
         setColumns(customColumns);
+      }
+      
+      if (planData.isEvaluated || meta.isEvaluated) {
+         setLocalEvaluationStatus(planData.evaluation_status || meta.evaluation_status || 'success');
       }
     }
   }, [planData, meta, navigate, passedLock, customColumns]);
@@ -91,84 +90,59 @@ export default function LessonPlanView() {
   const displaySubtopic = cleanSubtopic(planData.topic, planData.subtopic);
 
   // =====================================================================
-  // 🔄 LIFECYCLE API HANDLERS
+  // 🚀 IN-DOCUMENT EVALUATION LOGIC
   // =====================================================================
-  
-  // 1. First step: Validate and open the modal instead of calling the API
-  const handleGenerateDiagramClick = () => {
-    if (!diagramPrompt.trim()) {
-      alert("Please enter a diagram prompt first.");
-      return;
-    }
-    setIsDiagramModalOpen(true);
-  };
-
-  // 2. Second step: Actual API call when user clicks "Confirm" in the modal
-  const confirmGenerateDiagram = async () => {
-    setGeneratingDiagram(true);
+  const handleEvaluateLesson = async (status: 'success' | 'failed') => {
     try {
-      const response = await axios.post(`${API_BASE}/api/v1/new/generate-diagram`, {
-        prompt: diagramPrompt,
-        uid: auth.currentUser?.uid
-      });
+      setEvaluating(true);
       
-      // Changed to store 'base64' directly instead of 'svg'
-      if (response.data && response.data.content) {
-        const newDiagram = { prompt: diagramPrompt, base64: response.data.content };
-        setPlanData((prev: any) => ({
-          ...prev,
-          diagrams: [...(prev.diagrams || []), newDiagram]
-        }));
-        setDiagramPrompt("");
-      }
-    } catch (error) {
-      console.error("Error generating diagram:", error);
-      alert("Failed to generate chalkboard diagram.");
-    } finally {
-      setGeneratingDiagram(false);
-      setIsDiagramModalOpen(false); // Close the modal when done or on failure
-    }
-  };
+      const shortStatus = status === 'success' ? 'success' : 'needs_remedial';
 
-  const handleEvaluateLesson = async () => {
-    if (!evaluationFeedback.trim()) return;
-    setEvaluating(true);
-    try {
-      const response = await axios.post(`${API_BASE}/api/v1/new/evaluate-lesson`, {
-        grade: meta.grade,
-        subject: meta.subject,
-        topic: planData.topic,
-        subtopic: displaySubtopic,
-        feedback: evaluationFeedback,
-        uid: auth.currentUser?.uid
-      });
+      // Professional Generated Text Injection
+      const professionalEvalText = status === 'success' 
+        ? "The lesson was successfully delivered as planned. Learners demonstrated a solid understanding of the topic and actively participated in the activities. The expected standards and lesson objectives were met."
+        : "The lesson was delivered, but the expected standards were not fully achieved. Some learners experienced difficulties grasping the key concepts. A remedial lesson will be conducted to address these learning gaps.";
+
+      // 1. Update Current Database History First
+      if (meta.docId || meta.id) {
+          try {
+              const docRef = doc(db, "generated_lesson_plans", meta.docId || meta.id);
+              await updateDoc(docRef, {
+                  isEvaluated: true,
+                  evaluation_status: shortStatus,
+                  teacher_feedback: professionalEvalText, 
+                  "planData.evaluation": professionalEvalText, 
+                  "planData.evaluation_footer": professionalEvalText,
+                  evaluated_at: serverTimestamp()
+              });
+          } catch (fsErr) {
+              console.warn("Firestore update failed", fsErr);
+          }
+      }
+
+      await submitEvaluation(meta.docId || meta.id, meta, status, professionalEvalText).catch(() => {});
+
+      // Update Local State for current plan
+      setLocalEvaluationStatus(status);
+      setPlanData((prev: any) => ({
+          ...prev, 
+          isEvaluated: true, 
+          evaluation_status: shortStatus,
+          evaluation: professionalEvalText,
+          evaluation_footer: professionalEvalText
+      }));
+
+      // Handle Remedial Gen
+      if (status === 'success') {
+          alert("Lesson evaluated successfully! The formal evaluation has been saved to your document.");
+      } else {
+          alert("Evaluation saved. Generating your Remedial Plan now...");
+          await handleGenerateRemedial();
+      }
       
-      if (response.data && response.data.data) {
-        const aiAnalysis = response.data.data;
-        setEvaluationData(aiAnalysis);
-
-        // 1. Update the local planData state so the PDF and UI get the evaluation instantly
-        setPlanData((prev: any) => ({
-          ...prev,
-          evaluation: evaluationFeedback,
-          evaluation_footer: evaluationFeedback 
-        }));
-
-        // 2. Update Firestore to save the flag, the text, AND the AI's analysis
-        const documentId = meta?.id || lessonData?.id; 
-        if (documentId) {
-          const planRef = doc(db, "generated_lesson_plans", documentId);
-          await updateDoc(planRef, {
-            isEvaluated: true,
-            "planData.evaluation": evaluationFeedback,
-            "planData.evaluation_footer": evaluationFeedback,
-            evaluationAnalysis: aiAnalysis 
-          });
-        }
-      }
     } catch (error) {
-      console.error("Error evaluating lesson:", error);
-      alert("Failed to analyze lesson feedback.");
+      console.error(error);
+      alert("Failed to save evaluation. Please try again.");
     } finally {
       setEvaluating(false);
     }
@@ -188,29 +162,99 @@ export default function LessonPlanView() {
         subtopic: displaySubtopic,
         weekNumber: meta.weekNumber || 1,
         date: new Date().toISOString().split('T')[0], 
-        timeStart: "08:00",
-        timeEnd: "08:40",
-        boys: meta.boys || 0,
-        girls: meta.girls || 0,
+        timeStart: planData.time ? planData.time.split('-')[0]?.trim() : "08:00",
+        timeEnd: planData.time ? planData.time.split('-')[1]?.trim() : "08:40",
+        boys: meta.boys || planData.enrolment?.boys || 0,
+        girls: meta.girls || planData.enrolment?.girls || 0,
         objectives: [],
         schoolId: localStorage.getItem('schoolId'),
         schoolLogo: meta.schoolLogo,
         is_remedial: true,                         
-        teacher_feedback: evaluationFeedback       
+        teacher_feedback: "Needs Remedial"       
       });
       
       if (response.data && response.data.data) {
-        setPlanData(response.data.data);
-        setEvaluationData(null);
-        setEvaluationFeedback("");
+        const newRemedialPlan = response.data.data;
+        
+        // Ensure remedial flags and blank evaluation
+        newRemedialPlan.is_remedial_plan = true;
+        newRemedialPlan.evaluation = "..................................................................................";
+        newRemedialPlan.evaluation_footer = "..................................................................................";
+        newRemedialPlan.isEvaluated = false;
+        newRemedialPlan.evaluation_status = 'pending';
+
+        // 🚀 AUTO-SAVE the new Remedial Plan as a separate document in Firestore
+        const newMeta = { ...meta };
+        delete newMeta.docId;
+        delete newMeta.id;
+
+        const docRef = await addDoc(collection(db, "generated_lesson_plans"), {
+            userId: auth.currentUser?.uid,
+            ...newMeta, 
+            school: schoolName,
+            planData: newRemedialPlan, 
+            notesData: null, 
+            customColumns: columns, 
+            isLocked: false,
+            isEvaluated: false,
+            evaluation_status: 'pending',
+            createdAt: serverTimestamp(),
+            type: "Remedial Lesson Plan", // Explicitly set as Remedial!
+            is_remedial_plan: true
+        });
+
+        newMeta.docId = docRef.id;
+        newMeta.type = "Remedial Lesson Plan";
+
+        // Push new state to UI and replace router history so we are on the NEW document
+        setPlanData(newRemedialPlan);
+        setLocalEvaluationStatus(null); // Reset because the new doc is pending evaluation!
+        
+        navigate(location.pathname, { 
+            state: { lessonData: newRemedialPlan, meta: newMeta, isLocked: false, customColumns: columns },
+            replace: true
+        });
+
         window.scrollTo({ top: 0, behavior: 'smooth' });
-        alert("Remedial Lesson Plan Generated Successfully!");
+        alert("Remedial Lesson Plan Generated & Saved Successfully!");
       }
     } catch (error) {
       console.error("Error generating remedial lesson:", error);
       alert("Failed to generate remedial lesson.");
     } finally {
       setGeneratingRemedial(false);
+    }
+  };
+
+  const handleGenerateDiagramClick = () => {
+    if (!diagramPrompt.trim()) {
+      alert("Please enter a diagram prompt first.");
+      return;
+    }
+    setIsDiagramModalOpen(true);
+  };
+
+  const confirmGenerateDiagram = async () => {
+    setGeneratingDiagram(true);
+    try {
+      const response = await axios.post(`${API_BASE}/api/v1/new/generate-diagram`, {
+        prompt: diagramPrompt,
+        uid: auth.currentUser?.uid
+      });
+      
+      if (response.data && response.data.content) {
+        const newDiagram = { prompt: diagramPrompt, base64: response.data.content };
+        setPlanData((prev: any) => ({
+          ...prev,
+          diagrams: [...(prev.diagrams || []), newDiagram]
+        }));
+        setDiagramPrompt("");
+      }
+    } catch (error) {
+      alert("Failed to generate chalkboard diagram.");
+    } finally {
+      setGeneratingDiagram(false);
+      setIsDiagramModalOpen(false); 
     }
   };
 
@@ -255,13 +299,8 @@ export default function LessonPlanView() {
   const handleGenerateNotes = async () => {
     setGeneratingNotes(true);
     try {
-        const endpoint = `${API_BASE}/api/v1/new/generate-lesson-notes`;
-        const response = await axios.post(endpoint, {
-            grade: meta.grade,
-            subject: meta.subject,
-            topic: planData.topic,
-            subtopic: displaySubtopic,
-            uid: auth.currentUser?.uid 
+        const response = await axios.post(`${API_BASE}/api/v1/new/generate-lesson-notes`, {
+            grade: meta.grade, subject: meta.subject, topic: planData.topic, subtopic: displaySubtopic, uid: auth.currentUser?.uid 
         });
 
         if (response.data && response.data.data) {
@@ -271,7 +310,6 @@ export default function LessonPlanView() {
             }, 500);
         }
     } catch (error: any) {
-        console.error("Error generating notes:", error);
         alert("Failed to generate notes.");
     } finally {
         setGeneratingNotes(false);
@@ -296,8 +334,8 @@ export default function LessonPlanView() {
           weekNumber: meta.weekNumber || 1, schoolId: schoolId || null,
           finalEditedData: { ...planData, columns: columns, isLocked } 
         })
-      }).catch(err => console.warn("Background moat capture failed:", err));
-    } catch (e) { console.warn("Could not capture edits:", e); }
+      }).catch(err => console.warn("Background moat capture failed", err));
+    } catch (e) { }
   };
 
   const handleSaveToCloud = async () => {
@@ -306,9 +344,7 @@ export default function LessonPlanView() {
     setSaving(true);
     captureEditsBackground();
 
-    // 🚨 Check if it has been evaluated to clear out warnings
-    const currentEval = planData.evaluation || planData.evaluation_footer || "";
-    const isActuallyEvaluated = !!evaluationData || (currentEval.length > 10 && !currentEval.includes("........................"));
+    const isActuallyEvaluated = localEvaluationStatus !== null || planData.isEvaluated;
 
     try {
         await addDoc(collection(db, "generated_lesson_plans"), {
@@ -320,13 +356,14 @@ export default function LessonPlanView() {
             customColumns: columns, 
             isLocked: isLocked,
             isEvaluated: isActuallyEvaluated,
+            evaluation_status: localEvaluationStatus || planData.evaluation_status || 'pending',
             createdAt: serverTimestamp(),
-            type: "Lesson Plan"
+            type: planData.is_remedial_plan ? "Remedial Lesson Plan" : (meta.type || "Lesson Plan"),
+            is_remedial_plan: !!planData.is_remedial_plan
         });
         setSaveSuccess(true);
         setTimeout(() => setSaveSuccess(false), 3000);
     } catch (err: any) {
-        console.error("Error saving document:", err);
         alert(`Failed to save: ${err.message}`);
     } finally {
         setSaving(false);
@@ -352,7 +389,7 @@ export default function LessonPlanView() {
     });
   };
 
-  const handleDownloadPDF = async () => {
+  const handleDownloadPDF = async (returnAsBlob = false): Promise<Blob | void> => {
     captureEditsBackground();
 
     const doc = new jsPDF({ orientation: "portrait", unit: "mm", format: "a4" });
@@ -371,7 +408,7 @@ export default function LessonPlanView() {
             doc.addImage(logoData, 'PNG', xPos, 10, imgWidth, imgHeight);
             yPos += 20; 
         }
-    } catch (e) { console.error("Error rendering logo:", e); }
+    } catch (e) { }
 
     doc.setFont("times", "bold");
     doc.setFontSize(14);
@@ -454,11 +491,7 @@ export default function LessonPlanView() {
     };
 
     printDetailSection("Expected Standard", planData.expected_standard);
-    
-    if (planData.rationale) {
-        printDetailSection("Rationale", planData.rationale);
-    }
-    
+    if (planData.rationale) printDetailSection("Rationale", planData.rationale);
     if (planData.learning_environment) {
          doc.setFont("times", "bold");
          doc.text("Learning Environment:", margin, yPos);
@@ -469,20 +502,16 @@ export default function LessonPlanView() {
          doc.text(envText, margin + 5, yPos);
          yPos += 8;
     }
-
     printDetailSection("Teaching/Learning Aids", planData.materials);
     printDetailSection("References", planData.references);
     yPos += 2; 
 
-    // DYNAMIC TABLE GENERATION
     const tableHeaders = [columns.map(col => col.label)];
     const stepsData = Array.isArray(planData.steps) ? planData.steps : [];
     
     const tableBody = stepsData.map((step: any) => {
         return columns.map(col => {
-            if (col.key === 'stage_time') {
-                return `${cleanText(step.stage)}\n(${cleanText(step.time)})`;
-            }
+            if (col.key === 'stage_time') return `${cleanText(step.stage)}\n(${cleanText(step.time)})`;
             return cleanText(step[col.key]);
         });
     });
@@ -512,43 +541,32 @@ export default function LessonPlanView() {
     };
 
     printBlock("Homework", planData.homework || planData.homework_content);
-    printBlock("Evaluation", planData.evaluation || planData.evaluation_footer || "..................................................................................");
+    
+    let evalText = planData.evaluation || planData.evaluation_footer || "..................................................................................";
+    printBlock("Evaluation", evalText);
 
-    // =====================================================================
-    // 🎨 DRAW DIAGRAMS INTO PDF (UPDATED FOR BASE64)
-    // =====================================================================
     if (planData.diagrams && planData.diagrams.length > 0) {
       for (let i = 0; i < planData.diagrams.length; i++) {
           const diag = planData.diagrams[i];
-          
           checkPageBreak(80); 
           yPos += 5;
           doc.setFont("times", "bold");
           doc.text(`DIAGRAM: ${diag.prompt.toUpperCase()}`, margin, yPos);
           yPos += 5;
-          
           try {
-              // Now we just use the Base64 data returned from Imagen directly
               const base64Data = diag.base64 || diag.content;
-              
               if (base64Data) {
                   const imgWidth = contentWidth * 0.8; 
                   const imgHeight = (600 / 800) * imgWidth; 
                   const xOffset = margin + (contentWidth - imgWidth) / 2;
-
                   checkPageBreak(imgHeight + 10);
                   doc.addImage(base64Data, 'PNG', xOffset, yPos, imgWidth, imgHeight);
                   yPos += imgHeight + 10;
               }
-          } catch (err) {
-              console.error("Failed to render diagram to PDF", err);
-          }
+          } catch (err) {}
       }
     }
 
-    // =====================================================================
-    // 📚 LESSON NOTES PREVIEW IN PDF
-    // =====================================================================
     if (notesData) {
         doc.addPage();
         yPos = 20;
@@ -575,11 +593,6 @@ export default function LessonPlanView() {
                         checkPageBreak(split.length * 5);
                         doc.text(split, margin, yPos);
                         yPos += (split.length * 5) + 2;
-                        if(line.solution) {
-                             const sol = doc.splitTextToSize("  Solution: " + cleanText(line.solution), contentWidth);
-                             doc.text(sol, margin, yPos);
-                             yPos += (sol.length * 5) + 2;
-                        }
                     } else {
                         const split = doc.splitTextToSize("• " + cleanText(line), contentWidth);
                         checkPageBreak(split.length * 5);
@@ -604,8 +617,31 @@ export default function LessonPlanView() {
         printNoteSection("Homework", notesData.homework_question);
     }
 
-    doc.save(`LessonPlan_${(meta.subject || "Subject").substring(0,10)}.pdf`);
+    if (returnAsBlob) {
+        return doc.output('blob');
+    } else {
+        doc.save(`LessonPlan_${(meta.subject || "Subject").substring(0,10)}.pdf`);
+    }
   };
+
+  const dateStr = planData.date || meta.startDate || meta.date;
+  const timeStr = planData.time || meta.time || "";
+  let isPast = false;
+  if (dateStr) {
+      let timeEnd = "23:59";
+      if (timeStr && timeStr.includes('-')) {
+          timeEnd = timeStr.split('-')[1].trim(); 
+      }
+      try {
+          const cleanDate = typeof dateStr === 'string' ? dateStr.split('T')[0] : '';
+          const cleanTimeMatch = timeEnd.match(/\d{2}:\d{2}/);
+          const cleanTime = cleanTimeMatch ? cleanTimeMatch[0] : "23:59";
+          const lessonDateTime = new Date(`${cleanDate}T${cleanTime}:00`);
+          isPast = new Date() > lessonDateTime;
+      } catch (e) {}
+  }
+
+  const needsEvaluation = isPast && localEvaluationStatus === null && !planData.isEvaluated;
 
   return (
     <div className="min-h-screen bg-slate-100 font-sans pb-20 w-full overflow-x-hidden">
@@ -624,37 +660,101 @@ export default function LessonPlanView() {
         onOpenColumnModal={() => setIsColumnModalOpen(true)}
         onToggleLock={() => setIsLocked(!isLocked)}
         onSave={handleSaveToCloud}
-        onPrint={handleDownloadPDF}
+        onPrint={() => handleDownloadPDF(false)}
       />
 
-      <LessonPlanDocument 
-        planData={planData}
-        meta={meta}
-        schoolName={schoolName}
-        columns={columns}
-        displaySubtopic={displaySubtopic}
-        notesData={notesData}
-        coatOfArmsUrl={COAT_OF_ARMS_URL}
+      {/* ========================================================================= */}
+      {/* 🚀 THE IN-DOCUMENT TWO-CARD EVALUATION UI */}
+      {/* ========================================================================= */}
+      {needsEvaluation && (
+        <div className="max-w-[210mm] mx-auto mt-6 bg-white p-6 sm:p-8 rounded-xl border border-rose-200 shadow-sm animate-in fade-in slide-in-from-top-4">
+          <div className="flex flex-col sm:flex-row items-center justify-between gap-6">
+            <div>
+              <h3 className="text-xl font-bold text-slate-900 tracking-tight flex items-center gap-2">
+                <span className="flex h-3 w-3 relative">
+                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-rose-400 opacity-75"></span>
+                  <span className="relative inline-flex rounded-full h-3 w-3 bg-rose-500"></span>
+                </span>
+                Lesson Evaluation Required
+              </h3>
+              <p className="text-sm text-slate-600 mt-1">
+                You taught this lesson on <strong className="text-slate-800">{dateStr}</strong>. How did it go?
+              </p>
+            </div>
+            
+            <div className="flex items-center gap-3 w-full sm:w-auto">
+              <button 
+                onClick={() => handleEvaluateLesson('success')}
+                disabled={evaluating}
+                className="flex-1 sm:flex-none flex items-center justify-center gap-2 px-5 py-3 border-2 border-emerald-100 bg-emerald-50 hover:bg-emerald-100 hover:border-emerald-500 text-emerald-800 font-bold rounded-xl transition-all disabled:opacity-50"
+              >
+                {evaluating ? <Loader2 size={18} className="animate-spin" /> : <ThumbsUp size={18} />}
+                Successful
+              </button>
+
+              <button 
+                onClick={() => handleEvaluateLesson('failed')}
+                disabled={evaluating}
+                className="flex-1 sm:flex-none flex items-center justify-center gap-2 px-5 py-3 border-2 border-rose-100 bg-rose-50 hover:bg-rose-100 hover:border-rose-500 text-rose-800 font-bold rounded-xl transition-all disabled:opacity-50"
+              >
+                {evaluating ? <Loader2 size={18} className="animate-spin" /> : <ThumbsDown size={18} />}
+                Not Successful
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* SUCCESS CONFIRMATION BANNER */}
+      {localEvaluationStatus && (
+        <div className="max-w-[210mm] mx-auto mt-6 bg-emerald-50 p-4 rounded-xl border border-emerald-200 flex items-center gap-3 animate-in zoom-in-95">
+           <div className="h-8 w-8 bg-emerald-100 text-emerald-600 rounded-full flex items-center justify-center">
+             <CheckCircle2 size={18} />
+           </div>
+           <div>
+             <h4 className="font-bold text-emerald-900 text-sm">Evaluation Saved</h4>
+             <p className="text-emerald-700 text-xs">
+               Status: {localEvaluationStatus === 'success' ? 'Successful' : 'Not Successful. Remedial Plan Generated.'}
+             </p>
+           </div>
+        </div>
+      )}
+      {/* ========================================================================= */}
+
+
+      <main className="flex-1 p-4 sm:p-6 lg:p-8 flex flex-col items-center overflow-y-auto">
         
-        handleFieldChange={handleFieldChange}
-        handleStepChange={handleStepChange}
-        handleInsertRow={handleInsertRow}
-        handleDeleteRow={handleDeleteRow}
-        handleAddRowToBottom={handleAddRowToBottom}
-        
-        diagramPrompt={diagramPrompt}
-        setDiagramPrompt={setDiagramPrompt}
-        generatingDiagram={generatingDiagram}
-        onGenerateDiagram={handleGenerateDiagramClick}
-        
-        evaluationFeedback={evaluationFeedback}
-        setEvaluationFeedback={setEvaluationFeedback}
-        evaluating={evaluating}
-        evaluationData={evaluationData}
-        onEvaluateLesson={handleEvaluateLesson}
-        generatingRemedial={generatingRemedial}
-        onGenerateRemedial={handleGenerateRemedial}
-      />
+        {generatingRemedial && (
+           <div className="w-full max-w-[210mm] mb-4 bg-white/80 backdrop-blur-sm p-8 rounded-xl border border-slate-200 flex flex-col items-center justify-center text-center animate-pulse">
+              <Loader2 size={40} className="text-[#ffa500] animate-spin mb-4" />
+              <h3 className="font-bold text-lg text-slate-800">Generating Remedial Plan...</h3>
+              <p className="text-slate-500 text-sm mt-1">Creating simplified steps for learners who need extra help.</p>
+           </div>
+        )}
+
+        <div className="w-full max-w-[210mm] bg-white shadow-xl rounded-sm ring-1 ring-slate-200/50 print:shadow-none print:ring-0 mb-8 transition-all">
+          <LessonPlanDocument 
+            planData={planData}
+            meta={meta}
+            schoolName={schoolName}
+            columns={columns}
+            displaySubtopic={displaySubtopic}
+            notesData={notesData}
+            coatOfArmsUrl={COAT_OF_ARMS_URL}
+            
+            handleFieldChange={handleFieldChange}
+            handleStepChange={handleStepChange}
+            handleInsertRow={handleInsertRow}
+            handleDeleteRow={handleDeleteRow}
+            handleAddRowToBottom={handleAddRowToBottom}
+            
+            diagramPrompt={diagramPrompt}
+            setDiagramPrompt={setDiagramPrompt}
+            generatingDiagram={generatingDiagram}
+            onGenerateDiagram={handleGenerateDiagramClick}
+          />
+        </div>
+      </main>
 
       {isColumnModalOpen && (
         <ManageColumnsModal 
@@ -664,7 +764,6 @@ export default function LessonPlanView() {
         />
       )}
 
-      {/* 🆕 Inject the Warning Modal here! */}
       <CreditModal 
         isOpen={isDiagramModalOpen}
         onClose={() => setIsDiagramModalOpen(false)}
@@ -673,7 +772,7 @@ export default function LessonPlanView() {
         featureName="Chalkboard Diagram"
         isLoading={generatingDiagram}
       />
-
+      
     </div>
   );
 }

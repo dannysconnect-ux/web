@@ -18,7 +18,9 @@ async def generate_scheme_with_ai(
     term: str,
     num_weeks: int,
     start_date: str = "2026-01-13",
-    locked_context: Optional[Dict[str, Any]] = None 
+    locked_context: Optional[Dict[str, Any]] = None,
+    topics: Optional[List[str]] = None,      # 👈 Added for compliance
+    subtopics: Optional[List[str]] = None    # 👈 Added for compliance
 ) -> Dict[str, Any]:
     
     print(f"\n📘 [Scheme Generator] Processing {subject} {grade} - Paced for End of Term...")
@@ -37,14 +39,11 @@ async def generate_scheme_with_ai(
     elif isinstance(syllabus_data, list):
         topics_list = syllabus_data
     
-    # We use the topics_list exactly as provided by the route (No term splitting)
-    term_syllabus_data = topics_list
-
     # Prepare Data Summary for LLM
     syllabus_summary = []
     syllabus_book = f"{subject} Syllabus {grade}"
 
-    for t in term_syllabus_data:
+    for t in topics_list:
         if isinstance(t, dict):
             unit_code = t.get("unit") or t.get("unit_number") or t.get("number") or ""
             topic_title = t.get("topic_title") or t.get("topic") or ""
@@ -70,6 +69,13 @@ async def generate_scheme_with_ai(
             })
         elif isinstance(t, str):
             syllabus_summary.append({"unit_prefix": "", "topic": t, "forced_references": [syllabus_book]})
+
+    # 👇 Build strict compliance instructions based on user selection
+    compliance_instruction = ""
+    if topics and len(topics) > 0:
+        compliance_instruction += f"\n    MANDATORY TOPICS ALLOWED: {json.dumps(topics)}"
+    if subtopics and len(subtopics) > 0:
+        compliance_instruction += f"\n    MANDATORY SUBTOPICS TO COVER: {json.dumps(subtopics)}"
 
     model = get_model()
 
@@ -114,6 +120,9 @@ async def generate_scheme_with_ai(
     PROVIDED INTRO DATA: {json.dumps(provided_intro)}
     SYLLABUS DATA: {json.dumps(syllabus_summary)}
 
+    🔥 ANTI-HALLUCINATION RULES 🔥
+    You MUST strictly limit your content to the provided syllabus data. Do NOT invent, assume, or add topics/subtopics that are not in the list above.{compliance_instruction}
+
     STRICT CALENDAR RULES:
     1. **WEEK {num_weeks - 1}**: This MUST be strictly for "REVISIONS". Do not assign teaching topics here.
     2. **WEEK {num_weeks}**: This MUST be strictly for "END OF TERM TESTS".
@@ -128,15 +137,12 @@ async def generate_scheme_with_ai(
     {format_instruction}
     """
     
-    response_text = ""
     try:
         response = await model.generate_content_async(
             prompt,
             generation_config={"response_mime_type": "application/json"}
         )
-        response_text = response.text
-        json_str = extract_json_string(response_text)
-        data = json.loads(json_str)
+        data = json.loads(extract_json_string(response.text))
 
         if "scheme_weeks" not in data and isinstance(data, list):
             data = {"intro_info": {}, "scheme_weeks": data}
@@ -153,32 +159,35 @@ async def generate_scheme_with_ai(
             item['date_start'] = date_info['start_iso']
             item['date_end'] = date_info['end_iso']
             
-            if 'week' in item:
-                 item['week'] = f"Week {week_num} ({date_info['month']}) ({date_info['range_display']})"
-            else:
-                 item['week_display'] = f"Week {week_num}"
+            # Formatting the display string
+            item['week_display'] = f"Week {week_num}"
+            item['week'] = f"Week {week_num} ({date_info['month']}) ({date_info['range_display']})"
             
             # --- HARD OVERRIDES FOR THE LAST TWO WEEKS ---
             if week_num == num_weeks - 1:
-                item['topic'] = "REVISIONS"
-                item['content'] = ["General Revision of Termly Topics"]
-                item['prescribed_competences'] = ["Consolidation of skills"]
-                item['specific_competences'] = ["Learners should be able to recall and apply covered topics."]
-                item['learning_activities'] = ["Past paper revision", "Group discussion"]
-                item['methods'] = ["Question and Answer", "Group Work"]
-                item['assessment'] = ["Mock tests", "Oral questioning"]
-                item['resources'] = ["Past papers", "Study guides", "Chalkboard"]
-                item['references'] = [f"{subject} Syllabus Grade {grade}"]
+                item.update({
+                    'topic': "REVISIONS",
+                    'content': ["General Revision of Termly Topics"],
+                    'prescribed_competences': ["Consolidation of skills"],
+                    'specific_competences': ["Learners should be able to recall and apply covered topics."],
+                    'learning_activities': ["Past paper revision", "Group discussion"],
+                    'methods': ["Question and Answer", "Group Work"],
+                    'assessment': ["Mock tests", "Oral questioning"],
+                    'resources': ["Past papers", "Study guides", "Chalkboard"],
+                    'references': [f"{subject} Syllabus Grade {grade}"]
+                })
             elif week_num == num_weeks:
-                item['topic'] = "END OF TERM TESTS"
-                item['content'] = ["Summative Assessment"]
-                item['prescribed_competences'] = ["Evaluation of learning"]
-                item['specific_competences'] = ["Learners should be able to accurately answer test questions."]
-                item['learning_activities'] = ["Writing exams"]
-                item['methods'] = ["Written Examination"]
-                item['assessment'] = ["End of Term Exam"]
-                item['resources'] = ["Exam papers", "Answer sheets"]
-                item['references'] = ["Assessment Framework"]
+                item.update({
+                    'topic': "END OF TERM TESTS",
+                    'content': ["Summative Assessment"],
+                    'prescribed_competences': ["Evaluation of learning"],
+                    'specific_competences': ["Learners should be able to accurately answer test questions."],
+                    'learning_activities': ["Writing exams"],
+                    'methods': ["Written Examination"],
+                    'assessment': ["End of Term Exam"],
+                    'resources': ["Exam papers", "Answer sheets"],
+                    'references': ["Assessment Framework"]
+                })
             else:
                 # --- Normal Teaching Weeks Fallbacks ---
                 fallbacks = {
@@ -194,7 +203,7 @@ async def generate_scheme_with_ai(
                 for key, val in fallbacks.items():
                     if not item.get(key): item[key] = val
                 
-                # Strict references injection for normal teaching weeks
+                # Strict references injection
                 if i < len(syllabus_summary):
                     strict_refs = syllabus_summary[i].get("forced_references", [])
                     ai_refs = item.get("references")
@@ -219,7 +228,7 @@ async def generate_scheme_with_ai(
         return {"intro_info": {}, "weeks": []}
 
 # =====================================================
-# 2. SCHEME DETAILS EXTRACTOR (THE MISSING FUNCTION)
+# 2. SCHEME DETAILS EXTRACTOR
 # =====================================================
 def extract_scheme_details(scheme_data: List[dict], week_number: int) -> Dict[str, Any]:
     """

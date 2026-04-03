@@ -1,4 +1,4 @@
-import { Briefcase, Zap, Crown, LogOut, Share2, Check } from 'lucide-react';
+import { Briefcase, Zap, Crown, LogOut, Share2, Check, AlertCircle } from 'lucide-react';
 import { useState } from 'react';
 
 interface HeaderProps {
@@ -7,12 +7,25 @@ interface HeaderProps {
   loading: boolean;
   credits: number | null;
   expiresAt?: string | null; 
-  uid?: string;              
+  uid?: string;
+  pendingCount?: number;           // 👈 Added pending count
+  onReviewPending?: () => void;    // 👈 Added click handler for the notification
   onLogout: () => void;
   onMakeOwn: () => void;
 }
 
-export const DashboardHeader = ({ teacherName, schoolName, loading, credits, expiresAt, uid, onLogout, onMakeOwn }: HeaderProps) => {
+export const DashboardHeader = ({ 
+  teacherName, 
+  schoolName, 
+  loading, 
+  credits, 
+  expiresAt, 
+  uid, 
+  pendingCount = 0, 
+  onReviewPending,
+  onLogout, 
+  onMakeOwn 
+}: HeaderProps) => {
   const isSchoolContext = !!localStorage.getItem('schoolId');
   const [copied, setCopied] = useState(false);
 
@@ -73,6 +86,20 @@ export const DashboardHeader = ({ teacherName, schoolName, loading, credits, exp
             )}
           </span>
         </div>
+
+        {/* 🚨 NOTIFICATION BUTTON FOR PENDING EVALUATIONS */}
+        {pendingCount > 0 && (
+          <button 
+            onClick={onReviewPending}
+            className="relative p-2.5 rounded-xl bg-rose-50 border border-rose-200 text-rose-600 hover:bg-rose-100 hover:border-rose-300 transition-all shadow-sm group"
+            title="Pending Evaluations"
+          >
+            <AlertCircle size={20} className="animate-pulse" />
+            <span className="absolute -top-2 -right-2 bg-rose-600 text-white text-[10px] font-black rounded-full h-5 w-5 flex items-center justify-center shadow-md border-2 border-white">
+              {pendingCount > 99 ? '99+' : pendingCount}
+            </span>
+          </button>
+        )}
 
         <button 
           onClick={handleShare} 

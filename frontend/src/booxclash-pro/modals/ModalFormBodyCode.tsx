@@ -167,14 +167,6 @@ const ModalFormBody: React.FC<ModalFormBodyProps> = ({
   };
 
   // 🆕 UNIFIED HANDLER FOR EXAMS & SCHEMES TOPICS
-  const handleTopicToggle = (topicName: string) => {
-    const currentTopics = formData.topics || [];
-    const newTopics = currentTopics.includes(topicName)
-        ? currentTopics.filter((t: string) => t !== topicName)
-        : [...currentTopics, topicName];
-    setFormData({ ...formData, topics: newTopics });
-  };
-
   const handleBlueprintChange = (field: string, val: string) => {
     const num = parseInt(val) || 0;
     const currentBlueprint = formData.blueprint || {};
@@ -620,25 +612,94 @@ const ModalFormBody: React.FC<ModalFormBodyProps> = ({
                     <Loader2 size={18} className="animate-spin" /> Fetching official topics...
                 </div>
             ) : syllabusStructure && syllabusStructure.length > 0 ? (
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 max-h-56 overflow-y-auto scrollbar-thin scrollbar-thumb-slate-300 scrollbar-track-slate-100 p-3 bg-white rounded-xl border border-slate-200">
-                    {syllabusStructure.map((t: any, idx: number) => {
-                        const topicName = t.title || t.topic;
+                <div className="grid grid-cols-1 gap-2 max-h-64 overflow-y-auto scrollbar-thin scrollbar-thumb-slate-300 scrollbar-track-slate-100 p-3 bg-white rounded-xl border border-slate-200">
+                    {syllabusStructure.map((topicObj: any, idx: number) => {
+                        const topicName = typeof topicObj === 'string' ? topicObj : (topicObj.title || topicObj.topic || topicObj.name);
                         if (!topicName) return null;
-                        const isChecked = (formData.topics || []).includes(topicName);
+                        
+                        const isTopicChecked = (formData.topics || []).includes(topicName);
+                        // Safely extract subtopics array from syllabus JSON
+                        const tSubtopics = topicObj.subtopics || topicObj.sub_topics || topicObj.content || [];
+
                         return (
-                            <label key={idx} className="flex items-start space-x-3 p-2 rounded-lg hover:bg-slate-50 cursor-pointer transition-colors group">
-                                <div className="flex items-center h-5 mt-0.5">
-                                    <input
-                                        type="checkbox"
-                                        checked={isChecked}
-                                        onChange={() => handleTopicToggle(topicName)}
-                                        className={`w-4 h-4 rounded border-slate-300 bg-white ${type === 'exam' ? 'text-rose-500 focus:ring-rose-500' : 'text-blue-500 focus:ring-blue-500'}`}
-                                    />
-                                </div>
-                                <span className="text-sm font-medium text-slate-700 group-hover:text-slate-900 leading-tight">
-                                    {topicName}
-                                </span>
-                            </label>
+                            <div key={idx} className="flex flex-col mb-1 border-b border-slate-100 pb-2 last:border-0 last:pb-0">
+                                {/* MAIN TOPIC ROW */}
+                                <label className="flex items-start space-x-3 p-2 rounded-lg hover:bg-slate-50 cursor-pointer transition-colors group">
+                                    <div className="flex items-center h-5 mt-0.5">
+                                        <input
+                                            type="checkbox"
+                                            checked={isTopicChecked}
+                                            onChange={(e) => {
+                                                if (e.target.checked) {
+                                                    // Add the topic
+                                                    setFormData({
+                                                        ...formData, 
+                                                        topics: [...(formData.topics || []), topicName]
+                                                    });
+                                                } else {
+                                                    // Remove the topic AND all its subtopics
+                                                    setFormData({
+                                                        ...formData, 
+                                                        topics: (formData.topics || []).filter((t: string) => t !== topicName),
+                                                        subtopics: (formData.subtopics || []).filter((s: string) => {
+                                                            // Keep subtopics that don't belong to this un-checked topic
+                                                            const isSubOfThisTopic = tSubtopics.some((subItem: any) => {
+                                                                const subName = typeof subItem === 'string' ? subItem : (subItem.name || subItem.title || '');
+                                                                return subName === s;
+                                                            });
+                                                            return !isSubOfThisTopic;
+                                                        })
+                                                    });
+                                                }
+                                            }}
+                                            className={`w-4 h-4 rounded border-slate-300 bg-white ${type === 'exam' ? 'text-rose-500 focus:ring-rose-500' : 'text-blue-500 focus:ring-blue-500'}`}
+                                        />
+                                    </div>
+                                    <span className="text-sm font-bold text-slate-700 group-hover:text-slate-900 leading-tight">
+                                        {topicName}
+                                    </span>
+                                </label>
+
+                                {/* SUBTOPIC NESTED ROW (Only visible if Main Topic is selected) */}
+                                {isTopicChecked && tSubtopics.length > 0 && (
+                                    <div className="ml-8 mt-1 space-y-1.5 border-l-2 border-slate-100 pl-3 animate-in fade-in slide-in-from-top-1">
+                                        {tSubtopics.map((sub: any, subIdx: number) => {
+                                            const subName = typeof sub === 'string' ? sub : (sub.name || sub.title || `Subtopic ${subIdx + 1}`);
+                                            if (!subName) return null;
+                                            
+                                            const isSubChecked = (formData.subtopics || []).includes(subName);
+
+                                            return (
+                                                <label key={subIdx} className="flex items-start space-x-2 py-1 cursor-pointer group">
+                                                    <div className="flex items-center h-4 mt-[1px]">
+                                                        <input 
+                                                            type="checkbox" 
+                                                            checked={isSubChecked}
+                                                            onChange={(e) => {
+                                                                if (e.target.checked) {
+                                                                    setFormData({
+                                                                        ...formData, 
+                                                                        subtopics: [...(formData.subtopics || []), subName]
+                                                                    });
+                                                                } else {
+                                                                    setFormData({
+                                                                        ...formData, 
+                                                                        subtopics: (formData.subtopics || []).filter((s: string) => s !== subName)
+                                                                    });
+                                                                }
+                                                            }}
+                                                            className={`w-3.5 h-3.5 rounded border-slate-200 bg-white ${type === 'exam' ? 'text-rose-400 focus:ring-rose-400' : 'text-blue-400 focus:ring-blue-400'}`}
+                                                        />
+                                                    </div>
+                                                    <span className="text-xs text-slate-500 font-medium group-hover:text-slate-800 leading-tight transition-colors">
+                                                        {subName}
+                                                    </span>
+                                                </label>
+                                            );
+                                        })}
+                                    </div>
+                                )}
+                            </div>
                         );
                     })}
                 </div>
@@ -815,19 +876,29 @@ const ModalFormBody: React.FC<ModalFormBodyProps> = ({
                       </label>
                       <input 
                         type="text" 
-                        className="w-full bg-slate-50 border border-slate-200 rounded-lg p-3 text-slate-900 focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500"
+                        className="w-full bg-slate-50 border border-slate-200 rounded-lg p-3 text-slate-900 focus:outline-none focus:border-[#6c2dc7] focus:ring-1 focus:ring-[#6c2dc7] transition-colors"
                         placeholder={(type === 'weekly' || type === 'record') ? "e.g. Algebra" : "e.g. Unit 4.1: Algebra"}
-                        value={formData.topic} 
+                        value={formData.topic || ''} 
                         onChange={(e) => setFormData({...formData, topic: e.target.value})}
                       />
                   </div>
-                  {showLessonTitle && (
-                      <div>
-                          <label className="block text-sm font-bold text-slate-700 mb-1">Sub-topic / Lesson Title</label>
-                          <input type="text" className="w-full bg-slate-50 border border-slate-200 rounded-lg p-3 text-slate-900 focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500"
-                              placeholder="e.g. Solving Linear Equations (Unit 4.1)"
-                              value={formData.lessonTitle} 
-                              onChange={(e) => setFormData({...formData, lessonTitle: e.target.value})}
+                  
+                  {/* 🆕 EXPLICIT SUB-TOPIC LOGIC: Shows for Schemes automatically, or if showLessonTitle is true */}
+                  {(type === 'scheme' || showLessonTitle) && (
+                      <div className="animate-in fade-in slide-in-from-top-2">
+                          <label className="block text-sm font-bold text-slate-700 mb-1">
+                             {type === 'scheme' ? 'Specific Sub-topic (Optional)' : 'Sub-topic / Lesson Title'}
+                          </label>
+                          <input 
+                              type="text" 
+                              className="w-full bg-slate-50 border border-slate-200 rounded-lg p-3 text-slate-900 focus:outline-none focus:border-[#6c2dc7] focus:ring-1 focus:ring-[#6c2dc7] transition-colors"
+                              placeholder={type === 'scheme' ? "e.g. Solving Linear Equations" : "e.g. Solving Linear Equations (Unit 4.1)"}
+                              value={formData.lessonTitle || formData.subtopic || ''} 
+                              onChange={(e) => setFormData({
+                                  ...formData, 
+                                  lessonTitle: e.target.value, 
+                                  subtopic: e.target.value
+                              })}
                           />
                       </div>
                   )}

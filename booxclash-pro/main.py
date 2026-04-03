@@ -59,7 +59,6 @@ origins = [
     "https://booxclash-pro.onrender.com", 
     "https://www.booxclash.com",
     "https://booxclash.com",
-    "*"
 ]
 
 app.add_middleware(

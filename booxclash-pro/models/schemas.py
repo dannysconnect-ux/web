@@ -18,16 +18,18 @@ class SchemeRequest(BaseModel):
     grade: str
     term: str = "Term 1"
     weeks: int
-        # ✅ ADD THIS
+    
+    # Topic Selection (Supports both array of topics or single topic)
     topics: Optional[List[str]] = []
     topic: Optional[str] = ""
+    
     # Optional / Context Fields
     startDate: Optional[str] = None
     uid: Optional[str] = None
     schoolId: Optional[str] = None
     schoolName: Optional[str] = None # Added to catch frontend mapping
     
-    # ✅ FIX 1: Robust Validators to handle Strings vs Ints
+    # Robust Validators to handle Strings vs Ints
     @validator('weeks', pre=True)
     def parse_weeks(cls, v):
         if isinstance(v, str):
@@ -40,7 +42,6 @@ class SchemeRequest(BaseModel):
             return None
         return v
 
-    # ✅ FIX 2: Ignore extra fields (like 'school' if passed instead of 'schoolName')
     model_config = STRICT_IGNORE_EXTRA
 
 
@@ -242,6 +243,7 @@ class ChalkboardDiagramRequest(BaseModel):
     uid: Optional[str] = None
     prompt: str  # e.g., "Human Heart" or "Water Cycle"
     lesson_id: Optional[str] = None # To optionally link it to a specific lesson
+    schoolId: Optional[str] = None  # Support for school credits
     
     model_config = STRICT_IGNORE_EXTRA
 
@@ -253,15 +255,21 @@ class ClassroomTroubleshooterRequest(BaseModel):
     subject: str
     topic: str
     struggle_description: str # e.g., "Students failed to find the common denominator"
+    schoolId: Optional[str] = None
     
     model_config = STRICT_IGNORE_EXTRA
 
 
 class LessonEvaluationRequest(BaseModel):
-    """Schema to submit post-lesson evaluation feedback."""
-    uid: str
+    """Schema to submit post-lesson evaluation feedback (The Sensor)."""
+    uid: Optional[str] = None
     lesson_id: str
+    grade: str
+    subject: str
+    topic: str
+    subtopic: str
     feedback: str # e.g., "Half the class didn't understand how leaves make food"
+    schoolId: Optional[str] = None
     
     model_config = STRICT_IGNORE_EXTRA
 
@@ -274,17 +282,18 @@ class RemedialLessonRequest(BaseModel):
     subject: str
     topic: str
     subtopic: Optional[str] = ""
-    teacher_feedback: str # Feeds into the AI to specifically target the learnin
+    teacher_feedback: str # Feeds into the AI to specifically target the learning gap
     duration: Optional[str] = "20 minutes" # Remedials are usually shorter
+    schoolId: Optional[str] = None
     
     model_config = STRICT_IGNORE_EXTRA
 
 
 # ==========================================
-# 📝 EXAM ASSISTANT REQUEST (NEW)
+# 📝 EXAM ASSISTANT REQUEST
 # ==========================================
 class ExamBlueprint(BaseModel):
-    # ✅ FIX: Set ALL defaults to 0 so the backend never forces unwanted questions
+    # Set ALL defaults to 0 so the backend never forces unwanted questions
     mcq: int = 0
     true_false: int = 0
     matching: int = 0
