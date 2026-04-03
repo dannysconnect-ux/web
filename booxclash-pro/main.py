@@ -59,6 +59,8 @@ origins = [
     "https://web-76nr.onrender.com", 
     "https://www.booxclash.com",
     "https://booxclash.com",
+    "https://www.booxclashlearn.com",  # <--- ADD THIS
+    "https://booxclashlearn.com",      # <--- Good practice to add the non-www version too
 ]
 
 app.add_middleware(
