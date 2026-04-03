@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { auth, db } from '../firebase'; 
-import { collection, query, where, getDocs, doc, getDoc, limit, orderBy, updateDoc } from 'firebase/firestore'; 
+import { collection, query, where, getDocs, doc, getDoc, limit, updateDoc } from 'firebase/firestore'; 
 import { ModalType } from './types';
 
 // Configuration
@@ -8,7 +8,7 @@ const PHASING_OUT_GRADES = ["10", "11", "12", "Grade 10", "Grade 11", "Grade 12"
 const SYLLABUS_BROWSING_GRADES = ["Form 1", "Form 2", "Form 3", "Form 4", "Form 5", "Grade 10", "Grade 11", "Grade 12"];
 
 const API_BASE = import.meta.env?.VITE_API_BASE || 
-  (window.location.hostname === 'localhost' ? 'http://localhost:8000' : 'https://web-938159032176.us-central1.run.app');
+  (window.location.hostname === 'localhost' ? 'http://localhost:8000' : 'https://web-76nr.onrender.com');
 
 export const useGenerationModalLogic = (isOpen: boolean, type: ModalType | any, onGenerate: (data: any) => void) => {
   const [formData, setFormData] = useState({
