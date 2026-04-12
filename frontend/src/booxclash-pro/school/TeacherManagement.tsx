@@ -7,7 +7,10 @@ import {
   deleteDoc, 
   doc, 
   updateDoc, 
-  onSnapshot 
+  onSnapshot,
+  query,
+  where,
+  getDocs
 } from 'firebase/firestore';
 import { 
   UserPlus, 
@@ -20,7 +23,11 @@ import {
   Sliders,
   Users,
   Zap,
-  Clock
+  Clock,
+  FolderOpen,
+  FileText,
+  X,
+  MessageSquare
 } from 'lucide-react';
 
 // 🆕 IMPORT FROM SCHEMA
@@ -37,7 +44,7 @@ const API_BASE =
 
 interface TeacherManagerProps {
   schoolId: string;
-  teachers: TeacherData[]; // 👈 Using the imported schema
+  teachers: TeacherData[]; 
   maxTeachers?: number; 
   currentCount: number;
 }
@@ -69,6 +76,13 @@ export default function TeacherManagement({
     subjects: [] as string[]
   });
 
+  // --- FOLDER & DOCUMENT REVIEW STATE ---
+  const [selectedTeacher, setSelectedTeacher] = useState<TeacherData | null>(null);
+  const [teacherDocs, setTeacherDocs] = useState<any[]>([]);
+  const [loadingDocs, setLoadingDocs] = useState(false);
+  const [adminMessages, setAdminMessages] = useState<{ [docId: string]: string }>({});
+  const [submittingFeedback, setSubmittingFeedback] = useState<string | null>(null);
+
   // --- 1. LISTEN TO SCHOOL DATA (Credits & Requests) ---
   useEffect(() => {
     if (!schoolId) return;
@@ -94,25 +108,12 @@ export default function TeacherManagement({
   ---------------------------------------- */
   const calculatePlan = (count: number, cycle: 'monthly' | 'termly') => {
     const isBulk = count >= 5;
-    let rate = 0;
-    
-    if (cycle === 'monthly') {
-        rate = isBulk ? 35 : 50; // K50 for monthly
-    } else {
-        rate = isBulk ? 105 : 120; // K120 for termly
-    }
-
+    let rate = cycle === 'monthly' ? (isBulk ? 35 : 50) : (isBulk ? 105 : 120);
     const totalCost = count * rate;
     const creditsPerTeacher = cycle === 'monthly' ? 60 : 200;
     const totalCredits = count * creditsPerTeacher;
 
-    return {
-      totalCost,
-      ratePerTeacher: rate,
-      totalCredits,
-      creditsPerTeacher,
-      isBulk
-    };
+    return { totalCost, ratePerTeacher: rate, totalCredits, creditsPerTeacher, isBulk };
   };
 
   const plan = calculatePlan(sliderValue, billingCycle);
@@ -124,7 +125,6 @@ export default function TeacherManagement({
     setSubmittingRequest(true);
     try {
       const schoolRef = doc(db, "schools", schoolId);
-      
       await updateDoc(schoolRef, {
         pendingRequest: {
           requestedTeachers: sliderValue,
@@ -135,7 +135,6 @@ export default function TeacherManagement({
           requestedAt: serverTimestamp()
         }
       });
-      
       alert("Request sent to System Admin! Credits will appear upon approval.");
     } catch (error) {
       console.error("Error sending request:", error);
@@ -146,7 +145,7 @@ export default function TeacherManagement({
   };
 
   /* ---------------------------------------
-      DATA FETCHING
+      DATA FETCHING (Subjects)
   ---------------------------------------- */
   const fetchSubjectsForGrade = async (grade: string) => {
     if (!grade) return;
@@ -174,8 +173,7 @@ export default function TeacherManagement({
   }, [formData.grade]);
 
   const handleGradeChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
-    const grade = e.target.value;
-    setFormData(prev => ({ ...prev, grade, subjects: [] }));
+    setFormData(prev => ({ ...prev, grade: e.target.value, subjects: [] }));
     setAvailableSubjects([]);
   };
 
@@ -225,6 +223,70 @@ export default function TeacherManagement({
     if (confirm("Remove this teacher?")) {
       await deleteDoc(doc(db, `schools/${schoolId}/teachers`, teacherId));
     }
+  };
+
+  /* ---------------------------------------
+      FOLDER & DOCUMENT REVIEW LOGIC
+  ---------------------------------------- */
+  const openTeacherFolder = async (teacher: TeacherData) => {
+    setSelectedTeacher(teacher);
+    setLoadingDocs(true);
+    setAdminMessages({});
+    try {
+      const collectionsToFetch = ['generated_lesson_plans', 'generated_schemes', 'generated_weekly_plans', 'generated_records_of_work'];
+      let allDocs: any[] = [];
+
+      for (const colName of collectionsToFetch) {
+        // Teacher documents use their document ID as their 'uid' when generating
+        const q = query(collection(db, colName), where("uid", "==", teacher.id));
+        const snap = await getDocs(q);
+        snap.forEach(docSnap => {
+          allDocs.push({ id: docSnap.id, collectionName: colName, ...docSnap.data() });
+        });
+      }
+
+      // Sort newest first
+      allDocs.sort((a, b) => {
+        const dateA = a.created_at?.toMillis ? a.created_at.toMillis() : 0;
+        const dateB = b.created_at?.toMillis ? b.created_at.toMillis() : 0;
+        return dateB - dateA;
+      });
+
+      setTeacherDocs(allDocs);
+    } catch (error) {
+      console.error("Error fetching docs", error);
+      alert("Could not load documents.");
+    } finally {
+      setLoadingDocs(false);
+    }
+  };
+
+  const handleAdminCheck = async (docId: string, colName: string) => {
+    const msg = adminMessages[docId] || '';
+    setSubmittingFeedback(docId);
+    try {
+      await updateDoc(doc(db, colName, docId), {
+        adminChecked: true,
+        adminMessage: msg,
+        adminCheckedAt: serverTimestamp()
+      });
+      // Update local UI
+      setTeacherDocs(prev => prev.map(d => d.id === docId ? { ...d, adminChecked: true, adminMessage: msg } : d));
+      alert("Feedback sent and marked as Checked!");
+    } catch (e) {
+      console.error(e);
+      alert("Failed to update status.");
+    } finally {
+      setSubmittingFeedback(null);
+    }
+  };
+
+  const formatDocType = (colName: string) => {
+    if (colName === 'generated_lesson_plans') return 'Lesson Plan';
+    if (colName === 'generated_schemes') return 'Scheme of Work';
+    if (colName === 'generated_weekly_plans') return 'Weekly Plan';
+    if (colName === 'generated_records_of_work') return 'Record of Work';
+    return 'Document';
   };
 
   /* ---------------------------------------
@@ -361,7 +423,6 @@ export default function TeacherManagement({
       ========================================================= */}
       <div className="bg-white rounded-2xl shadow-sm border border-slate-200 flex flex-col min-h-[500px]">
         
-        {/* HEADER */}
         <div className="p-6 border-b border-slate-100 flex justify-between items-center bg-slate-50/50 flex-shrink-0">
           <div>
             <h2 className="text-xl font-bold text-slate-900">Directory</h2>
@@ -504,6 +565,16 @@ export default function TeacherManagement({
                                 <div className="text-[10px] uppercase font-bold text-slate-400">Login ID</div>
                                 <div className="font-mono font-bold text-slate-700 bg-slate-100 px-2 py-0.5 rounded">{t.loginCode}</div>
                             </div>
+                            
+                            {/* 🆕 OPEN FOLDER BUTTON */}
+                            <button 
+                              onClick={() => openTeacherFolder(t)} 
+                              title="View Documents"
+                              className="text-indigo-500 hover:text-indigo-700 p-2 hover:bg-indigo-50 rounded-full transition ml-2"
+                            >
+                                <FolderOpen size={18} />
+                            </button>
+
                             <button onClick={() => t.id && handleDelete(t.id)} className="text-slate-300 hover:text-red-500 p-2 hover:bg-red-50 rounded-full transition">
                                 <Trash2 size={18} />
                             </button>
@@ -514,6 +585,132 @@ export default function TeacherManagement({
           )}
         </div>
       </div>
+
+      {/* =========================================================
+          📁 FOLDER MODAL: View & Check Teacher Documents
+      ========================================================= */}
+      {selectedTeacher && (
+        <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-sm z-50 flex justify-center items-center p-4 sm:p-6 animate-in fade-in">
+          <div className="bg-white rounded-2xl shadow-xl w-full max-w-4xl max-h-full flex flex-col overflow-hidden">
+            
+            {/* Modal Header */}
+            <div className="p-5 border-b border-slate-100 flex justify-between items-center bg-slate-50">
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 rounded-full bg-indigo-100 text-indigo-700 flex items-center justify-center font-bold">
+                    <FolderOpen size={20} />
+                </div>
+                <div>
+                  <h2 className="text-lg font-bold text-slate-900">{selectedTeacher.name}'s Folder</h2>
+                  <p className="text-xs text-slate-500">Review generated schemes, weekly plans, and lesson plans.</p>
+                </div>
+              </div>
+              <button 
+                onClick={() => setSelectedTeacher(null)}
+                className="text-slate-400 hover:text-slate-700 p-2 hover:bg-slate-200 rounded-full transition"
+              >
+                <X size={20} />
+              </button>
+            </div>
+
+            {/* Modal Body */}
+            <div className="p-6 overflow-y-auto flex-1 bg-slate-50/50">
+              {loadingDocs ? (
+                <div className="flex flex-col items-center justify-center py-20 text-slate-400">
+                   <Loader2 className="animate-spin mb-4" size={32} />
+                   <p>Fetching documents...</p>
+                </div>
+              ) : teacherDocs.length === 0 ? (
+                <div className="flex flex-col items-center justify-center py-20 text-slate-400 border-2 border-dashed border-slate-200 rounded-xl bg-white">
+                   <FileText size={48} className="mb-4 opacity-20"/>
+                   <p>No documents generated yet.</p>
+                </div>
+              ) : (
+                <div className="grid gap-4">
+                  {teacherDocs.map((docItem) => {
+                    const docTypeLabel = formatDocType(docItem.collectionName);
+                    const isChecked = docItem.adminChecked;
+                    const aiEvaluated = docItem.evaluation_status === 'completed';
+
+                    return (
+                      <div key={docItem.id} className="bg-white border border-slate-200 rounded-xl p-5 shadow-sm">
+                        <div className="flex flex-col md:flex-row md:justify-between md:items-start gap-4 mb-4">
+                          <div>
+                            <div className="flex items-center gap-2 mb-1">
+                              <span className="bg-indigo-50 text-indigo-700 text-[10px] uppercase font-bold px-2 py-0.5 rounded border border-indigo-100">
+                                {docTypeLabel}
+                              </span>
+                              <span className="text-xs font-mono text-slate-400">
+                                {docItem.grade} • {docItem.subject}
+                              </span>
+                            </div>
+                            <h3 className="font-bold text-slate-800 text-lg">
+                              {docItem.topic || docItem.subject || 'Untitled Document'}
+                            </h3>
+                            {docItem.subtopic && (
+                              <p className="text-sm text-slate-500 mt-1">{docItem.subtopic}</p>
+                            )}
+                          </div>
+                          
+                          <div className="flex flex-col items-end gap-2">
+                            {docItem.collectionName === 'generated_lesson_plans' && (
+                               <div className={`text-xs font-bold px-2 py-1 rounded-full flex items-center gap-1 ${aiEvaluated ? 'bg-green-50 text-green-700' : 'bg-amber-50 text-amber-700'}`}>
+                                  {aiEvaluated ? <Check size={12}/> : <AlertTriangle size={12}/>}
+                                  {aiEvaluated ? 'AI Evaluated' : 'Pending AI Eval'}
+                               </div>
+                            )}
+                            {isChecked ? (
+                               <div className="text-xs font-bold text-emerald-600 flex items-center gap-1 bg-emerald-50 px-2 py-1 rounded border border-emerald-100">
+                                  <Check size={14}/> Checked by Admin
+                               </div>
+                            ) : (
+                               <div className="text-xs font-bold text-slate-400 flex items-center gap-1">
+                                  Unchecked
+                               </div>
+                            )}
+                          </div>
+                        </div>
+
+                        {/* Admin Feedback Box */}
+                        <div className="mt-4 pt-4 border-t border-slate-100">
+                          {isChecked ? (
+                            <div className="bg-slate-50 p-3 rounded-lg border border-slate-100">
+                              <p className="text-xs font-bold text-slate-500 mb-1 flex items-center gap-1">
+                                <MessageSquare size={12}/> Admin Feedback
+                              </p>
+                              <p className="text-sm text-slate-700">{docItem.adminMessage || 'No specific message.'}</p>
+                            </div>
+                          ) : (
+                            <div className="flex gap-2 items-center">
+                              <input 
+                                type="text"
+                                placeholder="Add a comment or feedback (optional)..."
+                                className="flex-1 text-sm p-2 rounded-lg border border-slate-200 focus:ring-2 focus:ring-indigo-500 outline-none"
+                                value={adminMessages[docItem.id] || ''}
+                                onChange={(e) => setAdminMessages({...adminMessages, [docItem.id]: e.target.value})}
+                              />
+                              <button 
+                                onClick={() => handleAdminCheck(docItem.id, docItem.collectionName)}
+                                disabled={submittingFeedback === docItem.id}
+                                className="bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 rounded-lg text-sm font-bold transition flex items-center gap-2 whitespace-nowrap"
+                              >
+                                {submittingFeedback === docItem.id ? <Loader2 className="animate-spin" size={16}/> : <Check size={16}/>}
+                                Mark Checked
+                              </button>
+                            </div>
+                          )}
+                        </div>
+
+                      </div>
+                    );
+                  })}
+                </div>
+              )}
+            </div>
+
+          </div>
+        </div>
+      )}
+
     </div>
   );
 }

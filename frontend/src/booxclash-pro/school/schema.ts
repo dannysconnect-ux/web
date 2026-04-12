@@ -66,6 +66,9 @@ export interface SBATaskData {
   id?: string;
   schoolId: string; 
   classId: string;
+  term: string;
+  rubric: string;
+  description: string;
   teacherId: string;
   subject: string;
   title: string;

@@ -119,7 +119,7 @@ async def chat_with_architect(request: ChatRequest):
         """
         
         chat = client.chats.create(
-            model="gemini-2.5-pro",
+            model="gemini-2.5-flash",
             config=types.GenerateContentConfig(
                 system_instruction=SYSTEM_INSTRUCTION,
                 tools=[list_project_structure, read_local_file],

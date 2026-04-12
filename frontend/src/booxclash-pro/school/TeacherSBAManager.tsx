@@ -254,7 +254,8 @@ export default function TeacherSBAManager({ teacherId, schoolId }: TeacherSBAMan
       const newTask: Omit<SBATaskData, 'id'> = {
         classId: selectedClass.id!, teacherId: teacherId || "unknown", 
         schoolId: schoolId, subject: selectedSubject, title: taskTitle,
-        type: taskType, maxScore: maxScore, content: data, createdAt: serverTimestamp()
+        type: taskType, maxScore: maxScore, content: data, createdAt: serverTimestamp(),
+        term: term, rubric: data.rubric || [], description: data.learner_instructions || ''
       };
 
       const docRef = await addDoc(collection(db, `schools/${schoolId}/sba_tasks`), newTask);

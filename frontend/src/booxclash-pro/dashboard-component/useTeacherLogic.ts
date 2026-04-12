@@ -462,7 +462,7 @@ export const useTeacherDashboard = () => {
         throw error;
     }
   };
-  const handleOpenRecent = (docData: any) => {
+const handleOpenRecent = (docData: any) => {
     if (docData.custom_html || (docData.data && docData.data.html) || docData.html_content) {
         navigate('/smart-view', {
             state: {
@@ -476,11 +476,13 @@ export const useTeacherDashboard = () => {
     const finalSchoolName = docData.schoolName || docData.school || schoolName;
     const finalLogo = docData.logoUrl || docData.logo || localStorage.getItem('schoolLogo');
 
+    // 🚀 UPDATE THIS OBJECT: Explicitly grab the schoolId so the views can use it
     const metaData = { 
         ...docData, 
         school: finalSchoolName, 
         logoUrl: finalLogo, 
-        docId: docData.id 
+        docId: docData.id,
+        schoolId: docData.schoolId || localStorage.getItem('schoolId') // 👈 Added this line
     };
 
     if (docData.type === 'record') {
@@ -498,6 +500,7 @@ export const useTeacherDashboard = () => {
     } else if (docData.type === 'exam') {
         navigate('/exam-view', { state: { examData: docData.examData || docData.data, meta: metaData } });
     } else if (docData.type === 'catchup') { 
+        // Catchup will now have guaranteed access to meta.schoolId in the /catchup-view
         navigate('/catchup-view', { state: { planData: docData.planData || docData.catchupData || docData.data, meta: metaData, isLocked: docData.isLocked, customColumns: docData.customColumns } });
     }
   };

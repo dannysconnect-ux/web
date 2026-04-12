@@ -1,0 +1,580 @@
+[
+    {
+        "tool_id": "Basic Numeracy Assessment Tool-1",
+        "set_id": "SET-A/2024",
+        "parts": [
+            {
+                "name": "Part 1: Number Recognition",
+                "sections": [
+                    {
+                        "level": "LEVEL 1",
+                        "numbers": [
+                            "4",
+                            "8",
+                            "1",
+                            "7",
+                            "3",
+                            "5"
+                        ]
+                    },
+                    {
+                        "level": "LEVEL 2",
+                        "numbers": [
+                            "30",
+                            "53",
+                            "61",
+                            "96",
+                            "47",
+                            "12"
+                        ]
+                    },
+                    {
+                        "level": "LEVEL 3",
+                        "numbers": [
+                            "402",
+                            "971",
+                            "541",
+                            "884",
+                            "609",
+                            "920"
+                        ]
+                    },
+                    {
+                        "level": "LEVEL 4",
+                        "numbers": [
+                            "3522",
+                            "8045",
+                            "1002",
+                            "6660",
+                            "4147",
+                            "5402"
+                        ]
+                    }
+                ],
+                "instructions": {
+                    "start_point": "Ask the learner to recognize numbers from Level 4",
+                    "flow_chart": [
+                        {
+                            "step": "Level 4 Assessment",
+                            "condition": "If at least 4 correct",
+                            "action": "Ask the learner to recognize numbers from Level 3",
+                            "next_step": "Level 3 Assessment"
+                        },
+                        {
+                            "step": "Level 4 Assessment",
+                            "condition": "If less than 4 correct",
+                            "outcome": "Mark the learner at 4-digit",
+                            "end_assessment_path": true
+                        },
+                        {
+                            "step": "Level 3 Assessment",
+                            "condition": "If at least 4 correct",
+                            "action": "Ask the learner to recognize numbers from Level 2",
+                            "next_step": "Level 2 Assessment"
+                        },
+                        {
+                            "step": "Level 3 Assessment",
+                            "condition": "If less than 4 correct",
+                            "outcome": "Mark the learner at 3-digit",
+                            "end_assessment_path": true
+                        },
+                        {
+                            "step": "Level 2 Assessment",
+                            "condition": "If at least 4 correct",
+                            "action": "Ask the learner to recognize numbers from Level 1",
+                            "next_step": "Level 1 Assessment"
+                        },
+                        {
+                            "step": "Level 2 Assessment",
+                            "condition": "If less than 4 correct",
+                            "outcome": "Mark the learner at 2-digit",
+                            "end_assessment_path": true
+                        },
+                        {
+                            "step": "Level 1 Assessment",
+                            "condition": "If at least 4 correct",
+                            "outcome": "Mark the learner at 1-digit"
+                        },
+                        {
+                            "step": "Level 1 Assessment",
+                            "condition": "If less than 4 correct",
+                            "outcome": "Mark the learner at Beginner level",
+                            "end_assessment_path": true
+                        }
+                    ],
+                    "post_assessment_action": "Proceed to Part 2: Basic Mathematics Operations",
+                    "end_numeracy_assessment_summary": "Mark as Cannot do Addition and Subtraction, Multiplication and Division"
+                }
+            },
+            {
+                "name": "Part 2: Basic Mathematics Operations",
+                "sections": [
+                    {
+                        "type": "ADDITION",
+                        "problems": [
+                            "63 + 29",
+                            "49 + 15"
+                        ]
+                    },
+                    {
+                        "type": "SUBTRACTION",
+                        "problems": [
+                            "53 - 27",
+                            "84 - 19"
+                        ]
+                    },
+                    {
+                        "type": "MULTIPLICATION",
+                        "problems": [
+                            "36 x 2",
+                            "49 x 5"
+                        ]
+                    },
+                    {
+                        "type": "DIVISION",
+                        "problems": [
+                            "3 | 76",
+                            "8 | 93"
+                        ]
+                    }
+                ],
+                "instructions": {
+                    "initial_assessment_addition_subtraction": "Basic Addition & Subtraction Assessment",
+                    "addition_rubric": [
+                        {
+                            "condition": "If 2 correct",
+                            "outcome": "Mark as Can do Addition and Subtraction",
+                            "next_step": "Proceed to Multiplication & Division Assessment"
+                        },
+                        {
+                            "condition": "If less than 2 correct",
+                            "outcome": "Mark as Can do Addition but not Subtraction",
+                            "next_step": "Proceed to Multiplication & Division Assessment"
+                        }
+                    ],
+                    "subtraction_rubric": [
+                        {
+                            "condition": "If 2 correct",
+                            "outcome": "Mark as Can do Addition and Subtraction",
+                            "next_step": "Proceed to Multiplication & Division Assessment"
+                        },
+                        {
+                            "condition": "If less than 2 correct",
+                            "outcome": "Mark as Cannot do Addition and Subtraction",
+                            "next_step": "Skip Multiplication & Division Assessment"
+                        }
+                    ],
+                    "initial_assessment_multiplication_division": "Basic Multiplication & Division Assessment",
+                    "multiplication_rubric": [
+                        {
+                            "condition": "If 2 correct",
+                            "outcome": "Mark as Can do Multiplication and Division"
+                        },
+                        {
+                            "condition": "If less than 2 correct",
+                            "outcome": "Mark as Can do Multiplication but not Division"
+                        }
+                    ],
+                    "division_rubric": [
+                        {
+                            "condition": "If 2 correct",
+                            "outcome": "Mark as Can do Multiplication and Division"
+                        },
+                        {
+                            "condition": "If less than 2 correct",
+                            "outcome": "Mark as Cannot do Multiplication and Division"
+                        }
+                    ],
+                    "end_numeracy_assessment_summary": "Mark as Cannot do Multiplication and Division"
+                }
+            }
+        ]
+    },
+    {
+        "tool_id": "Basic Numeracy Assessment Tool-2",
+        "set_id": "SET-A/2024",
+        "parts": [
+            {
+                "name": "Part 1: Number Recognition",
+                "sections": [
+                    {
+                        "level": "LEVEL 1",
+                        "numbers": [
+                            "8",
+                            "5",
+                            "4",
+                            "9",
+                            "7",
+                            "2"
+                        ]
+                    },
+                    {
+                        "level": "LEVEL 2",
+                        "numbers": [
+                            "70",
+                            "35",
+                            "16",
+                            "99",
+                            "74",
+                            "21"
+                        ]
+                    },
+                    {
+                        "level": "LEVEL 3",
+                        "numbers": [
+                            "702",
+                            "791",
+                            "154",
+                            "848",
+                            "360",
+                            "209"
+                        ]
+                    },
+                    {
+                        "level": "LEVEL 4",
+                        "numbers": [
+                            "3258",
+                            "5945",
+                            "1002",
+                            "3456",
+                            "8132",
+                            "5402"
+                        ]
+                    }
+                ],
+                
+            "instructions": {
+                "start_point": "Ask the learner to recognize numbers from Level 3",
+                "flow_chart": [
+                {
+                    "step": "Level 3 Assessment",
+                    "condition": "If at least 4 correct",
+                    "action": "Ask the learner to recognize numbers from Level 4",
+                    "next_step": "Level 4 Assessment"
+                },
+                {
+                    "step": "Level 3 Assessment",
+                    "condition": "If less than 4 correct",
+                    "action": "Ask the learner to recognize numbers from Level 2",
+                    "next_step": "Level 2 Assessment"
+                },
+                {
+                    "step": "Level 4 Assessment",
+                    "condition": "If at least 4 correct",
+                    "outcome": "Mark the learner at 4-digit",
+                    "post_assessment_action": "Proceed to Part 2: Basic Mathematics Operations",
+                    "end_assessment_path": true
+                },
+                {
+                    "step": "Level 4 Assessment",
+                    "condition": "If less than 4 correct",
+                    "outcome": "Mark the learner at 3-digit",
+                    "post_assessment_action": "Proceed to Part 2: Basic Mathematics Operations",
+                    "end_assessment_path": true
+                },
+                {
+                    "step": "Level 2 Assessment",
+                    "condition": "If at least 4 correct",
+                    "outcome": "Mark the learner at 2-digit",
+                    "post_assessment_action": "Proceed to Part 2: Basic Mathematics Operations",
+                    "end_assessment_path": true
+                },
+                {
+                    "step": "Level 2 Assessment",
+                    "condition": "If less than 4 correct",
+                    "action": "Ask the learner to recognize numbers from Level 1",
+                    "next_step": "Level 1 Assessment"
+                },
+                {
+                    "step": "Level 1 Assessment",
+                    "condition": "If at least 4 correct",
+                    "outcome": "Mark the learner at 1-digit",
+                    "post_assessment_action": "Proceed to Part 2: Basic Mathematics Operations",
+                    "end_assessment_path": true
+                },
+                {
+                    "step": "Level 1 Assessment",
+                    "condition": "If less than 4 correct",
+                    "outcome": "Mark the learner at Beginner level",
+                    "end_numeracy_assessment_summary": "Mark as Cannot do Addition and Subtraction and Cannot do Multiplication and Division",
+                    "end_assessment_path": true
+                }
+                ]
+            }
+            },
+            {
+                "name": "Part 2: Basic Mathematics Operations",
+                "sections": [
+                    {
+                        "type": "ADDITION",
+                        "problems": [
+                            "64 + 27",
+                            "39 + 15"
+                        ]
+                    },
+                    {
+                        "type": "SUBTRACTION",
+                        "problems": [
+                            "94 - 57",
+                            "56 - 29"
+                        ]
+                    },
+                    {
+                        "type": "MULTIPLICATION",
+                        "problems": [
+                            "36 x 5",
+                            "29 x 3"
+                        ]
+                    },
+                    {
+                        "type": "DIVISION",
+                        "problems": [
+                            "5 | 57",
+                            "2 | 63"
+                        ]
+                    }
+                ],
+                "instructions": {
+                    "initial_assessment_addition_subtraction": "Basic Addition & Subtraction Assessment",
+                    "addition_rubric": [
+                        {
+                            "condition": "If 2 correct",
+                            "outcome": "Mark as Can do Addition and Subtraction",
+                            "next_step": "Proceed to Multiplication & Division Assessment"
+                        },
+                        {
+                            "condition": "If less than 2 correct",
+                            "outcome": "Mark as Can do Addition but not Subtraction",
+                            "next_step": "Proceed to Multiplication & Division Assessment"
+                        }
+                    ],
+                    "subtraction_rubric": [
+                        {
+                            "condition": "If 2 correct",
+                            "outcome": "Mark as Can do Addition and Subtraction",
+                            "next_step": "Proceed to Multiplication & Division Assessment"
+                        },
+                        {
+                            "condition": "If less than 2 correct",
+                            "outcome": "Mark as Cannot do Addition and Subtraction",
+                            "next_step": "Skip Multiplication & Division Assessment"
+                        }
+                    ],
+                    "initial_assessment_multiplication_division": "Basic Multiplication & Division Assessment",
+                    "multiplication_rubric": [
+                        {
+                            "condition": "If 2 correct",
+                            "outcome": "Mark as Can do Multiplication and Division"
+                        },
+                        {
+                            "condition": "If less than 2 correct",
+                            "outcome": "Mark as Can do Multiplication but not Division"
+                        }
+                    ],
+                    "division_rubric": [
+                        {
+                            "condition": "If 2 correct",
+                            "outcome": "Mark as Can do Multiplication and Division"
+                        },
+                        {
+                            "condition": "If less than 2 correct",
+                            "outcome": "Mark as Cannot do Multiplication and Division"
+                        }
+                    ],
+                    "end_numeracy_assessment_summary": "Mark as Cannot do Multiplication and Division"
+                }
+            }
+        ]
+    },
+    {
+        "tool_id": "Basic Numeracy Assessment Tool-3",
+        "set_id": "SET-A/2024",
+        "parts": [
+            {
+                "name": "Part 1: Number Recognition",
+                "sections": [
+                    {
+                        "level": "LEVEL 1",
+                        "numbers": [
+                            "1",
+                            "6",
+                            "9",
+                            "5",
+                            "3",
+                            "7"
+                        ]
+                    },
+                    {
+                        "level": "LEVEL 2",
+                        "numbers": [
+                            "16",
+                            "28",
+                            "41",
+                            "50",
+                            "74",
+                            "29"
+                        ]
+                    },
+                    {
+                        "level": "LEVEL 3",
+                        "numbers": [
+                            "318",
+                            "603",
+                            "500",
+                            "741",
+                            "979",
+                            "862"
+                        ]
+                    },
+                    {
+                        "level": "LEVEL 4",
+                        "numbers": [
+                            "2258",
+                            "9573",
+                            "1025",
+                            "7000",
+                            "4147",
+                            "5009"
+                        ]
+                    }
+                ],
+                "instructions": {
+                    "start_point": "Ask the learner to recognize numbers from Level 4",
+                    "flow_chart": [
+                        {
+                            "step": "Level 4 Assessment",
+                            "condition": "If at least 4 correct",
+                            "action": "Ask the learner to recognize numbers from Level 3",
+                            "next_step": "Level 3 Assessment"
+                        },
+                        {
+                            "step": "Level 4 Assessment",
+                            "condition": "If less than 4 correct",
+                            "outcome": "Mark the learner at 4-digit",
+                            "end_assessment_path": true
+                        },
+                        {
+                            "step": "Level 3 Assessment",
+                            "condition": "If at least 4 correct",
+                            "action": "Ask the learner to recognize numbers from Level 2",
+                            "next_step": "Level 2 Assessment"
+                        },
+                        {
+                            "step": "Level 3 Assessment",
+                            "condition": "If less than 4 correct",
+                            "outcome": "Mark the learner at 3-digit",
+                            "end_assessment_path": true
+                        },
+                        {
+                            "step": "Level 2 Assessment",
+                            "condition": "If at least 4 correct",
+                            "action": "Ask the learner to recognize numbers from Level 1",
+                            "next_step": "Level 1 Assessment"
+                        },
+                        {
+                            "step": "Level 2 Assessment",
+                            "condition": "If less than 4 correct",
+                            "outcome": "Mark the learner at 2-digit",
+                            "end_assessment_path": true
+                        },
+                        {
+                            "step": "Level 1 Assessment",
+                            "condition": "If at least 4 correct",
+                            "outcome": "Mark the learner at 1-digit"
+                        },
+                        {
+                            "step": "Level 1 Assessment",
+                            "condition": "If less than 4 correct",
+                            "outcome": "Mark the learner at Beginner level",
+                            "end_assessment_path": true
+                        }
+                    ],
+                    "post_assessment_action": "Proceed to Part 2: Basic Mathematics Operations",
+                    "end_numeracy_assessment_summary": "Mark as Cannot do Addition and Subtraction, Multiplication and Division"
+                }
+            },
+            {
+                "name": "Part 2: Basic Mathematics Operations",
+                "sections": [
+                    {
+                        "type": "ADDITION",
+                        "problems": [
+                            "37 + 18",
+                            "58 + 25"
+                        ]
+                    },
+                    {
+                        "type": "SUBTRACTION",
+                        "problems": [
+                            "76 - 37",
+                            "96 - 29"
+                        ]
+                    },
+                    {
+                        "type": "MULTIPLICATION",
+                        "problems": [
+                            "46 x 5",
+                            "39 x 2"
+                        ]
+                    },
+                    {
+                        "type": "DIVISION",
+                        "problems": [
+                            "4 | 89",
+                            "3 | 79"
+                        ]
+                    }
+                ],
+                "instructions": {
+                    "initial_assessment_addition_subtraction": "Basic Addition & Subtraction Assessment",
+                    "addition_rubric": [
+                        {
+                            "condition": "If 2 correct",
+                            "outcome": "Mark as Can do Addition and Subtraction",
+                            "next_step": "Proceed to Multiplication & Division Assessment"
+                        },
+                        {
+                            "condition": "If less than 2 correct",
+                            "outcome": "Mark as Can do Addition but not Subtraction",
+                            "next_step": "Proceed to Multiplication & Division Assessment"
+                        }
+                    ],
+                    "subtraction_rubric": [
+                        {
+                            "condition": "If 2 correct",
+                            "outcome": "Mark as Can do Addition and Subtraction",
+                            "next_step": "Proceed to Multiplication & Division Assessment"
+                        },
+                        {
+                            "condition": "If less than 2 correct",
+                            "outcome": "Mark as Cannot do Addition and Subtraction",
+                            "next_step": "Skip Multiplication & Division Assessment"
+                        }
+                    ],
+                    "initial_assessment_multiplication_division": "Basic Multiplication & Division Assessment",
+                    "multiplication_rubric": [
+                        {
+                            "condition": "If 2 correct",
+                            "outcome": "Mark as Can do Multiplication and Division"
+                        },
+                        {
+                            "condition": "If less than 2 correct",
+                            "outcome": "Mark as Can do Multiplication but not Division"
+                        }
+                    ],
+                    "division_rubric": [
+                        {
+                            "condition": "If 2 correct",
+                            "outcome": "Mark as Can do Multiplication and Division"
+                        },
+                        {
+                            "condition": "If less than 2 correct",
+                            "outcome": "Mark as Cannot do Multiplication and Division"
+                        }
+                    ],
+                    "end_numeracy_assessment_summary": "Mark as Cannot do Multiplication and Division"
+                }
+            }
+        ]
+    }
+]

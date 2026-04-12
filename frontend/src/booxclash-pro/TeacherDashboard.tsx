@@ -1,7 +1,8 @@
 import { useState, useEffect } from 'react';
 import { 
   Loader2, AlertCircle, X, ChevronRight, CheckCircle2, 
-  ShieldAlert, BookOpen, Brain, Lock, Edit3, Sparkles
+  ShieldAlert, BookOpen, Brain, Lock, Edit3, Sparkles,
+  ClipboardList, ArrowLeft 
 } from 'lucide-react';
 import GenerationModal from './Modals';
 
@@ -58,6 +59,58 @@ export const isLessonInPast = (doc: any) => {
       return false; 
   }
 };
+
+// ==============================================================================
+// 🛑 RESTRICTED FEATURE MODAL (NEW)
+// ==============================================================================
+function RestrictedFeatureModal({ featureName, onClose }: { featureName: string | null, onClose: () => void }) {
+  if (!featureName) return null;
+
+  // Map internal technical names to nice display names
+  const displayNames: Record<string, string> = {
+      'catchup': 'Catch-Up (TaRL)',
+      'sba': 'SBA Manager',
+      'report-cards': 'Report Cards Assistant',
+      'report_cards': 'Report Cards Assistant',
+      'attendance': 'Attendance Register Assistant'
+  };
+
+  const name = displayNames[featureName] || featureName;
+
+  return (
+    <div className="fixed inset-0 z-[140] bg-slate-900/50 backdrop-blur-sm flex items-center justify-center p-4">
+      <div className="bg-white border border-red-100 rounded-3xl shadow-2xl w-full max-w-md overflow-hidden animate-in zoom-in-95">
+        <div className="p-5 border-b border-slate-100 flex justify-between items-center">
+          <div className="flex items-center gap-2">
+            <div className="p-2 bg-red-100 rounded-full text-red-600">
+              <Lock size={18} />
+            </div>
+            <h3 className="font-bold text-slate-900 text-lg">School Account Required</h3>
+          </div>
+          <button onClick={onClose} className="text-slate-400 hover:text-slate-900 transition-colors">
+            <X size={20} />
+          </button>
+        </div>
+        <div className="p-6">
+          <p className="text-slate-600 leading-relaxed mb-4">
+            The <strong>{name}</strong> feature is exclusively available for verified School Accounts.
+          </p>
+          <p className="text-slate-600 leading-relaxed text-sm bg-slate-50 p-4 rounded-xl border border-slate-100">
+            If your school is already using Booxclash, please ask your administrator to send you an invite link to join their workspace.
+          </p>
+        </div>
+        <div className="p-5 border-t border-slate-100 bg-slate-50">
+          <button 
+            onClick={onClose} 
+            className="w-full bg-slate-900 hover:bg-slate-800 text-white font-bold py-3.5 rounded-xl transition-all shadow-md active:scale-95"
+          >
+            Understood
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
 
 // ==============================================================================
 // 🤖 AI BEST PRACTICES MODAL
@@ -216,7 +269,83 @@ function ProfileCompletionBanner() {
   );
 }
 
+
 // ==============================================================================
+// 🎯 CATCH-UP MENU MODAL (UPDATED)
+// ==============================================================================
+function CatchUpMenuModal({ 
+  isOpen, 
+  onClose, 
+  onSelectLessonPlan, 
+  navigate 
+}: { 
+  isOpen: boolean, 
+  onClose: () => void, 
+  onSelectLessonPlan: () => void, 
+  navigate: any 
+}) {
+
+  if (!isOpen) return null;
+
+  return (
+    <div className="fixed inset-0 z-[120] bg-slate-900/40 backdrop-blur-sm flex items-center justify-center p-4">
+      <div className="bg-white border border-[#6c2dc7]/20 rounded-3xl shadow-2xl w-full max-w-md overflow-hidden animate-in zoom-in-95">
+        <div className="p-5 border-b border-slate-100 flex justify-between items-center bg-transparent">
+          <div className="flex items-center gap-2">
+            <h3 className="font-bold text-slate-900 text-lg tracking-tight">
+              Catch-Up (TaRL)
+            </h3>
+          </div>
+          <button onClick={onClose} className="text-slate-400 hover:text-slate-900 transition-colors">
+            <X size={20} />
+          </button>
+        </div>
+        
+        <div className="p-6 space-y-4">
+          <button 
+            onClick={() => {
+              onClose();
+              onSelectLessonPlan(); // Triggers the current Lesson Plan architecture
+            }}
+            className="w-full group flex items-center justify-between p-4 rounded-2xl border-2 border-slate-100 hover:border-[#6c2dc7] bg-white hover:bg-[#6c2dc7]/5 transition-all text-left"
+          >
+            <div className="flex items-center gap-4">
+              <div className="p-3 rounded-xl bg-[#6c2dc7]/10 text-[#6c2dc7] group-hover:bg-[#6c2dc7] group-hover:text-white transition-colors">
+                <BookOpen size={24} />
+              </div>
+              <div>
+                <h4 className="font-bold text-slate-900">Lesson Plans</h4>
+                <p className="text-sm text-slate-500">Generate interactive TaRL activities</p>
+              </div>
+            </div>
+            <ChevronRight className="text-slate-400 group-hover:text-[#6c2dc7]" />
+          </button>
+
+          <button 
+            onClick={() => {
+              onClose();
+              navigate('/catchup-copilot'); // Instantly route without secondary menu
+            }}
+            className="w-full group flex items-center justify-between p-4 rounded-2xl border-2 border-slate-100 hover:border-[#ffa500] bg-white hover:bg-[#ffa500]/5 transition-all text-left"
+          >
+            <div className="flex items-center gap-4">
+              <div className="p-3 rounded-xl bg-[#ffa500]/10 text-[#ffa500] group-hover:bg-[#ffa500] group-hover:text-white transition-colors">
+                <ClipboardList size={24} />
+              </div>
+              <div>
+                <h4 className="font-bold text-slate-900">Assessments</h4>
+                <p className="text-sm text-slate-500">Conduct Baseline, Midline, or Endline</p>
+              </div>
+            </div>
+            <ChevronRight className="text-slate-400 group-hover:text-[#ffa500]" />
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+/// ==============================================================================
 // 🏫 MAIN DASHBOARD COMPONENT
 // ==============================================================================
 export default function TeacherDashboard() {
@@ -231,8 +360,40 @@ export default function TeacherDashboard() {
 
   const currentUid = auth.currentUser?.uid;
 
-  const handleNavigateToSBA = () => {
+  // Track the restricted feature state to show the modal
+  const [restrictedFeature, setRestrictedFeature] = useState<string | null>(null);
+  
+  // 🆕 Track the Catch-Up Menu state
+  const [showCatchupMenu, setShowCatchupMenu] = useState(false);
+
+  // 🛡️ INTERCEPTOR: Checks permissions before navigating to SBA
+  const handleAttemptNavigateToSBA = () => {
+    if (!hasSchoolId) {
+      setRestrictedFeature('sba');
+      return;
+    }
     navigate('/teacher-sba', { state: { schoolId: localStorage.getItem('schoolId'), teacherId: localStorage.getItem('teacherDocId') } });
+  };
+
+  // 🛡️ INTERCEPTOR: Checks permissions before opening tool modals
+  const handleAttemptOpenModal = (toolType: string) => {
+    // List of premium school features
+    const schoolOnlyFeatures = ['catchup', 'report-cards', 'report_cards', 'attendance'];
+    
+    // 1. Check if the user is allowed
+    if (!hasSchoolId && schoolOnlyFeatures.includes(toolType)) {
+      setRestrictedFeature(toolType);
+      return;
+    }
+    
+    // 2. If it is catchup, open the new menu instead of directly opening the generation modal
+    if (toolType === 'catchup') {
+      setShowCatchupMenu(true);
+      return;
+    }
+    
+    // 3. Otherwise, proceed as normal
+    setActiveModal(toolType);
   };
 
   // When clicking the notification bell, filter to lessons and scroll down
@@ -254,6 +415,15 @@ export default function TeacherDashboard() {
   return (
     <div className="min-h-screen bg-[#f0fff0] text-slate-800 font-sans p-6 md:p-8 relative selection:bg-[#6c2dc7]/20 selection:text-[#6c2dc7]">
       <BestPracticesModal />
+      <RestrictedFeatureModal featureName={restrictedFeature} onClose={() => setRestrictedFeature(null)} />
+      
+      {/* 🆕 Add the Catch-Up Menu Modal here */}
+      <CatchUpMenuModal 
+        isOpen={showCatchupMenu} 
+        onClose={() => setShowCatchupMenu(false)}
+        onSelectLessonPlan={() => setActiveModal('catchup')} // This triggers your existing Catch-Up modal
+        navigate={navigate}
+      />
 
       {/* Loading Overlay */}
       {isGenerating && (
@@ -288,7 +458,12 @@ export default function TeacherDashboard() {
         <ProfileCompletionBanner />
         <PendingEvaluationsBanner />
           
-        <ToolsGrid onOpenModal={setActiveModal} hasSchoolId={hasSchoolId} onNavigateSBA={handleNavigateToSBA} />
+        {/* Pass the Interceptor functions instead of the raw functions */}
+        <ToolsGrid 
+          onOpenModal={handleAttemptOpenModal} 
+          hasSchoolId={hasSchoolId} 
+          onNavigateSBA={handleAttemptNavigateToSBA} 
+        />
 
         <div id="recent-generations-section">
           <RecentGenerations 

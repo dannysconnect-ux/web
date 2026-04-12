@@ -37,7 +37,7 @@ from api.school_routes import router as school_engine_router
 from api.sba import router as sba_router 
 from api.catch_up import router as catchup_router
 from services.notification_service import send_whatsapp_invite
-
+from copilot.routes.live_oral import router as live_oral_router
 # 👇 ADDED THIS: Import the Internal Command Center (Architect & Sales)
 from agent import router as internal_router 
 # Note: Ensure internal_api.py is saved inside your 'api' folder (or 'routes' folder, adjust import accordingly)
@@ -141,6 +141,11 @@ def get_subjects_for_grade(grade_input: str):
 class WelcomeRequest(BaseModel):
     email: str
     name: str
+app.include_router(live_oral_router)
+
+@app.get("/")
+async def root():
+    return {"message": "BooxClash Assessment API is running. ADK Agent is ready."}
 
 # === ☁️ ENDPOINT: CLOUDINARY UPLOAD ===
 @app.post("/api/upload")

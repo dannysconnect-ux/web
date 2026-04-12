@@ -1,0 +1,718 @@
+{
+    "assessment_system_name": "Educational Compliance and Assessment System",
+    "assessment_category_definitions": [
+        {
+            "id": "lang_beginner",
+            "name": "Beginner",
+            "category": "Local Language",
+            "description": "Local Language Beginner level proficiency.",
+            "data_type_student": "boolean",
+            "data_type_summary": "integer"
+        },
+        {
+            "id": "lang_letter",
+            "name": "Letter",
+            "category": "Local Language",
+            "description": "Local Language Letter recognition.",
+            "data_type_student": "boolean",
+            "data_type_summary": "integer"
+        },
+        {
+            "id": "lang_word",
+            "name": "Word",
+            "category": "Local Language",
+            "description": "Local Language Word recognition.",
+            "data_type_student": "boolean",
+            "data_type_summary": "integer"
+        },
+        {
+            "id": "lang_paragraph",
+            "name": "Paragraph",
+            "category": "Local Language",
+            "description": "Local Language Paragraph comprehension.",
+            "data_type_student": "boolean",
+            "data_type_summary": "integer"
+        },
+        {
+            "id": "lang_story",
+            "name": "Story",
+            "category": "Local Language",
+            "description": "Local Language Story comprehension.",
+            "data_type_student": "boolean",
+            "data_type_summary": "integer"
+        },
+        {
+            "id": "num_rec_beginner",
+            "name": "Beginner",
+            "category": "Number Recognition",
+            "description": "Number Recognition Beginner level.",
+            "data_type_student": "boolean",
+            "data_type_summary": "integer"
+        },
+        {
+            "id": "num_rec_1_digit",
+            "name": "1-digit recognition (1 to 9)",
+            "category": "Number Recognition",
+            "description": "Recognizes 1-digit numbers (1-9).",
+            "data_type_student": "boolean",
+            "data_type_summary": "integer"
+        },
+        {
+            "id": "num_rec_2_digit",
+            "name": "2-digit recognition (10-99)",
+            "category": "Number Recognition",
+            "description": "Recognizes 2-digit numbers (10-99).",
+            "data_type_student": "boolean",
+            "data_type_summary": "integer"
+        },
+        {
+            "id": "num_rec_3_digit",
+            "name": "3-digit recognition (100-999)",
+            "category": "Number Recognition",
+            "description": "Recognizes 3-digit numbers (100-999).",
+            "data_type_student": "boolean",
+            "data_type_summary": "integer"
+        },
+        {
+            "id": "num_rec_4_digit",
+            "name": "4-digit recognition (1000 to 9999)",
+            "category": "Number Recognition",
+            "description": "Recognizes 4-digit numbers (1000-9999).",
+            "data_type_student": "boolean",
+            "data_type_summary": "integer"
+        },
+        {
+            "id": "ops_cannot_add_sub",
+            "name": "Cannot do Add. Or Sub.",
+            "category": "Operations",
+            "description": "Cannot perform Addition or Subtraction.",
+            "data_type_student": "boolean",
+            "data_type_summary": "integer"
+        },
+        {
+            "id": "ops_can_add_not_sub",
+            "name": "Can do Add. But not Sub.",
+            "category": "Operations",
+            "description": "Can perform Addition but not Subtraction.",
+            "data_type_student": "boolean",
+            "data_type_summary": "integer"
+        },
+        {
+            "id": "ops_can_add_sub",
+            "name": "Can do Add. And Sub.",
+            "category": "Operations",
+            "description": "Can perform Addition and Subtraction.",
+            "data_type_student": "boolean",
+            "data_type_summary": "integer"
+        },
+        {
+            "id": "ops_cannot_mul_div",
+            "name": "Cannot do Mul. Or Div.",
+            "category": "Operations",
+            "description": "Cannot perform Multiplication or Division.",
+            "data_type_student": "boolean",
+            "data_type_summary": "integer"
+        },
+        {
+            "id": "ops_can_mul_not_div",
+            "name": "Can do Mul. But not Div.",
+            "category": "Operations",
+            "description": "Can perform Multiplication but not Division.",
+            "data_type_student": "boolean",
+            "data_type_summary": "integer"
+        },
+        {
+            "id": "ops_can_mul_div",
+            "name": "Can do Mul. And Div.",
+            "category": "Operations",
+            "description": "Can perform Multiplication and Division.",
+            "data_type_student": "boolean",
+            "data_type_summary": "integer"
+        }
+    ],
+    "document_types": [
+        {
+            "document_id": "grade_5_assessment_record_sheet",
+            "name": "Grade 5 Assessment Record Sheet for Teachers",
+            "description": "Individual student assessment record sheet for Grade 5, tracking progress across Baseline, Midline, and Endline cycles.",
+            "applies_to_grades": [
+                5
+            ],
+            "header_fields": [
+                {
+                    "field_name": "District",
+                    "type": "string"
+                },
+                {
+                    "field_name": "Zone",
+                    "type": "string"
+                },
+                {
+                    "field_name": "School",
+                    "type": "string"
+                },
+                {
+                    "field_name": "School EMIS no.",
+                    "type": "string"
+                },
+                {
+                    "field_name": "Teacher name",
+                    "type": "string"
+                },
+                {
+                    "field_name": "Grade",
+                    "type": "integer",
+                    "default_value": 5
+                }
+            ],
+            "record_structure": {
+                "type": "student_assessment",
+                "fields": [
+                    {
+                        "field_name": "Child Name",
+                        "type": "string"
+                    },
+                    {
+                        "field_name": "Gender",
+                        "type": "string",
+                        "options": [
+                            "Boy",
+                            "Girl"
+                        ]
+                    }
+                ],
+                "assessment_cycles": [
+                    {
+                        "cycle_name": "Baseline",
+                        "fields": [
+                            {
+                                "field_name": "Tool Sample No.",
+                                "type": "string"
+                            }
+                        ],
+                        "assessment_categories": [
+                            {
+                                "category_name": "Local Language",
+                                "sub_category_ids": [
+                                    "lang_beginner",
+                                    "lang_letter",
+                                    "lang_word",
+                                    "lang_paragraph",
+                                    "lang_story"
+                                ]
+                            },
+                            {
+                                "category_name": "Number Recognition",
+                                "sub_category_ids": [
+                                    "num_rec_beginner",
+                                    "num_rec_1_digit",
+                                    "num_rec_2_digit",
+                                    "num_rec_3_digit",
+                                    "num_rec_4_digit"
+                                ]
+                            },
+                            {
+                                "category_name": "Operations",
+                                "sub_category_ids": [
+                                    "ops_cannot_add_sub",
+                                    "ops_can_add_not_sub",
+                                    "ops_can_add_sub",
+                                    "ops_cannot_mul_div",
+                                    "ops_can_mul_not_div",
+                                    "ops_can_mul_div"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "cycle_name": "Midline",
+                        "fields": [
+                            {
+                                "field_name": "Tool Sample No.",
+                                "type": "string"
+                            }
+                        ],
+                        "assessment_categories": [
+                            {
+                                "category_name": "Local Language",
+                                "sub_category_ids": [
+                                    "lang_beginner",
+                                    "lang_letter",
+                                    "lang_word",
+                                    "lang_paragraph",
+                                    "lang_story"
+                                ]
+                            },
+                            {
+                                "category_name": "Number Recognition",
+                                "sub_category_ids": [
+                                    "num_rec_beginner",
+                                    "num_rec_1_digit",
+                                    "num_rec_2_digit",
+                                    "num_rec_3_digit",
+                                    "num_rec_4_digit"
+                                ]
+                            },
+                            {
+                                "category_name": "Operations",
+                                "sub_category_ids": [
+                                    "ops_cannot_add_sub",
+                                    "ops_can_add_not_sub",
+                                    "ops_can_add_sub",
+                                    "ops_cannot_mul_div",
+                                    "ops_can_mul_not_div",
+                                    "ops_can_mul_div"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "cycle_name": "Endline",
+                        "fields": [
+                            {
+                                "field_name": "Tool Sample No.",
+                                "type": "string"
+                            }
+                        ],
+                        "assessment_categories": [
+                            {
+                                "category_name": "Local Language",
+                                "sub_category_ids": [
+                                    "lang_beginner",
+                                    "lang_letter",
+                                    "lang_word",
+                                    "lang_paragraph",
+                                    "lang_story"
+                                ]
+                            },
+                            {
+                                "category_name": "Number Recognition",
+                                "sub_category_ids": [
+                                    "num_rec_beginner",
+                                    "num_rec_1_digit",
+                                    "num_rec_2_digit",
+                                    "num_rec_3_digit",
+                                    "num_rec_4_digit"
+                                ]
+                            },
+                            {
+                                "category_name": "Operations",
+                                "sub_category_ids": [
+                                    "ops_cannot_add_sub",
+                                    "ops_can_add_not_sub",
+                                    "ops_can_add_sub",
+                                    "ops_cannot_mul_div",
+                                    "ops_can_mul_not_div",
+                                    "ops_can_mul_div"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "document_id": "grade_3_5_school_summary_sheet",
+            "name": "Grade 3-5 School Summary Sheet",
+            "description": "School-level summary of assessment data for Grades 3, 4, and 5, including enrollment, testing, learning levels, and mentoring visits.",
+            "applies_to_grades": [
+                3,
+                4,
+                5
+            ],
+            "header_fields": [
+                {
+                    "field_name": "Province",
+                    "type": "string"
+                },
+                {
+                    "field_name": "District",
+                    "type": "string"
+                },
+                {
+                    "field_name": "Zone",
+                    "type": "string"
+                },
+                {
+                    "field_name": "School",
+                    "type": "string"
+                },
+                {
+                    "field_name": "School EMIS No",
+                    "type": "string"
+                }
+            ],
+            "record_structure": {
+                "type": "school_summary_by_grade",
+                "fields": [
+                    {
+                        "field_name": "Grade",
+                        "type": "integer"
+                    },
+                    {
+                        "field_name": "Teacher Name(s)",
+                        "type": "string"
+                    },
+                    {
+                        "field_name": "Teacher Phone Number(s)",
+                        "type": "string"
+                    },
+                    {
+                        "field_name": "Number of children enrolled",
+                        "type": "integer"
+                    },
+                    {
+                        "field_name": "Boys Tested",
+                        "type": "integer"
+                    },
+                    {
+                        "field_name": "Girls Tested",
+                        "type": "integer"
+                    },
+                    {
+                        "field_name": "Overall Number of children Tested",
+                        "type": "integer"
+                    }
+                ],
+                "assessment_cycles": [
+                    {
+                        "cycle_name": "BASELINE",
+                        "learning_levels_summary": {
+                            "categories": [
+                                {
+                                    "category_name": "Language",
+                                    "sub_categories": [
+                                        {
+                                            "name": "Beginner",
+                                            "ref_id": "lang_beginner",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Letter",
+                                            "ref_id": "lang_letter",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Word",
+                                            "ref_id": "lang_word",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Paragraph",
+                                            "ref_id": "lang_paragraph",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Story",
+                                            "ref_id": "lang_story",
+                                            "type": "integer"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "category_name": "Number Recognition",
+                                    "sub_categories": [
+                                        {
+                                            "name": "Beginner",
+                                            "ref_id": "num_rec_beginner",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "1-digit (1-9)",
+                                            "ref_id": "num_rec_1_digit",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "2-digit (10-99)",
+                                            "ref_id": "num_rec_2_digit",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "3-digit (100-999)",
+                                            "ref_id": "num_rec_3_digit",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "4-digit (1000-9999)",
+                                            "ref_id": "num_rec_4_digit",
+                                            "type": "integer"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "category_name": "Operations",
+                                    "sub_categories": [
+                                        {
+                                            "name": "Cannot Add and Sub",
+                                            "ref_id": "ops_cannot_add_sub",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Can do Add. But not Sub",
+                                            "ref_id": "ops_can_add_not_sub",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Can do Add. And Sub",
+                                            "ref_id": "ops_can_add_sub",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Cannot Mul and Div",
+                                            "ref_id": "ops_cannot_mul_div",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Can do Mul. But not Div",
+                                            "ref_id": "ops_can_mul_not_div",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Can do Mul. And Div",
+                                            "ref_id": "ops_can_mul_div",
+                                            "type": "integer"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "cycle_name": "MIDLINE",
+                        "learning_levels_summary": {
+                            "categories": [
+                                {
+                                    "category_name": "Language",
+                                    "sub_categories": [
+                                        {
+                                            "name": "Beginner",
+                                            "ref_id": "lang_beginner",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Letter",
+                                            "ref_id": "lang_letter",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Word",
+                                            "ref_id": "lang_word",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Paragraph",
+                                            "ref_id": "lang_paragraph",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Story",
+                                            "ref_id": "lang_story",
+                                            "type": "integer"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "category_name": "Number Recognition",
+                                    "sub_categories": [
+                                        {
+                                            "name": "Beginner",
+                                            "ref_id": "num_rec_beginner",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "1-digit (1-9)",
+                                            "ref_id": "num_rec_1_digit",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "2-digit (10-99)",
+                                            "ref_id": "num_rec_2_digit",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "3-digit (100-999)",
+                                            "ref_id": "num_rec_3_digit",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "4-digit (1000-9999)",
+                                            "ref_id": "num_rec_4_digit",
+                                            "type": "integer"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "category_name": "Operations",
+                                    "sub_categories": [
+                                        {
+                                            "name": "Cannot Add and Sub",
+                                            "ref_id": "ops_cannot_add_sub",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Can do Add. But not Sub",
+                                            "ref_id": "ops_can_add_not_sub",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Can do Add. And Sub",
+                                            "ref_id": "ops_can_add_sub",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Cannot Mul and Div",
+                                            "ref_id": "ops_cannot_mul_div",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Can do Mul. But not Div",
+                                            "ref_id": "ops_can_mul_not_div",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Can do Mul. And Div",
+                                            "ref_id": "ops_can_mul_div",
+                                            "type": "integer"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "cycle_name": "ENDLINE",
+                        "learning_levels_summary": {
+                            "categories": [
+                                {
+                                    "category_name": "Language",
+                                    "sub_categories": [
+                                        {
+                                            "name": "Beginner",
+                                            "ref_id": "lang_beginner",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Letter",
+                                            "ref_id": "lang_letter",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Word",
+                                            "ref_id": "lang_word",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Paragraph",
+                                            "ref_id": "lang_paragraph",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Story",
+                                            "ref_id": "lang_story",
+                                            "type": "integer"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "category_name": "Number Recognition",
+                                    "sub_categories": [
+                                        {
+                                            "name": "Beginner",
+                                            "ref_id": "num_rec_beginner",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "1-digit (1-9)",
+                                            "ref_id": "num_rec_1_digit",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "2-digit (10-99)",
+                                            "ref_id": "num_rec_2_digit",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "3-digit (100-999)",
+                                            "ref_id": "num_rec_3_digit",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "4-digit (1000-9999)",
+                                            "ref_id": "num_rec_4_digit",
+                                            "type": "integer"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "category_name": "Operations",
+                                    "sub_categories": [
+                                        {
+                                            "name": "Cannot Add and Sub",
+                                            "ref_id": "ops_cannot_add_sub",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Can do Add. But not Sub",
+                                            "ref_id": "ops_can_add_not_sub",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Can do Add. And Sub",
+                                            "ref_id": "ops_can_add_sub",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Cannot Mul and Div",
+                                            "ref_id": "ops_cannot_mul_div",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Can do Mul. But not Div",
+                                            "ref_id": "ops_can_mul_not_div",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "name": "Can do Mul. And Div",
+                                            "ref_id": "ops_can_mul_div",
+                                            "type": "integer"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "total_rows_description": "For each grade (3, 4, 5), there is a 'SCHOOL TOTAL' row that aggregates data for that grade across all teachers. The 'SCHOOL TOTAL' rows are repeated for each assessment cycle (BASELINE, MIDLINE, ENDLINE)."
+            },
+            "mentoring_visits": {
+                "field_name": "Number of visits by",
+                "sub_fields": [
+                    {
+                        "name": "Mentor",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "Head teacher/Deputy Headteacher",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "ZIC",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "DRCC/FRCC/Standards",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "VVOB",
+                        "type": "integer"
+                    }
+                ]
+            },
+            "catch_up_data": {
+                "field_name": "Total number of completed under Catch Up",
+                "type": "integer"
+            }
+        }
+    ]
+}
